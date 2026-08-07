@@ -1,0 +1,68 @@
+---
+title: "all_speaker_info"
+source_domain: amasci.com
+source_path: ~dalus/bmw/all/stereo/all_speaker_info.html
+order: 2225
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:08:41Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# all_speaker_info
+
+*Source page: `~dalus/bmw/all/stereo/all_speaker_info.html`*
+
+<span id="null">From digest.v5.n163 Thu Aug 29 13:19:02 1996</span>\
+From: Anthony Le \<anthony.le@wcom.com\>\
+Date: Thu, 29 Aug 1996 13:56:24 -0500\
+Subject: Re:Speakers of choice\
+
+\>\>\>\>\>\
+From: Bob Flowers \<bflowers@geoplex.com\> Date: Wed, 28 Aug 1996 20:20:58 -0700\
+Subject: Speakers of choice
+
+Stock speakers on my 90 325IC seem very poor. What would be the "speakers of choice" to replace them with, and is the stock radio OK, or that too, is it worth replacing. Factory system seems very poor.\<center\>\<bold\>\<bigger\>\<bigger\>Bob Flowers \<\<\<\<\<
+
+I'm a well balanced, clean, clear sound system kind of guy. Here's my ranking for good car audio speakers. Since my experience is limited to 4" drivers, I rank these on midrange & highs rather that bass & SPL. For bass, I have my SAS Bazokas.
+
+0\) Get separates with good (meaning separate RLC ckt type) crossovers!!! Coaxials just don't compare.
+
+1.  ADS -- These are good, but pricey. Well balanced, crisp, clean sounds. Good midrange. Just too expensive.
+2.  MB Quart -- As good as the ADS. I have these in my MR2. Clean & clear. Great midrange. They tend to sound a bit bright, but I like it. If you can, get the iron magnet tweezer rather than the neodyium (sp?) one. I think the iron magnet is much smoother & more detailed, whereas the the neodyium is harsh. I think voice reproduction on these speakers is unbelievably realistic. Violent Femmes sound like they're standing next to me.
+3.  Infinity Kappa Series -- The ribbon tweezers on this baby are something else. I think they're the same ones from Infinity's \$50K reference standard speakers. Good midrange. Great highs (only with the ribbon tweezers). Good value for the money.
+4.  Alpine -- Just a small (and I mean small) step up from your regular Sony, Pioneer, Kenwood stuff. They make great hardware, but speakers---they aren't that good. Midrange is so so. Highs suck! They are harsh, screetchy, and don't sound very good for the price you pay.
+5.  Top of the line Sony, Kenwood, Pioneer -- Just one word, ADEQUATE.
+
+Bass & image depends on the car's acoustic environment and installation job. So they vary too much. I evaluated (for a long time & using all my CDs) all these speakers at the dealer. But most important: buy what you like, not what others say. Cause it's you that listen to them everyday.
+
+------------------------------------------------------------------------
+
+anthony <span id="null">From digest.v5.n12 Mon Jul 22 11:53:25 1996</span>\
+From: fithian@epix.net (Ephraim Fithian)\
+Date: Mon, 22 Jul 1996 11:16:47 +0100\
+Subject: BETTER SPEAKERS FOR 93 325IS\
+
+PACODI@aol.com writes:
+
+\>If anyone has been successful in replacing the stock speakers in the 325is\
+\>93, please help. I would like to use the existing baffle to mount the new\
+\>speakers if possible. The problem is that the stock bass speaker measures\
+\>4.5 inches and the tweeter measures 1.75 inches.\
+\>The speakers are made by NOKIA.\
+\>I was hoping to install Boston Accoustics PRO 4.4 but this may require some\
+\>modifications in the baffle.\
+\>I also would like to replace the 5.25 inch bass speakers in the kick panel.
+
+MB Quart makes replacements for E36 speakers. If I ever get around to it and find the extra 5 bills, they go in my 92. The only literature I have I picked up in Munich. I would have bought them there, since the price is less and no tax, but they weren't in stock at the time.
+
+The parts numbers are QM 325.20 BMW E.36 for the 4 door and QM 325.21 BMW E.36 for the 2 door. The data given is (German is terrible for me but I think) 40-100 watts, 49-32kHz, 2.5 watts for 90 dB @ 1 m, crossover 250 and 4k, slope 12 dB/octave.
+
+Some high-end stereo stores carry them, perhaps even mail order. To find a dealer, write USA MB Quart Electronics, 25 Walpole Park South, Walpole, MA 02081, or call (508) 668-8973, or fax (508) 668-8979. They are planning a web site, which may or may not be up and running.
+
+Cost is \$569 list, net at my local dealer is \$469 + \$60 installation. (Palmer Audio, Whitehall, PA) The replacements are only the front speakers. Rear speakers are unchanged.
+
+Ephraim Fithian fithian@epix.net\
+http://www.kutztown.edu/~fithian/\
+92 E36 325i 5-speed 80k, 97 E39 528i 5-speed 1k. Previous 78 530i 5-speed 192k, 84 318i 5-speed 18k, 85 535i 5-speed 117k, 95 530i 5-speed 24k. BMWCCA 14040, NMA member, Macintosh user.

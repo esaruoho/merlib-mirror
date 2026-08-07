@@ -1,0 +1,346 @@
+---
+title: "Horizon Technology -- Chemical Resistance Chart"
+source_domain: amasci.com
+source_path: ~ghawk/h-o/chemchrt.htm
+order: 3377
+reachable_from_entry: false
+images: 2
+internal_links: 1
+extracted: 2026-08-07T17:10:01Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Horizon Technology -- Chemical Resistance Chart
+
+*Source page: `~ghawk/h-o/chemchrt.htm`*
+
+<u>CHEMICAL RESISTANCE CHART</u>
+
+(For Some Common Plastics vs. NaOH or KOH)
+
+\
+\
+
+\
+
+NaOH\
+(50% to Conc)
+
+KOH\
+(Conc)
+
+Max Use\
+Temp (C)
+
+Permeability\*
+
+Water\
+Absorption (%)\
+
+\
+
+20 °C
+
+50 °C
+
+20 °C
+
+50 °C
+
+\
+
+N2
+
+O2
+
+CO2
+
+\
+
+Low Density Polyethylene - LDPE
+
+G
+
+G
+
+E
+
+E
+
+80
+
+20
+
+60
+
+280
+
+\<0.01
+
+High Density Polyethylene - HDPE
+
+E
+
+E
+
+E
+
+E
+
+120
+
+3
+
+10
+
+45
+
+\<0.01
+
+Polypropylene - PP
+
+E
+
+E
+
+E
+
+E
+
+135
+
+4
+
+25
+
+90
+
+\<0.02
+
+Polyallomer - PA
+
+E
+
+E
+
+E
+
+E
+
+121
+
+6
+
+30
+
+100
+
+\<0.02
+
+Polycarbonate - PC
+
+E
+
+E
+
+N
+
+N
+
+135
+
+3
+
+20
+
+85
+
+0.35
+
+Polyvinyl Chloride - PVC
+
+N
+
+N
+
+E
+
+G
+
+70
+
+.5-2
+
+1-6
+
+10-35
+
+0.06
+
+Polysulfone - PSF
+
+E
+
+G
+
+E
+
+E
+
+165
+
+3
+
+15
+
+60
+
+0.30
+
+Polymethylpentene - PMP
+
+E
+
+E
+
+E
+
+E
+
+175
+
+65
+
+270
+
+--
+
+\<0.01
+
+Teflon - FEP
+
+E
+
+E
+
+E
+
+E
+
+205
+
+20
+
+60
+
+135
+
+\<0.01
+
+Teflon - PFA
+
+E
+
+E
+
+E
+
+E
+
+250
+
+--
+
+--
+
+--
+
+\<0.03
+
+Halar/Tefzel - ECTFE/ETFE
+
+E
+
+E
+
+E
+
+E
+
+150
+
+--
+
+--
+
+--
+
+\<0.1
+
+Polystyrene - PS
+
+E
+
+E
+
+G
+
+G
+
+--
+
+--
+
+--
+
+--
+
+--
+
+Polyvinylidene Fluoride - PVDF
+
+E
+
+G
+
+E
+
+G
+
+--
+
+--
+
+--
+
+--
+
+--
+
+\*Permeability Units: cc - mm / sec - cm² - cm Hg x 100\
+
+20 °C = 68 °F\
+50 °C = 122 °F\
+
+**KEY**:
+
+- **E** -- 30 days of constant exposure cause no damage. Plastic may even tolerate for years.\
+  **G** -- Little or no damage after 30 days of constant exposure to the reagent.\
+  **F** -- Some effect after 7 days of constant exposure to the reagent. None here.\
+  **N** -- Not recommended for continuous use. Immediate damage may occur. Depending on the plastic, the effect will be crazing, cracking, loss of strength, discoloration, deformation, dissolution, or permeation loss.
+
+Note: Polycarbonate (bullet-proof glass) does not hold up well to continuous contact with Hydrogen. Some water traps are made of polycarbonate.
+
+Do NOT necessarily trust this chart. Variables are such that compatibility tests should be run on any materials before use.
+
+\
+\
+*"Water contracts up to 3.98 °C and then expands from there. It is one of only a very few substances with a negative coefficient of volume expansion at some temperatures."*
+
+![](../images/colorbar.gif)
+
+#### Tomorrow's Technology Today
+
+\
+[ghawk@eskimo.com\
+<img src="../images/mailbox.gif" data-border="0" />](../email_h-o.htm)

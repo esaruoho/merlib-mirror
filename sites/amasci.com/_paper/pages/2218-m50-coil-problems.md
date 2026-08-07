@@ -1,0 +1,75 @@
+---
+title: "m50_coil_problems"
+source_domain: amasci.com
+source_path: ~dalus/bmw/all/engine/m50_coil_problems.html
+order: 2218
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:08:41Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# m50_coil_problems
+
+*Source page: `~dalus/bmw/all/engine/m50_coil_problems.html`*
+
+<span id="null">From digest.v7.n449 Thu Oct 16 06:40:18 1997</span>\
+From: FREDRIK.SETTERBERG@ucs-hq.unisource-ucs.com\
+Date: Thu, 16 Oct 1997 13:23:25 +0100\
+Subject: \<M50\> coil probs +ALLDATA\
+
+On Wed 15 Oct Michael Ottati wrote:\
+\>\
+\>Subject: M50 coil probs\
+\>\
+\>A while back there was a post about defective coils on 92ish M50\
+powered
+
+\>325's and 525's. I think i remember that bosch coils were good, some\
+other
+
+\>\
+
+\<snip\>\
+\>\
+\>BREMI; 1 730 756; another number 11 852A; and production 08/92\
+\>anyone know if these were of the problem coils. thanks in advance,\
+\>mike ottati
+
+...and Curt Allen wrote:\
+\>\
+\>Subject: ALLDATA warning\
+\>\
+
+\<snip\>\
+\>\
+\>I personally have no experience with ALLDATA one way or the other, and\
+\>certainly have no vendetta against them. Thought I'd pass along the\
+warning
+
+\>though. It would be interesting to know the consensus of you who have\
+used
+
+\>their info.\
+\>
+
+...and I answer:
+
+I bought the Alldata CD, and found it allright. Not perfect, but a good addition to a repair manual, considering the price.
+
+For instance, the coil stuff is included as a TSB. I copy this from a previous mail:
+
+The defective ones were manufactured until Jan 1991 by 'May und Christ' (but the manufacturers name is not printed on the top; only the word coil ("Zundspule").
+
+The fault was a break on the secondary side (towards the spark plug connector); green corrosion or broken plastic parts indicate the problem.
+
+rgds\
+Fredrik Setterberg\
+Zurich, 1991 525i
+
+------------------------------------------------------------------------
+
+SMTP: fredrik.setterberg@ucs-hq.unisource-ucs.com X.400: g=Fredrik ; s=Setterberg ; a=400net ; p=unisource-ucs ; o=ucs-hq
+
+------------------------------------------------------------------------

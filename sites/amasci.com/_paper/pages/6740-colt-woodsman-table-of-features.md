@@ -1,0 +1,191 @@
+---
+title: "Colt Woodsman Table of Features"
+source_domain: amasci.com
+source_path: ~rayburn/woodsman/tables.html
+order: 6740
+reachable_from_entry: false
+images: 2
+internal_links: 2
+extracted: 2026-08-07T17:14:07Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Colt Woodsman Table of Features
+
+*Source page: `~rayburn/woodsman/tables.html`*
+
+### TABLES OF FEATURES
+
+These are tabulations of consistent features. They are useful for determining that a particular type of barrel (for example) is the type that originally came within a particular serial number range, or that the stocks, sights, or markings are correct for the era and consistent with one another.
+
+**The serial numbers represent ranges only, because the guns were neither assembled nor shipped in numerical sequence.** Moreover, when a component was modified Colt usually continued to use old parts inventory, intermixed with the new, until stocks were exhausted. As a result, **changes were phased in over a period of time and a range of serial numbers,** sometimes extending over a serial number range of tens of thousands.
+
+<span id="FIRST"></span>
+
+## 1915-47: First Series Colt .22 Target Model: 6-5/8" Barrel
+
+Front sight adjustable for elevation, rear sight adjustable for windage.
+
+1915-1922\
+Lightweight "Pencil" Barrel\
+SN 1-31000\
+Year, Approx. SN, & Feature
+
+**1922-34\
+Medium Barrel\
+SN 31000-90000\
+Year, Approx. SN, & Feature**
+
+1934-47\
+Straight Tapered Barrel\
+SN 90000-187423\
+Year, Approx. SN, & Feature
+
+- 1915, from SN 1:
+  - No Woodsman Markings
+  - Checkered pattern MS housing.
+  - Diamond pattern at grip ferrule.
+  - Bead sight standard (sq. available)
+  - Smooth trigger, centered in TG.
+  - 1903 pat. date only, top of barrel.
+  - Rampant Colt aft of slide serrations.
+- 1919, from 7500: 1918 patent dates added at top of barrel.
+- 1920, from 14000: Rampant Colt moved forward of slide serrations.
+
+<!-- -->
+
+- 1923, from 35000: Grip ferrule diamond removed from grip checkering pattern.
+- 1927, from 54000: THE WOODSMAN on left side of receiver until after WWII.
+- 1930, from 70000: Square sight standard.
+- 1930, from 71000: Trigger grooved, curved to rear of trigger guard.
+- 1930, from 75000: 3/8" rear sight dovetail.
+- 1932, 81000 to 86000: Phase in heat treated mainspring housing for high velocity ammunition. Grooved pattern for identification.
+
+<!-- -->
+
+- The straight tapered barrel was phased in at about SN 90000, just after the Sport model was added to the line. There were no more significant changes to the Target Model until after WWII.
+- 1946, from 157038: All civilian production stopped during WWII. After the war a few thousand guns were assembled from leftover prewar parts. The Postwar-Prewar guns often were a mix of prewar and postwar type markings and finish. Most had plastic stocks left over from the Match Target military contract, while some had standard checkered walnut stocks.
+
+## First Series Colt Woodsman Sport and Match Target Models
+
+**Model**
+
+**SPORT MODEL (4-1/2 inch barrel)**\
+86000 - 187423 (1933-47)
+
+**MATCH TARGET "BULLSEYE" MODEL**\
+MT1 - MT16611 (1938-44)
+
+**Barrel**
+
+4-1/2 inch. Colt markings and patent dates on side of barrel. Early Sports had medium weight barrel.
+
+6-5/8 inch flat sided barrel, Bullseye on left side, patent dates on top to about MT2000, then PAT DES 110887 thereafter.
+
+**Sights**
+
+- Front: fixed ramp, "half moon" on very early only. Adjustable available from 1938.
+- Rear: Windage adjustable.
+
+<!-- -->
+
+- Front: fixed
+- Rear: Stevens, fully adjustable.
+
+**Grips**
+
+Walnut before WWII. During the Post-war/Pre-war parts clean up of 1946-47, plastic grips left over from the Match Target military contract were used, as well as standard checkered walnut.
+
+"Elephant Ear" walnut standard. Small number had regular Woodsman stocks. Plastic stocks used on WWII military contracts.
+
+<span id="SECOND"></span>
+
+## 1947-55: Second Series Colt Woodsman Sport, Target, and Match Target Models
+
+**Model**
+
+TARGET (6 inch barrel), SPORT (4-1/2 inch barrel), MATCH TARGET (6 inch barrel, 4-1/2 inch from 1950)
+
+**Sights**
+
+Accro replaced Coltmaster in 1953; both types used from 118000-S to 130000-S. Sport Only: fixed sights from mid-1949 to mid-1950.
+
+**Grips**
+
+Coltswood 1947-50 (to 71200-S), injection molded 1950-55. Initially wood grain color, later brown.
+
+**Other Features**
+
+Thumb button magazine release, small trigger guard, lanyard ring in butt, grip adapter screw near base of mainspring housing, COLT'S MFG. CO. on barrel, magazine safety.
+
+## 1950-55: Challenger (Second Series Only)
+
+**Barrel**
+
+4-1/2 or 6 inch, non-tapered.
+
+**Sights**
+
+Fixed sights only.
+
+**Grips**
+
+Some wood grain plastic in early models, brown plastic later. No thumbrest.
+
+**Other Features**
+
+Butt clip release, smaller trigger guard than third series, grooved trigger. No automatic slide stop, no lanyard ring, no grip adapters, and no magazine safety.
+
+<span id="THIRD"></span>
+
+## 1955-77: Third Series Colt Woodsman Sport, Target, and Match Target Models
+
+**Model**
+
+**TARGET MODEL (6 inch barrel) and SPORT MODEL (4-1/2 inch barrel)**\
+
+**MATCH TARGET MODEL (4-1/2 or 6 inch barrel)**\
+
+**Sights**
+
+Accro
+
+Accro to 208300-S, Eliason thereafter.
+
+**Grips**
+
+Injection molded black plastic to 1960 (approximate serial number 189200-S), walnut thereafter.
+
+**Other Features**
+
+Butt magazine release, larger trigger guard, no lanyard ring or grip adapter, non-grooved trigger, COLT'S PT. F. A. MFG. CO. on barrel again from 1956 on. Magazine safety dropped in 1956.
+
+## 1955-77: Third Series: Colt Huntsman and Targetsman Models
+
+**Model**
+
+**HUNTSMAN (1955-77)**\
+
+**TARGETSMAN (1959-77)**\
+
+**Barrel**
+
+4-1/2 or 6 inch, non-tapered
+
+6 inch, non-tapered
+
+**Grips**
+
+Injection molded black plastic to 1960 (approximate serial number 141094-C), walnut thereafter. No thumbrest.
+
+Injection molded black plastic to 1960 (approximate serial number 141094-C), walnut thereafter. With thumbrest.
+
+**Other Features**
+
+Butt clip release, larger trigger guard than second series, smooth trigger. No automatic slide stop, no lanyard ring, no grip adapters, and no magazine safety.
+
+------------------------------------------------------------------------
+
+[<img src="backward.gif" data-align="LEFT" alt="&lt; Previous" />](value_condition.html)
+
+<img src="next.gif" data-align="RIGHT" data-border="0" width="87" height="37" alt="Next &gt;" />

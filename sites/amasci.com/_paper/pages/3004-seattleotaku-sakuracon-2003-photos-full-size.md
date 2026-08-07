@@ -1,18 +1,18 @@
 ---
 title: "SeattleOtaku: SakuraCon 2003 Photos (Full-Size)"
 source_domain: amasci.com
-source_path: ~ericj/cons/sakura2003/detail011.htm
+source_path: ~ericj/cons/sakura2003/detail003.htm
 order: 3004
 reachable_from_entry: false
 images: 6
 internal_links: 2
-extracted: 2026-08-07T05:56:29Z
+extracted: 2026-08-07T17:09:35Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # SeattleOtaku: SakuraCon 2003 Photos (Full-Size)
 
-*Source page: `~ericj/cons/sakura2003/detail011.htm`*
+*Source page: `~ericj/cons/sakura2003/detail003.htm`*
 
 ![SeattleOtaku](http://seattleotaku.com/img/seattleotaku.jpg)\
 **[Home](http://seattleotaku.com/)**   **[Reviews](http://seattleotaku.com/reviews/)**   **[Seiyuu/Actors](http://seattleotaku.com/seiyuu/)**   **[Clubs](http://seattleotaku.com/clubs/)**   **[Conventions](http://seattleotaku.com/cons/)**   **[Shopping](http://seattleotaku.com/shopping/)**   **[LiveJournal](http://www.livejournal.com/users/seattleotaku/)**   **[About Me](http://www.eskimo.com/~ericj/personal/)**
@@ -26,16 +26,17 @@ extractor: site_to_paper.py (pandoc)
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align: left;"><a href="detail010.htm">&lt;-- Previous</a></td>
-<td style="text-align: right;"><a href="detail012.htm">Next --&gt;</a></td>
+<td style="text-align: left;"><a href="detail002.htm">&lt;-- Previous</a></td>
+<td style="text-align: right;"><a href="detail004.htm">Next --&gt;</a></td>
 </tr>
 <tr>
-<td colspan="2" style="text-align: center;"><img src="photos/hallfighter.jpg" width="640" height="480" alt="hallfighter.jpg" /><br />
-&#10;<p>Three characters from <strong>Street Fighter</strong> strike a pose in the entrance hall; that's Chris as Akuma in the middle.</p></td>
+<td colspan="2" style="text-align: center;"><img src="photos/digibelldandy.jpg" width="640" height="480" alt="digibelldandy.jpg" /><br />
+&#10;<p>The main character in <strong>Digi Charat</strong> and her friend dressed as<br />
+the ever-popular Belldandy from <strong>Aa! Megami-sama</strong> (<strong>Ah! My Goddess</strong>).</p></td>
 </tr>
 <tr>
-<td style="text-align: left;"><a href="detail010.htm">&lt;-- Previous</a></td>
-<td style="text-align: right;"><a href="detail012.htm">Next --&gt;</a></td>
+<td style="text-align: left;"><a href="detail002.htm">&lt;-- Previous</a></td>
+<td style="text-align: right;"><a href="detail004.htm">Next --&gt;</a></td>
 </tr>
 </tbody>
 </table>

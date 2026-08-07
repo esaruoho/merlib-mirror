@@ -1,18 +1,18 @@
 ---
 title: "SeattleOtaku: SakuraCon 2003 Photos (Full-Size)"
 source_domain: amasci.com
-source_path: ~ericj/cons/sakura2003/detail009.htm
+source_path: ~ericj/cons/sakura2003/detail001.htm
 order: 3002
 reachable_from_entry: false
 images: 6
-internal_links: 2
-extracted: 2026-08-07T05:56:29Z
+internal_links: 1
+extracted: 2026-08-07T17:09:35Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # SeattleOtaku: SakuraCon 2003 Photos (Full-Size)
 
-*Source page: `~ericj/cons/sakura2003/detail009.htm`*
+*Source page: `~ericj/cons/sakura2003/detail001.htm`*
 
 ![SeattleOtaku](http://seattleotaku.com/img/seattleotaku.jpg)\
 **[Home](http://seattleotaku.com/)**   **[Reviews](http://seattleotaku.com/reviews/)**   **[Seiyuu/Actors](http://seattleotaku.com/seiyuu/)**   **[Clubs](http://seattleotaku.com/clubs/)**   **[Conventions](http://seattleotaku.com/cons/)**   **[Shopping](http://seattleotaku.com/shopping/)**   **[LiveJournal](http://www.livejournal.com/users/seattleotaku/)**   **[About Me](http://www.eskimo.com/~ericj/personal/)**
@@ -26,17 +26,18 @@ extractor: site_to_paper.py (pandoc)
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align: left;"><a href="detail008.htm">&lt;-- Previous</a></td>
-<td style="text-align: right;"><a href="detail010.htm">Next --&gt;</a></td>
+<td style="text-align: left;"> </td>
+<td style="text-align: right;"><a href="detail002.htm">Next --&gt;</a></td>
 </tr>
 <tr>
-<td colspan="2" style="text-align: center;"><img src="photos/kupo.jpg" width="640" height="480" alt="kupo.jpg" /><br />
-&#10;<p>Moogle from the <strong>Final Fantasy</strong> game series;<br />
-the FF-IX version, since the other side of the sign read, "Save?".</p></td>
+<td colspan="2" style="text-align: center;"><img src="photos/alita.jpg" width="640" height="480" alt="alita.jpg" /><br />
+&#10;<p>Saxy as Gally/Alita from the manga and anime <strong>Gunnm</strong> (<strong>Battle Angel Alita</strong> here in the US); great sword, too.<br />
+(Insert favorite pun about an Alita Complex.)</p>
+<p>...and Dave Monk from <a href="http://www.monkuniverse.com/">monkuniverse</a> on the left.</p></td>
 </tr>
 <tr>
-<td style="text-align: left;"><a href="detail008.htm">&lt;-- Previous</a></td>
-<td style="text-align: right;"><a href="detail010.htm">Next --&gt;</a></td>
+<td style="text-align: left;"> </td>
+<td style="text-align: right;"><a href="detail002.htm">Next --&gt;</a></td>
 </tr>
 </tbody>
 </table>

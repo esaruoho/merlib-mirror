@@ -1,0 +1,81 @@
+---
+title: "Generic vase link page"
+source_domain: amasci.com
+source_path: ~ralphj/xva10.html
+order: 6377
+reachable_from_entry: false
+images: 1
+internal_links: 2
+extracted: 2026-08-07T17:13:35Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Generic vase link page
+
+*Source page: `~ralphj/xva10.html`*
+
+<table data-cellpadding="2" data-cellspacing="2" data-border="1" style="width: 100%; background-color: fuchsia; text-align: left;">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: middle; background-color: rgb(0, 0, 0); width: 25%;">Cleveland glass vase deep green .<br />
+</td>
+</tr>
+</tbody>
+</table>
+
+\
+
+<div style="text-align: center;" align="center">
+
+** \
+[<img src="xva10.jpg" data-border="0" width="280" height="576" alt="Deep green cleveland vase" />](xva10.html)\**
+
+</div>
+
+<div align="center">
+
+**<span style="color: rgb(255, 255, 255);">This is such a quality vase because of it's different green color.  The glass is very heavy.\
+~~\$10.00\~~
+\$6.00\
+See my other stuff.\
+</span><span style="color: rgb(255, 255, 255);"><span style="color: rgb(255, 255, 0);"></span></span>**
+
+</div>
+
+<div style="text-align: center;">
+
+Go to ... Collectable ceramics Lots of glass My estate sale. Afghan Lapis and Jade All wool kilims Baskets Books Bone China Silverware Dolls Embroidered Purses German Art Jewelry Old time stars Antiques and Old things The Millennium Paintings and art pictures Fountain Pens Pictures Round Afghan Pillows Wool, Silk Afghan Rugs Swing Era History Scofield
+
+<table data-cellpadding="2" data-cellspacing="2" data-border="1" style="text-align: left; width: 25%; margin-left: auto; margin-right: auto;">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: middle; background-color: rgb(255, 255, 153);"><a href="mailto:ralphj@eskimo.com">Email for more information</a><br />
+</td>
+</tr>
+</tbody>
+</table>
+
+\
+
+|                                  |
+|:--------------------------------:|
+| [Return to top](artobjects.html) |
+
+ \
+\
+\
+
+</div>
+
+\
+\
+ \
+\
+\
+\

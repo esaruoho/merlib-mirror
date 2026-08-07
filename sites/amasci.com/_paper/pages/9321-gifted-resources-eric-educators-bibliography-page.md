@@ -1,0 +1,108 @@
+---
+title: "Gifted Resources ERIC Educators Bibliography Page"
+source_domain: amasci.com
+source_path: ~user/zbib1.html
+order: 9321
+reachable_from_entry: false
+images: 7
+internal_links: 1
+extracted: 2026-08-07T17:17:21Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Gifted Resources ERIC Educators Bibliography Page
+
+*Source page: `~user/zbib1.html`*
+
+# Bibliography for Educators
+
+## an ERIC mini-bibliography
+
+**BIBLIOGRAPHY FOR EDUCATORS (1994) Social Emotional Needs of Gifted Children**
+
+Compiled by Sandra Berger, reprinted with permission.
+
+- Adderholt-Elliot, M.(1987). Perfectionism: What's bad about being too good? Minneapolis: Free Spirit Publishing.
+- Amabile, T. M. (1989). Growing up creative: Nurturing a lifetime of creativity. New York: Crown.
+- Austin, A. B., & Draper, D. C. (1981). Peer relationships of the academically gifted: A review. Gifted Child Quarterly, 25. 129-133.
+- Baum, S. M., Owen, S. V., Dixon, J. P. (1991). To be gifted and learning disabled: From identification to practical intervention strategies. Mansfield Center, CT: Creative learning Press.
+- Betts, G. T., & Neihart, M. (1985). Eight effective activities to enhance the emotional and social development of the gifted and talented. Roeper Review, 8, 18-23.
+- Berger, S. (1994). College Planning for Gifted Students (2nd ed.). Reston, VA: The Council for Exceptional Children.
+- Blackburn, A. C., & Erickson, D. B. (1986). Predictable crises of the gifted student. Journal of Counseling and Development, 64, 552-555.
+- Colangelo, N. (1991). Counseling gifted students. In N. Colangelo & G. A. Davis (Eds.), Handbook of gifted education (pp.273-284). Needham Heights, MA: Allyn & Bacon.
+- Colangelo, N., & David, G. A. (1991). A handbook of gifted education. Needham Heights, MA: Allyn & Bacon.
+- Colangelo, N. (1985). Counseling needs of culturally diverse gifted students. Roeper Review, 8, 33-35.
+- Cummings, R., & Fisher, G. (1991). The school survival guide for kids with LD (learning differences). Minneapolis: Free Spirit Publishing.
+- Delisle, J. R. (1992). Guiding the social and emotional development of the gifted and talented. Englewood Cliffs, NJ: Prentice-Hall, Inc.
+- Frasier, M. (1981). Minority gifted children. In B. S. Miller & M. Price, (Eds.). The gifted child, the family and the community. New York: American Association for Gifted Children.
+- Gardener, H. (1983). Frames of mind: The theory of multiple intelligences. New York: Basic Books.
+- Gazda, G. M. (1989). Group counseling: A developmental approach (3rd ed.). Pacific Grove, CA: Brooks/Cole.
+- Gross, M. U. M. (1989). The pursuit of excellence or the search for intimacy? The forced-choice dilemma of gifted youth. Roeper Review, 11, 189-193.
+- Halsted, J. W. (1988). Guiding gifted readers from preschool to high school: A guide for parents , teachers, librarians and counselors. Dayton, OH: Ohio Psychology Publishing.
+- Hipp, E. (1987). Fighting invisible tigers: A student guide to life in "the jungle". Minneapolis: Free Spirit Publishing.
+- Kerr, B. (1991). A handbook for counseling the gifted and talented. Alexandria, VA: American Association for Counseling and Development.
+- Kerr, B. A. (1985). Smart girls, gifted women. Columbus, OH: Ohio Psychology Publishing.
+- Kerr, B., Colangelo, N., & Gaeth, J. (1988). Gifted adolescents' attitudes toward their giftedness. Gifted Child Quarterly, 32(2), 245-247.
+- Reilly, J. M. (1992). Mentorship: The Essential Guide for Schools and Business. Dayton, OH: Ohio Psychology Press.
+- Rimm, S. (1985, November-December). Identifying underachievement: The characteristics approach. Gifted Child Today. 2-5.
+- Schmitz, C. C., & Galbraith, J. (1985). Managing the social and emotional needs of the gifted. Minneapolis: Free Spirit Publishing.
+- Sternberg, R. (1986). Intelligence applied: Understanding and increasing your intellectual skills. Fort Worth, TX: Harcourt, Brace, Jovanovich College Publishers.
+- VanTassel-Baska, J., (Ed.).(1989). A practical guide to counseling the gifted in a school setting. Reston, VA: Council for Exceptional Children.
+- VanTassel-Baska, J. L., & Olszewski-Kubilius, P. (1989). Patterns of influence on gifted learners: The home, the self, the school. New York: Teachers College Press.
+- Watts, J. (1990). In search of perspective. Dayton, OH: Ohio Psychology Publishing.
+- Webb, J. T., Meckstroth, E. A., & Tolan, S. S. (1982). Guiding the gifted child. Columbus, OH: Ohio Psychology Publishing.
+- Whitmore, J. R., & Maker, C. J. (1985). Intellectual giftedness in disabled persons.vRockville, MD: Aspen Publications.
+
+Publications listed in this minibibliography are available from their publishers.
+
+This publication was prepared with funding from the Office of Educational Research and Improvement, U.S. Department of Education, under contract no. RR93002005. The opinions expressed in this report do not necessarily reflect the positions or policies of OERI or the Department of Education.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+[![\[HOME\] ](home.gif)](kids.html) [Return to Gifted Resources Main Page](kids.html)
+
+------------------------------------------------------------------------
+
+If your browser supports mailto, you can click here to send me a comment. [Send mail to user@eskimo.com](mailto:user@eskimo.com)
+
+Otherwise, please send your comments by email to: *user@eskimo.com*
+
+------------------------------------------------------------------------
+
+This page updated by automatic build: 23-May-2000 (build 53) -- [Gifted Resources Home Page](http://www.eskimo.com/~user/kids.html)
+
+------------------------------------------------------------------------
+
+2000 Bruce User. All Rights Reserved. Information in this document is subject to change without notice.
+
+------------------------------------------------------------------------
+
+<a href="http://ad-adex7.flycast.com/server/click/ComprehensiveGiftedResourcesSite/runofsite/123456" target="_top"><img src="http://ad-adex7.flycast.com/server/img/ComprehensiveGiftedResourcesSite/runofsite/123456" data-border="0" width="468" height="60" /></a>
+
+------------------------------------------------------------------------
+
+Have you tried
+
+[Shopping](http://valet.flycast.com/valet/cpcinfo/ca0433/?123456)
+
+at Valet?
+
+<img src="shopping.gif" width="144" height="49" alt="shopping" />
+
+------------------------------------------------------------------------
+
+Or you can search the web: <img src="http://service.bfast.com/bfast/serve?bfmid=27253343&amp;siteid=27885524&amp;bfpage=horizontal" data-border="0" data-nosave="" width="1" height="1" />
+
+|  |
+|----|
+| <img src="http://www.google.com/images/cleardot.gif" data-border="0" height="1" alt="Google" /> |
+| <img src="http://www.google.com/affiliates/affiliate_logo.gif" data-border="0" data-align="center" alt="Google" /> |
+| <img src="http://www.google.com/images/cleardot.gif" data-border="0" height="1" alt="Google" /> |
+
+------------------------------------------------------------------------
+
+[![\[HOME\] ](home.gif)](kids.html) [Return to Gifted Resources Main Page](kids.html)
+
+------------------------------------------------------------------------

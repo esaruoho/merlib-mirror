@@ -5,8 +5,8 @@ source_path: ~bpentium/address.html
 order: 1620
 reachable_from_entry: false
 images: 1
-internal_links: 4
-extracted: 2026-08-07T05:55:18Z
+internal_links: 5
+extracted: 2026-08-07T17:07:56Z
 extractor: site_to_paper.py (pandoc)
 ---
 

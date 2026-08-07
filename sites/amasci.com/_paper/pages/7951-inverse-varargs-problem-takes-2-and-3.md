@@ -1,0 +1,138 @@
+---
+title: "'inverse varargs problem', takes 2 and 3"
+source_domain: amasci.com
+source_path: ~scs/C-faq/varargs/invvarargs.19920714.html
+order: 7951
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:35Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# "inverse varargs problem", takes 2 and 3
+
+*Source page: `~scs/C-faq/varargs/invvarargs.19920714.html`*
+
+\[This article was originally posted on July 14, 1992. I have edited the text slightly for this web page.\]
+
+Newsgroups: comp.lang.c\
+From: scs@adam.mit.edu (Steve Summit)\
+Subject: Re: varargs fn calling varargs fn?\
+Message-ID: \<1992Jul14.214625.15684@athena.mit.edu\>\
+References: \<1992Jul9.171606.24625@shearson.com\> \<1992Jul10.015616.12264@infodev.cam.ac.uk\>\
+Date: Tue, 14 Jul 1992 21:46:25 GMT
+
+In article \<1992Jul9.171606.24625@shearson.com\>, Frank Greco (fgreco@shearson.com) writes:\
+\> Does anyone have any examples of a C function that uses varargs\
+\> that calls another C function that uses the same args?\
+\> ...\
+\> The man page for varargs(3) sez:\
+\>\
+\> The argument list (or its remainder) can be passed to\
+\> another function using a pointer to a variable of type\
+\> va_list()...\
+\>\
+\> What do they mean "pointer to a variable of type va_list()? I've tried\
+\> several combinations and bus-erroring away...
+
+And in article \<1992Jul10.015616.12264@infodev.cam.ac.uk\>, Colin Bell (crb11@cus.cam.ac.uk) writes:\
+\> I've solved this one, but have a related one of my own. I have a function which handles\
+\> message handling for a system: ie takes a list of arguments as one would send to\
+\> fprintf prefixed by two or three telling the function what to do with the resulting\
+\> string. What I would like to do is strip these arguments off the front and then pass\
+\> the entire remainder to sprintf, and deal with the resulting string.
+
+Preliminary answers to both of these questions can be found in the [comp.lang.c frequently-asked questions (FAQ) list](http://www.eskimo.com/~scs/C-faq/top.html):
+
+> 6.2:
+>
+> How can I write a function that takes a format string and a variable number of arguments, like `printf`, and passes them to `printf` to do most of the work?
+>
+> A:
+>
+> Use `vprintf`, `vfprintf`, or `vsprintf`.
+>
+> Here is an "`error`" routine which prints an error message, preceded by the string "error: " and terminated with a newline:
+>
+> \[sample code deleted\]
+>
+> References: K&R II Sec. 8.3 p. 174, Sec. B1.2 p. 245; H&S Sec. 17.12 p. 337; ANSI Secs. 4.9.6.7, 4.9.6.8, 4.9.6.9 .
+>
+> [\[current version of this question, now numbered 15.5\]](/~scs/C-faq/q15.5.html)
+>
+> 6.4:
+>
+> How can I write a function which takes a variable number of arguments and passes them to some other function (which takes a variable number of arguments)?
+>
+> A:
+>
+> In general, you cannot. You must provide a version of that other function which accepts a `va_list` pointer, as does `vfprintf` in the example above. If the arguments must be passed directly as actual arguments (not indirectly through a `va_list` pointer) to another function which is itself variadic (for which you do not have the option of creating an alternate, `va_list`-accepting version) no portable solution is possible. (The problem can be solved by resorting to machine-specific assembly language.)
+>
+> [\[current version of this question, now numbered 15.12\]](/~scs/C-faq/q15.12.html)
+
+Now, more could of course be said about these issues. In the case of accepting a format string and some variable arguments and some other arguments, passing the format string and the variable arguments to `vsprintf`, and then doing something with the string produced by `vsprintf` and the other arguments, there is a real problem in that an appropriate or guaranteed-adequate size for `vsprintf`'s return buffer cannot readily be determined. (How to attempt to do so is itself a frequently-asked question which the FAQ list should probably address [\[and now does\]](/~scs/C-faq/q12.21.html). I'll say no more about it today, except to lament the fact that there is unfortunately no good, portable solution.)
+
+Frank Greco asked, "What do they mean \`pointer to a variable of type `va_list()`'?". There's apparently a typo in his manual, but the issue of variable-length argument lists versus "pointers" to same is a potentially confusing one. Here is how I think about them, extracted from an e-mail discussion I had last Spring with someone about question 6.4 in the FAQ list:
+
+\*       \*       \*
+
+...one often speaks of "the variable-length part of a variable-length argument list," which is kind of a silly mouthful, but it is often important to distinguish the variable-length part from the fixed part, which in ANSI C must always exist. (For example, `printf` always takes one `char *` argument -- the "fixed" part -- followed by 0 or more arguments of arbitrary types.)
+
+\*       \*       \*
+
+\[Passing a `va_list` pointer along to another routine\] is the preferred way of doing things, but note that a function that accepts a single `va_list` pointer is not at all variadic. (As far as C is concerned, it accepts exactly one argument.)
+
+This is the solution alluded to by the (admittedly rather opaque) FAQ list wording
+
+> You must provide a version of that other function which accepts a `va_list` pointer, as does `vfprintf` in the example above.
+
+That is, the answer to the question "Can I write a `debug_printf()` in terms of `printf()`?" is "No." `printf()` is variadic, but `vprintf` et al take `va_list` pointers, so you *can* write a `debug_printf()` in terms of one of them.
+
+\*       \*       \*
+
+"Variadic" means (at least as I use it) very specifically that a subroutine, as the C compiler sees it, accepts a variable number of formal parameters. (Sometimes the term "formal parameter" is used when we must distinguish very carefully between the generic things a subroutine is set up to receive and the "actual arguments" which are passed to it by a specific subroutine call.)
+
+It is fairly easy to prove that one cannot call a variadic function with an argument list which varies at run time (which is what you need to do if you're going to use the variable-length argument list that another variadic function has just received). The only way that a C compiler will generate a subroutine call is when you write an expression of the form
+
+> *function* `(` *argument-list* `)`
+
+where *function* is an expression which evaluates to a function (either the name of a function, or the "contents" of a pointer- to-function), and *argument-list* is a list of 0 or more comma- separated expressions. Obviously, since they appear in the source code, there must be a fixed number of arguments (in any one call).
+
+\*       \*       \*
+
+\[When a variadic function tries to pass the variable arguments along to another, it\] doesn't matter whether or not the first function does any additional "processing" or not, and it doesn't matter whether the second function uses `stdarg.h` or not (there are other, less portable methods of accessing variable-length argument lists, and the second function might not even be written in C). The essential question is whether a variadic function can call another variadic function (with the strict interpretation of "variadic" which I use), passing to the second function the (indeterminate number of) arguments which it receives (at run-time) in a particular call. \[Once again, the answer is that it cannot.\]
+
+If and when I fix up this question, I'm going to introduce the following explanation, which should help to clarify things in your mind if they're not clear already.
+
+> Just as we can use both integers and pointers-to-integers in C, there are also two ways of manipulating variable- length argument lists. A function such as `printf` accepts a variable-length argument list -- we cannot see exactly how many arguments `printf` will be called with. However, we can also conceive of a "pointer to a variable-length argument list," and this is exactly what a `va_list` is.
+>
+> When one is dealing with pointers, one has to be very careful to distinguish between the pointer and the thing pointed to. It is invariably incorrect to attempt to use a pointer value when one intends to use the value pointed to. Explicit syntax, e.g. the unary `*` operator, is used to dereference a pointer, i.e. to access the value pointed to.
+>
+> It is similarly meaningless and/or impossible to use a pointer to a variable-length argument list in place of an actual variable-length argument list, or vice versa. \[For example, you cannot pass a `va_list` to `printf`, nor can you call `vprintf` with a variable number of arguments.\]
+>
+> Now, it happens that in C we as programmers do not have as much control over, and freedom with respect to, variable-length argument lists (or fixed-length argument lists, for that matter). In particular, we cannot create a variable-length argument list, nor can we pick an argument out of a variable-length argument list.
+>
+> (We can do only a little bit more with fixed-length argument lists. We can "create" a fixed-length argument list only by writing a subroutine-call expression in a piece of source code, and we can pick an argument out of a fixed-length argument list only by naming it, in the context of a subroutine definition, and referring to it by name.)
+>
+> The only thing we, as programmers, can do with variable-length argument lists are:
+>
+> 1.  Given a variable-length argument list, generate a pointer to it, using the `va_start` macro. (Under this analysis, `va_start` is analogous to the unary `&` operator.)
+> 2.  Given a pointer to a variable-length argument list, (i.e. a `va_list`), pick an argument (of a particular type) out of it.
+>
+> However, we *can* manipulate a `va_list` (a pointer to a variable-length argument list) with almost as much freedom as we manipulate other objects in C. In particular, we can pass a `va_list` to another subroutine.
+>
+> There is, however, neither a syntax by which we could declare an "object" of "type" "variable-length argument list," nor a mechanism by which we could initialize one with a particular value (i.e. with a particular variable- length argument list). Therefore, we cannot accept a variable-length argument list in one variadic function and pass it (as a variable-length argument list) to another variadic function. What we can do is to take a pointer (a `va_list`) to the variable-length argument list (using `va_start`), and pass that pointer (as a single argument) to another function; however, that other, `va_list`-accepting function is typically not variadic.
+>
+> Examples of variadic functions, which accept variable- length argument lists, are `printf`, `fprintf`, and `sprintf`. Examples of non-variadic functions, which accept pointers to variable-length argument lists as single `va_list`s, are `vprintf`, `vfprintf`, and `vsprintf`.
+>
+> As a point of general advice, whenever one writes a function which accepts a variable number of arguments, it is a good idea to write a companion routine which accepts a single `va_list`. Writing these two routines is no more work than writing just the one, because the first, variadic function can be implemented very simply in terms of the second -- it just has to call `va_start`, then pass the resultant `va_list` to the second function.
+>
+> By implementing a pair of functions, you leave the door open for someone (you or anyone else) later to build additional functionality "on top" of the function(s), by writing another variadic function (or, better, a variadic and non-variadic pair) which calls the second, `va_list`-accepting, lower-level function as well as doing some additional processing.
+>
+> If you were to write only a single, variadic function, later programmers who tried to implement additional functionality on top of it would find themselves in the same situation as did people trying to write things like `debug_printf()` in the days before the v\*printf family had been invented: they had no portable way to "hook up" to the core functionality provided by the \*printf family; they had to use nonportable kludges to call `printf` with (at least some of) the (variable) arguments which the higher-level functions received, or they had to abandon `printf` entirely and reimplement some or all of its functionality.
+
+Obviously, that's far too long-winded and repetetetive for the FAQ list, but it's a good first draft for me to try to whittle down and distill the essence out of. (There's also a slight imperfection in its conceptual model -- although it alludes to "objects of type \`variable-length argument list,'" there are really no values of type "variable-length argument list." All actual argument lists obviously have a certain number of arguments, so an "object of type \`variable-length argument list'" is just one that can hold arbitrary fixed-length argument lists, regardless of how long they are.)
+
+[Steve Summit](http://www.eskimo.com/~scs/)\
+<scs@eskimo.com>

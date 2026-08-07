@@ -1,0 +1,383 @@
+---
+title: "SMALLnet post364"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post364.html
+order: 8225
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:54Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post364
+
+*Source page: `~smallnet/Archive/post364.html`*
+
+## SMALLnet Posting post364
+
+------------------------------------------------------------------------
+
+**Date: Thu, 14 Dec 2000 04:11:58 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+Gordon Counsell \< 
+
+ \> wrote: <span id="7"></span>
+
+<div class="green">
+
+Source: Glow Plugs, for G-Mark .03\
+
+</div>
+
+Information regarding glow plugs for G-Mark .03: Replacement heads are listed by Lion Electronics at 8 Irwin Street, Bellevue, Western Australia. Email: \< 
+
+ \>.
+
+The part number(!) is T SG Red, and the brand name is Taipan Glow Plugs. They also list a range of plugs/heads for Cox and Norvel. This information was obtained from the 1/2A web site.
+
+Hope this helps. Gordon
+
+Gary Seckel \< 
+
+ \> contributed:
+
+Great C-A input from Roy and Thayer. I download and file this information. Will look up "Typhoon" article. The fishing rod ferrules are something that I have been searching for, for some years now. They used to be common, but multi-piece rods have been ferrule-less for much more than twenty years now.
+
+It is a search item for me when I stumble across old hardware stores. Can use K&S tubing, which then necessitates soldered heads. Plan to experiment with a bandsaw blade soldering machine as a source of resistance soldering power. Micro Mark wants something like \$500-\$600 for a quality solderer.
+
+What experience does anyone have using an old dehumidifier as a vacuum pump for vacuum-bagging work? Can't see spending \$300 for this ability. Any ideas for a regulator for switching power on-off within desired vacuum value required?
+
+Thanks for the further information on Compressed Air motors. I have Ken Johnson's article on file. Have an Airhog too, but wanted to use its small size for FF work. It seems like it would be a lot of fun to machine C-A motors and then fly R/C with them..
+
+I was thinking of using a car starter motor to run a compressor for the air source. In the current Home Shop Machinist magazine (I believe), there is an article on building a small compressor that seems suitably sized for the project in mind. The tidbit regarding checkvalve regulation and subsequent duration of the air supply was the type of thing I am interested in learning.
+
+Gary J. Seckel (Cincinatti/Dayton, Ohio area)
+
+<div class="Joe">
+
+...Gary, Bert Pond used an inexpensive car tire inflation pump -- the kind powered by a long cord that plugs into the cigarette lighter socket -- for pumping up his C-A airplane tanks. The one Bert used mostly had an accurate pressure gage attached -- maybe by Bert himself.
+
+I use a double-acting floor-type bicycle tire pump for mine. Bert could sit back and relax while electricity did the labor of compressing air in his model's tank. He was smarter than I was (and the other C-A flyers who used bike pumps too) -- because it takes LOTS of strength and energy to pump 160 psig into a pop bottle. After you pass the 100 pound level, each added stroke of the pump becomes HARD WORK.
+
+As for soldering piston and cylinder heads onto K&S brass tubing, Bert was forced to do that when his supply of ferrules ran out some years ago. But you don't need high-priced or high-tech equipment for the soldering. Just tin a slightly oversize brass disk, then sweat-solder that with a standard "solder gun" onto the pre-tinned top edge of the piston or cylinder tube.
+
+After THAT, you can dress down the overhang with needle files.
+
+Now for a vacuum source -- use a vacuum cleaner! That works just fine for vacuum bagging applications, and even for vacuum-forming plastic. When we molded the bubble canopies for the Kenhi P-51H Mustang kits (1955), we used an industrial vacuum cleaner. And that sucker did the job just fine. \[JW\]
+
+</div>
+
+Randy Randolph \< 
+
+ \> reveals:
+
+Usually when I'm covering a small, flat model part, I first cover a frame with tissue, and shrink it. Then I attach the flat surface, e.g. stabilizer, to the tissue while it is still in the frame.
+
+Before cutting the covered part from the frame, I apply a coat of nitrate dope. Using this system I never have warped surfaces. However, I did not do that on one current project, and had so much warpage that I had to build another stabilizer.
+
+This method works fine for single-covered surfaces. For parts to be covered on both sides, I cover one side of the surface in the frame as described above; then I prepare a second frame of pre- shrunk tissue; trim the surface from the first frame, and cover the other side in the second frame. Then I dope both sides while the part is still in the second frame.
+
+So far this procedure has turned out dead straight surfaces. I use fine sandpaper to trim the covering from the surfaces rather than a razor blade. You see, I don't sand trailing edges to knife edges! I am a minimalist, I believe in the most return for the least amount of work!
+
+Randy
+
+Ron Fikes \< 
+
+ \> announced:
+
+NOTICE - I am not shipping any more plans at this time due to illness. If you have already ordered some, I will return your money. Thanks for your interest...
+
+Ron Fikes Palo Alto, California
+
+Bill Rose \< 
+
+ \> wonders:
+
+Can anyone tell me what's happened to John Pond's Plan Service? I have been trying to contact him, but all mailings have been returned as undeliverable. I see no recent advertisements of his in any model magazines, and wonder if his fine service has shut down for one reason or another.
+
+Also have received a reply from Bill Brewer's plan service, and should be receiving plans for his Gahni Bipe. Looking forward to seeing wot eet look like! I love biplanes.
+
+Bill Rose of Arizona.
+
+<div class="Joe">
+
+...Bill, John Pond himself has been in precarious health for a long time, and has spent the past several years in hospitals. The plans service was taken over by John's son quite some time ago. I have no further information -- in fact, since John Pond was a close friend of mine for many years, several people have e-mailed me asking if I know where John is now -- or if he's still alive. No one even seems to know what hospital John was last transferred to. \[JW\]
+
+</div>
+
+David Larkin \< 
+
+ \> contributed:
+
+Regarding the Kalper: This used to be made by a watchmaker, Seymour Hylda, I think, in Brighton, Sussex, England, just down the coast from where I grew up. A 20-mile bicycle ride, I recall, although I never saw the enterprise.
+
+A friend had a Kalper, but we lost it in a half-scale Ray Collins Flamingo model, when it landed in a wood. Kalpers show up from time to time, but it's rare to find one in good condition because of the very fine threads used. It's an engine which screws together.
+
+While a teen-ager I had a second-hand Kalper for a while, but it took more blood from me than the Red Cross. This was not its fault, I now realise - I was trying to power an 18 inch span Keil Kraft Fairey Junior (Brits will remember the three and eightpenny kit) and it was necessary to use a prop of only 4 inch diameter for prop clearance. The Kalper should use at least a 6 inch diameter prop.
+
+Recently, however, two good Kalper replicas have been made. First Arne Hende came out with a Kalper Mk I and then VA came out with a Mk II, the main difference being the angle on the induction pipe. Both these engines run very well indeed, though the Hende version needed a disc of sandpaper behind the prop to prevent prop slippage.
+
+I've sold quite a few of the VA Kalpers and hope to get some more. However I have had a customer get into trouble because he did not appreciate the need to pay attention to the tightness of the screw- together parts during the break-in process. You can end up with the cylinder incorrectly aligned if this happens.
+
+Also, the induction pipe is a rather fragile threaded brass tube, and one must be careful not to apply any pressure tending to bend it, as it easily fractures and allows air to leak in. But, properly treated, it runs cheerfully and starts easily.
+
+Obtaining modern Kalpers and running them explained my problems with the original engine, and now I wish I had hung on to it. But perhaps it is as well that I didn't get it to run in the Fairey Junior, as I intended it to fly indoors Round-The-Pole!
+
+I've built a Westwings Piper Cub for a VA Kalper (free flight) and am looking forward to flying it.
+
+Incidentally the Westwings kit was a delightful build. The parts are all CNC milled out, and fit well. I used Superphatic as the adhesive. The only fault I found with the kit was the template for the windshield, which is too small. It fitted on the fuselage nicely, but didn't give the scale amount of slope.
+
+I also have the Herr kit for the same airplane, and the two make an interesting comparison; the Herr design being slightly simplified. I covered the Cub with Airspan, which worked well, though I had some trouble with the root ribs being pulled in by the tension, and had to add reinforcement. Slightly thicker root ribs would have helped. Unlike the Herr kit, the wings are plug-in and detachable on the Westwings kit.
+
+An item of possible interest: To encourage early renewal of memberships, MAAC issues an embroidered patch to anyone renewing before the end of November. The one this year portrays a 'Dakota' biplane in a characteristic spiral to the left. Some liberties have been taken with the upper wing shape, but everything else is authentic Dakota.
+
+Best regards for Christmas and the New Year, Dave
+
+Red Scholefield \< 
+
+ \> answers Roy Clough's query about whether freezing harms Nicads:
+
+No. They're good down to -22 F (which is conservative) (Sanyo specifications). Just don't charge them at this temperature.
+
+Red Scholefield (AMA 951) Red's R/C Battery Clinic \< <http://yoda.fdt.net/~redscho> \>
+
+Roy Clough \< 
+
+ \> writes:
+
+Lot of things to respond to on this trip.
+
+First, thanks to David for tips on cold weather NiCads. I'd never noticed the warning about not recharging at under 5 degrees F.
+
+Joe, live long and find out everything. Now my guess is that Malcolm Whitman borrowed the Kalper from Dick Schumacher to show it to me! I had a voluminous correspondence with Malcolm for several years. He was keenly interested in model planes and sent me a number of interesting items, including two Elf engines, a .097 single, and a .194 twin.
+
+I built the single-cylinder Elf into a plane I called the "Free Flight Goat", and sent it back to him. He reported that he and Dick flew the plane a number of times. Dick had a number of kind things to say about the design. Recently I found my original pencil sketches of this design and just might build another for a smaller modern engine some time.
+
+The twin Elf that Malcolm sent me now rests disassembled in a can of kerosene with stuck pistons. One of these days I'll have to do something about it. Although both of these engines were spark, I ran them on glow and they worked fine.
+
+I got an e-mail from a chap in the Dominican Republic, about, I think, Hoosier engines. He needs to have some questions answered about them. I assume these are C-A jobs, but I never saw one, and do not even know how they are built. Maybe somebody can help him. His e-mail is \< 
+
+ \>.
+
+Have a "Jonothan" C-A model I sometimes take to the field for comic relief. Works good. I'm quite interested in the idea of making an air tank from beer cans. Are they simply cleaned and epoxied together or are rivets or some such used to augment the stickum? As for the beer cans, I suppose with a little effort I could apply myself to producing a few empties.
+
+Control lines: I have an ancient Cox reel with Dacron thread lines that I still occasionally use. It is at least 50 years old and in good condition. I will, however, look up that Spider Wire and try it in a project now on my bench.
+
+CO2 -- I don't know if the Ray Rocket kit included a launcher. I do know that about this time there was quite a bit of interest in cars and boats and planes propelled by CO2 cartridges. Several shooters, "CO2 Guns" were briefly on the market. Some of these may have had clips or guides to hold the vehicle. One of the magazines had a construction article for a vee-tailed, short span glider that was propelled with a CO2 cartridge. It is just possible this could be traced down via Dave Livesay's site. (See SMALLnet Posting 363)
+
+You guys who like to fool around with surplus electrickery and stuff might find the Marlin P. Jones catalog of interest. All kinds of goodies including power supplies and those little tiny pager motors for miniscule electrics (after you figure out how to get the counterweight off without mashing them.) Try: \< <http://www.mpja.com> \>.
+
+Brian Allen: LITESPAN: I've had excellent results with this covering material. My Texaco Fairchild (Model Aviation, March 2000 issue) used it. Four-five years old, still tight. Any of the iron-on adhesives like BalsaRite, or Acrylic Gloss Varnish will hold it. Hint: apply a double coating of stickum to the underside of undercambered wing ribs.
+
+Have fun, Roy C.
+
+<div class="Joe">
+
+...Roy, the beer can tanks are merely epoxied end to end, without rivets or tie-rods. There are a couple of ways this was done -- one involved overlapping; another used a "joining wraparound". But when the pop bottles came along, everyone I know who was flying C-A (except for a couple of die-hard purists, who insisted on using the original shim brass air tanks) abandoned the can- joining technique and happily went to plastic. \[JW\]
+
+</div>
+
+Phil Davy \< 
+
+ \> reports:
+
+I built and flew a Ray Rocket in 1946. I remember that I painted it all black, but what the heck, fifteen-year-old eyes can track a speeding bullet -- which is an apt description of a Ray Rocket launch. My kit either had a launcher or instructions on how to build one, I can't remember which, but Roy's description is correct as is his information of the launch and flight. It was very fast for a short period of time followed by a rather steep glide.
+
+I did not fly it often due to the cost of the CO2 cartridges. A few years ago I saw an original Ray Rocket kit at the flee market at the IMS show in Pasadena, but by the time I made up my mind to pay the extortionate price it was gone. I would not have painted it black since I am no longer able to track speeding bullets.
+
+Merry Christmas to all. Phil
+
+Curtis Mattikow \< 
+
+ \> adds:
+
+I have the Ray Rocket, Jet Wing, gun launcher, and some others up for sale on e-bay if anybody is interested. I have flown the Jet Streak with a Jetex 50, and it flies extremely well. I will be doing a Jet Wing this winter, and maybe the P-80 Shooting Star. They are lovely kits. Check under the e-bay name EASYTIGER. They are fun to look at, even if you don't want to bid...
+
+All the best, Curtis Mattikow
+
+Charlie Fries \< 
+
+ \> writes:
+
+Browsing at Wal-Mart, I saw a pack of 4AA NiMH batteries at \$12.85. Looked further and saw same batteries (1300 mAh) with charger for \$14.96. Decided to give them a try. They don't have soldering tabs, of course.
+
+Any advice out there about soldering them into a flight pack? Mainly, are they any more delicate than Nicads re: heat of soldering iron? Any words of wisdom re: cycling them? Comments of any kind are welcome.
+
+George Wallbridge \< 
+
+ \> sent:
+
+<span id="333"></span>
+
+<div class="green">
+
+Vendor: SAMS Models\
+
+</div>
+
+<span id="334"></span>
+
+<div class="green">
+
+Source: Kits, Aerographics\
+
+</div>
+
+Quick note from George at SAMS in England. The New Aerographics Bell X1-S kit is now on the shelf. 13" span for Jet-X or Rapier. Cost air mail to US is \$25. Remember, \$bills or credit cards only. Personal checks will be sent back, as they cost \$20 to cash in UK. E-mail me, or write to SAMS Models, The Chapel, Sandon, Buntingford, Herts, SG9 0QJ. Telephone 00441763 287606, 9 to 6 UK time.
+
+Did you know there is also an Aerographics Fairey Firefly at 24 inch span and a Luton Minor at 20 inch? Also just in from Ikara, the Bulldog ARTF Penny Plane for indoors. ARTF means you have to glue on the wing posts -- the wings, fuselage, prop, etc. are all ready-made. Happy Christmas. George
+
+David Williams \< 
+
+ \> reports:
+
+I've just set up a simple website for the new S.A.M chapter in England, SAM Zero. Have a look at:
+
+\< <http://www.zyworld.com/samzero2/home.htm> \>
+
+David Williams, Bolton, England
+
+Wayne Mims \< 
+
+ \>
+
+I am new to SMALLnet and to computers. "Wow!" I've been in and out of R/C for 39 years. Big planes for me are .40-size, and smalls are .010. I've been flying a Little Stick for the last 15 years, with an old Tower Hobby 4-channel receiver and 2 CS-20 sub-micro servos, weighing 4 1/2 ounces.
+
+I have also designed an 18-inch pattern plane that will do everything except a knife edge. I am looking for someone in the Waco, Texas area who is into .010 R/C and indoor R/C for HELP.
+
+Also, is there someone that makes glow plug adapters for Cox .010's?
+
+Wayne
+
+Eddie Warren \< 
+
+ \> wrote:
+
+First, let me say that I don't particularly care for R/C Combat; and I don't particularly care for pylon racing anymore. Wait! I was wrong! I thought I had gotten all of that nonsense out of my blood when I was 20 years younger, but something happened this past weekend that has me hyped up again.
+
+I've never flown combat, but used to be heavy into pylon -- .40 size. This past Saturday, my brother Jim and one of his buddies brought out a couple of SPAD Derelicts. The Derelict is an all- plastic airplane designed for combat. Here are the particulars: Span 36", Length 24", engine .25/.30, radio 3-channel Aileron - Elevator - Throttle, and the most outstanding part of the design: a V-tail.
+
+The wing is made from 2 mil. coroplast. The V-tail is also of coroplast. The fuselage is a piece of plastic downspout gutter pipe. To see some pictures of this and their other designs, take a look at:
+
+\< <http://www.feist.com/~mcmcginnis/SPAD.htm/> \>
+
+Now, what's so special about this thing? Jim and his buddy bought the ARF version of the Derelict from SPAD (Simple Plastic Airplane Designs.) He said he took his time and the model still built up in six hours and was ready to fly. Both models mounted full-size radios. Jim used the recommended HiTec Focus 4 with a 500 mil battery. Both were powered by O.S. Max .25's.
+
+How does the Derelict fly? With the .25's at full throttle, pulling 20 feet of string and a 10-foot streamer, we just had to point the models into the wind and give them a gentle toss. As for speed, once they got going, both models were like little rockets! Boy, what fun!
+
+Are they strong? (After all, the wing is plastic sign material wrapped around a "yardstick" which is used as the spar! I'm not kidding!) Jim's model took a hit early on when it was launched by another club member. (Not me, thank goodness!) The airplane nosed into the ground because of an out of trim condition and hit HARD!
+
+If it had been a wood or fiberglass model, we would have been finished right there! But with this airplane, all that was needed was to change a broken prop. Later on, during another flight, the glide was stretched to the stall point and the model nosed into the ground from about fifty feet up. Result? A broken motor mount but not a scratch on the airplane. My only gripe is that I was supposed to fly it next!
+
+This is an amazing model design but it isn't for beginners. It's fast like a little pylon racer, but cut power or flame out and speed drops drastically due to the streamer being pulled behind. You have to learn to keep the nose DOWN and the speed UP when towing that piece of string and crepe paper.
+
+Is it heavy? Not unduly. Jim's model was 2.5 pounds RTF dry and the other airplane was two ounces lighter.
+
+The two existing airplanes are going to be demonstrated to the club soon and they are already talking about starting a combat group. I'm certainly going to play. The ARF version of this model costs \$35 plus shipping. Plans are available for downloading from the site listed above. If you can find the materials locally, you can build an airframe for \$5 to \$10.
+
+I shot some photos of the two models just mentioned. Take a look and see what you think:
+
+\< <http://www.gatherround.com/j/AlbumIndex?u=106578&a=135138&pw=Derelict> \>
+
+I'm mentioning this stuff because nobody has been talking about SPAD airplanes on the list. If any of you have one of any of their other designs, how about some comments?
+
+Eddie Warren\
+Wilmington Model Flying Club\
+Wilmington, North Carolina -- USA\
+
+Al Lidberg \< 
+
+ \> forwarded from Jim Moseley:
+
+Thanks for the Ceiling Walker building instructions. That brings back a memory... In the early 1950's, in the UK, our club met in a school hall; and a buddy and I (teenagers) had Ceiling Walkers with us to take to a meeting.
+
+With several hours to spare, we went to watch an aviation movie -- which couldn't have been too enthralling as we got bored... This, remember, was back when movies were projected from the rear of the cinema, the beam battling through swirling clouds of cigarette smoke.
+
+Between us lads, at knee level we put lotsa hand turns on a CW and let it go... It whopped its way up through the projection beam casting this huge gyrating shadow on the silver screen -- to the consternation and confusion of the patrons and the annoyance of the management, who promptly threw us out after many accusing fingers were pointed at us.
+
+Never did know what happened to the CW, probably stomped to death in an aisle by an angry usherette... Maybe now I'll build another, just for the fun of it.
+
+Al Clark \< 
+
+ \> inquires:
+
+I am searching for a U.S. source for a kit that I believe is made in Belgium by Laser Models. The kit goes by the name of the "Mini Laser 3D". It is reviewed in the December 2000 issue of Aviation Modeler International, a British R/C magazine. I would rather not have to get it shipped to the U.S. from the UK. Does anyone know who carries this kit state-side?
+
+Al Clark
+
+Nic Hallett \< 
+
+ \> informs us:
+
+<span id="489"></span>
+
+<div class="green">
+
+Source: Power supplies\
+
+</div>
+
+With regard to Geoff Wells' mention of cheap power supplies, here are the web addresses of possible sources in the U.S.:
+
+\< <http://www.allelectronics.com> \>\
+\< <http://www.jameco.com> \>\
+\< <http://www.mouser.com> \>\
+\< <http://www.mpja.com> \>\
+\< <http://www.sciplus.com> \>\
+\< <http://www.surplussales.com> \>\
+
+I've dealt with some of these companies for years, without difficulty. There must be others as well. Nic Hallett
+
+Mike Russell \< 
+
+ \> requests:
+
+I'm getting ready to build a Fairchild 51, Model Builder plans, July, 1972 issue. It has a 44" span, 308 square inch wing area. I'm going to use a Hitec 555 Receiver and ESC, and two micro servos. My question is: what would be a good electric power system for it: Motor, gearing, prop size, and battery size and cell number -- and any other suggestions. I am going to cover it with Litespan. Mike Russell
+
+Jon McVay \< 
+
+ \> warns about Litespan:
+
+Use your covering iron for shrinking. DO NOT use a heat gun. Litespan can be overheated, will eventually sag from overheating, and no amount of re-heating will get rid of those sags.
+
+Jon McVay
+
+Charlie Meyer \< 
+
+ \> wrote:
+
+I also want a lot more information on the little Sukhoi 31 with the Cox .010 engine. I hope the builder will make it available.
+
+Tore Loodin \< 
+
+ \> announces:
+
+As an "ombudsman" for Stockholm's R/C Model Flying Club, I used to plan two events per year: one Fly-In for Small R/C models, and one OLDTIMER MEETING.
+
+The planning for year 2001 is fulfilled, and turned out as follows: Small R/C meeting for max .15 motors (twostrokers) and .20 (fourstrokes) -- but rather smaller engines are preferred: Saturday 18th June. Oldtimer event: Saturday 25th August.
+
+Site: the beautiful R/C center at Nykvarn, Sweden. Free hotdogs and sweet drinks to the flyers. Please contact Tore Loodin for more information. Overseas flying Gentlemen and Dames are welcome. Competition awards for hotdogs are hotdogs!
+
+Tore "Smallsteps" Loodin
+
+Ken Park \< 
+
+ \> contributed:
+
+I would like to thank all who have been so patient with our delays with the Cassutt winter building project. This project is being laser cut, and we are having problems with our dealer getting the project back to us. Please hang on guys -- we hope to have it back soon and we hopefully will get back on track ASAP.
+
+In the meantime my prototype Cassutt looks a bit out of place flying with skis on! I don't think you would see this in Reno! Mark Winstanley and I both put in a few flights each; Mark with his Chips and I with the Cassutt. What's wrong with the rest of the club, we don't know. Ken
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

@@ -1,0 +1,417 @@
+---
+title: "Past Competitions and Routines"
+source_domain: amasci.com
+source_path: ~whtrose/pwylie/past.html
+order: 10241
+reachable_from_entry: false
+images: 22
+internal_links: 0
+extracted: 2026-08-07T17:18:32Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Past Competitions and Routines
+
+*Source page: `~whtrose/pwylie/past.html`*
+
+Past Competitions and Routines
+
+# Past Competitions and Routines.
+
+<a href="http://stats.superstats.com/c.cgi?u=whtrose" target="_top"><img src="http://stats.superstats.com/b.cgi?u=whtrose&amp;z=1" data-border="0" /></a>
+
+## Plan on surfing for hours from this site? Why Not Make Some Money While You're At It? AllAdvantage.com pays .50 an hour you surf, (and .10 for every hour your referrals surf) go here to find out more!:
+
+\
+[](http://www.alladvantage.com/go.asp?refid=FYJ555)
+
+<img src="http://www.planetx.com/~sonja/btvsurls/logo.gif" data-border="0" alt="Join AllAdvantage.com" />\
+\
+\
+<img src="paul1.gif" data-align="middle" data-border="0" />**Paul Skating to "Apollo 13" (Photo Copyrighted by Vicki S. Luy)\**
+
+## Skateography - Paul's Placements in Competitions
+
+## Professional - Singles
+
+## 1996
+
+**1996 Ultimate Four 2nd\
+1996 Winter Spring Team Pro-Am 2nd\
+1996 World Professional Figure Skating Championships 5th - NEW!\
+1996 Ice Wars 1st Team\
+1996 Men's Professional Championships 3rd\
+1996 Battle of the Sexes Men won\
+1996 US Professional Championships 2nd\
+1996 Great Skate Debate 3rd\
+1996 Miko Masters 1st\
+1996 Spring Team Pro-Am 3rd team, 1st overall\**
+
+## 1995
+
+1995 Challenge of Champions 1st\
+1995 World Professional Figure Skating Championships 4th\
+1995 Ultimate Four 3rd, won the long programme\
+1995 Fall Team Pro-Am 1st team, 1st overall\
+1995 Ice Wars 1st team\
+1995 NW Mutual Life World Team Championship 2nd team, 2nd overall\
+1995 Legends 4th\
+1995 Metropolitan Open 2nd\
+1995 Men's Outdoor Open 2nd\
+1995 Skates x 2 2nd team, 1st overall\
+1995 Miko Masters Paris Championships 1st\
+
+## 1994
+
+1994 Challenge of Champions 2nd\
+1994 World Professional Figure Skating Championships 2nd\
+1994 NW Mutual Life World Team Championship 2nd team\
+1994 US Open 4th\
+1994 North American Open 5th\
+1994 Ice Wars 1st team\
+<img src="eaglebm.jpg" data-align="middle" data-border="0" />\
+**Paul doing a beautiful spread eagle to "Schindler's List. (Photo Copyrighted by Barry Mittan)**\
+\
+1994 Miko Masters Paris Championships 1st\
+1994 1994 Spring Pro-Am 1st\
+
+## 1993
+
+1993 World Challenge of of Champions 1st\
+1993 World Professional Figure Skating Championships 1st\
+1993 Fall Pro-Am 3rd 1993 Miko Masters Paris Championships 1st\
+1993 Spring Pro-Am 3rd
+
+## 1992
+
+1992 World Challenge of of Champions 1st\
+1992 World Professional Figure Skating Championships 2nd\
+1992 U.S. Open Professional Championships 1st\
+1992 Fall Pro-Am 1st\
+\
+\
+
+## Amateur - Singles
+
+## 1992
+
+**1992 Olympics 2nd\
+<img src="pwoly.jpg" data-align="middle" data-border="0" />**Paul With his Olympic Silver Medal**\
+\
+1992 US Nationals 2nd\**
+
+## 1991
+
+1991 Trophy Lalique 5th\
+1991 Skate Canada 3rd\
+1991 Worlds 11th\
+1991 US Nationals 3rd\
+
+## 1990
+
+1990 NHK Trophy 4th\
+1990 Goodwill Games 4th (Seattle, WA)\
+1990 Worlds 10th\
+1990 US Nationals 2nd\
+
+## 1989
+
+1989 Nations Cup 3rd\
+1989 Skate Canada (Interpretive event) 2nd\
+1989 Skate Canada 2nd\
+\
+<img src="wylie89.gif" data-align="middle" data-border="0" />\
+Paul at Skate Canada 89 (Photo Copyrighted by Margaret Burwell).\
+1989 Olympic Festival 2nd\
+1989 US Nationals 3rd\
+
+## 1988
+
+1988 Trophee Lalique 1st\
+1988 Worlds 9th\
+1988 Olympics 10th\
+1988 US Nationals 2nd\
+1988 New England Regionals 1st\
+
+## 1987
+
+1987 NHK Trophy 2nd\
+1987 St. Ivel 1st\
+1987 Olympic Festival 1st (Team Competition)\
+1987 FISU Games 3rd (Is this the same as the World University Games?)\
+1987 World University Games 3rd\
+1987 US Nationals 5th\
+
+## 1986
+
+1986 US Collegiate Championships 1st\
+1986 Prize of Moscow News 4th\
+1986 Skate America 7th\
+1986 Olympic Festival 2nd\
+1986 US Nationals 5th\
+1986 Eastern Sectionals 1st\
+1986 New England Regionals 1st\
+
+## 1985
+
+1985 Skate Canada 7th\
+1985 US Nationals 5th\
+1985 Midwesterns 2nd\
+
+## 1984
+
+1984 US Nationals 4th\
+<img src="paul84.gif" data-align="middle" data-border="0" />**\
+Paul from the 84 Ntls programme (taken from Sandra Loosemore's site)**\
+\
+1984 Aegon Cup 6th\
+1984 Midwesterns 2nd\
+
+## 1983
+
+1983 Skate Canada 5th\
+1983 US Nationals 5th\
+1983 Midwestern Sectionals Mens 3rd\
+
+## 1982
+
+1982 National Sports Festival 4th\
+1982 US Nationals 11th\
+1982 Midwesterns 1st\
+
+## 1981
+
+1981 NHK Trophy 5th (maybe 1982, am not sure)\
+1981 US Nationals Junior Mens 1st\
+1981 Worlds Junior Mens 1st\
+
+## 1980
+
+1980 US Nationals Junior Mens 2nd\
+
+## 1979
+
+1979 Nationals Novice Mens 1st\
+\
+
+## Amateur- Pairs w/ Dana Graham
+
+## 1981
+
+**1981 US Nationals Senior Pairs 9th (am not sure of the year)\**
+
+## 1980
+
+1980 National Junior Paris 1st\
+
+## 1979
+
+1979 US Nationals Junior Pairs 5th\
+1979 Midwesterns Junior Pairs 1st\
+
+## 1978
+
+1978 US Nationals Junior Pairs 9th\
+1978 Midwesterns Junior Pairs 2nd\
+1978 Southwesterns Junior Pairs 2nd\
+
+## 1977
+
+1977 Midwestern Sectionals Novice Pairs 2nd\
+1977 Southwestern Regionals Novice Pairs 1st**\**
+
+## Past Routines
+
+**Some routines or group numbers Paul has only done a few times or just once, they are indicated by the one year heading (for exampe: 1996) or he skates the same couple of routines or group numbers for the whole season, they are indicated by the two year heading (for exampe: 1996/1997).**
+
+## 1996/1997
+
+**"Adagio from the Concerto in D minor for oboe, strings & continuo" by J. S. Bach\
+<img src="http://www.eskimo.com/~gaspers/pwylie/adagio1.jpg" data-align="middle" data-border="0" />\
+**Paul skating to "Adagio" (Photo Copyrighted by Vicki S. Luy.)**\
+\
+"Air" by J.S Bach w/ Ekaterina Gordeeva, & Torvill & Dean 96 - 97 SOI\
+<img src="9622818.jpg" data-align="middle" data-border="0" />\
+**Paul skating to "Bring Him Home". (Photo Copyrighted by Barry Mittan)**\
+\
+"Bring Him Home" from Les Miserables.\
+"Guitar Concerto" Michael Kamin w/ cast of 96 - 97 SOI Opening Number\
+<img src="soiopen.gif" data-align="middle" data-border="0" />\
+**Paul with the cast of SOI - Opening Number (Photo Copyrighted by Margaret Burwell.)**\
+\
+"I Spy/ Mission: Impossible" by Pulp\
+<img src="9622934.jpg" data-align="middle" data-border="0" />\
+**Paul skating to "Mission: Impossible". (Photo Copyrighted by Barry Mittan.)**\
+\
+"La Dolce Vita" w/ cast of 96 -97 SOI\
+"Lonesome Lane" w/ cast of 96 - 97 SOI\
+<img src="http://www.eskimo.com/~gaspers/pwylie/niven.jpg" data-align="middle" data-border="0" />\
+**Paul in character during the 96-97 finale of SOI. (Photo Copyrighted by Vicki S. Luy.)**\
+\
+"Mambo Jambo" w/ cast of 96 - 97 SOI\
+"Summon the Heroes" by John Williams\
+"Touch Me" by the Doors\**
+
+## 1996
+
+"Angels We Have Heard on High" by ???? for 1996 Holiday Festival on Ice\
+<img src="http://www.eskimo.com/~gaspers/pwylie/angels2.jpg" data-align="middle" data-border="0" />\
+**Paul doing a spread eagle to "Angels We Have Heard on High". (Photo Copyrighted by Vicki S. Luy.)**\
+\
+"Come All Ye Faithful" (instrumental) w/ cast of 1996 Holiday Festival on Ice\
+
+## 1995/1996
+
+"Apollo 13"\
+"Here Comes the Sun" by the Beatles w/Katarina Witt Closing Ensemble 95 - 96 SOI\
+"How About You?" from the Fisher King\
+<img src="paul2.gif" data-align="middle" data-border="0" />**\
+Paul Skating to "How Bout You?" (Photo Copyrighted by Vicki S. Luy)**\
+"Magical Mystery Tour" by the Beattles w/Rahkamo & Kokko Closing Ensemble 95 - 96 SOI\
+\*"The Mission"\
+"On the Waterfront" by Leonard Bernstein\
+<img src="waterbm.jpg" data-align="middle" data-border="0" />\
+**Paul skating to "On the Waterfront". (Photo Copyrighted by Barry Mittan)**\
+\
+
+## 1995
+
+"Gloria/O Come All Ye Faithful" for 1995 Holiday Festival on Ice\
+"Home Again" Carole King Closing Ensemble 1995 Vail Skating Festival\
+"Thanks For the Memories" w/cast of 1995 Evening of Championship Skating\
+"Tonight" from EFX (with Nancy Kerrigan) sung by Michael Crawford\
+"You've Got a Friend" Carole King w/Rosalynn Sumners 1995 Vail Skating Festival\
+
+## 1994/1995
+
+"Emotional Rescue" by the Rolling Stones w/cast of 94 - 95 SOI\
+"Five Minutes for Icing" by Marvin Douglas & Kevan Staples w/ cast of 94 - 95 SOI **"Prelude, Fugue, and Riffs" by Leonard Bernstein\
+"Rhapsody in Ice" by Marvin Dolgay & Glenn Morley w/ cast of 94 - 95 SOI opening number\
+"Schindler's List" (also "Carlito's Way") by John Williams\
+<img src="wylibm.gif" data-align="middle" data-border="0" />\
+**Paul skating to "Schindler's List". (Photo Copyrighted by Barry Mittan)**\
+\**
+
+## 1994
+
+"American Salute" by Gould Houston Symphony on Ice\
+"Chim-Chim-Cheree" (Mary Poppins) w/Katarina Witt 1994 Disney Hits on Ice\
+"Crazy Walk" by ??? w/cast of Symphony on Ice\
+"Davy Crockett" 1994 Disney Hits on Ice\
+"Fantasia" (The Nutcracker) w/Uzova & Zhulin and Klimova & Ponomarenko 1994 Disney Hits on Ice\
+"Gallop" from "The Comedians"\
+"Jingle Bells" small section for 94 Holiday Festival on Ice\
+"Let's Go Fly a Kite" (Mary Poppins) w/Katarina Witt and Gordeeva & Grinkov 1994 Disney Hits on Ice\
+"Noel" w/cast of 94 Holiday Festival on Ice\
+"Silent Night"\
+"Tootsie Roll" for the Nancy Kerrigan Special "Dreams on Ice"\
+"With or Without You" U2 Closing ensemble 1994 Vail Skating Festival\
+
+## 1993/1994
+
+"Angel"\
+"Carmina Burana" ("O Fortuna" & "Ave Formoisissima") by Carl Orff\
+"Nasty Boys" by Janet Jackson w/ Kristi Yamaguchi and Scott Hamilton 93 - 94 SOI\
+"Recipe for Love"/"But Not For Me"/"We Are In Love" by Harry Connick, Jr. 93 - 94 SOI ensemble done with Hough & Ladret\
+<img src="paulw1.gif" data-align="middle" data-border="0" />\
+**Paul from the Harry Connick Jr. Medley (Photo Copyrighted by Holly Henry-Pilkington)**\
+\
+"The Untouchables"\
+<img src="untoubm.jpg" data-align="middle" data-border="0" />\
+**Paul skating to "The Untouchables". (Photo Copyrighted by Barry Mittan)**\
+\
+
+## 1993
+
+"Joy to the World" w/Kristi Yamaguchi 1993 Holiday Festival on Ice Opening Ensemble\
+"O Holy Night" by Tevin Campbell\
+"Pressure" w/ the Carruthers Billy Joel 1993 Vail Skating Festival Closing ensemble\
+"We Didn't Start the Fire" Billy Joel 1993 Vail Skating Festival Closing ensemble\
+
+## 1992/1993
+
+"JFK" by John Williams\
+<img src="http://www.eskimo.com/~gaspers/pwylie/pwjfk.jpg" data-align="middle" data-border="0" />\
+**Paul skating to "JFK"\
+\
+"Piano Concerto in F" by Gershwin w/cast of 92-93 SOI opening number\
+"Pride" by Civilles & Cole & "Jump" by Kris Kross /w cast of 92 - 93 SOI\
+"This Is The Moment" from "Jekyll & Hyde"\
+"This Thing Called Loved" by Queen w/ Scott Hamilton, Brian Orser and cast of 92 - 92 SOI\
+"The Show Must Go On" by Queen w/Cast 92 - 93\
+"We Will Rock You" by Queen w/Cast of 92 - 93 SOI\
+"Your're My Best Friend" by Queen w/Cast of 92 - 93 SOI\**
+
+## 1991/1992
+
+"The Day Is Yours" & "St.Crispin's Day" from "Henry V"/Saint-Saens\
+<img src="wylie1rm.jpg" data-align="middle" data-border="0" />\
+**Paul from "Henry V" at the 92 Olympics . (Photo (with Snappy) by Rob Moes)**\
+\
+"La Valse" by Maurice Ravel\
+"The Last Night of the World" from Miss Saigon (with Nancy Kerrigan)\
+"Organ" Symphony No. 3 in C Minor"\
+"Why, God, Why?" from Miss Saigon\
+\
+<img src="pwwhy.gif" data-align="middle" data-border="0" />**Paul Skating to "Why God Why?"\**
+
+## 1991
+
+"Dear Father" from "Jonathan Livingston Seagull" (1989)\
+"The Right Stuff" "Try a Little Tenderness" from "The Commitments"\
+
+## 1990
+
+"It Had To Be You" by Harry Connick, Jr.\
+
+## 1989/1991
+
+"Climb" & "On Earth As It Is In Heaven" from "The Mission"/Poulenc's Organ\
+Concerto in G Minor/"Water Fountain" from "The Secret Of My Success"/Beethoven's Lenore Overture No. 3"\
+
+## 1989/1990
+
+Phil Driscoll's "Sing Hallelujah"/"And the Kids Call It Boogie" from "A Chorus Line"\
+
+## 1988
+
+Phil Driscoll's "Sing Hallelujah"/"The Music and the Mirror" from "A Chorus Line"\
+
+## 1987
+
+"Gethsemane" from "Jesus Christ, Superstar" (1987)\
+"I Can Do That" from "A Chorus Line" (1987)\
+
+## 1986
+
+"Fabulous Feet" from "The Tap Dance Kid"\
+"The Natural"/"The River"/Themes from the Montreal & LA Olympics"\
+
+## 1981
+
+"Tchipolina", a Russian Ballet choreographed by Robin Cousins.\
+
+## 1979
+
+"I'm Reviewing the Situation" from "Oliver"\
+\
+\*Paul"s "95 Challenge of Champions "The Mission" was somewhat different from his competitive amateur long programme. He replaced "Water Fountain" and Beethoven's "Lenore" with the Saint-Saens" "Organ" Symphony from his "Henry V".\
+\
+If you have any corrections or additions email me at [*whtrose@eskimo.com*](mailto:whtrose@eskimo.com)\
+(Many Thanks to Patricia Spinelli for providing many of the names and years of competitions and routines. And thanks to the Paul Wylie Update and Vicki Luy for providing her with that info! Thanks also to Staci Dawn Stoddard for providing some missing competitions.)\
+\
+**Have you signed the Guestbook? If not please do! Go here:\
+[Sign The Paul Wylie Fan Page Guestbook](http://www.Lpage.com/wgb/wgbsign.dbm?owner=pwylie)\
+[View the Paul Wylie Fan Page Guestbook](http://www.Lpage.com/wgb/wgbview.dbm?owner=pwylie)**\
+\
+(Note: If you choose to make the message "private" you should know that only I can view it, Paul doesn't have the password).\
+\
+
+\
+
+[Main Page](http://www.eskimo.com/~whtrose/pwylie/pwylie.html) \| [Email List](http://www.netspace.org/cgi-bin/lwgate/paul_wylie) \| [Bio](http://www.eskimo.com/~whtrose/pwylie/pwbio.html) \| [Gallery](http://www.eskimo.com/~whtrose/pwylie/gallery.html) \| [Breaking the Ice](http://www.eskimo.com/~whtrose/pwylie/breakice.html) \| [Birthday Card](http://www.eskimo.com/~whtrose/pwylie/pwbday.html) \| [Top Ten - Humour](http://www.eskimo.com/~whtrose/pwylie/reasons.html) \| [Credits](http://www.eskimo.com/~whtrose/pwylie/credits.html)
+
+\
+\
+**Created by The White Rose Inc. (a.k.a Sonja Marie) 1996\
+<img src="http://www.eskimo.com/~whtrose/rosewht.gif" data-align="right" data-border="1" />**

@@ -1,0 +1,179 @@
+---
+title: "BRITISH TV SHOW REVIEWS 'P'"
+source_domain: amasci.com
+source_path: ~rkj/p.htm
+order: 7017
+reachable_from_entry: false
+images: 0
+internal_links: 41
+extracted: 2026-08-07T17:14:35Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# BRITISH TV SHOW REVIEWS "P"
+
+*Source page: `~rkj/p.htm`*
+
+# British TV Show Reviews "P"
+
+[A](a.htm) \| [B](b.htm) \| [C](c.htm) \| [D](d.htm) \| [E](e.htm) \| [F](f.htm) \| [G](g.htm) \| [H](h.htm) \| [I](i.htm) \| [J](j.htm) \| [K](k.htm) \| [L](l.htm) \| [M](m.htm) \| [N](n.htm) \| [O](o.htm) \| P \| [Q](q.htm) \| [R](r.htm) \| [S](s.htm) \| [T](t.htm) \| [U](u.htm) \| [V](v.htm) \| [W](w.htm) \| [X](x.htm) \| [Y](y.htm) \| [Z](z.htm)
+
+[Previous List](o.htm) \| [Back to Homepage](brit.htm) \| [Next List](q.htm)
+
+*Dates refer to when review was written*
+
+**Paddington Bear: The Early Years** (1/03)\
+I bet you would never guess from the title of this program that it's actually a documentary with Stephen Fry traveling through Peru!  Ostensibly, Paddington, a famous literary creation, has origins in Peru and Fry attempts to ferret them out in this unusual travelogue.
+
+**Palin's Column** (11/94)\
+Michael Palin continues his quest for scholarly introspection with this series documenting his trip to the Isle of Wight and reporting his encounters for the local paper.
+
+**Paparazzo** (11/95)\
+TV movie pilot on ITV chronicling the adventures of tabloid photographer Rick (*EastEnder's* Nick Berry) who is constantly on the trail of celebrities to shoot (preferably doing something embarrassing). Unlike most of his brethren who hang around a seedy Soho diner, Rick looks more like the beautiful people he's supposed to be filming, and of course deep-down he really has a heart-of-gold for people in need. ITV, being the Working Class's TV network, delights in showcasing Working Class Heroes regardless of their profession (last year it was garbage men and movers). Whether paparazzi qualify as a step up in quality or not remains to be seen.
+
+**Paradise** (1/95)\
+A middle-class family spends their holiday in the basement because they can't afford to go abroad. Mom is a bit nuts to start with, but soon the enforced confinement gets to everyone, particularly with their lame attempts to simulate a sunny resort somewhere. Mom is so fanatical about the neighbors not finding out about their deception that she prevents her husband from going upstairs when they hear burglars break in. Can we say, "Dysfunctional"?
+
+<span id="Paradise"></span>**Paradise Heights** (1/04)\
+Neil Morrissey (*[Men Behaving Badly](m.htm#Men)*) is one of three brothers who run a slightly-dodgy retail warehouse in this BBC comedy/drama set in Nottingham.  The show is a bit schizophrenic, part hijinks with lost snakes and romance, but another part is right out "The Sopranos" with Michael Troughton as a gangster who often gets tough (and bloody) when displeased.  Though many popular British shows have successfully mixed the light and dark elements, in *Paradise Heights*, the mood shifts were too jarring. Retitled *The Eustace Brothers* for the second season.
+
+**Parents' Night** (3/02)\
+Part of Channel 4's "Shockers" series, this TV movie is told via the camcorder diary of a bullied teen as he attempts to stem the harassment he receives on a daily basis at school.  He plots his revenge on camera (which at one point gets stolen by one of the bullies and we see his side of the story) and then things really spiral out of control when his mother finally confronts the students and parents one harrowing night at school.
+
+**Paris** (5/95)\
+This Alexei Sayle sitcom (he was that "fat bastard" from *The Young Ones*) is set in Paris on the Left Bank during the 1930s. Sayle is a frustrated artist who does all the typical things: goes to the cafe a lot, unsuccessfully tries to sell his paintings, and finally finds fame and fortune only after he is committed to an insane asylum. Not brilliant stuff, especially if you don't find anything French particularly amusing.
+
+**The Passion** (1/00)\
+Three part BBC drama set in a small village full of characters that puts on an elaborate passion play annually but this year (over the protest of some people) has hired an outsider (a "grockle" they call them) to play Jesus. Young and inexperienced, nevertheless the actor they get has that Savior-like quality, particularly to a housewife (*[Our Friends In The North's](o.htm#Our)* Gina McKee) who is strongly attracted to him. Despite the large cast, each person in the village is nicely developed, especially the petty rivalries and politics that afflict a place where everyone knows everyone else. BBC America will be running this on February 14th.
+
+**Passion Killers** (1/00)\
+Ben Miller (half of the *[Armstrong and Miller](a.htm#Armstrong)* duo) stars as a loser in love who gets to turn the tables when he is accidentally hired by a sexy private detective to help her prove clients are cheating on their partners in this ITV pilot. First she has to teach him how to pick up women effortless, and after a few false starts, he's ready to entrap anyone. Clearly he's taken by his boss but she thinks his attempts to be affectionate are just more "practicing" his techniques.
+
+**Patrick Kielty Almost Live** (3/00)\
+What are the odds the best two dynamic chat shows in Britain would be hosted by Irishmen? Graham Norton still holds the title, but stand-up comic Patrick Kielty (actually broadcasting from Belfast) has enough gimmicks and gags to maintain interest, plus amusing guests such as Brian Blessed (who demonstrates how NOT to act in a science fiction film), add up to entertaining and easy-to-please half hours.
+
+<span id="Paul"></span>**Paul Calf's Video Diary**(4/94)\
+A one-shot comedy about three youths in the midlands on New Year's Eve recording their adventures with a video camera. Remarkably staged and quite revealing (they really are gits), but quite funny in its revelations about the ordinary lives of these three guys. One bizarre bit is the hero's sister is played by [Steve Coogan](actor.htm#Coogan) in drag. It's done incredibly straight until the very end when "she" picks someone up at a party to take home and asks if he's seen *The Crying Game*. Go figure.
+
+<span id="Life"></span>**Paul Merton's Life of Comedy** (9/95)\
+Regrettably, [Paul Merton](actor.htm#Merton) hasn't much exposure in this country, which is a shame as his delivery (especially on the current-affairs game-show *[Have I Got News For You](h.htm#Have)*) is priceless. In this series we supposedly relive Paul's early exposure to television while growing up in a small council flat, interspersed with many classic comedy clips from British television.
+
+<span id="Merton"></span>**Paul Merton: The Series** (9/93)\
+One of the few comedians confident (or popular) enough to get his ownshow without some kind of double-act. [Merton](actor.htm#Merton) is best known for always winning *[Have I Got News For You](h.htm#Have)* even when teamed up with a tub of lard against Ian Hislop (a classic episode from 1993 - the tub of lard was a last minute substitution when Roy Hattersly cancelled just before taping). On his own, Merton fares just as well, observing life from his newspaper stand and in various sketches. Some good yuks and it's nice to see someone who doesn't rely on a partner. *(See also [Galton & Simpsons](g.htm#Galton) for further Paul Merton appearances)*
+
+**Paul O'Grady's America** (3/02)\
+O'Grady is well known in Britain for his alter ego, Lily Savage, a drag queen with a caustic mouth who has hosted "Blankity Blank" on ITV.  I assume O'Grady used his leverage with the network to make this vanity project where he filmed his trip across America, stopping off in famous US cities.  What's amazing is he makes no attempt to achieve "show biz gloss" and frequently is seen drunk, whining, or making diatribes not often spoken by celebrities.  But clearly he doesn't care, and it's always amusing to see a foreign perspective on our country, even obviously phoney places like Hollywood.
+
+**Peep Show** (5/04)\
+Channel 4 late night comedy starring David Mitchell and Robert Webb (*[Daydream Believers](d.htm#Daydream)*) and shot in a point-of-view style.  They play two idiot flatmates and not only do we see what they do during a normal day but can hear their moronic thoughts as they try to pick up girls, look cool, or just avoid neighborhood bullies.
+
+**Peggy Su!** (1/99)\
+BBC TV movie set in Liverpool in the 1960s about an immigrant Chinese family running a laundry and the efforts of their father (Burt Kwouk, from the *Pink Panther* movies) to marry off his ugly-duckling daughter, Peggy. He's just arrived from Hong Kong with a Peggy's cousin, a nerdy fellow in glasses who can't even run a washer, while Peggy would rather marry the rich son of a Chinese restauranteur who is wooing her. A charming bit of nostalgic fluff that goes down easily.
+
+**People Like Us** (7/00)\
+Parody of "fly-on-the-wall" docu-soaps, with an unseen interviewer looking at ordinary working class folks who are just as completely clueless as he is.  Like *[This Is David Lander](t.htm#Lander)*, it appears to be on the up-and-up, with no tell-tale laughtrack, but listen closely to what it going on (in this BBC series based on a radio show of the same name) and you'll realize it's all a put on.
+
+**The Perfect Blue** (3/98)\
+Two happy couples both heading towards matrimony are suddenly derailed when an old school flame is rekindled between two of them in this BBC TV Movie (part of their "Love Bites" season). There is a racial angle, but what's really at the heart of this is whether the old lovers will do the right thing and ignore the past and marry their intended spouses, or screw things up for everyone.
+
+**A Perfect State** (7/97)\
+The small village of Flatby discovers a loophole in the law and decides to declare itself independent of England in this BBC comedy. Of course the British government doesn't take this lying down and in each episode its civil servants scheme with ways to get Flatby back into the fold. But the Flatbyans (as they call themselves), despite being a bit odd themselves, manage to foil the plots against them and remain independent. Plenty of stock characters but the familiar faces (including Matthew Cottle from *[Game On](g.htm#Game)* and Trevor Cooper from *Star Cops*) make the whole thing go down nicely.
+
+**Perfect Strangers** (3/02)\
+A huge family reunion in a hotel is the setting for this three-part BBC drama by Stephen Poliakoff (*[Shooting The Past](s.htm#Shoot)*) where the black sheep division headed by Michael Gambon (*The Singing Detective*) re-encounter the more successful relatives and uncover old truths.  Poliakoff, as evidenced by his last drama, is fascinated by the power of photographs and still images, and again uses them here as a motif to illustrate the past and its effect on his characters.  It also reunites him with "Shooting" co-stars Lindsay Duncan and  Timothy Spall as other family members.
+
+<span id="Perfect"></span>**Perfect World** (3/02)\
+Paul Kaye stars as Bob Slade, a middle-management executive who schemes, lies, and has never done a day's work in his life.  Needless to say, he's a huge success in this over-the-top BBC office comedy.  Nina Wadia (*[Goodness Gracious Me](g.htm#Gracious)*) plays his rival forever trying to trip him up (only she is Wile E. Coyote to his Roadrunner; Bob always gets away in the end), and they both work for a Marketing Director who is stark raving mad.  The fun in this series is seeing a nasty piece of work (whose comic forbearers include Rowan Atkinson's Blackadder and [Rik Mayall's](actor.htm#Mayall) Alan B'Stard) plot and get the best of everyone.  In Bob's "Perfect World," nice guys do finish last.
+
+<span id="Peter"></span>**The Peter Principle** (1/96)\
+Jim Broadbent stars as a Gordon Brittas-like bank manager who is utterly incompetent and constantly getting into trouble. However, whereas Brittas' heart is in the right place even though disaster follows him like a cloud, "Peter" is just a moron and brown-noser. It's hard to have any sympathy for him. Renamed "The Boss" in America (perhaps because it sounded like "The Office").
+
+**The Phoenix and the Carpet** (1/98)\
+Six part children's BBC drama (featuring the characters first seen in *The Psammead*) about some Edwardian siblings who discover an ancient bird (voice of David Suchet) as well as a magical carpet which they manage to lose track of in nearly every episode! How incompetent can you get? Still, the production is very well mounted with an excellent musical score.
+
+**Philip K Dick--A Day in the Afterlife** (7/94)\
+A documentary about the celebrated SF writer, this features interviews with most of Dicks' ex-wives, agents, friends, and professional admirers such as Terry Gilliam, Fay Weldon and Elvis Costello. First rate, although unfortunately I'm missing the ending.
+
+<span id="Pie"></span>**Pie in the Sky** (7/96)\
+It could almost be a "Smith and Jones" parody: "The Chef Detective." But that's exactly what this BBC mystery series starring portly Richard Griffiths features: a detective inspector who also runs a restaurant. It's played completely straight (with some nice supporting performances including Samantha Janus (*[Game On](g.htm#Game)*) as a waitress) but you have to wonder how far the BBC will go to present original mysteries.
+
+<span id="Pig"></span>**The Piglet Files** (8/91)\
+Nicholas Lyndhurst sitcom parody of spy shows, with Clive Francis as his handler. Two seasons ran, 14 episodes in total.
+
+**Pilgrims Rest** (11/97)\
+Lame BBC sitcom about a cafe on a forgotten highway and the "characters" who seem to always be hanging around. The most amusing thing was in the pilot where various outages on the letters "PILGRIMS RESTAURANT" neon sign spelled out cute phrases.
+
+**The Pilot Show** (7/04)\
+Channel 4 show where minor British celebrities are conned into believing the worst ideas ever as potential TV shows they could participate in.  Maybe some folks just want to cling on to fame, no matter how tenuous, or maybe it's just the British good manners not to laugh in the face of a producer when you need a job, no matter how naff an idea they might have for you.
+
+**Pinch of Snuff, A** (7/94)\
+Comics Hale and Pace (seen briefly in the *Dr Who* episode "Survival") try their hand at drama in this three part mystery about murder at an exclusive gentlemen's club. I wouldn't be at all surprised to see this pop up on "Mystery" sometime.
+
+**Planet Mirth** (11/97)\
+Comedy sketches with a science fiction bent on this ITV series that is a co-production with the Sci-Fi Channel. Americans will never understand the arcane references to Barry Norman, Richard and Judy, and *Top Gear* which are essential if you are going to appreciate the humor involved. A running sketch involves a Venusian girl with three arms who was accidentally left on earth and has grown up in a foster home in London to become the Saddest Person On the Planet. Doctor Who of course gets a brief drubbing (mostly bad title puns), but I don't see this series succeeding here in the States because of the cultural differences.
+
+**Plastic Man** (1/00)\
+Two part ITV drama with John Thaw (*Inspector Morse*) doing his patented gruff-old-dog-with-a-heart-of-gold thing, this time as plastic surgeon trying to cope with his patients and professional children. His son is in training to be a doctor but was involved with a crime, the victim of which is one of Thaw's patients.
+
+<span id="Playing The"></span>**Playing The Field** (7/98)\
+BBC drama series about a woman's amateur soccer team. Set in the North of England, we meet the team as Theresa is about to get married, with most of her teammates as bridesmaids. It doesn't go quite as expected but we are quickly introduced to the different women who come from all walks of life. And we discover that Theresa's sister Jo, the best player on the team, is actually her daughter she had when she was 15 and forced by her mother to disavow. Each episode focuses on a different character, with a running storyline about the team's run for the championship. Affairs are conducted, secrets revealed, friendships tested, and oh yes, there's a game played each week. Solid material, nicely acted, with men reduced to mere supporting characters pretty much.
+
+**Pleasure** (5/95)\
+An Alan Bleasdale movie, this one set in France about a no-talent writer who places a personal ad and attracts the attention of a bored married housewife. He tells her he is a mystery bandit that has been striking Paris, and she becomes even more excited. Together they make a big score, but then he dumps her, she is thrown out by her husband, turns to prostitution and then gets her own form of revenge on the writer.
+
+**Pleasureland** (7/04)\
+Part of Channel 4's "Adult at 14" season, this TV movie about a schoolgirl coming of age and discovering sex among her peers is as grim and raw as it gets.  No one likes to be reminded of those times, although if you had a teenage daughter, you could do worse than having her see this powerful film.
+
+**Plotlands** (9/97)\
+BBC drama series set in 1922 as a woman takes her two daughters and spends her last five pounds to buy her own "bit of England," a plot in a field with just a tent. Her fellow neighbors are similarly down-and-out, trying to survive in the middle of nowhere but eventually surviving adversity to form a sense of community.
+
+**Police 2020** (9/97)\
+Futuristic police drama that is very matter-of-fact. If you were to tape an episode of *The Bill* 20 years from now it would probably look very similar to this ITV movie pilot. Technology is not trotted out to the viewer as any big deal, but used in the manner that a radio or gun would be today. A hostage situation at an apartment block full of Russian refugees sheds light on one man's torment (Keith Barron) and Britain as a whole if certain trends are borne out.
+
+**Politically Incorrect Night** (9/98)\
+BBC-2 dedicated an entire evening to all things un-PC, including various celebrities singing the praises of unfashionable people: Margaret Thatcher, Oliver Reed, Sam Kinison; a collection of incredibly sexist songs; and a documentary, "One Million Years PC" chronically the history of racism and sexism on British TV including the amazing fact that *The Black and White Minstrel Show* (complete with black-faced white performers) ran until 1978 on the BBC! The evening finished with a screening of an *On The Busses* movie, based on the 70s sitcom (which in itself, owes a lot to the *Carry On* films).
+
+**Pond Life** (11/97)\
+Channel 4 animated series about a high-strung young woman who is constantly at odd with life. The title refers to her last name.
+
+**The Pooters** (3/03)\
+An oddball Channel 4 *Comedy Lab* pilot about a book discussion group.  Somehow they manage to get noted TV astronomer Patrick Moore to appear (he seems game for anything), but the whole thing is played completely straight.
+
+**Porterhouse Blue** (3/93)\
+Four-part drama, the title describing the condition of what happens to the Master of one of the Inns of Court when he dies of a heart attack "in his own bed as he should, not in a hospital." Tradition IS the watchword at this fictional school, but the new Master (Ian Richardson) appointed by the Prime Minister thinks tradition is bollocks and immediately sets out to reform the school, much to the horror of everyone, particularly the Porter (David Jason). Meanwhile, a graduate student (John Sessions) is slowly going bonkers and having sexual fantasies about his charwoman. A good story, though it helps to understand the traditions underlying it.
+
+**Posh Nosh** (3/04)\
+A parody of cooking shows with Arabella Weir (*[The Fast Show](f.htm#Fast)*) and Richard E. Grant as an upper class couple showing off their kitchen and recipes and making absurd versions of food in 10 minute segments.
+
+**The Preventers** (5/97)\
+Hilarious spoof of old 60s ITV action series, particular *The Champions* (in fact the star of that series, William Gaunt, appears as their boss here). This ITV pilot by the stars of *Naked Video* has a trio of 60s-throwback secret agents (shades of "Austin Powers"!) battle an evil Lord, all the while sending up cliches about that era, with clever sight gags (my favorite: the "drumbeat transition" used to cut between scenes ala *Captain Scarlet*, only this time they mistime it and end up stuck at the original scene on an actor looking around uncomfortably).
+
+**A Prince Among Men** (11/97)\
+Chris Barrie (*[Red Dwarf](r.htm)*) stars as Gary Prince, a working class former championship footballer who has cashed in on his name and built a business empire in this BBC comedy. He is surrounded by dim secretaries, an upper class business manager, a publican from "the old days," and his intelligent German wife. Gary is less catastrophe-prone than Gordon Brittas, but his egotism can remind you of Arnold Rimmer if he had managed to ever capitalize on a single talent. This new franchise in the Barrie "Empire" is still finding its way during this first season, but should, like his other vehicles, have a long run based on his immense talent for doing likable yet annoying characters.
+
+<span id="Private Life of Samuel"></span>**The Private Life of Samuel Pepys** (7/04)\
+[Steve Coogan](actor.htm#Coogan) stars as the famous 17th Century London diarist in a story told in flashback at his trial for treason while he was with the Admiralty.  Though Pepys loved his French wife, he was quite the womanizer, and made a lot of enemies for always making it to the top whether during Cromwell's domination or the subsequent Restoration.  Coogan plays Pepys in a similar style as his breakout role in "24 Hour Party People" making asides to the camera (his funniest comes during the Great Fire of London in 1666 when someone points off camera that the entire city is burning and Coogan assures us, "You'll just have to take my word for it," thus acknowledging the low budget of this entertaining costume drama).
+
+**Promoted To Glory** (7/04)\
+ITV TV movie with Ken Stott as Mike, a wino who seeks redemption with Annie, a Salvation Army worker.  After being hit by a bus, he turns up at her rehab facility much to the annoyance of her Army fiancee Nigel played by perennial loser Kevin Whately (*Inspector Morse*).  Mike eventually sobers up and decides the only way to earn Annie's love is to join the Army with her.  Will she succumb to his charms or stick with Nigel?  I have to say though, as a Christmas-oriented special, this has the most cynical ending I've ever witnessed in my life.  It's like killing Jimmy Stewart halfway through "It's a Wonderful Life."  I'm not knocking it, mind you, but talk about souring the holiday cheer.  You'd never see anything remotely like this on American TV at Christmastime in a million years.
+
+**Psychos** (1/00)\
+Channel 4 drama series that basically is *ER* set in a Glasgow psychiatric hospital. As usual in these sorts of shows, the doctors are usually more screwed up than their patients, particularly one loose cannon who becomes increasingly unglued as he skips his lithium doses. It was a bit too grim and downmarket for my tastes.
+
+**Punt and Dennis** (1/96)\
+Comedy double act with the usual sketches and music (one episode featured the (yes, popular) Australian act "Bjorn Again" who do old ABBA songs). Includes elaborate parodies of popular series on UK television including *[Bugs](b.htm#Bugs)* (making much hay over the fact that everyone in the cast is a refugee from soap operas) and *The X-Files*.
+
+**Pure Wickedness** (7/00)\
+Kevin Whately (*Peak Practice*, *Inspector Morse*) again sheds his nice guy persona as a doctor too devoted to work to notice his wife having an affair with the window cleaner.  The BBC drama written by Lucy Gannon takes the relationship to its natural conclusion, particular with the children who are involved.\
+ \
+ \
+
+[A](a.htm) \| [B](b.htm) \| [C](c.htm) \| [D](d.htm) \| [E](e.htm) \| [F](f.htm) \| [G](g.htm) \| [H](h.htm) \| [I](i.htm) \| [J](j.htm) \| [K](k.htm) \| [L](l.htm) \| [M](m.htm) \| [N](n.htm) \| [O](o.htm) \| P \| [Q](q.htm) \| [R](r.htm) \| [S](s.htm) \| [T](t.htm) \| [U](u.htm) \| [V](v.htm) \| [W](w.htm) \| [X](x.htm) \| [Y](y.htm) \| [Z](z.htm)
+
+[Previous List](o.htm) \| [Back to Homepage](brit.htm) \| [Next List](q.htm)
+
+------------------------------------------------------------------------
+
+Written and maintained by Ryan K. Johnson [(rkj@eskimo.com)](mailto:rkj@eskimo.com).
+
+August 6, 2004

@@ -1,0 +1,193 @@
+---
+title: "The Wonderful Wizard of Oz Website - Words from the Wizard"
+source_domain: amasci.com
+source_path: ~tiktok/wizardwords.html
+order: 9042
+reachable_from_entry: false
+images: 19
+internal_links: 2
+extracted: 2026-08-07T17:17:04Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Wonderful Wizard of Oz Website - Words from the Wizard
+
+*Source page: `~tiktok/wizardwords.html`*
+
+<img src="pics/WizardWords.gif" width="300" height="271" alt="Words from the Wizard" />
+
+This is my page to spout off on whatever Ozzy topic I feel like. This will be different from the FAQ, in that it will have my opinions and feelings, not just straightforward answers to questions. It will be an area to address topics of interest to the Oz community that I couldn't bring up somewhere else on this site. Through this column, I hope to address some of what's happening out there. I will add new columns here when I have something to say and time to say it, so it won't usually be very timely. And I'll archive the old ones as well, once I *have* some old columns.
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+## [<img src="pics/home.gif" data-border="0" width="100" height="88" alt="Back home" /> "There's no place like the home page..."](index.html)
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+## "How *dare* they edit the Oz books?"
+
+In the early 1980s, the state of the Oz books was grim. Reilly and Lee, who published all of the original books after *The Wonderful Wizard of Oz*, was no longer in operation, and their successors had quietly dropped the books years earlier. Dover had only reprinted the first two Oz books in handsome paperback editions with the color plates. Various other editions of *The Wonderful Wizard of Oz* and *The Marvelous Land of Oz* were available, but the only publisher who had all fourteen of the Oz books by L. Frank Baum available was Del Rey, an imprint known more for science fiction than classic children's fantasy. As a result, many stores filed the books in the sci-fi section, not with other children's books. Del Rey's books didn't have color, and they were small, mass market-sized paperbacks. The rest of the Oz books by other authors weren't available at all, and most of the Baum books that were available were not terribly satisfying.
+
+All that changed in 1985. Books of Wonder, the popular New York City children's bookstore, was looking to enter the publishing field with reprints of classic children's books. Since the proprietors of Books of Wonder, Peter Glassman and the late James Carey, were both Oz fans, it seemed a natural fit to start with an Oz book, and so their edition of *The Marvelous Land of Oz* came out that fall, published in conjunction with William Morrow and Company, a large, established publisher. This edition of *The Marvelous Land of Oz* was unlike anything that had been available for decades. It purported to be a facsimile of the first edition, and while that wasn't strictly the case, it came close. First, it was a hardcover, clothbound book. While there were probably a few other hardcover editions available at the time, this was the exception, not the rule, as most Oz books were available only in paperback at the time. The cloth was red, with the title and illustrations stamped onto the cloth in navy blue, green, and silver. The last edition to feature this was the first edition, published by Reilly and Britton in 1904. All of John R. Neill's original illustrations, including the sixteen color plates, were included. This was the first hardcover sixteen-plate edition since 1917. And unlike buying one of those early printings it emulated, it was affordable, at only fifteen dollars. (It's gone up a little bit since then, but is still considerably cheaper than actually going out to buy a first edition.) But as I previously mentioned, it wasn't a true facsimile. Notably, it had a modern dust jacket; the title on the front cover was printed in two lines (*The Marvelous*/*Land of Oz*, as opposed to the first edition's *The*/*Marvelous*/*Land of Oz*); the color plates were bound in rather than tipped in, and so were not all in the same places as they'd been in the first edition; and the endpapers were blank, instead of awkwardly placing David Montgomery and Fred Stone, the actors who originated the roles of the Tin Woodman and the Scarecrow on Broadway, into a John R. Neill drawing. But none of it really mattered. It was a gorgeous, elaborate, and affordable edition of an Oz book that hadn't been available in that form for at least seventy years, and many Oz fans eagerly snatched it up.
+
+The success of *The Marvelous Land of Oz* told the publishers that they were on the right track, and so they pushed on with other books. They put out new editions of other beloved childhood classics, but Oz was always part of their plans. In 1987, Books of Wonder and Morrow again collaborated to issue a facsimile of an Oz book. This time, it was the book that started it all, *The Wonderful Wizard of Oz*. This was the first hardcover, clothbound edition since the first edition in 1900 with all twenty-four color plates and color pictures throughout the text. This edition was also quite affordable, and it also sold well. So Books of Wonder announced plans to publish the rest of Baum's Oz books in a similar format, with all of the original color, by 2000, the centennial of the publication of *The Wonderful Wizard of Oz*. In 1989, the third Oz book, *Ozma of Oz*, came out with all of the color restored to the text illustrations. In 1990, *Dorothy and the Wizard in Oz* was published with the original sixteen painted color plates. *The Road to Oz* came out in 1991, with no color pictures -- but as in the first edition, the book was printed on colored paper, each signature made up of a different color. In 1993, *The Emerald City of Oz* was reprinted, with the sixteen painted color plates. The first edition used a metallic green ink on the cover and color plates for highlights and other decorations, and this proved to be too expensive for Books of Wonder and William Morrow to reproduce, so they used a green ink flecked with gold that preseented a similar effect.
+
+By this point, these new/old editions were widely acclaimed in Oz circles, and new books were eagerly awaited by Oz fans. More importantly, the books were also finding their way into the hands of readers who were not as familiar with the Oz books, but were just interested in well-made reproductions of old books. The Books of Wonder/Morrow editions were even showing up in libraries, which increased their exposure even more. It seemed the Books of Wonder/Morrow partnership could do no wrong. But all that would change in 1995, with their publication of the next Oz book, *The Patchwork Girl of Oz*. Oh, sure, the book looked terrific. Like *Ozma of Oz* before it, *The Patchwork Girl of Oz* had not originally been published with inserted color plates. Instead, it had had many of the illustrations within the text printed in color. This made for much color throughout the book, and a very attractive package. No edition of *The Patchwork Girl of Oz* had been published in color since at least 1935. Color editions of *The Patchwork Girl of Oz* have always fetched high prices in the antiquarian book market. Therefore, many Oz fans were looking forward to the Books of Wonder/Morrow edition of the book, so that they,too, could buy a color edition.
+
+For the vast majority of the book's buyers, it was a success. Yet a vocal group within Oz fandom noticed something else: The text had been altered. As one should expect in a book that was over eighty years old, some aspects were now a bit dated. This had never been a problem before, but in the case of *The Patchwork Girl of Oz*, American society had changed enough that the publishers felt that some light editing was justified, so as not to offend people of African descent.
+
+Before talking about whether or not these edits were justified, it would probably help many of my readers to look at what changes were made. The first edit comes when the protagonists, led by the Munchkin boy Ojo, the Shaggy Man, and Scraps, the Patchwork Girl, meet up with a live phonograph player that plays its own record -- in this case, what the record player calls "the latest popular song" in chapter 11, on page 137:
+
+> "Ah wants mah Lulu, mah coal-black Lulu;\
+> Ah wants mah loo-loo, loo-loo, loo-loo, Lu!\
+> Al loves mah Lulu, mah coal-black Lulu,\
+> There ain't nobody else loves loo-loo, Lu!"
+
+Not knowing much about the history of early twentieth century music, I will not venture to guess who or what Baum was poking fun at, but I suspect he was having a little bit of fun here. This was probably no different than television shows poking fun at Elvis Presley, the Beatles or rock and roll in general in the '50s and '60s. But it seems some editor somewhere saw something remiss here, for in the Books of Wonder/Morrow edition, the lyrics were changed to the following:
+
+> "Ah want mah Lulu, mah cross-eyed Lulu;\
+> Ah want mah loo-loo, loo-loo, loo-loo, Lu!\
+> Al love mah Lulu, mah cross-eyed Lulu,\
+> There ain't nobody else loves loo-loo, Lu!"
+
+A relatively small change, but one that some vocal Oz fans have decried. The big question some have raised is, if the original version could be construed as being insensitive to African-Americans, then why is the new version not insensitive to cross-eyed women?
+
+But the big changes came later in the book, in chapter 19. The main characters now consist of Ojo, Scraps, Dorothy, and the Scarecrow, who meet up with a group of people called the Tottenhots. Right away, at least from an early twenty-first century perspective, some might see that this could be a problem, as "Tottenhot" is a pretty obvious play on "Hottentot," a somewhat derogatory term for certain native peoples of South Africa (and which is used, coincidentally, by the Cowardly Lion in the song "If I Were King of the Forest" in the famous 1939 film version of *The Wizard of Oz*). Those suspicions would be confirmed by the first description of the Tottenhots, on page 243 of the original edition: "...out popped a dusky creature, rising its length into the air and then plumping down upon upon the ground just beside the little girl." This was altered in the Books of Wonder/Morrow edition to "...out popped a *small* creature" (emphasis mine). On the next page, the description continues in the original edition: "Their skins were dusky and their hair stood straight up, like wires, and was brilliant scarlet in color." The edited edition leaves off the first few words: "Their hair stood straight up, like wires, and was brilliant scarlet in color." Later, on page 246, the original edition describes "The little brown folks," but the word "brown" is removed in the Books of Wonder/Morrow edition. Finally, on page 248 of the original edition is a close-up illustration of a Tottenhot, but this was removed for the new edition, with all of the text moved up to cover the gap. (While the original chapter 19 ended about two-thirds of the way down page 252, the edited edition has only four lines of text on the same page.) While this picture is questionable, it could be taken to be of a sterotypical "savage" African. There are two other illustrations of Tottenhots in the book, but they show groups and no one Tottenhot is seen so clearly, so perhaps they were considered to be inoffensive as a result.
+
+Now, that's it. That's all of the changes that were made in *The Patchwork Girl of Oz* for the Books of Wonder/Morrow edition. Not a lot, really. Yet the vocal critics of this edition would have you believe that the entire book was butchered, and for no justifiable reason. Stephen J. Teller, in reviewing the book for the Winter 1995 issue of *The Baum Bugle*, the journal of the International Wizard of Oz Club, is probably the most visible critic of this edition. His review is printed on an entire page, yet only two paragraphs were about the appearance of the book and the reproduction of the first edition. The entire rest of the review was devoted to detailing the changes made, and concludes with:
+
+> I consider this treatment of Baum and Neill's materials indefensible. Every earlier edition of *The Patchwork Girl of Oz*, including the recent Del Rey paperback\[,\] has retained the original text and the original illustrations. To make alterations to an author's text is always wrong; to do it in a "facsimile" is intolerable. Anyone who bought this book under the belief that it was a true facsimile would be justified in demanding his money back.
+
+I know Stephen J. Teller and respect his knowledge and opinion, but I consider this review to be lacking in perspective. As bad as it was, however, others have gone even further. On some online forums, I've heard calls for boycotts of all Books of Wonder products, and even threats to Peter Glassman's life!
+
+In my opinion, this criticism is completely out of line. And I believe that I can solve just about every problem any of these critics has with the Books of Wonder/Morrow edition of *The Patchwork Girl of Oz*. But first, I want to propose counterarguments to some of the complaints people have had with this, starting with some of the comments quoted above in Stephen J. Teller's review. For example:
+
+> Every earlier edition of *The Patchwork Girl of Oz*, including the recent Del Rey paperback\[,\] has retained the original text and the original illustrations.
+
+While quite true, this statement overlooks a couple of major issues. One is that, like the rest of the Baum Oz books, *The Patchwork Girl of Oz* is in public domain. That means that the copyright has expired on it, and anyone now can do whatever it is they like with the story, including alter it. To be sure, recent publishers like Del Rey and Dover have not done so, because they didn't feel they needed to for their markets. Books of Wonder, on the other hand, is aiming their books not just at Oz fans, but at the general children's book market. Times being what they are, I'm sure both publishers of the edited edition had a long hard think about how these incidents would be perceived by the book's readers and their families, and felt that some changes might be called for. I myself have a niece and nephew of African-American descent, and naturally I've been giving them Oz books. I would have had to stop and think hard about it, however, when it came to *The Patchwork Girl of Oz* if the option of the Books of Wonder/Morrow edition hadn't been available. Unlike other recent editions of *The Patchwork Girl of Oz*, this edition was also designed with libraries in mind. Whether we like it or not, books in libraries are held under a microscope these days, particularly by some extremists who like to tell people what they can and cannot read. This edition of *The Patchwork Girl of Oz* at least addresses those concerns.
+
+> To make alterations to an author's text is always wrong...
+
+Now, what was it we all learned in school about making generalizations? This statement shows a general naïveté of how publishing works, as virtually every book that reaches the shelves of a bookstore is not what the author originally wrote. Professional writers know that their work will be edited, and accept those changes. Sometimes the publishers or editors will make drastic alterations, all in an attempt to improve the book. Baum's books were not edited much by Reilly and Britton, but they did make suggestions for changes, and Baum generally saw the wisdom in what they said. Much of the correspondence exists between Baum and his publishers for *The Patchwork Girl of Oz*, and there was a chapter about "The Garden of Meats" that was dropped, primarily for space, but also because it was a gruesome subject matter -- a race of vegetable people that grew human children in their gardens to eat! While some writers may bristle at their work being altered, there is no evidence that Baum was one of them. He did not care that much about what he wrote, only that his story would entertain his readers. Had these changes been made upon the books initial publication in 1914, I very much doubt Baum would care. Had he known the reason for the changes was so as not to offend readers of particular ethnic backgrounds, I like to think that he would even have approved. Teller may be objecting only to changes being made to the published version of the book, but even then it's not set in stone. P. L. Travers herself rewrote portions of *Mary Poppins* when the word "pickaninny" became a problem, and Hugh Lofting's son rewrote an entire chapter of *Doctor Dolittle* when a story of an African prince who wanted to be white became more offensive to society at large. This puts the relatively small changes made to this edition of *The Patchwork Girl of Oz* into a better light, I believe.
+
+> \[T\]o do it \[make changes\] in a "facsimile" is intolerable.
+
+Okay, I'll concede this point, to a degree. Yes, this edition of *The Patchwork Girl of Oz* should not have been marketed as a facsimile. However, I will point out that the meaning of facsimile has always been a bit slippery with these editions anyway. As I've already mentioned, the Books of Wonder/Morrow edition of *The Marvelous Land of Oz* also wasn't a true facsimile, and their version of *The Emerald City of Oz* couldn't be a facsimile because the metallic green ink wasn't available (at least, not at a price that would have made the book affordable). Besides, this claim should be laid at the feet of the marketing people, not the editors. Furthermore, I believe that most of the readers of this edition are not interested in the book being a facsimile; rather, they're looking for a good, solid, colorful copy of *The Patchwork Girl of Oz* that's affordable. Those readers won't know, won't notice, and aren't likely to care that the book has undergone a few small alterations.
+
+Now, a few other general thoughts some of the Books of Wonder/Morrow detractors have had can be summed up in some thoughts such as these:
+
+> If they couldn't publish the book without altering it, then they shouldn't have published it at all.
+
+Okay, what kind of hue and cry would *that* have raised? Would these same Oz fans have understood why one of the favorite books of the series couldn't be published at all? Would fans then turn around and say, "Well, can't you change or take out the bad parts?" It just wouldn't be the Oz series without *The Patchwork Girl of Oz*, and I, for one, am glad they were able to find a way to publish this book while getting around modern sensibilities and with minimal alterations. *The Patchwork Girl of Oz*, with all of its color pictures, is such an attractive book that it would be a shame to not have it available in this edition at all. (Since the two altered incidents aren't actually part of the main story, and don't affect the plot, some have proposed that these sections could just be removed, but this would have very much the same effect as not publishing the book at all.)
+
+> The book is ruined forever, since we're never going to get the old version again.
+
+This argument is, in a word, poppycock. The same rules that let this edition be altered also allow for the unaltered version to also be available. There are at least three other editions of *The Patchwork Girl of Oz* on the market right now with the unaltered text and illustrations. And on the internet, there are many sites that have the original text available for downloading. Furthermore, there are many older copies available in the used and antiquarian book markets. The original version is not going anywhere. In fact, there is nothing stopping those who dislike this edition from going out and publishing their own, unexpurgated edition. Yet for some reason, none of them have done so yet.
+
+> There should at least be a warning in the front that the book has been edited.
+
+Okay, this I agree with completely. But let's at least cut the publishers some slack, in that this was the first time they had done something like this, and I don't see how anyone could have foreseen the backlash they received. They did, at least, learn their lesson from this, and gave such notices in later books (see below). However, for some reason, there still is no such notice in *The Patchwork Girl of Oz*, despite the book having been reprinted a few times now.
+
+> What the publishers is doing is censorship.
+
+I must respectfully disagree. Those who claim that these edits are censorship do not understand what censorship truly is. Censoring would involve making these changes permanent, and applying to all copies of the book, not just this one edition. As I've already said, you can go out and get the original text and illustrations, and thanks to this page, anyone can get the whole story. If you want examples of censorship, take a look at what Adolf Hitler and the Nazis did in Germany, or read *Fahrenheit 451* or *1984*.
+
+And finally, getting back to Stephen J. Teller's comments in *The Baum Bugle*:
+
+> Anyone who bought this book under the belief that it was a true facsimile would be justified in demanding his money back.
+
+I very much doubt that the majority of readers bought this book because it was a facsimile. But for those that did, a refund will not be necessary. As a public service, I am offering here, for free, the pages that have been altered. They were all scanned in from an edition of *The Patchwork Girl of Oz* from the 1920s, and it has all of the original pictures and text. (This is the same edition I keep next to my Books of Wonder/Morrow edition. This is the copy I use to do research, while the new edition I use when I read for pleasure.) Every page that was altered is offered below. Simply click on the thumbnail picture to call up the full sized version in a new window. You can then download them to your computer, or print them out and put them in your own Books of Wonder/Morrow (or, if it's more recent, Books of Wonder/HarperCollins) edition of *The Patchwork Girl of Oz*.
+
+<table>
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+</colgroup>
+<tbody>
+<tr>
+<td><a href="pics/PatchworkGirl137.jpg" target="_blank"><img src="pics/PatchworkGirl137thumb.jpg" width="100" height="130" /><br />
+</a>
+Page 137</td>
+<td><a href="pics/PatchworkGirl243.jpg" target="_blank"><img src="pics/PatchworkGirl243thumb.jpg" width="100" height="130" /><br />
+</a>
+Page 243</td>
+<td><a href="pics/PatchworkGirl244.jpg" target="_blank"><img src="pics/PatchworkGirl244thumb.jpg" width="100" height="130" /><br />
+</a>
+Page 244</td>
+<td><a href="pics/PatchworkGirl245.jpg" target="_blank"><img src="pics/PatchworkGirl245thumb.jpg" width="100" height="130" /><br />
+</a>
+Page 245</td>
+<td><a href="pics/PatchworkGirl246.jpg" target="_blank"><img src="pics/PatchworkGirl246thumb.jpg" width="100" height="130" /><br />
+</a>
+Page 246</td>
+<td><a href="pics/PatchworkGirl248.jpg" target="_blank"><img src="pics/PatchworkGirl248thumb.jpg" width="100" height="130" /><br />
+</a>
+Page 248</td>
+<td><a href="pics/PatchworkGirl249.jpg" target="_blank"><img src="pics/PatchworkGirl249thumb.jpg" width="100" height="130" /><br />
+</a>
+Page 249</td>
+<td><a href="pics/PatchworkGirl252.jpg" target="_blank"><img src="pics/PatchworkGirl252thumb.jpg" width="100" height="130" /><br />
+</a>
+Page 252</td>
+</tr>
+</tbody>
+</table>
+
+While I'm at it, let me take the opportunity to make a correction to the Books of Wonder/Morrow edition that perhaps should have been made in the new edition. In the first edition of *The Patchwork Girl of Oz*, a printing error put the words "Chapter Three" into the text. This was corrected in later editions, but was reintroduced in the Books of Wonder/Morrow edition (perhaps this is being *too* authentic). You can download the corrected page by clicking on the picture below:
+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><a href="pics/PatchworkGirl35.jpg" target="_blank"><img src="pics/PatchworkGirl35thumb.jpg" width="100" height="130" /><br />
+</a>
+Page 35</td>
+</tr>
+</tbody>
+</table>
+
+So, was that it for altered Oz books from these publishers? Not quite, and the Tottenhots were involved again. A single Tottenhot makes a cameo appearance in *Rinkitink in Oz*, published by Books of Wonder/Morrow in 1998. While no text was altered, the picture was deleted -- and this time, there was a notice on the copyright page stating that a picture had been cut. If you want to print out that page, too, here it is, from a 1970s edition in my collection:
+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><a href="pics/Rinkitink295.jpg" target="_blank"></a>
+<img src="pics/Rinkitink295thumb.jpg" width="100" height="130" /><br />
+<em>Rinkitink in Oz</em>, Page 295</td>
+</tr>
+</tbody>
+</table>
+
+Later on, Books of Wonder, on their own, also published some of the books by Ruth Plumly Thompson. Since these were not as elaborate as the Baum books co-published with Morrow/HarperCollins, and were aimed more at the Oz collector's market than the general population, they were not altered. However, two of them did contain notices about cultural insensitivities that might be offensive to some readers. These were *The Royal Book of Oz*, which has a faux-Chinese culture which the Scarecrow visits; and *The Silver Princess of Oz*, which has the Red Jinn keeping slaves.
+
+I suspect there will always be those who disagree with the alterations made in these editions, and they can never be fully satisfied, even with the original pages available on this page. This is too bad, as these issues are not so clearly black and white (if you'll pardon the expression) as they seem to believe. Children's literature, like everything else in our culture, has undergone many changes in the last century. This has often been for the better, as we reexamine what it is to be a human being, and take into account the feelings of others. It is fortunate that the Oz series has been able to survive this transition, with only a few small changes to two books to make then acceptable. I hope that this column, and the availability of the altered pages, will soften a few attitudes towards Books of Wonder and their publishing partners, and the people involved. This way, you can have your cake and eat it, too.
+
+(Do you have some comments or questions about this column? Or would you like to see what others have said? Then click on the word "Comment" below. Please limit your comments to this column, and please keep things friendly and appropriate for everybody.)
+
+<a href="javascript:HaloScan(&#39;WizardWords&#39;);" target="_self"></a>
+
+[<img src="http://www.haloscan.com/halolink.gif" data-border="0" width="88" height="31" alt="(Commenting system by HaloScan.com)" />](http://www.haloscan.com/)
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+## [<img src="pics/home.gif" data-border="0" width="100" height="88" alt="Back home" /> "There's no place like the home page..."](index.html)
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />
+
+<a href="http://www.clipartconnection.com" target="_blank">Get FREE clip art, such as the rainbow bar used on this page, from ClipArtConnection.com</a>
+
+<img src="pics/colorbar.gif" data-border="0" width="600" height="1" />\
+
+This webpage, its contents, and the code used to create it are copyright © 1996-2005 Eric P. Gjovaag.\
+All rights reserved. For full legal disclaimer, see the <a href="aboutsite.html#legalstuff" target="_blank">About This Site</a> page

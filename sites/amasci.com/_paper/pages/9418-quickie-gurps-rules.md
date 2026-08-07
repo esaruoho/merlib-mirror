@@ -1,0 +1,156 @@
+---
+title: "Quickie GURPS Rules"
+source_domain: amasci.com
+source_path: ~vecna/g99_game02.html
+order: 9418
+reachable_from_entry: false
+images: 3
+internal_links: 9
+extracted: 2026-08-07T17:17:30Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Quickie GURPS Rules
+
+*Source page: `~vecna/g99_game02.html`*
+
+<table width="85%">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td><img src="../MageLore/d6_white.GIF" width="24" height="24" /></td>
+<td><h1 id="quickie-gurps-rules">Quickie <a href="http://www.sjgames.com/gurps/">GURPS</a> Rules</h1></td>
+<td><img src="../MageLore/d6_white.GIF" width="24" height="24" /></td>
+</tr>
+</tbody>
+</table>
+
+    In addition to the abilities inherent in the racial package, your character will be defined by:\
+    **Statistics**\
+**    Advantages and Disadvantages**\
+**    Skills**
+
+***Statistics are:***\
+    Strength (ST) -- how physically strong you are\
+    Dexterity (DX) -- how agile you are\
+    Intelligence (IQ) -- smarts and memory\
+    Health (HT) -- how much physical punishment you can take, and how well you resist\
+sickness\
+    You may choose to have your character be strictly average in all Statistics, or you\
+may choose to spend points to raise the stats of your choice, or gain extra points by\
+lowering stats. Just be sure not to drop any statistic too low or your character may\
+wind up too weak, clumsy, dumb, or sickly to function.
+
+***Advantages and Disadvantages are divided into categories:***\
+    Social -- how you get along with others and how they get along with you\
+    *Examples -- Odious Personal Habits, Charisma*\
+    Mental -- your personality traits, good or bad\
+    *Examples -- Strong Will, Megalomania*\
+    Physical -- any impairments or enhancements to your bod\
+    *Examples -- Lame, High Pain Threshold*\
+    Supernatural -- any magical, psionic, or otherwise unusual powers\
+    *Examples -- Magery, Vulnerability*\
+(In general, personal Disadvantages are limited to about 40-50 points' worth, to\
+prevent point-mongering abusiveness; that rule will be bent a little in the case of the\
+Third Race, who may have supernatural Disadvantages as well as personal ones).
+
+    Quirks are a subset of Disadvantages, worth 1 point each. Each character may get up\
+to 5 points' worth of quirks. These are little things that help define the character's\
+personality but don't make a major impact. Preferences for certain foods or colors of\
+clothing, a favorite saying frequently used, a hobby, a dislike for cats, etc. are all\
+examples of quirks (though if a quirk is taken too far, it may become an Odious\
+Personal Habit).
+
+***Skills:***\
+    Skills are anything your character can do. Is he/she a warrior? Does he/she have an\
+interest in electronics? First aid training? Know how to swim? Play baseball?\
+Gamble? Teach others? Speak foreign languages? Sing? Sculpt? Ride a horse or a\
+bike? Cast a spell? These are all skills.\
+    Skills are divided into Mental and Physical, and how good your character is at any\
+given skill depends on how many points you put into it. Some skills are Easy, some\
+Average, some Hard, and some Very Hard. It costs a lot more points, for example, to\
+be a skilled archer (Archery is a P/H or Physical/Hard skill) than to be a good cook\
+(Cooking is a M/E or Mental/Easy skill).\
+    Physical skills are based off of DX, so a character who is more agile will be better at\
+all things physical.\
+    Mental skills are based off of IQ, so a character who is smarter will be better at all\
+things mental.\
+    There are a few exceptions to this -- Carousing, the skill of partying hearty, is based\
+off of HT to reflect alcohol tolerance.\
+    All characters will have their native language at a skill equal to IQ+5 without\
+spending any points.
+
+***There are a few other things that will turn up on your character sheet:***\
+**    Go** -- how fast you react during a turn of combat; determined by DX+HT divided by\
+four. A turn is the 1-second increment that combats are divided into.\
+**    Move** -- how far you can move in a turn; you may have different Move scores for\
+each type of movement. Move is expressed in "hexes," a hex a unit of space three\
+feet across. So, if your Move is 8 hexes, you may run 24 feet in a single turn. Your\
+Move is equal to your Go (rounded down) minus your Enc. (see below).\
+    **Encumberance** (Enc) -- how much weight you are carrying in terms of personal\
+armor, weapons, possessions, flightless friends. Enc affects your Move; if you are\
+carrying a lot, you will not be able to go as fast. How much Enc you can tolerate\
+depends on your ST. So, for instance, Goliath can carry much more than Lexington.\
+    **Dodge** -- if you want to hit someone, you'll use one of your Skills; if someone tries to\
+hit you and you don't want to be hit, you'll use your Dodge.\
+    **PD** -- if your character wears armor, he/she will have Passive Defense (PD), which\
+means that your armor will help deflect weapons.\
+    **DR** -- likewise, armor has Damage Resistance (DR), which, if the PD doesn't work,\
+lets the armor soak up some of the damage that would otherwise hit the character's\
+flesh.
+
+    Appearance, defined as lookin' good or lookin' uu-gly, can also be an Advantage or\
+Disadvantage. If your character is better looking than average *for your species*,\
+that'll cost points (how many depending on how much better looking, from Attractive\
+up to Drop-Dead Gorgeous). If he/she is on the other end of the scale, that will earn\
+points (from Unattractive to Hideous). How members of other species react to his/her\
+looks depends on the viewer.
+
+***Equipment:***\
+    Your character will automatically come with clothes, a selection of personal\
+weapons, and belongings. You'll want to make a list of everything he/she carries\
+when traveling.
+
+***Now that you've got a big list of Statistics and Skills, what do you do with them?***\
+    Now it's dice time.\
+    [GURPS](http://www.sjgames.com/gurps/) is played using 3 six-sided dice (the regular old cube ones you see in\
+Yahtzee or Monopoly), abbreviated as "d6." You'll roll 3d6 (three six-sided dice) to\
+see whether or not you accomplish what you're trying to do.\
+    *Example: big heavy boulder blocking the door; you will "roll vs." your character's ST*\
+*to see if he/she can move it. Suppose your character has a ST of 15. You'll roll and*\
+*try to get \_less\_ than 15 on 3d6. The amount you "make it by" will tell how*\
+*successful you are. If you roll a 12, you "make it by" 3, which is a decent success. If*\
+*you roll a 6, you "make it by" 9, and that rock is going to really move. If, however,*\
+*you roll a 16, you "missed by" 1 and the rock isn't going to budge.*\
+    Skills and spells work the same way. Your character wants to climb a wall, so you\
+roll vs. his/her Climbing skill. Your character wants to look up something in the\
+library, so you roll vs. his/her Research skill. Your character wants to turn someone\
+into a newt, so you roll vs. his/her Shapeshift Other spell skill.\
+    Note on Criticals -- a "critical" is either an extreme success or an extreme failure.\
+Any roll that is "made by" or "missed by" 10 is a critical. This can be very good, or\
+very bad. A roll of 3 or 4 is always a critical success; a roll of 17 or 18 is always a\
+critical failure.\
+    Criticals are especially important in [combat](g99_game05.html) and [magic](g99_game06.html). A critical success on an\
+attack can do extra damage to a foe; a critical failure puts your character at risk of\
+damaging him/herself instead. A critical success on a spell means that the spell is cast\
+with no energy cost on the part of the caster; a critical failure can have a variety of\
+bad and/or dangerous effects.\
+ \
+ \
+ 
+
+|  |  |
+|----|----|
+| ***[Introduction](g99_game01.html)*** | ***[Quickie GURPS Rules](g99_game02.html)*** |
+| ***[Being a Gargoyle](g99_game03.html)*** | ***[How Combat Works](g99_game05.html)*** |
+| ***[Being of the Third Race](g99_game04.html)*** | ***[How Magic Works](g99_game06.html)*** |
+| ***[Sample Character -- Ilona of Clan Vancouver](g99_game07.html)*** | ***[Sample Character -- Nix the Water-Sprite](g99_game08.html)*** |
+| ***[Pre-Generated Character Descriptions](g99_game09.html)*** | ***[E-mail the GM](mailto:vecna@eskimo.com)*** |
+
+ 
+
+[<img src="ad_cotsb_1.GIF" width="350" height="60" />](http://www.eskimo.com/~vecna/magelore_index.html)

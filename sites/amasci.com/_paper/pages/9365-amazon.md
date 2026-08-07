@@ -1,0 +1,881 @@
+---
+title: "amazon"
+source_domain: amasci.com
+source_path: ~vecna/amazon.html
+order: 9365
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:17:25Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# amazon
+
+*Source page: `~vecna/amazon.html`*
+
+# Jericho on the Island of Amazon Women
+
+\
+Christine Morgan [(vecna@eskimo.com)](mailto:vecna@eskimo.com)
+--------------------------------------------------------------
+
+    Author's Note: the characters of Gargoyles are the property of Disney and used
+    here without their creators' knowledge or permission. All others are my own.
+    Mature readers only, please, for reasons that should be obvious from the title!
+
+    This story is dedicated to the woman who inspired me and gave me the
+    idea -- Jennifer L. Anderson, President of the Jericho Fan Club, artist,
+    and friend. Any resemblance to actual persons is probably not entirely
+    coincidental ; ) Happy Birthday, Jennifer!
+
+            "We've lost the port engine!"
+            "Controls are out!"
+            "What hit us?" Jericho demanded.
+            They ignored him, continuing to hammer futilely at the mini-jet's
+    instrument panel and shouting jargon at each other.
+            The plane jerked and plummeted a thousand feet as if swatted by the
+    hand of a giant. Jericho braced himself against the walls of the cockpit. He could
+    feel the tortured shaking of the plane's structure vibrating through his bones. He
+    glanced out the window at the smoke pouring from the port engine, a darkness
+    blotting out the star-strewn sky.
+            The choppy laboring roar of the remaining engine smoothed out, and
+    for a moment the plane steadied.
+            "I think we've got --" the pilot began.
+            Sparks blazed all along the starboard side, a series of explosions that
+    threw Jericho into the aft compartment. His shoulder slammed into one of the
+    crates strapped to the floor, and he took odd momentary comfort in the
+    Nightstone logo stamped on the side.
+            The mini-jet banked steeply and lost all power. Now Jericho was
+    thrown against the windows, looking down at the open nothingness below. If not
+    for the shattered reflection of the moon upon the ripples of the sea, they might
+    have been falling through deep space.
+            He dug his talons into the plush nap that covered most of the mini-jet's
+    comfortable passenger space and righted himself. In the cockpit, the pilot was
+    giving orders that went unheeded as the co-pilot babbled incoherent prayers.
+            The plane's nose dipped. The starboard engine ground and coughed,
+    then caught with a mechanical snarl. Thirty seconds later, it blew up in one
+    colossal fist of fire that punched through the fuselage. The force of the blast tore
+    the crates loose. Blazing debris hurtled into the cockpit, crushing the pilot.
+            The co-pilot was untouched by so much as a splinter, and Jericho might
+    have spent some time musing on the power of prayer if he hadn't been fighting to
+    keep himself from being sliced apart by white-hot knives of ragged metal that
+    curved into the plane like claws.
+            He made his decision without conscious thought, shielding his face with
+    crossed arms as he pushed forward. Smoke eddied around him, but most of it
+    was whipped back out through the gaping hole in the side of the plane. The hole
+    that looked just large enough to admit one male gargoyle.
+            Brands seared his flesh. Recoiling from the heat, he brushed against a
+    spitting wire and a huge galvanic shock burst through him. Boneless, aware but
+    unable to control his limbs, he toppled forward and out.
+            The starboard wing snapped like balsawood, hanging on by cables and
+    struts. The bulk of the wing bent against the side of the plane with the speed of a
+    bear trap.
+            Right on Jericho's tail. The pain was sudden and immense, cutting
+    through the numbing effect of the shock. His falling weight was yanked taut, jaw
+    clacking as the jolt traveled all the way up his spine.
+            The wind whipped at him, screamed at him, tried to pry him loose like a
+    bird of prey trying to wrest a morsel from a rival. His tail was caught, pinned. So
+    close to freedom, and now trapped! And he could see the metal bulge, see the
+    bolts pop free. He intuitively knew that the fuel tanks were about to go up, taking
+    him with them.
+            He levered both feet against the belly of the plane and pushed. Raking
+    blades carved into his tail and he could not hold back a bellow of agony. But
+    then something gave, and he was plummeting away from the crippled mini-jet.
+            He fought instinct and kept his wings folded tight, falling faster. The
+    crippled plane's momentum carried it onward. Through the bubble at the front,
+    Jericho could see the co-pilot, still apparently unharmed, his face a rictus of
+    horror.
+            A single flame licked at a crack in the fuel tank.
+            Jericho flung a forearm over his eyes.
+            The next thing he knew, he was spinning head over heels in the dying
+    eddy of the blast. Better than two miles away from what was left of the plane.
+            He spread his wings, relieved beyond belief to find that they responded,
+    and gained control of his glide. The night was utterly silent -- no, it only seemed
+    so to his deafened ears.
+            Trailing Halloween ribbons of orange fire and black smoke, the
+    wreckage plunged to meet the waves. Gentle, low waves, cradled between the
+    sweeping bow of a coral reef and the pale sands of the shore.
+            An island, Jericho realized. A large island, crescent-shaped, with
+    towering waterfall-shimmering cliffs on its inner curve, the land sloping through
+    several miles of thick jungle to meet the long beach on the outer edge. At the
+    island's heart was a long-blown-out volcanic peak, its interior cloaked with mist
+    and clouds.
+            The plane plowed into the deeper water on the seaward side of the reef.
+    A geyser of water and sand leapt up. Burning fuel sprayed, floated, flickered.
+    The blackened carcass tilted, then submerged and came apart.
+            Every one of his injuries chose that moment to remind him of their
+    presence. He coiled in on himself, gasping. With great trepidation, he looked at
+    his tail. Something had given, and he wouldn't have been surprised to see a
+    ragged stump where the end of it had been severed.
+            His tail was bleeding, looked _gnawed_, but was intact.
+            Jericho released the pent-up breath he'd been holding. Whole and alive,
+    he was whole and alive. Whether he could remain that way was now up to him.
+    He had to survive, had to find his way home to Manhattan and his mate.
+            She would be annoyed at the loss of the mini-jet, indifferent at the loss
+    of the crew, and possibly quite aggravated at the loss of Sevarius' compound,
+    which he'd been escorting to Nightstone's new research facility. But the loss of
+    him might have destroyed her. How many times in the past months had she told
+    him that he was all she had left? Just as she was all that mattered to him.
+            He headed for the island, the only land in sight, and saw with despair
+    that there were no electric lights, no signs of civilization. No chance of reaching
+    a phone, getting in touch with her. He would have to wait for a search party, and
+    see what he could salvage from the wreck.
+            His shadow paced him over the clear aqua shallows, where silvery fish
+    flitted among the undulating plants. He landed on the beach -- cool wet sand
+    between his talons, bringing back memories of Avalon. The scents of flowers
+    and fruit washed over him like balm.
+            Jericho reached the edge of the jungle before everything caught up with
+    him. The tropical paradise began to swirl and blur. He tried to turn and stumbled
+    over his own sorely-abused tail.
+            Soft, spreading ferns cushioned him. He told himself he would rest
+    there a minute or two ...
+            Just a minute or two ...
+            No more than that ...
+
+                    *               *
+
+            Sondri watched the winking star with only idle curiosity, until it erupted
+    in flames and became not a star but a comet.
+            "Anneke! Did you see --?"
+            Anneke was already leaping to the top of a large boulder, following its
+    path with her keen hunter's eyes. "What is it? An omen? Do you think anyone
+    else sees it?"
+            "They must ha--"
+            The ground shook beneath her feet as the comet struck.
+            The clouds that kept the City of the Golden One concealed from the
+    outside world also kept the outside world hidden from those in the city. But even
+    those who slumbered would respond, if only in dreams, to that tremble that
+    rolled through the earth.
+            "The Golden One will want to know of this!" Sondri said.
+            "It landed just beyond the lagoon!" Anneke sprang down and seized up
+    her weapons -- the spear of the hunter, with its bronze leaf-shaped blade; the
+    spear-thrower that added strength and distance to her aim; the supple leather
+    sling and pouch of stones.
+            Sondri touched the other woman's arm. "We should wait for the others.
+    It may be dangerous!"
+            "I'm sure it is," Anneke said, "which is why we should go now, and not
+    waste time! Kyvali wouldn't wait for us!"
+            Sighing, Sondri gathered her own weapons and fell in behind Anneke as
+    they made their swift, silent way through the jungle.
+            Soon, the beach appeared before them, ghostly and translucent, clothed
+    in pearly foam. Further out, the reef rose above the waves like the spine of a sea
+    serpent. Normally, the waters beyond would have darkened endlessly toward the
+    horizon. Tonight, the peaceful scene was disrupted.
+            An enormous fin rose above the reef, and fire glowed sullenly on the
+    surface.
+            Anneke and Sondri stopped short
+            "Our weapons ... against any beast of the deep with a fin _that_ size ..."
+    Anneke trailed off, shaking her head.
+            "What sort of creature brings fire upon the water?" Sondri wondered in
+    amazement.
+            "No ..." Anneke said, taking a few hesitant steps onto the sand. "It's not
+    a beast. It can't be a beast. See how the moonlight shines on it, like metal!"
+            "You're not trying to tell me it's one of those ships that sail the air.
+    Anyone who believes in those has been eating too many hana berries."
+            "What else can it be, then?" Anneke challenged.
+            Sondri was saved from answering by a rustle in the undergrowth.
+    Something large stirred briefly, then was still.
+            Both huntresses turned alertly in that direction, grips tightening on the
+    hafts of their spears. They moved a few steps apart. Jaguars were not unknown
+    on the island, and a single leap could bring them both down under the slashing
+    fangs.
+            No jade-green eyes returned their searching gaze.
+            They were very visible against the frost-colored sand, but anything
+    moving to attack them would have to leave the concealment of the leaves. Unless
+    it waited, stalked them as they made their way back to their camp.
+            Or it could be their prey ... though the beasts they hunted never
+    ventured this close to the lagoon. And would not dare stalk the huntresses of the
+    Golden One!
+            "There's nothing there," Anneke said. "Nothing watching us."
+            "No, _something's_ there," Sondri argued. "Listen!"
+            The sigh of the breeze through the palms, the hiss and bubble of the
+    waves, the distant scolding cry of a bird ...
+            Breathing.
+            Slow, heavy, deep breathing. Almost snoring.
+            "I hear it." Anneke shifted her spear to a two-handed grip and moved
+    toward the brush, ready to fall back and impale anything that jumped at her.
+            Sondri flanked her. The breathing did not change as they approached,
+    indicating that the animal, whatever it was, was unaware of their presence. She
+    pushed vines out of her way and watched her footing in the inky indigo shadows
+    that concealed the snakelike roots of the trees.
+            Anneke flung up one hand, a signal to stop. Sondri froze in place, then
+    inched forward as her hunt-sister beckoned. Anneke pointed the tip of her spear
+    at something on the ground.
+            A track.
+            Sondri crouched and spread one of her hands over it. With her fingers
+    fully extended, she could just barely reach from one side to the other. It was
+    from no animal she knew, and with a slight shake of her head, she told Anneke
+    so.
+            Looking more apprehensive now, probably (as Sondri was) imagining
+    what would have such thick, sharp toes as to leave that kind of impression in the
+    earth, Anneke pressed on. Sondri stayed with her this time, for the few seconds it
+    might take one of them to close a gap between them could be all the time needed
+    for a life to be brutally ended.
+            Anneke stopped again, and slowly used her spear to lift aside the
+    feathery green frond of a fern. Beneath it was a foot, a high-arched foot with
+    three thick claws and one curved spur above the heel.
+            Sondri prodded the foot with the butt of her spear. The toes curled
+    sluggishly and the breathing was interrupted by a grumbling snort, but the
+    creature did not rouse.
+            Pushing ferns out of the way, Anneke exposed the rest of it, and both of
+    them stared in silence for a long time.
+            The moon made it hard to tell the color of its skin. Grey, possibly blue,
+    streaked with soot and sand and blood, marred by scratches. It had wings,
+    leathery batlike wings, splayed across its back, and a long tail as flexible as a
+    constrictor. The tip of the tail was gouged and swollen.
+            Anneke worked her way up to the creature's head, which was pillowed
+    in the ferns. Its shock of scarlet hair was vivid against the soft green. She
+    reached.
+            Sondri hissed a warning, but as usual, Anneke did not heed it. As she
+    touched the creature's face, it snorted again and turned onto its back, then began
+    to breathe more easily.
+            Its features were striking but inhuman, the brow rising into bumps like
+    the spines of the coral reef. A square jaw, a mouth that even in sleep bore a faint
+    cruel twist.
+            "It's hurt," Sondri whispered when the creature showed no further signs
+    of waking.
+            "He," Anneke corrected, grinning. She used the butt of her spear to lift
+    the creature's loincloth as she had moved the leaves of the fern.
+            "He!" Sondri agreed after an awestruck look. "Our hunt is over!"
+
+                    *               *
+
+            Awareness returned like a moth, flitting, darting, teasing. He was dimly
+    conscious of hands touching him, of a cool damp wrap comforting his wounded
+    tail. Voices swirled around him, but he was unable to make sense of them. At
+    one point, there was a sense of being lifted, moved.
+            It was the smell of cooking meat that finally filtered down and stirred
+    his stomach, reminding him that he was long overdue for a meal.
+            He opened his eyes to firelight contained in a ring of rocks. A spit over
+    the fire held a large chunk of meat that dripped sizzling fat into the flames.
+            A shadow moved between him and the light, a female shadow. His heart
+    leaped, then sank as he saw the shape had no wings. Not his mate, not his
+    beloved Demona. Some stranger, some woman.
+            He remembered the plane, the crash, the subsequent landing on the
+    island. So it was inhabited after all! Perhaps his chances of finding a phone
+    weren't as remote as he'd first feared. But first, he would have to deal with the
+    locals, who would be terrified by the sudden appearance of a gargoyle.
+            Then he got a better look at the woman -- women, rather, for another
+    one joined the first -- and unsettling confusion grabbed him. They dressed like
+    no humans he'd ever seen, dressed more like his rookery sisters back on Avalon.
+            The first one had long smooth brown hair held back by a twisted
+    headband of leather and tiny shells. A tight halter and short skirt with slits up
+    both sides showed off her lean, tomboyish figure and muscular limbs. More
+    shells, pointy spirals, dangled from loops of gold in her earlobes. An ivory-
+    handled knife was strapped to one leg, and Jericho knew just from looking at it
+    that the hilt was made from the tusk of a boar.
+            The other woman wore a sleeveless tunic made from the hide of some
+    spotted feline, close-fitting, doing little to hide the firm curves of her body. Her
+    wavy honey-colored hair was escaping from pins of gold and jade. Like the
+    other, she looked strong and fit, and her knife was secured to her left forearm,
+    just above a snug bracelet of bronze.
+            He was in some sort of crude camp. A row of smaller smoldering fires
+    ran between two racks made from branches and cord. Thin strips of meat hung
+    from the cords, smoking and drying. Woven mats were unrolled in lean-to
+    shelters. Weapons that looked like they'd come from a museum exhibit leaned
+    against a log, well out of his reach.
+            Jericho himself was propped on a slant, his head slightly raised, on
+    some sort of litter. A poultice, a broad flat leaf, had been wrapped around his
+    tail, and his other injuries had been coated with a greenish paste that soothed the
+    pain.
+            He realized that he couldn't hear the surf anymore. He'd been moved.
+    Somehow, these two women had moved the deadweight of his unconscious body
+    quite a distance into the jungle.
+            The tomboy tipped her head toward the other and spoke. Jericho knew
+    it was a question, but couldn't understand any of her words. Nor could he
+    understand the other's reply.
+            "Is there water?" he asked.
+            Both women recoiled and gasped, as if surprised he could talk, then
+    chattered at each other excitedly.
+            Jericho closed his eyes in despair. Lost on a tropical island, rescued and
+    tended by _humans_, unable to find out where he was or a way to get out of here.
+    His only comfort was the knowledge that when the plane did not arrive at the
+    research facility off Costa Rica as scheduled, they would send out search parties
+    at once.
+            The tomboy spoke to Jericho now, with the deliberate intonations of
+    someone who believed that the foreigner would get it if it was just said slow
+    enough and loud enough.
+            He shook his head, hoping she wasn't asking if he was thirsty, trying to
+    convey that he didn't understand.
+            "Water," he repeated without much hope, and tried to indicate his
+    mouth. It was then that he found his hands were strapped down, and shame shot
+    through him. A warrior should have already torn free of such puny bonds!
+            With a snarl, he did so.
+            Well, he tried.
+            The cords were tough and bit into his flesh, and the knots did not give.
+            Enraged, he tried again.
+            He succeeded only in tipping his litter off the rock upon which it was
+    propped, and ending up facedown in the dirt.
+            The women spoke in alarmed tones and righted him. Just the two of
+    them. Not with ease, but the fact that they could do it at all told him that they
+    were far stronger than the weak and puny humans he was used to dealing with.
+            The more voluptuous one approached him, holding up a cloth and
+    making motions toward his face. He nodded, and held still as she cleaned him
+    and checked his wounds, clicking her tongue scoldingly and applying a fresh
+    coat of the aloe-smelling paste. She then brought a hollow gourd sloshing and
+    full, and held it to his mouth.
+            Thirsty as he was, he sniffed it carefully first. Water.
+            He drank eagerly, baring his teeth at the woman when she took it away
+    too soon. She cautioned him against drinking too much, worried that he might
+    get sick. He got that much from her tone of voice, which reminded him of his
+    sister Ruth back on Avalon. Healers were the same everyplace.
+            The other one, the tomboy, took the meat off the fire and asked the
+    healer a question, indicating Jericho. His stomach growled loudly, making them
+    laugh, and the healer acquiesced. The tomboy sliced off pieces, and the healer
+    fed them to him, mindful of her fingers in case he tried to bite.
+            It was pork, wild and nutty, more like the game he and his rookery
+    siblings used to hunt on Avalon than the grain-fed docile pigs whose meat
+    wound up in the grocery store. The outside was burnt and crispy, the inside was
+    half-done and running with juice, and Jericho gobbled up as much as they would
+    give him. He also ate, though with considerably less gusto, a few pulpy segments
+    of fruit.
+            He shrugged against his bonds. "You can untie these," he said, trying to
+    sound charming. "I won't hurt you."
+            They seemed to know what he was saying, but after a brief conference,
+    shook their heads. He sighed in frustration.
+            The healer tapped herself. "Sondri," she said.
+            "Sondri," he said, copying it to be sure he got the inflections right.
+            "Anneke," the tomboy said, pointing to herself. Then pointed at him.
+            "Jericho."
+            They repeated it, smiling. He found himself almost liking them, would
+    have liked them a whole lot better if they would just undo the cords. But he
+    supposed their caution made sense. There were only two of them, two women
+    alone. He was taller than either of them by almost two feet, and a gargoyle.
+            Yet the way they were looking at him that made him nervous. They
+    weren't gazing at his wings and talons with fright, but at his chest and legs and
+    loins with something like admiring fascination. Almost ... almost lustfulness,
+    though his mind shied away from the thought in revulsion.
+            He hadn't inherited his father's perversion! The only human form that
+    could possibly hold the slightest interest for him would be the daytime guise of
+    his mate, as Dominique Destine. And that stemmed purely from his utter
+    devotion to her, and a desire to know her and please her in every aspect of her
+    being. Further, of all the humans in the world, Dominique would forever be
+    inaccessible to him, which meant his interest was purely academic.
+            His captors had a long discussion as he resorted to more subtle attempts
+    at freeing himself. He found he couldn't reach the bonds to sever them with his
+    claws. His tail was limber, but not anywhere near enough to tackle the task of
+    untying knots. And he was weak, sore from his ordeal, unable to use his full
+    strength.
+            The women looked up alertly, and a moment later he heard it too -- by
+    the Dragon, their ears were sharp! Stealthy steps approached the clearing, and
+    then more women appeared in a parade of tawny, well-shaped limbs and skimpy
+    barbaric garments.
+            Amazons. He now recalled stories about Amazons, fierce fighting
+    women.
+            Brief chaos ensued as the new arrivals caught sight of Jericho and
+    began talking excitedly.
+            One, a statuesque blonde, seemed to be in command. She wore a skirt
+    of banded leather straps, ornate bronze leg graves, and very little else. She
+    demanded answers of his captors, who replied, calling her Kyvali.
+            Kyvali seemed displeased, and Jericho was none too happy himself.
+    Although he didn't understand their language, he got the impression that Anneke
+    and Sondri were claiming him as either their guest or their catch. Given that they
+    had refused to unbind him, he was betting on the latter.
+            Some of the women faded back into the jungle, then reappeared leading
+    a stumbling, sullen-faced line of four men. Their hands were bound behind them,
+    their ankles hobbled by short lengths of rope, and they were linked neck-to-neck
+    in a chain.
+            The men wore kiltlike garments of woven grasses and were grimy,
+    streaked with dirt and greenish stains. A couple of them were sporting fresh
+    bruises. Cleaned up, Jericho supposed they might turn out handsome by human
+    standards, and all were quite well-muscled.
+            Kyvali went to the first man in line and prodded him under the chin
+    with her spear. He lifted his head, glaring at her, and she displayed him with
+    evident pride. She sneered at Anneke and Sondri, swept scornful eyes over
+    Jericho.
+            He realized with disgust that she was saying her captive was better,
+    comparing him! Jericho didn't know whether to laugh or retch. Each of the
+    women speculatively eyed both man and gargoyle, debating amongst themselves
+    on the relative merits of the various males.
+            Anneke clapped to get their attention, then moved closer to Jericho. He
+    tried to draw away but his bonds prohibited it, and he couldn't stop her when she
+    nonchalantly flipped up his loincloth, exposing him to the startled, lascivious
+    eyes of the women.
+            He roared in protest and tipped his litter again, hoping to squash
+    Anneke. What little liking he'd felt for her had vanished, and now he'd just as
+    soon see her dead.
+            She jumped out of the way and Jericho crashed into the dirt for a
+    second time in less than an hour. Laughter erupted around him, making his
+    already flaming cheeks grow even hotter.
+            How dare they!
+            Kyvali was unamused, and said something scathing to Anneke, who
+    merely smirked challengingly. Jericho could tell there was no love lost between
+    those two, and now he was playing some strange role in a contest to settle their
+    differences.
+            Sondri dusted Jericho off again, and recruited a couple of the other
+    women to right the litter. There was a discussion that seemed to be over whether
+    they should add him to the line of men, but in the end they left him on the litter
+    and hefted him onto their shoulders. He was amazed at their strength, even while
+    being outraged at their treatment of him.
+            The rest fell to dismantling the camp, and within minutes, it was as if no
+    camp had ever been there, except for the lingering smell of smoke and cooked
+    food.
+            Carried flat on his back and helpless, he watched the jungle canopy
+    slide by above. The night was alive with sounds, though most ceased as the party
+    of huntresses and prey passed by. The air was cool and moist, collecting on the
+    wide leaves and dripping to the loamy floor. Flowers were clenched tight in buds
+    that gave only a hint of the rainbow hues they must show by day.
+            The land began to slope upward, and then the jungle gave way on one
+    side to a silken-shining expanse of blackness. Obsidian. Volcanic glass. Chunks
+    of the stone were broken off loose around the edges, where the obsidian gave
+    way to the frozen river of an old, hardened lava flow.
+            Jericho followed the lava flow with his gaze, first down toward the sea,
+    where he saw an inlet he hadn't noticed on his aerial approach because the beach
+    was all black sand. Then upward, toward a split in the rim of the volcano's
+    cauldron. The path they were on wound toward that split, and through it.
+            The first thing he noticed was the change in temperature. The volcano
+    was not dead, only dormant, and heat still issued from its molten belly. Heat that
+    made the valley inside the circular pit warm and lush. Mist floated wraithlike,
+    depending downward in ghostly tentacles from the bank of clouds trapped by the
+    high walls of the rim.
+            The second thing he noticed was the city, once his eyes adjusted to the
+    change from jungle-shadowed moonlight to diffuse mist-light. The buildings
+    mingled Egyptian and Viking style in a manner that was not entirely
+    unsuccessful but very disconcerting. They sprawled in no particular order, but all
+    faced inward, toward an enormous crumbling wall of ancient stone.
+            One side of the volcano was deeper, a crater within a crater, filled with
+    centuries of collected water to form a deep lake. Irrigation ditches channeled the
+    water to the farmlands and orchards that surrounded the city.
+            How could such a place exist? Avalon, sure, he could see that, for
+    Avalon was apart from normal space and time, protected by magic. But this ...
+    here ... today? It seemed impossible. Even with the cloud cover, this was the age
+    of satellite mapping and eyes in orbit.
+            He tried and rejected several explanations. Movie set, reclusive cult,
+    theme resort ... none of them seemed right. The only thing that made sense was
+    that it truly was as it seemed to be, an undiscovered primitive land. A lost world.
+            The city was walled, but more as a token gesture than a serious defense.
+    The walls rambled, extending here or there in odd shapes to encompass growth.
+    Jericho was carried toward a large trapezoidal gateway.
+            A guard, dressed similarly to Kyvali, opened the gate to admit them.
+    She then trotted ahead, the rapid pace doing things to her torso that a human
+    male might have found compelling. Going, presumably, to inform someone of
+    their arrival.
+            Despite the lateness of the hour, the city was awake and busy. Jericho
+    found himself the center of unwelcome attention as he was paraded on his litter
+    through the rambling streets. No one was afraid, which offended him deeply and
+    worried him a good deal. How often had Demona said she would rather have the
+    humans' fear than respect? Jericho would have much rather had their fear than
+    this, this strange leering lewdness!
+            He saw men, too, and thought again of Amazons, for all the men here
+    seemed to be slaves. They wore beaten-bronze collars with markings on them
+    that seemed like letters or numerals. They bent obediently to their work,
+    sometimes showing backs that were striped nape to waist with whip weals.
+            The returning huntresses were greeted with cheers. Jericho got the idea
+    that preparations for some festival were underway, which led to the very
+    troubling thought that he had come to an island of cannibals. Perhaps their tastes
+    extended to gargoyles. Perhaps what he had mistaken for lustfulness was really
+    hunger.
+            He wasn't sure whether that reassured him or not.
+
+                    *               *
+
+            "There have been omens, Golden One. A fire that fell from the sky."
+            "A good omen, Chan'har, or an ill omen?" Jae'elae, the Golden One,
+    god-queen of her people and ruler of the island, stretched luxuriously and let her
+    light wrap fall from her shoulders.
+            One of her chamber slaves hastened to pick it up, smoothing the fabric.
+    Another slave hurried to kneel before her, and she noted with appreciation the
+    lithe flexing of his muscular back as he pressed his forehead to her foot.
+            "Your bath is ready, mistress."
+            "A good omen," Chan'har, the Golden One's chief advisor, said
+    confidently. "Tonight's ritual shall prove fruitful. Already, your huntresses return
+    from the jungle with many fine men."
+            Jae'elae climbed into her bath, sighing as the hot water slid over her
+    body. Her slaves joined her, soaping and massaging her limbs with slightly rough
+    sponges, to make her skin shine with good health. She closed her eyes as the
+    foaming oil was worked into the dampened length of her mahogany hair.
+            "You're keeping something from me, Chan'har, I can hear it in your
+    voice. What is it?"
+            "The gods have sent a spirit to our land. He came with the fiery star,
+    and two of your huntresses captured him and have brought him to take part in the
+    ritual."
+            "What manner of spirit?"
+            "Tazhi of the Gates tells me that he has the form of a Winged One!"
+            Jae'elae sat up and opened her eyes. "What?!"
+            "As in the legends," Chan'har said.
+            "A Winged One is brought to me, tonight, on the night of the ritual? I
+    may choose a Winged One?" She beamed with excitement. Then her face fell.
+    "But a spirit, you say? How could they capture a spirit, and what use would he
+    be in the ritual if he is not of flesh?"
+            "Oh, he is of the flesh! Tazhi says he is magnificent, colored like the
+    sky with hair red as a firebird's plume. Broad of chest, mighty of stature, and
+    more than amply endowed."
+            A warmth that did not come from the water stirred within Jae'elae, and
+    she uttered a low crooning purr. It was a sound her slaves knew very well, but
+    when the nearest of them moved to serve her need, she pushed him away.
+            "Have the Winged One set at the central stake," she declared. "Oh, and
+    see to it that the huntresses are well-rewarded. Give them gold and jewels. Sit
+    them in places of honor at the feast. They shall assist me in the ritual, and shall
+    also have their choice of my slaves."
+            At this, looks of dismay passed between the men, but Jae'elae ignored
+    them and tipped her head back that they might rinse the foam from her hair.
+            "Your will shall be done, Golden One," Chan'har said.
+
+                    *               *
+
+            His first good look at the wall came upside-down, as he was still being
+    carried on the litter with his head at the wrong end.
+            It was huge, a hundred feet tall and twice that in length, and was not
+    made of cut and mortared stones. No, it was one gigantic slab, set upright by the
+    same unknown means that might have shaped other mysterious monuments.
+            A disk of hammered gold was set into the wall like the face of an
+    immense clock. No, not one, Jericho saw as he was turned and got a better look.
+    Three. Disks within disks in a concentric circle, all inlaid with lines and shapes.
+    Unfamiliar symbols that could have been an alphabet, or astrological. More lines
+    were carved into the stone around the edge of the outermost disk.
+            Weathered holes had been bored through the wall. Jericho might have
+    assumed they served some sort of calendar purpose, marking the path of the
+    moon and stars, except that the blanket of clouds over the valley would make
+    viewing the heavens impossible.
+            A short, wide flight of steps led to a dais that ran the length of the wall.
+    In the middle, beneath the bottom rim of the golden disk, was a doorway of the
+    same trapezoidal shape as the city gates.
+            The area in front of the wall was a large cleared square of flagstones,
+    pocked with firepits big enough to roast entire oxen -- or men, Jericho's mind
+    insisted on adding grimly, his earlier thoughts of cannibalism still with him.
+            At the foot of the stairs were a half-dozen pillars of polished wood.
+    Manacles dangled from bolts at the top of the pillars.
+            In the center of the square was what Jericho at first mistook to be some
+    sort of primitive Modern Art sculpture, a barbarian's representation of a cannon.
+            A monolith of smoothed obsidian lay at an angle, protruding from
+    between two trapezoidal blocks inlaid with gold, lapis, and carnelian. Steps
+    ascended the angles of the blocks. As he looked closer, Jericho saw more
+    manacles, their chains somehow embedded or fused into the black volcanic
+    glass. And footholds, oddly-placed niches, in the monolith.
+            Now he wasn't thinking cannibalism so much as sacrifice. Annoyance
+    and shame began to give way to the first flickers of fear. He had no intention of
+    being sacrificed to some pagan god of the Amazon women. But until they loosed
+    him from this damnable litter, he was stuck and helpless.
+            The huntresses milled about, surrounded by a crowd of women eager to
+    see what morsels they'd brought back from the jungle. Jericho had a belated flash
+    of insight -- the only free men on the island lived outside the valley, outside the
+    city. And the women hunted them, enslaved them.
+            A voice hailed Anneke and Sondri by name, and Jericho turned his head
+    to see a striking older woman approaching. She was dressed unusually compared
+    to her sisters, in a billowy gown of translucent rose-colored fabric. Her hair was
+    ink-black, held in place by ropes of pearls. She exuded an authority that
+    reminded Jericho not of Princess Katherine but of the Magus. An authority of
+    wisdom and counsel.
+            The guard who had gone ahead was with her, now carrying a red-glazed
+    ceramic jar with a wide mouth.
+            Kyvali moved to meet her, gesturing at the line of bound men. She
+    addressed the magus-woman as Chan'har, speaking with an uneasy respect that
+    quickly turned to indignation when Chan'har pointed to Jericho.
+            Anneke whooped in triumph. Kyvali got in Chan'har's face, angry,
+    belligerent, demanding. Jericho knew that tone. He didn't have to know the
+    language to know when he was being called a monster. Kyvali thought he was an
+    inhuman beast, unworthy of any place in their rituals.
+            Chan'har seemed to come to a decision. She summoned a pair of slaves
+    to a metal wheel set into the wall, a capstan-like device that Jericho hadn't
+    previously noticed.
+            The slaves grasped the handles and began to turn. As they did so, the
+    concentric circles in the golden disk began to move.
+            What Jericho had thought were astrological symbols split apart down
+    the middle, each half carried in opposite directions by the movement. As they
+    passed over each other, hints of new shapes tugged at his mind. Then, as the
+    disks came to rest, the designs formed into unthinkable pictures.
+            His chin nearly hit his chest.
+            Gargoyles and humans. _Male_ gargoyles and _female_ humans. In
+    every imaginable position, every possible depraved act.
+            Now he knew what they intended for him, and he would rather it was
+    cannibalism.
+
+                    *               *
+
+            "You see?" Chan'har called to the assembled women, many of whom,
+    while they admired the spirit's unearthly masculine beauty, shared Kyvali's
+    concerns. "The legends are true! In ancient times, our ancestresses joined with
+    the Winged Ones! And now the gods reward our diligence, and have sent this
+    gift to our people!"
+            She saw how the spirit's eyes widened, then saw revulsion and horror
+    twist his features into a grotesque mask. He shouted something in a furious roar.
+            Cords snapped. The litter came apart in a shower of wood and leather.
+            "Tazhi!" Chan'har commanded. "The jar!"
+            The spirit stumbled over the wreckage of the litter. Chan'har knew that
+    his limbs would be prickling from having been bound so long, but he would
+    regain his reflexes all too soon. She snapped her fingers into a fist, and at once
+    Kyvali and her warriors closed in.
+            It took eight of them, and Sondri would have to doctor five when it was
+    all done, but they wrestled the spirit down and Tazhi brought the jar to his
+    mouth. He tried to resist, tried to turn his head away, to keep his lips clamped
+    shut, but in the end, the women levered his jaws open and he drank.
+
+                    *               *
+
+            Jericho floated.
+            Pulsing drumbeats surrounded him. Smoke and incense teased his
+    nostrils, overpowered by the scent of tropical flowers. His senses were sharper
+    yet at the same time oddly dulled, as if his brain was taking in the information
+    but did not know what to do with it.
+            He opened his eyes. The wall loomed over him, gold disks and stone
+    carvings, obscene images. The moon through the clouds cast a diffuse glow
+    through one of the weathered holes.
+            Slick coolness against his back, fists of ice enclosing his wrists and
+    ankles. He was secured to the obsidian slab.
+            Shadows danced around the bonfires. Women, writhing to frantic
+    rhythms. Leaping, hair whirling, bodies twisting in savage abandon.
+            Jericho blinked groggily, looked down at himself. His blue skin,
+    startling against the blackness of the obsidian, gleamed in the golden light. His
+    hips were draped in sheer white linen, the fine cloth revealing the contours of his
+    loins. A wreath of crimson blossoms was looped around his neck.
+            He regarded all of this with a strange detachment. He knew he should
+    have been furious and horrified. He had been drugged, stripped, decorated, and
+    chained to an altar. Yet he could not find the energy to struggle. Could not
+    collect his thoughts beyond the muddled certainty that this was _not_ happening
+    to him.
+            He was not alone in his plight. Four of the wooden pillars were so
+    entwined with blooming vines as to resemble May poles. Men, the ones captured
+    in the jungle, stood at the pillars with their arms drawn overhead, wrists caught
+    in the manacles.
+            Chan'har marched halfway up the steps, then turned to face the square
+    and held aloft a feather-adorned staff. She smacked the gold-shod end of it on
+    the stones with a sharp crack, and the drums stopped on a seeking, unfinished
+    note.
+            The women, flushed and panting from their wild dance, crowded
+    around but left a clear path between the dais and the slab.
+            The double doors set into the base of the wall swung slowly open,
+    letting shafts of blinding light spear through. Chan'har swept the staff grandly.
+            "Jae'elae! Jae'elae!" the women began to chant.
+            The Golden One appeared, walking out onto the dais as if she owned
+    the world.
+            Although she was human, she took Jericho's breath away.
+            Maybe it was the shoes, the high golden spike-heels that gave her feet
+    and legs a gargoyle's posture. Or maybe it was the train of white feathers that
+    flowed from her shoulders like brilliant caped wings. Maybe it was her
+    _presence_, the way she carried herself like a goddess.
+            Her form was exceptional even compared to her subjects, something
+    that Jericho was well able to judge, given how much was on display. Her breasts
+    were showcased in cups of gold that lifted but did not cover them. More gold
+    girded her hips, and panels of saffron-colored linen fluttered around her legs.
+            The crown or headdress, a half-mask of gold that rose into a sunburst
+    around a bright diamond, looked too heavy to wear without discomfort, but she
+    held her head high, her neck straight. The lower half of her face was at once
+    stunning and forbidding.
+            He could almost imagine she was a gargoyle, leader of an exotic and
+    wealthy clan.
+            She crossed the square, nodding regally at her rapturously chanting
+    subjects. Her stride was as confident and powerful as a queen, as strutty and
+    hipshot as a stripper.
+            The Golden One's gaze traveled the length of Jericho's captive body. He
+    could feel the weight of that gaze like a touch upon his flesh. His skin wanted to
+    crawl, even as dull heat uncoiled stealthily in his blood.
+            His soul moaned in denial.
+            Her eyes, direct and piercing through the eyeholes of the mask, finally
+    met Jericho's. What he saw in them made him go cold inside despite the effects
+    of the drug that rendered him otherwise helpless and complacent.
+            The Golden One stepped onto the stairs that flanked the slab and stood
+    over him, tall and barbaric and beautiful. The breeze flared her cape of feathers
+    behind her, sent panels of linen billowing up around her thighs.
+            And something else -- a glimpse of dark silky hair where only a smooth
+    mound ought to be. Reminding him that she was _human_, disgustingly human.
+            With great effort, Jericho averted his eyes. He stared up at the wall,
+    where the carved images seemed to move profanely in the firelight.
+            Pain drove into his shoulder, making him gasp.
+            The Golden One's leg was extended, all taut muscles and flawless
+    beauty, ending in a spiked gold heel that was pressed against his shoulder, the
+    point indenting almost to the point of drawing blood. For a moment she leaned
+    her weight into it, until he nearly cried out, then withdrew. His shoulder throbbed
+    as if a nail had been pounded through it.
+            She spoke, and two women came forward to do her bidding.
+            "Anneke! Sondri!" he appealed desperately. He tugged at the manacles
+    to no avail. There wasn't even enough slack to let him hurt his wrists in the
+    effort.
+            They smiled at him, but he could tell they wouldn't help. At the order of
+    their queen, they quickly shed their garments and crawled onto the slab beside
+    him.
+            He recoiled from the appalling alien feel of naked human bodies. They
+    rubbed against him like cats, one on either side, Anneke lean and athletic, Sondri
+    lush and curvaceous.
+            The Golden One reclined on the steps, watching, hands moving over
+    her own thighs and breasts in slow, languid caresses.
+            Jericho worked his tail from beneath him, but before he could use it to
+    lash or pummel, Sondri twined her arms and legs around it. She embraced it like
+    a woman mating with a serpent.
+            A fine sweat broke out on Jericho's brow. That firm, gentle, massaging
+    pressure ... his tail sliding in the valley of her cleavage ...
+            Anneke peeled away the drape of linen. The crowd of women
+    exclaimed at the display, and the Golden One made a low, hungry sound of
+    anticipation.
+            Jericho winced in shame. The women had affected him, the women and
+    the drug, and the proof of it was now standing tall and stiffly visible for all the
+    world to see.
+            He clenched his fists, trying to will away his response, knowing it was
+    doomed to fail. His loins didn't care that these were humans. Only that they were
+    female, they were touching him, their scent heady on the air. It made him think
+    of his brief encounter with Angela all those months ago, and that thought caused
+    another swift coursing of blood to his shaft.
+            Anneke wrapped her hands around it. Jericho slammed his head back,
+    into the obsidian slab, partly from the shock of sheer pleasure and partly in a
+    last-ditch attempt to render himself unconscious. His vision swam for a moment,
+    and his ears rang, but the rest of his senses were functioning perfectly and he
+    didn't need to see to know that Anneke's mouth was now upon him.
+            A cry burst from his throat, trailing off to an agonized groan as he felt
+    Sondri shift, still pinioning his tail, so that she could join Anneke. They shared
+    him between them as if he were an ice cream cone, licking, nibbling. His tail
+    curled convulsively as Sondri arched her body against it.
+            No, oh, no, this couldn't be happening! he thought feverishly. This was
+    wrong in a way nothing had ever been wrong before. Even his tormented lust for
+    Demona, back when he still believed she wanted him only as a son, had been
+    more right than this!
+            His tail moved as if it had a life of its own, flexing along the soft, furred
+    nest between Sondri's legs. She clamped her thighs around it and worked her
+    hips. The tip of his tail coiled over her hip and up to tease at her nipples. Sondri's
+    breath came in short, ragged mewls. The pace of her lips and tongue increased.
+            Jericho gave up. It was not in the nature of many males to resist
+    females. Even his carefully cultivated disdain could not stand against this sort of
+    stimulation. He thrust upward, nearly choking Anneke, who was trying to take
+    him into her mouth but could barely encircle his girth.
+            His claws scraped obsidian. The spaces between his wings and along
+    the inside where membrane met back were practically aching.
+            The Golden One issued an order, and Anneke drew back obediently.
+    Sondri did not, and the Golden One's voice turned insistent.
+            Greedy creature! Jericho thought deliriously. Make the others do all the
+    work, and then you step in to claim all the fun?
+            Purposefully, he executed the tail maneuver. In the small corner of his
+    mind that could attend to such things, he was surprised to see that it worked as
+    well, if not better, on humans as it did on gargoyle females.
+            Sondri immediately went into the throes of an overpowering orgasm.
+    For nearly two full minutes, she shrieked and thrashed, nails digging into his
+    thigh. Then she slid weakly, whimpering, down the slab to crouch at the bottom,
+    shuddering and trying to catch her breath.
+            The astonished Golden One seemed to forget altogether that Sondri had
+    disobeyed her. She looked at Jericho with even greater desire, and rose to stand
+    over him once more. While Anneke, not without some envious glances, helped
+    Sondri down from the altar, the Golden One unfastened her cape of feathers and
+    cast it aside.
+            The jewel in her headdress winked and sparkled. For an instant, Jericho
+    felt a strange sensation of doubling, slipping sideways. He could see himself
+    through her eyes, blue against black, waiting and ready. His memory flashed an
+    image of Demona on black satin, an image that did nothing to help his situation.
+            Now he knew what those footholds in the slab were for. The Golden
+    One stepped down into them, one foot on either side of his hips. She swept aside
+    the linen panels of her skirt and lowered herself until she was just above him.
+            Not only could he see through her eyes, it was as if he lived in her head,
+    knew her anticipation and yearning. Her hand slid down his sweat-slick chest
+    and he felt both the touch and the touching.
+            He hated her, would have sunk his thumb talons into that regal neck if
+    he'd had the chance, but he also was aching with need and had to have release.
+    By the smug look on her face, she knew it.
+            And yet she didn't do it.
+            She waited.
+            "Oh, you bitch!" Jericho said through gritted teeth.
+            Her smirk grew as if she understood.
+            He knew what she wanted. He was the prisoner, helpless, being taken
+    against his will, and that wasn't enough for her. She wanted him to try and push
+    himself up into her so she could torture him by denying him, until he was
+    begging for it. And then she would callously use him for her own pleasure.
+            She held out one hand, and Chan'har placed a small jar into it. She
+    upended it over his chest. A thin oil poured out, flowing in rivulets over his tense
+    abdomen. She moved the jar down -- earlier, he'd been an ice cream cone, now
+    he was a sundae being drenched with warm chocolate sauce.
+            The oil sank in, a spreading heat that seemed to set Jericho's nerves on
+    fire. His senses, already heightened, grew nearly unbearable.
+            His tail escaped his control again. Before the Golden One knew what
+    was happening, it had wrapped snugly around her waist and pulled her down.
+    Hard. Fast. Impaling her in one sudden motion that drove the breath from her in
+    a scream.
+            She had the wrong gargoyle if she expected gradual, dainty, tippy-toe
+    coupling! He was not his father! He would prove to her that she'd gotten more
+    that she bargained for when she'd ordered Jericho chained to her altar!
+            He gave her no time to adjust to his size but began thrusting furiously,
+    using his tail in counterpoint to bring her down to meet him.
+            Her headdress fell off, loosing a storm of dark brown hair around a face
+    contorted in mingled ecstasy and pain. The oil and her own lust let her
+    accommodate him with more ease than he expected. She raked her nails across
+    his chest, bringing him pain as well, and seized his hips with her powerful thighs.
+            Already brought nearly to the point of explosion by Anneke and Sondri,
+    Jericho knew he couldn't last long. But his passion was no match for that of the
+    Golden One, who rocked against him with screams of savage joy.
+            Her orgasm made Sondri's look tame, and set off a brushfire of
+    uncontrollable frenzy in the watching women. The four chained men were
+    surrounded, torn free, thrown to the ground, and mounted. They didn't resist, but
+    grabbed eagerly at all the female flesh they could reach. Other women fell into
+    each others' arms, kissing and caressing hungrily.
+            The slow lightning of his climax seized Jericho, making his body arch
+    with its sudden force. His roar threatened to burst his throat; his eyes flared like
+    twin novas.
+            As he loosed his flood into the alien human depths, one final thread
+    snapped, like a thin tether that had been holding a balloon in place against a
+    howling wind. And like that balloon, his consciousness was whipped away into
+    the night.
+
+                    *               *
+
+            Jericho groaned, a groan that came from the very bottom of his soul.
+            His mouth was filled with a bitter metallic taste. His face felt how he
+    imagined a sunburn must -- tight, shiny, baked. A sluggish lethargy lay over him
+    like a blanket.
+            He opened his eyes very gingerly, and still winced as the light from the
+    single bulb speared into them, piercing the pupils and into the tender meat of his
+    brain.
+            Bulb?
+            He turned his head, aware now that he could hear the sounds of motors,
+    engines. He could smell dust, grease, gasoline.
+            The wall beside him was corrugated tin, covered with images of naked
+    women. Jericho blinked blearily. Glossy photos gleaned from magazines.
+    Centerfolds. He picked out familiar faces from the nude throng -- here was
+    blonde Kyvali in high boots with a strand of beads as a belt. There, Anneke in a
+    shower, water striking and running down her bare body. Sondri's pouting face
+    peered down at him from a calendar above a battered metal desk.
+            He shifted, found that he wasn't tied down, and sat up. He swung his
+    talons over the edge of the narrow cot that sagged under his weight and rested
+    them on the gritty floor.
+            A window was cut into one wall of the tiny room, covered with a sheet
+    of smeary plastic that had been duct-taped into place. Jericho shuffled over to the
+    window and looked out.
+            A runway. Windsock fluttering in the night air. Small planes --
+    including a mini-jet that should have been so much burnt wreckage just off the
+    lagoon!
+            The door behind him opened and he whirled. Lost his balance. Fell onto
+    the cot but was able to remain more or less sitting up.
+            "Guten Abend, Jericho," Gustav Sevarius said. "Feeling better?"
+            He stared at the white-haired scientist. "What's going on?"
+            "There was a minor problem with the compound," Sevarius explained.
+    "The tanks were improperly sealed, and you were exposed. You may have
+    suffered some slight hallucinogenic effects --"
+            "Slight!" Jericho jumped back up again. "Slight?!"
+            Sevarius regarded him coldly with those green eyes of his. "If your
+    mother permitted me to test my developments on gargoyles as well as humans,
+    we wouldn't have these difficulties, now, would we?"
+            "Do you have any idea what I've been through?" he raged, taking a
+    single large step toward the old man. In a room this small, that sufficed to put
+    him within easy talon's reach. He was quaking with anger, shame, and revulsion.
+            "I'm aware the accommodations aren't the best." Unperturbed, Sevarius
+    glanced at the pin-ups with mild distaste. "But we couldn't very well keep you in
+    the main hangar. This is still a commercial airport, you know."
+            "I don't give a damn about the accommodations!"
+            "Then I fail to see what you're complaining about. Yes, you were
+    affected by the chemical. A regrettable event, but without any lasting harm.
+    Anything else you might have experienced is the product of your own mind." A
+    hint of a mirthless smile. "It must have been interesting."
+            His fist clenched, relaxed. "Someday, Sevarius, when you've outlived
+    your usefulness, when you're like an old hunting hound that can't track a scent, it
+    will be me that puts you out of your misery. This I vow."
+            "You'll forgive me if I don't share your enthusiasm." With a clack of his
+    cane that sent up a puff of grit from the floor, the old man turned and left Jericho
+    to stew in his own frustration.
+            He sank onto the cot again, ignoring its protesting creak.
+            A hallucination. A dream, nothing more. Brought on by Sevarius'
+    cursed inventive genius. He'd laid here, surrounded by the tacky pictures some
+    human mechanic pasted up, and the images had insinuated themselves into his
+    living nightmare.
+            He raked them from the wall in tatters and shreds. A huge palpable
+    wave of relief coursed over him. Not tainted. Not corrupted by his father's
+    deviant genes. Only the victim of a hallucination. He could live with that. He
+    might even tell Demona. How she'd laugh! The very idea, him and a human!
+            He was still chuckling about it as he left the building, rounded a corner,
+    and came face to face with a woman.
+            They both stopped short.
+            She wore jeans and a blouse rather than a cape of feathers, but he knew!
+    Ice pressed the base of his spine. His hands shook.
+            The woman stared at him, her eyes widening until he thought she would
+    scream and flee. But then a knowing glint came into those eyes, and the tip of
+    her tongue flicked out across her inviting lips.
+            "Hi," she purred.
+            Someone did scream and flee, but it was Jericho. Fast as his legs, and
+    then his wings, would carry him.
+
+                    *               *
+
+    The End.

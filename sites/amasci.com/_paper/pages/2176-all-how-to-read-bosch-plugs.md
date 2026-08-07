@@ -1,0 +1,107 @@
+---
+title: "all_how_to_read_bosch_plugs"
+source_domain: amasci.com
+source_path: ~dalus/bmw/all/engine/all_how_to_read_bosch_plugs.html
+order: 2176
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:08:39Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# all_how_to_read_bosch_plugs
+
+*Source page: `~dalus/bmw/all/engine/all_how_to_read_bosch_plugs.html`*
+
+[UnofficialBMW.com](http://www.unofficialbmw.com)
+
+\[an error occurred while processing this directive\] <span id="null">From digest.v6.n248 Thu Feb 20 11:51:17 1997</span>\
+From: Pete Read \<read@arl.bna.boeing.com\>\
+Date: Thu, 20 Feb 1997 09:07:07 -0800\
+Subject: Re: M Spark Plug Sockets M3\<E30\>, M5\<E28\>\<E34\>, M6\<E24\>\
+
+Stephen McGrath asks about an \<E30\> M3 spark plug wrench: \>I know there has been a discussion recently about spark plug wrenches\
+\>for an E30 M3, seeing as how the plugs are about two miles down a\
+\>shaft that is smaller than the plug itself and all, and how a regular\
+\>old spark plug socket just won't fit down that tiny shaft unless you\
+\>turn the socket inside out or at least grind it down substantially.
+
+Stephan,
+
+Here's a post I made to the Mformation (M5/M6) list a while back. The E28 M5, E24 M6 information also applies to the E30 M3.
+
+Steve D'Gerolamo kindly corrected the Hazet socket information from my original post (correction included below) -- Hazets have magnetic inserts not rubber as I originally thought.
+
+\*\*\*\*\*start of Mformation list Spark Plug Socket post\*\*\*\*\*\*\*\*
+
+Subject: Re: M5/M6 Spark Plug Socket follow-up
+
+Until Steve Castle mentioned the different BMW spark plug socket part numbers for E28 and E34 M5s, I didn't realize there was a difference. E28 M5s and E24 M6s use the Bosch X5DC while the E34 M5 uses the Y6DC plug.
+
+Checking both the Bosch Electrical and Automotive Handbooks gave most of the basic information, but added some confusion because the sparkplug charts in the two books didn't completely agree. After confirming the basic measurements with Steve, the information in the more recent Bosch Handbook, page 454, is correct. The older Electrical Handbook lists the "X" plug as having a conical versus flat seat.
+
+The bottom line is that only the E28 M5 and E24 M6 need a special 18mm or 11/16in thin-wall sparkplug socket. The E34 M5 uses a smaller size 16mm or 5/8in socket which shouldn't have any clearance problems.
+
+BMW sparkplug socket part numbers below are from Steve Castle.
+
+E28 M5, E24 M6 Sparkplug Socket Options -- S38 3.5L (also E30 M3)
+
+------------------------------------------------------------------------
+
+X5DC sparkplug
+
+18mm or 11/16in socket with 23mm or less outer diameter (most are 24-25mm OD)
+
+1.  Trunk tool kit plug wrench
+2.  BMW Rubber Insert Socket 88 88 6 121 160 \$36.97
+3.  USAG Magnetic Insert Socket \$44.50, Europroducts 800.850-0325
+4.  Hazet Magnetic Insert Socket \$40, Steve D'Gerolamo, 201.262-0412
+
+E34 M5 Sparkplug Socket Options -- S38 3.6L
+
+------------------------------------------------------------------------
+
+Y6DC sparkplug
+
+16mm or 5/8in socket with 23mm or less outer diameter (most are 22-23mm OD, Sears Craftsman is 22mm OD)
+
+1.  Trunk tool kit plug wrench
+2.  BMW Rubber Insert Socket 88 88 6 121 171 \$33.91
+3.  Sears Craftsman Rubber Insert Socket
+4.  Probably all other brands...
+
+Comparison of S38 Engine Sparkplugs
+
+------------------------------------------------------------------------
+
+E28 M5, E24 M6 -- Bosch X5DC\
+E34 M5 -- Bosch Y6DC
+
+\>From the Bosch Automotive Electrics/Electronics Handbook p.165\
+or the Automotive Handbook p.454
+
+X = 17.5mm wrench size (11/16in) M12x1.25 threads, flat seat
+
+with gasket
+
+Y = 16mm wrench size (5/8in) M12x1.25 threads, flat seat
+
+with gasket
+
+5,6 = Heat range (higher number =3D hotter plug)
+
+D = Thread length =3D 19mm for flat seat
+
+C = Copper Electrode Material
+
+Tightening torque for either plug is 15-25 Nm (11-19 ft-lbs)
+
+The only difference between the plugs seems to be the wrench size and that the E34 is one heat range hotter (6 versus 5).
+
+\*\*\*\*\*end of Mformation list Spark Plug Socket post\*\*\*\*\*\*\*\*
+
+Hope this helps,
+
+Pete Read\
+'88 M5

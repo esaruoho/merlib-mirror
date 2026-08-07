@@ -1,0 +1,37 @@
+---
+title: "Live From London with Lee & Herring"
+source_domain: amasci.com
+source_path: ~rkj/weekly/aa032999.htm
+order: 7042
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:14:36Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Live From London with Lee & Herring
+
+*Source page: `~rkj/weekly/aa032999.htm`*
+
+### Live From London
+
+Dateline: March 29, 1999
+
+The second season premiere of [*Lee & Herring's This Morning With Richard, Not Judy*](http://193.62.1.220/fist/) went out live on BBC-2 on March 21st. Your About.com guide was sitting in the audience of London's Riverside Studios to watch and has this report.
+
+Comedy double-act Richard Herring and Stewart Lee first appeared on BBC Radio with *Fist Of Fun*, which then transferred to BBC-2 for two years. After a brief lull, they were commissioned by the BBC to fill the "post-hangover" slot noon on Sundays last year with a youth-oriented live chat show parody of *This Morning With Richard and Judy* (the UK's answer to Regis and Kathy Lee). Even with an edited repeat each Friday, *TMWRNJ* (which Rich would insist on pronouncing "temuwerenjer") didn't set the world on fire in terms of ratings but was nevertheless picked up for a second season this year.
+
+Though the credits and "homey" set would seem to resemble an ordinary talk show, Rich and Stu rely less on guests and more on banter, studio gags, and pre-taped sketches. Performed and broadcast live in front of an audience each Sunday, the show has surprisingly quick pace with each segment lasting only a few minutes at most. Rather than being made at the august BBC Television Center in White City, *TMWRNJ* comes from the relatively small and intimate Riverside Studios in Hammersmith which even features a working cinema in addition to providing studio resources. Chris Evan's *T.F.I.Friday* is also broadcast from the same studio on Fridays for Channel 4.
+
+The theme for the first episode was the idiocy of 70s nostalgia, symbolized by the swift (and topical) cancellation of *Days Like These* (the failed UK remake of *That 70s Show*). Even for a live show, much of the material is prepared a few weeks in advance, and it was just a coincidence that ITV announced *Days Like These's* demise a few days earlier - although Rich later admitted they had heard whispers as early as a week before. Unfortunately, this timeliness cuts both ways, as a series of sketches featuring the "fake Rod Hull" (Kevin Eldon) had to be scrapped at the last minute when the real Rod Hull [died](http://news2.thdo.bbc.co.uk/hi/english/uk/newsid_298000/298817.stm) in a tragic accident on March 17th (the sketches - three of which had already been filmed - involved "Rod Hull" dying each time after attempting a series of tasks due to his false arm. They will never shown).
+
+Each week a "King of the Show" is chosen from the audience, and lavished with attention and appropriate garments. Unfortunately, due to running late (and live TV has no mercy), Rich and Stu weren't able to interact as much with this week's King. A pre-taped parody of *Titanic* with Rich as Kate Winslet went over well, and looked good enough to be used as trailers for the series that have run on BBC-2.
+
+Other returning jokes included the "Curious Orange," a head shaped like an orange who was "pulped" in the last episode last year. His reappearance was explained with a taped segment of a mad scientist who brought the orange back to life, although he now has tendencies to make *Dr Who's* Davros-like rants to rule supreme over humanity. Another segment, "When Things Fall Over," continues their skewering the career of American actor [Greg Evigan](http://www.eonline.net/Facts/People/0,12,5095,00.html) (who they nearly convinced to appear for real this year - though in the end he turned them down and was impersonated instead by *The League of Gentlemen's* Mark Gatiss).
+
+For the audience, watching a live show means it's over fairly quickly (in comparison, one episode of *Whose Line Is It Anyway?* takes three hours to record!). Rich and Stu are keen to meet their fans (and maintain their own excellent [website](http://www.leeandherring.com/)), and made themselves available afterwards for a quick chat.
+
+Unfortunately, Americans will have next to no chance to ever see *This Morning With Richard, Not Judy*, as the BBC seems to consider it "disposable" TV just to fill a slot. It's a shame, as Rich and Stu are certainly as talented as anything else that is imported (and haven't we seen enough of Benny Hill now?).
+
+[**Previous Features**](mpreviss.htm)

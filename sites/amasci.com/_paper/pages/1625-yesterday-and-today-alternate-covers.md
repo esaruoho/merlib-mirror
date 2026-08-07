@@ -5,8 +5,8 @@ source_path: ~bpentium/alternat.html
 order: 1625
 reachable_from_entry: false
 images: 5
-internal_links: 2
-extracted: 2026-08-07T05:55:19Z
+internal_links: 3
+extracted: 2026-08-07T17:07:56Z
 extractor: site_to_paper.py (pandoc)
 ---
 

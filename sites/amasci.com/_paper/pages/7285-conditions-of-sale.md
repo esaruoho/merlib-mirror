@@ -1,0 +1,52 @@
+---
+title: "Conditions of Sale"
+source_domain: amasci.com
+source_path: ~robertf/stuff/salecond.html
+order: 7285
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:14:52Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Conditions of Sale
+
+*Source page: `~robertf/stuff/salecond.html`*
+
+> # Conditions of Sale
+>
+> We (Bob and Emma Fleming) are individuals with a small home-based business, and are in the position of having more stuff than we have room for, so we are selling many things on these web pages.
+>
+> **TIME:**  There may be delays of a day or so in responding to e-mail messages and updating the web site.
+>
+> **TAXES:**  Goods delivered to addresses in the State of Washington are subject to a sales tax of 8.8%. We do NOT collect tax on orders shipped outside of the State of Washington. [Details about sales tax](salestax.html)
+>
+> **CUSTOMS DUTIES:**  Goods delivered outside the U.S. may be subject to customs duties of the country into which the goods are delivered. The purchaser may have to pay customs duties imposed by their country.
+>
+> **FIXED PRICES vs. BIDS:**  If I have an idea of a reasonable price, I will list the item with a **fixed price**. If I don't have an idea of reasonable price, I will sell the item on a **bidding basis.**
+>
+> **FIXED PRICES:**  If you want to buy a fixed-price item, please follow this procedure:
+>
+> 1.  Send an e-mail to Bob Fleming at <surplus@eskimo.com>. Indicate which item(s) you are interested in. Please include your name, mailing address, and telephone number. At this point we consider your request for information to be an **inquiry** and the item is still up for sale to others.
+> 2.  We will reply, letting you know whether or not the item is still available. If it is, we will confirm the price of the item and the shipping charge and any other charges that may apply. Please note that we need your mailing address before we can quote shipping charges. We get requests from all over the world, and the postage is different for different countries. Even within the United States, the distance makes a difference in some rates. We also need to know whether or not you are in the State of Washington as sales tax applies in Washington. If you do not include your address with your request, there will be a delay while we wait for your address.
+> 3.  Please do not send payment until you get a reply from us stating that the item is available and what charges apply. We do not want to receive payment for something that has already been sold to somebody else, and we also want to be sure you know the correct amount before sending payment.
+> 4.  Our reply will also contain the information of what form of payment is acceptable, to whom it should be payable, and our mailing address.
+> 5.  When we receive confirmation from you that you are sending payment, and we have your mailing address, we classify this as an **order.** If the item is still available, we will hold the item for you for a minimum time pending receipt of payment. During this time we will not sell it to anybody else. The hold period is as follows:\
+>           For shipment to the U.S.A., 14 days\
+>           For shipment to Canada, 21 days\
+>           For shipment to other countries, 35 days
+> 6.  Upon receipt of your payment, we will consider the item officially **sold,** and we will update our records and web site accordingly. We will send you the item.
+> 7.  If payment is not received by the time that the hold period has expired, we will assume that you changed your mind and decided not to buy the item. It then will be made available for purchase by others.
+> 8.  Sometimes more than one person wants the same item. The item will be held for the first person to send an **order,** with their name and mailing address and explaining that they are sending payment. Subsequent orders will be rejected but will be queued. If the first order does not result in a sale, the item will be made available to the next person in the queue.
+>
+> **BIDDING BASIS:**  In the case of an item listed for bidding, the item will be listed for an indefinite time. However, if somebody bids on that item, I will try within a day or two to post the bid on the web site, except that I have the right to reject bids I consider unreasonable. If you want to make a bid, please send an e-mail to Bob Fleming at Flemco Surplus Sales, at <surplus@eskimo.com>. Tell me what item(s) you want to bid on and the amount of your bid on each, and include your name, address, and telephone number. I will respond accepting or rejecting your bid, or requesting additional information.
+>
+> When the first bid is accepted for an item, it will be posted to the web site, and this initiates a bidding period. The bidding information will be shown in red immediately following the listing of the item for sale. If the bid is posted to the web site on a Sunday, the bidding period will end on Sunday two weeks later at 3:00 p.m. Pacific Daylight Time (22:00 GMT/UTC). If the first bid is posted on a day other than Sunday, the bidding period will end at 3:00 p.m. Pacific Daylight Time (22:00 GMT/UTC) on the second Sunday after the next Sunday after the first bid is posted. So the period will always be less than three weeks but not less than two weeks. This will give other people an opportunity to place a higher bid. If a higher bid is received, the bidding information on the web site will be updated to show the new, highest bid. After the closing time, no more bids will be accepted. The person making the highest bid is obligated to buy the item. I will try to notify the high bidder as quickly as possible, but it may take a day or more. The notification will include shipping options and costs.
+>
+> **CURRENCY:**  Prices on this site are in U.S. Dollars (USD). If you are in another country and want to see the price in your own currency, you can [click here (Currency Converter)](http://www.oanda.com/convert/classic) by [OANDA.com, The Currency Site](http://www.oanda.com).
+>
+> [Return to the Fleming Family home page](../index.html)\
+>
+> **©2000 Robert M. Fleming Jr.**\
+> This page last updated 28 December 2003.

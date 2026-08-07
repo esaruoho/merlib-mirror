@@ -1,0 +1,95 @@
+---
+title: "Blender Hotkeys"
+source_domain: amasci.com
+source_path: ~johnnyb/computers/blender/Blender_Hotkeys.html
+order: 4002
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:10:45Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Blender Hotkeys
+
+*Source page: `~johnnyb/computers/blender/Blender_Hotkeys.html`*
+
+# Blender HotKeys and More
+
+## All Modes
+
+- Space Bar - Bring Up Global/Context Menu\
+- R - Rotate
+- S - Scale
+- G - Translate/Move/Go
+- X - Erase selected objects
+- A - Select/Deselect All
+- B - Border Select Tool
+- B B - Round Select Tool
+- CTL + P - Make Parent Relationship
+- ALT + P - Clear Parent Relationship
+- SHIFT + D - Duplicate\
+- I - Insert Animation Key
+- ALT-C - Conversion Menu (Converting Curves to Meshes, Text to Curves, etc)\
+- RIGHT ARROW - Move Forward 1 Frame
+- LEFT ARROW - Move Backward 1 Frame
+- UP ARROW - Move Forward 10 Frames
+- DOWN ARROW - Move Backward 10 Frames
+- SHIFT + RIGHT ARROW - Go to the End of the Animation
+- SHIFT + LEFT ARROW - Go to Frame 1
+- ~ - Show All Layers
+- 1 through 9 - Show Given Layer
+- F11 - Render\
+- W - Special Menu\
+
+## Object Mode
+
+- Tab - Go to Edit mode
+- Control-Tab - Go to Pose Mode (for Armateurs)
+- F - Go to Face Mode
+- Control-Shift-A - Apply Deformation permanently
+- P - Play Game
+- M followed by a number or selection - Move Selected Object to Given Layer
+- CTL + J - Join Meshes / Curves\
+
+## Edit Mode
+
+- Tab - Go to Object Mode
+- E - Extrude
+- F - Make Edge/Face\
+- SHIFT + F - Fill in Faces
+- U - Undo changes since entering Edit Mode
+- P - Separate Faces into Own Object
+- L - Select Linked Vertices
+
+\
+-
+
+## Mouse Clicks
+
+- Right Click - Select Object/Vertex/Face Based on Mode
+- Left Click - Position 3D Cursor
+- SHIFT + Right Click - Select Object/Vertex while keep other objects/vertices selected as well
+- SHIFT + Right Double-Click - Remove Object/Vertex from Selection Group
+- SHIFT + Middle Mouse Button Down + DRAG - Translate/Move the View in the Current Window
+- CONTROL + Middle Mouse Button Down + DRAG - Scale the View in the Current Window
+- Middle Mouse Button Down + DRAG - Rotate the View in the Current Window
+- Right Click on Window Separator - Split View
+
+## Quick Hints
+
+- You must add a light to render ANYTHING! (Space Bar -\> Add -\> Lamp)
+- Most of your day will be spent extruding and screwing with materials/textures\
+- To get smooth shapes go to EditButtons and click Set Smooth
+- Only Spotlights cast shadows - and be sure shadows are enabled on the spotlight and in the render buttons
+- Turn on OSA in your Render Buttons
+- You have to add a material BEFORE adding a texture
+- Adding objects in Edit Mode makes the vertices part of the existing object
+- Moving your mouse away from a popup is the same as clicking "Cancel"
+- Clicking on the left side of a number button makes its value decrease, clicking on the right side makes it increase
+- Shift-clicking on a number button allows you to type in a new number
+- Some buttons have 3 states - you can tell by their color after the second button press
+- By default, animations get saved in the "render" subdirectory of your project's directory.  They renderings are poorly named.
+- Press F3 after doing a single-frame render to save the single frame\
+
+\

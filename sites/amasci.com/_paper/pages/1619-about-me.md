@@ -5,8 +5,8 @@ source_path: ~bpentium/aboutbob.html
 order: 1619
 reachable_from_entry: false
 images: 8
-internal_links: 3
-extracted: 2026-08-07T05:55:18Z
+internal_links: 4
+extracted: 2026-08-07T17:07:56Z
 extractor: site_to_paper.py (pandoc)
 ---
 

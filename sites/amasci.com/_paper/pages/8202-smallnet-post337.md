@@ -1,0 +1,276 @@
+---
+title: "SMALLnet post337"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post337.html
+order: 8202
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:52Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post337
+
+*Source page: `~smallnet/Archive/post337.html`*
+
+## SMALLnet Posting post337
+
+------------------------------------------------------------------------
+
+**Date: Thu, 17 Aug 2000 23:10:27 -0500**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet/> \>
+
+<div class="Joe">
+
+...A few Postings ago we discussed the electric ducted fan Sonic Blast free flight all-foam ARF. I was checking my original plane out a few days ago, and noticed a few items that I forgot to mention at the time we talked about it here. First, the intake area can take considerable "cleaning up". I carefully radiused the inner edges at the front of the inlet, and increased the area there a bit.
+
+After that, I painted the thin foam inlet "lips" with artist's acrylic gloss medium to strengthen it. I also removed a good bit of excess foam from the fuselage interior inside the duct, to maximize the intake airflow -- and smoothed the passageway as much as I could. In ducted fans, anything you can do to reduce air drag within the duct is beneficial.
+
+At the exit end of the duct I made a horizontal knife cut about half an inch deep on each side, at the opening centerline. Then I installed a transverse strip of "lithograph aluminum" across the duct exit. That provides a sort of "downthrust adjustment" when finger-bent a smidgen. That proved quite helpful in setting up a dependable, non-stalling climb pattern.
+
+I also found the rudder adjustment to be rather touchy. Only a TINY bit of offset is needed to produce a "schoolyard-style" turning circle. More deflection than that makes the little ducted fan spiral in under power. Wing warping seemed undependable as a flight adjustment on this model -- but a 1950's style "gravity tab" on a wingtip trailing edge MIGHT be effective. \[JW\]
+
+</div>
+
+Ron Leciston \< 
+
+ \> announces:
+
+I thought I should send everyone a reminder about the upcoming (8/20/00) RAMAC SMALL event that the Roxbury Area Model Airplane Club will be holding this Sunday at the Club's Shawnee, Pennsylvania flying field on River Road 6 miles North of the Interstate 80 Delaware River Bridge.
+
+The usual SMALL requirements: .26 cubic inch maximum engine displacement or equivalent electric, CO2 motors, etc. As this is an AMA Sanctioned Event, AMA Membership is required.
+
+Due to popular demand, last year's event has been moved from the New Jersey Site to the RAMAC's larger second Field in the Delaware Water Gap National Recreation Area.
+
+Please note that there are no food stands, concessions, or camping permitted in this National Park. We do have Porta-John facilities at the site. You can purchase food, etc. outside the park, and there are public camping facilities in the East Stroudsburg, Pennsylvania Area. This is the Poconos, after all!
+
+The site is only about an hour's drive via Interstate 80 from the George Washington Bridge, for those coming from New York City (at least the way I drive!).
+
+So, pack a picnic lunch, some SMALL aircraft, and join us at this year's event. Show up and strut your SMALL Stuff!
+
+Directions from New Jersey: Take US I-80 West across Delaware River Bridge, take Pennsylvania Exit \# 52 onto Route 209N for 1.1 miles; make a right onto Buttermilk Falls Road; make a left turn at the Tee intersection onto River Road going North; go 4.7 miles North and turn right into the Hialeah Airpark Site.
+
+Pilots, please drive to the left to park in the flyers' parking/pit area. Spectators drive to the right and park in the Spectators' Parking Area.
+
+Directions from Pennsylvania: Take I-80 East to PA Exit \# 52, then follow the New Jersey drivers' directions from there...
+
+See you all there! SMALL Fly-In Web Site: \< <http://members.aol.com/Lecisron/smallfly3.html> \>
+
+Regards from the Wilds of New Jersey, Ron Leciston
+
+Scott Winans \< 
+
+ \> contributed:
+
+J.C. Hill-Tout mentioned the Ace R/C Pacer.
+
+The old ACE kit of the Mach None, a contemporary of the Pacer, was also an excellent flying half-A pattern ship. I built and flew two of them, the first on full size gear, and the latter with mini equipment. First was reed valve powered, second was TD 049.
+
+That model has excellent handling, and amazing glide performance. Getting it to finally settle in on landing took some time as it would float for quite a while. 2-channel aerobatics were excellent.
+
+I am also thoroughly enjoying the mention of pulse rudder-only activities, as that is perhaps my favorite relaxing type of flying. My longest-lasting has been a TD .020 powered Li'l Pup kitted by R/N models. I probably have about 10 years continuous use on that now. Have worn out one or two cylinder/piston sets on it.
+
+That airplane uses the ACE system driving their smallest actuator. My first was a Dick's Dream utilizing the Mattel systems that were blown out on special at the time; heavy but work fine.
+
+A note of interest for those who may be seeking a smaller and much lighter receiver for their pulse systems. A friend of mine, Mike Dorffler, is developing a new micro receiver on 27 MHz to use with the existing transmitters. Prototypes will be available soon. He has a very extensive background in electronics design, prototyping, and production support for R/C electronics, so this will be a successful item. I will keep this list posted on developments if anyone is interested.
+
+Keep those rudders 'waggling'
+
+Scott Winans
+
+Dan \< 
+
+ \> replies to Hugh Carter's quest for present-day Galloping Ghost R/C flyers:
+
+Yes, Hugh some of us are still here. I finished a Tri-Squire two years ago and have not flown it yet. It uses a Controlaire SH-100 receiver with a modified World Engines ghost actuator. I am using a transmitter that I built in the early 60's for control.
+
+BTW, I built an H-drive for the servo and use 4.8 volts to drive it normally. A pulse omission detector (POD) switches in an additional 4.8 volts during throttle operation. I built this so the new people could see how we used to do it. Maybe I'll get around to flight soon.
+
+I have been monitoring the 27 MHz frequency band, and it shouldn't be a problem at our field. I only intend to fly one flight anyway.
+
+Dan
+
+John Rossetti \< 
+
+ \> wrote:
+
+Looking for an electric-powered airplane that would fly well took me to the SR Batteries' website. When I reviewed their X-250, I felt sure it would perform as advertised. And it does.
+
+If you want a small electric that flies well and boosts your confidence in electrics.... try the X-250. You won't be sorry.
+
+John Rossetti
+
+Sam Brauer \< 
+
+ \> submitted:
+
+Here are some suggestions for Gary Gullikson. Based on my experiences, I have some equipment preferences, but there is more than one way to skin a cat. First off, all the airplanes he mentions are relatively slow-flying. Therefore, a geared motor with a large prop is the way to go.
+
+I've been very happy with the S-300 Wasp put out by Mike's Tiny Models. This motor is not cheap (\$75 or so with shipping, but the euro monetary unit is cheap now). It comes with two sets of gearing. One is an 8:1, the other is a 5:1. The 8:1 will happily swing an 11-inch prop. I suspect that this is too large a prop for ground clearance for all the airplanes mentioned, but possibly not. Mine is installed in a Dare Triplane, where slow is the order of the day.
+
+Recently I've decided to mount an S-300 with 5:1 gearing in a Megowcoupe, which previously had a Golden Bee for power. Based on conversations with Mike (owner of MTM) he suggested the S-300 instead of the S-200 motor for the Megowcoupe. I suspect that this motor would be a good choice for the General Aristocrat or other airplanes in the 12-20 ounce range.
+
+If I remember, the Jetco kit is of much heavier construction than the Flyline stuff, and may not be suitable for electric without lots of lightening.
+
+The S-300 is pretty flexible, and much of the performance is going to depend on what type of batteries you choose. I've been flying with a 6-cell 350 mAH pack which weighs 3 ounces in the Triplane, but I'm going to try a 6-cell 500 mAh pack made by SR instead. Larry's packs are more expensive than Sanyo cells, but they are higher performance. However, the motor is rated up to 8 cells I believe, and can certainly handle a 7-cell pack if you need more power.
+
+For the light stuff, 6 cells should be OK. The motor will swing either an 8-inch or 9-inch APC prop, which is the way to go. You get to experiment -- the smaller prop should give longer duration if it'll fly the airplane. Larger props in electric generally equate to more power, since the motor runs at relatively fixed rpm. The cost is increased current draw. If you do the Jetco kit, plan on 7 cells or more.
+
+Speed control: The Pixie 7 by Castle Creations should handle things. It's light and inexpensive. The downside is that once you waggle the servos, the motor comes on at low speed. The fix is to have the throttle set above idle when turning on the radio. Other options are the Kontronik 10, which works well on Speed 280s, and I think should have enough reserve to not get fried. Talk to Sal at NESP for suggestions. If you're running lots of cells in the S-300, the Pixie 14 may be a better bet. This one does not have the same annoying trait as the Pixie 7.
+
+Other alternatives: Mike's Tiny Models will set you up with a plug- and-play system. I haven't used it, but given the quality of his motors, I'll bet it'll work well. While the price tag on the system is daunting -- i.e. \$150 or so -- it's actually not too bad when you break down the cost of the individual components.
+
+Chargers are much simpler. Get the Astro 110D. 7-cell chargers are cheap, but then you have to sweat how many cells you are using; lots of motors do better with 8 cells. I grumbled about the cost of this charger, but it's amazingly flexible. I inherited a Hitec transmitter with a 9-cell pack with a busted charger, and lo and behold, the 110D has taken over charging this Transmitter.
+
+Overall recommendations: Speed 300 motor with 5:1 gearing -- 8 x 3.8 inch APC prop (for starters), 6 cell 350 (or 500 if you can add the ounce) mAh cells by SR, Pixie 7 speed control, Astro 110D charger. Total bill about \$250.
+
+Norvels are definitely cheaper, including enough fuel and paper towels to wear out the engine.
+
+Sam Brauer, Norwalk, Connecticut
+
+Bernard E. Cawley, Jr. \< 
+
+ \> adds:
+
+Gary Gullikson asked for lots of information about e-powered model airplane components. Well, this could start a book, and giving the best answers requires knowing what some of your future plans are. Based on the list of questions, I'm going to assume that you don't have plans to get into bigger e-power planes in the near future. So, some middle-of-the-e-road suggestions:
+
+1\. Motor: any 6V Speed 400 type motor (Graupner 6V Speed 400, Robbe 400/35, Modelair-Tech 400SP "Sprint" motor, etc. Use a gear- box of at least 2:1 ratio for planes as you describe. Common choices: The MFA Mini-Olympus, the Graupner FG series at 2.33:1, the MAXX Products box, which comes with pinions for three ratios.
+
+For propellers I'd start with either the 8X4 or 9X5 Graupner Slim Props, or the new APC Slow Flyer props in the 8-10 inch range, depending on gears, airplane characteristics, cell count. Another reduction drive possibility that is quieter, but more flexible (and, sadly, heavier) is the H-100 belt drive from Modelair-Tech. Particularly in a short-nosed radial-engined scale subject, it would be a good choice.
+
+2\. Electronic Speed Control: any current unit rated for at least 14 Amperes continuous will do. Some are nicer and more user-friendly than others. Some personal favorites: Viper Models MD-52, Castle Creations Pixie 14 and Pegasus 35, Tarling MicroStar 20, and, based on the behavior of other models in the line, the Jeti JES180. All of these have a BEC to run your radio off the drive battery; all will let you restart the motor after the initial cutoff by pulling the throttle back and then advancing it again; and all but the Pixie have a prop brake (which you probably won't need for a scale ship, but it doesn't hurt). The Pixie is the smallest and lightest.
+
+3\. Battery Pack: This is tough right now because the former best answer (Sanyo red-label 500ARs) are out of production. Most 7- or 8-cell batteries of 600-1100 mAh capacity in NiCd and up to about half again as much in NiMH (go with 8 or 9 cells on NiMH) can work. Higher capacity generally means more weight, but not always.
+
+7.2V versions of the motors mentioned above, on one or two more cells than I suggested, are also good choices, with the advantage of more efficient operation. Above 10 cells is a problem for the BECs in the speed controls, though.
+
+4\. Fast charger: Here is where knowing where you want to go from the planes you listed is important. The most flexible and reliable charger I can think of for less than \$150 is the one I use most often myself: the Astro Flight 110D. If you shop around, it can be had new for right at \$100, and it will be able to handle anything from micro/slowflyer batteries up to packs that would be more at home in a .40 - .60 sized glow powered airplane. Another possibility is the new FMA SuperNova. There are some cheaper alternatives, but none that will do 9 cells that I am aware of. The charger is like buying good tools or shoes - if you must skimp somewhere, do it somewhere ELSE.
+
+So, some recommendations. As in other forms of propulsion there is no one "best" choice for any of these components without taking into account the specific aircraft AND your expectations of its performance. Even then, there's probably not one "right" answer.
+
+For example, do you want scale-like long flights, or non-scale-like aerobatics? Do you want to fly 3 minutes or 15? Shoot touch-and- goes or not? How much wind do you want to be able to fly in? How often do you want to fly in one session and how close together (this drives battery capacity and chemistry choices, and whether or not one charger is enough)? I'll stop now.
+
+As for the Futaba MCR-4A system that Roy Clough mentioned, using that for speed control purposes is exceedingly tough on the gears in the Master Airscrew gearbox mentioned, unless you fly only at full power or "off". That 50 Hz throttle pulse frequency will beat the gears to death at part power.
+
+Bernard Cawley Auburn, Washington USA
+
+<span id="299"></span>
+
+<div class="green">
+
+Source: Electric, Leisure Electronics motors\
+
+</div>
+
+<span id="300"></span>
+
+<div class="green">
+
+Vendor: Leisure Electronics\
+
+</div>
+
+<div class="Joe">
+
+...Folks, in all the discussions we've had about electric power, I wonder why nobody's mentioned the power units manufactured by Astro Flight owner Bob Boucher's twin brother Roland? Roland's outfit is Leisure Electronics, at 11 Deerspring, Irvine, California 92604.
+
+Roland has a web site at \< <http://home.earthlink.net/~rolandfly/> \> and an e-mail address at \< 
+
+ \>. He doesn't advertise much, but in the SAM Speaks newsletter he touts: "ELECTRIC POWER -- 25 cents per watt!"
+
+I've seen Leisure geared electric power units haul 5-foot-span Cleveland Playboy free flight models upstairs at respectable rates. I don't know a lot about the motor units -- but I do know that Roland has been in business for quite a while now, and seems to have a sizable bunch of satisfied customers among e-power old- timer flyers. And at 25 cents per watt, I'm mighty tempted to give one of those rigs a try myself... \[JW\]
+
+</div>
+
+Roy Clough \< 
+
+ \> hits several items this round:
+
+To Frank Hodson: Flying Models will be publishing my "Smart Eleck" which will show exactly how to restart a BEC cutoff motor several times -- with no danger of running out of juice for control. I don't want to blow it in advance of publication, but if you phone me I can whisper it in your ear. This plane will also show something else that should be of interest -- how to build efficient balsa and film wings without the bother of cutting out scads of wing ribs.
+
+Speaking of single-channel, I designed and published something several years ago that might be of interest to flyers who limit themselves to one servo. This uses one S-133, (but it could be any small servo) to operate both the rudder and the elevators PROPORTIONALLY. It's a mechanical gismoe, and I still have the original in a 36"-span version of my "MULTI WIZ", which was published in the August 1992 issue of Model Airplane News.
+
+The way it works is that by moving the stick part way right or left you get rudder control; and by moving the stick further to the right you get full up and further to the left is down. If it sounds tricky to operate it is not. In fact I fly this speedy little plane with a lively .049 with relaxed PINK knuckles. The moves seem very natural after a couple of minutes, and for super-slow flyers it would seem a breeze. If anybody wants to go to the trouble of manufacturing this gadget, give me a hit. I can help.
+
+I did a number of diddles on the Cox FailSafe single channel radio, and at the top of form was getting rudder, elevator, throttle and landing lights out of it. Wrote it up for one of the magazines, but when it developed that Cox was not going to push this thing for builders, I called the article back rather than publish something that would be obsolete by the time it hit the stands.
+
+The Galloping Ghost mention by John Whittsitt stirs memories. Bill Effinger fitted me out with an Aerotrol unit escapement, Sigma 4F relay, and a trick for fine tuning using a fine-wire-wrapped stub on the RF coil. After discovering that, as one wag put it, radio control was like free flight with expensive batteries, I started to design a control of my own. (I earlier gave Hal deBolt the details on this one.)
+
+I used a tab that the escapement rotated 90 degrees per jolt. The start (home) position was neutral; the first signal position tabbed right rudder; the second tabbed "up"; and the third pulse rotated to left rudder tab. The fourth punch of the button continued the rotation back to neutral. No Ghostly jitter, but watch carefully and figure out what was happening before you punched the button again.
+
+I have used many Cox engines; Big John Elliot supplied me with a couple that are still going strong. I never had a Cox engine wear out to the point where it would not run, but I've had a fair share of reed valve problems. In the old days I used to trim off the edge of a mylar drawing to make reeds that worked better than some that came in the engines. Later I started to use a power starter on all of them, because the fuel flow needs encouragement for the first start and I hate winding needle valves in and out when I already had a pretty close setting.
+
+Worst trouble with Cox engines was brittle crankshafts that plagued some of the unpainted versions; and if you use them as pushers, you'll need to insert a thin steel washer to take the thrust against the aluminum crankcase journal. Other than that I like them.
+
+Believe it, I have never had any problem with fuel spraying out of tank vents.
+
+Single-channel flyers can take advantage of the gyroscopic effect of a spinning propeller. With normal counter-clockwise-rotating model engines, a left turn will tend to raise the nose, while a right turn will depress it. I always used a tight left spiral climb for FF pylons, and never had even one spiral dive crackup. In fact, I have doubts about "spiral stability." Flyers who adjusted pylons for a tight right spiral climb on the theory that a right-hand turn countered torque effect swept up a lot of shattered balsa.
+
+Roy C.
+
+<div class="Joe">
+
+...Roy, the Cox engines I modify with "custom venting" are used in control-line models. In those the stock straight-up-and-down tank vents spray fuel badly when the tank is full. I converted the Cox tanks to use the same style of forward-facing "ram air pressure" vents that West Coast control-line stunt pilots developed 50 years ago, before the Uniflow principle was adapted to stunt tanks. \[JW\]
+
+</div>
+
+George Abbott \< 
+
+ \> opines:
+
+Seems to me that too many "old timers" take a patronizing attitude toward newcomers, some of who have the temerity to buy an ARF to get into the hobby.
+
+I personally don't particularly like ARFs, but I am always glad to see someone of any age use any means to get into the hobby that has given me so much pleasure for more than 60 years. I like to build as well as fly, but I'm glad to see someone enjoy himself if he only wants to fly an ARF.
+
+George Abbott
+
+Malcolm Logan \< 
+
+ \> is back with us:
+
+Been away in UK for the last 3 months growing my webbed feet - the worst summer I ever experienced over there ! I spectated at several full-size airshows and model events but did not see a single SMALL model fly all that time. I helped a Scots buddy whom I got started in R/C last year to pass his Bronze proficiency test -- which means, for those not familiar with the Certification Scheme (for safer flying) now operating in the UK, he can now go flying without having to have an experienced flyer stand alongside him (he had already soloed months before).
+
+Don Bailey - I agree with you about ARF's having a place in the realm of aeromodelling. Back when I worked for a living, I was truly grateful for ARF's. In the early and mid-70's, I was flying ARF kits in Hong Kong made by E-Z Sport Aviation of Japan. These were way good enough in quality then and I think there are ARF's out there now that are even better. For example, the Model Tech "Built Up Handcrafted Planes" range distributed in UK by Wilson Li of YT International - they have superbly built ARTC wood airframes and ARTF covered models - all at very reasonable prices.
+
+In their extensive range of types - both sport scale and non-scale - they have a P-51, Me 109 and J-3. The P-51 and Me109 are also offered as PSS Power Scale Soarers. All fly within the SMALLnet sphere. The Model Tech range is also distributed in the US by ....... Tower ?
+
+And yes, Don, those pesky Norvel 061's are a real trial of nerves ! Some are good, some are bad, some are good some days and are bad on other days. This seems to be a general consensus of Norvel users across a number of newsgroups in the US and UK. My conclusion is that Norvel's production and quality control needs tightening up severely to eliminate the peaks and troughs.
+
+There was a reference to a MDS 28 (which is outside the remit of SMALLnet - how did you let that one creep in, Joe ?) - this is another Russian engine range. I don't own one, but I've been asked to help set up (read - getting them to run right) four different MDS's - and they all exhibited erratic characteristics similar to the Norvels - is this just another coincidence ? Fade in X Files/Twilight Zone theme music....... Malcolm Logan
+
+<div class="Joe">
+
+...Malcolm, for all I know the MDS .28 mentioned was in a control- liner. .36 cubic inches is SMALL's top limit for that sort of model flying. \[JW\]
+
+</div>
+
+John Rimmer \< 
+
+ \> observes:
+
+It would be nice if there was some kind of standard method of describing angles of incidence. I notice that some people use a line drawn down the fuselage as reference and describe the wing as having "x" degrees of positive incidence, and the elevator as having "y" degrees of negative incidence -- with the engine having "z" degrees negative thrust.
+
+There are others that use the elevator-stabilizer as a reference, and the wing and engine as positive or negative to this reference.
+
+A standard would make discussions clearer and simpler, since we would not have to repeatedly establish our measurement method.
+
+John Rimmer
+
+<div class="Joe">
+
+...Quite right, John. But who will do the work of compelling every- one to conform to this standard ? \[JW\]
+
+</div>
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

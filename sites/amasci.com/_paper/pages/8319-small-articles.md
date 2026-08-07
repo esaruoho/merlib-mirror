@@ -1,0 +1,47 @@
+---
+title: "SMALL Articles"
+source_domain: amasci.com
+source_path: ~smallnet/JoeArticles/FineArt.html
+order: 8319
+reachable_from_entry: false
+images: 1
+internal_links: 1
+extracted: 2026-08-07T17:16:03Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALL Articles
+
+*Source page: `~smallnet/JoeArticles/FineArt.html`*
+
+SMALL Articles
+
+<img src="../SMALLnetLogoBtrans.gif" data-align="center" alt="SMALLnet LOGO" />
+
+**SMALL Articles by Joe Wagner**
+
+------------------------------------------------------------------------
+
+## MODEL AIRPLANES AS A FINE ART
+
+### by Joe Wagner
+
+Few things irritate us modelers more than people calling our activities "playing with toy airplanes". As we well know, our hobby/sport is a truly scientific endeavor, requiring a working knowledge of aerodynamics, meteorology, electronics, metallurgy, chemistry, physics, and other technologies. However, model airplanes are also an Art Form --and a FINE ART at that!
+
+My definition of an Art is "Any creative human activity with the purpose of affecting emotion". That covers a lot of territory: Literature, Graphic Arts, Music, Sculpture, Architecture, Ballet, and more. Commercial Art (of whatever kind) differs from Fine Art, at least in its purpose: The first is performed primarily to satisfy a customer's requirements; while the latter's done to please the artist himself. Of course, a "Fine Artist" can get paid for his work, and sometimes does. But HE's the one, not his client, who decides what the artwork will be -- and how and when to do it.
+
+Now consider model airplanes again with the preceding paragraph in mind. The miniature aircraft that we build and fly surely involve just as genuine an artistic effort to personally satisfy our own aesthetic creative desires as the work of any painter or musician. Even when we haven't the time available to let us enjoy the complete experience of designing and building a model from scratch, and instead assemble one from a commercial kit, WE make the decision whether to substitute a curved wingtip for a rectangular one -- or to revise the entire shape of a vertical tail...
+
+Model airplanes might very well represent the highest (pun intentional) form of Fine Art. Our aircraft involve every one of the planar techniques of the Graphic Arts: drawing, painting, photography; plus the three-dimensionality of Sculpture; including the practical values and uses of Architecture -- and the dynamic qualities of Ballet besides!
+
+I can't think of any other Art form with so much complexity and variety, either. From simple all-balsa hand-launched gliders (throwing those for maximum duration is an Art Form in itself!) to four-engined, multi-channel R/C scale models, the range of possible projects, materials, and techniques is almost infinite. Miniature aircraft that fly can be as tiny as the popular 8" span "Pistachio" rubber-power scale models or as large as 20-foot-and- up radio-controlled "Giant-Scalers".
+
+I've seen model airplanes constructed from paper, plastics, metals, and woods ranging from balsa and bamboo to pine, spruce, basswood, mahogany, maple, birch, and even coco bolo. Finishes show as much variety: bare wood, tissue paper, silk, nylon, many types of iron-on plastic coverings -- and fourteen kinds of paint! The craftsmen that the public usually think of as Artists have no wider choice of media to work with than we modelers do.
+
+The dynamics of flight are exquisitely artistic too. Aerial maneuvers of a control-line stunt model or an R/C aerobatic airplane can exhibit as much grace, symmetry, and balance as Ballet -- but are easier to appreciate. A ballerina's triple entrechat, for example, difficult and spectacular though it may be, occurs in about half of a second. That's too fast for most human eyes to register. But anyone can see and follow a model airplane's spin, slow roll or horizontal eight...
+
+As a Fine Art, model airplanes are more comprehensible to "laymen" than most other art forms. Modern painting and sculpture in particular have lost all relation to reality. No one looking at examples of those knows quite what he's supposed to be experiencing. That's never the case with model airplanes. Even "far-out" modeling projects like a "Snoopy Flying Doghouse" or a radio-controlled Bat are instantly recognizable for what they represent. They may or may not be well executed -- but it's easy to tell the difference. You can't say that about much in the way of Modern Art!
+
+Probably the major dissimilarity between us airplane modelers and the people the general public considers as Artists is that we're obviously having FUN in our activity. It's hard to visualize Frank Lloyd Wright humming a happy tune while designing "Fallingwater", or Michelangelo grinning as he painted the Sistine Chapel ceiling -- or Beethoven chuckling while composing a symphony. Maybe if they had done that, they'd have been accused of "playing with toys" too!
+
+**Back to [Article Selection](../WagnerWriting.html) page.**

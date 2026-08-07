@@ -1,0 +1,76 @@
+---
+title: "Exploring Nonverbal Communication"
+source_domain: amasci.com
+source_path: ~slander/nvc/facerev.html
+order: 8119
+reachable_from_entry: false
+images: 1
+internal_links: 5
+extracted: 2026-08-07T17:15:45Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Exploring Nonverbal Communication
+
+*Source page: `~slander/nvc/facerev.html`*
+
+Exploring Nonverbal Communication
+
+<img src="titleface.gif" width="282" height="36" />\
+**Emotions, Identities and Masks**\
+(31 minutes)
+
+The face is the "organ of emotion," and we constantly read facial expressions to understand what others are feeling. The face also contains other powerful clues. Our identity is captured in our features, and our eyes reveal important truths about us, even those we would prefer to conceal. Our face also plays a critical role in physical attractiveness.
+
+The face is one of our most important possessions. It has been called "the organ of emotion" and, indeed, the face provides vital clues to our own feelings and those of the people around us. Our faces are a dynamic canvas, one in which emotions are drawn vividly, then suddenly erased, only to be redrawn in a new expression an instant later.
+
+While the face is the "organ" of emotion, it is also much more. The face is an important channel of identity; friends and acquaintances can recognize us before a word is said. Our face develops as we do, from infancy, into adulthood, crossing into middle age, and finally into the senior years--always retaining features already prominent in childhood.
+
+The face is perhaps the most powerful "channel" of nonverbal communication. We "encode" messages in our own facial expressions, and we simultaneously "decode" the faces of the people around us. In even the most simple interaction, our attention naturally gravitates to the face, seeking to read some of the vital information we know is "written" there. We constantly monitor the face because it provides vital clues to an impressive variety of possibilities: attraction, whether a person likes or dislikes us, the complexity of emotions, identity, age, humor, and a person's regional and even national background.
+
+The face is perhaps the most important human art object. Cosmetics, coloration, hair length and style, and other qualities all figure in perceptions of physical attractiveness. People can even decide to modify this most personal art object through piercings of the face, or through plastic surgery.
+
+The video THE HUMAN FACE: EMOTIONS, IDENTITIES AND MASKS explores the power of the face. Twelve different facial properties are examined, and the importance of this extraordinary human instrument is demonstrated for each.
+
+THE HUMAN FACE is available with an INSTRUCTOR'S GUIDE that provides (a) suggested uses of the video, (b) classroom demonstrations designed to show the importance of the human face and our ability to read its diverse messages, and (c) background and reference materials on the face and nonverbal communication.
+
+------------------------------------------------------------------------
+
+**What reviewers are saying about "THE HUMAN FACE":**
+
+"I REALLY enjoyed THE HUMAN FACE, and I will use it in my classes. Like Dane Archer's other instructional videos, THE HUMAN FACE is an exceptional pedagogical tool. Students will love this video and will be able to identify with the people in the video who are discussing the many important ways the face is used and abused. All fields of study which examine the nature of human interaction will find this video EXTREMELY useful."\  
+-- Mark L. Knapp, Professor of Speech Communication, University of Texas, author of Nonverbal Communication in Human Interaction
+
+"Students will love this video. They'll laugh and be entertained; they'll argue and be intellectually stimulated. It bears the stamp of Dane Archer, a master scholar and master communicator. THE HUMAN FACE is original, instructive, funny, inclusive, unobtrusively scholarly, and characteristically cross-cultural."\
+"It will be widely useful in social science and humanities courses at the high school and college levels, including courses in psychology, sociology, anthropology, education, communication, theater, criminal justice, and business. Its wise classroom use is greatly facilitated by the valuable Instructor's Guide. The face, as Gordon Allport knew, is where a person meets the world. This video achieves its goal of being an "owner's manual" for that face."\  
+-- Robert Rosenthal, Edgar Pierce Professor of Psychology, Harvard University, author of Pygmalion in the Classroom.
+
+"Dane Archer's video, THE HUMAN FACE: EMOTIONS, IDENTITIES AND MASKS, is a powerful teaching tool. Like his previous video, [THE HUMAN VOICE: EXPLORING VOCAL PARALANGUAGE](voice.html), THE HUMAN FACE is engaging, witty, and funny. Students will love it! The narration by Dane Archer is informative without becoming a lecture. Twelve different facial properties are examined and a strong cross-cultural perspective is maintained. One learns a lot without realizing that learning is taking place. The video also can be used as a stimulus for class discussions. The twelve topics pertain to matters from everyday life. I imagine that students will be bursting with comments and suggestions. The accompanying Instructor's Guide offers several interesting suggestions for class demonstrations. In summary, an excellent job."\  
+-- Miron Zuckerman, Professor of Psychology, University of Rochester
+
+"This video is a delightful and engaging exploration of many facets of the human face. Over the years, the students in my nonverbal communication class have greatly enjoyed the other videotapes in this series, and I think they will really like this one, too."\  
+-- Bella DePaulo, Professor of Psychology, University of Virginia.
+
+"Dane Archer has done it again! 'The Human Face' is just as exciting, witty, creative, and thought-provoking as his earlier videos, ["A WORLD OF GESTURES"](gest.html) and ["THE HUMAN VOICE."](voice.html) These videos are so popular with my students that they ask for them by name: "Can we see another Dane Archer video?" they ask. Now I'm glad to be able to answer: "Yes... here's 'THE HUMAN FACE'."\
+"This video does an outstanding job of covering classic topics, such as cross-cultural facial expression, as well as new topics, such as standards of facial beauty, and the personalization of the face through techniques like piercing. Topics are presented in highly innovative ways. For example, interviews with people from various professions--a flight attendant, a police officer, a grade-school teacher, and a plastic surgeon--will initiate classroom discussion about the role of facial expressions in different types of social interaction." "THE HUMAN FACE," like the other videos in the series, is lively, involving, and visually stunning. One of the video's greatest gifts to professors is its outstanding visual depictions of nonverbal behavior--exactly the sort of visual information that so many of us lack in our collection of teaching materials. I can't wait until the next Archer production--there can never be enough of these videos for my students or for me! I heartily recommend "THE HUMAN FACE," and here's a tip--don't miss the last thirty seconds--they're hilarious."\  
+-- Robin Akert, Professor of Psychology, Wellesley College, author of Social Psychology: The Heart and the Mind.
+
+"Dane Archer has made another fascinating video, this one on the face. As in his other videos, he uses casual interviews with children, students, and professionals to highlight the questions and point to possible answers. He shows the importance of the face in everyday life and raises many questions that students and instructors will want to discuss. I will definitely use this video in my nonverbal communication claasses in conjunction with the Instructor's Guide, which contains a host of good ideas for classroom discussions and applications."\  
+-- Judith A. Hall, Professor of Psychology, Northeastern University, Editor of The Journal of Nonverbal Behavior
+
+------------------------------------------------------------------------
+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><ul>
+<li><a href="order.html">How To <strong>Order</strong> This Video</a></li>
+<li><a href="face.html">Return To <strong>The Human Face</strong></a></li>
+<li><a href="index.html">Return To Main Page</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>

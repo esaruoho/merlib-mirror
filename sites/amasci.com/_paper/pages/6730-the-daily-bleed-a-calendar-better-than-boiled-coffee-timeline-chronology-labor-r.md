@@ -1,1027 +1,0 @@
----
-title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
-source_domain: amasci.com
-source_path: ~recall/bleed/0501.htm
-order: 6730
-reachable_from_entry: false
-images: 35
-internal_links: 0
-extracted: 2026-08-07T05:59:31Z
-extractor: site_to_paper.py (pandoc)
----
-
-# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
-
-*Source page: `~recall/bleed/0501.htm`*
-
-> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
-> >
-> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
-> >
-> >   Our Daily Bleed...
-> >
-> > \
-
-\
---
-
-> MAY DAY
->
-> MOTHER JONES\
-> "I'm no lady, I'm a hell-raiser!"
->
-> Labor agitator, radical.
-
-
-
-> 
->
-> ------------------------------------------------------------------------
->
-> WORLD LABOR DAY.
->
-> TRADITIONAL FERTILITY FESTIVAL. Welcoming back the Spring.
->
-> Ancient Roman FLORALIA, Festival of the Goddess Floralia. Grand processions in England including "Jack in the green," milkmaids, Morris dancers, Robin Hood & his Merry Men.
->
-> BELTANE: First day of Celtic summer. Celebrate the fertility of all things with festivals of fire.
->
-> US: ASIAN PACIFIC AMERICAN HERITAGE MONTH.
->
-> SATIRE DAY.
->
-> 
->
-> ------------------------------------------------------------------------
->
-> Keep in mind this is:
->
-> Correct Posture Month, National Asparagus Month,\
-> Good Carkeeping Month, National High Blood Pressure Month,\
-> Old Americans Month, Better Sleep Month,\
-> Date Your Mate Month, Fungal Infection Awareness Month,\
-> Revise Your Work Schedule Month
->
-> 
->
-> ------------------------------------------------------------------------
->
-> First week is: National Bathroom Reading Week, Carpet Care Improvement Week
->
-> Second week is: International Online Romance Week\
-> [http://www.online-romance.com\>http://www.online-romance.com](http://www.online-romance.com)
->
-> Conserve Water/Detect-A-Leak Week
->
-> Third week is: Raisin Week, Girls Incorporated Week, Kiwanis Prayer Week
->
-> Fourth week is: Poetry Week, International Pickle Week, American Beer Week (begins Last Sunday), Poppy Week, National Surgical Technologists Week.
->
-> Important moveable holidays are: first Friday: International Tuba Day; 2nd Wednesday, National Third-Shift Worker's Day; 3rd Friday, National Defense Transportation Day; Monday before Ascension, Pacing the Bounds (Switzerland)
->
-> Important Indeterminate Holidays: Late May, Hot Penny Toss Day (Rye,Sussex, UK)
->
-> ------------------------------------------------------------------------
-
-[]()\
-
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/labor/abolish_work2.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="160" height="250" alt="MayDay! Abolish work!" />\
--- MAY DAY! MAY DAY! MAY DAY!
-
-> Hundreds of thousands of American workers, increasingly determined to resist subjugation to capitalist power, poured into a fledgling labor organization, the Knights of Labor.
->
-> Beginning on May 1, 1886, they took to the streets to demand universal adoption of the 8-hour day. Chicago was the center of the movement. Workers there had been agitating for an 8-hour day for months, & on the eve of May 1, 50,000 were already on strike. 30,000 more swelled their ranks the next day, bringing most of Chicago manufacturing to a standstill. 
->
-> Fears of violent class conflict gripped the city. No violence occurred on May 1 a Saturday or May 2. But on Monday, May 3, a fight involving hundreds broke out at McCormick Reaper between locked-out unionists & non-unionist workers McCormick hired to replace them. The Chicago police, swollen in number & heavily armed, quickly moved in with clubs & guns to restore order. They left four unionists dead &many others wounded.
->
-> Angered by the deadly force of the police, a group of anarchists, led by August Spies & Albert Parsons, called on workers to arm themselves & participate in a massive protest demonstration in Haymarket Square on Tuesday evening, May 4. The demonstration appeared to be a complete bust, with only 3,000 assembling. But near the end of the evening, an individual, whose identity is still in dispute (possibly a police agent provocateur), threw a bomb that killed seven police & injured 67 others. 
->
-> Hysterical city & state government officials rounded up eight anarchists, tried them for murder, & sentenced them to death.
->
->  On 11 November 1887, four, including Parsons & Spies, were executed. All of the executed advocated armed struggle & violence as revolutionary methods, but their prosecutors found no evidence that any had actually thrown the Haymarket bomb. They died for their words not their deeds.
->
-> 250,000 people lined Chicago's street during Parson's funeral procession to express their outrage at this gross miscarriage of justice.
->
-> For radicals & trade unionists everywhere, Haymarket became a symbol of the stark inequality & injustice of capitalist society. The May 1886 Chicago events figured prominently in the decision of the founding congress of the Second International (Paris, 1889) to make May 1, 1890 a demonstration of the solidarity & power of the international working class movement. May Day has been a celebration ever since.
->
-> 
->
-> <http://www.geocities.com/CapitolHill/5202/GenStrike.htm>\
-> <http://www.accessweb.com/mayday/links.html>\
-> <http://www.leftbankbooks.com/~matthew/linkpages/links-mayday.html>\
-
-> > > 
-> > >
-> > > ------------------------------------------------------------------------
-> > >
-> > > []()\
-> > > \
-> > > 1187 -- Springs of Cresson: Death of Jacques de Mailly, Marshal of the Templars, & Roger des Moulins, Master of the Hospitalers. Gerard de Ridefort, Master of the Templars, & two others flee the battle []()\
-> > > []()\
-> > > \
-> > > 1380 -- Cecilia Chaumpaigne, a baker's daughter, releases Geoffrey Chaucer from the charges ("de raptu, meo") she had brought against him.\
-> > > <http://www.luminarium.org/medlit/chaucer.htm>\
-> > > []()\
-> > > \
-> > > 1543 -- Copernicus circulates "The Little Commentary," showing the heliocentricity of the Solar System. Churches & people react rather badly to the notion that Mankind is not the center of the Universe. 455 years latter, many (especially (F)redites & other rightwingers) still do. []()\
-> > > []()\
-> > > \
-> > > <img src="http://recollectionbooks.com/bleed/images/BB/maypole.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="256" height="162" alt="Maypole Celebration" />\
-> > > 1626 -- New World: Renegade from, & opponent to, the Pilgrim colonies, Thomas Moreton raises the Maypole with Amerindian allies. See Frederick Turner's Beyond Geography: The Western Spirit Against the Wilderness.\
-> > > [\[Source: Calendar Riots\]](http://recollectionbooks.com/bleed/sources.htm#Riots) []()\
-> > > []()\
-> > > \
-> > > 1650 -- England: Hey! Dig This! The Diggers at Iver issue their declaration:
-> > >
-> > > > >  "Those who have by an unrighteous power made merchandise of the earth, giving all to some, & none to others, declare themselves tyranicall & usurping." 
-> > > > >
-> > > > > [\[Source: Calendar Riots\]](http://recollectionbooks.com/bleed/sources.htm#Riots)
-
-[]()\
-[]()\
-\
-1654 -- England: *"Under penalty of death, no Irish man, woman, or child, is to let himself, herself, itself be found east of the River Shannon."*
-
-An Order from the Parliament. []()\
-[]()\
-\
-1672 -- Tattletale Joseph Addison essayist, poet, statesman, & contributor to The Tatler & The Spectator lives, England. []()\
-[]()\
-\
-1700 -- John Dryden, poet (All for Love: or The World Well Lost), dies in London.\
-<http://history.hanover.edu/early/dryden.htm>\
-[]()\
-\
-<img src="http://www.grandconspiracy.com/images/photo-illuminati.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="110" height="170" alt="?" />\
-1776 -- Order of the Illuminati founded in Germany by Adam Weishaupt. Actual name was the Order of Perfectibilists, was a secret society of radical secular humanists formed in Bavaria, Germany for the "express purpose of rooting out all religious establishments, & overturning all the existing governments of Europe." The Illuminati plan another of those dictatorships that is supposed to wither away.\
-<http://www.grandconspiracy.com/illuminati.html>\
-[]()\
-\
-1812 -- England: James Brook arrested for trying to destroy Cartwight's Mill. One of those nasty Luddites.
-
-[]()\
-[]()\
-\
-1820 -- England: Arthur Thistlewood, English revolutionary, & 4 others are executed for the Cato St. Conspiracy, London.\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-<img src="http://www.motherjones.com/frontpagegifs/coverMA98.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="150" height="250" alt="mOTHER jONES ? " />\
-1830 -- Mother Jones (born Mary Harris) lives, Cork, Ireland. Irish-American anti-war activist & labor radical.
-
-> Mary Harris "Mother" Jones was born in the year 1830. The renowned Labor organizer, who lived to be 100-years old, said:
->
-> > "I live in the United States, but I do not know exactly where. My address is wherever there is a fight against oppression.
-> >
-> > My address is like my shoes; it travels with me. 
-> >
-> > I abide where there is a fight against wrong."
-
-\
-
-> []()\
-> []()\
-> \
-> 1838 -- France: Louis Champalle lives. Weaver & anarchist, in Lyon where he is arrested November 19, 1882 for agitating during Montceau-les-Mines events & sent to prison for six months in the repressive trial of January 1883 ("Procs des 66"/Trial of the 66). Champalle joined the "Le rveil de la Croix-Rousse" in Lyon in 1892.\
-> <http://perso.club-internet.fr/ytak/mai1.html#1>\
-> []()\
-> \
-> 1847 -- US: Emancipationist Henry Demareast Lloyd lives. []()\
-> []()\
-> \
-> 1849 -- US: Chief Patkanim & the Snoqualmie tribe attack Hudson's Bay Co.'s Fort Nisqually, Washington. []()\
-> []()\
-> \
-> 1857 -- Too Many Conquerors in the Kitchen?: William Walker, conqueror of Nicaragua, surrenders to US Navy. []()\
-> []()\
-> \
-> <img src="http://recollectionbooks.com/bleed/images/BB/t_3405051.JPG" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="74" height="112" alt="Killing Time" />\
-> 1860 -- US: Wrong Place, Wrong Time? A colt is killed by a meteorite, New Concord, Ohio. <http://photojournal.jpl.nasa.gov/thumb/PIA00136.jpg>\
-> []()\
-> \
-> 1866 -- US: Beginning this day for three days, white Democrats & police attack freedmen & white allies in Memphis; 48 are killed.  []()\
-> []()\
-> \
-> 1868 -- US: Tom Dula, convicted of the murder of Laura Foster, is executed in NC, after writing the song that begins "Hang down your head, Tom Dooley".\
-> [\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-> []()\
-> \
-> 1875 -- US: Government Grant? The St. Louis Democrat exposes the "Whiskey Ring" a conspiracy of distillery owners & federal officials, including Beloved & Respected Comrade Leader President Ulysses S. Grant's private secretary, to withhold liquor taxes from the government. Grant used his influence to save his secretary from conviction. In all, 238 persons were indicted charged with defrauding the Treasury. []()\
-> []()\
-> \
-> 1881 -- France: Mystical Christian evolutionist Teilhard De Chardin lives, Auvergne. []()\
-> []()\
-> \
-> 1884 -- US: Moses Walker became first black player in major league baseball.
->
-> > Hazardous duty?: In 1887, on July 14, the "Father of Apartheid Baseball," Adrian "Cap" Anson threatened Newark officials to bench Walker or forfeit the game. It was here Anson shouted his infamous remark, "Get that nigger off the field, theres a law against that!"
-> >
-> > Anson, an excellent player & future Hall of Famer, had clout on & off the field. The ban began.
-> >
-> > Soon after league officials of the American Association & the National League announced teams would not be allowed to hire black players in the future, because of the "hazards" black players imposed. 
->
->  []()\
-> []()\
-> \
-> 1884 -- France: Eugne Dieudonne lives (1884-1944), Nancy. Individualist, illegalist anarchist & member of the Bonnot Gang.\
-> <http://perso.club-internet.fr/ytak/mai1.html#1>\
-> []()\
-> \
-> 1884 -- US: Sometime during this year, the Federation of Organized Trades & Labor Unions, forerunner of the AFL, passed a resolution stating that "8 hours shall constitute a legal day's work from & after May 1, 1886." Though the Federation did not intend to stimulate a mass insurgency, its resolution had precisely that effect.
->
-> [\[Sources, click here\]](http://recollectionbooks.com/bleed/sources.htm#LaborTimeline) []()\
-> []()\
-> \
-> 1886 -- US: First nationwide [General Strike](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GeneralStrike) for 8-hour day, commemorated in 1889 as the first International Labor Day. 340,000 U.S. workers in Chicago, Milwaukee & other cities strike. Four demonstrators are killed & over 200 wounded when police attack the Chicago rally. The US will set another day as Labor Day to undercut world solidarity.
->
-> > International Workers' Day (May Day) begins in Chicago. 340,000 U.S. workers in Chicago, Milwaukee & other cities strike for the 8-hour workday. Four demonstrators are killed & over 200 wounded when police attack the Chicago rally. U.S. later sets another day as Labor Day to undercut world solidarity.
-> >
-> > <http://www.kentlaw.edu/ilhs/maydates.html>\
-> > 
->
-> []()\
-> []()\
-> \
-> 1886 -- Australia: Fred Upham from Rhode Island, U.S.A. & the Australian-born Andrade brothers, David & William, form the [Melbourne Anarchist Club](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#MAC) (M.A.C.). This, the first formal anarchist organisation in Australia reflected the Boston Anarchist Club. The Andrade brothers also started Melbourne's first anarchist bookstore. (See by John Sendy, Melbourne's Radical Bookshops (International Bookshop, 1983).)\
-> <http://recollectionbooks.com/bleed/gallery/galleryindex.htm#a>\
-> []()\
-> \
-> 1888 -- US: 19 machinists at the East Tennessee, Virginia, & Georgia Railroad assemble in a locomotive pit to decide what to do about a wage cut. They vote to form a union, which became the International Association of Machinists. []()\
-> []()\
-> \
-> 1890 -- US: American utopianist Albert Brisbane dies, Richmond, Virginia.
-
-[]()\
-[]()\
-\
-<img src="http://www.iisg.nl/exhibitions/art/images/crane06.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="257" height="350" alt="?" />\
-1890 -- May Day labor demonstrations spread to 13 other countries; 30,000 march in Chicago as the newly prominent American Federation of Labor throws its weight behind the 8-hour day campaign. []()\
-[]()\
-\
-1890 -- Australia: A large May Day meeting is held in Melbourne in 1890, chaired by Dr Maloney (later a federal Labor MP). 
-
-> The group of radicals who called this meeting had an inaugural meeting on May Day 1886, to coincide with the US movement protests. Anarchist activists were prominent then, including J. Andrews, Chummy Fleming, David Andrade & Monty Miller.
->
->  A straggling, tame procession, perhaps,\
-> A butt for burgess scorn;\
-> Its flags are ragged sentiments,\
-> & its music's still unborn.
->
->  Bernard O'Dowd, excerpt from the poem "May Day"
->
-> [\[Details, click here\]](http://recollectionbooks.com/bleed/05ref.htm#1/1890)
-
-[]()\
-[]()\
-\
-1890 -- Poland: The first May Day celebration in Poland gathers about 10,000 Warsaw workers. All 9 organizers are arrested & sent to prisons in Russia (two of them die there) after the famous May Day Process.\
-Source: [Piero/poprostu.pl](http://recollectionbooks.com/bleed/sources.htm#Piero) []()\
-[]()\
-\
-1891 -- France: Army test their newly designed Lebels machine gun against a peaceful May Day rally at Fourmies where women & children were carrying flowers & palms. Casualties numbered 14 dead & 40 wounded. The anarchist Ravachol bombed the Lobau Barracks in Paris in March 1892 as retribution.
-
-> *Each footstep taken in this society bristles with privileges, & is marked with a bloodstain; each turn of the government machinery grinds the tumbling, gasping flesh of the poor; & tears are running from everywhere in the impenetrable night of suffering. Facing these endless murders & continuous tortures, what's the meaning of society, this crumbling wall, this collapsing staircase? ...*
->
-> No cry is heeded: whenever a single, louder complaint penetrates the din of sad murmurs, the Lebels is loaded & the troops are mobilized.
->
->        Octave Mirbeau, Ravachol
->
-> <http://burn.ucsd.edu/~mai/TEXT/mirbeau_ravachol.html>\
-
-[]()\
-\
-1891 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: [Emma Goldman](http://recollectionbooks.com/bleed/Encyclopedia/GoldmanEmma.htm) marches with the Working Women's Society of the United Hebrew Trades in New York's May Day parade. []()\
-[]()\
-\
-<img src="http://members.aol.com/bibthel/ga_4.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="160" alt="?" />\
-1891 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/pixel.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="LEFT" width="1" height="1" alt="anarchist" />The Congress of Capolago.\
-<http://www.anares.org/theleme/nmga.htm>\
-\
-[]()\
-\
-1891 -- Australia: The first May Day march in Barcaldine occurs today, by striking shearers. The "Sydney Morning Herald" reported 1340 took part. 
-
-> ... So we must fly a rebel flag\
->  As others did before us,\
->  & we must sing a rebel song\
->  & join in rebel chorus.\
->  We'll make the tyrants feel the sting\
->  O'those that they would throttle;\
->  They needn't say the fault is ours\
->  If blood should stain the wattle\
->  
->
-> Henry Lawson, excerpt from his poem, Freedom on the Wallaby, composed in Brisbane at the time the striking shearers were facing the troopers guns at Barcaldine. 
->
-> [\[Details, click here\]](http://recollectionbooks.com/bleed/05ref.htm#1/1890)
-
-[]()\
-[]()\
-\
-1891 -- Italy: La polizia di stato arresta a Roma oltre duecento persone che partecipano ad un comizio a favore della riduzione a 8 ore della giornata lavorativa.\
-[\[Source: Crimini e Misfatti\]](http://recollectionbooks.com/bleed/sources.htm#Basta) []()\
-[]()\
-\
-1892 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="EG, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: Anarchists disrupt the Central Labor Union's May Day celebration in Union Square, New York. In retaliation, the organizers of the celebration stop [Emma Goldman](http://recollectionbooks.com/bleed/Encyclopedia/GoldmanEmma.htm)'s speaking by hitching a horse to the open wagon she is using as a platform & pulling it away. \
-*(Hay!! It's cheaper than a taxi!)*\
-[]()\
-[]()\
-\
-1893 -- US: World's Columbian exposition opens in Chicago, Jane Addam's purse snatched at opening ceremonies. []()\
-[]()\
-\
-1896 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="30" height="19" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: At a demonstration in Union Square, [Emma Goldman](http://recollectionbooks.com/bleed/Encyclopedia/GoldmanEmma.htm) helps to distribute a May Day anarchist manifesto written by her & a group of American-born comrades in New York.\
-[]()\
-[]()\
-\
-1898 -- George Dewey commands, "You may fire when you are ready, Gridley." []()\
-[]()\
-\
-1899 -- Poland: Tzarist police arrests 3000 members of 20,000 May Day demonstration in Warsaw.\
-Source: [Piero/poprostu.pl](http://recollectionbooks.com/bleed/sources.htm#Piero) []()\
-[]()\
-\
-1900 -- Flunk the test?: Poet Wallace Stevens, drunk at a dinner for the Harvard junior class, recites his class ode & passes out.\
-<http://www.uwm.edu/People/kater/>\
-
-> []()\
-> \
-> 1905 -- Poland: Revolution; May Day, 60 workers found dead after fights with police.\
-> Source: [Piero/poprostu.pl](http://recollectionbooks.com/bleed/sources.htm#Piero) []()\
-> []()\
-> \
-> <img src="http://recollectionbooks.com/bleed/images/BB/4hands.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="252" height="216" alt="4 hands graphic" />\
-> 1906 -- US: Twelve hundred members of the Iron Molders Union in Milwaukee strike for shorter hours & a pay increase. After two years, the strike ends in defeat.
->
-> > One employer, Allis-Chalmers, will spend 21,700 dollars for the Burr-Herr Detective Agency. What did the company get for its money? The union reports more than 200 assaults on its members, including union leader Peter Cramer, whose injuries kill him. Another unionist, planted outside Burr-Herr, testifies the agency offered him 10 dollars for each striker he beat up.
-> >
-> > The employers also obtain court orders against picketing. The union appealed the injunctions & won. By that time, however, the strike was already lost.[\[Insurgent Radio Kiosk\]](http://recollectionbooks.com/bleed/sources.htm#Kiosk)
->
->  []()\
-> []()\
-> \
-> 1906 --
->
-> > Grve gnrale en faveur de la journe de huit heures. Violentesmanifestations. Clemenceau dcrte l'tat de sige.
-> >
-> > \
-> > [\[Sources, click here\]](http://recollectionbooks.com/bleed/sources.htm#LeMaitron) []()\
->
-> []()\
-> \
-> 1907 -- France: During a demonstration in Paris, Jacob Law, a Russian anarchist (born in Balta in 1887), puts five bullets into a bus returning to an Imperial battleship. He was sent to prison in Guyana, until released on May 10, 1924. A lifelong anarchist, his memoirs, Dix-huit ans de bagne appeared 1926.\
-> <http://perso.club-internet.fr/ytak/mai1.html#1>\
-> []()\
-> \
-> 1908 -- Giovanni Guareschi lives (1908-1968). Italian journalist, humorist, & novelist, famous for his stories of an Italian village where Father Camillo, the Catholic priest, is constantly in trouble with the local Communist chief. These two Tom & Jerry figures & their ideological disputes are depicted with warm humor & understanding.
->
-> > Guareschi spent two years in a German concentration camp, publishing his war experiences in Diario Clandestino 1943-45.
-> >
-> > In 1945 Guareschi founded the satirical & Monarchist weekly Candido, in which he offended the Prime Minister & was sentenced to jail for a year in 1954. His Father Camillo short stories started to appear first in the 1930s, but after the war they made him one of the most popular writers of Italy. Many of the stories were adapted to film.
->
-> []()\
-> []()\
-> \
-> 1909 -- England: [Rudolf Rocker](http://recollectionbooks.com/bleed/Encyclopedia/RockerRudolf.htm) meets [Francisco Ferrer](http://recollectionbooks.com/bleed/Encyclopedia/FerrerFrancisco.htm) for the first time (six months before Ferrer was murdered by the Spanish government), during a May Day demonstration in Hyde Park, London. They have tea afterwards with fellow anarchists [Malatesta](http://burn.ucsd.edu/~anow/ppl/rev/malatesta/index.html), Tarrida, [Warlaam Tcherkesoff](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Tcherkesoff), Shapiro.\
-> See Rudolf Rocker, The London Years. []()\
-> []()\
-> \
-> 1909 -- Yannis Ritsos lives, Greek Communist poet, Nobel nominee (Tractors).\
-> [\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-> []()\
-> \
-> 1910 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="30" height="19" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma) lectures on anarchism & "Marriage & Love" in Reno, Nevada. A real crapshoot...& a dicey "proposition"?\
-> []()\
-> []()\
-> \
-> 1911 -- China: Revolution Sun Yat-sen becomes first president. []()\
-> []()\
-> \
-> 1911 -- Mexico: Climax of land revolt in Baja California led by the Partido Liberal Mexicano; Porfirio Diaz signs a peace treaty withFrancisco Madero in Mexico.
->
-> anarchist
-
-\
-[]()\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/buttons/debspin.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="200" height="200" alt="Debs pin" />\
-1912 -- US: Beginning of the End? Election of Socialist governments in over 20 US cities (plus [Eugene Debs](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Debs) gets 900,000 votes for President, including 25,743 in Texass).
-
-Woodrow Wilson won, & began instituting segregationist policies throughout the federal government.\
-
-
-<img src="http://recollectionbooks.com/bleed/images/misc/pw_quote.gif" data-border="0" data-hspace="10" data-vspace="10" width="362" height="147" alt="Comment on Woody Wilson&#39;s liberal failures" />
-
-> > <http://www.thirdworldtraveler.com/Heroes/EugeneDebsSocialism.html>\
-> > \
-> >
-> > []()\
-> > \
-> > 1913 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="30" height="19" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma) lectures on the modern drama in Denver, May 1-8, which "brought larger & more representative audiences than we have ever had in Denver.
-> >
-> > anarchist feminist
-> >
-> > \
-> > []()\
-> > []()\
-> > \
-> > 1915 -- Australia:
-> >
-> > Australia: The Scientific Spleen Squad (a tiny Sydney anarchist sect, part of the larger Groupe d'Etudes Scientifiques) asks a couple questions:
-> >
-> > > > "What is Anarchism? Who are the Anarchists? Whilst organised slaughter called war is devastating the world; whilst nationalistic lunatics and militaristic maniacs are murdering each other; whilst degenerate abrutis of all sorts are suffering horribly & dying miserably, consequent upon the worlds ignorance and prejudice; our GES is pursuing slowly, but with certainty its logical rational work of the vulgarisation of scientific knowledge and determinedly spreads the contagion of reason more than ever we are able to repeat, in all serenity, and in face of the present events that the present is to us, the future is but to our anarchism our work will stand, the rest will fall and be forgotten. - fraternally to our friends the world over, the GES of Australia, the 1st of May."
-> > >
-> > > They were the antipodean offshoot of the Groupe d'Etudes Scientifiques (GES for short) of Paris, run by the prodigious author Paraf-Javal. The Sydney group, around from at least 1912, had its own printing facilities, the communist-anarchist press, run by Ralph Carterer, & various addresses in Sydney. 
-> > >
-> > > [\[Details, click here\]](http://recollectionbooks.com/bleed/05ref.htm#1/1915)
-
-[]()\
-[]()\
-\
-1916 -- US: Chicago Herald becomes first newspaper to call the new music "Jazz." []()\
-[]()\
-\
-1919 -- Germany: "Red Bavaria" suppressed, 600 die. German anarchist Gustav Landauer is killed following his arrest by a unit of the anti-revolutionary Freikorps. []()\
-[]()\
-\
-1919 -- US: May Day riots in Boston & throughout country.\
-[\[Sources: click here\]](http://recollectionbooks.com/bleed/sources.htm#SaccoVanzetti) []()\
-[]()\
-\
-1920 -- US: Baseball's Brooklyn Dodgers tie Boston Braves, 1-1, in 26 innings. []()\
-[]()\
-\
-1920 -- Japan: May Day rally is held outdoors for the first time. 5000 workers participated with red or black flags.  <http://fraternitelibertaire.free.fr/reserve/a_brief_history_of_anarchism.doc>\
-[]()\
-\
-1922 -- Italy: Adunate fasciste e manifestazioni socialiste finiscono sovente in scontri che provocano decine di morti. La concorrenza fra i due partiti si fa sempre pi sanguinosa.\
-[\[Source: Crimini e Misfatti\]](http://recollectionbooks.com/bleed/sources.htm#Basta) []()\
-[]()\
-\
-1923 -- Joseph Heller lives. American novelist, gained world fame with his satirical war novel Catch-22: to fly dangerous combat missions is insane, but if airmen seek to be relieved for mental reasons, the request proves their sanity.\
-<http://www.levity.com/corduroy/heller.htm>\
-<http://www.kirjasto.sci.fi/heller.htm>\
-\
-1924 -- Terry Southern lives. Likes candy, of course. American novelist/screenwriter, attacked Hollywood's film industry, drugs, tv-shows, religion, clichs of pornography, "dreamgirls" etc. His works aroused critical debates, been labeled pornography or just plain sick. Most notable screenplay was Dr. Strangelove. []()\
-[]()\
-\
-1925 -- Italy: Viene istituita l'Opera nazionale dopolavoro che passer sotto il diretto controllo del partito nazionale fascista.  Il deputato Antonio Gramsci, nel suo unico discorso parlamentare, si pronuncia contro la legge sulle associazioni in quanto concede allo stato la licenza di sciogliere a suo piacere qualsiasi organizzazione. La legge sar approvata dalla Camera il giorno 19.\
-[\[Source: Crimini e Misfatti\]](http://recollectionbooks.com/bleed/sources.htm#Basta) []()\
-[]()\
-\
-1926 -- US: Black female pilot "Brave Bessie" Coleman dies as a result of being thrown from a spinning plane during aero-acrobatics performed before a large audience in Jacksonville, Florida. Born January 26, 1893, she became the first black person to receive a pilot's license. []()\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/sports/paigeSatchel.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="200" height="180" alt="?" />\
-1926 -- US: Baseball great, Satchel Paige, makes pitching debut in Negro Southern League. <http://www.negroleaguebaseball.com/>\
-\
-[]()\
-\
-1928 -- Ebenezer Howard, founder of the garden-city movement, dies at 78.\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-<img src="http://www.free.de/dada/b_u_a2.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="right" data-="" width="144" height="250" alt="?" />\
-1929 -- Germany: Liberal Book Friends (GfB) begins publishing the free monthly illustrated review 'Meditation & Departure'. 
-
-Nice mix of anarchist & contemporary & critical art-related materials. Included [Max Baginski](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Baginski) , Karl Roche, [Erich Muhsam](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#muehsam), Fritz Linow, Arthur Lehning, [Rudolf Rocker](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#RockerRudolf) among many others. Each issue included a booklet by some anarchist or sympathetic author ([Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma) & Theodor Plievier, for example).
-
-<http://www.free.de/dada/ask51121.htm>\
-<http://www.free.de/dada/ask5rz06.htm>\
-[]()\
-\
-1930 -- US: Herbert Hoover again emphasizes his belief in the health of the American economy.
-
-> Spring. Four million Americans are out of work. Breadlines continue to form in New York, Chicago and other American cities.
->
-> "I am convinced we have now passed the worst." Herbert Hoover
->
-> "There has been more 'optimism' talked & less practiced than at any time during our history." Will Rogers
-
-[]()\
-[]()\
-\
-1930 -- Little Walter lives, Marksville, La., blues harpist (Quarter to Twelve). \
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1931 -- France: The pacifists, anarchists & no-malthusians [Jeanne Humbert](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#HumbertJeanne) & [Eugene Humbert](http://recollectionbooks.com/bleed/Encyclopedia/HumbertEugene.htm) begin publishing the newspaper "La Grande Rforme".\
-<http://perso.club-internet.fr/ytak/aout1.html#1>\
-[]()\
-\
-1932 -- Paul Doumer, Beloved & Respected Comrade Leader President of France, assassinated by Russia's Paul Gargalov. []()\
-[]()\
-\
-1933 -- US: Christian anarchist "Catholic Worker" founded, New York City. [Dorothy Day](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#DayDorothy) & Peter Maurin, anarchist-Catholics (!), publish the first issue of their long-running newspaper.
-
-**"The greatest challenge of the day\
-is how to bring about a revolution of the heart\
-a revolution which has to start with each one of us."**
-
-Dorothy Day
-
-<http://www.catholicworker.org/>\
-[]()\
-\
-1937 -- Spain: The only meetings in Barcelona on May Day is indoors, a small meeting by the 'Those of Yesterday & Those of Today' adhering to the [Friends of Durruti Group](http://recollectionbooks.com/bleed/Encyclopedia/DurrutiColumnEarly.htm), & an anarchist nudist group meeting on the value of music. \
-[\[Details, click here\]](http://recollectionbooks.com/bleed/05ref.htm#1/1937) []()\
-[]()\
-\
-1937 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="EG" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)England: 60,000 people take part in a May Day demonstration & march that includes anarchists for the first time in 30 years. Under the auspices of the London Committee of the [C.N.T.](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#CNT)-FAI, [Emma Goldman](http://recollectionbooks.com/bleed/Encyclopedia/GoldmanEmma.htm) speaks at the conclusion of the march in HydePark. []()\
-[]()\
-\
-1937 -- US: Founding of the Association of Broadcast Employees & Technicians Union. []()\
-[]()\
-\
-1939 -- Judy Collins, folksinger, lives, Seattle, Washington (Send in the Clowns, Clouds).\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1939 -- Ignazio Silone lives. Italian novelist (Bread & Wine), politician, "a socialist without a party, a Christian without a church". \
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1939 -- US: Pulitzer Prizes awarded:Yearling, by Marjorie Kinnan Rawlings, fiction; Benjamin Franklin, by Carl Van Doren, biography; Selected Poems, by John Gould Fletcher, poetry.\
-<http://xroads.virginia.edu/~1930s2/Time/1939/1939.html>\
-[]()\
-\
-1940 -- Bobby Ann Mason, American novelist, lives, Mayfield, Kentucky.\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1940 -- US: The second Catholic Worker House in Los Angeles opens. The first was started by George Putnam in the 1930s, but closed when he moved. This new house opened on East 12th Street, in the black ghetto just south of Skid Row, & was run by Jack Wagner. It closed before the end of WWII. Catholic Worker Houses were inspired by christian anarchists, notably [Dorothy Day](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#DayDorothy), Peter Maurin & [Ammon Hennacy](http://recollectionbooks.com/bleed/Encyclopedia/HennacyAmmon.htm).\
-\[Source: Jeff Dietrich, Reluctant Resister\] []()\
-[]()\
-\
-1942 -- US: Having "voluntarily resettled" in Denver, Nisei journalist James Omura writes a letter to a Washington law firm inquiring about retaining their services to seek legal action against the government for violations of civil & constitutional rights & seeking restitution for economic losses. He was unable to afford the \$3,500 fee required to begin proceedings.\
-[\[Sources, click here\]](http://recollectionbooks.com/bleed/sources.htm#JapaneseAmerican) []()\
-[]()\
-\
-1946 -- Australia: Beginning of the Pilbara Strike, the first industrial strike by Aboriginal people in Australian history.\
-
-[]()\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/BB/waiting1.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="200" height="145" alt=" ? " />\
-1948 -- US: Glenn Taylor, Idaho Senator, arrested in Birmingham, Alabama for trying to enter a meeting through a door marked "For Negroes".
-
-> Our hands are tied on the table\
->  Maybe you can try at the back door man\
->  While the helpless line up on the doorsteps\
->  cause its all they can do to try to get through...
->
->  Sarah Mclachlan, excerpted from Back Door Man
-
-[]()\
-[]()\
-\
-1950 -- South Africa: [General Strike](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GeneralStrike) against repression.\
-[]()\
-[]()\
-\
-1950 -- Black poet Gwendolyn Brooks wins the Pulitzer Prize for "Annie Allen". \
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1951 -- US: Founding of the Association of Broadcast Employees & Technicians Union. []()\
-[]()\
-\
-1952 -- Japan: Antigovernment workers & police clash in Tokyo -- 2 die, 2,000 injured. \
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1958 -- High Seas: Crew of protest ship "Golden Rule" is arrested by US Navy in nuclear test zone, South Pacific. To "protect" US intersts we suspect. <http://www.angelfire.com/tx/atomicveteran/photos.html>\
-<http://www.shundahai.org/US_Atmospheric_Nuclear_Tests_Database.htm>\
-<http://www.globalsecurity.org/wmd/facility/nts.htm>\
-[]()\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/film/cinemath.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="300" height="132" alt="cinemath" />\
-1959 -- Italy: A drunkard is stopped by police.
-
-> On the evening of May Day, 1959, a drunkard is stopped by police.
->
-> Presumed to be a vagrant, he is in fact Renato Caccioppolli, an esteemed mathematics professor at Naples University, grandson of the anarchist [Mikhail Bakunin](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Bakunin), & a Communist. 
->
-> Thus begins the last week of the professor's life...
->
-> [\[Details, click here\]](http://recollectionbooks.com/bleed/05ref.htm#1/1959)
-
-\
-[]()\
-[]()\
-\
-1960 -- Russia: Francis Gary Powers' U-2 spy plane is shot down over Sverdlovsk (public discovers these provocative American spy flights have been routine; consider if *Russia* had been flying over the US).
-
-<img src="http://www.dryden.co.uk/spies/powers.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="150" height="150" alt="Fly me to...? " />The capture of Gary Powers & exposure of the U-2 put an end to the spy missions over the Soviet Union as well as to Eisenhower's hopes for a test ban treaty at the upcoming Paris summit. Powers, who served 17 months of his 10-year sentence in a Soviet prison camp, was ultimately exchanged for a Russian spy.
-
-\
-[]()\
-[]()\
-\
-1965 -- Vanguard musical performer Spike Jones dies. []()\
-[]()\
-\
-1965 -- Wales: Second Factory for Peace opens, Onllwyn, Dulais Valley. []()\
-[]()\
-\
-1965 -- Canada: Radicals bomb the US consulate in Montreal. \
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1966 -- The Society for Creative Anachronism starts. & none too soon. []()\
-[]()\
-\
-1966 -- 500,000 Vietnamese march for end of war. []()\
-[]()\
-\
-1968 -- France: During the traditional May Day demonstrations fights break out around a black flag as Communists try to exclude the anarchists from the procession.
-
-***<u>1 mai  68</u>   Dfil CGT, PC et PSU de la place de la Rpublique la Bastille.***
-
-\
-<http://perso.club-internet.fr/ytak/mai1.html#1>\
-[]()\
-\
-1968 -- US: Machine-gun nests protect Justice Department corridors from protesters.\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1969 -- US: 169 are convicted of trespass in the aftermath of a student occupation at Harvard University. Cambridge, Massachusetts. []()\
-[]()\
-\
-1970 -- US: Strike at McAlester Prison, Oklahoma. []()\
-[]()\
-\
-1970 -- US: ROTC (Reserve Officer Training Corp) building ransacked, College Park, Washington D.C. During this first week of May 30 ROTC buildings are burned or bombed, & the National Guard are teaching students a thing or two on 21 campuses in 16 states. []()\
-[]()\
-\
-1970 -- US: In New Haven, new protests over the pending trial of Seale & Ericka Huggins, today & tomorrow, when 20,000 demonstrators show up. []()\
-[]()\
-\
-1970 -- Cambodia: 8,000 US & 2,000 South Vietnamese invade the Fishhook area of Cambodia\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1970 -- Vietnam: US resumes bombing raids against North Vietnamese supply depots \
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1970 -- US: Nixon calls campus radicals who oppose his policies "bums". Weeks of antiwar protests by buncha bums begin in Seattle, Washington.\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1971 -- US: Beginning of five days of anti-Vietnam War May Day protests in Washington, D.C., resulting in over 14,000 arrests the largest mass civil disobedience in US history. []()\
-[]()\
-\
-1971 -- US: Anti-Vietnam War protesters attempt to blockade government for a day; 5,000 District police, 1,500 National Guard & 8,000 Federal troops start rounding people up: 7,000 arrested \[another source: "20,000 National Guard & police, 10,000 paratroopers"\].
-
-BleedMeisterAuntieDave, then Midwest Field Secretary for the US Student Press Association & reporter for College Press Service, is there. By May 5 a total of 12,614 are arrested (record). []()\
-[]()\
-\
-1971 -- England: The anarchist Angry Brigade bombs Biba Boutique, "the trendiest store in Swinging London".\
-[\[Source: Calendar Riots\]](http://recollectionbooks.com/bleed/sources.htm#Riots) []()\
-[]()\
-\
-1972 -- Vietnam: Quang Tri captured by North Vietnam. The number of US troops has been reduced to 69,000 due to pressure of demonstrations & protestors. Beloved & Respected Comrade Leader President Dick M "I Have a Plan" Nixon orders the mining of ports in North Vietnam. []()\
-[]()\
-\
-1972 -- England (?): Bomb explodes at CS gas factory.\
-[\[Source: Calendar Riots\]](http://recollectionbooks.com/bleed/sources.htm#Riots) []()\
-[]()\
-\
-1974 -- US (?): The Fair Labor Standards Act becomes applicable. []()\
-[]()\
-\
-1977 -- Anarchy in the UK? The Clash start their first tour of the U.K. with a May Day celebration at the Roxy in London. 
-
-> The 40 day White Riot Tour brings a show to London's Rainbow Theater. The audience gets wild, ripping out seats bolted to the floor to make room for dancing. The news media sees it as a fulfillment of the tour's billing & describe the incident as a "riot."
-
-[]()\
-[]()\
-\
-1977 -- US: 24-hour occupation of Seabrook (NH) nuclear power site results in 1,415 arrests. The action, sponsored by Clamshell Alliance, becomes a model for anti-nuclear direct actions across the country. []()\
-[]()\
-\
-1977 -- Turkey: State-sponsored paramilitary groups open fire on tens of thousands of May Day demonstrators in Istanbul, killing 37. []()\
-[]()\
-\
-1978 -- Sylvia Townsend Warner dies. Originally intended a career as a musicologist-- accomplished as an editor to the 10-volume Tudor Church Music & contributor to Grove's Dictionary of Music. Her first novel, Lolly Willowes, was the first selection of the Book-of-the-Month Club.\
-<http://www.cs.uchicago.edu/~schaefer/pi/warner.html>\
-[]()\
-\
-1980 -- Guatemala: Arnulfo Gomez & Ricardo Garcia, union leaders, are kidnapped, tortured & murdered. \
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1980 -- Guatemala: Conrado de la Cruz, priest, & Herlindo Cifuentes are kidnapped & murdered. \
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1980 -- Guatemala: 40,000 demonstrate in Guatemala City - hundreds are kidnapped, 31 are shot to death. \
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1980 -- US: Turkey Shoot? Seattle, Washington becomes the 1st major US city to legislate a police shooting policy.\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1980 -- Vietnam: Redundant? The South Vietnamese Provisional Revolutionary Government bans prostitution, dance halls & "acting like Americans". Damn, there go the Elvis impersonators! Also bans private publication of newspapers & books.\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1982 -- England: Day of resistance & protest against Falklands War. []()\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/BB/t_3405061.JPG" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="125" alt="?" />\
-1985 -- US: Ronnie Reagan declares trade embargo against Nicaragua. So much for rightwing touting of "free trade".\
-[]()\
-[]()\
-\
-<img src="http://recollectionbooks.com/siml/stan/StanCig_s.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="right" width="150" height="199" alt="?" />\
-1985 -- US: Stan Iverson, Seattle anarchist, dies (1927-1985). Auntie Dave has established an online page & archive in memoriam.\
-
-
-<img src="http://recollectionbooks.com/siml/stan/iverson2.jpg" data-border="0" data-hspace="10" data-vspace="10" width="260" height="229" alt="?" />
-
-
-
-> Very cool, Auntie. For what it's worth the Social Security Death Index lists a STANLEY IVERSON: Residence: 98102Seattle, King, WA. Born: 22 Jun 1927. Died: May 1985. Might be him, might not.
->
-> 
->
-> Bleedster Paul
->
-> More at the Stan Iverson Memorial Archives,\
->  <http://recollectionbooks.com/siml/>\
-
-\
-[]()\
-\
-1985 -- Poland: Anarchists from RSA (Alternative Society Movement) in Gdansk (Danzig) block official communist party parade, ZOMO riot police attacks the people; after the street fights 2 cops are found dead.\
-Source: Piero/poprostu.pl <http://burn.ucsd.edu/~anow/world/eu/poland/history.html>\
-[]()\
-\
-1986 -- South Africa: 1.5 million take part in [General Strike](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GeneralStrike).\
-[]()\
-<http://www.anc.org.za/ancdocs/history/>\
-\
-1986 -- Australia: Anarchist Centennial Celebration, Melbourne, 1-4 May.
-
-Anarchism in Australia: An Anthology, --- Wendy Bacon, Chris Nicol, S. Torrents \[et al.\] (Parkville: Bob James, 1986), prepared for the Celebration. []()\
-[]()\
-\
-1988 -- Poland: Workers at Lenin shipyards join the antigovernment strike in Poland.\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1991 -- US: Charles Osborne, Iowa, dies after hiccupping continuously for 69 years.\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1991 -- US: Charter Flight? Local 568 (Transportation Workers Union), American Airlines, chartered in Miami. []()\
-\
-[\[Source, click here\]](http://recollectionbooks.com/bleed/sources.htm#TWU) []()\
-\
-1992 -- US: Two days of rioting in the aftermath of the Rodney King police brutality trial leaves 38 dead, 1500 injured & a half a billion dollars in property damage, in Los Angeles. Preparations made for military occupation. It's what America often seems to do best. []()\
-[]()\
-\
-1993 -- Ecuador: Marchers in Quito protest "disappeared people". []()\
-[]()\
-\
-1993 -- Japan: 3.4 million workers rally for May Day (200,000 in Tokyo).\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-<img src="http://recollectionbooks.com/images/!cat2a.gif" data-vspace="0" data-hspace="15" data-align="left" width="175" alt="The beast has had the time of his life" />\
-1995 -- Recollection Used Books opens it doors. AuntieDave buys 100 books, sells one. The trend is set. 
-
-The only used bookstore in the world with a beat up cat for it's logo & no cats in the store just four in-house dogs who apparently ate the cats who ate the mice who ate the roaches who ate....\
-[]()\
-[]()\
-\
-1995 -- Mexico: Hundreds of thousands of workers march to the Mexico City Zcalo. \
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1995 -- US: Lockout of major-league baseball umpires ends with a labor agreement.\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/etimor02.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="90" height="70" alt=" ? " />\
-1996 -- Chicken or the Egg?: Board of Directors meeting of British Aerospace sellers of the Hawk jet fighter to Indonesia for its illegal occupation of East Timor is interrupted by protesters pelting them with eggs.\
-<http://www.disinfo.com/ci/humrts/ci_humrts_timor.html>\
-[]()\
-\
-1996 -- Germany: Riots with Berlin police erupt after two separate May Day marches, one of 20,000 workers protesting government social spending cuts & one of 10,000 "radical leftists" protesting anti-squatting raids. Ten police are injured. []()\
-[]()\
-\
-1996 -- Turkey: Three killed & 69 injured when Turkish police attack banned leftist demonstrators in a 100,000 person May Day rally. Istanbul.\
-<http://www.geocities.com/kk_abacus/ht/kurd.html>\
-[]()\
-\
-1997 -- Russia: Victor Serge Public Library in Moscow opens. 
-
-> The first & only Russian library to take up the task of acquainting the Russian public with scholarly and political literature of a left-wing (anti-capitalist & anti-bureaucratic) orientation. In addition to lending books, the Library is used for discussions. Serge was a lifelong left communist & one-time anarchist.
->
-> Serge's Memoirs of a Revolutionary is cited in CounterPunch magazine's (edited by Alexander Cockburn & Jeffrey St. Clair) "Favorite 100 Nonfiction Books in Translation, Published in English Since 1900"\
-> <http://www.counterpunch.org/nonfictrans.html>
->
-> <http://users.skynet.be/johneden/foundatn/library.htm>\
-
-[]()\
-\
-1998 -- Denmark: Strike wave continues. The May Day rally in Copenhagen is a massive event marking day 5 of the all-out strike by 500,000 private sector workers demanding a week extra holidays & the 35 hour week amongst other demands. Between 350 & 500,000 workers participate in the rally. []()\
-[]()\
-\
-1998 -- US: Eldridge Cleaver, Black Panther Party cofounder, dies at 62, Calif.\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-1999 -- US: Rally to Save Ancient Forests in Eugene, Oregon as logging season begins today.
-
-> Ancient forest campaigners in Western Oregon marked one year of continuous occupation of a contested timber sale near Eugene on April 19th.
->
-> Activists have built an elaborate network of tree houses & traverse lines 200 feet up in the rare stand of low elevation old growth forest as well as structures in the access roads & won't come down until the 96 acre Clark timber sale is canceled. The campaign, known locally as Fall Creek, generated a number of arrests last summer. US Forest Service officials seem at a loss confronted with the lofty perches & their problems seem to be increasing as tree sits have sprung up in at least two other old growth timber sales in nearby National Forests.
-
-[]()\
-[]()\
-\
-1999 -- US: Million March for Hemp, Seattle, Washington.\
-<http://hempfest.org/>\
-[]()\
-\
-<img src="http://www.miltonbowling.com/graphics/bowlpins.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="97" height="110" alt="?" />\
-1999 -- US: Nummer One Son concludes his first season of bowling, Seattle, Washington.<img src="http://www.eskimo.com/~recall/bleed/images/pixel.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="175" height="200" alt="?" />\
-<img src="http://www.webpromotion.com/anim/stock02/black/02_06_b.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="31" height="67" alt="?" />Wins numerous Youth League awards. His Travel team earns second place & he wins Greater Seattle King of the Hill match November 1998, about a month after he first picked up a bowling ball. Awarded for the highest scratch game of the season, with a high score of 174. Finishes the Travel League season with a 115 average & regular League a little below that. []()\
-[]()\
-\
-1999 -- May Day around the Globe.\
-<http://www.tao.ca/ainfos/A-Infos98/mayday98.html>\
-[]()\
-\
-1999 -- US: Controversy Surrounds Evergreen State College Graduation Ceremonies. Governor Gary Locke refuses to speak at 1999 Graduation because Mumia Abu-Jamal, US political prisoner on death row, chosen as Honorary Speaker.
-
-> In an attempt to stifle freedom of speech & student representation, last week, state troopers & local law enforcement associations pressured Locke to rescind his acceptance of the invitation to speak so as not to share the stage with the controversial figure.
->
-> The significance of choosing this man as graduation speaker: Evergreen chose to accept the unprecedented opportunity to hear this man speak at graduation. In an historic moment that denies particular people their rights to speak & be heard, Mumia represents the voice of struggle & strength despite the shackles of imprisonment. Committee members cited Mumia's reflections on education & freedom as parallel to the philosophy of Evergreen. The students also wish to publicize his case in order to raise public awareness of the case & the prison crisis in this country. Racism in death penalty sentencing is blatant & shocking. Selecting Mumia Abu-Jamal as the graduation speaker is an historical opportunity and will reverberate beyond the walls of this particular institution.
->
-> 
->
-> Sonja Sivesind, Prison Activist Resource Center\
-> <http://www.prisonactivist.org>\
-
-[]()\
-\
-1999 -- \>Happy anniversary to Recollection Books & congratulations to Nummer 1 son Brandon.\
-\>28 yrs ago tonite I was in a may-day detention camp in Washington, D.C.
-
-
-
-Bleedster Ruth
-
-
-
-> So you were on the outside of the Redskins football field (named after Bobby Kennedy, I believe) those long 28 years ago. 
->
-> Michael & I, east coast correspondents for the National Catholic Reporter, were among the first arrested that morning on the streets & on the first busload of prisoners taken to the field. It didn't matter that we had press credentials the "sweep" had begun. I remember being the 3rd or 4th person off the bus, thinking we would be shot. 
->
-> We dug the latrine trenches around the outside of the field, built the medical shelter for the (many) injured (broke into a supplies building for tools, tore down a goal post for supports), set up a press center. 
->
-> I remember seeing Spock & Hoffman (nose busted) in the crowd. I remember members of a local collective bringing food which they threw to us across the double rows of fences (with armed guardsmen in between) until they, too, were arrested & dragged inside. I remember we made a human peace sign on the ground for the benefit of the media helicopters overhead.
->
-> 
->
-> Bleedster RS
-
-[]()\
-[]()\
-\
-2000 -- US: Nummer One Son is having a stellar baseball season. Playing left field, a little 3rd base & pitching. His best game ever was on the 27th of April. With his team leading 26-8, the game was in danger of being called for darkness before the 4th inning was completed,meaning the game would officially not count as a win.
-
-
-
-> With the pitcher struggling & no outs, Brandon was called to the mound while the ump, at 8:05, is threatening to call the game in five minutes due to darkness. 
->
-> Unfortunately, the team, being on the field, was unaware the game would not count if they didn't get three very quick outs. With everyone in the bleachers screaming "throw strikes," "hurry up," & epithets best not repeated, the new candidate for Nummer "Two" Son ignores the shouts, slowly & painstakingly wandereing around the mound. 
->
-> When the ball is finally thrown, the batter hits a towering fly to center which was caught. The opportunity to catch a runner doubled up off 2nd base for an out, however, was blown. 
->
-> The next batter hit a line shot to shortstop & was thrown out at first.
->
-> Two down, only one more out needed. The crowd is screaming. 8:14 & the ump has already let the game go four minutes longer than he intended. Brandon throws the ball to 3rd & almost catches the runner there off base. 
->
-> He mills around the pitcher's mound some more, peers in to the catcher, pitches the ball. He gets a second strike on the batter.
->
-> Will the ump call the game now? 
->
-> Bear in mind, as our hero / goat rears back for his next pitch, that in his last outing, in one inning, Brandon walked 4 or 5, struck out none, & gave up 3 runs, unable to throw anything over, around, close or even under the plate.
->
-> Concerned only that he not screw up this game (how can you blow a game, leading 26-8 & darkness closing in you ask!) the kid rears back & fires one down the *middle* of the plate.
->
-> Strike three.
->
-> 
-
-[]()\
-[]()\
-\
-2000 -- Recollection Used Books closes it doors in Seattle's University District, only to re-open in the Greenwood neighborhood. AuntieDave once again buys 100 books, sells one (later in the month). The trend is set. Remains the only used bookstore in the world with a beat up cat for it's logo & no cats, just those four vicious dogs in-house. Perhaps our hero is slow to get the message. <http://www.eskimo.com/~recall/>\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/BB/byebye.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="150" height="200" alt="?" />\
-2000 -- <http://www.capitalismsucks.co.uk/>\
-[]()\
-\
-2002 -- England: Anarchists plan jubilee mayhem. Protest groups join forces to disrupt Queen's celebrations & bring May Day chaos to the capital. The Movement Against the Monarchy (Mam) is gearing up for a summer-long campaign, which will include an attempt to take control of London's Millennium Bridge on 4 June while the Queen is attending a service in nearby St Paul's Cathedral. See Paul Harris & Burhan Wazir Sunday March 24, 2002 "The Observer".\
-[\[Details, click here\]](http://recollectionbooks.com/bleed/05ref.htm#1/2002) []()\
-[]()\
-\
-2002 -- US: Festival Del Pueblo / Festival Of The People (May 1st - 5th), Boston, Ma. 5-day celebration of resistance, of community, & of freedom inclueds demonstrations, direct actions, community carnival, bookfair, free school, revolutionary soccer tournament, revolutionary music festival, & cultural gathering. Endorsed by the NorthEastern Federation Of Anarcho-Communists (NEFAC) &the Boston branch of the Industrial Workers of The World (IWW). []()\
-[]()\
-\
-2002 -- Mgr. George Higgins, "the Labor Priest," dies at 86, Illinois.\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-2002 -- England: An ancient 70-m tall hill figure in East Sussex develops a 3-m penis overnight, in what may have been a May Day fertility ritual. That Viagra is some nasty stuff.\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-2002 -- Australia: Police clash with thousands of antiglobalization protesters.\
-[\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB) []()\
-[]()\
-\
-<img src="http://www.salvation-films.com/pics/sexstrike.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="180" height="126" alt="?" />\
-2002 -- England: May kicked off with a minor riot in Soho which saw our street blockaded by armoured police while mounted ones charged up London's Shaftesbury Avenue. All this while hordes of unwashed harridans claiming to represent Soho's sex workers danced maniacally to the tribal drumming of anarchist musicians and what appeared to be dressed down office workers armed with flutes. There was still something highly suspect in the sight of a lot of protesters marching in support of sex workers when actually, if truth be told, they would rather close down or censor the strip clubs, sex shops, porn videos et al on the grounds that they are deemed to exploit, and or, degrade men and women. <http://www.salvation-films.com/pulpit.html>\
-\
-[]()\
-\
-2003 -- US:
-
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="text-align: left;" width="547" data-valign="top">
-<div data-align="left">
-<h2 id="may-1st-readings-to-celebrate-a-movement-of-poets-against-war" data-align="center">May 1st Readings to Celebrate a<br />
-Movement of Poets Against War</h2>
-&#10;<p>The 11,000 poets whose work is published on this site were part of the largest outcry of poets in history against the war in Iraq. After the fall of Baghdad &amp; other Iraqi cities, &amp; as the fighting winds down, it is important for us to celebrate this eloquent demand for peace, &amp; to pledge ourselves to continue this work for peace. </p>
-<p>We'd like to invite you to join us in a special event on the first of May a celebration of the voices of the many poets worldwide who contributed this spring to the <a href="http://poetsagainstthewar.org">http://poetsagainstthewar.org/</a> web site.</p>
-</div></td>
-</tr>
-</tbody>
-</table>
-
-[]()\
-[]()\
-\
-3000 --
-
-> > Like desert flowers we learned to crouch near the earth,\
-> > fearful that we would die before the rains, cunning,\
-> > waiting the season of good growth.
-> >
-> > 
-> >
-> >           Meridel LeSueur
-> >
-> > <http://www.trussel.com/hf/mayday51.htm>\
-
-\
-
-[]()\
-\
-<img src="http://www.iisg.nl/exhibitions/art/images/crane04.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="251" height="350" alt="?" />\
-4500 --
-
-> <http://www.iisg.nl/exhibitions/art/indexhahn.html>\
-> <http://www.iisg.nl/exhibitions/art/voorstellen2.html>\
->
-> []()\
->
-> ------------------------------------------------------------------------
->
-> anti-CopyRite 1997-3000, more or less\
-> Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
-> or send questions, suggestions, additions, corrections to:\
-> [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
->
-> Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
->
-> The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
->
-> anarchist, labor, radical books
->
-> See also: Anarchist Encyclopedia\
-> http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
-> Stan Iverson Memorial Library\
-> http://recollectionbooks.com/siml/\
-> Anarchist Time Line / Chronology\
-> http://recollectionbooks.com/bleed/indexTimeline.htm

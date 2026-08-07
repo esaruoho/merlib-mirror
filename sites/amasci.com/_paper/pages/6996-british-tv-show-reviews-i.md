@@ -1,0 +1,129 @@
+---
+title: "BRITISH TV SHOW REVIEWS 'I'"
+source_domain: amasci.com
+source_path: ~rkj/i.htm
+order: 6996
+reachable_from_entry: false
+images: 0
+internal_links: 44
+extracted: 2026-08-07T17:14:33Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# BRITISH TV SHOW REVIEWS "I"
+
+*Source page: `~rkj/i.htm`*
+
+# British TV Show Reviews "I"
+
+[A](a.htm) \| [B](b.htm) \| [C](c.htm) \| [D](d.htm) \| [E](e.htm) \| [F](f.htm) \| [G](g.htm) \| [H](h.htm) \| I \| [J](j.htm) \| [K](k.htm) \| [L](l.htm) \| [M](m.htm) \| [N](n.htm) \| [O](o.htm) \| [P](p.htm) \| [Q](q.htm) \| [R](r.htm) \| [S](s.htm) \| [T](t.htm) \| [U](u.htm) \| [V](v.htm) \| [W](w.htm) \| [X](x.htm) \| [Y](y.htm) \| [Z](z.htm)
+
+[Previous List](h.htm) \| [Back to Homepage](brit.htm) \| [Next List](j.htm)
+
+*Dates refer to when review was written*
+
+<span id="I Am Not"></span>**I Am Not An Animal** (10/05)\
+Former *[Fist of Fun](f.htm#Fist)* alumnus Peter Baynham wrote and directed this surreal animated series about a group of intelligence-augmented animals who escape from their lab and set out in the world, unaware that they aren't humans.  The cut-out photo realistic style is a bit disturbing to get used to, but the characters are so well defined that the fun is seeing them react to a world they never made.  Produced by [Steve Coogan](actor.htm#Coogan) who also provides one of the voices (a very urbane horse that wears pants).
+
+**The Ice House** (7/97)\
+Two-part mystery by the BBC (co-produced with WGBH) that kicks off with a body being discovered nearby an estate where three women have been living together. Is it the murdered husband of one of them who went missing 10 years earlier? As the police investigate it turns out nearly everyone has a secret they are hiding, including the cops. Many skeletons come out closets before all is revealed in this well-acted suspenseful drama.
+
+**I.D.** (9/97)\
+BBC TV movie about a young Met detective who goes undercover to investigate soccer hooliganism at a "hard" football club but takes his new role and friends too seriously. A shocking look at the violent culture behind soccer fandom in Europe, with opposing fans kept caged and apart in stadiums with security that would make a prison blush.
+
+**If I Ruled The World** (7/98)\
+Latest in a line of *[Have I Got News For You](h.htm#Have)* clones, with Clive Anderson hosting a celebrity quiz show mocking politicians. Team captains Graeme Garden (*The Goodies*) and Jeremy Hardy along with one guest each, represent two different nameless political parties who must answer Anderson's calls to disagree with statements no matter how absurd ("The Queen Mum is a nice person"), reply to a question without using the words yes or no, or guess how the studio audience would have responded to a poll. In fact it is the audience who ultimately scores the winner, voting via handsets for whichever team they think should form the next "government." Obviously intended to demonstrate that politicians can say anything at anytime without really saying anything, a little satire goes a long way in what must be assumed was hoped to be a long-running series.
+
+**If You See God, Tell Him** (2/94)\
+"God" here is Godfrey, the mentally incompetent father of a long-suffering dentist (Adrian Edmondson). It seems Godfrey has suffered too many knocks to the noggin and as a result only has an attention span of 30 seconds: just enough to absorb and believe everything he sees on television commercials. As a satire of the domestic unit, this series falters. But as a parody of commercials and the contrast between their upbeat consumerism and harsh reality, it's brilliant. The ad parodies aren't bad either - slickly produced and just enough over-the-top. In the end, Godfrey retreats into a world of his own where everything is solved with a happy jingle and a convenient product. What we're left with isn't so much sad as true.
+
+**The Illustrated Mum** (7/04)\
+Michelle Collins stars as a single mother of two girls who is manic depressive and prone to wearing a lot of tattoos.  Her older teenage daughter is savvy enough to stand up for herself and make friends and be popular in school, but the younger grade school sister is picked on constantly for having such an unusual mother.  Collins obsesses about reuniting with Mikey, the older sister's father, and actually manages to find him, but he's more interested in raising his daughter than dealing with the flaky mother.  Plus this leaves the younger one to cope on her own.  Fortunately, Channel 4 didn't want to depress everyone too much, so a promise of a better ending is given these three (and the audience) for having survived the sometimes grim drama.
+
+**I Love The 70s** (11/01)\
+Each year of the 1970s are lovingly brought back to life in this 10-part series, each hosted by a relevant celebrity (Lynda Carter, Bo Derek, even Kermit the Frog) describing the sights, sounds and phenomenons of each year.  Absolute heaven for nostalgia buffs.  Followed soon after by *I Love The 80s* then *90s*...well, you get the idea.
+
+<span id="I'm"></span>**I'm Alan Partridge** (1/98)\
+[Steve Coogan](actor.htm#Coogan) (*[Coogan's Run](c.htm#Coogan)*) resurrects unctuous TV presenter Alan Partridge, last seen with his career in ruins after a disastrous Christmas Special (*[Knowing Me, Knowing Yule](k.htm#Knowing)*). Now an early morning DJ on Norfolk radio, Alan lives out of a motel and desperately tries to get another TV series but his toxic personality thwarts him at every opportunity. Not everyone cares for Coogan's "lovable losers" but I find them fascinating - very real people who exist in a peculiar, but believable universe.
+
+**Imogen's Face** (11/98)\
+Three part ITV drama with Samantha Janus (*[Game On](g.htm#Game)*) as one of two rival sisters whose sibling has always been jealous of her good looks and perfect life. But things aren't like they appear, with the "perfect" husband proving to be a heel (he gets the sister pregnant), and old family skeletons are revealed, but eventually everything is resolved. A good, involving story.
+
+**The Impressionable Jon Culshaw** (3/05)\
+ITV nicks BBC's *[Dead Ringers](d.htm#Dead)* best weapon: uber-impressionist Jon Culshaw who does devastating versions of Tony Blair, Russell Crowe, and Tom Baker among others.  Britain has always loved impressionists, especially those that can do political figures, from Mike Yarwood in the 1970s, to Rory Bremner in the 90s (still going strong) to Culshaw today.
+
+**In A Land Of Plenty** (1/02)\
+Ambitious 10-part BBC drama about an upper-middle class family and their rise and fall over the decades as told from the present day.  Beginning the 1950s, a young, sensitive woman marries an up-and-coming industrialist who buys her a mansion and promises to make love to her in every room.  Needless to say, there are a number of children underfoot within a few years, as well as a permanent staff.  But all is not well and, as the sixties unfold, she wants to be a poet, while her husband is only interested in money and his business.  Tragedy strikes and then we follow the threads of the lives of each of the children through the 70s, 80s and to their eventual destinies today.  The actors age well (and most of the kids are played by at least four people), the clothes and props are right on as you would expect, and the continuing soap-like drama makes for compelling viewing once you make the commitment to watch this.
+
+**An Independent Man** (11/96)\
+George Cole stars in this ITV drama about a successful London hair salon owner who gets into local politics but refuses to play petty party rivalries. Naturally the entrenched forces, both Labour and Conservative, see him as a loose cannon and try to derail him at every turn. But the street smart Cole outwits them each time - Power to the people! (Wait? Wasn't that *Citizen Smith*?).
+
+**The Ink Thief** (1/95)\
+Another elaborate fantasy series aimed at kids about a creature (*Rocky Horror Picture Show*'s Richard O'Brien) who wants to take over the world. Aiding him is a young boy whom he seduces by promising to "fix" the world with his help. But the boy's sister teams up with a plethora of fantasy creatures in order to save the day. Plenty of music and imaginative sets keeps the pace going over the seven episodes.
+
+**The Inspector Pitt Mysteries** (1/99)\
+The title presumes there will be more than one, but the pilot, "The Cater Street Hangman," (already run on A&E) gets off to a good start introducing us to the young, but brilliant Pitt who teams up with a liberated young lady to solve a series of grisly killings in Victorian London. Much is made of the different attitudes of class distinctions (which Pitt refused to recognize, having come from humble beginnings) which is unsurprising being an ITV production, based on the Anne Perry novels. Nicely mounted, I look forward to future stories.
+
+**In The Name of Love** (5/00)\
+Two-part ITV thriller with Tara Fitzgerald (*[The Student Prince](s.htm#Student)*) who runs into an old boyfriend and picks up where they left off years earlier despite her being in a current relationship. When she spurns him he takes to stalking her (aren't there restraining orders in Britain?), even moving into an apartment across the way and bugging her apartment. The stakes keep rising with fatal consequences.
+
+<span id="In The Red"></span>**In The Red** (9/98)\
+Brilliant three-part BBC satire about politics and the BBC (and how the two are very much interrelated). Richard Griffiths (*[Pie In The Sky](p.htm#Pie)*), head of the tiny Reform party, seizes on the opportunity when a serial killer begins striking bank managers causes concern with the government. Meanwhile, a drunken BBC radio journalist ([Warren Clarke](weekly/aa092198.htm)), on the verge of being fired by an unctuous BBC bureaucrat (John Sessions), finds himself with an exclusive on the story. And two heads of BBC radio (Stephen Fry and John Bird) plot to bring down the Director-General by putting Sessions in charge of a hilariously offensive religious show. All these plot threads manage to tie together and just desserts are meted out by the finale. It's amazing the BBC is so willing to parody itself and the shortcomings of its organization, but that's what makes this work.
+
+**The Investigator** (9/97)\
+Channel 4 docu-drama about witchhunts for lesbians in the British Army. The lead woman in charge, we discover, is a lesbian herself, making the whole proceedings rather ironic. When she's finally caught, flashbacks reveal the entire story. In the end the real woman whose story this was delivers a post-script to the audience, confirming our worst fears about homophobia still in existence.
+
+**In Your Dreams** (3/98)\
+Oliver Milburn (*[Neverwhere](n.htm#Neverwhere)*) stars in the anatomy of a rape, showing the events that lead up to it (and allowing us to hear the participant's thoughts) but then cuts to the court case and forces us to make up our minds about what actually happened based on the "Rashomon"-like descriptions of the event by the participants. An intense BBC TV Movie in their bitterly ironic "Love Bites" season.
+
+<span id="Lovett"></span>**I, Lovett** (5/93)\
+Series based on the *[Comic Asides](c.htm#Comic)* pilot. This fantasical comedy series stars Norman Lovett, THE "Holly" from *Red Dwarf*, as a bizarre inventor who is surrounded by anthropomorphic animals and objects. At the time I saw the pilot, I hated it, wishing Lovett had remained aboard the starship. As a weekly series, curiously with an extremely adult persuasion - this is not a kids show, it doesn't seem so bad. I liked getting together with Norm and his odd little world each week. Whatever the merits of the writing, Lovett's delivery is always priceless and worth seeing.
+
+**Insektors** (1/97)\
+A French computer-generated series of 15 minute shorts about a race of insects living on a far-off planet has been redubbed into English and given a tremendous comic spin. The animation is fantastic and the gags priceless and so very British. When the magic crystal that powers the entire planet finally reveals the backstory, a character comments, "I've always wondered why it speaks in an American accent." Which it does!
+
+<span id="Inside"></span>**Inside Victor Lewis-Smith** (11/93)\
+A clever comedy series devised by the television reviewer of the *London Evening Standard* (conflict of interest?). The paper never runs a clear photograph of him and viewers hoping to get a better look at him in his own series will be disappointed: It begins with him in a motorcycle accident and then he is rushed to the BBC Hospital For TV Personalities (run by Nickolas Grace), wrapped up like a mummy, and put on life support. All the sketches occur in his mind, which the doctors are monitoring (creating a bit of mini-drama right there). Funny stuff, especially considering you never see the titled presenter!
+
+**In the Best Possible Taste: A Tribute to Kenny Everett** (11/95)\
+In the 1970s while Benny Hill was working away over at ITV (to be endlessly recycled here in America ad nauseam), the BBC had Kenny Everett. In this compilation from his various variety series from then, one quickly realizes that good taste was not always on the forefront of Everett's mind. But he was funny and his many characters are fondly remembered by those who worked with him. Die-hard Anglophiles with long memories may recall some of these shows from runs on PBS in the 1970s.
+
+**In the Cold Light of Day** (11/94)\
+Rural electrification in the 1930s is the theme in this BBC TV Movie when electric lights were still a novelty in most homes. Flashing back from a present-day hospital, the story tells about a young boy who is fascinated with the new technology and befriends a German man. But the boy's sister is more interested in sex with the local boys, and his mother is hideously anal about looking respectable in front of the neighbors at any cost. How this plays out and its impact on current circumstances years later is the main plot. Slow, but interesting.
+
+**Invasion: Earth** (9/98)\
+Big-budget BBC science fiction thriller in six parts about (what else?) an alien invasion of Earth (naturally beginning in Britain, traditional home to invasions since *Quatermas* and *Doctor Who*). An RAF pilot shoots down an alien craft, although what emerges is a soldier from World War II who has been the guest of friendly aliens (the "Ecos") with a warning that nasty aliens are about to conquer the Earth. Indeed, several humans are kidnapped by the "NDs" (so called, because they exist in an extra "Nth" dimension) where horrible experiments are performed on them before being returned. Much of the story takes place with the military and its experts trying to assess the threat and come up with a solution, which reminded me a bit of the old 70s series *Doomwatch*, about an elite group trying to prevent the End Of The World each week. Fred Ward is the token American, a NATO general who knows he's out of his depths, but nevertheless tries to come up with a way to prevent a complete invasion. [Read my feature article about the *Invasion: Earth*](weekly/aa112798.htm).
+
+**I Saw You** (9/03)\
+More love and heartbreak for *[Cold Feet's](c.htm#Cold)* Fay Ripley who nearly marries the man of her dreams ([Alexander Armstrong](a.htm#Armstrong), playing yet another posh fella, although any minute you think he's suddenly going to do some funny schtick) but decides being a professional clown is more her style.  Say what?
+
+**Is It Bill Bailey?** (7/98)\
+Stand-up comedian Bailey (last seen in the sci-fi quiz show *[Space Cadets](s.htm#Space)*) does his own series of one-man shows on the BBC. There are two sides to the series, one is pretty mediocre, the other brilliant. The first bit is his stand-up in front of an audience, interspersed with brief sketches. It's amusing seeing him wearing different outfits but there's nothing to distinguish this material. However, the other part, where Bailey shows off his musical abilities, is fantastic. Each week he uses a different instrument and builds an entire routine around it. Armed with a synthesizer he creates a passable version of the *Doctor Who* theme then proceeds to send it up by demonstrating how it would be played today. Some of his pastiches are near genius. Edited together, the musical highlights would be well worth watching, but the show as a whole is a very mixed bag.
+
+<span id="Legal"></span>**Is It Legal?** (1/96)\
+This ITV sitcom stars Imelda Staunton and Jeremy Clyde as partners in a disorganized law firm. The married middle-aged office manager has a crush on a young delivery girl who barely knows he exists, the secretary doesn't have two brain cells to rub together, and the junior partner is clueless. Fairly standard stuff.
+
+(3/99)\
+One of the great mysteries of our time is how such a brilliant writer like Simon Nye (*[Men Behaving Badly](m.htm#Men)*) has continued to churn out this pedestrian and frankly not-terribly-funny comedy for three seasons now. Not even suitable by ITVs low standards, Channel 4 has picked up the series but its still the same lame office comedy set in a "wacky" legal firm.
+
+**It'll Be Alright On the Night** (1/91)\
+The title is a reference to the theatrical term used when a screwup occurs during rehersals. Essentially a blooper show, but the quiet mature host is a great relief from Dick Clark, Bob Saget, etc.
+
+**It Shouldn't Happen To A Children's Presenter** (3/01)\
+Amusing ITV documentary about the perils of being a children's TV host, still an active vocation in Britain both the on the BBC and ITV.  Interspersed with classic clips and interviews with old hosts is a "Real World"-like documentary search for the newest host to be cast, following a number of auditioners through to the final announcement.
+
+**It's Only TV But I Like It** (1/00)\
+The BBC has basically recycled the TV trivia quiz game *Telly Addicts* with celebrities this time, hosted by Jonathan Ross. Team captains (and a stranger pairing you'd be hard-pressed to find) campy Julian Clary and "hard man of comedy" Jack Dee lead two sets of minor celebrities in a collection of clips, questions, and history about television. Perhaps the strangest (and hardest) section is where senior citizens talk rather vaguely about a particular series and the panelists have to guess which show they are talking about.
+
+**It's Ulrika** (11/97)\
+Former Swedish weathergirl Ulrika Jonsson, now a foil for Vic and Bob on *[Shooting Stars](s.htm#Shoot)*, gets her own special (written by her mentors) that doesn't tax her talents too much in various comedy sketches.
+
+[A](a.htm) \| [B](b.htm) \| [C](c.htm) \| [D](d.htm) \| [E](e.htm) \| [F](f.htm) \| [G](g.htm) \| [H](h.htm) \| I \| [J](j.htm) \| [K](k.htm) \| [L](l.htm) \| [M](m.htm) \| [N](n.htm) \| [O](o.htm) \| [P](p.htm) \| [Q](q.htm) \| [R](r.htm) \| [S](s.htm) \| [T](t.htm) \| [U](u.htm) \| [V](v.htm) \| [W](w.htm) \| [X](x.htm) \| [Y](y.htm) \| [Z](z.htm)
+
+[Previous List](h.htm) \| [Back to Homepage](brit.htm) \| [Next List](j.htm)
+
+------------------------------------------------------------------------
+
+Written and maintained by Ryan K. Johnson [(rkj@eskimo.com)](mailto:rkj@eskimo.com).
+
+October 17, 2005

@@ -1,20 +1,20 @@
 ---
 title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
 source_domain: amasci.com
-source_path: ~recall/bleed/0825.htm
+source_path: ~recall/bleed/0116.htm
 order: 6775
 reachable_from_entry: false
-images: 40
+images: 17
 internal_links: 0
-extracted: 2026-08-07T05:59:34Z
+extracted: 2026-08-07T17:14:10Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
 
-*Source page: `~recall/bleed/0825.htm`*
+*Source page: `~recall/bleed/0116.htm`*
 
-> > <img src="http://recollectionbooks.com/bleed/images/dingbats/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
 > >
 > > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
 > >
@@ -25,468 +25,338 @@ extractor: site_to_paper.py (pandoc)
 \
 --
 
-> > **"Oh roar a roar for Alice, Nora Alice in the night; for she has seen Aurora Borealis burning bright. Hoo-roar a roar for Alice...."**
->
-> 
->
-> Walt Kelly
->
-> []()\
-> []()\
-> \
-> <img src="http://recollectionbooks.com/bleed/images/BB/eight.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="253" height="194" alt="hand with candle-lit finger tips over an open book" />\
-> --
->
-> AUGUST 25
->
-> 
->
-> JORGE-LUIS BORGES\
-> Enigmatic Argentine fantasist; politically vague, but a major influence on 20th century world literature. (see yesterday).
->
-> "I \
-> shall\
-> make dust\
-> of history..."
->
-> Jorge-Luis Borges
+<img src="http://recollectionbooks.com/bleed/images/authors/emilyDickinson.gif" data-border="1" data-hspace="10" data-vspace="10" width="367" height="156" alt="Emily Dickinson quote" />
 
+[]()\
+[]()\
+\
+<img src="http://members.aol.com/artprimate/76.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="155" height="120" alt="?" />\
+-- **JANUARY 16**
+
+DIAN FOSSEY\
+Friend to all primates, animal rights martyr.\
 
 
-<img src="http://recollectionbooks.com/bleed/images/BB/Borges_classic_pose.jpg" data-border="0" data-hspace="10" data-vspace="10" width="256" height="384" alt="Jorge-Luis Borges" />
-
+> \
+>
 > > 
 > >
 > > ------------------------------------------------------------------------
 > >
-> > Lake Champlain, New York: FEAST OF THE GREEN CORN.\
-> > A pageant presented by the Society for the Preservation of Indian Lore, performed by actors from the six Iroquois nations.
+> > US: NATIONAL NOTHING DAY.
+> >
+> > Japan: HARU-NO-YABUIRI. A festival of Zerowork for overworked students & servants.
 > >
 > > ------------------------------------------------------------------------
 >
-> []()\
-> []()\
-> \
-> 325 -- The General Council of Nicea settles on the rules for calculating the date of Easter each year.\
-> Source: 'Calendar Riots' []()\
-> []()\
-> \
-> 383 -- WhoDone'Em?: Gratian, Roman Emperor, slain at Lugdunum. []()\
-> []()\
-> \
-> 1608 -- France: UFO appears at Martigues, near Marseilles.\
-> [\[Source: Robert Braunwart\]](http://recollectionbooks.com/bleed/sources.htm#RobertB)\[Hereafter attributed with symbol: <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-alt="Source=Robert Braunwart" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="15" height="13" />\] []()\
-> []()\
-> \
-> 1609 -- Galileo presents his 30X telescope to the Venetian Senate. They look in the wrong end, & the rest is history. []()\
-> []()\
-> \
-> 1669 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> Sweden: Dozens of witches are burnt at Mora. []()\
-> []()\
-> \
-> 1689 -- New World: 1,200 Iroquois warriors attack Montreal. []()\
-> []()\
-> \
-> 1775 -- England: New Exchange Rate? Two thousand Liverpool seamen ignore the reading of the Riot Act to liberate nine of their fellows imprisoned for wrecking a ship when paid short wages.
->
-> > All ships in port are boarded & de-rigged, making them unable to sail & money is levied from local merchants. When several demonstrators are killed at the Liverpool Exchange, the sailors raid warehouses & gunsmiths for arms & seize two cannon from a whaling vessel. On the 30th they "hoist the bloody flag", attack the houses of merchants & other "obnoxious persons", & bombard the Exchange.
-> >
-> > \
-> > Source: 'Calendar Riots' []()\
->
-> []()\
-> \
-> 1776 -- Scotland: Philosopher/historian David Hume dies in Edinburgh, 65. []()\
-> []()\
-> \
-> 1803 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> Irish rebel Robert Emmet is captured by the British. []()\
-> []()\
-> \
-> <img src="http://recollectionbooks.com/bleed/images/BB/FluxFaceX100.GIF" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="100" alt="flux face" />\
-> 1819 -- US: Birth of the fink (Allen Pinkerton, whose strike breaking detectives ('Pinks') gave us the word 'fink'.)
->
-> > "Thanks for a nation of finks...."
-> >
-> > William S. Burroughs
->
-> \
->
-> > []()\
-> > []()\
-> > \
-> > <img src="http://recollectionbooks.com/bleed/images/sciSpace/PIA00143.jpg" data-border="0" data-hspace="10" data-vspace="10" width="212" height="256" alt="Space shot" />\
-> > 1822 -- Young Lust?: William Herschel discovered Uranus, dies at 85. []()\
-> > []()\
-> > \
-> > 1828 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> US: Pennsylvania Workingmen's Party holds its first convention, Philadelphia. []()\
-> > []()\
-> > \
-> > 1830 -- Dutch Rub?: Belgium revolts against Netherlands, a rebellion against the oppression of being constantly in dutch. []()\
-> > []()\
-> > \
-> > <img src="http://recollectionbooks.com/bleed/images/sciSpace/PIA00143.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="80" height="100" alt="?" />\
-> > 1835 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> US: "NY Sun" publishes a moon hoax story claiming that astronomer Sir John Herschel has observed little men living there; the paper's circulation goes "way up".\
-> > []()\
-> > []()\
-> > \
-> > 1836 -- US: Bret Harte lives, Albany, New York. Leaves school at 13 to go to work, travels to California before moving to NY to pursue a writing career. <http://www.malakoff.com/bret.htm>\
-> > []()\
-> > \
-> > 1838 -- US: The ever-curious Ralph Waldo Emerson seeks out Thomas Carlyle in Cumberland, gets himself invited to dinner, initiates a lifelong friendship. []()\
-> > []()\
-> > \
-> > 1845 -- Mad King of Bavaria, Louis (Ludwig) II (1845-1886), lives. Dream King, the Swan Prince, the Recluse of Alps Ludwig II was a legend in his own time. Ludwig's grandiose castle capped a building boom that nearly bankrupted Bavaria.\
-> > <http://www.kirjasto.sci.fi/ludwig.htm>\
-> > []()\
-> > \
-> > 1860 -- In Bonderup, Denmark, playwright, poet, literary critic Johan Heiberg dies. The influential literary paper he edited in Copenhagen from 1827 to 1830 introduced many new writers, including Soren Kierkegaard & Hans Christian Andersen. []()\
-> > []()\
-> > \
-> > 1864 -- 'Remember the Alameda'?: Combination rail & ferry service available from San Francisco to Alameda. []()\
-> > []()\
-> > \
-> > 1875 -- Matthew Webb is the first to successfully swim the English Channel, crossing from Dover, England, to Calais, France, in 22 hours. []()\
-> > []()\
-> > \
-> > 1882 -- Iivo Hrknen (1882-1941) lives. Finnish writer, journalist, teacher, advocate of Karelian culture. Secretary of the Union of Finnish Writers from 1920 until his death.\
-> > <http://www.kirjasto.sci.fi/iivoh.htm>\
-> > []()\
-> > \
-> > 1893 -- US: "Colored Peoples' Day" at the Columbian Exposition in Chicago. []()\
-> > []()\
-> > \
-> > 1897 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> First date in the movie "Bram Stoker's Dracula".
-
-[]()\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/authors/borges.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" width="190" height="253" alt="Grown old in mirrors" />\
-1899 -- Jorge-Luis Borges lives yesterday, actually, but our Jubilee Saints Calendar thought today was cool too, so .....
-
-> I will die &, with me, the weight of the intolerable universe.\
-> I shall erase the pyramids, the medallions, the continents & faces.\
-> I shall erase the accumulated past.\
-> I shall make dust of history, dust of dust.\
-> Now I am looking on the final sunset.\
-> I am hearing the last bird.\
-> I bequeath nothingness to no one".
->
-> <http://www.thesecretbooks.com/>\
-> <http://www.TheModernWord.com/borges/>\
-
-\
-
-> []()\
-> \
-> 1900 -- "Mad" German philosopher Friedrich Nietzsche dies, Weimar, Germany after a long mental illness.
->
-> > "...this time however I come as the victorious Dionysus, who will turn the world into a holiday ... Not that I have much time..."
-> >
-> > Nietzsche (from his last "insane" letter to Cosima Wagner)
->
 >  []()\
-> []()\
-> \
-> <img src="http://recollectionbooks.com/bleed/images/BB/mosquito-artery-hit.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="258" height="283" alt="ballooning mosquisto hits the &#39;Big&#39; one" />\
-> 1901 -- Clara Maass, army nurse, sacrifices her life at 25 to prove that the mosquito carries yellow fever. <http://whyfiles.org/016skeeter>\
-> \
-> []()\
-> \
-> 1907 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> Hans Castorp is diagnosed with TB, in Thomas Mann's Magic Mountain. []()\
-> []()\
-> \
-> 1910 -- Dorothea Tanning lives, Galesburg, Illinois. 
 >
-> > American painter, moved to NY in 1935, & met the Surrealist artists in exile there. Married [Max Ernst](http://recollectionbooks.com/bleed/Encyclopedia/saints/StErnst.htm) in 1946, & shared his life for 35 years much longer than any of the other women associated with him Louisa Straus, Marie-Berthe Aurenche, [Leonora Carrington](http://www.recollectionbooks.com/bleed/sinners/CarringtonLeonora.htm), or Peggy Guggenheim. 
-> >
-> > Her art evolved & changed over a long career, including a series of sculptures using the techniques of upholstery. A room-size installation in this medium is in the permanent collection of the Beaubourg Museum, Paris. Tannings autobiography, Birthday, published in 1986, describes her life through her 75th year.
-> >
-> > \
-> > <http://artcyclopedia.com/artists/tanning_dorothea.html> Artcyclopedia\
-> > \
-> > <http://cgfa.sunsite.dk/t/p-tanning1.htm> Guardian Angels, CGFA
-> >
-> > "Wild Bill" Koehnline
->
-> []()\
-> []()\
-> \
-> <img src="http://recollectionbooks.com/bleed/images/BB/frame5.gif" data-border="0" data-hspace="10" data-vspace="10" width="354" height="209" alt="cartoon: some is more equal than others" />\
-> 1913 -- "Pogo" creator Walt Kelly lives.
->
-> > "We are confronted with insurmountable opportunities."
-> >
-> > "There is no need to sally forth, for it remains true that those things which make us human are, curiously enough, always close at hand. Resolve, then, that on this very ground, with small flags waving & tiny blasts of tiny trumpets, we shall meet the enemy, & not only may he be ours,he may be us."
-> >
-> >  Walt Kelly
-> >
-> > > <http://members.bellatlantic.net/~vze3y3t2/>\
-> > > <http://www.comic-art.com/bios-1/kelly001.htm>\
-> > >  <http://www.cartoon.org/kelly.htm>\
-> > > <http://www.halhigdon.com/kelly/>\
-> >
 > > []()\
 > > \
-> > 1914 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> Mexico: Beloved & Respected Comrade Leader Pres. Carranza calls a conference of revolutionaries. []()\
+> > 1697 -- Richard Savage, poet, dies savagely. []()\
 > > []()\
 > > \
-> > 1920 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="EG, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)Russia: Late August, [Alexander Berkman](http://recollectionbooks.com/bleed/Encyclopedia/BerkmanAlexander.htm) & [Emma Goldman](http://recollectionbooks.com/bleed/Encyclopedia/GoldmanEmma.htm) visit Kiev.
+> > 1769 -- England: Rock 'n' Roll? One of the worst riots in theatre history kicks off at the London Haymarket after a conjuror fails to appear.\
+> > Source: 'Calendar Riots' []()\
+> > []()\
+> > \
+> > 1776 -- US: Continental Congress approves General George Washington's order to enlist free Negroes. []()\
+> > []()\
+> > \
+> > <img src="http://www.eskimo.com/~recall/bleed/images/oldbook.gif" data-vspace="0" data-hspace="5" data-align="left" data-="" width="50" height="30" alt="old book" />\
+> > 1794 -- Edward Gibbon (History of the Decline & Fall of the Roman Empire) fat, feeble, & gout-ridden, dies at 56. Religious reformer Hannah More writes: *"How many souls have his writings polluted! Lord preserve others from their contagion!" <http://www.english.upenn.edu/~jlynch/Frank/People/gibbon.html>\
+> > <http://www.alumni.caltech.edu/~zimm/gibbon.html>\
+> > \
+> > 1872 -- French actress Sarah Bernhardt debuts with the Comedie Franaise in Victor Hugo's Ruyt Blas. Her performance made her the leading actress in Europe. []()\
+> > []()\
+> > \
+> > 1874 -- Canadian poet/novelist Robert W. Service lives to shoot Dan McGrew, Preston, Lancashire. []()\
+> > []()\
+> > \
+> > 1887 -- George Kelly lives, Philadelphia. Playwright/actor/director whose 1920s dramas depict the foibles of the American middle class (The Show-Off; Graig's Wife). []()\
+> > []()\
+> > \
+> > 1893 -- Hawaii: Queen Lilluokalani's regime is overthrown by US pineapple tycoon Sanford Dole & pro-annexation sugar interests. With an amazing sense of timing, US troops just happen to land, "to protect US interests." With support from Beloved & Respected Comrade Leader US Minister John Stevens, Beloved & Respected Comrade Dole declares himself Hawaii's president & lobbies for US annexation. It's manifestly in the can.*
 > >
-> > > The majority of the population is Jewish. Here they fine valuable material on the rightwing Denikin pogroms; interview local Jews whose views on Bolshevik anti-Semitism differ.
-> > >
-> > > Goldman tours local health facilities, including the Jewish hospital & the hospital for disabled children; also visits the local anarchist center. 
-> > >
-> > > With other members of the museum expedition, Goldman attends lavish functions held in honor of a visiting Italian & French delegation; meets two French anarcho-syndicalists one of whom is preparing a manuscript exposing Bolshevik wrong-doings. Later they are reported to have drowned off the coast of Finland; manuscript never published.
-> > >
-> > > Goldman & Berkman visited by two women representing the Ukranian guerilla [Nestor Makhno](http://recollectionbooks.com/bleed/Encyclopedia/MakhnoNestor.htm), who requests again that they aid him by circulating his call to the international community. They determine it is too risky to meet with him in person as he has proposed.
+> > > The Senate Foreign-Relations Committee recommends annexation, declaring it (quote) *"a duty that has its origin in the noblest sentiments that inspire the love of a father for his children ."* In 1898, President William McKinley signs a joint resolution of Congress authorizing the annexation.
 > >
 > > []()\
 > > []()\
 > > \
-> > <img src="http://recollectionbooks.com/bleed/images/BB/akcat_3856.jpg" data-border="0" data-hspace="10" data-vspace="10" width="200" height="73" alt="Malatesta collage" />\
-> > 1921 -- "The slave is always in a state of legitimate defence & consequently, his violence against the Boss, against the oppressor, is always justifiable, & must be controlled only by such considerations as that the best & most economical use is being made of human effort & human sufferings."
+> > 1898 --
 > >
 > > 
 > >
-> > [Errico Malatesta](http://recollectionbooks.com/bleed/Encyclopedia/MalatestaErrico.htm) (Umanita Nova, August 25th, 1921)
-> >
-> > anarchist
-> >
-> > []()\
-> > []()\
-> > \
-> > 1921 -- US: West Virginia Governor Morgan asks Beloved & Respected Comrade Lover President Warren Harding for Federal troops & military aircraft, saying miners have been inflamed & infuriated by radical officers & leaders. Actually most officers of the UMW union, including the president, have been followers, trying to supress the workers militant actions.\
-> > [\[Sources, click here\]](http://recollectionbooks.com/bleed/sources.htm#WestVirginia) []()\
-> > []()\
-> > \
-> > 1922 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> Frank Harris finishes writing volume 1 of My Life & Loves.\
-> > <http://www.oddbooks.co.uk/harris/harrislinks.html>\
-> > []()\
-> > \
-> > 1925 -- US: African American labor organizer A. Phillip Randolph founds the Brotherhood of Sleeping Car Porters.
-> >
-> > > The union attracts an exceptional group of organizers, but suffers devastating defeats & only modest victories until the Pullman Company finally agrees to recognize the Brotherhood in 1935. 
-> > >
-> > > Pullman Porters are among the black elite. Although their duties are menial, they are relatively well paid & enjoy high visibility. Porters are often the only jobs college-educated African Americans can find. Both Langston Hughes & Claude McKay were porters before & during their writing careers.
-> >
-> > []()\
-> > []()\
-> > \
-> > 1925 -- Althea Gibson lives, Silver, South Carolina. Pioneer tennis player, the first African American to play at the US Open in 1950 & at Wimbledon the following year. In 1957, she won the singles & doubles titles at Wimbledon. []()\
-> > []()\
-> > \
-> > 1925 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="EG, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)England: [Emma Goldman](http://recollectionbooks.com/bleed/Encyclopedia/GoldmanEmma.htm) spends most of this month in the British Museum reading Russian dramatists in preparation for her upcoming lectures. 
-> >
-> > > [M. Eleanor Fitzgerald](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Fitzgerald), Goldman's close associate from NY, visits at the end of the month & through her Goldman meets African-American singer & actor Paul Robeson, who is starring in Eugene O'Neill's The Emperor Jones in London.
-> > >
-> > > Prompted by a publisher's fleeting interest in a book of reminiscences, Red Emma begins asking correspondents to send her letters she had written them over the years.
-> > >
-> > > anarchist
-> >
-> > \
-> > []()\
-> > []()\
-> > \
-> > 1925 -- Donald Justice, lives, Miami, Florida. American poet / editor best known for his finely crafted verse that frequently illuminates the pain of loss & desolation of an unlived life. His Selected Poems (1979) wins the Pulitzer Prize, & his lifelong interest in music leads to the writing of the libretto for The Death of Lincoln. []()\
-> > []()\
-> > \
-> > 1930 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> Peru: Beloved & Respected Comrade Leader Augusto Legua resigns the presidency during a revolt.\
-> > <http://www.pbs.org/wgbh/commandingheights/lo/countries/pe/pe_full.html>\
-> > []()\
-> > \
-> > 1930 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> Poland: Beloved & Respected Comrade Leader Josef Pilsudski forms a ministry in & arrests leftists. Jzef Pilsudski rose to national prominence as an anti-Russian socialist agitator.\
-> > <http://www2.tltc.ttu.edu/kelly/_5346disc/0000003e.htm>\
-> > []()\
-> > \
-> > 1933 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> Germany: Hitler's first list of Germans to be deprived of citizenship is announced author Heinrich Mann is on it. []()\
-> > []()\
-> > \
-> > 1937 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> US: Brotherhood of Sleeping Car Porters signs its first contract with Pullman. []()\
-> > []()\
-> > \
-> > 1938 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="EG, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)[Emma Goldman](http://recollectionbooks.com/bleed/Encyclopedia/GoldmanEmma.htm) leaves London for Paris, having secured a British visa for Spain at the last moment.\
-> > []()\
-> > []()\
-> > \
-> > 1940 -- A Match Made in Heaven?: First parachute wedding, at the NY World's Fair. Parachutists include minister, bride, groom, best man, maid of honor & four musicians (obviously the woodwinds section; no tubas or grand pianos here, puhleeze!).
+> > Strange Stuff:
 
-[]()\
-[]()\
-\
-1940 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> Germany: RAF bombs Berlin in a night retaliatory raid (a civilian target). []()\
-[]()\
-\
-1941 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> Iran: UK & USSR invade following the Shah's refusal to expel Germans; Britain & the USSR demand that Iran accept Allied "protection". []()\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/military/attack.chamber.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="182" height="233" alt="Attack" />\
-1944 -- France: French divisions march into Paris followed by the US 4th Infantry Division. Nazi resistance was light & a quick surrender is negotiated, ignoring Hitler's orders to burn the city to the ground.\
 
 
-> Paris is occupied by Maquis, driving out Nazis; but the armed presence of Spanish anarchists within the Maquis causes alarm & the British Home Office gives a directive to penetrate the London-based Spanish anarchists. 
->
-> Divisions between middle class pacifists & liberals, involved with the British anarchist movement during the war, & the rest of the movement causes one split. Reaction against those from Spain who entered the bureaucracy during the Civil War & became ossified in those positions, tending to rely on the Allied cause rather than resistance, causes another split, but these divisions are not clear-cut until later.
->
-> <http://www.geocities.com/Athens/Atlantis/2671/>\
+Sighting of something like a cloud that dimmed & blotted out stars in the constellation of Perseus (sighted again on Jan 24) \[Monthly Notices, 58-334\]\
+<http://www.passarola.com/strange/decfort.html>\
+<http://www.sacred-texts.com/fort/damned/damn03.htm>\
+
+
+[]()\
+\
+1901 -- Laura Riding lives, New York. Influential poet, critic, & prose writer among the literary avant garde of the 1920s & 30s. Her work with Robert Graves, A Survey of Modernist Poetry (1927) developed ideas of close textual analysis, influencing the New Criticism school. []()\
+[]()\
+\
+1912 -- Una nave da guerra della marina italiana compie un atto di pirateria internazionale bloccando due mercantili francesi e arrestando 29 passeggeri turchi. Il presidente del consiglio francese Raymond Poincar esige e ottiene l'immediata liberazione degli ostaggi. La Corte internazionale di giustizia dell'Aja condanner lo stato italiano a pagare un risarcimento di 160.000 lire. \
+[\[Source: Crimini e Misfatti\]](http://recollectionbooks.com/bleed/sources.htm#Basta) []()\
+[]()\
+\
+1916 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: [Emma Goldman](http://recollectionbooks.com/bleed/Encyclopedia/GoldmanEmma.htm) gives a lecture at the Masonic Temple at 26th Street & Lenox Avenue, in NY City, on "The Child's Right Not to Be Born". 
+
+According to the NY Times (Jan. 17) she said that "if everyone followed the injunction of the Bible & Theodore Roosevelt to 'Be fruitful & multiply' every tenement house would be turned into a lunatic asylum..." []()\
+[]()\
+\
+1919 -- Argentina: End of the "Sanglante" ("Bloody Week") in Buenos Aires. The [General Strike](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GeneralStrike) begun a week ago is crushed in blood, with as many as 700 dead & 2000 wounded. Argentinean anarchism is decimated by the following repression, & the trade unions reformists are left fully in control.\
+[]()\
+[]()\
+\
+1919 -- US: Prohibition ratified by 3/4 of the states; Nebraska is 36th. (starts 1920).
+
+"Prohibition is an awful flop.\
+We like it.\
+It can't stop what its' meant to stop.\
+We like it.\
+It's left a trail of graft & slime,\
+It's filled our land with vice & crime,\
+It can't prohibit worth a dime,\
+Nevertheless we're for it."
+
+       Franklin Pierce Adams, New York World
+
+[]()\
+\
+[]()\
+\
+1920 -- US: 18th Amendment, prohibition, goes into effect; Drink Anniversary; it doesn't rain again in Seattle until 1933, when the dry act is repealed. []()\
+[]()\
+\
+1920 -- France: First meeting of League of Nations Council, Paris.\
+
+> []()\
+> []()\
 > \
-> ['Forgotten Heroes: Spanish Resistance in France 1939-45'](http://www.cat.org.au/aprop/forgot.txt)<http://www.albany.edu/museum/wwwmuseum/holo/index.html>\
-> \
-> ===============================================\
-> <http://www.ateneuenciclopedicpopular.org/indexArticles.htm>
+> <img src="http://www.eskimo.com/~recall/bleed/images/oldbook.gif" data-vspace="0" data-hspace="5" data-align="left" data-="" width="50" height="30" alt="old book" />\
+> 1933 -- Susan Sontag lives. American 'new intellectual' essayist & novelist, whose innovative essays to various aspects of modern culture have gained wide attention.
+>
+> > *"Interpretation is the revenge of the intellect upon art."* 
+>
+> <http://www.kirjasto.sci.fi/sontag.htm>\
+> []()\
+> \
+> 1936 -- US: Albert "The Cannibal" Fish, murderer of children, executed at Sing Sing. []()\
+> []()\
+> \
+> 1936 -- Spain: Socialists / communists / anarchists form Unidad Popular. []()\
+> []()\
+> \
+> 1938 -- Benny Goodman refuses to play Carnegie Hall when black members of his band are barred from performing. []()\
+> []()\
+> \
+> 1942 -- Carole Lombard, her mother, & 20 others killed in plane crash. Lombard, married to actor Clark Cable, died in a plane crash while on a war-bond drive.
+
+[]()\
+[]()\
+\
+<img src="http://lists.village.virginia.edu/sixties/Graphics/Buttons/emergency_sm.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="76" height="76" alt="?" />\
+1952 -- US: Beloved & Respected Comrade Leader Senator James Eastland introduces a resolution to declare a "state of emergency" in the US. It allows Congress to invoke a McCarran Internal Security Act provision under which American Communists could be rounded up & jailed in concentration camps.
+
+\
+
+> 
+>
+> <img src="http://recollectionbooks.com/bleed/images/humor/lovepack2.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="middle" width="600" height="448" alt="Commie Fag cigarettes" />
+>
+> \
 
 \
 
 > > []()\
-> > \
-> > 1948 -- US: Central Committee for Conscientious Objectors founded in Philadelphia. []()\
 > > []()\
 > > \
-> > 1950 -- US: The Train Stops Here? Beloved & Respected Comrade Leader President Harry Truman orders US Army to seize all the nation's railroads to prevent a [General Strike](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GeneralStrike). The railroads are not returned to their owners until two years later. (See 8 April.)\
+> > 1963 -- Beloved & Respected Comrade Leader Khrushchev claims to have a 100-megaton nuclear bomb in his back pocket. []()\
+> > []()\
+> > \
+> > 1963 -- Venezuela: Revolutionary students in Caracas make an armed attack on an exposition of French art & carry off five paintings, which they declare they will return in exchange for the release of political prisoners.\
+> > Source: 'Calendar Riots' []()\
+> > []()\
+> > \
+> > 1965 -- US: An USAF tanker plane crashes into a residential area of Wichita, Kansas, killing the seven member crew & 23 on the ground.\
 > > []()\
 > > []()\
 > > \
-> > 1953 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> T.S. Eliot play "The Confidential Clerk" is first performed, Edinburgh. []()\
+> > <img src="http://lists.village.virginia.edu/sixties/Graphics/Buttons/out_now.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="100" height="100" alt="?" />\
+> > 1966 -- US: Joan Baez jailed in Vietnam antiwar demonstration, Oakland, California. []()\
 > > []()\
 > > \
-> > 1957 -- Umberto Saba dies in Gorizia. Italian poet of simple, lyrical autobiographical poems. His first work, Il canzoniere ("The Songbook," 1921), is followed by Storia e cronisoria del canzoniere ("History & Chronical of the Songbook," 1948), & his later Freudian work on such topics as desire & childhood memories. []()\
-> > []()\
-> > \
-> > 1964 -- US: 200 protest Vietnam War at Democratic National Convention. Convention held August 24 to 27.
+> > 1968 -- US: Youth International Party (Y.I.P.) founded -- [Country Joe & Fish](http://www.countryjoe.com/), [Fugs](http://www.nyu.edu/library/bobst/research/fales/coll_mss/fugs.html) (includes [Tuli Kupferberg](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Kupferberg),"one of the leading Anarchist theorists of our time" & Ed Sanders, poet, editor, owner of the fabled Peace Eye Book Store), [Allen Ginsberg](http://www.levity.com/corduroy/ginsberg.htm), [Arlo Guthrie](http://www.arlo.net/), [Abbie Hoffman](http://theaction.com/Abbie/), [Paul Krassner](http://www.primenet.com/~lippard/realist.html), [Phil Ochs](http://www.cs.pdx.edu/~trent/ochs/), Jerry Rubin (25 artists, writers & revolutionaries). No anarchist Yuppies allowed; BleedMeister has been beheaded for certain licentious transgressions.
 > >
-> > > > Another very significant happening at that convention was the attempt by the Mississippi Freedom Democratic Party to get seated.
+> > > \
+> > > 
+> > >
+> > > <table data-border="5" data-noshade="" color="red" data-cellpadding="30">
+> > > <colgroup>
+> > > <col style="width: 100%" />
+> > > </colgroup>
+> > > <tbody>
+> > > <tr>
+> > > <td> I spoke to Tolstoy: 'Emma Goldman's coming back!'<br />
+> > > He sat there writing on a shard of red &amp; black<br />
+> > > Black &amp; Red. Coming back!<br />
+> > > Red &amp; Black. They're comin' back!...
+> > > <p>I see the White House &amp; I want to paint it Red<br />
+> > > Willy Reich is shouting at me: 'Better Bed than Dead!'<br />
+> > > Now Billy's roasting Yelstin: 'So long Bourgeois Flack!'<br />
+> > > I spy the Kremlin Hey we're gonna take it back!</p>
+> > > <p>RED &amp; BLACK<br />
+> > > GET IT BACK<br />
+> > > RED &amp; BLACK<br />
+> > > WE'RE COMING BACK<br />
+> > > RED &amp; BLACK<br />
+> > > RED &amp; BLACK<br />
+> > > RED &amp; BLACK</p>
+> > > &#10; Tuli Kupferberg, excerpts,<br />
+> > > &#10;<h2 id="paint-it-red-black" data-align="center">PAINT IT RED (&amp; BLACK)</h2>
+> > > <a href="http://www.uoregon.edu/~splat/Fugs.html">http://www.uoregon.edu/~splat/Fugs.html</a><br />
+> > > <a href="http://www.nyu.edu/library/bobst/research/fales/coll_mss/fugs.html">http://www.nyu.edu/library/bobst/research/fales/coll_mss/fugs.html</a><br />
+> > > <br />
+> > > &#10;</td>
+> > > </tr>
+> > > </tbody>
+> > > </table>
+> > >
+> > > \
+> > > []()\
+> > > []()\
+> > > \
+> > > 1969 -- Jan Palach immolates himself to protest Soviet invasion of Czechoslovakia. After Palach, 26 people attempted suicide between January 20, 1969 & the end of April that year, 7 of whom died. []()\
+> > > []()\
+> > > \
+> > > <img src="http://www.eskimo.com/~recall/bleed/images/bullet.gif" data-hspace="5" data-vspace="0" data-align="left" data-="" width="18" height="18" alt="Ooopsie!" />\
+> > > 1970 -- US: Soledad Brothers (including George Jackson) are accused of killing a guard in Soledad (California) state prison.\
+> > >  <http://www.prop1.org/legal/prisons/aptheker.htm>\
+> > > []()\
+> > > \
+> > > 1972 -- Ross Bagdasarian, who had a bunch of hits "sung" by TV cartoon characters, the Chipmunks, dies at age 52. He did the voices for Alvin, Simon & Theodore. Under the name David Seville, he also recorded the Number One hit "Witch Doctor" in 1958. Upon hearing of Ross' demise, his father, now in a Monastary, laments: *"He was a chip off the old monk."* []()\
+> > > []()\
+> > > \
+> > > 1973 -- Famed gospel singer Carla Ward, 48, dies after suffering her second stroke within several weeks. Aretha Franklin called Ward, "my inspiration."\
+> > > []()\
+> > > []()\
+> > > \
+> > > 1977 -- In Asserbo, Denmark, novelist/dramatist, Leif Panduro dies. With such works as Farvel, Thomas (1968, "Good-bye, Thomas") & I Adams verden (1973, "In Adam's World") he is considered one of the most successful Scandinavian dramatists of the 1970s.
+> > >
+> > > []()\
+> > > []()\
+> > > \
+> > > <img src="http://www.pulpcards.com/largeimg/pc-096.jpg" data-border="1" data-hspace="10" data-vspace="10" data-="" width="216" height="305" alt=" ? " />\
+> > > 1980 -- Japan: Paul McCartney jailed in Tokyo for possession of a half pound of marijuana. Locked up for 10 days behind bars before being kicked-out of the country. The remainder of his tour is canceled.
+> > >
+> > > > 
 > > > >
-> > > > Bleedster Greg C.
+> > > > A pencil recall is underway in upstate New York because a would-be anti-drug message ran smack into real world physics. The pencils bear the message "Too Cool to Do Drugs," but as they are sharpened the message becomes "Cool to Do Drugs," then "Do Drugs."
+> > > >
+> > > > <http://hempfest.org/>\
+> > > > \
+> > > > <http://www.pulpcards.com/>\
+> > >
+> > > []()\
+> > > \
+> > > 1981 -- Ivan Lendl intentionally loses a match in the Volvo Masters in order to avoid having to play Bjorn Borg. []()\
+> > > []()\
+> > > \
+> > > <img src="http://www.eskimo.com/~recall/bleed/images/bullet.gif" data-hspace="5" data-vspace="0" data-align="left" data-="" width="18" height="18" alt="Ooopsie!" />\
+> > > 1981 -- Irish radical Bernadette Devlin shot.\
+> > > <http://cain.ulst.ac.uk/events/pdmarch/arthur74a.htm>\
+> > > []()\
+> > > \
+> > > 1981 -- Bite Me?: Leon Spinks is mugged, his assailants even take his gold teeth.
 > >
 > > []()\
 > > []()\
 > > \
-> > 1966 -- Yardbirds perform at the Carousel Ballroom in Frisco. The Carousel was the former El Patio Ballroom on the second floor of the car dealership on the southwest corner of Market & Van Ness. <http://www.sfmuseum.org/hist1/rock.html>\
-> > <http://www.warr.org/yardbirds.html>\
-> > \
-> > 1967 -- Gone Whaling?: Beatles go to Wales to talk to the Maharishi Mahesh Yogi about Transcendental Meditation.
->
-> []()\
-> []()\
-> \
-> 1967 -- US: FBI circulates memo detailing plans to "disrupt" Black Liberation groups. Results in infamous "COINTELPRO" program (still being used today). The memo advocates "any tactics" against groups like Martin Luther King, Jr.'s Southern Christian Leadership Conference.
->
-> Ward Churchill: <http://www.refuseandresist.org/mumia/1995/churchill.html>\
-> [Paul Wolf's COINTELPRO page](http://www.icdc.com/~paulwolf/)\
-> <http://www.monitor.net/~bari/America's_Secret_Police.html>\
-> <http://mediafilter.org/MFF/USDCO.idx.html>\
-> <http://www.globalafrica.com/COINTELP.htm>\
-> 
->
-> <img src="http://recollectionbooks.com/bleed/images/misc/COApicture.jpg" data-border="1" data-hspace="10" data-vspace="10" width="386" height="245" alt="Contract on America" />
->
-> []()\
-> []()\
-> \
-> 1967 -- US: Hard to Get Good Help? George Lincoln Rockwell, the leader of the American Nazi Party, is shot dead in Arlington, Virginia. Former aide John C. Patler is arrested for the shooting.
->
-> <img src="http://recollectionbooks.com/bleed/images/BB/klancrap.gif%20" data-align="right" data-vspace="15" data-hspace="20" data-border="0" width="194" height="248" alt="I&#39;m a klookey!" />
->
-> <table>
-> <colgroup>
-> <col style="width: 100%" />
-> </colgroup>
-> <tbody>
-> <tr>
-> <td>&amp; for those of you who don't know what the Ku Klux Klan is that's the people who get outta bed in the middle of the night &amp; take the sheet with 'em!... 
-> <p>You always see pictures of them wearing those pointed hoods? Those hoods are flat! It's the heads that are pointed...</p>
-> Dick Gregory, 1962</td>
-> </tr>
-> </tbody>
-> </table>
->
-> \
-
-[]()\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/BB/poster-mimi-vanronk-neil-alt.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="249" height="350" alt="Dave Van Ronk poster" />\
-1967 -- Western Maintenance Presents Dave van Ronk, Mimi Faria & Fred Neil at Berkeley Community Theater & San Francisco Masonic Auditorium, August 25-26, 1967. Artist: Greg Irons. From The Art of Rock, plate 2.262.
-
-> [Dave Van Ronk](http://recollectionbooks.com/bleed/Encyclopedia/VanRonkDave.htm) & [Dick Ellington](http://recollectionbooks.com/bleed/Encyclopedia/EllingtonDick.htm) put together & published the fabulous Bosses Songbook, circa 1964. A small anarchist contribution to the needy & deserving.
->
-> <http://www.richardandmimi.com/posters.html>\
-
-[]()\
-\
-1968 -- US: Battle of Lincoln Park; Democratic Convention in Chicago: demonstrations & police riot; 10,000(?) demonstrators vs. 11,000 Chicago police, 6,000 National Guard, 7,500 U.S. army troops & 1,000 FBI, CIA & army/navy intelligence services agents (Dump the Hump nominated on a platform supporting the Vietnam War.)
-
-> 
->
-> ------------------------------------------------------------------------
->
-> Police club people attending a music festival in Lincoln Park who refuse to leave at curfew. Rennie Davis & Tom Hayden meet to lead march to the Conrad Hilton, the main Convention hotel. 
->
-> At 9 p.m., police confront & attack some demonstrators. Jerry Rubin allegedly urges demonstrators to attack police.
->
-> At 10:30 p.m., two police officers observe the future Beloved & Respected Comrade Senator From California Tom Hayden letting the air out of tires of their police car.
->
-> The Hog Farm commune, during the protests rightly nominated a pig for president.
->
-> \
-> <http://www.geocities.com/Athens/Delphi/1553/>\
-> <http://www.greenleft.org.au/back/1997/278/278p27.htm>\
-> 
->
-> ------------------------------------------------------------------------
->
-> []()\
-> []()\
-> \
-> 1977 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> Police break up a human-rights march by 2,000 Filipinos - 100 injured. []()\
-> []()\
-> \
-> 1981 -- John Lennon's murderer, Mark David Chapman, gets 20 years in prison. []()\
-> []()\
-> \
-> 1981 -- Outer Space: Voyager 2's closest approach to Saturn (63,000 miles/100,000 km). []()\
-> []()\
-> \
-> 1984 -- In Cold Blood?: Truman Capote dies. Southern Gothic novelist, journalist, & celebrated man-about-town who wrote Breakfast at Tiffany's. []()\
-> []()\
-> \
-> 1985 -- US: White House confirms Beloved & Respected Comrade Fink (see 1819 entry today) [Ronald Reagan](http://recollectionbooks.com/siml/library/reagan.htm) was an FBI informant (with his own secret number) in Hollywood in the late 1940s while heading the Screen Actors Guild.
->
-> > "Thanks for a nation of finks. Thanks for a nation where nobody is allowed to mind their own business."
+> > <img src="http://www.pulpcards.com/largeimg/pc-067.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="right" data-="" width="216" height="346" alt=" ? " />\
+> > 1984 -- Paul & Linda McCartney arrested in Barbados -- possession of marijuana.
 > >
-> > William S. Burroughs
+> > > Since Clinton came into office the number of marijuana arrests has not only nearly doubled but is greater than the entire population of Chicago.\
+> > > The Federal snitch program often rewards the guiltiest & punishes the less guilty, with minor offenders given sentences ranging from 5 years to life without parole, when dealers snitch on anyone to avoid going to jail or to reduce their sentences. The snitch program allows any person to be convicted without physical evidence, solely on the testimony of one individual (ie, drug dealer), without corroboration. Since the US "Drug War" has been proclaimed, the percentage of major dealers sentenced to prison remains under 10% of all drug-related convictions.
+> >
+> > <http://www.pbs.org/wgbh/pages/frontline/shows/snitch/>\
+> > <http://www.seattlehempfest.com/>\
+> > <http://www.pulpcards.com/>\
+>
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/film/sigourneyWeaver.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="200" height="386" alt="Sigourney Weaver" />\
+> > 1985 -- Rwanda: Dian Fossey, primatologist, is killed by poachers, Karisoke Center.\
+> > <http://www.gorillafund.org/000_core_frmset.html>\
+> > <http://www.omnipotent.com/addvalue/sigourney_weaver.html>\
+> > \
+> > 1986 -- US: Energy Department announces 12 potential nuclear waste sites in eastern U.S., including Penobscot site in Maine only re-granted to them six years before, along with four other tribal sites. []()\
+> > []()\
+> > \
+> > 1991 -- US invades Kuwait & Iraq. Several dozen US troops (many victims of "friendly fire") & up to 400,000 Iraqi citizens die in the following weeks. An estimated 1,000,000 Iraqis die a vast number being children due to the effects of the following five years of U.S.-led global economic embargo. Former US Attorney General Ramsey Clark has termed this US policy genocide.
+> >
+> > > A NY Times editorial, 3-30-1991, claims:
+> > >
+> > > "America's victory in the Persian Gulf war...provided special vindication for the US Army, which brilliantly exploited its firepower & mobility & in the process erased memories of its grievous difficulties in Vietnam."
+> > >
+> > > Black poet June Jordan thought otherwise:
+> > >
+> > > "I suggest to you it's a hit the same way that crack is, & it doesn't last long."
+> >
+> > "The War & the Spectacle" (on the Gulf war & the media),\
+> > <http://www.bopsecrets.org/PS/gulfwar.htm>\
+> > []()\
+> > \
+> > 1992 -- El Salvador: Government & FMLN rebels sign a peace accord, formally ending their 12-year-old civil war. []()\
+> > []()\
+> > \
+> > 1996 -- Jamaica: Where's the Beef? Authorities open fire on Jimmy Buffett's seaplane, mistaking(?) it for a drug trafficker's plane. U2 singer Bono was with Buffett, but neither was hurt.
+> >
+> > > US WAR ON COWS? or, Next Stop, Afghanistan Heroin:
+> > >
+> > > The Colombian ambassador to the US has suggested that if America gives 50 cows to every Colombian family that grows coca, it will induce them to change their choice of agricultural product.
+> >
+> > []()\
+> >
+> > []()\
+> > \
+> > 3000 --
+> >
+> > > "I find television very educating.
+> > >
+> > >  Every time somebody turns on the set,
+> > >
+> > > I go into the other room & read a book."
+> > >
+> > >        Groucho Marx(ist)
+> >
+> > []()\
+> >
+> > > []()\
+> > > \
+> > > <img src="http://recollectionbooks.com/bleed/images/humor/antibro8.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="139" height="37" alt="Netscape 6" />\
+> > > 4000 --
 >
 > []()\
 > []()\
 > \
-> 1992 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> Brazil: 200,000 demonstrate for Beloved & Respected Comrade Leader Pres. Collor's impeachment, Sao Paulo. []()\
-> []()\
-> \
-> 1994 -- Robert Plant & Jimmy Page reunite in a London studio to record their MTV "Unplugged" show, which they call, "Unledded." []()\
-> []()\
-> \
-> 1997 -- Robert Pinget dies. Novelist & playwright. []()\
-> []()\
-> \
-> 1997 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> Honduras: Beloved & Respected comrade Colonel Manuel Suarez Benavides is arrested for human-rights abuses. []()\
-> []()\
-> \
-> 1999 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> US: "Salon" reports on an allegation that Beloved & Respected Comrade G.W. Bush performed community service in Texass to expunge a criminal record. A clean slate for scribbling on again. []()\
-> []()\
-> \
-> 2000 -- <img src="http://recollectionbooks.com/bleed/images/dingbats/symbRbt.gif" data-border="0" data-hspace="0" data-vspace="0" data-align="top" width="10" height="11" alt="Source=Robert Braunwart" /> US: Last Call? Coors Brewery spills 300,000 litres of beer into a Colorado creek. Rather than belly-up to the bar, the fish belly-up to heaven. []()\
-> []()\
-> \
-> 2003 -- US: Pony Up? Three days after the Landed Gentry doff their feedbags (\$2,000 each) & Beloved & Repected Comrade Bush rides off with 1.2 million bucks for his meagre campaign coffers, the homeless scratch their bellies & the Seattle Public Library lays off its workers & shuts down for one full week in a fine tribute to tax relief for our betters. Something for the McCawCaws to crow about. He'll come back & do it again in 2004, travel expenses all paid for by American taxpayers.
+> <img src="http://www.runet.edu/~wkovarik/design/13.commie.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="216" height="291" alt="?" />\
+> 4000 --
 >
-> []()\
-> []()\
-> \
-> 4000 -- []()\
-> <img src="http://recollectionbooks.com/bleed/images/BB/BushBeans.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="200" height="280" alt="canned Bush Beans, half baked" /> []()\
+> <http://www.geocities.com/ashaumyan/links.html>\
+>
+> <div align="right">
+>
+>  []()\
 >
 > ------------------------------------------------------------------------
 >
-> anti-CopyRite 1997-3000, more or less\
+> anti-CopyRite 2000-3000, more or less\
 > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
 > or send questions, suggestions, additions, corrections to:\
 > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
@@ -503,3 +373,5 @@ extractor: site_to_paper.py (pandoc)
 > http://recollectionbooks.com/siml/\
 > Anarchist Time Line / Chronology\
 > http://recollectionbooks.com/bleed/indexTimeline.htm
+>
+> </div>

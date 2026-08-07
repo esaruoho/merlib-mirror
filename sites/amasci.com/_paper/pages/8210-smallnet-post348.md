@@ -1,0 +1,365 @@
+---
+title: "SMALLnet post348"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post348.html
+order: 8210
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:53Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post348
+
+*Source page: `~smallnet/Archive/post348.html`*
+
+## SMALLnet Posting post348
+
+------------------------------------------------------------------------
+
+**Date: Sat, 23 Sep 2000 09:36:51 -0500**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet/> \>
+
+<div class="Joe">
+
+...Gang, I've gone and done it again. Bill Lee sent in the information about basswood's being available from Lone Star, and included their web site address. "For the sake of completeness", I inserted the other address data.
+
+Unfortunately I chose the wrong issue of a model magazine to obtain the address etc. from. Don't blame Bill for this mistake. It was my fault for trying to "improve" his input. \[JW\]
+
+</div>
+
+Byron Lechler \< 
+
+ \> and several others pounced on the wrong address, and offered similar corrections to Byron's:
+
+<span id="18"></span>
+
+<div class="green">
+
+Vendor: Lonestar Models\
+
+</div>
+
+<span id="19"></span>
+
+<div class="green">
+
+Source: Basswood\
+
+</div>
+
+Bill Lee was right about Lone Star Models being a good source for basswood. Howsomever -- the address given was incorrect. A year or two ago Lone Star moved to the Dallas area. Their address is:\
+Lone Star Models\
+115 Industrial St.\
+Lancaster, Texas 75134 Phone 972-218-9663\
+FAX 972-218-9211 Order 1-800-687-5555\
+Minimum Wood orders are \$15.00 + \$6.50 + 8.25% tax if you live in Texas. UPS shipping is free. Check out their ad in Model Aviation --- Their prices are hard to beat. Byron Lechler
+
+Bill Lee adds:
+
+Can't speak for Balsa USA, but Lone Star definitely does NOT buy their basswood from Joe Deppe. That's not a knock on Joe's product, just a clarification for accuracy. Lone Star has their own supplier of bulk basswood; they do all of their own cutting and sanding, just as they do for all of their balsa.
+
+Bill Lee\
+Webmaster\
+Lonestar Models\
+
+Fernando Ramos \< 
+
+ \> wrote:
+
+Just a quick remark regarding Joe Deppe's basswood. I have been using his stock for several years, and it's the best quality I have found. I used to buy basswood from model railroad shops, but the stock pieces are no longer than 24" -- when they have it.
+
+I have 4-footers that I use for laminating complete wing trailing edges and tips. I place an order with Joe and pick it up at the FAC Nationals. Incidentally, I substitute 3/32" square basswood for balsa when building a small FF scale model (.015 -.020 cu.in.)
+
+Fernando Ramos
+
+Carl Risteen \< 
+
+ \> adds:
+
+In continuation of the discussion re virtues of basswood, many years ago I used a lot of basswood with excellent results, buying it from a local lumber yard in huge planks, then sawing and sanding it to any size I desired. I found it easier to work than spruce.
+
+My wood design reference book calls basswood a hardwood, while spruce is, of course, a softwood. Basswood density is listed as 26 pounds per cubic foot, while both Sitka and White spruce are slightly heavier, at 28 pounds per cubic foot, all at 12% moisture content by weight.
+
+Modulus of rupture is a useful indicator of solid beam bending strength. It is slightly higher than ultimate tensile strength, due to reduction of elastic modulus near the ultimate strength.
+
+Basswood has a modulus of rupture of 8700 psi (pounds per square inch), while Sitka and White spruce chime in at 10,200 and 9800 psi, respectively. Thus, basswood appears to have a strength to weight ratio about 92% as high as Sitka spruce's.
+
+Basswood's tensile strength across the grain is nearly the same as spruce's, at 350 psi versus 370 psi, so it should have about the same resistance to splitting as spruce. Basswood's shear strength parallel to the grain is a bit lower than spruce's, at 990 psi versus 1150 psi. Basswood's modulus of elasticity is given as 1460 psi, versus Sitka spruce's 1570 psi, so it is the same as spruce in relation to its weight.
+
+Sitka spruce has been very popular among full-size aircraft builders for many decades. The reason may be its truly outstanding attribute, impact strength, at 56% higher than basswood's. Basswood finishes in a distant second place in crash damage resistance.
+
+Basswood also takes a back seat to spruce in crushing strength across the grain, at 4730 versus 5610 psi. Sitka spruce appears to have the highest strength to weight ratio of any wood, higher even than that of hickory, the strongest wood listed.
+
+I have conducted quite a few tests for modulus of rupture of balsa, and have found that balsa weighing at least 12 pounds per cubic foot to have a strength to weight ratio nearly the same as spruce's. Six pound stock had only about 1/4 the strength of 12 pound stock, so it has about half the strength to weight ratio, and soft balsa's impact strength is vastly inferior to that of the harder stuff.
+
+Wood is a wonderful material for airplanes. It has a strength to weight ratio virtually the same as the WW2 vintage aircraft aluminum alloy 2024; much higher fatigue resistance and impact strength in relation to its weight; and it is easier to join. The success of the all-wood DeHavilland Mosquito bomber testifies to this.
+
+Carl Risteen
+
+<span id="112"></span>
+
+<div class="green">
+
+Source: Basswood, venetian blind slats\
+
+</div>
+
+<span id="113"></span>
+
+<div class="green">
+
+Vendor: American Science & Surplus\
+
+</div>
+
+<div class="Joe">
+
+...By "blind luck" I've found out that (1) a major use for basswood is venetian blind slats. And (2) those are available CHEAP from American Science & Surplus, 3605 Howard Street, Skokie, Illinois 60076 --- (847) 982-0870. They have 1/8" thick basswood in two widths: 1" and 2" -- and three lengths: 25", 31", and 37".
+
+American Science & Surplus is overloaded with this wood, and have it available in "case lots" -- plus some long stock: up to nine feet overall! Typical prices: 1/8" X 1" X 25" is 10 for \$2.50; 1/8" X 2" X 37" is 5 for \$3.75.
+
+That should be about IT for the basswood topic... \[JW\]
+
+</div>
+
+Jim Tait \< 
+
+ \> is grateful:
+
+Thanks to Larry Renger for the help with my Venom! I am off to the shop to see what I can come up with. We have hot competition in Florida with a young flier from South Florida with his homemade engine. He turns 23,000 with a 4 1/2-inch prop. Great flying engine! Moulded glass plane too!
+
+Thanks for your help, Jim Tait
+
+John Reid \< 
+
+ \> wrote from New Zealand:
+
+This is my first contribution. Here's how I made replacement gaskets for the Cox Pee Wee intake tube.
+
+Isn't it the main problem with Cox motors, all the gaskets and potential air leaks they have? A leak in any one will cause poor running or no running.
+
+A kid gets a new motor. It starts OK out of the box. Pretty soon a leak starts, often between the tank and the crankcase. You or I can figure it out, but not a kid.
+
+By comparison a PAW for instance is harder to learn at first but nothing goes wrong that can't be fixed by taking out the needle valve and blowing.
+
+Anyway back to the point. I used about half an inch of silicone fuel tubing, slid it on to a straight bit of bamboo kebab skewer, chucked it in a drill (minimum overhang), and took slices with a stiff-backed razor blade. It is hard to judge the width of cut, but you can make ten gaskets in about fifteen seconds. Some of them will be right.
+
+John Reid
+
+Mike Sommer \< 
+
+ \> sent in his first contribution:
+
+I've been lurking around SMALLnet for a few weeks, as I get used to the hobby again from a five-year absence. I have a few questions for somebody who has experience with the Pee Wee .020.
+
+I was poking around inside mine and noticed the ball and socket on the piston looked quite loose (approximately 10 to 15 thousandths end play). Also, the crankshaft had a lot of radial clearance. This engine has barely had 4 ounces of fuel through it.
+
+I was poking around with an eye to making a fuel tank extender, so the hint for making new gaskets is timely, as now I will need twice as many of those little guys.
+
+Here's my questions. How much clearance should there be in the conrod socket? It looks as though it needs to be reset, but I have no idea just how loose it needs to be.
+
+How much more powerful was the TD compared to the Pee Wee? The plane I want to put it in uses a cut-down Ace wing for 144 square inches, designed for .020 to .030, with an RTF weight of 10 ounces. The prototype used the TD, and since it and the G-Mark .03 don't seem to be available any more, my engine choices are pretty limited.
+
+Thanks in advance for any help, Mike
+
+P.S. I managed to buy (2) NIP Cox p/n 1259 .049 reed valve backplate/venturi for remote tank mounting at a shop in the next town 150 Km away. How long has it been since you've seen one of those, Joe?
+
+<div class="Joe">
+
+...Not long, Mike -- there seem to still be a few of these gathering dust in various US small-town hobby shops. And you can find them on engines taken out of discarded plastic C/L airplanes too. That's good, because these backplate assemblies contain spraybar-type needle valves, which are far more reliable in flight than the sort used in the Babe Bee, Black Widow, etc.
+
+As for the conrod clearance, I re-set my loose sockets to provide about .001 play. Since it's impossible to measure that directly, I go by the "educated feel" method. I snug up gradually on the socket (with a Cox re-setting tool, a small ball-peen hammer, and a polished tool steel block for an "anvil") until I can JUST freely move the rod axially, without it either binding or rattling.
+
+As for the power comparison between the Pee Wee and Tee Dee .020, that depends a LOT on the propeller -- I think of "power" in terms of useful thrust. But as a rough "ballpark comparison", I'd say that the Tee Dee produced about 40% more power in a small R/C airplane than the Pee Wee. For free flight application, that's a totally different situation! \[JW\]
+
+</div>
+
+Mike Cook \< 
+
+ \> wonders:
+
+I am very much taken with the looks of the new SIG Rascal. Assuming that a kit for one appears under the Christmas tree in a few months, I have a brand-new, never-run Cox Queen Bee 074 that I would like to put in it.
+
+Does anyone have any constructive comments about the character- istics of the Queen Bee? I'm prepared to deal with the rear carburetor, etc., as long as I can expect it to run reasonably well. Advice will be appreciated.
+
+Mike Cook
+
+<div class="Joe">
+
+...Mike, two modifications to the throttle were needed to get my Queen Bee operating reliably. First remove & discard the intake screen. (Just pry it out with a sharp-pointed tool.) Then with a \#60 drill bit in a pin vise, drill an air bleed hole through the carb barrel housing, slightly above the horizontal centerline.
+
+A further weakness of the Queen Bee that I felt needed correction is the extremely short threaded length of the muffler attachment screws. (These are \# 2-56 as I recall -- I no longer have the engine, so I can't check to be CERTAIN.)
+
+Anyway, I drilled the holes deeper in the cylinder portion and tapped them about three times as deep as the original setup. Then I replaced the short screws with longer ones. \[JW\]
+
+</div>
+
+Milton Dickey \< 
+
+ \> is also a Cox inquirer:
+
+I am a hopeless Cox-a-holic and have a question about .049 cylinders for Larry Renger, or anyone else who has the answer:
+
+I use modified Tee Dees in my hi-performance R/C scratch-designed S.M.A.L.L. aircraft, and have run across 2 cylinders that run great with exhaust throttle sleeves -- but have been unable to locate any more. They have the widest rpm range of any I have tried.
+
+They have the "twin slit" exhaust ports without sub-piston induction yet have the additional small milled port alongside each of the 2 standard bypass ports (as in the modern TD cylinder) and a ground finish on the outside of the lower cylinder.
+
+What engine(s) came with that cylinder, and what is the part number of the cylinder? If it is available in the same porting configuration without the ground finish, it would be even better: I wouldn't have to custom-make an exhaust sleeve to fit the smaller O.D.
+
+Using this cylinder, (with the center exhaust bridge milled off) and a bushed-down (.092") venturi, I can get a consistent 6000 rpm idle with great throttle response plus a top end of 17000 -17500 on a black Cox 6X3 nylon. Thanks! Milton Dickey
+
+Brian Allen \< 
+
+ \> needs to know:
+
+I was rustling through the shelves last night and I came across a coupla NIB Cox motors that I have had for who knows how long (also found a NIB G-Mark .030 with throttle). Amazing what you find when you are not looking for anything in particular.
+
+In any event, two of the Cox engines were missing the prop screw/ metal spinner doohickey. Anyone know where I can get these items?
+
+Many thanks. Brian Allen
+
+<span id="281"></span>
+
+<div class="green">
+
+Source: Engine Parts, 1/2A\
+
+</div>
+
+<div class="Joe">
+
+...Brian, the most comprehensive source for 1/2A engine parts that I know of is Dan Sitter, 13674 Bennington Court, Fontana, California 92336: . \[JW\]
+
+</div>
+
+Gurth Scriven \< 
+
+ \> asks:
+
+What are the favoured glow motors for the Sig "Wonder" over there? I'm not looking for ballistic performance, but just a weekend aerobat that doesn't take up a lot of space in the car. The O.S.15LA seems nice -- but I don't have a motor of this size -- so any ideas, chaps?
+
+PLEASE don't suggest Norvel or PAW. The correspondence on these two manufacturers is getting just a little bit tedious! I just want something I can fit and fly.
+
+Cheers -- Gurth
+
+Roy Clough \< 
+
+ \> contributed:
+
+Mike Gillihan might find my article on Toyfoam Gliders in R/C Report, September 1997, of interest. I outlined several of my experiments using single-channel Cox FailSafe Radios gussied up to control ailerons, rudder and elevators. That is, any two controls with a single channel.
+
+The toy foam planes I used, also powered with the Cox PeeWee, were an earlier version, same size but with more wing sweepback than the newer UltraFliers.
+
+He might find my "Cyberon" control of interest. This was a front- mounted rudder that led the plane around by the nose. When the Failsafe radio first came out, I built several versions of my "WIZ" (Flying Models, May 1998) in which the control would operate the rudder on one deflection and up elevator on the other.
+
+Takes very little getting used to -- just operate two different surfaces with string pulls, so the unused side will go slack instead of countering the other control. Set up the model to turn left with no control input, connect one side to right rudder (which, if held, will drop the nose) and the other side of the arm to the up elevator.
+
+Little twiddles of right stick keep the model flying straight. Drop the nose with a turn and bring it up with the elevator. Like Mike, I was delighted with the flight qualities of what, at first, struck me as the epitome of El Cheapo.
+
+Lately I've been looking at these things and remembering Ken Willard's brilliant trick of almost invisibly connecting several small models rigidly together, and wowing the crowd with an exhibition of masterful "formation" flying. Three or four UltraFliers, with one of them fitted with a hot .049, might reprise this trick.
+
+Roy C.
+
+Ed Toner \< 
+
+ \> opines:
+
+Jan, Great website. Thanks for sharing, and welcome aboard. That Pistachio Tiger Moth is really something.
+
+BTW, for a great detailed P-Nut, see the November 2000 cover of Flying Models. Tom Hallman's Airco DH-2 is a flying museum piece.
+
+Ed Toner
+
+Ian L. McQueen \< 
+
+ \> wrote:
+
+Jim Rundle wondered why lock washers aren't used on propeller nuts. Lock washers are generally useless. If the nut has begun to loosen on its own, a lock washer will not keep it from turning further.. I got this information from a very informative booklet put out by a fasteners manufacturer.
+
+The key to keeping a nut from loosening (apart from double- nutting/lock-nutting) is just to tighten it so as to stress the bolt/ screw sufficiently. This produces much more compressive force than a lock washer can exert. If a prop hub crushes, it may be necessary to re-tighten the nut for the first few runs and from time to time afterward. Ian M
+
+<div class="Joe">
+
+...Ian also sent some e-mails concerning errors and omissions on the Noorduyn Norseman plans that several SMALLsters ordered. From the "address data" in the headers of these messages it appears that Ian e-mailed this information directly to the people who ordered plans through him. He also evidently has 3-views available on-line (which I can't receive here: Juno is a text-only service).
+
+If you have any questions about these Norseman model plans, contact Ian directly. \[JW\]
+
+</div>
+
+Peter Havriluk \< 
+
+ \> wrote;
+
+re: Cipolla .09's. Many years ago I built up a Comet Taylorcraft from plans and powered it with a plain-venturi (no carburetor) Cipolla .09 glow, Cox 7x3.5 gray plastic propeller. The airplane weighted 32 ounces ready to fly, and it was a rocket ship. I was amazed how fast it flew.
+
+With today's lighter batteries and receivers, I suspect I could knock off two ounces. I later obtained the Diesel version of the engine, but I have never flown the Taylorcraft with the Diesel.
+
+My experience with the engines suggest that they run well, but are crudely made. (My Diesel was full of metal chips when I obtained it). I have no idea what changes are wrought by using a carburetor. Peter
+
+Jim Rundle \< 
+
+ \> adds to that:
+
+Ian McQueen kindly responded to my request for information about the Cipolla .09. Ian has not owned one himself, but has a friend in Japan who'd had an unhappy experience with one more than ten years ago. Ian asked for his comments, and passed them on to me along with permission to send them on to SMALLnet. So what follows is what Ian received from his friend (apparently a description of the diesel version), slightly edited:
+
+"The Cipolla was very weak and they all had rod problems like mine. It was due in part to some basic design flaw, and to the ABC engine's tightness if not broken in at that fast 4-cycle. Lemons, most of them. It ran OK, like a dieselized Cox Tee Dee, I guess. It seem happiest on a 7x3 prop. Way oversquare and schneurle ported. Had a world-wide reputation for fragility... OPPOSITE of the Enya .06D.
+
+"The Silver Swallow .09D (Now CS) is OK and compares favorably with Enya .06D, if you get a good one. The broken-in Enya .06D turns a 7x3 prop faster than a PAW Schneurle .09 (CL/FF venturis) on your 25% castor fuel! (I used to live in Japan and made diesel fuel.)
+
+"It's well known that the .06D Enya is a very powerful \[colorful phrase deleted\]! And flexible...props up to 10x3. They have a smaller box muffler too." -- Nathan Sturman via Ian McQueen
+
+I don't about the "PAW Schneurle," (does it exist?) but the fellow who recently reported buying an Enya .06 diesel should be encouraged by this report.
+
+<span id="419"></span>
+
+<div class="green">
+
+Source: Engines, Cipolla, Modela, CS\
+
+</div>
+
+Hobby Club still carries the glow version of the .09 (and other Cipollas, including a huskier-looking "Black Dragon" .10), but not the diesel. They also carry Modela glow and diesel, CS, John diesels, electrics, CO2s, park fliers, etc. -- \< <http://www.hobbyclub.com/framespage.htm> \> Jim Rundle
+
+Michael Rolls \< 
+
+ \> responded:
+
+PAW prop nuts: I was very surprised to hear of folk stripping these items. I have used PAWs for over 30 years and have never stripped a nut nor a shaft. I have stripped aluminium spinner nuts once or twice - the last time about 40 years ago!
+
+What are people using to tighten them - or what sort of nuts are they using? I wouldn't want to be thought xenophobic - I have also never stripped steel nuts on any motor regardless of where it came from, with one exception - I had a Czech Tono 35 which had a very short length of shaft with only one or two threads protruding past the prop face on a 6" pitch prop; and stupidly tried to tighten it: instant stripping.
+
+Take care, Mike
+
+<div class="Joe">
+
+...Mike, I believe that PAW purchased a batch of poor-quality prop nuts about ten years ago for use on the .09. I bought two .09's circa 1991 and both came with quite loose-fitting nuts. The replacement nuts I obtained from Eric Clutton were no better. That's why I obtained a \#1 BA tap from Britain and made my own propeller nuts for my .09's. \[JW\]
+
+</div>
+
+Mike Kerry \< 
+
+ \> contributed:
+
+I think I'll creep out of 'lurk' mode and make a few comments:
+
+1\) Re Posting 347's mention of E-power models, my first one looked like this: weight 18.75 ounces (with 7 x 500 mAh ni-cad cells); wing area 480 squinches (60" x 8"), Speed 400 + 4.5 gearbox, prop 13.5"x7", covered in 5-micron mylar (wings). Flying speed 5 mph to 9 mph (ish) dependent on trim setting. Duration, in no-lift air, \> 30 minutes.
+
+2\) Recently purchased a little Hawker Tempest from HobbyHangar \< <http://www.hobbyhangar.com> \>. Most impressed with laser cutting, wood selection and build manual (pictures could be a little better, but the U S price was right!). It's due to be powered by an Irvine 20 ABC. I'll try and keep you posted on the build and fly of this model.
+
+3\) Re Posting 340, could I please have an address, E-mail or web site for Gus Morfis (Me 262 planset)?
+
+Thanks, Mike Kerry
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

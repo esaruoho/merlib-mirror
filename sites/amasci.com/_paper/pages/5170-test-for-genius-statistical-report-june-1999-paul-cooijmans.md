@@ -1,0 +1,106 @@
+---
+title: "Test For Genius Statistical report June 1999 Paul Cooijmans"
+source_domain: amasci.com
+source_path: ~miyaguch/tfg/tfgnorm9906.html
+order: 5170
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:12:09Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Test For Genius Statistical report June 1999 Paul Cooijmans
+
+*Source page: `~miyaguch/tfg/tfgnorm9906.html`*
+
+Test  For  Genius
+                               Statistical report June 1999
+                                     Paul  Cooijmans
+                                         Pb   44
+                                    5737 ZG  LIESHOUT
+                                       NETHERLANDS
+
+       The TFG, created 1995, revised 1996,      Corrleation with other tests:
+    contains 43 problems, 3 of which are
+    solved in advance.  The scores so far     Test                       #     cor
+    obtained (only first attempts are in-     Ultra Test                 3     1
+    cluded):                                  Chimera Test               5     .96
+                                              Final Test                 12    .94
+       # right    frequency                   Long Test for Genius       12    .91
+       0          ..                          Langdon SFIT               3     .9
+       1          ...                         Mega Test                  11    .74
+       2          ......                      Titan Test                 8     .74
+       3          ........                    Raven APM                  9     .64
+       3.5        .                           CHART                      10    .53
+       4          ......                      Power Test                 4     .52
+       5          ..                          GRE                        4     .45
+       6          ...                         A-x (Association)          9     .45
+       7          ....                        Cooijmans IT               5     .16
+       8          ..                          Cattell Culture Fair       7     -.17
+       8.5        .
+       9          .                           Other (aggregate)          46    .44
+       10         ..
+       11         .                              The "other" tests (less than 3
+       12         ..                          scores each) are Nemesis Test, SAT,
+       12.5       .                           WAIS, LAIT, Drenth number series, Stan-
+       13.5       .                           ford-Binet, CTMM, Quest, Numbers,
+       14         .                           Mbius, NUTE, MAT, unspecified tests,
+       15         ..                          California Test of Logical Relations,
+       16         .                           Collegium Entrance Exam, Cattell B, W-
+       16.5       .                           87, Analogies #1, Eight Item Test, Test
+       17         .                           to End All Tests.
+       21.5       .
+       25         .                              To ensure objectivity and avoid ar-
+       27         .                           bitrary decisions, all reported prior
+                                              scores are used in norming, however
+       As a measure of internal consisten-    weighted by the square of their corre-
+    cy, the correlation between odd-item      lation multiplied by 10.  E.g., a cor-
+    and even-item scores was computed as      relation of .8 would give a weight of
+    .84.                                      6, meaning the score pairs from that
+                                              test would each be used 6 times.
+
+                                                 Raw and prior scores are arranged in
+                                              two columns of numerical order, the
+                                              highest raw score facing the highest
+                                              prior IQ (prior scores are if needed
+                                              converted to an IQ scale with 16 points
+                                              per standard deviation), etc.  For each
+                                              raw score, the median of the IQs facing
+                                              it is used to norm that score.  Missing
+                                              scores are interpolated and scores 28
+                                              to 40 are extrapolated.
+
+    # right   IQ     %ile
+    1         130    96.9                     24        175   99.99985
+    2         133    98                       25        176   99.9999
+    3         137    98.9                     26        178   99.99994
+    4-5       140    99.3                     27        180   99.99997
+    6         144    99.7                     28        182   99.999986
+    7         145    99.75                    29        184   99.999993
+    8-9       148    99.87                    30        186   99.999997
+    10        150    99.91                    31        188   99.999998
+    11        151    99.93                    32        190   99.999999
+    12        153    99.95                    33        192   99.9999994
+    13        154    99.96                    34        194   99.9999997
+    14-15     156    99.98                    35        196   99.9999999
+    16        158    99.986                   37        198   99.99999994
+    17        168    99.999                   38        202   99.99999999
+    18        169    99.9994                  39        204   99.999999994
+    19        170    99.9995                  40        207   99.999999999
+    20        171    99.9996
+    21        172    99.9997
+    22-23     174    99.9998
+
+       The Test for Genius can be obtained
+    from the address on top for 1 dollar.
+
+       TFG is accepted for admission to the
+    Top One Percent Society (138), One in A
+    THousand Society (150), Glia Society
+    (150), Centurie (170), Giga Society
+    (196) and Grail Society (207).
+
+                     * * *
+
+Return to the [Uncommonly Difficult I.Q. Tests](http://www.eskimo.com/~miyaguch/hoeflin.html) page.

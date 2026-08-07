@@ -1,0 +1,59 @@
+---
+title: "A DAY AT THE RIDGE"
+source_domain: amasci.com
+source_path: ~knapper/a_day_at_the_ridge.htm
+order: 4366
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:11:08Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# A DAY AT THE RIDGE
+
+*Source page: `~knapper/a_day_at_the_ridge.htm`*
+
+A DAY AT THE RIDGE
+
+By Ed Moreland
+
+ 
+
+Its early morning as I pull into the Nethers farm. Im the only one here as I back in the path and shut the truck down. I get out and walk over to the pits and survey the situation. I decide to dig in the northern-most pit today, as the flint exposed is pretty good quality. Its quiet this morning as I watch the birds and a couple of squirrels playing in a near by tree. I look to the east and watch the morning sun coming up through the trees, as I pour a hot cup of coffee. I reflect back a few thousand years to when ancient man was at this same location to quarry flint for his tools and survival. What did it look like back then? Were there trees? Did he camp here for the season or did he make a one-time, annual pilgrimage? My daydream is interrupted as a vehicle approaches down the road. It slows and turns in the path. Yep, it's Roy Miller. We planned this dig earlier in the week and decided to start early as the weatherman called for temperatures in the upper 80's and high humidity.
+
+After we finished the small talk and coffee, we got to work. We unloaded the tools and buckets and proceeded down into the pit. This head (as we call the flint layer) was about 3 feet below the surface and showed signs of yielding some good flint, although it was predominately gray in color, but of good knapping quality. After removing some over-burden and debitage, we started with the hammer and chisels, soon removing some of the flint from the bed. I knew it was going to get hot today as I was already sweating after a half-hour of digging! You tend to forget the sweat and pain as you slowly fill your buckets with Flint Ridge flint. We consider this material to be some of the finest knappable stone in the U.S.
+
+Flint Ridge is located in East Central Ohio, east of the city of Newark and west of city of Zanesville. Its geographically located in a line of rugged hills and is actually an irregular plateau, running in a line from east to west. Elevation is an average of 1200' above sea level, but decreases gradually towards the eastern side of the Ridge.
+
+This flint (*actually classed as chert*) is known geologically as Vanport of the Pennsylvanian age of the Allegany Region. The area of the Ridge is approximately 6 sq. miles. The flint deposits are anywhere from 1-12 in thickness but average 4-6' in thickness, and it sits on top of fossilferrous shale or limestone. This is said to have formed in shallow seas millions of years ago by siliceous spicules, which formed the skeletal support for sponges that lived on the ocean floor.
+
+Flint from the Ridge is predominately gray in color, but added impurities make up the color in the stone. Every color of the rainbow is found at Flint Ridge, in reds, blues, white, yellow, orange, brown, black, with green (only from heat treating) and purple being the rarest of colors. The Hopewell culture found that heat treating gave them sharper edges for their fine cutting tools, but they probably also liked the color enhancement it gave them. They had core workshops around the Ridge. As proof, thousands of bladelets and cores have been found by many surface hunters, all being highly cooked and colorful. This highly heated material is often referred to as Flint Ridge jewel flint.
+
+The flint ranges from the highest grade Chalcedony to a low silica, porous chert that ancient man didn't find suitable for tool manufacturing. Samples from various pits tested contained 98.93% pure silica (*Stout 1948*). The quality and color no doubt captured the eye of the Paleo hunters; through years of erosion they found outcrops of the flint. However the surface flint was most likely weather checked, and they found that the flint below the surface much better suited for knives, scrapers, projectile points and tools for survival. He found that just below the cortex covering much of the flint, the highest grade of knappable flint was obtained. But in many pits excavated by William C. Mills (an early Ohio Archaeologist) in the early twenties, it was seen that much of this high quality flint had been entirely removed. Removal was done with hammer stones carried in from distant steams and rivers. These ranged from golf ball size to 25 lb. monsters, and were used to loosen the formation of flint. Antler, bone and wood were also used to pry and to wedge into the cracks and fissures. Anyone who has dug there in our time knows how hard it is to get the flint out, even with modern tools. It gives you great appreciation for the task at hand for the ancient ones. They sunk hundreds of quarry pits, many are still evident today, along with debitage flakes in every field for miles around the Ridge.
+
+It is said that Indians from all surrounding areas came here to get their flint, that it was neutral territory and workers were immune from attack and assault. This might be true, but I have a hunch the most powerful tribe or group controlled the Ridge and the trade value of the first industry in what we know as Ohio. Historically, the first white settlers in the area found the flint useful for flints for their rifles, and the porous flint was used for small burh stones for grinding grain for flour. Large gristmill stones were also made from the flint. Quarrying still goes on today, although the backhoe is an important tool, which saves a lot of back muscle. You see, the dirt that covers the flint is the meanest and nastiest clay soil I've dug in. Dry, its the equivalent to concrete; wet, it sticks to everything. Its kinda like getting a booger off your finger.
+
+Once a hole is opened down to the flint, heavy tools are required to get the flint out. Many times we see newbies come with lightweight tools, and end up discouraged because the flint ate their tools. You
+
+should have a couple each of a and 1" cold chisels, heavy crow bar, spud bar, 3 to 5 LB. sledge, shovel, pick, a copper billet or hammerstone, leather gloves, EYE PROTECTION, and some Band-Aids aren't a bad idea either. I find an old piece of carpet good for knee protection also. Oh yea, a lot of water to drink is vital for the summer months. A small broom is very handy as well for brushing the dirt away from the layer. Dont forget the sunscreen and bug repellant. A water bucket is a must to wash the sticky clay off of the stone.
+
+The flint you dig will have to be spalled out, but the amount you get for chipping is only about 10% on a good day. It doesn't come out in big pieces either, (remember this is Ohio, not Texas); the average size is only 3-4" plates or chunks. On occasion you will get some chunks; these we slab with a rock saw to get the maximum size possible, but they are rare.
+
+I've been fortunate to dig with Roy Miller and Gary Hardy, both whom own backhoes and own a piece of the Ridge. They both knap and sell some flint for lapidary and knapping people. Roy has been running around the Ridge for 20 plus years, and is known by many for his exotic colored flint, which comes from the area near the state owned ground. Roy is the main man at our knap-in at the Ridge, and is seen at a lot of other knap-ins throughout the country!
+
+Gary owns acreage across from Mason's Campground (which is now closed to flint digging) and has a wide variety of colored flint, from banded to mottled variations of every color. He also digs some high-grade Chalcedony, which was utilized by the Adena and Hopewell cultures. He has bows and accessories for the knapper as well.
+
+Six miles to the east is the Nethers farm, which was long dug at by the lapidary people and then by knappers. It also has some pretty colored flint ranging from black banded with reds and yellows to mottled gray, red, and white. All of these areas were dug at by ancient man, as the old pits are still seen today.
+
+In 1933, the Ohio Historical Society established Flint Ridge State Memorial on the current location, which takes in 525 acres. It was the main center for ancient quarrying operations. In 1963, Ohio made Flint Ridge flint its state gemstone, following in 1968 with a museum at the current park location. It was recently updated and remodeled a couple of years back. It is open to the public from Memorial Day thru Labor Day. A small fee is required to go through the museum.
+
+Years ago, our family would have picnics at the park in the fall of the year, when the hardwoods were in full color. We would hike over the trails through the woods, pick up little pieces of flint and ooo and ahh at the colors. Little did I know that 30 some years later I would be helping to co-host one of the largest knap-ins in the country. Destiny? I'm not sure, but the Ridge holds a special attraction to me as well as many others who visit there.
+
+The Flint Ridge Knap-in started about 20-25 years ago at Mason's Campground. Mr. Carl Fry and 5-6 others were first to attend. I talked with Ken Smith, who was one of the first to attend. He mentioned names, but wasn't sure of exactly who was in
+
+the first group. It was crude but they all had the desire to learn how to chip! The knap-in was held annually at Mason's until about 6 years ago, when Carl handed the controls over to Roy. It was moved to the Park, the current location. The knap-in has become one of the largest in the country. Knappers, bowyers, carvers, and many other artists converge on the Ridge for 4 days during Labor Day weekend to swap, sell, chip, trade, and to enjoy the friendship of fellow craftsmen. Further information is located in this publication under current events.
+
+It was now noon. Roy and I decided a break for lunch was in store, in the shade. The buckets weren't being filled as fast as we hoped. The flint seemed to fight back today! We finished the sack lunch and finally exposed a large crack between the layers. Digging along the fault line yielded some nice plates and chunks. It opened a wall up which looked real good. We went into it with the heavy chisels and pry bars. The flint was creaking and groaning, pry bars starting to bend, when the wall gave up. Flint was laying all over on the floor, it looked as if we hit the Mother-load. But it soon played out and the flint became full of quartz crystal and fractures. This is common when digging at the Ridge. It was now 3 pm. We were tired, sweaty, and covered with clay, but now we had to start the spalling process. By days end we each had roughly 3 buckets. Yep, that's all! But that's a good day on the Ridge. We paid for our flint, said goodbye, and headed home. On the drive home I got to daydreaming again. How long did it take for ancient man to dig 3 buckets? How far did he travel to go home, or did he just bring goods to trade for his flint? I haven't a clue, but I know I appreciate this cool, air conditioned Chevy for my trip home. It had to be a hard endeavor for the old guys.
+
+If you make it down to the Ridge, I hope to meet up with you. Remember to respect the land and the stone. Ill see you at the knap-in or just along the trail, Ed.

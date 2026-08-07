@@ -1,0 +1,111 @@
+---
+title: "Ert's sort-of nicknames"
+source_domain: amasci.com
+source_path: ~ert/inert-gases.html
+order: 3075
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:09:41Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Ert's sort-of nicknames
+
+*Source page: `~ert/inert-gases.html`*
+
+These are mostly taken from songs. If you can figure out where they're all from I'll visit you and make masala dosas or garlic death salad or whatever.
+
+- It's the end of the Ert as we know it
+- Once I was the king of Ert
+- I'd like to sail on a ship named Ert
+- Don't cry for Ert, Argentina
+- I am just a poor Ert, 'though my story's seldom told
+- I still haven't found what Ert's looking for
+- Ert's a lot like life
+- Ert sells sanctuary
+- The 5 percent nation of Ert
+- Many gases are in Ert
+- Pasta for Ert
+- Owner of a lonely Ert
+- Ert's only making plans for Nigel
+- The last goal Ert ever scored won the leafs the cup
+- I don't know about your brain, but Ert's brain is sort of bossy
+- How can we dance when our Ert keeps turning?
+- Ert's only happy when it rains
+- Ert was the spelling bee queen of 1965, man
+- This is Ert in grade 9, baby
+- Ert or Astro-Ert?
+- Ert is the dancing queen
+- Triangle Ert hates Particle Ert
+- West end Erts
+- Ert dreams in colour, Ert dreams in red
+- Ground control to Major Ert
+- A river runs through Ert
+- I've just gotta get a message to Ert
+- You say Ert wants a revolution
+- One Ert, we don't need another Ert
+- There's no other Ert, There's no other Ert
+- She moves in mysterious Erts
+- Ert, exciting and new...
+- Her Ert, in a nutshell
+- Hey, I'm an Ert, I'm curious
+- Two game show Erts meet on the street
+- One afternoon 4000 Erts died in the water here
+- I was in a lifeboat designed for Ert and Ert only
+- Once Ert was the king of Spain
+- Ert's shoes have gotta be tossed
+- A real Canadian Ert, A real Canadian Ert
+- Crazy Erts are crazy Erts, indeed
+- Sometimes it's wise to know which way the Ert is going
+- Celebrate good Erts, c'mon!
+- With a six-foot Ert on either side of you
+- How deep is your Ert?
+- Ert can dance, Ert can jive
+- Way on the dull side of the Ert
+- It's fun to stay with the E R T, eh?
+- Circumstances Ert themselves
+- I can't live with or without Ert
+- Ert was never being boring
+- Ert feels fine and Ert feels good
+- Burning down the Ert
+- Ert fades to grey
+- Pennsylvania Ert-5000
+- Clean, the cleanest Ert's been
+- Erts he bombs he bombs
+- One, Ert locks the target
+- I'm looking for this Ert, to sell him to other Erts
+- Ert feels so extraordinary
+- Ert has no wisdom teeth
+- Ert shuffled his feet
+- Ert was up above it
+- Little fluffy Erts
+- What were the skies like when Ert was young?
+- Free free, set Ert free
+- On the Ert there was an arm, a rare arm, a rattlin' arm
+- And I wonder will Ert lie there evermore?
+- Y'all ready for Ert?
+- Ert was told he'd cruise the seas for American gold
+- Ert's a broken man on a Halifax pier
+- I'm not content to be with Ert in the daytime
+- Don't you forget about Ert
+- Ert's on the last American exit to the northland
+- Ert whups a horse's ass
+- Hey, Ert was walking my bag through a twenty story nonstop snowstorm
+- So you think you're in Ert, well you probably are
+- Ert is the passenger
+- Ert will tear us apart, again
+- Ert just wants to barrelhouse all night long
+- Justice to the left of Ert, justice to the right
+- Ert gets so lost sometimes
+- Get your kicks on Ert 66
+- One Ert in Bangkok makes the tough guys crumble
+- Ert he needs a new pair of shoes
+- Ob-La-Di, Ob-La-Da, Ert goes on, oh!
+- Here comes the Ert again
+- Ert put a wheel in her left hand
+- Ert's your vindaloo man
+- That was Ert, thank you very much
+- It's This Canadian Life, I'm Ert Dredge
+
+[Home](http://www.eskimo.com/~ert).

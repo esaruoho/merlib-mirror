@@ -1,0 +1,34 @@
+---
+title: "ICBPC"
+source_domain: amasci.com
+source_path: ~fritzsch/icbpc/history.html
+order: 3214
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:09:50Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# ICBPC
+
+*Source page: `~fritzsch/icbpc/history.html`*
+
+## **Intercollegiate Business Policy Game History**
+
+Ron Jensen launched the first intercollegiate business gaming competition at Emory University in 1964 based upon the Boston College Game. Dean Weems and the faculty at the University of Nevada decided to create a competition west of the Mississippi. Nine schools accepted their invitation to participate: Arizona State College (Flagstaff), Arizona State University, Nevada Southern University, University of Nevada, University of Oregon, University of the Pacific, Sacramento State University, Stanislaus State University and Utah State University.
+
+The competition began in December 1964 when the first decisions were mailed to the Reno campus for processing. After a series of remote decisions, all teams came to Reno in April 1965 for three days of onsite competition. The competition went very well and enthusiasm was high. Many of the schools requested that the competition become an annual event.
+
+Two new professors joined the University of Nevada faculty in the fall of 1995, Dick Cotter and Ed Zane. They agreed to champion an annual competition and thus what has become the annual International Collegiate Business Policy Competition was born. Although records are a little sketchy, it is believed that the University of Portland and Willamette University joined in the second competition which was again very successful.
+
+The University of Nevada decided to upgrade its computer. The competition had been using a copy of the Boston College Game which was written in machine language and could not be modified to run on the new computer. With the future of the competition in doubt, Cotter decided to write his own game. After hundreds of hours and many many punch cards later, the game was ready for the third competition, and it worked! Following several more years of development and testing, the first edition of *The Business Policy Game* was published in 1973 by Apple Century Crofts.
+
+The competition was held at the University of Nevada, Reno from 1965 to 1992. It moved to the University of Nevada, Las Vegas in 1993, to San Jose State University in 1995 and to the University of San Diego in 1999. Dick Cotter died in March 1998. Dave Fritzsche, his co-author beginning with the 2nd edition of *The Business Policy\
+Game*, took over to continue the competition in his memory. The Emory competition ceased a few years ago and several other competitions have come and gone over the years. The International Collegiate Business Policy Competition is still going strong helping generations of students understand the complex workings of the business environment. It stands as a tribute to Dick Cotter and his dedication to helping students become better managers and citizens.
+
+------------------------------------------------------------------------
+
+This page is maintained by David Fritzsche (<a href="../mainFrame.html" target="_self">Home page</a>). Send comments to <fritzsch@eskimo.com>.
+
+This page last updated 1 September 2000..

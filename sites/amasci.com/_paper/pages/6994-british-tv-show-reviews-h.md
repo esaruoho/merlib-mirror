@@ -1,0 +1,204 @@
+---
+title: "BRITISH TV SHOW REVIEWS 'H'"
+source_domain: amasci.com
+source_path: ~rkj/h.htm
+order: 6994
+reachable_from_entry: false
+images: 0
+internal_links: 67
+extracted: 2026-08-07T17:14:33Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# BRITISH TV SHOW REVIEWS "H"
+
+*Source page: `~rkj/h.htm`*
+
+# British TV Show Reviews "H"
+
+[A](a.htm) \| [B](b.htm) \| [C](c.htm) \| [D](d.htm) \| [E](e.htm) \| [F](f.htm) \| [G](g.htm) \| H \| [I](i.htm) \| [J](j.htm) \| [K](k.htm) \| [L](l.htm) \| [M](m.htm) \| [N](n.htm) \| [O](o.htm) \| [P](p.htm) \| [Q](q.htm) \| [R](r.htm) \| [S](s.htm) \| [T](t.htm) \| [U](u.htm) \| [V](v.htm) \| [W](w.htm) \| [X](x.htm) \| [Y](y.htm) \| [Z](z.htm)
+
+[Previous List](g.htm) \| [Back to Homepage](brit.htm) \| [Next List](i.htm)
+
+*Dates refer to when review was written*
+
+<span id="Hale"></span>**Hale and Pace** (5/89)\
+Yet another comedy double act, with Gareth Hale and Norman Pace. They blew up a cat in a microwave in the opening episode, winning them a role in a cat-oriented episode of *Dr Who* ("Survival") later in the year.
+
+**H&P @ BBC** (1/00)\
+Hale and Pace take their act to the BBC with this audience participation show that I must admit was more palatable than Reeves and Mortimer's *[Families At War](f.htm#Families)*. Members of the audience compete for a "screen test" (edited into a classic film clip) or try to identify music while underwater, while celebrities are quizzed on general knowledge or get to impersonate someone famous (a la *Stars In Their Eyes*). On the road, the boys try to get "something for nothing," brazenly going into shops around the country and just asking for things for free. Amazingly, they accumulate quite a bit of booty!
+
+**Happiness** (1/02)\
+Paul Whitehouse (*[The Fast Show](f.htm#Fast)*) stars as Danny in this BBC comedy/drama about a middle-aged semi-celebrity (Danny is the voice of a popular cartoon bear) who is recently widowed and trying to make sense of it all.  His friends are mostly a pack of losers, including Johnny Vegas as an alcoholic, Danny's ex-girlfriend now married to a boring librarian (Mark Heap from *[Spaced](s.htm#Spaced)*) and expecting their first baby, and Danny's over-aged manager who rides a motorcycle and tries to hang on to the illusion of youth with a succession of much younger girlfriends.  After a series of disasters Danny finally gets a posh girlfriend but his insecurity is certain to blow that relationship too.  The series is a nice change of pace for Whitehouse who has slowly been expanding his repertoire from impersonations and comic characters to an actual flesh-and-blood three-dimensional person.  He also co-wrote it and sings the title song.
+
+**Hamilton Mattress** (1/03)\
+Animated BBC children's special about an aardvark who wants to become a drummer but is told he's too ugly to be in a band.  He finds someone to "front" for him and uses the unlikely pseudonym of Hamilton Mattress.  But will he be found out or will there be a happy ending?  Guess.
+
+**Hamish Macbeth** (11/96)\
+Second season of this drama about a young policeman (Robert Carlyle) in a remote Scottish town. Much like *[Ballykissangel](b.htm#Bally)*, everyone in town is a character, and much of the action revolves around the local pub. But things get serious in the fourth episode when tragedy strikes the life of young Hamish. Three seasons in total were produced.
+
+**Harbour Lights** (9/99)\
+Nick Berry, the British George Clooney, stars in this light-handed BBC drama series as a former Royal Navy officer who is now Harbormaster in a small port town. Each week he solves everyone's problems with a deft touch, while various subplots swirl around him. There's nothing wrong with this series, but everyone turns out to be okay, and the result is a wee bit bland and predictable.
+
+**Hardware** (3/04)\
+Writer Simon Nye (*[Men Behaving Badly](m.htm#Men)*) tried to hit gold again with this ITV workplace comedy starring Martin Freeman (*[The Office](o.htm#Office)*).   It's a bit like the macho bonding that Tim Allen captured in "Home Improvement" particularly the "secret code" that seems to exist between contractors and hardware staff that the general public just can't grasp.  I much preferred Nye's last comedy, the wacky *[Wild West](w.htm#Wild)*, rather than this routine sitcom.
+
+<span id="Harry Enfield"></span>**Harry Enfield and Chums** (7/95)\
+Sketch comedy series with recurring characters each week. Other favorite bits include "Benny Elton" featuring the actual alternative comic taking on the characteristics of another notorious British comedian; a parody of *Four Weddings and a Funeral*; some more training films from Mister Cholmondley-Warner; and the Merchant/Ivory production of *Terminator 3* with [Martin Clunes](actor.htm#Clunes). [Read my feature about Harry Enfield](weekly/aa050999.htm).
+
+**Harry Enfield's Brand Spanking New Show** (1/04)\
+[Harry](weekly/aa050999.htm) made the big bucks leap to Sky TV and tried to invent new characters but nothing really catches on and the absence of former collaborators Paul Whitehouse and Kathy Burke is sorely missed.  Enfield is currently doing voice overs as a gnome in the Travelocity ads in the U.S.
+
+**Harry Enfield's Guide To Opera** (3/93)\
+A noble experiment, an attempt to bring and explain "culture" to the masses (or whoever bothers to catch this 6-part series of Channel Four). There are attempts at comedy, particularly to take the piss out of stuffy opera buffs, and plenty of long clips from famous productions. From an educational point of view, not bad.
+
+**Harry Enfield's TV Show** (1/91)\
+Enfield, the man behind last year's *[Norbert Smith](n.htm#Norbert)* does a collection of characters. He's talented but the writing could have been sharper here.
+
+<span id="Harry Hill"></span>**Harry Hill** (9/97)\
+The jury was out on Harry Hill for a long time. I first became aware of him from his oddball but endearing shorts, *[Harry Hill's Fruit Fancies](#Harry)*. And his appearances on *Saturday Live* last year were the only rays of quality. My friend Allen in England would ring me after each episode of this new sketch comedy to rave about how hilarious it was. And perhaps on a Friday night after coming from the pub it *is* pretty funny. But I felt a little went a long way. Every week, Harry and his cadre of co-stars would do the same gags and sketches *every* single show. It got to the point where I knew what was going to happen moment to moment. I suppose the payoff was the final episode where the expected rhythm was mercifully broken up, but by then I had to wonder, "What's the point?" Still, it could be funny at times and David Letterman *loves* this guy. But literally, if you've seen one, you've seen \`em all.
+
+(5/99)\
+The second season on Channel 4 of David Letterman's favorite British comic is a sight better than last year, which at times seems like they used the same script for six weeks. This year (under the auspices of Script Editor Stewart Lee), there are attempts at genuinely funny sketches that stand up on their own, building jokes on earlier gags, and some truly surreal moments (the head of Channel 4 is portrayed as a demented puppet who just wants to get on TV). While Hill's stand-up act still leaves me cold, the rest of his show has, at least, gone from being dreadful to at least watchable.
+
+<span id="Harry"></span>**Harry Hill's Fruit Fancies** (1/95)\
+A short subject about an attempted suicide who keeps offing a succession of family dogs by accident. Needless to say, it's played for laughs.
+
+**Harry Hill's TV Burp** (1/03)\
+Fringe comedian Hill comes the closest to mainstream audiences with this somewhat tired format of commenting on the current week's TV shows.  Of course he gets to cut loose with his odd brand of humor, such as trying to give a horse to the characters of *Coronation Street* or interviewing a dog from *EastEnders*.
+
+<span id="Have"></span>**Have I Got News For You** (5/93)\
+Current affairs are turned into a humorous game show with host Angus Deayton, and panelists Ian Hislop (editor of *Private Eye*) and [Paul Merton](actor.htm#Merton) joined by two celebrities who must recall the current week's news stories based on pictures, headlines, or other bits of information. Lots of ad-lib guessing is encouraged (with the word "allegedly" used often to avoid potential libel suits) and the point scoring is about as accurately kept as *Whose Line Is It Anyway?*. In other words, having fun is much more important than getting the correct answer. A fun way to end each week during its 8-week seasons twice a year, with plenty of "naughty" words too.
+
+(7/94)\
+The latest series of this current affairs game show that cleverly gets around libel suits for disparaging remarks made about famous people by adding the word "allegedly" after every sentence. As usual, the attempt by the four panelists is to come up with a humorous quip rather than answer a question seriously. In the final episode, the guest panelist is Salman Rushdie!--picked out of a crowd with his bodyguards at random--allegedly!
+
+**Hawking** (10/05)\
+BBC dramatization of Stephen Hawking's life from 1963-65 while he was still at University writing his thesis.  You get to see a lot of very smart people argue about the origin of the universe (at the time, the "steady state" theory was generally accepted, while Hawking fought an uphill battle to prove the Big Bang theory instead).  Meanwhile, he is diagnosed with his terminal illness and begins to use crutches to walk and meets the woman who will become his first wife.  Flashforwards to two Americans winning the Nobel Prize in 1978 are used to foreshadow Hawking's eventual breakthrough.
+
+**Haywire** (1/00)\
+BBC-2 sketch comedy show that channel surfs in the year 2020 between all the bizarre choices available. I think they overestimated by several years, and many of these are either here now (ever watch Public Access?) or just around the corner: Innuendo TV (cooking shows filled with double entendres), Quiz News, Looney TV, the Conspiracy Channel, Mob TV, and the Awards Channel.
+
+**Healer, The** (5/95)\
+In this two-part BBC drama, an Irish doctor recently hired by a hospital has the ability to heal (ie, in ways that were never taught in medical school). He clashes with the medical administration when he begins to "heal" other doctor's patients, and then a media circus erupts around him when he brings a young boy back from near-death.
+
+<span id="Heartburn"></span>**Heartburn Hotel** (11/98)\
+Tim Healy (*[The Grand](g.htm#Grand)*) stars in this comedy series as a grumpy hotelier in Birmingham whose dreams of glory went up in smoke along with Birmingham's 1992 Olympic bid hopes. Now the Social Services use it as a dump for society's misfits, although Healy still dreams of better days. Co-written by John Sullivan (*[Only Fools and Horses](o.htm#Only)*).
+
+**The Heart Surgeon** (9/97)\
+Nigel Havers stars in this two part BBC drama as a cool doctor whose ethics are called into question when a patient of his dies in mysterious circumstances - and it's discovered he was his lover's husband. Havers is no saint but sympathy is with him as his world begins to crumble around him.
+
+**Hearts & Bones** (3/02)\
+Dervla Kirwan (*[Ballykissangel](b.htm#Bally)*) and Amanda Holden ([The Grimleys](g.htm#Grimleys)) star in this six-part BBC drama about three couples and their lives and loves.  Hold on, isn't that *[Cold Feet](c.htm#Feet)* over on ITV?  Well, why mess with success, and the series hews to the formula with plenty of angst and suspense over who will end up with whom.
+
+**Heaven On Earth** (7/98)\
+Neil Pearson (*[See You Friday](S.htm#See)*) stars in this two-part BBC drama about a burned out yuppie who has no where else to turn after going bankrupt except to follow his wife and daughter to an Amish-like religious commune, where his grandfather-in-law is patriarch and has been suffering terrible visions of doom. Once there though, Pearson takes to the community like it was second nature, quickly converts, and learns how to fashion the wood furniture that is so prized by "outsiders." Soon, he is angling to succeed the old patriarch, while his wife becomes more and more horrified at the extremes he goes to in order to remain in control. An interesting look at what would happen if a complete monster were to assume power in a society where absolute faith in "God's will" does not allow for dissension in the ranks.
+
+**The Hello Girls** (1/97)\
+BBC comedy/drama set in the early 1960s featuring a plain girl who gets a job as an operator with the G.P.O., at the time the phone company in Britain. Like all British hierarchies, the women are expected to conform to the organization's exact, and time-honored standards, even though our heroine's boyfriend is a Marxist. The BBC lovingly recreates the era complete with busses, cars, location shots, clothes, hairstyles, and it's a fascinating slice-of-life of another bygone era.
+
+**Hello, I'm Jack Berry** (1/03)\
+BBC sketch sitcom that is notable for linking every one of its sketches somehow.  This must have been a bitch to write and shoot because each segment relies on the previous one to set it up.  One running gag involves "The Pissed Detective."
+
+**Henri** (7/94)\
+A BBC TV movie about a young Protestant girl who wins a music talent contest and travels to Belfast in order to play her instrument...an accordion. Needless to say, she finds Catholic Belfast with its armed militia and barbed wire fences quite a change, not to mention having to cope with people accepting her unusual choice of instrument. It all ends very strangely: she flies off aboard a concrete bunker being transported by helicopter by the British Army over the city. Away she goes...
+
+**Henry VIII** (5/04)\
+ITV/"Masterpiece Theatre" co-production with an all-star cast including Ray Winstone as Henry, and Helena Bonham-Carter as Anne Bolin in this big-budget dramatization.  Henry, as played here, is very sympathetic, dealing with a divided kingdom and driven by his obsession for a male heir.  That, and a poor choice of advisors, are what lead him to go through his many, many wives (easy way to remember their fates: "Divorced, beheaded, died.  Divorced, beheaded, survived.")  Great pains are made to show Henry's suffering, particularly anguish over Anne's fate, and perhaps was custom at the time, the ones for the chop all gave Henry a glowing testimonial just before they lost their heads.
+
+**Here's Johnny** (7/97)\
+Latenight Channel 4 chat show with Johnny Vaughn. His interviews (and guests) are crap, though mercifully brief. Instead, the strengths of the series are the running jokes: a different ethnic house band each week ("to try them out"), a "Lurker of the Week" contest featuring the person who does their best to appear on camera during Channel 4's racing coverage, and "probes" into things like pub shoes. At 24 minutes (minus commercials), Vaughn doesn't overstay his welcome, particularly as the series only ran 7 weeks.
+
+**Heroes and Villains** (7/95)\
+Three episode BBC biographical series featuring famous comedians in epic dramatizations of some notoriously colorful people in British history. The first and funniest is Jennifer Saunders (*[Absolutely Fabulous](a.htm)*) as Lady Hester Stanhope who went from being the niece of Prime Minister William Pitt to a Queen in Syria in the early 19th century. Secondly, Rowan Atkinson gets behind the wheel again as ace driver Sir Henry "Tim" Birkin, who drove for Bentley in the 30s but also blew the family fortune trying to perfect a race car of his own. Finally Jim Broadbent is Colonel A.D. Wintle, a veteran of both World Wars who went on to be a famous litigant in a contested estate case. The title of the series is derived from the fact that as spectacular as each of these people's lives were, they each paid a price, personally, emotionally, and financially. Excellent dramas with genuine wit and great historical recreations.
+
+**Hetty Wainthropp Investigates** (7/96)\
+Patricia Routledge (*[Keeping Up Appearances](k.htm#Keep)*) stars in what seems at first like a *Murder, She Wrote* rip-off about a senior citizen solving crimes on her own, but the drama and characters take precedent over the whodunit elements and elevate the series to something watchable.
+
+<span id="High"></span>**The High Life** (5/95)\
+Suppose Pee-Wee Herman were Scottish? Suppose he were cloned? Then you'd have something very similar to this sit-com about two thick flight attendants starring Alan Cumming (*Bernard and the Genie*). Yes, two Scottish Pee-Wee impersonators do their thing in the air and on the ground. And if you enjoy this sort of thing, it's all yours.... The pilot was originally shown on *[Comic Asides](c.htm#Comic)*.
+
+**High Stakes** (1/02)\
+Richard Wilson (*[One Foot In The Grave](o.htm#One)*) stars in this fairly lame ITV workplace comedy set in the world of high finance.  He gamely tries his best but the scripts lack ambition and go in predictable directions.
+
+**Hippies** (9/00)\
+Immediately following his series *[Spaced](s.htm#Spaced)*, Simon Pegg moved to over to BBC to star in Arthur Matthews and Graham Linehan's (*[Father Ted](f.htm#Father)*) new series set in the 1960s.  I've become very fond of Pegg ever since he played Julia Sawalha's unloved boyfriend in *[Faith In The Future](f.htm#Faith)*, and subsequent appearances in Matthews & Linehan's sketch series *[Big Train](b.htm#Big)* increased his range.  But is a series mocking lazy hippies really necessary?  Everyone concerned has done much better work elsewhere, although it's not without a few chuckles.
+
+**A History Of Alternative Comedy** (9/99)\
+Once upon a time, British comedy was safe, especially on television, but in the 1970s a revolution of sorts occurred, with the first comedy clubs opening in Britain (though nobody knew what to make of Alexei Sayle, [Rik Mayall](actor.htm#Mayall), Adrian Edmondson, or French and Saunders the first time they saw them on stage), and their eventual success on TV, all chronicled in this BBC documentary series presented by Angus Deayton.
+
+**The History of Youth TV** (1/99)\
+Surprisingly, "Yoof TV" (as it's called in the UK) is a fairly recent invention on British TV (famously parodied by Ben Elton with "Nosin' Around" during the first episode of *The Young Ones*). It was mostly shepherded into existence by Janet Street-Porter with *Network 7*, a MTV-like blast of graphics, sound, and images aimed at the teen market by Channel 4 in the late 80s. This was followed by *The Word* and *Rough Guide* travel series among others. But like all trends, it burned itself out with an ever-increasing number of shows which all had the same styles, and the realization that more teens were still watching *[One Foot In The Grave](o.htm#One)* than any of the programs supposedly aimed directly at them. Which isn't to say there aren't still some good efforts being made, including *[The Adam and Joe Show](a.htm#Adam)* (who were interviewed as part of this documentary), and Lee and Herring's material.
+
+<span id="Holding"></span>**Holding On** (11/97)\
+This ambitious BBC multi-part drama does for London what *[Our Friends In The North](o.htm#Our)* did for that particular region. Written by Tony Marchant, characters are added and interconnected in a rich texture that requires attentive viewing but pays off handsomely with first-class drama. It's almost like a huge soap opera except much better written and with a point. Stylishly filmed with long steadicam shots right on location in the streets and buildings of London. This contrasts with scenes of Phil Daniels (*[Sunnyside Farm](s.htm#Sunnyside)*) as a misanthropic food critic who is shot with a distorted fish-eye lens and addresses the camera directly. Death strikes frequently (and unexpectedly), but there is also love, betrayal, and people who are driven to the brink of breaking by life and the pressures of the big city and manage (though not in all cases) to keep on going.
+
+**Holed** (1/97)\
+TV Movie about a foursome who has golfed together every weekend for 10 years. But all the old rivalries and secrets come to a head one day with fatal results. Tony Robinson is one of the group, a hypochondriac who rides his bike to the course (one of the others arrives in his personal helicopter). His partner is a young man whose late father was the course champion and bitter rival of the fourth man. Compelling, even if you don't find golf very interesting.
+
+**Hollywood's Master Of Myth: Joseph Campbell, The Force Behind Star Wars** (3/00)\
+BBC documentary that attempts to delve beyond the hype of "The Phantom Menace" (it was screened the month the movie opened in Britain) by focusing on the writer who was often credited as a huge influence on George Lucas, and most "heroic" literature.
+
+**Hollywood Science** (3/04)\
+Robert Llewellyn (*[Scrapheap Challenge](s.htm#Scrapheap)*) co-hosts this BBC Open University series that explores whether improbably things seen in movies are actually scientifically plausible.  Backyard experiments are performed to reproduce some of the dodgy onscreen science, with a competition to see which movie does the worst.
+
+**Hope & Glory** (1/00)\
+Lenny Henry (*[Chef](c.htm#Chef)*) stars in this BBC drama series as a successful school headmaster who turns down a lucrative ministerial job to help turn around a failing inner-city grammar school. Peter Davison appears in the first episode as the outgoing head and he delivers the performance of a lifetime when he completely loses it during a farewell party and ends up screaming at all the jeering students and telling them exactly how worthless each of them are. Clive Russell (*[Heartburn Hotel](h.htm#Heartburn)*) and Amanda Redman are staff teachers who have to be convinced that Henry's often rash decisions will work, while he tries to stave off an inevitable heart attack.
+
+<span id="Hornblower"></span>**Hornblower** (3/99)\
+First in a series of ITV movies based on the classic novels. Newcomer [Ioan Gruffudd](weekly/aa031600a.htm) plays Horatio Hornblower, a junior officer whose first ship is under the control of a sadistic midshipman. Things look up when he is transferred to a ship commanded by [Robert Lindsay](actor.htm#Lindsay), and from there its high adventure on the seas in this exquisite, handsomely mounted production. More movies are coming, and eventually they will turn up on A&E.
+
+<span id="Horse"></span>**Horse Opera** (5/94)\
+An opera specially commissioned for television and scored by The Police's Stewart Copeland (in much the same vein as his score for the pilot of *Babylon 5*). The plot concerns a middle class Brit cowboy enthusiast who finds himself in a real western. [Rik Mayall](actor.htm#Mayall) also appears. Strange and quite wonderful. How come nobody in this country makes things like this?
+
+<span id="Hospital"></span>**Hospital!** (3/98)\
+Channel 5 TV comedy movie that borrows heavily from the *Airplane* school of comedy with sight-gags-a-minute. An all star cast led by Bob Peck features cameos by [Martin Clunes](actor.htm#Clunes), Julian Clary, Alexei Sayle, Nicholas Parsons, and Philip Pope. Hey wait a minute, didn't Garry Marshall do this idea first in 1982 with "Young Doctors In Love"? Hmmm...
+
+<span id="Hot"></span>**Hot Metal** (3/91)\
+Robert Hardy (*All Creatures Great and Small*) plays dual roles as a Robert Maxwell-like media lord, and also as the publisher of a tabloid, "The Daily Crucible" in this 1985-6 ITV sitcom. Much to the horror of editor Geoffrey Palmer as a serious journalist, things go from bad to worse at the paper, and he takes the heat for each public relations fiasco. Meanwhile, an enterprising reporter (John Gordon-Sinclair) finds himself on a real story. The second season continued without Palmer or Sinclair, with Richard Wilson (*[One Foot In the Grave](o.htm#One)*) taking over, although Palmer returned in a special 15-minute 1989 *[Comic Relief](c.htm#Relief)* episode.
+
+**Hot Money** (1/03)\
+Caroline Quentin (*[Jonathan Creek](j.htm#Jonathan)*) stars in this based-on-a-true story ITV movie about a group of women employees of the Bank of England who stole thousands of pounds over several months right underneath the bank's nose.  Of course class differences come into the equation, as conspicuous consumption by the working class members of the gang nearly get them caught.  Remarkably, there was never enough evidence to prosecute the women, although eventually they lost a civil case brought against them by the bank.
+
+<span id="Cards"></span>**House of Cards** (1/91)\
+This year's *A Very British Coup*. Absolutely top-notch entertainment from beginning to end with Ian Richardson pulling everyone's strings in order to become Prime Minister. Very highly recommended. Followed by two sequels: *[To Play The King](t.htm#Play)* and *[The Final Cut](f.htm#Final)*. Screenplay adaption by Andrew Davies (*[Game On](g.htm#Game)*, *[A Very Peculiar Practice](v.htm#Very)*).
+
+<span id="House"></span>**House of Windsor** (7/94)\
+A sitcom directed by Graeme Harper (*Star Cops* and "Caves of Androzani") about the behind-the-scenes goings-on at the palace. This runs very late at night on ITV after *[Spitting Image](s.htm#Spit)* and isn't afraid to make the tasteless joke or show what happens when a Corgi encounters an oversized carpet cleaner. The Royals themselves are never seen, just the staff, but there are plenty of references to them and their escapades. They must eat this stuff up in Republican-heading Australia.
+
+**The House That Jack Built** (1/04)\
+The late Adam Faith plays an overbearing rich father in this comedy.  Jack has three kids, two spoiled rotten, and the oldest who is married and followed in the family business but can't avoid Jack meddling in every little aspect of his life.  Jack means well but he is the father-in-law from hell trying to be in control of everything around him.
+
+**How Do You Want Me?** (7/98)\
+Writer Simon Nye's (*Men Behaving Badly*) comedy about an Irish Londoner who marries a woman from a small country village then lives to regret moving home with her. He is completely out of his depths in a town where everybody knows one another and he immediately makes the worst impression possible, especially on his new in-laws who practically control the place. To fit in, he buys the local photography studio but doesn't know the first thing about cameras, and at one point his father-in-law offers him £20,000 to get divorced and just leave town once and for all. He doesn't of course, because the couple is truly in love, but that never stops the comedic tension. Like Nye's other new generation of comedies (*[My Wonderful Life](m.htm#My)*, *[The Last Salute](l.htm#Last)*), this series is shot on film without a laugh track, with episode titles generated by lines in the script.
+
+<span id="How"></span>**How to Be a Little Sod** (6/96)\
+A series of animated shorts featuring the voice of [Rik Mayall](actor.htm#Mayall) as the Baby From Hell giving instructions on how to drive parents completely crazy. Believe it or not, this ran on staid BBC-1.
+
+**How To Make It Big In Bollywood** (1/00)\
+American media rules the world, except in India which has a huge homegrown film industry (known as "Bollywood") that cranks out hundreds of films every year. And what movies: each is epic-lengthed with elaborate musical numbers that would put Busby Berkeley to shame. In this series of Channel 4 shorts, different members of the crew talk about how they create the world of Indian cinema.
+
+**Human Remains** (1/02)\
+Rob Brydon (*[Marion & Geoff](m.htm#Marion)*) stars in this anthology series that looks at the saddest married couples in Britain.  Fans of the *Marion & Geoff* style will appreciate the deadpan humor and lack of laughtrack, but spending extended periods of time with these people merely becomes painful after a while.
+
+**The Hunt** (1/02)\
+Amanda Holder (*[The Grimleys](g.htm#Grimleys)*) and Philip Glenister (*[Clocking Off](c.htm#Clocking)*) star in this ITV two-part drama as a successful young couple who move out to the countryside and join the gentry.  The subplot is the foxhunting debate, but mainly the local smoothie who has a history of seducing ladies and sets his eye on Amanda.
+
+<span id="Hunting"></span>**Hunting Venus** (11/99)\
+[Martin Clunes](actor.htm#Clunes) stars and directed this ITV TV movie comedy about a one-hit wonder rock band from 1982 he is forced to reform by fanatical members of his former fan club. Of course the band has spread to the four winds, including Clunes' *[Men Behaving Badly](m.htm#Men)* co-star Neil Morrissey as the lead singer who's had a sex change operation in the intervening years. Essentially it's a road movie, but Clunes has a pretty good directorial touch, the characters are ingratiating, and of course there's a happy ending.
+
+**Hustle** (3/05)\
+Robert Vaughn co-stars in this glossy BBC light drama/action series about a team of slick con men (and one woman).  Each week, "Mission: Impossible"-style, they single out some obvious villain and proceed to clean his shorts out (apparently this is okay because the audience knows the mark is a real creep).  Usually there is at least one con pulled on the audience (oh no, they've killed him!  Oh, just kidding!) and digital effects allow them to actually stop the action, explain directly to the audience what is going on, or even have an impromptu musical number (during a movie scam).  Entertaining fluff.\
+ 
+
+\
+
+[A](a.htm) \| [B](b.htm) \| [C](c.htm) \| [D](d.htm) \| [E](e.htm) \| [F](f.htm) \| [G](g.htm) \| H \| [I](i.htm) \| [J](j.htm) \| [K](k.htm) \| [L](l.htm) \| [M](m.htm) \| [N](n.htm) \| [O](o.htm) \| [P](p.htm) \| [Q](q.htm) \| [R](r.htm) \| [S](s.htm) \| [T](t.htm) \| [U](u.htm) \| [V](v.htm) \| [W](w.htm) \| [X](x.htm) \| [Y](y.htm) \| [Z](z.htm)
+
+[Previous List](g.htm) \| [Back to Homepage](brit.htm) \| [Next List](i.htm)
+
+------------------------------------------------------------------------
+
+Written and maintained by Ryan K. Johnson [(rkj@eskimo.com)](mailto:rkj@eskimo.com).
+
+October 17, 2005

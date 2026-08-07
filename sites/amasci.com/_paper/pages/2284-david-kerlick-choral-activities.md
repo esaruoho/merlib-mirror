@@ -1,0 +1,96 @@
+---
+title: "David Kerlick Choral Activities"
+source_domain: amasci.com
+source_path: ~davidk/choirs.htm
+order: 2284
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:08:44Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# David Kerlick Choral Activities
+
+*Source page: `~davidk/choirs.htm`*
+
+# David Kerlick Choral Singing
+
+------------------------------------------------------------------------
+
+1962-64 St. Michael's Jr Choir (DKSolo)  
+Stephen Sember
+
+SJHS Choir 1962-3\
+SHS Chorus 1963-6\
+SHS Show Choir 1964-4\
+Midwestern District Chorus 1965,1966  
+James Stewart
+
+Honors Chorus at Grove City College 1965,1966  
+(one was John Krueger, Youngstown sym)
+
+Regional IV Chorus in Washington, Pa. 1966  
+W. S. Lord
+
+RPI Glee Club 1966-1970  
+Joel Dolven
+
+Princeton Glee Club 1970-1975  
+Walter L. Nollner
+
+Concert tours
+
+- South America 1971
+- Mexico 1973
+- Jamaica 1975
+
+25 Apr 1974 PUGC Centennial Concert at Carnegie HallSpr 1976
+
+Walter L. Nollner
+
+PU Chapel Choir 1970 (Carl Weinrich) 1974 (W.L. Nollner)(2 perfs)\
+Bonner Bach Gesellschaft 1975  
+Roland Bader Bader
+
+Spr 1977 Munich Bach Choir  
+Karl Richter
+
+Fall 1977 OSU Civic & Community Choir, N.1978-81\
+SFGMC 1978-81  
+Jon Sims (1) Dick Kramer1978-81
+
+California Bach Society 1979-81  
+Ted Flath\]
+
+24 Dec 1979 Joan Baez Christmas show (KQED, PBS-TV with membs Cal Bach Soc)1981-1983
+
+Die Maennerstimmen (DM) 1981-83  
+Rodger Pettyjohn1980-82,
+
+1980-88 San Francisco Symphony Chorus  
+Lou Magor 1980-82 Vance George 1984-1988
+
+Slavyanka Men's Slavic Chorus 1988-89  
+Paul Andrews
+
+Tour to USSR 1989
+
+Portland Symphonic Choir 1990-91  
+Bruce Brown
+
+Seattle Pro Musica 1992-pres\
+Madrigalia, subgroup of SPM 1993-pres  
+Karen M. Thomas
+
+Woven by:
+
+Dr. G. David Kerlick
+
+Phone: (206) 935-7762
+
+email: davidk@eskimo.com
+
+6342 34th Ave SW
+
+Seattle WA 98126-3148

@@ -1,28 +1,377 @@
 ---
 title: "Mound Builder Books"
 source_domain: amasci.com
-source_path: ~knapper/artflvd.html
+source_path: ~knapper/1.html
 order: 4327
 reachable_from_entry: false
 images: 0
-internal_links: 3
-extracted: 2026-08-07T05:57:26Z
+internal_links: 0
+extracted: 2026-08-07T17:11:06Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # Mound Builder Books
 
-*Source page: `~knapper/artflvd.html`*
+*Source page: `~knapper/1.html`*
 
-**The Art of Flintknapping Video Companion**
-
-D. C. Waldorf is well known as one of the foremost knappers in the United States. He works with deer and moose antler billets, the traditional tools used by the American Indians. In this tape he tries to cover areas where people have a lot of problems, such as raw material processing, biface reduction by percussion, holding positions and pressure flaking, ect. While this tape is a must for beginners, it is also extremely useful and informative for the more advanced knapper. It's also just plain entertaining. Filmed in Super VHS for superior film quality. 1 hour 50 minutes. Produced by Mound Builder Books, VHS format, includes a plastic protective case.
-
-Price \$25.00 [To order](http://www.eskimo.com/~knapper/1.html)\
+Please print this form and send to:\
  
 
-|  |  |  |  |
-|----|----|----|----|
-| [Back to Knapper's Corner](index.html) | [Back to the Catalog](catolog.html)** ** | [Back to video page](videos.html) | [Email us with your questions, suggestions, thoughts and comments.](mailto:knapper@specent.com) |
+Flintknappers Corner
 
-Updated 07/25/2005
+Dane Martin
+
+Greasy Creek Holler 
+
+Washburn, MO 65772
+
+\(417\) 662-3377
+
+***Books***
+
+***Price*** 
+
+***Quantity***
+
+***Total Price** *
+
+The Art of Flint Knapping
+
+\$15.00
+
+\#
+
+\$
+
+The Art of Making Primitive Bows, 2nd ed.
+
+\$15.00
+
+\#
+
+\$
+
+Story in Stone
+
+\$25.00
+
+\#
+
+\$
+
+Lamb Site
+
+\$20.00
+
+\#
+
+\$
+
+Guide to Paleo Indian Artifacts
+
+\$18.00
+
+\#
+
+\$
+
+The Richey Clovis Cache
+
+\$25.00
+
+\#
+
+\$
+
+Participating in Nature
+
+\$20.00
+
+\#
+
+\$
+
+***posters***
+
+ 
+
+ 
+
+The Best from Story in Stone Poster
+
+\$10.00
+
+\#
+
+\$
+
+***Video tapes***
+
+ 
+
+ 
+
+ 
+
+Thebes Points VHS
+
+\$25.00
+
+\#
+
+\$
+
+Novaculite -From Pit to Point VHS
+
+\$25.00
+
+\#
+
+\$
+
+Flake Over Grinding with Dale Cannon VHS
+
+\$25.00
+
+\#
+
+\$
+
+Making the Hardin Point VHS
+
+\$25.00
+
+\#
+
+\$
+
+Making a Dalton Point VHS
+
+\$25.00
+
+\#
+
+\$
+
+Roasting Rocks VHS, and "recipe book"
+
+\$20.00
+
+\#
+
+\$
+
+Flint Knapping Video Companion VHS
+
+\$25.00
+
+\#
+
+\$
+
+Flint Knapping Video Companion.  **PAL** 
+
+\$35.00
+
+\#
+
+\$
+
+Working Obsidian VHS
+
+\$25.00
+
+\#
+
+\$
+
+Working Obsidian in **PAL format**
+
+\$35.00
+
+\#
+
+\$
+
+Water Creek Knap-in VHS
+
+\$20.00
+
+\#
+
+\$
+
+Caught Knapping VHS
+
+\$23.00
+
+\#
+
+\$
+
+Lap Knapping VHS
+
+\$22.00
+
+\#
+
+\$
+
+Introduction to Flint Knapping NEW EDITION
+
+\$25.00
+
+\#
+
+\$
+
+Making the Clovis, VHS
+
+\$25.00
+
+\#
+
+\$
+
+Flintknapping with Bruce Bradley VHS
+
+\$20.00
+
+\#
+
+\$
+
+*Other items*
+
+ 
+
+ 
+
+ 
+
+Paleo Mug  
+
+\$10.00
+
+\#
+
+\$
+
+Knappers Mug
+
+\$10.00
+
+\#
+
+\$
+
+Chips News Publication, year 2001 sub.
+
+\$15.**ppaid**
+
+\#
+
+\$
+
+Chips Back Issues, 1989,-2000
+
+\$10. each
+
+\#
+
+\$
+
+Back Issue Special, 12 Issues + Index add additional \$3. for shipping 
+
+\$103.00
+
+\#
+
+\$
+
+Moose billets, med. & large (for two, add \$3. for extra postage costs.)  \$35. each.
+
+ 
+
+\#
+
+\$
+
+**Subtotal:**
+
+\$
+
+**Missouri Residents Add 6% Sales Tax**
+
+\$
+
+**Shipping for mugs, please add \$5.00 per order for special handling.**
+
+ 
+
+ 
+
+\$
+
+**Shipping for Books, Tapes, etc.  \$5.00 per order except where noted.**
+
+\$
+
+**Shipping for Posters \$5.00 per order**
+
+\$
+
+**Total**
+
+\$
+
+ 
+
+<table width="400" height="200" data-bgcolor="#80FFFF">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td>_____________________ 
+<p>First name</p></td>
+<td>________________________ 
+<p>Middle initial</p></td>
+<td>________________________ 
+<p>Last name</p></td>
+</tr>
+<tr>
+<td>______________________ 
+<p>Address</p></td>
+<td>_______________________ 
+<p>City</p></td>
+<td>__________ 
+<p>State</p></td>
+</tr>
+<tr>
+<td>________________ 
+<p>Zip Code</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Day phone number</td>
+<td>___________________________</td>
+<td></td>
+</tr>
+<tr>
+<td>Night phone number</td>
+<td>___________________________</td>
+<td></td>
+</tr>
+<tr>
+<td>Email address</td>
+<td>___________________________</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+All payments must be in **United States funds.** Overseas checks must be drawn on **United States based banks**. Video tapes are formatted for use in the United States except where the order form lists it in PAL format. Posters ordered by overseas customers cannot be guaranteed the condition of the poster upon arrival. Please contact us if you have any questions. **Canadian customers are encouraged to use Canadian PO Money orders.** Canadian and overseas customers, **please e-mail about postage requirements.** <knapper@specent.com>

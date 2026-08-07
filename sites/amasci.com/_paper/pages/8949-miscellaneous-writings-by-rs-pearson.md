@@ -1,0 +1,43 @@
+---
+title: "Miscellaneous Writings by R.S. Pearson"
+source_domain: amasci.com
+source_path: ~telical/misclit.html
+order: 8949
+reachable_from_entry: false
+images: 1
+internal_links: 3
+extracted: 2026-08-07T17:16:53Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Miscellaneous Writings by R.S. Pearson
+
+*Source page: `~telical/misclit.html`*
+
+# Miscellaneous Writings by R.S. Pearson
+
+\
+
+------------------------------------------------------------------------
+
+[New Writings (2003) -- Temporarily Removed for Further Editing](blank.html)
+
+[New Level of Love](joyoflove.html)
+
+[Spiritual and Philosophical Writings](spiritphilo.html)
+
+[Recent Psychological Writing by R.S.Pearson](RecentPsychologicalWriting.html) Complete Rewrite November 14, 2002.
+
+I have not published on the web or in magazine format any substantially new writings for about three years. One of the main reasons is that I have been doing so many new literary and essay projects that I've been unable to finalize new works. Not liking the feeling of vague disempowerment that comes from a writer not publishing their works, I've decided to put these new writing projects on the web in their present form. Hopefully the more glaring typos and other problems will, in short time, be fixed.
+
+My philosophical and spiritual patterns are in an ever-changing flux and progression and this is another reason why I have had delayed in publishing. Because the pragmatic need of personally taking some far-out worldviews and methods throughout my life, I have seen the need at times to contract a bit into essential patterns which for me took the form of Christian mysticism. But it has not been a basic form of Christianity that I've wanted to express, and this has been hard to describe in writing in a finalized way.
+
+Trying to unify my writings on these patterns of philosophy and spirituality has taken a long time. The literary form of "the fragment," that Pascal used in his Pensees and Novalis used in the majority of his non-fiction writing, has also been the form that I see works best for me in the short term. Fragment theory says that a total system for complex thought is impossible and the truth is only to be hit at by compiling short statements that may not seem to co-exist within a total form. I know that compiling some larger forms for these fragements is possible, but that may be many years away.
+
+In these writings there may be use of various patterns, some might seem are like Christian mysticism, but they are not lost within those forms in themselves because my views are not locked into them. Perhaps someone like Robert Moore, the Jungian psychologist, especially in his taped lectures, comes closes to an overall pattern that I would fit much of my thinking into, but again, I wouldn't want to limit what I write by pointing to him alone.
+
+The main problem with this writing for me is that I touch on several subjects in certain fragments that I may later develop in better ways in following ones.
+
+Be sure to check back for the launch of Telical Books.
+
+<a href="http://www.qksrv.net/click-1431511-10307849" target="_top"><img src="http://www.qksrv.net/image-1431511-10307849" data-border="0" width="468" height="60" /></a>

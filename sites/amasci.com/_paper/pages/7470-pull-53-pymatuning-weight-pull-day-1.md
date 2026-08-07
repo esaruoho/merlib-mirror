@@ -1,0 +1,952 @@
+---
+title: "Pull 53 -- Pymatuning Weight Pull - Day 1"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0001/Pull53.html
+order: 7470
+reachable_from_entry: false
+images: 0
+internal_links: 7
+extracted: 2026-08-07T17:15:02Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 53 -- Pymatuning Weight Pull - Day 1
+
+*Source page: `~samoyed/iwpa/0001/Pull53.html`*
+
+Pymatuning Weight Pull - Day 1\
+Andover, Ohio
+===============================
+
+Pull: 53
+
+Organizer(s):John & Joel Stephens
+
+Snow Region: 6
+
+Snow
+
+Track:Hard packed at start, but melting during the day with the sled digging in at the end.
+
+Date:1/13/2001
+
+Weather:
+
+28F to start, warming up to 44F, then starting to cool back down by the finish.
+
+35 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Diffy
+
+7
+
+460
+
+10.45
+
+34
+
+13.53
+
+7.0
+
+Todd Pederson
+
+Am. PitBull Terrier
+
+Jackie
+
+4
+
+380
+
+16.11
+
+34
+
+11.18
+
+4.0
+
+Bob Bonacorsi
+
+Patterdale Terrier
+
+Calli
+
+7
+
+340
+
+18.36
+
+30
+
+11.33
+
+1.0
+
+Todd Pederson
+
+Am. PitBull Terrier
+
+60 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Starbuck
+
+5
+
+660
+
+4.26
+
+52
+
+12.69
+
+19.0
+
+Steve Jackson
+
+Alaskan Husky
+
+Star
+
+6
+
+660
+
+19.01
+
+56
+
+11.79
+
+16.0
+
+Pam Brillhart
+
+Alaskan Husky
+
+Cody
+
+6
+
+500
+
+4.74
+
+58
+
+8.62
+
+13.0
+
+Larry Brillhart
+
+Siberian Husky
+
+Prince
+
+5
+
+500
+
+5.68
+
+56
+
+8.93
+
+11.0
+
+Douglas Marrero
+
+Siberian Husky
+
+Vito
+
+4
+
+500
+
+6.26
+
+54
+
+9.26
+
+10.0
+
+Bob Bonacorsi
+
+Am. PitBull Terrier
+
+Missy
+
+5
+
+500
+
+7.63
+
+55
+
+9.09
+
+9.0
+
+Edward Higgins
+
+Alaskan Husky
+
+Kindr
+
+5
+
+420
+
+4.50
+
+56
+
+7.50
+
+8.0
+
+Debi Pruznick
+
+Samoyed
+
+Jake
+
+5
+
+420
+
+5.82
+
+52
+
+8.08
+
+7.0
+
+Wendy Leister
+
+Siberian Husky
+
+Zorro
+
+5
+
+420
+
+9.66
+
+52
+
+8.08
+
+6.0
+
+Steve Jackson
+
+Siberian Husky
+
+Majic
+
+6
+
+420
+
+18.53
+
+54
+
+7.78
+
+5.0
+
+Toni Yoakam
+
+Siberian Husky
+
+Sammi
+
+4
+
+340
+
+5.41
+
+54
+
+6.30
+
+4.0
+
+Bob Bonacorsi
+
+Oklahoma Bulldog
+
+Bailey
+
+6
+
+260
+
+4.46
+
+46
+
+5.65
+
+3.0
+
+Toni Yoakam
+
+Siberian Husky
+
+Vinny
+
+6
+
+180
+
+4.04
+
+46
+
+3.91
+
+2.0
+
+Kevin Mccabe
+
+Samoyed
+
+Natasha
+
+5
+
+180
+
+12.38
+
+54
+
+3.33
+
+1.0
+
+Douglas Marrero
+
+Alaskan Malamute
+
+Spot
+
+5
+
+No Pull
+
+60
+
+.
+
+0.0
+
+Edward Higgins
+
+Alaskan Husky
+
+80 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Porky
+
+4
+
+1060
+
+8.56
+
+76
+
+13.95
+
+18.0
+
+Bob Bonacorsi
+
+Oklahoma Bulldog
+
+Nala
+
+7
+
+1060
+
+19.40
+
+74
+
+14.32
+
+15.0
+
+Todd Pederson
+
+Am. Bull Dog
+
+Teddy
+
+5
+
+820
+
+8.16
+
+76
+
+10.79
+
+12.0
+
+Douglas Marrero
+
+Siberian Husky
+
+Tyler
+
+6
+
+820
+
+15.42
+
+62
+
+13.23
+
+10.0
+
+Larry Brillhart
+
+Siberian Husky
+
+Rosie
+
+4
+
+700
+
+5.70
+
+76
+
+9.21
+
+9.0
+
+Bob Bonacorsi
+
+Oklahoma Bulldog
+
+Crystal
+
+6
+
+700
+
+6.98
+
+78
+
+8.97
+
+8.0
+
+Larry Brillhart
+
+Alaskan Malamute
+
+Chief
+
+5
+
+700
+
+38.04
+
+65
+
+10.77
+
+7.0
+
+Edward Higgins
+
+Alaskan Husky
+
+Froggy
+
+7
+
+580
+
+7.44
+
+70
+
+8.29
+
+6.0
+
+Brandon Pederson
+
+Am. Bull Dog
+
+Yuengling
+
+5
+
+580
+
+14.54
+
+72
+
+8.06
+
+5.0
+
+Steve Jackson
+
+German Shepherd
+
+Buck
+
+4
+
+460
+
+7.25
+
+66
+
+6.97
+
+4.0
+
+David Heil
+
+Am. Bull Dog
+
+Iceman
+
+6
+
+340
+
+21.43
+
+66
+
+5.15
+
+3.0
+
+Toni Yoakam
+
+Siberian Husky
+
+Toby
+
+5
+
+340
+
+34.30
+
+62
+
+5.48
+
+2.0
+
+Douglas Marrero
+
+Siberian Husky
+
+Stony
+
+5
+
+340
+
+42.90
+
+74
+
+4.59
+
+1.0
+
+Laura Heft
+
+Alaskan Malamute
+
+Kodi
+
+6
+
+220
+
+41.93
+
+70
+
+3.14
+
+0.5
+
+Toni Yoakam
+
+Siberian Husky
+
+100 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Reba
+
+4
+
+1220
+
+8.20
+
+84
+
+14.52
+
+10.0
+
+David Heil
+
+Am. Bull Dog
+
+Cat
+
+4
+
+1060
+
+9.91
+
+98
+
+10.82
+
+7.0
+
+Bob Bonacorsi
+
+Oklahoma Bulldog
+
+Casper
+
+7
+
+1060
+
+16.05
+
+88
+
+12.05
+
+4.0
+
+Todd Pederson
+
+Am. Bull Dog
+
+Zeus
+
+7
+
+900
+
+5.30
+
+86
+
+10.47
+
+2.0
+
+Todd Pederson
+
+Am. PitBull Terrier
+
+Malcom
+
+5
+
+900
+
+8.00
+
+98
+
+9.18
+
+1.0
+
+John Stephens
+
+Alaskan Malamute
+
+Beef
+
+4
+
+580
+
+38.11
+
+84
+
+6.90
+
+0.5
+
+Bob Bonacorsi
+
+Oklahoma Bulldog
+
+120 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Big
+
+4
+
+1700
+
+8.88
+
+110
+
+15.45
+
+9.0
+
+Bob Bonacorsi
+
+Oklahoma Bulldog
+
+Bubbadog
+
+4
+
+1700
+
+9.75
+
+114
+
+14.91
+
+6.0
+
+Bob Bonacorsi
+
+Alaskan Malamute
+
+Ralph
+
+6
+
+1700
+
+16.47
+
+116
+
+14.66
+
+3.0
+
+Huck Bothner
+
+Gr. Swiss Mtn. Dog
+
+Sarg
+
+6
+
+1060
+
+5.53
+
+110
+
+9.64
+
+1.0
+
+Larry Brillhart
+
+Alaskan Malamute
+
+Buddy
+
+4
+
+900
+
+5.40
+
+115
+
+7.83
+
+0.5
+
+Todd Pederson
+
+Oklahoma Bulldog
+
+Unlimited Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Kobe
+
+5
+
+580
+
+27.70
+
+165
+
+3.52
+
+5.0
+
+John Stephens
+
+Alaskan Malamute
+
+Last Updated: 02:42:16 on 03-06-2001
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](Pull52.html) | [Next Pull \#](Pull54.html) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

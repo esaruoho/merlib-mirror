@@ -6,7 +6,7 @@ order: 712
 reachable_from_entry: false
 images: 2
 internal_links: 0
-extracted: 2026-08-07T05:54:13Z
+extracted: 2026-08-07T17:06:17Z
 extractor: site_to_paper.py (pandoc)
 ---
 

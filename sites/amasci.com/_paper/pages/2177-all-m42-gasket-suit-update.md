@@ -1,0 +1,47 @@
+---
+title: "all_m42_gasket_suit_update"
+source_domain: amasci.com
+source_path: ~dalus/bmw/all/engine/all_m42_gasket_suit_update.html
+order: 2177
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:08:39Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# all_m42_gasket_suit_update
+
+*Source page: `~dalus/bmw/all/engine/all_m42_gasket_suit_update.html`*
+
+[UnofficialBMW.com](http://www.unofficialbmw.com)
+
+\[an error occurred while processing this directive\] <span id="null">From LMendonca@sja.ca Thu Oct 22 13:21:47 1998</span>\
+Date: Thu, 22 Oct 1998 16:03:07 -0400\
+**[From: "Lib Mendonca" \<LMendonca@sja.ca\>](mailto:LMendonca@sja.ca)**\
+To: bmw@mailgate.wizvax.net\
+Cc: amir@achilles.net, Pabrami@alcor.concordia.ca, tsar0002@algonquinc.on.ca,\
+Rbrowne@erols.com, dalus@eskimo.com, gardner@falls.igs.net,\
+**[Subject: Mendonca v. BMW & Elite - OFFER TO SETTLE BY BMW](mailto:LMendonca@sja.ca?SUBJECT=Mendonca%20v.%20BMW%20&%20Elite%20-%20OFFER%20TO%20SETTLE%20BY%20BMW)**\
+
+There is good news and bad news to report in the M42 Profile Gasket dispute.
+
+First the good news: BMW Canada has offered \$2,000 to settle the dispute with me, Liberio Mendonca.
+
+Mr. Ian Sideco, BMW Canada Legal Affairs Manager, sent the offer -WITHOUT PREJUDICE- dated Thursday, September 17th, and repeated the offer in a letter dated Tuesday, September 22nd.
+
+Now the bad news: those of you patient enough to read my entire Statement of Claim, (see the Unofficial E36 Homepage, the address is www.eskimo.com/~dalus/bmw/all/engine/all_m42_profile_gasket_defect_lib.html A FAQ on the subject is:\
+www.eskimo.com/~dalus/bmw/all/engine/all_m42_profile_gasket_faq.html ) will know BMW's offer is just less than half of what I am claiming.
+
+My reply to Mr. Sideco was that he should reconsider his offer.
+
+Firstly, because of the time and effort I have expended to pursue this matter. For over one year now, BMW's intransigence has forced me to spend hours researching and pursuing the claim, but Mr. Sideco considers any claim for time and trouble "untenable".
+
+Secondly, because the Action Line column published in the Wednesday, September 16th, edition of the Ottawa Citizen. Tony Cote's column refers to Ford's recent warranty extension for '93 and '94 Taurus, Sable and Windstar models. These vehicles have faulty gaskets, but, unlike BMW, Ford is striving to satisfy their customers by dealing with the problem in a forthright manner. Can BMW provide less customer service than Ford?
+
+BMW filed a defense on October 20th, and I have requested a pre-trial conference. Updates to follow.
+
+Fight On!
+
+Lib Mendonca\
+Ottawa, Ontario

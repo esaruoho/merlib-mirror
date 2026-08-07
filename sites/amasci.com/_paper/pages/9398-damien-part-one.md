@@ -1,0 +1,1365 @@
+---
+title: "Damien Part One"
+source_domain: amasci.com
+source_path: ~vecna/damien01.html
+order: 9398
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:17:28Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Damien Part One
+
+*Source page: `~vecna/damien01.html`*
+
+# Damien
+
+# Part One: Atonement
+
+by [Christine Morgan](mailto:vecna@eskimo.com)
+
+------------------------------------------------------------------------
+
+\
+Authors Note: the characters of Gargoyles are the property of Disney and are used here without their creators knowledge or permission.\
+Mature readers only, please, due to language, sexual content, and graphic violence. Finished January 2000; approximately 21,000 words.
+
+Commercial: Don't miss [Sabledrake Magazine](http://www.sabledrake.com) for more work by this and other authors!
+
+------------------------------------------------------------------------
+
+\
+     If she knew what he was doing, shed be furious.\
+     But once she understood, shed realize it was in their best interests, and shed forgive.\
+     Comforted by that thought, Jericho settled onto the ledge to wait.\
+     His blood ran at high tide with anticipation, his eyes burned white at the thought of plunging to the wrists into soft pink\
+human belly. Yes, gloving his hands in the steaming mush of sundered entrails, burrowing past lumpy organs, gouging his\
+way deeper until at last his claws grated against vertebrae.\
+     If he did it right, his victim would even still be alive until the moment when Jericho closed the spinal column in his fists\
+and crushed the bones and nerve cord together. Alive and screaming as the guts leaked from the widening rip.\
+     A ranged weapon would have been safer, but there was something so beautifully personal about doing it this way. Hed\
+be able to look into his victims face as life spilled onto the ground.\
+     Jericho shivered as a near-sexual thrill swept him. He bared his teeth to the sky and shook his head so that the icy wind\
+rippled in his wild mane. His fingers curled in longing. A low guttural growl slipped from his mouth.\
+     Ah ... but *control*.\
+     This time, he would not let his eagerness lead him into recklessness. He had planned this with exquisite care, with a painstaking\
+secrecy and deviousness that was unlike him, and he was not about to be ruled by his savage nature now.\
+     Not *yet*.\
+     Not like last time.\
+     He winced at the thought. No, not like last time, never, never again. That his best intentions could have turned so quickly to\
+failure and shame ... and worse ...\
+     Bad enough that he had forgone caution and attempted to capture MacBeth like that. He should have planned, waited,\
+chosen his moment. But the televised trial had reminded him of how he could have lost her, and seething impulse would not\
+be denied.\
+     If he could have brought Tony Dracons head to her on a plate, he would have done so. The news report showed the\
+skunk-striped crimelord being led from the courtroom in chains, struggling against the bailiffs and shouting threats at the\
+turncoat, Pal Joey, whose testimony had landed Dracon a twenty-year sentence. Now Dracon was behind bars and beyond\
+reach of the justice that Jericho would have given him.\
+     Dracon had *killed* her ... even if it had been one of his flunkies that actually pulled the trigger, the hand only obeyed the\
+dictates of the mind. Killed her, and left her for the rats and roaches in an abandoned restaurant.\
+     True, shed come back ... but only by the grace of enchantment. If not for that, she would have been dead and gone, lost to\
+him forever, her murder a matter of little consequence to those who did it. Dracon would have and could have robbed Jericho\
+of everything that mattered to him.\
+     But Dracon was *nothing*. So Jericho kept telling himself. Couldnt have killed her permanently. There was only one way that\
+could happen ...\
+     And so in desperation hed seized upon the idea of MacBeth. Who *could*. Who *would*. So tired of his long and empty life\
+that hed gladly take Demona with him.\
+     Intolerable.\
+     Yet MacBeth was equally invulnerable. A threat that couldnt be ended. But ... a threat that could be contained.\
+     By imprisoning MacBeth, locking him away someplace so secure that hed never be able to escape, Jericho would have been\
+ensuring Demonas life for all time. She would never be taken from him. Let the world throw as many gun-happy Dracons at\
+her as it wished; she would rise again and again.\
+     His carelessness had been his undoing. Rather than plan, rather than wait, he had let his impulses rule him ... and paid a horrible\
+price. Not only had he failed to capture the immortal Scot, but there had been the blackly revolting events that had followed ...\
+     Jerichos gorge surged. He locked his jaw against it, lest he advertise his presence here by spewing his supper onto the oblivious\
+heads of the guards below.\
+     When his innards grudgingly calmed, he gasped several deep breaths to clear the phantom scent of oil and womanflesh from his\
+nostrils.\
+     Oh, better *he* had died that night ... better timid Aiden had left him to his fate rather than seek help. Better *anything* than for\
+Demona to have seen him like that.\
+     She said it didnt matter, she knew he had not been in his right mind. Gustav Sevarius had analyzed the chemical residues clinging\
+to his skin and confirmed that sense-altering agents had been involved. He was blameless, a victim.\
+     But it had hurt her. *He* had hurt her, willingly or not, and he would sooner put out his eyes with a red-hot needle than ever cause\
+her pain.\
+     When done was done, what was left?\
+     Only atonement.\
+     And so Jericho would atone. Not with words, for words were useless. Not with his body, because he was still unworthy.\
+     Until he made the love shine forth from her smile again, until he had proven himself by a deed so devoted that it would assure her\
+beyond any doubt that he was hers and hers alone just as hed always been, he would not let himself enjoy her embrace.\
+     She told him it wasnt necessary, but there was a different truth in her touch. He was not imagining the hesitation there. Tainted, he\
+was tainted now, and could only be cleansed by his own actions. Once he had *proven* himself again, he could go freely to her arms.\
+     He would not fail again. Though it was agony to deny himself, and further agony to deliberately torture himself by watching as she\
+indulged her desires with Godiva ... the two of them, azure and indigo entwined and writhing ... Demona and her insatiable electronic\
+toy ... just the memory made his throat go dry.\
+     When the deed was done. Then and only then, when he had redeemed himself, *then* he would no longer just watch. Well, for a\
+while, yes, why not, it was purest bliss to see Demonas expressions of ecstasy, to be able to observe her for the perfection she was\
+without being so caught up in his own onrushing passion ... watch for a while and then go to her ... anything she wished, anything she\
+commanded.\
+     Anything she wished. That was what he would be, what he would do.\
+     What he would give her.\
+     Demonas fondest, most heartfelt yearning.\
+     Soon.\
+     Perhaps even tonight.\
+     His waiting and planning were about to pay off.
+
+  \*  \*
+
+     If she knew what he was doing, shed be furious.\
+     But once she understood, shed realize it was in their best interests, and shed forgive.\
+     Comforted by that thought, Jason Canmore crossed to the waiting taxi, moving with slow care despite the fact that the sidewalk was\
+salted free of ice.\
+     The air was so cold it blistered his nose and mouth as he inhaled, then puffed out to hang in a cloud that momentarily looked so solid\
+that if he prodded it with his cane, it would fall and shatter on the pavement.\
+     He probably could have done without the cane, but the cold made his lower back ache as if it was clamped in a medieval device meant\
+to extract confessions. And with the deep freeze blanketing the city, he knew there would be other places where the ice hadnt been\
+tended. A single slip, and he could do himself all sorts of misery.\
+     The sky overhead was crystalline and sharp, starlight glittering on the icicles that depended from the ledges. Jason scanned all gargoylian\
+shapes within view, just making sure that all of them were frosted as well.\
+     He finished with a glance up at the lighted window in Robyns room. Her silhouette passed briefly over it, the shadow of a cordless\
+phones antenna sprouting from her head.\
+     Her movements, what little he saw of them, convinced him that she was just as tense and nervous as shed sounded through the wall.\
+     His fault.\
+     She was only doing it to protect him, to protect the family.\
+     Protecting the family was supposed to be *his* job. Hed let her down, and now she was putting herself in danger to keep him out of jail.\
+     He hadnt thought of that. If he had, he might not have been so diligent in his pursuit of recovery. When hed been in that hospital bed,\
+hooked up to more medieval devices, getting the use of his legs back had been his only goal. Hed never stopped to think that his crippling\
+injury was the only thing that had made the judge treat them mercifully. The old theyve suffered enough angle.\
+     Now he was well again, not a hundred percent, not the formidable athlete he had once been, but still no slouch. And some people thought\
+that a second trial might be much less lenient.\
+     Unless, that was, Robyn was willing to play ball.\
+     Some choice. Put her ass on the line as part of this secretive new task force, or she and her brother would both face charges again.\
+     Robyn didnt know that Jason knew as much as he did, which still wasnt much. She ducked the question whenever he tried to ask her\
+what she was looking so worried about, or who that had been on the phone, or what was in that case that arrived via courier. No, shed\
+just tell him she was taking care of some stuff, and that was that.\
+     Protecting him.\
+     That wasnt the way it was supposed to be. He was the oldest. Hed been taking care of Robyn and Jon since they were kids and had\
+no one else.\
+     Fine job hed done of it, too.\
+     Maybe his own injuries had distracted him, but that was behind him now. No more excuse of his paralysis and pain to hide behind. Hed\
+let it dominate his existence for too long, and now that he was himself again, he was appalled at how much hed forgotten.\
+     No wonder he was being haunted.\
+     Hey, buddy, the meters running, the cabby informed him through the narrowest possible crack of a rolled-down window.\
+     Right. Jason opened the back door and folded himself in, carefully, minding his footing on the frozen river of dirty ice in the gutter.\
+     Where we headed tonight, my man?\
+     Anvil Corp, on --\
+     Good deal. Brr. You let out all the hot air. He flicked the heaters switch to its highest possible setting.\
+     Jason leaned back and tuned out the cabbys chatter, looking up again as the car made an illegal U-ee. Didnt see Robyn. Far as she knew,\
+he was going to a movie. Shed have a fit if she knew the truth.\
+     That wasnt *right*. Robyn should be here with him.\
+     He told himself that she would be. Next time, maybe. Shed know better than any of them that they couldnt ignore the past. Couldnt\
+forget. It wouldnt let them.\
+     Do you believe in ghosts? Jason blurted.\
+     The cabby, who had been going on about his sisters kid, only twelve but wanted to get his tongue pierced, what do you think of that,\
+kids today -- broke off and his reflected eyes regarded Jason warily in the rearview.\
+     Say what, buddy?\
+     Nothing. Embarrassed, he pretended to be enthralled with the scenery. They were on a street where iron bars covered every window.\
+Nobody loitered; the night was too damn cold for even the toughest punks.\
+     After a fairly long silence, the cabby switched on the radio and cranked it up.\
+     Dummy, Jason berated himself. Talking about ghosts would only have him end up facing a competency hearing instead of a criminal trial.\
+It might get Robyn out of whatever mess she was getting into, but he didnt particularly like the idea of spending the rest of his life in five-\
+point restraint.\
+     He felt a gust of cold air against his cheek, and even before he turned his head he knew it wasnt because someone had opened a door or\
+window. No, the very *quality* of the cold told him that. This wasnt a brisk and clear winters chill. This was the damp and moldering chill\
+of death.\
+     Jason.\
+     Oh, God, he muttered, too low to be heard over the music. He didnt want to. Couldnt help it. Looked.\
+     It was not his father as Jason remembered him best. This was his father as Jason had seen him last. Broken. One side of his skull caved in, a\
+spongy mess of grey matter bulging through the shards of bone. The eye on that side was pushed out in a bloodshot orb, the other squeezed\
+tightly shut. His limbs were a bundle of jointed sticks and jackstraws within his ripped red and black costume.\
+     What about *me*, Jason?\
+     Nooo ... Jason breathed.\
+     You forgot me.\
+     No, never.\
+     My death meant nothing to you.\
+     It meant *everything*!\
+     Turned your back on our family.\
+     We were *wrong*!\
+     Failed in your purpose.\
+     The gargoyles arent our enemies! They hate the Demon as much as we do!\
+     She laughs.\
+     I know, he moaned wretchedly. I hear her in my dreams.\
+     Why havent you avenged me, Jason?\
+     I cant ...\
+     Avenge me, Jason! You are a Canmore!\
+     Father --\
+     Your brother needs you. You left him, Jason, you and Robyn left him. I always told you to take care of Jon. Youre the oldest. Its your\
+responsibility.\
+     The Demon cant be killed!\
+     You must continue my work, Jason.\
+     Well all die!\
+     He was thrown forward and almost flattened his nose on the bulletproof divider between the front and back seats. Horns blared and\
+other cars swerved around the cab, which was braked in the middle of the street.\
+     Hey, Hamlet! The cabby was pale and scared. Out of my cab!\
+     Jasons face flamed as he realized hed been overheard. Though they were still several blocks from his destination, he didnt argue. He\
+got out, and before he could even free his wallet from his pocket, the cab took off again, turning sharply to swing the door shut. It sped\
+away, leaving him standing there.\
+     No sign of his father. Just a few pedestrians and other drivers looking at him. Jason sighed shakily and used his cane to pick his way to\
+the relative safety of the sidewalk. He fixed his sights on the giant sculpture of a hammer-wielding man -- it was just like something out\
+of one of the Batman movies, he thought -- and began to trudge in that direction.
+
+  \*  \*
+
+     If she knew what he was doing, shed be furious.\
+     But once she understood, shed realize it was in their best interests, and shed forgive.\
+     Comforted by that thought, Jon Canmore buttoned his jacket over the blood-pack strapped to his shoulder.\
+     A tiny wire led from it to his cufflink. One push of the hidden button, and the pack would burst. And show up nicely against his\
+white suit.\
+     Youre certain you know what to do?\
+     Harry the Hammer tried to pick up the gun, but it tumbled from his hand and bounced on the carpet. Do I have to wear these? Its\
+like having on oven mitts.\
+     Jon retrieved the gun. We want the illusion to be perfect, my friend.\
+     Never seen one packing a 9-millimeter. Hows that going to look?\
+     Much better than if you attacked me with your bare claws. Mustnt chance anyone noting that youve got a zipper up your back, or\
+being close enough to try and apprehend you.\
+     Guess youre right. Id hate to get clobbered by one of our own.\
+     Good man, Harry. I know weve had our differences, but when it comes right down to it, theres no one Id rather have assisting me.\
+     Im just glad to see were finally *doing* something.\
+     Jon chuckled. It has been a while. I do admit, Im quite looking forward to tonight. If all goes well, well even bring a lost sheep back\
+into the fold. With Jason on our side, believe me, Harry, well have all the doing something you could ever hope for. Now, youd best\
+run along.\
+     Harry wedged the gun through his belt and carefully made his way to the door.\
+     Mind the Steuben, Jon pointed out casually, grasping a wing edge and bending it down. And once the deed is done, change and\
+hurry back. Your inspired rhetoric never fails to ignite the crowd. As Ive always said, scratch a crowd, find a mob.\
+     You can count on me! He saluted awkwardly, and left.\
+     Alone, Jon checked himself in the mirror. Yes, very sharp, very natty indeed. A winters worth of sunlamps had given him a nice even\
+tan that went well with his blond hair, his mustache was neatly trimmed, and when he smiled, his teeth sparkled and the corners of his blue\
+eyes crinkled warmly.\
+     He was adjusting his tie when someone tapped on the outer door. The tap was followed in short order by Margot Yale.\
+     I still think were underusing security, she said.\
+     And you look lovely too, Jon replied.\
+     Which she did, a nice green gown not so bright that it would draw eyes away from him, lace-trimmed wrap over her shoulders, and some\
+fairly nice jewelry. Not the Vandermere emeralds, shed been quick to point out when he gave them to her, but hed simply had to remind\
+her that the Vandermeres went along with the Vandermere emeralds, and thus was laid to rest that discussion.\
+     Jon ...\
+     Dear Margot, do calm down. Yes, weve gone lightly with the guards at the conference center, but remember, the rest of our organization\
+is holding a meeting of their own right in this building. They could be on the scene in a matter of minutes should anything go amiss. Which it\
+wont. Im perfectly confident with the security arrangements.\
+     But for a rally --\
+     Meeting, he corrected with a hard but gentle edge. Were merely *meeting*. No rabble-rousing. Not even media coverage. Once\
+weve decided our official stance on Senator Harmonds proposals, we --\
+     Yes, yes. Margot flapped a hand at him irritably. Call it what you will. Im just concerned.\
+     He brushed a kiss next to her cheek so as not to disturb her make-up. And I do appreciate it. Now, then ... which tie tack, do you think?\
+     She chose a small gold hammer and pinned it through his silk tie. As she finished, the intercom buzzed.\
+     Mr. Castaway? Theres a gentleman here to see you.\
+     Thatll be Jason, Jon said happily. Ill be right down. He offered his arm to Margot. Shall we?\
+     Your brother ... are you *sure* about this, Jon? Hes one of *them*. A sympathizer. He and that detestable Maza woman --\
+     Margot, Margot, Margot, he laughed. You do go on, dont you? Trust me. Everything is going to be fine.\
+     What if its not?\
+     Well, then, he said with just the right amount of jovial levity, Ill count on you to take care of it, wont I?\
+     His spirits rose as the elevator descended, so by the time the doors slid open and they stepped out, Jon felt as if he might just float to the\
+ceiling. When he saw his brother standing in the lobby, a wide and genuine smile lit his face.\
+     Jason!\
+     Oh, and it was as if the intervening years had never happened ... gone was the hateful wheelchair, the visible reminder of the worst night\
+of their lives. Jason was holding a cane, just *holding* it and not leaning on it, and to the casual observer he might merely have chosen it as\
+a fashion statement, for it did go well with his charcoal-grey suit and overcoat.\
+     His second thought was that the intervening years *had* happened, and by the look of it, more besides ... Jason appeared to have aged\
+double what he should have. He was still handsome, but there was a weathered haggardness to his features that hadnt been there before,\
+and Jon fancied he could even see the advance of silver into Jasons crop of black hair.\
+     It was most apparent around Jasons eyes, their vibrant turquoise clouded with inner troubles and undershadowed with the smudges of\
+one to whom sleep was more and more of a stranger.\
+     Jon ... Jason said, and trailed off.\
+     They hadnt seen each other for almost two years, since Jons son Bryce was born. That last meeting was probably best not brought up.\
+     Ive visited your exhibition, Jon said. Marvelous work. You always were the artistic one of the family. I even bought one of your pieces.\
+    Lady in Garden. Its Mother, isnt it?\
+     Ive been following your career, too, Jason said, but there was no bite in the words. They rang oddly hollow, with just a touch of what\
+Jon believed was wistfulness.\
+     Margot, my dear, would you excuse us? Id like a few moments alone with my brother.\
+     Of course. Its nice to see you again, Mr. Canmore, she said, with a polite nod, just as if she hadnt once vehemently encouraged the\
+courts to throw every book there was at not only the gargoyle-sympathizers but these destructive vigilantes with no regard for human life\
+or property.\
+     Jon beckoned. I think weve just time for a drink before heading over to the auditorium. The rest of the stockholders are there already,\
+so we should have the bar to ourselves.\
+     So they did, except for the discreet and attentive bartender. Jon felt much better once he and Jason were in a corner booth with Glenlivet\
+in front of them.\
+     I was so very glad you called, Jon said, sensing that Jason wasnt going to start.\
+     Its just us. You can drop the British accent.\
+     Sorry. Been doing it so long now ... is that better?\
+     Better. Jason took a hearty swallow.\
+     Jason, *are* you all right?\
+     He put his elbows on the table and his forehead in his hands. God, Jon ... I dont know. Part of me says I shouldnt have come here.\
+The gargoyles arent our enemies! I tried to tell him that but he wouldnt listen, any more than I expect ye will. In his stress, a hint of\
+Jasons own accent began creeping back in.\
+     Who?\
+     But the Demon ... the *Demon*, Jon ... its not all o them, its her. Shes the one. Her sorcery and evil. The others are ... are just ...\
+people.\
+     Thats not true and you know it!\
+     Thats what *ye* tried to tell me the nights of the Hunters Moon.\
+     I was wrong.\
+     No, Jon! Ye were right! Goliath and the rest, they might have been our allies. If wed thought to talk to them first ... if wed even been\
+sure o our target that first time!\
+     Theyre all evil. The Demon may be the worst of them, but you can rest assured that the others are just as bad.\
+     I canna believe that.\
+     Then why are you here? Why did you call me after all this time?\
+     The Demon, Jason whispered. Shes still out there. I dinna care about the others, but she must be stopped. If we dinna at least try,\
+were turnin our backs on our father and everything our ancestors fought for and died for.\
+     At last you speak sense.\
+     Ive seen him, Jon. He comes t me. He canna rest until we finish his work. He says she laughs at us an hes right! I hear her laughin\
+in my dreams. He started to say more, and changed his mind with such suddenness that his teeth clacked shut.\
+     Jason, Jon said soothingly. Its all right. Were together now, and we will finish Fathers work. He checked his watch and finished his\
+drink. Come on and have a listen. Youll see. Were not alone in this now.\
+     What about Robyn?\
+     Shell come around. You did. And ... he hung his head a little, and it was losing the two of you that set me so against the rest of the\
+gargoyles, at first. I thought theyd stolen my family away. It had always been the three of us, dont you remember? Without you and\
+Robyn, I ... I didnt know what else to do.\
+     An Father will rest?\
+     On my life I swear it!\
+     Jason drained his glass. All right. All right, Jon. Ill come an listen t ye.\
+     They left the bar, took the escalator to the second-floor atrium, and crossed the skybridge connecting the Anvil Corporation headquarters\
+to the conference center across the street.\
+     The lightly-manned security points were all as they should be. Jon fingered his cufflink and hid a smile. What would dear brother Jason do,\
+he wondered, when it wasnt the Demon after all? Might just have to re-think your position there, Jason-old-chap!\
+     The auditorium was on the tenth floor, carpeted in topaz-gold that matched the threads running through the rich brown upholstery of the\
+seats. Drapes of a lighter champagne shade were tied in the center with gold braided cord, revealing wedges of the light-spangled city view.\
+     At the front of the room, a podium stood before a lowered screen. Later in the proceedings, Jon planned to have a short video presentation.\
+     People like Harry the Hammer might think hed spent the past year hiding his head in the sand, but hed actually been quite busy. Even\
+before the Harmond Bill, as it was already coming to be called, hed been taking steps to re-create the Quarrymen and present them to\
+the public as a civic-minded organization equivalent to any of the benevolent fraternal orders.\
+     The seats were three-quarters full. Most of the attendees were men in the comfortable upper reaches of age, wealth, and weight. Solid,\
+respectable members of the community. Bankers. Businessmen. Brandy and cigars and five-hundred-a-plate Republican dinners.\
+     The rear rows were filled with a younger and more diverse group. Chapter leaders, the boys who actually donned the blue hoods and\
+swung the hammers and personally recruited others into the honored ranks. A few of them were in on his little stunt, just enough to make\
+sure that nobody accidentally slaughtered poor Harry.\
+     Margot had, with her usual canniness, saved Jason a spot in the front rank. Jon gave his brother a supportive nod as he made his way up\
+to the podium. A welcoming wave of applause greeted him, with cheers and some chanting of his name from the back rows.\
+     Jon risked a glance up at the balcony. It was dark, locked and guarded. But as it happened, the guard would have been called away for\
+just a few crucial moments. And spare keys were such handy things. He thought he saw a shadow stir up there in the back.\
+     Satisfied, he turned his most charismatic smile on the audience and began his speech, noting Jasons minor twitch of disapproval as he\
+poured on the accent full-force. Opening with a humorous anecdote to get these well-fed moneybags in a jolly mood, he then got down to\
+brass tacks.\
+     Some of these men were old friends of William Harmond, moved in the same circles as the retired politician. But they were *here* tonight\
+instead of at the banquet in Harmonds honor, here and all but eating out of Jons palm as he outlined all the reasons they should take firm,\
+decisive action against Harmonds position.\
+     Because where will this lead, my friends? Jon asked, gripping the sides of the podium and fixing them with a sincere, concerned stare.\
+Were already seeing --\
+     BANG! BANG! BANG!\
+     Jon jumped. No! Too early! Just one shot, you idiot!\
+     He scrabbled for his wrist, hoping the initial moment of confusion would cover the delay in the appearance of blood, preparing to stumble\
+back against the screen.\
+     But then he saw the smoke billowing from one of the windows and realized it hadnt been the sound of pistol-blanks at all but of small\
+explosive devices.\
+     The window toppled inward, hinges and latch burst like metal flowers. The entire twenty-foot-high frame and pane shimmered like a\
+mirage before striking one of the chandeliers and shattering. Glass fell in whickering flickering lacerating shards onto middle rows of the\
+audience.\
+     A gargoyle dove through the opening. Jon, badly confused, thought to himself how amazingly lifelike Harrys costume looked once he\
+was playing the part.\
+     Then he realized that Harrys costume had included no provisions for flying ...\
+     The gargoyle was upon him before he could do more than take a single backward step. The podium crashed over at a single swipe of\
+the muscular tail. The gun that Jon had secreted in there just in case was knocked out of its hiding place and into the third row.\
+     Jon recognized the blue-skinned male. His mind flashed back to New Years Eve, over a year ago. The son of the Demon and the hated\
+Goliath. Worst of both worlds.\
+     He yelped in fright and turned to flee.\
+     A clawed hand slammed down on his shoulder, popping the blood-pack. It doused his white jacket exactly as shockingly as it was\
+supposed to, adding a fresh spate of screams and shouts to the chaos already reigning in the auditorium.\
+     The gargoyle spun him around and raked another set of claws across his stomach.\
+     Once again, crimson soaked startlingly vivid against the white, but this time there was something else that went with it -- a silvery-hot\
+bolt that seemed to shoot from Jons belly up to his temples and down to his toes.\
+     The claws *dug* and him and then they were *in*, awful and rupturing, widening the gashes and forcing themselves deeper into his torn flesh.\
+     Jon shrieked and caught the monsters wrist, trying to push the invading claws away from him, out of him.\
+     The gargoyle laughed, low and evil and utterly self-contented.\
+     Blood everywhere. Blood and more. Jon was suddenly afraid hed voided his bladder and just as suddenly sure that incontinence was the\
+*least* of his troubles.\
+     A stick rose and fell, landing with a meaty *thwack*!\
+     No, not a stick. A *cane*.
+
+  \*  \*
+
+     Jason Canmore roared in fury and whipped his cane around again. This time it hit the gargoyle full in the face, splitting the skin of his\
+brow ridge and cheekbone, driving his head back like a punted football.\
+     The gargoyles hand, slimed halfway to the elbow with blood and other substances never meant to see the outside of a human, came\
+out of Jons body with a gruesome wet sucking sound. It was followed by a slithery plop that was a coil of Jons intestine looping down\
+to slap against the sodden front of his pants.\
+     The stink was unbelievable but Jason didnt let it reach him. Rage wanted to possess him and he gave in to it gladly.\
+     Rather than swing, he thrust the cane like a fencer. The tip, metal-shod but not sharp, punched through the gargoyles wing membrane.\
+     Jason prepared to rip it downward, shredding the bastards wing. But the gargoyle kicked, incredible starburst of agony as Jasons elbow\
+was slammed in a direction it wasnt supposed to bend, then a rotted-plank crack and his right arm was a limp shell of meat filled with a\
+thousand yellowjackets.\
+     Half-blinded by the pain, he somehow got ahold of his cane with his left hand and lashed out, clumsy but good enough, another hit to the\
+head, ear-cartilage crunching like popcorn.\
+     BANG!\
+     The gargoyle jerked as a bullet drilled into the thick part of his calf.\
+     Jason swung and missed, spotted Margot Yale in the third row, gown and hair mussed. She was correcting her aim in proper target-shooters\
+stance, eyes wild but hands steady.\
+     The gargoyle saw the barrel of the gun line up with his chest. He leapt/twisted as Margot fired. Hot lead carved a bleeding crease along\
+his side.\
+     He bounded for the gap where the window had once been, plowing through and trampling the audience. In the back of the room, the\
+younger men were fighting to move forward through the struggling, escape-seeking throng.\
+      Jason gave chase, but the gargoyle was out and away before he could cross half the distance. Bellowing incoherent obscenities, he hurled\
+his cane through the gap and into the freezing wind, and ran back to the stage.\
+     Margot was kneeling in a puddle of unthinkable gore, Jons head cradled in the lap of her evening gown. Jason didnt dare look too closely\
+at what had been done to him. He bent over his brother, shaking his head frantically.\
+     Jon! Jonny!\
+     Incredibly, horribly, Jon was conscious. Jaaaayyyyy-sssson ...\
+     Dinna try to speak!\
+     Someone call a doctor! Margot shrilled.\
+     Im a doctor, a portly gent replied on autopilot, got near enough to have a gander at his would-be patient, and stumbled away retching.\
+     Jaayysson ... you ... Jons chest hitched and a runnel of blood flowed from the corner of his mouth. He raised one hand, slow and\
+unsteady like that of a drowner.\
+     Jason reached for it, but Jon didnt take his. Instead, his trembling, red-dripping fingers wavered up, up, to touch Jasons forehead.\
+     Always, Jon gurgled. Always ... be ...\
+     Aye, Jason said. I will, Jon.\
+     A faint smile tugged Jons lips. His eyes rolled up, and he went limp. His fingers slid across Jasons face. Margot caught the falling arm\
+before it could land on Jons ravaged stomach. She burst into tears and started rocking back and forth, keening Jons name like a banshee.\
+     Jason slowly got up. All around him, people were running and carrying on, but he seemed to exist in the center of a cloud that blurred sight\
+and muffled all noise. He barely noticed when paramedics charged in.\
+     Moving as if sleepwalking, he made his way over to the surviving windows and looked out. The glass showed him a distorted image of the\
+room behind him, and his own ghostly reflection ...\
+     With three red lines streaked diagonally, the marks left by Jons fingers.\
+     Aye, Jason repeated softly. The Hunter.
+
+  \*  \*
+
+     The wind whistled through the hole in Jerichos wing as he left the scene.\
+     Hed have to be careful or it would tear more. But on the plus side, it meant he didnt have to pretend to glide more slowly and awkwardly\
+than usual. Theyd have no trouble seeing where he was going.\
+     To that, add a bullet in his leg, the grazed path of a second along his side, a painfully swelling brow ridge, a throbbing ear, and a welt on his\
+back that wasnt really worth mentioning.\
+     Still ... he had nothing to whine about. At least his guts were still all where they belonged, and *his* plan was going as it was supposed to.\
+     He hoped Castaway had spent at least one of his last seconds mulling on the particular irony of it all. That he should, on the one night hed\
+staged his own mock assassination attempt by a Quarryman in a gargoyle costume, be butchered by a *real* gargoyle ... that his best\
+warriors would have been warned to *expect* a false attack and by the time theyd realized it was genuine, theyd be too late do do much\
+more than watch.\
+     Jericho laughed and congratulated himself on his luck. Of all the things to overhear while casing out the Anvil Building! Castaway and\
+Harry the Hammer, thinking themselves so cunning and sly!\
+     The brother, though ... that had been unexpected and almost dangerous. But almost didnt count.\
+     He dipped his head for a casual glance.\
+     Yep.\
+     Being followed.\
+     Just as planned.\
+     Now the tricky part. If they attacked tonight, he was ready. Even wounded, he would still be able to go through with his part. If cooler\
+heads prevailed, they might be smart enough to wait until morning. That would foul things up, though Jericho was still willing to bet that\
+once dusk came, hed still have the conditions that he needed.\
+     Best of all if they considerately waited until tomorrow night, giving him a days sleep to be back in fighting trim, but he couldnt count\
+on that.\
+     In fact, maybe the brothers presence would be the extra fuel to the fire that would guarantee a hasty attack tonight.\
+     He glided on, faltering more visibly than he had to as he descended toward the entrance. They wouldnt rush in right after him, no. Theyd\
+go back, tell the others, get their hoods and hammers and other toys. By the time the fun really got underway, hed be far from here,\
+waiting for what he knew would happen next.
+
+  \*  \*
+
+     Aaron Gillespies motorcycle skidded on a patch of ice. The side of a bakery truck loomed large, larger, a smiling blueberry muffin-man\
+with stick-figure arms and legs coming right at him.\
+     He tried to swerve and the wheels shot out from under him. He and the bike screeched along the asphalt, sparks flying. Aaron let go of\
+the handlebars and parted ways with the machine, letting his momentum carry him under the truck. A cushion of slush sent him on through\
+like a pig in a mudslide.\
+     His head clonked against a pipe on the underside but he was wearing his brain-bucket so he only saw stars instead of getting scalped.\
+     He emerged on the other side with his jeans, leather chaps, and jacket drenched. But the important thing was that when he looked up,\
+he saw the gargoyle swooping through an arch, and he knew exactly where the son of a bitch was going.\
+     Now we gotcha! he panted excitedly. Shoulda cleaned that place out *years* ago!\
+     The bike wasnt going anywhere, not with the rear wheel bent like that. Aaron didnt even bother trying. He had better things to think\
+about than his bike. Like kicking some gargoyle ass! He was ready for it this time!\
+     The lair, Aaron thought. The nest.\
+     A bunch of them. Yeah. Maybe even the ones with which Aaron had personal scores to settle.\
+     Like the big-beaked dickwad whod tried to pass himself off as a biker, only to have his bitch jump out and the two of them trashed on\
+Aaron and all his buddies. Or the tubba-lard that dropped a hot-dog cart on Aaron once when the stupid twat whose purse hed grabbed\
+started caterwauling even though he told her to shut her yap. Or the old fart and the dog ... yeah, he owed them for butting in when he and\
+some of his friends had been just having a little harmless fun stomping some queers in the park.\
+     He jogged back the way hed come, and less than a minute later, a dark blue van squealed around the corner. Ten people had piled into\
+it but there was room for one more, especially when Aaron told them what hed seen.
+
+  \*  \*
+
+     Harry the Hammer was sweltering inside his costume but he didnt dare stop yet.\
+     Had to get away. Follow the plan. Even if the plan had apparently gone totally bonkers. Play it like it was on track. Dont think about J.C.\
+Gods hands. He was in Gods hands now. If J.C. was, as his initials implied, chosen to lead them ... but then, God had seen His own son\
+put up on a post while Centurions jeered ...\
+     Tears made tickly paths on his cheeks and he couldnt get at them with the mask on. He yanked at it, heard the farty sound of Velcro\
+letting go, and then cold air blasted his exposed face.\
+     He stuffed the mask into his belt. Had to ditch the suit. If the cops found it, theyd know the whole thing had been a stunt -- even though\
+it *hadnt* been! but theyd never believe that, even if Harry explained.\
+     Ditch the suit. Just like planned. Then go back.\
+     But what would happen after that? How could J.C. follow through? This wasnt a pretend wound, so he could gamely put his arm in a\
+sling and still play the charismatic leader, determined to triumph despite his suffering. Not if he was ... if he was ...\
+     If he *was*, it was Gods will ...\
+     No!\
+     Couldnt be Gods will! Not for a gargoyles hand to do the deed! They were creatures of evil! Beyond Gods control!\
+     *Nothing* was beyond His control!\
+     Except maybe for demons ... it was the end times, Harry knew that. The end times. Oh, the date might be off by a year or two, but\
+the Imp of Darkness was already born and among them! Even if it wasnt yet her time to rule, it was an era of evil.\
+     He became aware that he was praying continually under his breath as he pelted up the fire stairs, his tail whapping the steps behind\
+him, his stuffed talon-toed overshoes dangling from their straps at the end of his arm because he could barely walk in them, let alone\
+run or climb.\
+     His wings scraped at the dingy graffiti-covered walls and tried to wedge him in when he had to corner at the landings. Couldnt stop\
+to unhook them; theyd be as much of a bitch to carry as they were to wear.\
+     How had it gone so wrong so fast? It wasnt supposed to be like this!\
+     What had brought it upon them?\
+     J.C.s pride? Pride, the mother of sin?\
+     It had been the evil of the demons, that was all there was to it. Insidious evil at work.\
+     If only hed been successful in killing the Imp! Hed been so *close*! But hed let God down twice, letting the Imp and the Devils\
+Handmaid escape. Hed seen right away that it had been a mistake to presume to be guided by his own will. He was meant to be a\
+follower, and hadnt shown proper faith in his designated leader.\
+     This plan was to have been his atonement, and the Devil must have sensed it. Feared it! Known that the forces of good and right\
+were finally growing strong and gathering against him! That his Imp and all her foul protectors would be sought out and destroyed,\
+the Dark Madonna pierced through the breast and daubed with ashes and sent to wander the land in garments of brambles, so that\
+the righteous could cast her down with flung stones.\
+     So, to ruin Harrys road to forgiveness, to undermine J.C.s power, the Devil sent one of his vile Minions to try and ruin everything!\
+     Well, Mr. Splitfoot was reckoning without Harry! He was going to carry out his mission! Either way, he was going to carry out his\
+mission! If J.C. was dead, Harry was going to do his utmost to see that all the world knew his martyrdom. And if J.C. lived -- it\
+seemed impossible, Harry had seen the Minions claws plunge deep, but surely miracles *were* possible and who better to be the\
+recipient than their chosen leader? -- if he lived, he would want Harry to hold up his end of things.\
+     And he would.\
+     He reached the top floor, heart galloping in his chest, and emerged onto the roofs iceswept lunar landscape. With one eye fixed\
+firmly skyward, half-expecting hoards of howling demons to dive down on him, he unbuckled and shrugged out of the harness that\
+held his fake wings to his back. Next was the belt, complete with attached tail and loincloth.\
+     That left him in a padded purple bodysuit. He wiggled out of it, thankful that it was bulky enough for him to have worn ski pants and\
+two sweaters underneath. He was still sweating like crazy despite the frigid wind, despite the fact that it felt like icicles were forming\
+on his nose and eyebrows and a fine glaze of frost was coating every inch of visible skin.\
+     He wrapped the costume in as small a bundle as he could manage, folding the wings around it and using bungee cords to hold it all\
+together. The mask slipped out and lay there, vacant sockets staring up at him in mute accusation from beneath a snarl of hair. He\
+stuffed it back into the middle and crammed the whole thing into the big Army-surplus backpack hed hidden up here earlier.\
+     The whupping of rotors drummed louder in the night, and a stark white beam speared from the underbelly of a helicopter as it zoomed\
+between buildings to zero in on the conference center.\
+     Harry hunched over, the weight of the backpack dragging at his shoulders, and scuttled crablike to the far edge of the roof. A crude\
+bridge, just a bunch of planks held together by a few nails, led to the next building over.\
+     Luckily, the same hard-frozen snowdrifts that nearly landed him on his butt several times also prevented him from leaving any telltale\
+tracks. Harry crept across the bridge on hands and knees, all too aware of the wind pushing at him and the bulging backpack.\
+     He made it, and dragged the plank construction after him. Just as it clattered down, the helicopter began a sweeping circular pass, and\
+    Harry threw himself flat.\
+     The spotlight traced the roof and ledges of the conference center. That was where theyd be looking, at least at first. It gave him a little\
+time. He scootched backward, pulling the planks, all the way to the other side.\
+     Hed planned it all. The next building was undergoing a big remodel, and a large Dumpster full of wallboard and other debris was\
+parked squarely between them. Harry pushed his bridge over, watching it flip and careen and almost get tossed by a sudden gust, then\
+land right in the Dumpster.\
+     Two points, he cackled.\
+     Another helicopter droned into view. They were going all out -- no, that one was a medical chopper. A good sign?\
+     His next stop was the roof access door. The lock had been cut earlier that day by Harry himself; he supposed that someone *might*\
+have come up, seen it, and replaced it all in one day, but that hadnt happened. He went in -- incredible relief just to get out of the\
+cold -- and went straight to the incinerator chute.\
+     He shoved his bundle down, backpack and all, into the hungry dark throat with a flicker of red far, far below ... like a vision of the\
+gates of Hell, so he was sending this gargoyle costume right where it belonged!\
+     Harry paused a moment, leaning his head against the wall, to wipe his brow and catch his breath. So far, so good. Evidence was already\
+charring into ashes.\
+     He still had the 9-millimeter, and the original plan had been to ditch it too. But he hadnt used it, hadnt even drawn it. It was still loaded\
+with blanks, but he also had ammo so it was an easy matter to replace that. He wasnt sure if it would be a good idea to drop the blank\
+rounds down the chute too; he didnt know if theyd explode or not. Better to err on the side of caution.\
+     There.\
+     What now?\
+     His part of the script called for rushing back to the scene and joining the others, where J.C. would, wounded but gamely plugging along,\
+inspire them all to even greater efforts against the evil enemy.\
+     That wasnt going to be the case now. Which meant the rest of the script was no good, and he had to improvise.\
+     What would J.C. do?\
+     He grinned a little at that, not sure if it was blasphemous or not.\
+     It all crashed in on him then. He crumpled to his knees with a miserable wail, seeing in his minds eye the blue monster, rippling with muscle\
+and malice, those demonic eyes full of white fire, witnessing the attack in memory as clearly as if it were happening all over again, right here\
+in front of him.\
+     Maybe there *was* something he could do.\
+     Maybe it was time. Time to be the Hammer of God, and smite down the evil beast that dared lay its filthy touch on a righteous man.\
+     Harry looked up. There was nothing to see but a watermarked ceiling with a single bulb hanging from a chain-pull socket, but his face lit\
+up as if he beheld the full majesty of all divine creation.\
+     He would do it. He would accept this glorious task. What good man wouldnt? The chance to be the instrument of divine wrath. Hed\
+find the demon and he would slay it.\
+     With strong and purposeful strides, Harry the Hammer set forth, never doubting that his faith would lead him to his prey.
+
+  \*  \*
+
+     Go wi him, Jason said. Stay wi him.\
+     What ... what about ... you?\
+     Margots hands were shaking as badly as her voice, the water in the cup she held tossing like a stormy sea. But the pill that one of the medics\
+had urged on her was beginning to take effect. At least it had stopped her from that terrible keening, and theyd been able to persuade her to\
+let go of Jon so they could move him to a stretcher.\
+     Jason dimly supposed that he ought to offer some words of comfort to her, but none would come. She would just have to be strong. If she\
+couldnt be, she wasnt fit to be a Hunters woman. Shed learn, or shed run.\
+     Were taking him out now, an earnest, handsome young medic said.\
+     Ill stay, Jason told her. Ye go wi Jonny.\
+     He didnt move as they wheeled his brother out. Margot went with them, a plain white blanket held tight around her.\
+     The other wounded were being tended, the worst of them transferred to ambulances. Already, the police were everywhere, and already\
+they had begun their snide suggestions that this was all a publicity stunt that had gotten out of control.\
+     Jason turned away from them, knowing that if anyone made such a remark to his face, he would kill that person.\
+     He watched out the window instead, the babble of the room behind him fading so that it seemed he was viewing a silent movie below.\
+     The medics appeared, rolling Jon toward the waiting helicopter. He had a glimpse of the pale oval of his brothers face. Not covered. Still\
+alive.\
+     The street had filled up fast with emergency vehicles of all descriptions. There werent many gawkers, thanks to the hour, the wind, and the\
+twenty-degree temperature, but there were some ... and Jason knew that the reporters would be on their way.\
+     Another car threaded through the barricades. Even from here, Jason could identify the red and white Fairlane.\
+     His jaw tightened until cords stood out on his neck.\
+     Elisa.\
+     She got out of the drivers side, the wind catching her black hair until she pulled up and tied the hood of her parka. Matt Bluestone got out\
+of the other side, winding a scarf around the lower half of his face.\
+     Margot, preparing to enter the helicopter, stopped and turned. She and Elisa stared at each other across thirty yards, with such venom that\
+cops paused in their tasks to look.\
+     The glare-down was broken when a young thug in a black leather jacket and motorcycle helmet raced up to Margot. Jasons pulse sped up\
+as he recognized the man -- one of several that had rushed from the room to follow the gargoyle. Margot shook her head and pointed,\
+directing him toward the building.\
+     Elisa and Matt hurried toward the man, but couldnt reach him before he got inside. Elisa almost fell, and as is human nature, looked to see\
+what had tripped her. Went back. Picked it up.\
+     A cane.\
+     *His* cane.\
+     Jason backed hastily away from the window. He headed for the exit, and when a medic tried to intercept him, mistaking Jons blood for\
+his own, Jason shoved him so hard that he went heels-up over one of the seats.\
+     The elevator dinged just as he reached it and the doors parted to reveal the young man in the helmet.\
+     Yere comin wi me, Jason said, seizing him by the arm and propelling him halfway down the hall before the man recovered.\
+     Hey! Hands off, okay? I was looking for you. The Yale chick says youre in charge. That true?\
+     Aye. Did ye find where the monster went?\
+     The helmet bobbed in a nod. Yeah, but its a nest, a fucking *den* of them, could be fifty or more! I seen it on a TV show.\
+     Dye know where my brother keeps his weapons?\
+     Another nod.\
+     Third time pays fer all, boy. Can ye rally me an army?
+
+  \*  \*
+
+     I should be there with you, Goliaths deep voice rumbled in her ear.\
+     Elisa snuggled her face down into the collar of her parka as if for warmth and spoke into the tiny microphone. Bad idea, big guy. This\
+place is *crawling* with Quarrymen and theyre claiming a gargoyle attacked them. If you showed up, theyd go nuts.\
+     Its not safe for you.\
+     Place is also crawling with cops, she told him. Hang on, here comes Matt.\
+     Her partner shook his head and pursed his lips as he approached, letting her know hed learned something and it was a doozy. Get this --\
+according to one of the saps on guard, our good buddy Castaway was planning himself a little assassination attempt. Had a guy in a\
+gargoyle suit all set up and everything. But it got out of hand, so now theyre trying to save face, saying it was a *real* gargoyle.\
+     Thats a new one.\
+     I asked them to bring me this alleged phony, and wouldnt you know, he skedaddled too. Convenient, huh?\
+     These guys. Elisa rolled her eyes.\
+     But even so, we better question everybody. What are you doing with that thing?\
+     This? Found it out there. Tripped on it, actually. But this is the weird part ... Matt, maybe Im crazy here, but Id swear this cane belongs\
+to Jason Canmore.\
+     Say what? What would *Jason* be doing at this lodge meeting?\
+     Its got his initials on it.\
+     So maybe Jonny-boy took to carrying one. Those are his initials too.\
+     Yeah ...\
+     Give him a call later. Right now, lets see if we can find that guy in biker gear. He looked like he knew something.\
+     A hoax? Goliath asked softly as Elisa followed Matt.\
+     Maybe. I sure wouldnt put it past them.\
+     They have been too quiet lately.\
+     I know. I dont like this. Theres something all off-kilter about it.\
+     Be careful.\
+     Always am.\
+     I should be there --\
+     Goliath, come on, if this *is* a hoax the last thing we need is a real sighting for these clowns. Theres something you could do for me,\
+though. Have Angela or someone call over to the Canmores and see if Jasons there. He probably is and Ill feel like a dummy, but ...\
+     Should they be told what happened?\
+     Uh ... better leave that to me.\
+     The guy in biker gear wasnt around. Neither were several of the others that Elisa would have expected to see. Most of the really\
+dedicated fanatics werent present, and the ones that she and Matt tried to talk to were shocked to the bone.\
+     Elisa?\
+     Yeah, go ahead, Goliath.\
+     Angela spoke to Robyn. He paused weightily. Jason has been out all evening. He told her he was going to a movie.\
+     Damn. Okay, but it still doesnt mean he was *here*. Could be a coincidence.\
+     Coincidence? Aint no such animal, Matt said agreeably, returning and giving her a cup of coffee. What is?\
+     That Jasons not home.\
+     Doesnt mean much. Its a big city.\
+     Im aware of that, Matthew.\
+     Im just saying, is all, that we might have better luck starting with people who *are* here instead of worrying about people who arent.\
+     Yeah? Its the people who *arent* here that we should worry about. Like Harry the Hammer, for instance. Seen him around?\
+     So what? Castaway was putting on a show for the money-men. He probably left his real freakshows home so they didnt make bad\
+impressions.\
+     Probably, but I still dont like it.
+
+  \*  \*
+
+     Jericho just had to laugh.\
+     From his vantage point, he could see the police cars all clustered around one building, all the ambulances and activity, the news\
+reporters arriving to set up their cameras, the injured being led out, statements being taken, questions being asked.\
+     And meanwhile, from the rear of the neighboring Anvil Corp Building, a small fleet of vans was leaving with headlights off, cruising slowly\
+away from the scene, out of sight of everyone else.\
+     Six vans. Each able to hold between eight and a dozen. A respectable fighting force, especially on such short notice. Then again, maybe\
+the Hunter had arranged to have his troops nearby, in case emotions ran so high that a riot was called for.\
+     He shifted on his perch and his calf twinged. Hed been able to dig the bullet out with his claws, and patch himself up with supplies from\
+a first-aid kit that hed tucked in with the rest of the gear that he would be needing later. Since it looked as if the Quarrymen were going\
+to oblige after all.\
+     Foolish humans. Just like Demona always said.\
+     The thought of her erased all the nagging pains of his injuries. It *would* be tonight. Before dawn claimed him in stone, he would be able\
+to present her with the gift that she desired above all others. He would see her eyes widen with joy, and she would look at him and\
+know that his love for her was utter and complete. Shed throw her arms around him ...\
+     Jericho made a small needful sound\
+     Anything for her. Everything for her.
+
+  \*  \*
+
+     I double-checked all the wards, Aiden Ferguson reported.\
+     And I checked the security systems, her mate chimed in. Everythings all set.\
+     Goliath nodded approvingly at them. Good work.\
+     You dont really think theyd come *here*, do you? Angela asked. Not after they tried a year ago New Years and couldnt even get\
+near?\
+     Brooklyn and Hudson tromped down the stairs, Hudson blowing on his hands to warm them. Bronx sprang up from where hed been\
+lounging by the fire and cavorted gleefully around Hudsons legs.\
+     We took a quick patrol like you asked, and nothings going on for blocks in any direction, Brooklyn said.\
+     Aye, were na the only ones to decide to stay home tonight, Hudson added, giving Goliath a sour look; he was none too pleased at\
+being torn away from his *Fawlty Towers* marathon on PBS.\
+     Theyve gotta be up to something, Lexington said. Elisas hunches arent often wrong.\
+     Yet not here, Goliath said thoughtfully. Could they be moving against Nightstone?\
+     Well, if that be the case, Hudson said, sinking into his chair with a grateful sigh, we neednt be bestirring ourselves thelp.\
+     Yeah. Brooklyn poked Aiden. Demona and Jericho can fend for themselves.\
+     She blushed.\
+     What about crashing the banquet? Lex suggested. Its not like Xanatos and Senator Harmond made a secret about some gargoyles\
+being there. They could be after Gabriel, Broadway, and Elektra.\
+     Maybe more of us should have gone, Angela said.\
+     But Mr. Xanatos didnt want to freak out the guests, Aiden said. He wanted the non-scariest ones of us. When they all raised brow\
+ridges at her, she blushed even darker. Except that I couldnt *ever* get up in front of all those people. Elektra was the runner-up.\
+     Gabriels pretty intimidating, though, Brooklyn noted.\
+     But hes Katherines lad through and through, Hudson said. A fair and diplomatic leader.\
+     Hhrm, Goliath commented.\
+     Is that hhrm, the princess wasnt very diplomatic to us, or hhrm, and that means Im not? Brooklyn teased.\
+     The alarms commenced beeping. Lex was off the couch like a shot, vaulting over the unconcerned Amber as she sat on the floor with her\
+blocks. The rest of the clan all tensed in readiness.\
+     Uh-oh, Lex said. Weve got an unidentified coming in, and fast.\
+     That doesna help much, Hudson growled, hauling himself back out of his chair.\
+     Aiden? Goliath asked.\
+     Her eyes went hazy. Nope, wards arent getting anything, no hostile intent.\
+     Lex fiddled with his console; his personal computer was hooked into the castles monitors. On-camera. Hey! Its *Claw*! And hes got\
+the twins with him!\
+     Huh? Brooklyn leaned over Lexs shoulder. Whats ... whoa, hes hurt! Come on! He loped for the stairs with Angela at his side.\
+     Bronx, protect Amber! Goliath ordered, then followed.\
+     They came out into a cold so sharp that even gargoyle hide broke out in goosebumps. The battlements twinkled beneath a coating of frost.\
+     Claw was still a hundred yards out and listing to the right, and the Maza twins, Tom and Dee, were flapping their own little wings frantically\
+as if in hopes of helping tow him along.\
+     It had only been a few weeks since his miraculous awakening from the coma that had held him for so long. His limbs had begun to pull up\
+into a fetal position as those of coma patients sometimes did, and despite coming out of it with a prodigious appetite, he hadnt regained the\
+weight or muscle tone hed had before. His tiger-striped fur was faded and lusterless, and the wings that steered him toward the tower were\
+so thin that the clan could see the starlight shining through the translucent skin.\
+     Brooklyn and Goliath reached Claw at the same time, each getting a shoulder under one of his arms. He raised his shaggy head and blinked\
+at them in relief.\
+     When they landed and the twins had scrambled down, Goliath saw the puffed and blood-crusted wound on Claws back. It was squarely\
+between the tops of his wingjoints, and the fur around it was crisped and black.\
+     Quarryman hammer, he said grimly, the muscles of his own back twitching in sympathy.\
+     Hit him in the *back*? Damn dirty fighters! Brooklyn punched a fist into his other hand. So theyre at the Labyrinth? Why?\
+     Claw nodded, and grasped the forearms of both leader and second imploringly.\
+     Where are Maggie, Talon? Angela asked.\
+     Delilah? Hudson cut in, coughed self-consciously, added, Samson?\
+     With gestures and expressions, Claw pantomimed battle, a sense of urgency, conveyed the message that Maggie had sent him to take the\
+twins to safety and seek help.\
+     We wont know why until we get there, Goliath said. Hudson, you and Bronx stay here with Claw and the children. The rest of us will\
+go. Without waiting for a response, he dove from the tower.\
+     Should we call Mr. Xanatos? Aiden asked, leaping hand-in-hand with Lex.\
+     No time. Goliath reached for the transmitter that hung from a cord around his neck.
+
+  \*  \*
+
+     It was working perfectly.\
+     He knew the moment it all came together, because down below, he could see the figures of the two detectives, Elisa Maza and her\
+trenchcoated partner, dash out of the conference center, go through a clamoring line of reporters like a pair of charging bulls, leap\
+into her car, and peel out.\
+     Still moving with care and caution, Jericho slung a bundle over his arm and walked along the ledge. One corner, and now he could\
+only see the revolving whirls of flashers thrown onto the walls. Another corner, and the scene was blotted from his view, but he could\
+see a rising majestic skyscraper of glass and steel, topped with ancient Scottish stone.\
+     And yes, there ... almost invisible against the sky ... one, two, three, four, five shadows gliding away from it. Plus the three that were\
+with Senator Harmond, simpering and kissing up to humans. That left only Hudson and the watch-beast, no doubt left behind to look\
+after the child.\
+     He didnt even have to worry about the other inhabitants of the castle; Xanatos had taken his wife and son to the banquet as well to\
+show that the gargoyle rights movement was a wholesome family pursuit, and as an added stroke of luck, Jericho had ascertained\
+from Demonas assistant Stephanie that Owen Burnett was vacationing upstate until Monday.\
+     Jericho opened the bundle. Time to test the prototype.\
+     The fabric was slate-grey woven with black and silvery filaments. It was a light and loose billowy garment with pockets for his wings,\
+enclosed sleeves for limbs and tail, a baggy mask over his head and face.\
+     He fastened it, enclosing himself head to foot, then grabbed double handfuls of the material and tugged sharply.\
+     At once, the fabric shrank and contracted to mold itself to his body. Even to his wings and tail, clothing him in a stretchy, clingy, second\
+skin. He could see through it with only a faint clouding of his vision, breathe through it, move normally.\
+     This latest product by Nightstone was going to make them a fortune, if Demona decided to put it on the market. The military and covert\
+branches of the government would go wild for Stealthweave, as would less legitimate organizations and individuals.\
+     Best of all, no one was going to be able to steal the design and duplicate it. If Xanatos could get away with selling his VR games with\
+magic in the making, it was only fair for Nightstone to make use of similar advances.\
+     Jericho launched himself from the ledge and headed for the Aerie Building. The Stealthweave patched the hole in his wing membrane,\
+putting an end to that whistling sound and enabling him to glide almost as well as he did when unhurt. There was still pain, of course, but\
+he would gladly suffer it an a thousand times worse for the sake of his Demona.\
+     He flew in low, not wanting to silhouette himself against the sky because while the Stealthweave did make him almost impossible to spot,\
+he hadnt come this far to begin taking chances now. It wasnt *true* invisibility; he could be seen if someone knew what to look for.\
+     When he neared the skyscraper, he caught an updraft and soared toward the castle. Demona had described it so many times that he felt\
+as if hed grown up in those halls and passages. Although his only personal visit had seen little else but the dungeon, he knew exactly\
+where he was going.\
+     Closer now ... they would be picking him up on their motion sensors or radar if they were going to. But no automatic systems were\
+preparing to blow him out of the air.\
+     The fabric over his eyes sparkled briefly as he passed through the wards that surrounded the castle.\
+     Some of the filaments in the Stealthweave were thread drawn by Demona from the very spool of magic itself and enchanted to deflect\
+any sorcery, divert it, cause it to part harmlessly around him like water. There would be no way, even after, of divining what intruder\
+had penetrated their defenses.\
+     He nearly laughed aloud.\
+     It was going to work!\
+     Ah, but he shouldnt get cocky now ... he still had to find what hed come for and get back out without being caught.\
+     He circled the tower ... there was the portion of the wall where Goliath was wont to roost ... and down below here, the rest of the clan ...\
+and there was the stairwell ... but light issued from beneath the door at the bottom landing, so hed be wiser to enter through a darker\
+and less-used way.\
+     His shadow pacing him across the courtyard was misty and ill-defined, proof that the Stealthweave did its best to divert light as well as\
+other forms of energy. He landed, paused in momentary apprehension -- here he was, actually setting foot on the castle grounds -- and\
+when nothing happened, when no Steel Clan robots erupted from hidden silos, he proceeded on his way.\
+     It wasnt being killed by Dracon that had so upset Demona. He understood that now, and knew what it *had* been. Not the death but\
+the *life*.\
+     The child. Amber.\
+     A sister to him, he supposed, or half a one. Not that he cared much for ties of biological kinship. But the daughter of Goliath and his\
+human brood mare had stirred something in Demona. Reminded her of what shed spent a year trying to forget. The loss of hope. The\
+loss of their own child, taken from them.\
+     *That* was what made her weep. The feel of a child, an embrace brief and bittersweet, speaking to her of all that she would never know.\
+     For she had never seen her own clans children hatch; that honor had been granted to the princess-mother-thief Katherine. Never had\
+the chance to breed again, living as she had in such a time of fear and uncertainty at first and then finding herself so alone even among her\
+own kind. And then, finally, the surprise of involuntary breeding season and the growth of a new life ... ended so cruelly and unfairly.\
+     He knew grief of his own but understood it to be a fleeting thing, shallow compared to the depths of hers, the ache in his heart nothing\
+next to the hollowness carved in hers.\
+     Anything for Demona ... everything for Demona.\
+     If she wanted a child, he would give her one.\
+     By whatever means necessary.
+
+  \*  \*
+
+     Harry the Hammer couldnt stand heights. If man had been meant to fly, God would have given him wings. But God hadnt ... so instead\
+the Devil had given wings to his Minions, so that they could wreak their evil on humanity.\
+     But sometimes it was just plain unavoidable. To face the enemy, one sometimes had to use the enemys means and methods.\
+     He told himself that, trying to reassure his quaking nerves, and inched toward the edge.\
+     Just like the simulator, he also told himself. And it was, the grips in his hands were identical to those hed used before. He just had to\
+imagine that the scene in front of him was an extraordinarily realistic screen, with vents providing the wind and a city soundtrack\
+providing the background noise.\
+     Before he could change his mind, Harry made himself jump and hit the go-button. The jet-gliders twin engines screamed and he was\
+shooting straight ahead so fast that his lips skinned back from his teeth.\
+     Eeeeyyyaaaaaahhhhh!\
+     Harry pulled too hard on the controls and gravity dragged his internal organs all the way down to his crotch. The skyline spun. One of\
+Harrys flailing feet grazed a flagpole hard enough to rip the rubber heel off his boot.\
+     He straightened out and leveled off, hiccuping in reaction. Now he was beelining toward a row of lit windows, beyond which arrogantly\
+fit people ran on treadmills and pedaled vigorously to nowhere. He streaked past, startling them and leaving calamity in his wake as feet\
+faltered while canvas belts kept whizzing along and pedals kept revolving.\
+     Glancing in, he saw himself in the mirrors that lined the far wall, distorted and strange, looking something like a gargoyle himself.\
+     Then a jut of wall almost peeled the nose from his face, and then he was looking in at a roomful of shameless harlots in thong leotards, all\
+on their backs thrusting their pelvises rhythmically in the air.\
+     He veered away from the health club, sweating more than any of the exercisers.\
+     Harry was starting to get the hang of this. It *was* just like the simulator. If he babied it, things would be just fine; if he manhandled it, hed\
+end up a spot of strawberry jam on a wall.\
+     Praise God! he shouted enthusiastically. Lead me, Lord! Help me do Your will!\
+     Not five minutes later he skimmed up a wall, over a rooftop, and almost had a mid-air with something that was a streaky blur of greyish\
+black. They passed each other with inches to spare, so fast that their wakes spun each other in a circle.\
+     They hovered, Harry on his jets and the other on an updraft, as they recovered from the dizzying spin. He couldnt see its face, but didnt\
+need to in order to know that his prayers had been answered.\
+     The aura of evil surrounded it in a cloud more visible than the strange streaky-shimmery fabric hiding it from his sight. A large bag of the\
+same stuff, weighted heavily at the bottom, was clenched in its grasp.\
+     Harry realized a flaw in his plan ... he needed both hands to control the glider, which left him none free to loose the hammer strapped to\
+his back. But the gargoyle was similarly hampered by the bag.\
+     Without a moments pause, Harry charged. A wild victory whoop trailed behind him. His thumbs jammed down on switches on either grip,\
+and twin rows of sharp spikes popped from the leading edges of the gliders wings.\
+     The gargoyle folded his wings and dropped. Harry passed a yard over his head. His tail lashed up, meaning to ensnare Harrys legs, but\
+missed.\
+     Harry circled around for another pass, pouring on the speed when he saw that the gargoyle was making a break for it. The Minion had\
+shifted the heavy bag into the cradle of his arms, informing Harry about the value of the contents.\
+     They soared above the city, high into the freezing wind. Harry had time to thank all the angels of Heaven for the goggles that had been\
+stored with the glider; as it was, the skin of his face felt both frostbitten and windburned but it was a small price to pay for his impending\
+victory.\
+     The gargoyle zigged and zagged, but Harry was on him like a tick. Almost as if divine Hands were guiding his own on the controls, letting\
+him anticipate the foul creatures every move.\
+     Gaining, gaining!\
+     There!\
+     It was the tip of the wing, not the spiked leading edge, but it struck the gargoyle in the small of the back, just above the base of the tail.\
+     One of the doctors who worked for J.C. had theorized a cluster of nerve endings there, analogous to the solar plexus. The bellow that\
+burst from the gargoyles throat and the way he crumpled like old newspaper made Harry pretty sure the doc had been dead-on.\
+     Even better, he dropped the bag.\
+     Down it went, eliciting a new bellow. Body contorted with pain, the gargoyle still forced himself to dive for the precious bundle.\
+     Harry plunged after him. The blurred grey outlines were hard to see, but he never faltered.\
+     The gargoyles claws snagged the falling bag, wheeled to check where his adversary was, and Harry plowed into him with the full row of\
+spikes.\
+     Whatever else the fabric was, it wasnt armored; as they were thrown apart by the force of their collision, Harry saw a line of bleeding holes\
+across the gargoyles chest.\
+     The gargoyle was hurled backward into a glass rotunda. The glass cracked on impact but didnt shatter. He slid down, struck a ledge, and\
+dropped the bag again. Battered but desperate, the gargoyle threw himself after it.\
+     Not this time! Harry called into the wind.\
+     He went for a crude tackle, letting go of the controls and landing on the gargoyles broad back. The damnable cloth was slick and slippery\
+under his gloves, so he yanked off the hood and mask, and grabbed onto the streaming scarlet hair like it was a broncos mane. He locked\
+his legs around the gargoyles middle, and craned one arm behind himself to get at his hammer.\
+     No standard-issue jobbie this, it was one of the deluxe models, light enough to wield one-handed but solid enough to pulverize stone or bone\
+indiscriminately.\
+     At the whine of the hammer powering up, the gargoyle lost all interest in the plummeting bag and writhed in an effort to throw off his\
+unwelcome rider. Harry held on tight as they did a barrel roll, aware that he was praying at the top of his lungs, mostly a babble but it was\
+extremely heartfelt and sincere so he was sure the good Lord wouldnt mind.\
+     They bucked and tumbled across the sky. The gargoyles tail coiled around Harrys neck and pulled just as Harry was about to bring the\
+glowing, sparking hammer down on his skull. He lost his hold and the hammer slipped.\
+     On blind stupid instinct, he tried to catch it.\
+     The head socked firmly into Harrys palm and came alive with electricity.\
+     A tunnel of onrushing thunder and white light swallowed him whole.
+
+  \*  \*
+
+     Jericho collapsed in the center of the street, hot hissing steam from a manhole cover bathing his face.\
+     The block was deserted. No one saw him and fled screaming, or ran to pummel him as he lay gasping. He had the night to himself for the\
+moment.\
+     Sporadic convulsions wracked his limbs. The Stealthweave had deflected most of the energy from the hammer, but his head had been\
+uncovered and the cloth over his chest was ragged with holes, so enough had gotten through to jolt him half-senseless.\
+     He wasnt entirely sure how hed landed in one piece, or what had become of his passenger. All he knew was that the man was no longer\
+on his back, either alive or as a galvanized corpse.\
+     His hair crackled as he lowered his head into his hand. He could feel it standing up from his scalp, gradually settling as the steam continued\
+to gust out at him.\
+     The bag!\
+     He sat up too fast and the world reeled in a sickening spiral.\
+     Oh, no! Oh, damn!\
+     Jericho tottered upright, swayed, and stood drunkenly until his balance returned. His previous aches and pains had been encompassed\
+by new ones.\
+     Refusing to listen to the part of his brain that was soberly telling him it was a lost cause, he stumbled back the way he thought he had come.\
+Cursing the Stealthweave now, for it would make the bag nearly invisible.\
+     He could hardly bear the thought of finding it, of opening it. More shattered hopes, more despair. Everything he had planned, everything he\
+had suffered, would be for nothing. The life that he had promised Demona would be gone, snuffed out, nothing left but a dead and broken\
+reminder of their dreams.\
+     At least, he tried to console himself, it would have been quick. The child would have felt nothing. No fear, no comprehension of what was\
+happening.\
+     Where was it? Had to find it, couldnt let the Stealthweave or its contents be discovered by the humans.\
+     He looked up and around, trying to get his bearings. There was the glass rotunda hed collided with, so it had to be around here somewhere ...\
+     The graceful curve of an upswept wing drew his eye. It was cast in clean, pure marble glittering beneath a layer of frost, as if the statue might\
+wake and break from her icy sleep.\
+     Winged Victory, he thought. The one named after a running shoe. Adidas ... no, Nike, that was it. Long sleek limbs well-revealed by short\
+robes, poised as if about to take flight, a slim sword raised in her outstretched hands ...\
+     A surprised and weary laugh burst from him. The Stealthweave bag was caught on the end of Nikes sword, swaying twelve feet above the\
+hard granite stairs.\
+     Jericho shook his head in numb amazement.\
+     The ripping sounded very loud.\
+     He sucked in a breath, seeing what hed missed before. Yes, the tip of the sword had pierced the bag and stopped its fall, but now the bag\
+was sliding down, along the blade. While the edge wasnt sharp, it was causing the tear in the cloth to grow.\
+     Riiiiiiipppp ...\
+     It spurred him into swifter action than he would have thought his battered body capable of. He vaulted to the top of a parked car, denting\
+the roof and almost slipping on the coating of ice, and from there sprang toward the statue.\
+     He embraced Nike most familiarly around the thigh and stretched up and out. Felt the curve of weight brush his palm.\
+     Riip!\
+     The bag plunked into his hand and he drew it tight against his chest. Pressing his face into the side, he breathed the warm scent that\
+reminded him so much of Angela.\
+     Its all right, he murmured. Ive got you, little one. Safe now. Safe now.
+
+  \*  \*
+
+     ... repeat, we have a state of emergency for a ten-block radius.\
+      Travis Marshall was hunkered down between a SWAT truck and a police car, managing to sound calm while still keeping his head down.\
+ He knew too many brother journalists who believed that nothing bad could happen to them as long as they were doing their job, but he\
+wasnt about to risk his future deluding himself that news only happened on one side of the camera. Bad enough that he risked his future\
+tagging along after Detectives Maza and Bluestone.\
+     Police in full riot gear have swarmed the scene, he went on. Initial attempts to disperse the crowd with tear gas only served to\
+incapacitate the Labyrinth residents, already hard-pressed to defend themselves against the instigators, who are equipped with gas masks\
+of their own. Reports that the mob is composed mainly of Quarrymen, the self-proclaimed anti-gargoyle radicals, have yet to be confirmed --\
+     Shit! Frannie MacAbbee, his intern, hollered lustily.\
+     Were *live*, you ninny -- Travis began, then saw what Fran was looking at. Shit!\
+     The two of them and their cameraman scrambled for cover as what at first looked like a comet headed straight down their throats.\
+     Fran pointed at the metallic wings. Its one of those robots!\
+     It kept coming down, and in the instant before it struck, Travis realized it was neither a comet nor a robot but a man with a jet-powered\
+hang-glider on his back. The man was lolling in the harness, unconscious or dead, and his glider was sparking and smoking badly.\
+     Beautiful, the cameraman said, standing up to focus on the glider. One of the jets sputtered out and it banked above them, and the silver\
+Q with a hammer-shape for a crossbar showed up clearly in the firelight from two burning cars.\
+     One of the wings hit the roof of their van. The glider cartwheeled down the street, and on one of its revolutions the harness parted company\
+with the rest of it. The man was thrown clear, missed going ass-first through the windshield of Mazas car by about a foot, and ended up in a\
+heap only a few yards from Travis and his team.\
+     The three of them looked at each other.\
+     Well? Frannie urged.\
+     Almost became the news, there, huh Trav? The cameraman grinned. Weve still got live feed going.\
+     Come on! Travis went in a bent-double crouch copied from action movies. He reached the man, and his mouth fell open. Harry the\
+Hammer.\
+     Id call that a confirmed report, then, Frannie said.
+
+  \*  \*
+
+     This might interest you, my lamb.\
+     Ive told you to quit calling me that, Demona growled, knowing Gustav Sevarius would not be affected in the slightest. She indicated the\
+thick book, silvery ink glinting with eldritch light on pages of pure black parchment. And Im too busy.\
+     Oh? He turned the portable television toward her.\
+     It was showing scenes of flames and destruction and humans fighting each other, with the Action News LIVE logo in the corner. She could\
+hear Travis Marshalls voice over distant shouting and crashing.\
+     Demonas mouth curled in a cruel half-smile and she pushed the tome away. Well, I could use a break. Whats happening?\
+     Quarryman riot, Sevarius replied.\
+     She sat up straight. What? Where?\
+     The Labyrinth, evidently. Tell me, my lamb, dont you know a Harry the Hammer?\
+     Leaning forward ravenously, she turned up the volume and shushed him. Her eyes avidly devoured the footage, which alternated between\
+LIVE, recorded just moments ago, and recorded earlier.\
+     Demona gaped in amazement as they recapped the alleged attack that had sent Quarryman leader Jon Castaway to the hospital, where he\
+was now in surgery and apparently barely clinging to life. She was treated to a shot of him being lifted into a helicopter, and savored the\
+expression on the whey-faced correspondent describing his injuries.\
+     Theres just something about the word disemboweled, Demona purred.\
+     On the television, police in riot gear went toe-to-toe with hooded hammer-wielders while panicked people stumbled around in clouds of\
+tear gas. There, quick as a flash, an image of four Quarrymen struggling to bring down a seven-foot Sasquatch.\
+     How nice, my nephews on TV, Sevarius remarked.\
+     A shaky pan across the sky, and if those werent the silhouettes of Goliath and his clan rushing to help, Demona would kiss a pig. Hah!\
+Fools! she said. Why bother? Only humans and former humans!\
+     And one gargoyle.\
+     If youre thinking of Delilah, youre so wrong. That ... *thing* isnt worthy of the name gargoyle!\
+     He scoffed mildly. Of course, my lamb.\
+     In fact --\
+     Whatever she was going to say was lost as the picture went back to LIVE. Part of the battle had ranged back aboveground, and two large\
+muscular figures were wrestling on the roof of a deli. One was a panther mutate, and the other was a man in a black mask marked with red\
+slashes.\
+     Demona was on her feet in a flash. Hunter!\
+     But Castaways in surgery, Sevarius said.\
+     Its the other one, the brother. She shook her head, astonished. What *happened* tonight?\
+     Are you going to summon your clan?\
+     No. It could be a trap to lure me out. Its *me* the Hunter wants. Let him wear himself out fighting Goliath and the mutates. Maybe for\
+once I wont have to kill one of them. Wouldnt it be ironic if, after all this, Goliath did my work for me?\
+     She sat back down once the scene changed, and they watched the rest of the broadcast. Harry the Hammer, also barely clinging to life,\
+had been taken to the hospital. Of the estimated fifty Quarrymen, thirty-eight were arrested. Their leader managed to elude capture, to\
+Demonas disappointment but not to her surprise.\
+     It was already being called a backlash against Senator Harmonds proposals, and then cut to an interview segment in which reporters had\
+corralled the old man as he was leaving the banquet. He was horrified and dismayed to hear of the evenings incidents, and then they cut\
+again, this time showing footage of a trio of gargoyles addressing the banquet attendees.\
+     Demona jumped up again, appalled to recognize Broadway and Elektra, as well as a male she suspected was one of Jerichos rookery\
+brothers from Avalon.\
+     No! she raged. What are they *doing*? First Thailog becomes a rock star, then that bitch Fox tries to parade *my* daughter around as\
+a fashion model, and now *this*? Going begging to the humans to be treated as equals? They should be living in terror of us, not *legislating* us!\
+     Incensed, she put her fist through the screen.\
+     Sevarius sighed in the manner of a parent whos just seen a tantrumy child break yet another toy, and used his cane to lever himself up from\
+his chair.\
+     She shook the smoldering, gutted television off of her hand. Ill buy you a new one. It was the closest the old lizard was going to get to an\
+apology, but at least he understood and accepted that.\
+     Picking slivers of glass from her arm, she went to the sink and washed up. As she was doing so, she heard a familiar tread on the stairs.\
+     Poor Jericho ... he was letting that distasteful business with the humans get to him. Yes, it had been awful, but it wasnt the end of the world.\
+Hed been drugged at the time. It wasnt as if she blamed him. And it wasnt as if she hadnt done similar deeds herself, while stone sober.\
+MacBeth ... Vito ... Nick Diamond ...\
+     She summoned a welcoming smile for her devoted lover, but it widened into a gasp of shock as he limped in with a Stealthweave suit hanging\
+around him in shreds.\
+     Jericho!\
+     Im all right, he said, with a grimace probably meant to be a reassuring grin.\
+     Quarrymen! You got caught in that --\
+     No ... not exactly. It wasnt like that. I ... its a long story. He gingerly set a Stealthweave bag on a chair, and began divesting himself of\
+the sad remains of his suit.\
+     Demona helped him, and brought a damp washcloth to wipe away the drying blood across his chest. Sit down.\
+     He obeyed, and looked up at her with adoration as she tended his wounds. I did it for you. All for you, always for you.\
+     Did what?\
+     But I had to have a plan. A distraction. Something to get them out of the castle. It went well. Almost perfectly. Oh, Demona, if only you\
+could have been there to see me slit his belly open!\
+     The Hunter!\
+     The Hunter. His flesh gave way like *butter*. Look! I still have his blood on my claws!\
+     *You* did that ... why?\
+     Like I said, a distraction. I knew theyd follow me. I let them follow me. All the way to the Labyrinth. Hid just inside, so no one who lived\
+there saw me, but the Quarrymen thought Id gone in, thought I was one of them! And they did just what I knew theyd do. Declared war.\
+     The washcloth was forgotten as she stared at him.\
+     So of course, mighty Goliath hurries to the rescue. Left the castle undefended. Not even Xanatos was there. The Stealthweave ... it\
+works *perfectly*. A ghost couldnt have passed through those wards better than I did.\
+     What were you doing in the castle? She was almost afraid to find out.\
+     The adoration in his eyes deepened and brightened. It was for you. I failed you,  shamed you. Had to make up for it somehow. Had to ...\
+to give you the one thing you wanted most of all.\
+     Jericho ... what have you done?\
+     He stood, touched her gently under the chin to lift her face to his. I love you. There arent words in all the world to say how much. I would\
+do anything to keep you from being hurt. Or, barring that, to try and make up for it. But I couldnt ... *we* couldnt. It would only happen\
+again, hurt more, if we tried to do it ourselves.\
+     Do what?\
+     Have another child. He picked up the bag and offered it to her. So I brought you *this* one.\
+     She took it and sank into the chair hed vacated. Overwhelmed and more than a little fearful, she opened the bag.\
+     There, nestled in the folds of cloth, was an egg.\
+     Whose is this? she asked tremulously.\
+     Ours.\
+     You took this from the rookery. From the rookery in the castle.\
+     Yes. Theyll never know. They couldnt detect me going in, and when they find it missing, all their security videotapes and divinations will\
+be able to tell them is that it just disappeared. We can keep it in Stealthweave and hide it someplace that *youve* warded, and they will\
+never be able to find it. Its ours. *Yours*.\
+     But whose *was* it, then? Do you know?\
+     They had the rookery divided, with photographs and toys, making little nurseries. I knew you wouldnt want Elektras, because shes\
+half-human. Or Delilahs. And Aiden ... he looked abashed and shrugged. She helped us, and she *was* human once. That left --\
+     Angela! Demona whispered. You stole *Angelas* egg!\
+     One of them, yes. He knelt at her feet and cupped her calves in his hands. Why not Angela? Why should she have two eggs and us\
+none? She *owes* it to you! Your own daughter, but she turned her back on you. Its only fair that she should provide you a child to\
+replace the love that she denied you!\
+     When she finds out --\
+     She wont. He reached up to caress her cheek. Demona ... this is *ours*! Yours and mine. Well raise it together, *our* way and not\
+Goliaths! Well be a family, be a *true* clan, at last! No more clones, no more loneliness. *Here* is our future, our hope.\
+     Her eyes flooded. Ours ...?\
+     Dont you want it to be that way?\
+     She touched the egg, first with a fingertip, then, feeling its warmth and life, rested her hand upon it. Oh, Jericho!\
+     Please, Demona. Accept this. Let me atone. Let me ... let me be a father.\
+     Yes! she cried, hugging the bundled egg to her breast. Jericho, how I love you!\
+     He embraced her, the egg between them to feel the beating of both their hearts, their mingled tears raining on its curved shell.\
+     Its been so long, she said when she could speak again. I cant remember which pattern of mottling means a boy or a girl.\
+     If its a boy, Jericho said, holding her hand to his face, I want to name him Damien, for you.\
+     And if its a girl -- she began, voice nearly breaking with emotion.\
+     Antigone, Gustav Sevarius said dryly.\
+     Demona, irritated and having forgotten he was there, gave him a dirty look to which he was totally immune.\
+     Jericho frowned in puzzlement, but she didnt explain, just leaned forward and kissed him with more genuine tenderness than shed shown\
+anyone in over a thousand years.\
+     You are hurt and tired, she murmured. And dawn comes soon. Go up to your sanctuary and rest. I will see to it that our child is secured.\
+     Tomorrow ...? he trailed off hopefully.\
+     Come to me when you wake. Ill be *waiting* for you.\
+     He closed his eyes in momentary exultation. A heartfelt tear slipped from beneath one lid, and Demona gently wiped it away. Evidently not\
+trusting himself to speak further without giving way to weeping, he brought her hand to his lips and kissed the palm, then bowed to her as\
+graciously as ever courtier bowed to his lady-queen, and left the room.\
+     Incredible, Sevarius observed. You couldnt own him more completely if --\
+     Hush, you old lizard, she said, lacking her usual bite. Hes more to me than that.\
+     Oh, is he? Im honestly to believe that you actually do love that poor deluded, demented boy as more than a possession and a conquest?\
+Since when?\
+     She looked down at the Stealthweave-swaddled egg in her arms. Since tonight, if not before.
+
+  \*  \*
+
+     Once upon a time, dawn would have filled him with a sense of relief. The gauzy trailers of morning mist touched rose and orange by the\
+rising sun would have cleared the dread from his heart just as they cleared the shadows from the sky.\
+     Relief and hope. Relief for no danger could stalk them by day, and hope that they might find the Demon held helpless and immobile.\
+     Now the breaking day only brought Jason a dragging sense of half-relief, because the world had gotten far more complex. Now the Demon\
+herself shifted form by day, and he didnt dare go after her although the personal risk was less. The public took even less kindly to attacks\
+on apparent humans than they did to gargoyles.\
+     And as if that wasnt enough, now he had other enemies to contend with. The rest of the gargoyles, well, if they chose to make this their\
+fight he would oblige. Because he knew something now. He knew hed been wrong ... it *wasnt* just the Demon any more. Unless shed\
+come across sorcery to turn her *male*.\
+     No, there were others determined to make themselves his foes. The one that had gutted poor Jonny, and the ones that harbored him.\
+     They were *good*, Jason would give them that. Very believable in their protests that they knew nothing about the attack. But of course\
+they were only delaying, giving their guilty clanmate a chance to escape, pretending surprise and innocence.\
+     Not that theyd been given much of a chance to talk. Even though they must have been expecting some repercussions, they hadnt been\
+prepared for the assault Jason had led. His army had gone through them like scythes.\
+     It pained him slightly that some humans had been hurt. Civilians, probably not even aware of what had happened, with the bad luck to be\
+in the way. But they hadnt been the main targets of his forces. That honor had been reserved for anything with wings.\
+     Therein was the other reason the dawn no longer relieved him. This new breed, the lightning-lashing mutates didnt turn to motionless,\
+helpless statues by day.\
+     To think, hed once called them friends. Met with them socially. If things had gone differently so many years ago, if Elisa had accepted\
+him instead of choosing Goliath, the mutates might even have been *family*.\
+     That could no longer be. They were all against him now, because they had sent one of their own to try and murder Jasons brother, then\
+stood against him when he sought to avenge that grisly and unprovoked act.\
+     Oh, and how they had *lied* to him ... he wondered bitterly how long theyd been laughing at him behind his back. Letting him think he\
+knew all of the gargoyles, that they all shared a common foe in the form of the Demon.\
+     But that was such a patent lie ... there were more turning up all the time. Two new ones seen with Harmond -- a grey-green male and an\
+ivory female. The homicidal monster from last night, so like the Demon that he might as well have been her own offspring. And the deep\
+blue female ...\
+     Jason winced as a painful spasm clenched him. When it eased, he couldnt remember what hed been thinking about, but was sure it\
+wasnt important.\
+     What *was* important was where to go from here. What next? Hed been listening to the news ever since his narrow escape from the\
+Labyrinth, and knew the score. Six dead, all human. Two were Quarrymen, one was a policeman, and the rest hapless bystanders. Dozens\
+more wounded, under police guard at several area hospitals.\
+     And not a single gargoyle or mutate among the casualties.\
+     He ground his teeth. They had the luck of the Demon herself, as if her malevolent power spread out to cover them like an umbrella. Every\
+single one of them practically unhurt, and now fled beyond his reach to the height of the Aerie Building.\
+     Hed also heard how they were being hailed as the defenders, valiant *defenders* swooping in to protect the innocents and subdue the\
+mob as peaceably as possible. Not one of the deaths had been caused by inhuman hands.\
+     What do I do now? he asked the first rays of the winter sun, peeling off his mask to let their pallid warmth fall on his bruised skin.\
+     Couldnt go to the hospital, not to be treated, not to visit his brother. The moment he showed his face, hed be arrested and shackled.\
+     Couldnt go home. Theyd be expecting that, the apartment under surveillance, Robyn possibly in custody. Theyd probably sent Elisa\
+herself to do that job.\
+     A pang of sharp agony pierced him. The apartment! Theyd search his room, find his paintings! The ones he kept hidden away! Theyd\
+take them, and those paintings were the only things that kept the Demon from infiltrating his dreams!\
+     Jason.\
+     Hitching in a breath, he slowly turned and saw his father standing beside the stolen car that had gotten Jason this far. This time, he wasnt\
+a mangled corpse but whole and unmarked, though remarkably less substantial than hed been in the taxi. Jason could easily see the lines\
+of the car through him.\
+     Father.\
+     You dont need the paintings now, Jason. Youve taken back the destiny that is yours, taken up your *responsibility*. The Demon cannot\
+laugh at you anymore, and I am closer to my final peace.\
+     The sweet, soothing balm of understanding flowed over Jason. And Jon ...?\
+     Jon will live.\
+     He ... he will? A grateful sob burst from his lips. He will live!\
+     But his road to health will be long, and hell need you. Youll have to carry on until hes able to join you again.\
+     Yes! He paused, troubled. What about Robyn?\
+     His father shook his head sadly. Your sister forgets who she is. She thinks she can clear her conscience by bending to the *law*, and\
+instead, shes only going to become a pawn in a game she cant begin to comprehend. You must go your way alone for a while, Jason.\
+Show her by example what it means to be a Canmore. Let her come back on her own.\
+     He bowed his head. Ill miss her ... but it must be this way.\
+     The Hunters road is a lonely one, his father agreed.\
+     What should I --? he looked up, but the specter had vanished, leaving only a scarred alley cat that hissed threateningly as if it feared it\
+would have to compete with Jason for the frozen bounty in the trash bins beside his car.\
+     ... do? he finished in a whisper that was almost a sigh.
+
+  \*  \*
+
+     Dominique Destine took the private elevator from her penthouse office to the sub-cellar, humming to herself, stealing several quick glances\
+at the heavy bag that rested at her feet.\
+     The doors opened and she picked it up, stepping out into the cool, dimly-lit hall. A winged shape moved sinuously toward her.\
+     Good morning. Godiva made the greeting sound warm and sultry as a tropical storm. She tossed her head, the waves of golden hair\
+rippling between her indigo wings. I was just headed up to work, unless you ... needed me for something? Her inhalation and the\
+suggestive curl of her tail made the offer more than clear.\
+     The boys didnt wear you out?\
+     Nnnhah! laughed Godiva richly. They can only barely keep up with me. Oh, speaking of which, you might want to have the doctors\
+take a look at Burbank.\
+     Stone sleep will heal any scratches you left, Dominique grinned.\
+     Not that ... I think his hearts not as strong as it could be. Remember, he was cloned from a much older specimen. The data suggests\
+that he might suffer some effects from the inevitable DNA breakdown of aging.\
+     Maybe hes just not up to the sort of workout you put them through. You could take it easy on him.\
+     I try, but Brentwood and Malibu, energetic as they are, have to recuperate some time. Just the two of them arent enough, and Im\
+hardly going to push Burbank away.\
+     Arent there any other options open to you?\
+     There might be if your Jericho wasnt determined to make me crazy. At first I thought I frightened him, but now I think hes toying with\
+me. He *knows* what I want, and he *has* to want it too, but he wont give it to me. Must be your sadistic streak coming out in him.\
+     I doubt its that, though he does have it.\
+     Then why? Has he said anything? Godivas tiara of quills drew together and she eyed Dominique. Or is this some game of yours,\
+and you put him up to it?\
+     You might just not be his type.\
+     Im *everyones* type. Her tongue traced the pursed heart-shape of her lips. I know he likes me. I can tell.\
+     Godiva, Godiva. You dont understand my Jericho. In fact, until tonight, I didnt fully understand him myself. Hed take you if I told\
+him to, and pound at you until even *your* appetite is sated --\
+     Mmmmm, sounds good to me!\
+     But Ive left it as his decision, and hes decided not to. He ... she smiled bemusedly, touched by the notion, he wants to be faithful\
+to me.\
+     Strange kind of fidelity, Godiva said. He loves watching us together.\
+     I enjoy having him watch.\
+     So do I, but I wish just once, hed grab *me* instead of you when he cant stand it anymore! Oh, sometimes hell send his tail over my\
+way, but I want the rest! If all you have to do is tell him --\
+     Im sorry, Godiva. I cant do that. Hed agree to please me, but I think I like him this way. Havent you noticed, hes been denying\
+himself for weeks now?\
+     I noticed. Thought it was because you were punishing him.\
+     No, it was a self-imposed penance. He *loves* me, you see, and didnt want to come to my bed sullied.\
+     Sullied! He does know youre his mother, doesnt he? Sullied ... tsk!\
+     Dominique ignored that remark, stroking the curve of the eggshell through the light fabric. Now hes made up for it. Hes proven\
+himself to me and made me realize something I should have seen long before now. Ive known that he would do anything I asked.\
+Dutiful, obedient Jericho. But hes taken it a step further ... hell do anything I want, even if I havent fully realized I want it. That,\
+Godiva, that is love.\
+     What is ... thats an egg? I thought ... that was fast! Godiva actually backed away, as if fearful that it might be catching; even if her\
+android body was capable of breeding, that would be the last thing on her list.\
+     Were going to be parents, he and I. She smiled dreamily, then sighed. If only we didnt have to wait so long for the hatching! Ten\
+more years ... it shouldnt seem like much when Ive spent a millennium alone, but I wish it was sooner! I wish it was right away! A\
+child of my own, to raise *my* way, to need me and love me with blind devotion --\
+     Youve already got Jericho for that.\
+     And I know Goliath, I know Angela. If they realize where this little one has gone, theyll try and take it back. Take it away from me.\
+One egg shouldnt be so much to ask. Jerichos right. Goliath gave away three dozen of our clans eggs, but hed deny me this one just\
+to hurt me. Once its hatched, though, once its *mine* ... there wouldnt be anything they could do.\
+     Too bad theres no way to hurry things along. Godiva shrugged, saying it offhandedly and clearly in disinterest, but Dominique was\
+riveted. Im going up to my office. If you decide you do *need* me for something, you know where Ill be.\
+     Fine, Dominique murmured, no longer listening.\
+     She continued down the hall as the elevator doors closed. On her left was the rumpus room, which had once been a parking garage but\
+was now a two-story open space of concrete and support beams; it had been taken over by the clones, who preferred an enclosed lair\
+safe beneath the building to the risks and freedoms of the air.\
+     Theyd done their best to make it homey, but since the advent of Godiva into their clan, what little standards of cleanliness Gustav Sevarius\
+had been able to foster in them had now gone the way of the dodo. They lived like frat boys, amid a litter of aluminum cans and pizza boxes,\
+and the pile of mattresses had seen such a hard tour of duty lately that they were quashed into a single mass leaking stuffing from split seams.\
+     The three of them were there, Burbank actually crouched in proper gargoyle pose, Malibu draped over the back of a swaybacked sofa,\
+Brentwood splayed out on the floor like a petrified and hairless bearskin rug.\
+     Dominique barely looked at her so-called clan, just closed and locked the door in case any of the regular staff mistakenly wandered down\
+this far. Not that it would matter much if they did; everyone who worked for Nightstone had been treated to Sevarius special cocktails\
+and behavioral modification videos.\
+     To get to her destination, she had to pass some of the secret labs. She paused at one, thinking about what Godiva had so casually tossed\
+off with no idea of the implications.\
+     Hurry things along, she repeated musingly, staring at a large tarp-draped cylinder hulking in one corner of a dark and unused lab.
+
+  \*  \*
+
+     Oh, come on, you know hes faking! Elisa was too loud in her exasperation, earning warning glares from the attendants in earshot.\
+     Im sorry, Detective, but I dont believe he is. Weve noted lapses in short-term memory in ECT patients, and the shock that Mr.\
+Hammerton received was much more powerful than anything we use.\
+     But the *entire* *night*? she asked scornfully. You cant expect me to buy that.\
+     He also suffered multiple traumas when that glider of his crashed. We cant rule out a head injury. The man is lucky to be alive. And\
+even barring his experiences of last night, I have to tell you that Ive reviewed Mr. Hammertons file and wouldnt put too much faith in\
+*anything* he might tell you.\
+     I know, I know, the mans a fruitcake.\
+     Detective, *please*! the doctor hissed. Show a little consideration for our other patients, if you dont mind!\
+     Right, okay, sorry. So youre not going to let me talk to him?\
+     Not until weve stabilized him on a medication regime.\
+     Look, Doc, if I can get him to confess to his part in this phony assassination attempt, itll solve a *lot* of problems.\
+     I understand your position, but you have to understand mine. I have to put the welfare of my patient first.\
+     Even before the law?\
+     The law backs me on this one. Its none of my business, Detective, but I think youre taking this case much too personally and\
+overworking yourself. When did you sleep last?\
+     Youre right. Its none of your business.
+
+  \*  \*
+
+     Stephanie Greene had the feeling she was being watched.\
+     Ever-so-casually, as she turned a page, she let her eyes roam briefly around the subway car. It was twenty-til-six and packed shoulder to\
+shoulder with commuters, more standing and swaying as the train clattered around a turn.\
+     No one returned her gaze, or seemed to be conspicuously-guiltily looking away.\
+     Probably the book that was freaking her out. She didnt know why it should; shed read plenty of Dean Koontz before and it never\
+bothered her much. But she did wish that hed get off of this hypnosis / mind control / government conspiracy kick. It gave her the\
+creeps for no well-defined reason.\
+     Wouldnt it be awful if the human mind was so fragile and easily manipulated? If scientists, instead of being crusty-but-benevolent like\
+Gustav Sevarius, really could and did experiment on people so insidiously?\
+     Although she was too warm in her coat, boots, and scarf, Stephanie shivered. The blocky grey-haired lady next to her noticed the\
+uncontrollable movement and gave Stephanie a dour and wary scowl before returning her attention to her own book -- good Lord,\
+The Total Woman by Marabel Morgan; Stephanie wasnt sure whether she was more surprised to see it still in print or being read by\
+someone like her seat-mate; the thought of *that* honey meeting her man at the door in a Saran-Wrap toga was too much to bear.\
+     The image made her forget about her peculiar reactions and she went back to Koontz, wondering how long it would be before the latest\
+in a series of plucky golden retriever characters saved the day. Man was a blatant dog person. Stephanie herself often thought that if she\
+wanted someone to slobber all over her face and drink from the toilet, she could have stayed with Jim ...\
+     Being watched. Cold, hard, hostile ... sharp pieces of ice.\
+     Her hands clenched convulsively and the paperback squirted out of them like a watermelon seed. Bending down for it, she also dropped\
+her gloves. She scrabbled quickly for her belongings, an awkward task with one elbow squashing her purse tight against her side to make\
+sure no one took advantage of her distraction and dipped her wallet.\
+     Someone picked up one of her gloves and held it out to her. Here ye are, Miss.\
+     Stephanie looked up into a striking pair of turquoise eyes in a dusky-skinned face that would have been awesomely handsome if not for\
+the puffed bruises.\
+     Thank you, she said, with a fast and noncommittal smile.\
+     Yere welcome. His smile was neither fast nor noncommittal, and for a minute it was easy to forget all about the bruises.\
+     But he said nothing more, only rattled his newspaper as he turned to the business section.\
+     *Definite* hunk, Stephanie thought, not without wistfulness, and opened the paperback again.\
+     When the train got to her stop, she stuffed the book in her purse and put on her gloves while waiting for the press of people to let her\
+out. The hunk didnt emerge from behind the paper, ah well.\
+     Only four blocks to her building, but it felt like a trek across the Antarctic wastes. The snow had frozen solid in uneven dunes and\
+ripples, and the howling wind seemed to be working in concert with it to catch her off balance.\
+     She made it all the way to the steps without falling, and then just as she thought she was safe, her right foot shot out from under her.\
+     Oof! Flat on her fanny. Luckily, none of her neighbors were coming in or going out. She got up, brushing at her rear, and carefully\
+climbed the rest of the way, muttering to herself and shaking her head at her own clumsiness.\
+     As her key rattled home and the door started to open, a large heavy body bulled into her from behind. Stephanie went sprawling, this\
+time on her stomach. A knee drove into her back and forced her breath out in a tidal rush.\
+     Bright fear ignited in her, but she was too dazed by the fall to even *remember* her self-defense courses let alone try any of the maneuvers.\
+She wheezed for air.\
+     Her assailant grabbed her under the arms and hauled her roughly to her feet. He half-shoved half-carried her to the rickety elevator,\
+shoving her at the far wall.\
+     She rebounded in a clumsy spin, still holding her keys, and tried to take a swipe at his face. He snatched the keyring away and she\
+recognized him.\
+     *Stupid*! her mind screamed. *Never* make eye contact on the subway! Aunt Gerts advice, often heard and usually followed even though\
+shed always privately thought it was paranoid, and now look! She could just see Aunt Gert clucking sorrowfully at the funeral, telling all\
+the relatives how shed always tried to *warn* Steffie that Manhattan was no place for a single girl.\
+     Scream and Ill snap yer neck, he told her, and the way he said it, as if he was informing her that it was snowing again, quelled the\
+shriek that was about to explode out of her.\
+     Instead, she shrank against the wall, wondering if her purse was heavy enough to stun him and wishing shed brought home a nice big\
+briefcase to clout him with. Just her luck to have finished all her work early this week!\
+     He found her apartment key, which had 11-C stamped on it, and pushed the button. The elevator began to jerkily rise. Though he\
+wasnt even touching her, she felt crushed, squeezed, trapped.\
+     They reached the eleventh floor, and Stephanie was torn between hoping that someone would be in the hall and no one would. She\
+wanted rescue, didnt want to be responsible for one of the Farnbergers or the Davinsky kid getting hurt.\
+     No one was there, and the only sound was Mr. Farnbergers radio turned up too loud; some talk-jock was ranting about a couple in\
+Minnesota that had just, with the aid of fertility drugs, given birth to a sickly set of octuplets, three of which had died.\
+     ... to give the rest a chance at survival because they said it was all in Gods hands. Gods hands? *God* made you barren! Dont talk\
+to me about *God*!\
+     The man forced Stephanie into her apartment and shut the door, dulling the rant to a muffled and unintelligible gabble.\
+     Sit! he ordered, pushing her toward the couch.\
+     Stephanie did, holding her purse on her knees. A star of awareness went nova in her mind and she remembered the taser. It was down\
+at the bottom of the purse, under the paperback and her wallet and cosmetics and the other necessities of life, but if she could just *get*\
+to it ...\
+     She dumped the purse on the cushion as the man threw the deadbolt. There it was! Futuristic and powerful, and when she seized it she\
+felt like King Arthur must have felt when he first laid hold of the hilt of the sword in the stone.\
+     He lunged, and Stephanie let herself slide onto the floor. She jammed the taser against his leg and shouted, Bastard!, wincing in\
+anticipation of jolting sparks.\
+     Nothing happened.\
+     Dead batteries.\
+     What the hell *good* was the thing if the batteries went dead right when she really needed it? They were supposed to be good for\
+*years* and shed only had it for ...\
+     ... years ... oops ... oh, damn!\
+     The man slapped it away and yanked Stephanie up by a handful of her coat. There was nothing warm or sexy about his turquoise eyes\
+now; they were chips taken from deep in a glacial crevasse.\
+     Im na goin t hurt ye, he said in a low, intent voice. Ive a message for ye t deliver. He emphasized it with a shake that made\
+seams rip.\
+     What message? she whispered.\
+     Ye tell the Demon ... ye tell Dominique Destine or whatever ye call her ... that the Hunters back. If in a week she gives herself an\
+the murderin blue whoreson up t me, Ill leave the rest o the gargoyles be. She refuses, an Ill tell her secret t all the world.
+
+  \*  \*
+
+     Jericho awoke bathed by a frosty glow, reflecting from a blanket of clouds that seemed to lay only inches above the skylights of his\
+sanctuary.\
+     He stretched slowly, reveling in every crackle of his spine. He yawned, flexed his wings lazily.\
+     No pain at all. The hole in his wing membrane was gone as if it had never been, his brow ridge and ear no longer ached. He crouched\
+and tore away the bandage over his calf, revealing unmarked flesh beneath.\
+     Good as new, and better than ever in spirit.\
+     Her words came back to him as if hearing them all over again. *Come to me when you wake ... Ill be **waiting** for you.*\
+     He stripped and dove into the dark pool, rinsing himself of what little dried blood remained on his skin. He stood beneath the waterfall\
+that plunged from one of the obsidian obelisks and tilted his head into it to wash his hair.\
+     Waiting for him.\
+     Those words roused a hunger in him greater than anything hed ever known before. Greater than the need for food, water, air itself. She\
+was waiting for him.\
+     After toweling himself off, he chose a fresh loincloth and belted it on, and combed his talons through his hair until it was partly dry and in\
+a semblance of order.\
+     *Waiting* ... waiting for him ...\
+     And she loved him ... had told him so with such emotion in her eyes and voice that it nearly made his heart burst!\
+     He composed himself enough not to *run* from his Dark Avalon, but neither did he dawdle on his way to her office.\
+     It was empty and unlit, but the door to the inner room was ajar, and golden firelight beckoned him even before he heard her voice.\
+     Jericho ...\
+     She stepped from the shadows and he was lost in her beauty. The gown she wore was not so much cloth as it was black mist swirling\
+around her body, offering tantalizing glimpses and hints as she moved toward him. Her hair shone like crimson satin, swept up in a coiled\
+knot that *begged* him to loose it and let it fall free.\
+     Oh, Demona ... He went to his knees, brought to tears by the sight of her. You are my every dream made real. I ... I ...\
+     My love, she said, and he was shocked to see that there were tears in her eyes as well. You are more than I ever *dared* to dream.\
+     Her wings flared slightly as she knelt with him, and they remained there together for long moments, not touching, just looking at each other.\
+     Jericho didnt trust himself to speak. In all the time since shed first appeared to him on Avalon and brought him home, through all of his\
+lewd yearnings and her surprised but hearty acceptance, she had never been like this ... gentle, unsure ... almost *shy*, though that was\
+never a trait he would have expected to find in Demona.\
+     She didnt speak either, but only because there was no need. Her touch spoke for her, as honest and curious as a young virgins.\
+     Her fingertips lightly caressed his face as if she was seeing him for the first time ... as if she was discovering *herself* for the first time in\
+far, far too long.\
+     Trembling, he willed himself to remain still and let her continue her tender exploration. Her hands slipped to his shoulders, paused to toy\
+with the strands of still-damp hair that curled around his neck, moved down his arms to the spurs at his elbows, down his forearms to his\
+wrists.\
+     She grasped them and brought his hands to her waist. He held her there as she leaned forward, the edges of his palms just at the\
+beginning sweep of her hips.\
+     Oh, the fire dancing in her eyes, the earnest and hopeful smile on her lips ... the soft white flame of her kiss blazing through him ...\
+unbearable in its innocence and promise.\
+     They gave themselves up into a silken embrace unlike anything they had ever shared before, for this time it *was* a sharing, slow\
+and sweet, weeping together in the extremity of their joy, and from there sinking together into a drifting pleasant haze in which they\
+communicated in murmured lovetalk and more gentle kisses.\
+     At some point Jericho sank deeper still, into a doze in which he was dimly conscious of her leaving his side, but when he roused\
+and opened his eyes, she was coming back into the room wheeling a cart ahead of her. The cart was laden with a dinner that had\
+grown cold during the hours theyd spent in each others arms but they devoured it anyway, feeding each other and laughing as lovers do.\
+     Much later, she set her unfinished food aside and raised serious eyes to him. Jericho ... there is only one thing that could make me\
+happier than I am at this moment.\
+     Name it, he said, and if its in my earthly power to do, I shall.\
+     Ten years to hold our child ... its too long to wait.\
+     I dont understand. Would you rather have another one instead? I didnt think youd want Amber, but if you do --\
+     No, no. Not that. Theres a growth tube -- get that grin off your face, darling, thats not what I mean! She snapped her sharp white\
+teeth in a playful nip on his wing talon. Its the machine Anton Sevarius developed to accelerate the growth of embryos, to bring the\
+clones to maturity in a matter of months instead of years. We could put our egg in there, and bring it to hatching in just a week or two!\
+Wed have our family, and by the time anyone else found out, itd be too late for them to steal it back! We --\
+     Shh, shh, my love! He kissed her to silence. You dont have to convince me. If that is what you wish, Im with you. Well have our\
+son or daughter sooner than we hoped. Our Damien ... or Antigone?\
+     Demona laughed ruefully. In that case, lets hope for a boy!
+
+  \*  \*
+
+Continued in\
+*[Damien, Part Two: Unholy Alliances](damien02.html)*
+
+------------------------------------------------------------------------
+
+\
+*Copyright 2000 by Christine Morgan / <vecna@eskimo.com> / <http://www.sabledrake.com>*\

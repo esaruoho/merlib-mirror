@@ -1,0 +1,221 @@
+---
+title: "SMALLnet post381"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post381.html
+order: 8241
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:56Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post381
+
+*Source page: `~smallnet/Archive/post381.html`*
+
+## SMALLnet Posting post381
+
+------------------------------------------------------------------------
+
+**Date: Tue, 27 Mar 2001 23:22:31 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+...Rather little material has come in since the previous Posting, and nothing whatever in the past three days. I don't know whether the cat has everyone's tongue, or perhaps something's gone wrong at Eskimo. Bill Lee is Out West at the annual Old-Time Stunt meet at Tucson, Arizona. When Bill returns next week he will fix any problems that Eskimo may be experiencing with SMALLnet.
+
+Luckily, I have some SMALL-relevant material of my own. I'll insert some of that now, and the rest later in this Posting.
+
+Most model flyers take care to minimize the entry of dust and grit into their engines. But few bother to do the same for their radio transmitters. Yet dirt and grime do those no good. Stick gimbals need to be clean to work smoothly, and antennas can lose much of their transmitting power if their sliding contact areas become oily or oxidized.
+
+Maybe I'm more conscious of transmitter cleanliness than most, because my favorite ones have cream-colored cases rather than black.
+
+Bill Cannon and Fred Marks (formerly chief designer for Ace R/C) are quite logical-minded. A light color seemed to them far more suitable than a dark one for the body of a sensitive electronic item that will usually be operated in bright sunlight.
+
+That's why the almost-white Cannon (and the Ace "Silver Seven") transmitters are easy to spot in the "impound area".
+
+Anyway, for decades I've been keeping my transmitters clean by storing them in plastic "blanket bags" when not in use. These zipper-sided bags were JUST the right size for R/C transmitters, and I found a source in the late '70's where I could buy those in quantity for about 70 cents each.
+
+But it's been a long time since I last bought any "blanket bags", and by now almost all of mine are used up. (They get dirty too; also brittle and easily torn after 20+ years.)
+
+However, lately I've found something even better! Less expensive, too. Most sport-flying type R/C transmitters will fit neatly in Ziploc's one-gallon-size "Easy Zipper" bags. Those that won't, WILL fit in the 2-gallon size (but I haven't seen that yet in the "Easy Zipper" style).
+
+As for transmitter antennas, the best cleaning material I know of is well over a hundred years old. That's "Brasso". Originally developed for cleaning the tarnish from naval officers' brass buttons (and similar "military" applications), Brasso does a quick and neat job on R/C transmitter antennas. My local supermarket sells Brasso, so it's probably easily available all over the USA. And I think a can of that will last a lifetime of keeping transmitter antennas gleaming.
+
+BTW, I found that Brasso is also perfect for removing minor scratches and scuffs from plastic. I've used it on windshields -- and on sunglasses too. The stuff is amazing... \[JW\]
+
+Jon McVay \< <Togflier@aol.com> \> announces:
+
+All-electric fly-in. September 8 & 9, 2001, Quad Cities, Iowa. For more data go to: \< <http://www.rc-dymond.com/efliowa/> \> or contact me directly. We had 45 pilots and 120 aircraft last year. This year should be even better. Jon
+
+Bob Peterson \< <RPeter9954@aol.com> \> reported:
+
+Just finished (almost) one of SR Batteries X250 electric kits. This has to be one of the best kits I've ever built: excellent wood; the laser cutting is unbelievable, and (when everything else fails) these guys are really accessible either on the phone or by e-mail. Not only that, but they know what they're talking about.
+
+I'm really impressed. The plane came out at 22 ounces and has yet to fly -- but, hopefully, that will change soon. SPRING may be coming to the northeast!!
+
+Thermals, Bob Peterson
+
+Don Bailey \< <gliderguy@earthlink.net> \> wrote:
+
+Well, I took my new Sig Colt out to the flying field on Saturday afternoon for its maiden voyage. The Enya .09 cranked up like it had been flying all season, and never hiccuped once. Good idle right out of the box, and a nice strong top end. What a sweet motor! I may swap out the MA 7x4 graphite prop for something a bit more efficient, but even with this clunky prop the Enya delivers plenty of power for the Colt (36 ounces, 48" span).
+
+No way this thing is going to need tank pressure -- it runs just fine at every attitude in the stock configuration. I just fueled up, hit it with my Ace Half-A starter, and vrooom. Better than the O.S. .10s I've owned! It put out a lot of black the first few runs; but now that it's broken in and running at peak mixture, it is running clean. I just left the butterfly valve on the muffler closed, and primed through the carb.
+
+The Sig Colt is fun. It can't do much, but it sure flies well, and I was able to do a thousand touch and goes with the 6-ounce fuel tank I got in there. It really is a well-behaved aircraft, and would be a good choice for a SMALL trainer. It is plenty strong and light, and is quite responsive to rudder input.
+
+In fact, if you're looking for a stable platform for that old escapement or pulse system, the Colt, or it's sister ship, the Sig Klipper, would make a good single-channel model.
+
+I got the kit for 20 bucks, and scored the Enya .09 at a swap meet for \$38 NIB. I already had everything else I needed in the ol' workshop. Nothing like good, cheap fun. I love SMALL!
+
+Don Bailey Seattle Area Soaring Society
+
+"If you don't care about rising air, you're square, mon frere."
+
+Mike Woodhouse \< <mike@freeflightsupplies.co.uk> \>
+
+A couple of observations on the covering topic:
+
+Micafilm
+
+Clear Micafilm is not fully fuel proof. Some rolls are better than others; it's a bit inconsistent. Test the stuff by painting on coloured ink and check for bleed through onto white paper.
+
+Micafilm can slacken in the heat if not enough heat has been used during application. However, it can soon be re-ironed.
+
+Polyester tissue (Polyspan etc.)
+
+For compound curves treat like an iron-on and it will mould to most curves.
+
+Fluffing up can be minimised by flowing on thin dope. Keep the brush strokes to a minimum and on no account sand. More work equals more fluff!
+
+Sorry for any delay in my response but I have been away flying at the Holiday on Ice in Norway.
+
+Michael J. Woodhouse Web site: \< <http://www.freeflightsupplies.co.uk> \>
+
+...In the last few Postings several SMALLsters discussed various model coverings. But nobody mentioned one of my favorites: SILK.
+
+Maybe that's because of today's emphasis on "instant results". Covering with silk is NOT a rapid process! Why use it at all, then?
+
+Model covering is actually a kind of art form.
+
+As a comparison, although many painters of landscapes and "still lifes" now work on "ready-made" surfaces such as Masonite panels and pre-primed "canvas board", the old-fashioned canvas fabrics are still popular among artists.
+
+The same holds true for covering model airplanes with silk. Like oil paint on stretched canvas, doped silk has a charm and mystique all its own. Though not truly difficult, it does require some "technique" that can only be developed with practice.
+
+Here are some items of "technique" that may be of help to YOU.
+
+First, use ONLY "regular" nitrate dope to adhere the fabric to the model. (The "low-shrink" types lack adhesion qualities.) Allen Heinrich at Aerodyne carries plain nitrate dope. So does John Brodak (the control-line manufacturer/dealer in Carmichaels, Pennsylvania).
+
+Put three good wet coats of clear nitrate on EVERY surface that will touch the fabric. (If you only dope the perimeter, the covering will still go on OK. But later, when you apply the finishing coats, those will soak through into the undoped wood below and produce a dull, lusterless look in those areas.)
+
+Sand LIGHTLY with 400 or 600 grit wet-or-dry to remove the fuzz from the doped fabric after the first coat.
+
+By the way, hen you buy the plain nitrate dope, also buy a pint or quart of "retarder". Use that to thin your dope, not the regular thinner. Its complicated to explain the reasons I recommend retarder; trust me on this point.
+
+<span id="192">Source: Silk\
+</span> Thai Silks (252 State Street, Los Altos, California 94022 -- (650) 9848-8611 -- web site \< <http://www.thaisilks.com> \> --- e-mail \< <thaisilk@pacbell.net> \> sells at remarkably low prices a few grades of model-covering-suitable dyed silk. But that's woven & treated for use in clothing, and contains "sizing". That makes the fabric easier to handle & cut, and the edges won't unravel so readily.
+
+However, the pre-treatment makes model-covering operations harder, because much of the "shrinking capacity" of the fabric has been removed. (Thai Silk appears to be pre-shrunk.)
+
+In using Thai Silk (or any other brand of silk that has a sort of crisp, "foldable" feel) -- cut the panels as required to cover the surfaces, with about a one-inch surplus all around.
+
+Lay one panel down (dry) over the pre-doped part to be covered; then spray it with water. Keep it wet for several minutes before beginning the "attachment process".
+
+(The "time delay" is to allow the silk fibers to absorb as much moisture as possible, and thus maximize the later shrinkage effect.)
+
+On all the "flying surfaces" make SURE that the weave of the silk runs EXACTLY fore-and-aft. (If applied at even a slight angle, when the silk shrinks it will inevitably WARP the surface.)
+
+Pull out all the wrinkles, allowing the wet silk's "wet stickiness" to hold it in place over the pre-doped frame. Pull hard with Thai Silk!
+
+When you have a taut, wrinkle-free coverage, brush a mixture of about half-and-half plain nitrate dope and retarder down through the PERIMETER of the silk-covered area. That will soften the dope underneath and weld the silk to the wood.
+
+Be sure to pull the silk good and TAUT at all times! Brush the dope/retarder (D/R) mixture out at least 1/8" beyond the outlines of the part.
+
+Keep the silk wet with a water spray the whole time. If you allow part of it to dry out before the entire panel is anchored down all around, wrinkles and/or warps are likely.
+
+When the D/R on the outer edges is dry, bend the surplus silk around the outline; then with 320 or 400 grade wet-or-dry sandpaper, sand through the excess material. (This produces a much neater, "feather edge" trim than a razor blade.)
+
+"Iron down" the edges with more of the D/R mixture and finger pressure. If there are "difficult areas", keep your finger wet with water as you burnish down the material...
+
+Fuselages require a bit more "technique", and there are places where you'll need to use a razor blade for trimming. In these, don't try cutting the silk while it's wet. It's much safer to wait until the D/R mixture dries. That will prevent cut edges from unraveling.
+
+"Sealing" the fabric after the covering is all on MUST be done with plain nitrate dope brushed on. And brushing the first two coats of dope on silk takes PRACTICE. It's VERY EASY to apply dope too wet. It then runs through the weave of the fabric and makes for a messy, uneven look where the "internal runs & drips" occur.
+
+There are several techniques that have been recommended to alleviate this problem. One is to use a foam brush for the first two coats. I don't like that, because the dope partly dissolves the foam in the brush. Who knows what that does to the "chemistry" of the finish? A better way is to attach a strip of medium or heavy Silkspan (with a rubber band or tape) halfway up the handle of your doping brush. It's hard to explain in words, but what you want to accomplish is to interpose the Silkspan strip (maybe twice as wide as the brush) between the brush bristles and the silk as you apply the two sealing coats.
+
+The way I do it is to hold the Silkspan strip up out of the way while I dip the brush into the dope bottle. Then I let the Silkspan fall back down alongside the bristles, which it overlaps about an inch on the end and both sides. (It's wet with dope, of course, but not dripping.) Then I apply the dope smoothly & evenly.
+
+With retarder as thinner, you have more control over the doping, because it dries more slowly. However, you must wait longer between coats -- a few hours in warm summer weather; overnight when it's cool.
+
+Generally two coats of plain nitrate dope, thinned with retarder to "brushing consistency", will seal the fabric. After that, you complete the finishing process "the usual way".
+
+Colored dope is only available in butyrate now. I prefer the stuff Brodak sells -- that's made by Randolph, the oldest & best aircraft dope manufacturer in the world. The big advantage of this colored dope is that contains opaque pigments, and takes fewer coats to "cover". (Sig's dope is made with pigments from the automotive finish industry; they're translucent rather than opaque.)
+
+That's fine for car finishes, where a look of "depth" is desirable. But on model airplanes, it means that six or eight coats of Sig Tennessee Red (for example) are needed to achieve the same final look as you can get with three coats of Brodak's Tennessee Red.
+
+But PRACTICE on a few "mockup" frames before starting to silk-cover your beautifully-constructed airplane! You need to acquire the "feel" of the materials to do a truly good job with silk covering. The time you spend in practice will save you at least double that much time when you're working on the "real thing". And even more important: you'll save FRUSTRATION !!!! \[JW\]
+
+David Larkin \< <dslarkin@blvl.igs.net> \> submitted:
+
+I certainly share your views on diesel conversions of glow engines, though there was a very favourable review of a converted MVVS 3.5 in one of the British magazines recently (either Model Flyer or Aviation Modeller International) which apparently worked well, once one fitted a reduced throat carb. But seeing that the Irvine 20D is no longer available it might be worth considering.
+
+However, fitting the new head and switching carbs made it an expensive proposition
+
+I have a customer in California who bought two of the VA Micro diesels (0.024 cu in) for a free flight Monospar. He was going to use a Don Srull-designed shutoff method whereby a timer- activated balloon blows air into both the fuel lines. Very brave.
+
+I need to find some plans for the Luton Major, a far prettier plane than the Minor. The first model I built with any degree of success was a small rubber kit for this, but I've never seen one since. Best regards, Dave
+
+Dr. Mike Blott \< <DRBLOTT@aol.com> \> wrote:
+
+I converted a freeflight P-51-lookalike model from COX called the VIPER. Used the GWS direct drive motor (from the geared setup) with the stock prop.
+
+Two HS-50 servos and GWS Pico receiver. Six 50 mAh cells. Flies very well. One problem is that the GWS motor is not designed for front impact loads, as it has a plastic endbell that holds the ballbearing. Can you say "pop"?
+
+The non-ballbearing version may be a better alternative. I have a few hundred N20 Mabuchi motors. (Like in the B2.) John Worth from Cloud 9 has some gears that mate with the prop/spinner, and now I have a lighter setup. All-up weight is less than 100 grams.
+
+Construction article will be in an upcoming RCMICROFLIGHT. There is video on my site: \< <http://phreak.mine.nu/drblott/RadioControlProjects.htm> \>
+
+Mike
+
+Tommy Wilson \< <jawa@ies.net> \> returns with:
+
+I have been lurking for a while as I am busy building Free Flight models for Jim Moseley's Postal Contests this year & don't have much time to mess about with the computer -- the thing eats up time at a frightening rate!
+
+Anyway, on to the point of this: while waiting for the dope to dry on my Slow TeeDee model, I changed the engine on the OBOGO (an old Japanese single-channel model converted to 3 functions) from a Hornet 09 R/C to an OS Max 20 R/C which had not been used for 7 or 8 years.
+
+The OS was always one of my favourite engines, as it always started easily & throttled well -- but was put away when the model it was in died when it hit the ice on a frozen river.
+
+A few drops of Marvel Mystery Oil were applied to the carb & exhaust before being put back into the box. I found the engine again when looking for something else & was smitten with a nasty dose of nostalgia!
+
+The OS fitted into the model easily with only some minor fiddling with the throttle cable & servo. However, I was a little concerned, as the CG is now further forward than previously.
+
+I wondered what was going to happen but left it as it was.
+
+The field has been muddy since some rain at the weekend; however today I was able to fly the model at lunch time. After filling the tank, choking the carb with my finger & applying the NiStarter, one flick with the finger & it was running!
+
+I could hardly believe it, languishing in the box for all of those years had done the engine no harm whatsoever. That's a good testimonial for Marvel Mystery Oil, which I have used for years & will continue to do so.
+
+The model is over-powered with the 20, as Sam Brauer already mentioned in the previous Posting. It is now a little squirrely; the climb-out after takeoff is spectacular but it flies nicely at lower throttle settings with an old Top Flite nylon 8x6 prop.
+
+I was still impressed with the engine even though the fuel is only 10% nitro. Despite the forward CG I had to crank in full down trim to try & control the climb at half throttle & above. Tonight I will change the prop to 9x4, try that tomorrow & have more fun as it was a blast!
+
+By the way, a Slow TeeDee is any model powered with a Cox TD 049/051 with fixed flying surfaces only: no Variable- Incidence Tail or AutoRudder -- & a 7-second engine run.
+
+This is a class to run TDs only, as the Russians now make more powerful motors for 1/2A. I am building an English design from the 1950s called Y-BAR. I have built a couple before, but used a PAW 149 diesel instead of the Elfin 149 called out on the plan.
+
+It looks good; hopefully I will have some fun with it in the Postal Competition. I never won anything with them but learned a lot, met some great people & had a lot of fun; being impressed with the almost-vertical corkscrew climb & nice floating glide.
+
+Thermals! Tommy Wilson P.S. Too windy to fly today!
+
+...Tommy, I agree with you that Marvel Mystery Oil works great in glow engines. But in model DIESELS it can interfere with easy "startability". \[JW\]
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

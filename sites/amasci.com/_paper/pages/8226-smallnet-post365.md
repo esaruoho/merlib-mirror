@@ -1,0 +1,322 @@
+---
+title: "SMALLnet post365"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post365.html
+order: 8226
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:54Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post365
+
+*Source page: `~smallnet/Archive/post365.html`*
+
+## SMALLnet Posting post365
+
+------------------------------------------------------------------------
+
+**Date: Tue, 19 Dec 2000 00:16:01 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+<div class="Joe">
+
+...In case anyone's been concerned. the spate of tornadoes that hit this part of Alabama over the weekend came no closer than about 20 miles from my home town of Ozark. We had no problems here... \[JW\]
+
+</div>
+
+Gordon Counsell \< 
+
+ \> wrote:
+
+<span id="12"></span>
+
+<div class="green">
+
+Source: Glow Plugs, for G-Mark .03\
+
+</div>
+
+As there seem to have been a lot of enquiries about my posting on SMALLnet about glow heads for G-Mark .03's etc., I thought that rather than answer my e-mails individually (sorry guys!) I would post all the information I have to this site in case any more of you need these items. The 1/2A site I referred to is at: \< <http://members.nbci.com/mcfisher/rc12a/> \>.
+
+After getting to the home page, press "makers" in the left hand column, which will bring up an alphabet. Then press "L", and when the page appears, scroll down to Lion Electronics.
+
+I don't know about payment. I have not attempted to buy from them myself. The site lists Australian and New Zealand dealers, and asks anyone outside the area to e-mail for details to \< 
+
+ \>.
+
+There are lots of other interesting bits on the 1/2A R/C site including CS engines. Hope some of this is helpful. Gordon
+
+Lloyd \< 
+
+ \> adds:
+
+The Lion Electronic web site is: \< <http://www.tnet.com.au/~lion/Pro-Glow_Products.htm> \>.
+
+Roy Clough \< 
+
+ \> contributed:
+
+Many thanks Red Scholefield for NiCad freeze information. I've been sweating the fact that my workshop area was so crowded I had to move about a dozen planes to the unheated garage. Before the winter is over, we'll probably match the -20 F you mention, glad it's a conservative figure.
+
+When I started building tiny 50 mA powered free flights, I worked out a way of soldering nicads that never spoiled one. First, I cleaned off a spot with fine sandpaper. Then I put on a tiny smear of NOKORODE soldering paste, applied the tip of the iron just long enough to get a tinned spot, then immediately applied a wet pad of paper toweling to cool it.
+
+I pre-tinned the connecting wires (or straps, .012 x 1/8 shim brass) then soldered them in place, again with immediate cooling with the wet paper towel. Never had any problems -- except maybe a touch of chagrin when somebody gave me a 1400 mAh six-pack with the cells connected with copper braid that had been very heavily soldered in place. That worked OK, but I still take my cooling precaution when soldering up small packs.
+
+Shim brass air tanks: I had one for years. It was wire wrapped and an uneasy pump-up as I was noticing the slight bulge of brass between the windings. Later on, after I'd given it to Skip Ruff for his collection, I read that these tanks with the wire wrap were more dangerous than those without the wrap. I took to using pop bottles for later experiments; rather mourn the passing of the old bottles with round ends and nice little NACA cowlings to stand on.
+
+Does anybody remember those "ACE" two- and Vee-type four- cylinder inline expansion engines that used a mix of dry ice and water and Carbide in a special generator?
+
+K&S tubing is plenty strong and smooth for C-A motors, but I've found the fit of the telescoping sizes is not really tight enough for super-economical operation. I once had a three-cylinder motor which had solid aluminum pistons with slots and wrist pin holes for the con rods, and a leather washer held on top with, of all things, a carpet tack driven into an undersized hole. The leather seal produced drag, but didn't leak.
+
+Incidentally, many fascinating air valving schemes have been tried in past years. I once designed a single with an angled crank pin that made the piston rotate a few degrees to uncover porting in its peripheral surface. So-so performance. Malcolm D. Whitman, Jr., told me that Jim Walker had beaten me to the idea several years earlier with something he called a "Twistin' Piston" motor.
+
+I also designed several motors with integral porting uncovered by the travel of the piston, and one with a sleeve valve, attached to the head of the piston, that went up to uncover a slot into a pressure chamber (same idea as a ball valve) at the top of the stroke.
+
+Shades of old Jetex models! There was a Jetex helicopter kit that used two Jetex engine on a crossbar (like a Bell helicopter flybar arrangement) and delta hinges on the blades -- so they would flap upward and de-pitch for the autorotating trip back to earth. Clever, I don't recall who designed it.
+
+I built a turboprop model using a Jetex engine to spin the turbine. Popular Science, September 1953; also a ducted Jetex, Popular Mechanics, July 1965. Use of a duct with Jetex is a good way to entrain reaction mass for more thrust. I built several.
+
+A weird item from this time was a tube of cement I picked up somewhere. It was quite thin, pale green in color and, yep, fireproof! I used it to coat the inside of balsa jet tubes and it worked fine. No idea what it was; the tube had red, white and black diagonal stripes.
+
+I built several compressed air motors using tin chili bottle caps for the crankcase. These worked out well because they were of the right diameter and the open end was rolled over, making them very strong. I used black neoprene tubing for air (also for steam lines) and never had any trouble with it. Unfortunately, when I used it all up, was not able to find more.
+
+The late Harry Walton, Popular Science editor and science fiction writer, told me about an interesting type of "peristaltic" compressed air motor. Think of running compressed air through a Dave Brown fuel pump backwards -- so the expanding rubber tube forces the rollers around. Harry told me this had been marketed in a not very successful model race car. With modern materials (I'd use a 3-lobed rotor) this might work pretty well.
+
+I also recall a very interesting type of compressed air propulsion of a toy balloon. This had a stutter valve that released the air in a series of "explosions" that kept the thing aloft until the pressure faded; much longer than the blast of just releasing the neck of an inflated balloon.
+
+Have fun, Roy C.
+
+<div class="Joe">
+
+...Roy, as long as you've mentioned various offbeat types of air- powered motors, I'll ask here whether anyone's ever seen one of the "vane" motors run. I've seen some of these in the showcase at Colonel Bob's hobby shop on Pico Boulevard in Los Angeles, as late as 1960. They looked like radial multi-cylinder motors, with 5 or 7 cylinders, about the size of an OK CO2's. But those were just dummies. What provided the power was a vaned rotor that spun inside the "crankcase". \[JW\]
+
+</div>
+
+Andy Woitowicz \< 
+
+ \> also has a way of safely soldering batteries:
+
+I've soldered together NiMH cells using the same method as I do for Nicads. I had no problems and, as far as I can tell, the procedure didn't hurt the NiMHs. However, they haven't seen a season of flying yet, so I can't vouch for their long-term life.
+
+This is what I do. First, you need a large iron. 50 watts is what I use. Sand the cells at each end with 320 paper. Add a bit of resin flux to each end. Make sure your iron is good and hot and pre-tinned nicely.
+
+Load up your tinned iron with a bit of extra solder and, touch the cell, let the solder flow to the cell -- and let go. The heat application should only last a second or so. This is what minimizes the amount of heat applied to the cell.
+
+Bringing the solder to the work contradicts everything you read about soldering technique, but there's a lot of conventional wisdom around that's also wrong...
+
+Applying the iron, then applying solder; then waiting for same to melt and flow to the work allows the iron to cook the cell much longer than the method just described.
+
+This procedure "tins" the ends of the cell. Now you use "solder wick" as your jumper. Prepare the appropriate lengths of wick by pre-tinning each end. Apply more flux to the wick or the cell and, using the same hot iron with a little extra solder on the tip, press the wick to the cell with the iron for one second and let go.
+
+Each cell end gets a brief application of heat twice -- but the total amount of heat conducted to the cell interior is limited. I've done Nicads for over twenty years this way and have never had any problems.
+
+Andy Woitowicz
+
+Tony Turley \< 
+
+ \> asks:
+
+Could one or more of you kind folks help me out of a bit of a pickle? My hobby time has been reduced drastically, and my plans to build my neat little Flyline kit have had to be put on hold. Therefore, I am looking for a small, realistic-looking (but not necessarily scale) model that will have about 200 squares, and build up to 14 ounces or less, RTF. Plans or kit-- doesn't matter, as long as it builds quickly, and can be flown in a baseball diamond. Oh, by the way, it will be an electric, and I already have all of the electronics. Any suggestions will be most appreciated.
+
+Tony Turley, Scott Depot, West Virginia
+
+Ted Maciag \< 
+
+ \> returns, with:
+
+I think that my last contribution was for \#300, so my comments may be out of date, but oh well... When Sky King was on radio I got the impression that he had a big powerful plane. When he first came to TV he was flying a Cessna Bobcat! What a disappointment.
+
+At my High School graduation many years ago I hid a Ceiling Walker in my robe. Halfway through one of the speeches I wound it up and let it go. A giggle went through the crowd and the guy making the speech lost his place. Great fun!
+
+For a minimalist jet launcher try a straw plane. First you find two soda straws that nest together. The smaller one is the launcher. Then you take a 4" piece of the larger one, add a nose, wings and tail and you are ready to go. Just point up and blow. --- Much cheaper than CO2 capsules.
+
+My current project is a 32" Moth. It will be powered by a 2 cc, 4-cylinder, 4-stroke! This engine is an incredible piece of work. I will definitely test fly it over tall grass.
+
+Ted Maciag Largo, Florida
+
+<div class="Joe">
+
+...For those who don't speak metric, 2 cc is .12 cubic inches. The cylinders of the engine Ted's talking about are .030 each! \[JW\]
+
+</div>
+
+Ian L. McQueen \< 
+
+ \> warns :
+
+I wouldn't use a car starter for anything beside starting a car engine, or for winch-towing gliders. Too powerful, and a very high current draw. And I wonder if one would overheat if run continuously for a while. Some motors designed for intermittent use will get too hot if run much beyond their designed cycle time. Ian M
+
+Peter Havriluk \< 
+
+ \> wrote:
+
+I, too, have had the Hurst Bowers Fairchild 51 drawing for years, and I am familiar with the airplane. I suggest powering it with a Kyosho AP-29 or a Graupner Speed 480 on a 2.3:1 Tom Hunt belt drive or geardrive from Hobby Lobby -- running on 8 cells.
+
+These motors have twice the thrust (and current draw) of a 'Speed 400' can motor, but have external brushes and can do much more work. The airplane is a bit outside the size of a Texaco model; it's got a bulky fuselage, largish wings and draggy shape. The stronger motor ought to do just fine.
+
+If it's too much thrust, use less prop and run longer, or use less prop and smaller batteries. I'd keep the 8 cells to make takeoff and climb positive. I've used Leisure's LT-50 geared motors on a vastly larger airplane, and they've worked out great, so I don't want to suggest something as big as '540' sized car motors -- so I suggest the smaller-size 480/AP-29 motors. Peter
+
+Bruce Stough \< 
+
+ \> submitted:
+
+After scratch-building several planes, I have decided to try my hand at designing a SMALL scale model of the Z-MAX 1300Z micro-light plane \< <http://www.teamaircraft.com> \>. This is a cute little home-built with an enclosed cockpit, that looks a lot like a model airplane. The designer, Wayne Ison, has been helpful with 3-views and literature.
+
+I am planning on a 52" wing, using a PAW .19 for power. Following Andy Lennon's advice, I plan to use the Eppler 197 airfoil.
+
+While most of this is very straightforward, I am unsure about how to mount the shoulder wings. The wings need to be removable, so I expect to use a couple of rods through the fuselage, one at 25% of the chord and a second near the trailing edge. There should be no problem making the fuselage strong enough to bear the rods, but I wonder how much strength is needed and what material the rods should be made out of. I have some carbon fiber arrow shafts which seem plenty stiff, but I don't know if they would be tough enough. The plane will probably weigh 3 to 3.5 pounds.
+
+Another issue I'm not clear about is how to do the aileron connections. An easy way would be to use separate servos in each wing, but I wonder if there is a straightforward way to use a single servo in the fuselage to connect to the shoulder-wing strip ailerons.
+
+Thanks for your help! Bruce Stough
+
+Bill Thomas \< 
+
+ \> would like to know:
+
+Years ago I bought a small charger for my flight box gel-cell. I recently put together a smaller version flight box just for my small airplanes, and could use another charger like the one I have.
+
+Unfortunately, I cannot find a current advertisement for the company that made my original charger, and was wondering if any SMALLster would be able to help me.
+
+The company was called CaRa Products and was located in Canton, South Dakota. The owner's name was Ralph (and I could easily be wrong about the last name) Croaning.
+
+I did read somewhere that he had relocated the company to Minnesota or Michigan, and I promptly made myself a note of that fact. Unfortunately I can no longer find the note! I know that I'm not getting old enough to be getting absent-minded -----Uh, what was I talking about? OH!
+
+Anyway, from my conversation(s) with Ralph I know that he was a dedicated Small Airplane Lover (he was flying a 1/2A Mach None at the time) and I'm hoping that someone out there could point me in the right direction. Thanks! Bill
+
+Bud Johnston \< 
+
+ \> wrote:
+
+I'm a new kid on the (electric-power) block and first-timer on the SMALLnet.
+
+On the Spider Wire commentary in \#383: It is one of the best things to come down the pike in a long time. Not only is it great 1/2A control line and pull-pull material, it is also great for rigging stabilizers, wings, landing gear, struts and the like. The only limit is imagination. The cost really isn't that great, if one figures it on a cents/foot basis (actually cheaper than the Sig Dacron). Since there's more than plenty on a spool for model use, if one doesn't take it fishing, split the cost and supply with a friend or three.
+
+Another subject: If one wishes to break the 7-cell limit of most "field chargers", and has a 110V charger that handles larger packs, check out an "inverter" at your local RV dealer, farm supply, or Harbor Freight. I am using an FMA Versapulse on a 5 amp inverter, and it works great. I checked this out with FMA's tech desk and got their blessing before I tried it. Now I not only can charge 8- and 10-cell packs -- I can take a coffee pot to the field for fresh hot brew. Were one so inclined they wouldn't have to decide whether to watch the game or fly (There are those kind out there!).
+
+Word of warning: make sure your inverter has a low voltage cut-off, or that you carry jumper cables in the car.
+
+Now I have a question. This is probably old hat, and well-covered in the back issues, but I am looking for some help on Magnetic Mayhem use. I have a pair of MM reverse motors and 2.5:1 Master Airscrew gear boxes looking for a home. I also have a Goldberg Skylark kit I've had tucked away for the past thirty years.
+
+My intuition tells me that the geared motors would be way too much for a kit designed for ancient .10 engines. The first question is, "Am I correct?" A related question would be about using the standard MM without gearing.
+
+Hope I've helped a bit; and thanks in advance for any help sent my way.
+
+Bud Johnston Topeka, Kansas
+
+Sam Brauer \< 
+
+ \> reports:
+
+Here's a combination that didn't work. I've had a bunch of the Sterling scale rubber/gas etc. kits since I was a kid, and I've gotten around to building and flying some of them. I had built a Citabria about 10 years ago (I think I started it 20 years ago) and put a G-Mark 03 into it. Never ran the motor, and I hung up the airplane.
+
+Recently, I decided to take a crack at it -- so I pulled the glow motor out and dropped in a Speed 300. I've given up on small glow stuff -- I think electric is the way to go -- same weight, if not lighter, and less fuss.
+
+After some hacking I managed to install two GWS Pico servos (under 6 grams apiece) and the new GWS 4R-P receiver (which has too heavy an antenna -- noticeable on airplanes in the 4-5 ounce range). Energy was provided by a 6-cell 350 mAh nicad pack, prop was a 4.5 inch diameter Cox prop off an .020, and speed control was a Castle Creations Pixie 7. Yes, Pat de Castillo says that you can use a Pixie 7 with anything smaller than a Speed 400.
+
+Overall weight was 10 ounces- I'd covered it in bamboo paper. Before flying I washed out each tip about a 1/16 to a 3/32 of an inch, added some downthrust, and balanced on the main spar. First attempt: falls off on one wing. Next attempt: add more power; still tip stalls.
+
+I checked the CG and washout. Everything OK. Try again with the little 300 making a racket. Plane gets up 20 feet, and commences to wallow around like a drunken bum. This time the wing comes off.
+
+Postmortem: this airplane may fly with enough power; it's actually got plenty, but it's never going to be enjoyable. Moving the CG forward will just entail yanking more up - the plane was diving some. Too heavy; too short a tail moment. If it's got to fly that fast to stay in the air, it'll come apart on landing. Hang it up again, maybe try it free flight with less weight, or give it a Viking funeral.
+
+I think this power system may be worth a look. The Speed 300 is a cheap motor, and mine is pretty noisy. Most people have been running them on 7 cells -- maybe 8; and I've heard the longevity isn't good. With 6 cells and this small a prop, the motor doesn't get too warm, although I'll bet it's only good for about 3-4 minutes wide open. However, for some small aerobatic ships, that may be plenty.
+
+In short, if a direct drive Speed 280 just isn't cutting it, you may be able to use this motor without adding too much weight.
+
+An alternative approach is the Permax Speed 280 BB -- somewhat more expensive, heavier, but much better made.....
+
+Excuse me as I wipe the egg off my face. This is an addendum to my previous submission, where I was too smart for my own good. Plus, I hadn't learned from my mistakes.
+
+Anyhow, before I ripped the radio and motor out of the Citabria, I took another look at the airplane and ran some numbers. The Citabria has roughly 150 square inches and weighs 10 ounces, which yields a wing loading of a touch under 10 ounces/square foot -- which is certainly not out of whack. Therefore, something had to be wrong with the setup, and I decided to move the center of gravity forward so the airplane now balances nose down at the main spar.
+
+I shoved the battery pack further forward. A quick, very short test hop this morning showed no trace of the vicious roll, just that the nose dropped abruptly when I cut the power. The airplane is clearly controllable, so I'm going to take it out and try and fly it one of these days. Who knows -- it might even be nice to fly.
+
+The reason why I feel really dumb? Because I did the same stupid mistake on the last Citabria I built -- the larger version powered with a .28. First flights on the airplane went fine. After a couple of flights, I changed battery packs to one that was 3 ounces heavier. The battery pack was under the trailing edge, and a quick check of the center of gravity showed everything was OK.
+
+Not so fast! This Citabria exhibited the exact same behavior as described above: uncontrollable tip stalls which led to a good smack and some rebuilding. What's the old truism: He who forgets history is doomed to repeat it? Or is it: Airplanes that are nose heavy are sluggish, airplanes that are tail heavy are in pieces?
+
+Sam Brauer Norwalk, Connecticut
+
+Gary Gullikson \< 
+
+ \> sent:
+
+Forgot to mention how much I have enjoyed and learned from SMALLnet. I have been nutz about model airplanes since age 10 in 1949; have been converting old Comet, Sterling, Flyline, Jetco and other kits to .010-.049 power.
+
+I recently built from MAN and plans, Ziroli's 35" Aeronca Champion. It flies with rudder, elevator and ailerons on GD280 and eight 270 mAh NiMH cells, with micro R/C gear.
+
+My Aeronca has about 25 flights, with altitude to 300' and duration up to 10 minutes. I am now ready to tackle my armload of Flyline, Berkeley, Jetco and Sterling and Guillow kits, but am building a "Stikota" as my first 400-size plane. Glad I made the jump; there's no place nearby to fly glow or diesel anymore near Disneyland, here in Orange County, California.
+
+Will send reports on hoped for success (?) with Stikota. Gary
+
+<div class="Joe">
+
+...Gary, I lived in Orange County for a couple of years before Disneyland was built, and while Knott's Berry Farm had free admission. We used to fly free flight in the mid-1950's not far from where Disneyland now is, in a big agricultural area just off Beach Boulevard. Times have sure changed! \[JW\]
+
+</div>
+
+Phil Oestricher \< 
+
+ \> narrates:
+
+It may be a bit late to weigh in with my brief exposure to the Ray Rocket - but - here's what mine was like. I bought one when it first came out, and built the model per plans with extra care that the CO2 capsule fit into the wing mount with little slop.
+
+I even had installed a little coil spring (don't think this was called for on the plans) which was expected to eject the capsule when it was done thrusting.
+
+I balanced the thing to glide OK without the capsule. I went to the large vacant lot next to my house, inserted a capsule, and pointed the model rather nose-high and launched it via the Ray gun-type device. It climbed steeply in a large semi-circle to the left and flew over the house at an impressive altitude. The spring worked as hoped, but the capsule momentarily laid on the fuselage aft of the wing mount, causing a pitch-up which dumped it off.
+
+The model recovered, and glided over two large trees to land in the open lot. Beaming with pride, I rushed into the house to recruit the whole family to come out and watch the second flight. I made no trim changes and, so far as I know, launched the plane exactly as before except for a change in azimuth to avoid the house overfly.
+
+The model climbed straight out at about a 45 degree angle, rolled axially to an inverted attitude and dove in. It was totally pulverized. Nobody said anything. My career in CO2 model propulsion was finished.
+
+Bottom line: It was a workable design and certainly didn't lack sufficient thrust. I'm sure it was most critical as regards trim and probably should have been launched in a near-vertical attitude.
+
+Phil Oestricher
+
+Dr. Sandy Frank \< 
+
+ \> announces:
+
+Re: Waco, TEXAS indoor: I was at the WACO swap event last month...and was told that they have permission for the use of a good indoor flying site. Contact: Max Blose, 1001 North Betsy, Waco, Texas 76706 --- (817) 662-5587 --- e-mail \< 
+
+ \> for further information. Sandy Frank
+
+Charlie Meyer \< 
+
+ \> wonders:
+
+I have been investigating the fuels we have been using for the last 2 years, and found that glow fuel lubricated with 17% all-synthetic oil is not recommended by the engine manufacturers. Some of our ABC and engines run well on this mixture while others do not. It has occurred to us that maybe some of the problems that we have experienced with some of the engines that do not run up to par may be due to the lack of castor oil.
+
+What are the experiences of the SMALLnet community with using castor oil as opposed to synthetic and synthetic/castor blends in engines larger than .10 ?
+
+Where can I get some impartial information on fuel lubricants?
+
+Charlie Meyer
+
+<div class="Joe">
+
+...Charlie, in almost ten years as a model engine columnist for Model Airplane News, and three doing the same thing at Model Aviation, I've written a LOT about model fuel lubrication. I'm a straight castor oil proponent. So were Duke Fox and Roy Cox. Dave Gierke (MAN's current engine columnist) concurs.
+
+In a recent "special interest column" I saw a test report on the variations in performance of 4 or 5 engines, using synthetic-oil fuel and again on a castor oil mix. In EVERY CASE the perfor- mance was better with the castor oil fuel!
+
+Synthetic oil has a few "advantages". It's cleaner; it's somewhat more "slippery"; and it doesn't cause "varnish". But castor oil works better in every other aspect of model engine usage. The oil does MUCH more inside a model engine than reduce running friction! And no other common lubricant increases its film strength as it gets hotter.
+
+True, certain very specialized model engines -- competition types where maximized performance is the primary criterion, and long operational life is unimportant -- use synthetic oil fuel to advantage. But for sport flying, NOTHING works better in model engine glow and diesel fuel than castor oil. And Allen Heinrich (AeroDyne's owner-operator and a long-time free flight competitor) says that castor oil is the best lubricant for SPARK ignition engines too. \[JW\]
+
+</div>
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

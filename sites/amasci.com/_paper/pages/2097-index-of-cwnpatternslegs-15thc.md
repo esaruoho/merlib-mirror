@@ -1,0 +1,31 @@
+---
+title: "Index of /~cwn/patterns/legs_15thC"
+source_domain: amasci.com
+source_path: ~cwn/patterns/legs_15thC/index.html
+order: 2097
+reachable_from_entry: false
+images: 10
+internal_links: 1
+extracted: 2026-08-07T17:08:33Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Index of /~cwn/patterns/legs_15thC
+
+*Source page: `~cwn/patterns/legs_15thC/index.html`*
+
+# Index of /~cwn/patterns/legs_15thC
+
+     Name                    Last modified       Size  Description
+
+     Parent Directory        10-Mar-2003 23:04      -  
+     bottom_lanes_and_dem..> 11-May-2000 11:25    40k  
+     cuisse_p1.jpg           11-May-2000 11:25    36k  
+     cuisse_p2.jpg           11-May-2000 11:25    34k  
+     knee_cop_p1.jpg         11-May-2000 11:26    38k  
+     knee_cop_p2.jpg         11-May-2000 11:26    33k  
+     top_lanes_and_demi_c..> 11-May-2000 11:26    33k  
+     upper_cuisse_plate.jpg  11-May-2000 11:26    36k  
+     wrap_plates.jpg         11-May-2000 11:26    40k  
+
+------------------------------------------------------------------------

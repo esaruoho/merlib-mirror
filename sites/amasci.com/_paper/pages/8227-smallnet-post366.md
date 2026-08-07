@@ -1,0 +1,266 @@
+---
+title: "SMALLnet post366"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post366.html
+order: 8227
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:54Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post366
+
+*Source page: `~smallnet/Archive/post366.html`*
+
+## SMALLnet Posting post366
+
+------------------------------------------------------------------------
+
+**Date: Sun, 24 Dec 2000 01:45:14 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+Dave Segal \< 
+
+ \> contributed several items:
+
+1\. Now that your house lights are up for the holidays, some modelers might want to try night flying with illuminated models. In the February 2001 issue of Model Aviation, Bob Kopski explains how to use high-brightness LEDs. He has six lights in a 12-ounce model, and the total current draw is only 80 mA. The brilliance of these LEDs is quite unlike the dim little indicators we're accustomed to seeing in many devices; and they cost quite a bit more.
+
+The white LED in the nose of Kopski's model is as bright as a flashlight and quite startling to see. I will leave this technology to others as I have enough trouble piloting a model in the daytime.
+
+2\. For a long time I have avoided using a sprayer to apply CA accelerator. The spray is dangerous, as it will go all over the work table, and some modelers have been hurt when they placed a hand with a bit of wet adhesive on it down on the table with the dried residue of the accelerator -- and heard (and felt) a sound "like bacon frying". I now have pinpoint application of accelerator by dipping a bamboo kabob skewer into the accelerator bottle and applying only a tiny amount directly to the joint. When the CA builds up a hard blob on the tip of the skewer, I scrape it off with a razor blade.
+
+3\. Sam Brauer said, "Airplanes that are nose-heavy are sluggish; airplanes that are tail-heavy are in pieces."
+
+Another version of this warning I have read is, "Nose-heavy planes don't fly very well, and tail-heavy planes don't fly very long".
+
+<span id="38"></span>
+
+<div class="green">
+
+Source: Kits, Scientific Reproductions\
+
+</div>
+
+<span id="39"></span>
+
+<div class="green">
+
+Source: Kits, Comet Reproductions\
+
+</div>
+
+<span id="40"></span>
+
+<div class="green">
+
+Vendor: Supercraft Models\
+
+</div>
+
+4\. Don Ross, in the new issue of Flying Models magazine, points out the web site for Supercraft Models, at: \< <http://www.supercraftmodels.com> \>. Lots of neat small stuff, including reproductions of Scientific and Comet kits, and a swap-shop.
+
+Happy holidays to all, Dave Segal
+
+Bill Lehn \< 
+
+ \> wrote:
+
+I have had success removing the counterweight of the small pager motors by capturing the weight in the jaws of a small bench vise at an angle of about 60 degrees. A small punch made from a piece of music wire about 0.030" in diameter and 1/2" long is used to drive the motor shaft out of the weight. A rag or piece of foam is used to keep the motor from falling and damaging itself.
+
+The hole in the small pinion gear from Cloud 9 is too large to fit the motor shaft. I had my brother (whose hobby is clock and watch repair) drill out the plastic pinion to 0.063" with a \#52 drill and then turn a brass bushing with an i.d. of 0.033" (to fit the motor shaft) and an o.d. of 0.063"+ to fit the hole in the pinion.
+
+The final touch is using CA to glue the pieces together. The watchmakers lathe has all the correct collets to hold the gear and turn the brass bushing. Bill Lehn
+
+Adam Bryant \< 
+
+ \> concurs:
+
+We use these tiny motors in robots. Clamp the WEIGHT in a vise and use a small nail as a punch to drive the shaft out of the weight. (Of course, you need something there to catch the motor when it comes free of the pressed-on weight.)
+
+Adam Bryant \< <http://www.adamdb.f2s.com> \>
+
+Randy Randolph \< 
+
+ \> instructs:
+
+No need to offer Sam Brauer any advice on his tail-heavy airplanes because he has already solved the problem. But, there was one thing that will help and that is wing loading. Since we cannot scale air, the smaller the wing the lighter the wing loading must be to produce comparable flight performance.
+
+For a 300 square inch wing a loading of 10-12 ounces per square foot will do nicely. However, for an airplane with a 150 square inch wing, loadings of 5-6 ounce range would more closely resemble the flight characteristics of the larger airplane.
+
+Randy
+
+Sam Brauer \< 
+
+ \> responds:
+
+I've flown my Citabria, and I think I'll be happy that I didn't stomp on the airplane. So far, I'm still feeling it out. I haven't gone to full bore on the Speed 300, but I'll bet I've been close.
+
+The airplane will probably do most of the 3-channel aerobatics -- it still can fall off on a wing if you're not careful, though -- and has plenty of power. The glide, even at 10 ounces, is not too bad. It's not a floater, but it doesn't come in like a brick either.
+
+Flight duration is definitely short; probably a shade under 5 minutes, though I haven't timed it. On the other hand, for a quick flight during lunchtime, it's fine and is easier to fly in a small field (baseball diamond with buildings around) than a floater.
+
+I'm still fooling around with electric free flight, which definitely requires some tinkering. A couple of nights ago I went out and flew my Baby Bi Winger at 8 and 10 PM. The airplane flies in lazy left hand circles about 10-15 feet high -- the cold definitely saps the little nicads quick. Had to duck once, but it was way cool watching the little airplane. This airplane is flying on a Firecracker motor and 4 50 mAh nicad cells -- which gives a useful run time of about 30-45 seconds.
+
+I'm also playing with an Arrow Sport V-8 that I built for rubber. Given the short nose and the wing fairing system, which apparently is pretty draggy, it wasn't going to win any contests. The first motor I tried was a Micro 4 with a 3-cell 110 mAh Nicad pack (gives a run of about 50 seconds).
+
+Big mistake -- way too much power and weight -- fairly extensive rebuild. I think this setup is more useful for a relatively heavy airplane of 30 inches or so -- which is a tough combination to hit with a 3.25 inch prop. I then tried a 3 cell 150 mAh NiMH (Nickel Metal Hydride) cell, which rapidly got fried due to the current draw of the motor. That's why I could never get it do very much on a 3-cell 50 mAh nicad (eventually the light dawns).
+
+Right now, I've gone to the Firecracker motor and the 3-cell NiMH pack, which gives a run time of over 2 minutes. Just have to see if it'll keep the airplane up, or if it needs an extra cell. The Firecracker motor and the Micro 4 weigh about the same.
+
+Anyhow, in response to Tony Turley's request -- how about one of the Micro-X planes? I think Micro-X still kits and sells plans for the Taylorcraft and Stinson at 200 squares. I built the Taylorcraft a couple years ago and recently sold the plane, sans engine, to Penn Valley Hobby Center.
+
+The airplane flew OK with a Cox 074, but it didn't do a lot for me. Looking at the structure with a fresh eye, the fuselage is way overbuilt. If lightened to 14 ounces, then I think the wing is fine without struts. With struts it'll take more. The structure is built the same way as a typical sport rubber ship, which means that you don't have acres of sheet balsa to sand.
+
+Sam Brauer, Norwalk, Connecticut
+
+Ed Toner \< 
+
+ \> also suggests to Tony Turley:
+
+Try the new Dumas and Herr kits, particularly the J-3. Also look over the new DARE Line. All these kits are laser cut, and build quickly, and fly reasonably well, EXCEPT the T-34, which was quite difficult to build, and did not fly -- at least, not for me.
+
+Ed Toner
+
+Luke Thompson \< 
+
+ \> inquires:
+
+This is my first contribution/question to the SMALLnet. I've been receiving the newsletter for quite some time now, and enjoy it very much.
+
+I am building from an old RCM plan, a David E. Unruth-designed Interstate S1B2 Arctic Tern. I am adapting it to fly electric, 540 motor with a 3 to 1 inline gearbox.
+
+My question is this: Does anyone know a source for scale documen- tation and some nice photos for decorating and covering reference? The web seems to be decidedly lacking in sources for these.
+
+There is an Interstate Arctic Tern website, but they don't have the stuff I'm looking for. Any thoughts from anyone?
+
+Luke Thompson
+
+John Rossetti \< 
+
+ \> wonders:
+
+I recently acquired two electric motors, but I have no idea of the specifications regarding number of cells to use, motor rating, etc.. The name on the motors is "SLOT MACHINE". Stamped on the end bell is "Roar 91 Japan". Dimensions are: Shaft 1/8", length 1 5/8", Diameter 1 7/16. These motors are brand new and are tapped and threaded for a gearbox. Any information will be sincerely appreciated. John Rossetti
+
+"Anonymous" \< 
+
+ \> asked:
+
+I can't find a replacement head gasket for a G-Mark .061. I am hoping someone out there knows how to make one or knows where to find one. Thanks.
+
+<div class="Joe">
+
+...I've used a home-made circular gasket cutter for 30 years. It's a "bow-type" draftsman's compass, with the graphite point replaced with a home-made "knife point" that I carefully ground and honed razor-sharp on a short piece of music wire.
+
+For crankcase gaskets and other applications where high temperature doesn't occur, the material I use is the "Trial Subscription" cards that most magazines are infested with these days. I cut "ring gaskets" using a procedure just like drawing circles -- except that several light cuts produce cleaner edges than attempting to cut the circles at one go.
+
+For high-temperature use, such as head gaskets, metal works best. One way to make those is with heavy-duty aluminum foil. But it's impossible to cut that accurately "as is". Instead, I use rubber cement to adhere the foil to a "substrate", such as tagboard. Then I cut the rings (usually a batch of several at a time) without separating them from the backing until they are about to be installed.
+
+At that time I soak the tag board in lighter fluid, until the foil rings come away easily. Then CAREFULLY I install them in the engine.
+
+A more rugged head gasket can be cut from the bottom of a pop can. Use the center of the bottom hollow as the centerpoint for your "cutting compass". Then with a LOT of patience, scribe round and round and ROUND, alternating between the ring OD and ID; taking miniscule cuts at each revolution of the cutting compass.
+
+The idea here is to avoid deforming the ring -- and especially to avoid producing burrs that would interfere with a perfect seal. After the ring comes free easily from the can bottom (like a laser-cut wing rib from its sheet of balsa), I gently de-burr the edges with 400-grit wet-or-dry, used WET and with great care.
+
+A gasket such as this may take me an hour to make -- but it will last indefinitely. \[JW\]
+
+</div>
+
+Don Stauffer \< 
+
+ \> inquires:
+
+A number of kits or plans I am looking at call for a 280-sized electric motor. Anyone recommend a good one? And, particularly, who carries them for mail order?
+
+Don Stauffer in Minneapolis \< <http://home1.gte.net/stauffer/> \>
+
+Larry McFarland \< 
+
+ \> sent:
+
+From everyone here at this household near Cleveland, Ohio, here's hoping everyone on the SMALL list has a VERY Happy Holiday season - and a safe New Millennium!
+
+And hearty congratulations to Joe on his election to the prestigious AMA Hall Of Fame... Go go my man!
+
+Larry here in snowy, cold Cleveland, Ohio
+
+John Rimmer \< 
+
+ \> pleads for:
+
+Help! I have taken thrust measurements of motors with a given number of cells, both direct-drive and with gears -- and find that using the best prop for each system (static) the thrust is better with gears. WHY?
+
+The thrust improvement is as much as 1.8 times better with gears. At first I thought airfoil drag being exponential relative to velocity might be a factor here. John Rimmer
+
+<div class="Joe">
+
+...John, there's an article about propellers on the SMALLnet web site that goes into detail on how propellers work and what influences their performance. But as a Rule of Thumb, the THRUST output from a propeller is dependent primarily on DIAMETER, and the maximum SPEED that a propeller can produce depends primarily on the combination of rpm and pitch.
+
+Also, propellers work more efficiently at LOW rpm. \[JW\]
+
+</div>
+
+Carlo Godel \< 
+
+ \> contributed:
+
+When synthetic oils came on the market I was racing 50 cc motor- cycles, using what is today a high nitro model airplane fuel. I used castor oil as the lubricant and could get about 4 to 5 races out of each rebuild; 400 to 500 miles. Rpm between 8000 and 16000.
+
+I was approached by a fellow who claimed his oil could increase the horsepower by at least 25%, and by golly it did -- but the engine broke down after about the third race. When I opened it up, not only were the rings gone but the bottom end rollers and balls were also galled and chewed up.
+
+This was the first time I had to replace the bottom end. The thing was, so did everyone else that was using the synthetic oil. It's slick, all right, but gives no protection to roller, needle and ball bearings. It seems that it slings off the surface too easily, and allows heat buildup that castor is able to withstand and toss out the exhaust. Just can't beat mother nature when it comes to the best of materials.
+
+Balsa, Silk, paper and cellulose glue forever..... Carlo Godel
+
+Dave Plumpe \< 
+
+ \> wrote:
+
+Ted Maciag mentioned his 32" Moth project, to be powered by a 2 cc, 4-cylinder, 4-stroke! Ted said, "This engine is an incredible piece of work. I will definitely test fly it over tall grass."
+
+PLEASE - MORE, MORE!
+
+How, pray tell, did this 4-cylinder, 4-cycle, 2 cc engine find its way onto this Earth? Something you made from an old paperweight and nail file? Any photos, plans, source?
+
+I have castings (but not yet the skill) for Zimmerman's 1/6 scale Cirrus, and know there have been several 1/8 scale made, but you're talking about 1/12!
+
+Dave Plumpe, in the NW corner of South Carolina
+
+<div class="Joe">
+
+...Gang, this Posting is somewhat skimpier than the usual, but I wanted to get it out before Christmas. Perhaps this might be a good place to include an excerpt from a "personal exchange" between me and Dan McLeod. Dan mentioned reading in an old issue of MAN about Randy's winning the 1/2A PAA-Load event at the 1950 "Dallas Nationals" -- and inferred from the write-up Bill Winter gave to the occasion that 1950 marked the origin of SMALL.
+
+Here's part of my response:
+
+The vital aspect of SMALL isn't the size of its airplanes or their power plants -- it's the utter freedom from competition. That removes all the tedious necessity for rules and regulations, model "processing" (which took an hour or more for certain events at the 1950 Nationals -- yes, I was there too), and angry debates about rules changes...
+
+Our non-competitive model flying seems to be the most appealing feature of SMALL.
+
+As for the small size of the models themselves, those go back a lot farther than 1950! The entire model airplane "industry" developed from small models. 10-cent and 25-cent model plane kits were the foundation of companies such as Megow and Comet -- biggest in the country before Pearl Harbor!
+
+Did you know that the contest-winning gas models Comet was so famous for: Clipper, Zipper, and Sailplane -- never made any profit? In fact, throughout its life the Sailplane kits cost more to manufacture than they sold for. I was at the Comet factory the very day (summer of 1949) when the last Sailplane kit was being packed.
+
+"Why are you discontinuing that fabulous model?" I asked Morrie Shamburg -- sales manager for Comet then. Morrie told me that the company could no longer subsidize that money-losing product, no matter how well it flew or how many contests it won...
+
+Yet the dime and quarter model kits continued unabated. Those were POPULAR !!! And look what happened when the 1/2A engines came along. Earlier, the model business had taken a serious downturn; but after the K&B "Infant", OK "Cub" .049, and Baby Spitfire .045 came out, the popularity of model airplanes shot upwards.
+
+On the control-line front, Jim Walker's trailblazing Fireball design is world-famous. Yet that was another model kit that cost more to make than its manufacturer sold it for. American Junior never brought in a dime of profit from the Fireball. Where A-J's income came from was the "74 Fighter" ten-cent gliders and similar small, low-priced all-balsa profile airplanes.
+
+I've been in this game a LONG time, Dan -- as long as Randy -- and have seen model "events" come and go over the decades. What ALWAYS causes a decline in participation is turning any new form of recreational activity into an "official competition event". (I saw the same thing happen in sports cars.)
+
+Therefore SMALL's REAL origins don't derive from the 1950 AMA Nationals at Dallas, but from people's desire to have FUN in their spare-time activities -- as unhampered by restrictions and rules as possible... The AMA has put WAY too much effort into contests (where a few guys win and all the others LOSE) -- and not nearly enough into pure FUN flying -- where EVERYONE goes home a winner. \[JW\]
+
+</div>
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

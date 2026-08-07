@@ -1,0 +1,69 @@
+---
+title: "Sick & Wrong History"
+source_domain: amasci.com
+source_path: ~redone/swrong/hist.html
+order: 6955
+reachable_from_entry: false
+images: 1
+internal_links: 1
+extracted: 2026-08-07T17:14:29Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Sick & Wrong History
+
+*Source page: `~redone/swrong/hist.html`*
+
+Sick & Wrong History
+
+![Sick & Wrong](swlogor.gif)
+
+------------------------------------------------------------------------
+
+## A Brief History
+
+    Sick & Wrong was formed in 1990 by Farrah and Jim Anderson. The early sessions took
+    place in a University of Washington parking garage.Farrah ask Wendy to join the
+    band and they swiped a shopping cart to push their sole amplifier to the 
+    Wallingford Estate. At the age of eighteen Wendy kicked her parents out of the
+    house so there was no one to complain but the neighbors.
+
+    Through the basement door entered many eager to audition. Those naive enough to
+    leave their gear "overnight" were locked out and never spoken to again. Johnny and
+    Jim proved themselves worthy and were inducted.
+
+    With newly acquired confidence and equipment, Sick & Wrong pummeled punk rock
+    audiences at Seattle's Storeroom. Much to the delight of BBC camera-wielding
+    documentry-makers who were compelled to ask Sub Pop honchos Pavitt and Poneman,
+    "Why aren't these guys on your label?" Sub Pop responded with a seven inch
+    single on Wesson Oil-colored vinyl which received fabulous reviews ans sold
+    out quickly. More releases followed on various labels and all have sold out.
+    The band is sure of one thing; people buy Sick & Wrong records from Austin,
+    Texas to Milan, Italy.
+
+    The current lineup consists of no Jims. Both Muddy and Static are solid athletic
+    individuals who were thoroughly drug tested and put through a grueling initation.
+    Which included years of loading and driving the van, and fronting their own bands,
+    The Queen Annes and Shattered Machine. Adam, on the other hand, applied for and
+    was granted the Sick & Wrong scholarship for specially-priviledged guitarists
+    and can also be found doing research with Spike and Bone Cellar. The image of
+    skin pounder Young John Pimp is often featured on the covers of Sick & Wrong
+    releases. He is now, incidentally, of legal drinking age(a problem before).
+
+    At Sick & Wrong concerts one might observe mock fellatio, nudity, dildos,
+    silly costumes, strings and sticks breaking, beer swilling and spilling,
+    line dancing and mooning. But it's the girls that everyone comes to see.
+    Mr. Wendy and Little Miss Farrah take command and all eyes are on them.
+    While the ears are treated to a supersonic game of good cop/bad cop.
+
+    Recently, a British music magazine mistakenly deemed Sick & Wrong too sexist
+    because the writer was under the impression the Wendy and Farrah were men.
+    How do the girls respond to these false accusations-"What's wrong with being
+    sexy?"
+
+#### *july 8 1995*
+
+\
+\
+
+### [back](index.html)

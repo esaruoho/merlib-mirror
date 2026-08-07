@@ -1,0 +1,72 @@
+---
+title: "Autograph Links on Robert's Web Spot"
+source_domain: amasci.com
+source_path: ~bpentium/autograf.html
+order: 1629
+reachable_from_entry: false
+images: 2
+internal_links: 2
+extracted: 2026-08-07T17:07:57Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Autograph Links on Robert's Web Spot
+
+*Source page: `~bpentium/autograf.html`*
+
+------------------------------------------------------------------------
+
+# <img src="blueb.gif" data-align="MIDDLE" />More Great Autograph Sites<img src="blueb.gif" data-align="MIDDLE" />
+
+------------------------------------------------------------------------
+
+[Welcome to Michael J.'s Autograph Land](http://www.li.net/~michaelj/autograp.html)  
+Welcome to Michael J's . AUTOGRAPH LAND . You have just embarked on a journey into AUTOGRAPH LAND. . Places to get Addresses . Places to get Photographs . Autograph Publications . Autograph Collecting Clubs . How to write for Autographs . ...\
+--- \[701\] http://www.li.net/~michaelj/autograp.html (12K)
+
+[Celebrity Autographs of Southern California](http://www.microcity.cyberg8t.com/business/signature/)  
+Celebrity Autographs of S.C. is a great site for viewing and buying celebrity autographs. All are guarantee\
+authentic, either personally signed or authenticated by professionals.---\[700*\]http://www.microcity.cyberg8t.com/business/signature*
+
+[Autographics Home Page](http://www.entrepreneurs.net/autographics/)  
+P. O. Box 210061 Dallas, TX 75211 . Phone (214) 709-9001 Fax (214) 298-5767 . Michael L. Riley, President . Welcome to the Autographics WWW site. We are still in the early stages of construction but we're moving features from the "coming ...\
+--- \[699\] http://www.entrepreneurs.net/autographics/ (4K)
+
+[Check 'um out: Other autograph pages](http://pages.ripco.com:8080/~pvranas/where.html)  
+Here are some of the many other places on the 'net dealing with Autographs Please report any that don't work to ME! . +Foundations Sports Collectables A Non for-profit orginization . + Autograph Online. This is the ULTIMITE autograph page. . ...\
+--- \[698\] http://pages.ripco.com:8080/~pvranas/where.html (1K)
+
+[No Title Provided](http://www.xmission.com/~patco/AUTOGRAPHS.TXT)  
+This section is reserved exclusively for Buying/Selling/and Trading of \* Autographs. This is not an area for retailers and private parties to \* "advertise" misc. ...\
+--- \[698\] http://www.xmission.com/~patco/AUTOGRAPHS.TXT (2K)
+
+[Autographs](http://www.sofcom.com.au/Autographs/index.html)  
+of who's who! . The AUTOGRAPHS of FAMOUS MOVIE, POP and T.V. STARS . The autographs are originals. Some are with pictures, some without. Many are framed - these are beautifully mounted behind glass with quality frames. Eminently suitable ...\
+--- \[698\] http://www.sofcom.com.au/Autographs/index.html (\<1K)
+
+[AutoGraph Subscrition](http://www.ags.com/autosub.htm)  
+Thank you for deciding to subscribe to the printed version of the AutoGraph newsletter. By filling this form out completely, you will receive a free trial subscription to the AutoGraph. Please fill out and submit the form below, and we will ...\
+--- \[697\] http://www.ags.com/autosub.htm (1K)
+
+[AGS Internet - The Autograph Newsletter](http://www.ags.com/autograp.htm)  
+\| AGS Home Page \| The AutoGraph \| One-Off CD SHOP \| Other WWW Links \| . A Monthly Newsletter of Desktop and Printing Related Information . The AutoGraph is a monthly newsletter published by Automated Graphic Systems and Automated ...\
+--- \[697\] http://www.ags.com/autograp.htm (1K)
+
+[Autograph Online](http://www.io.org/~akennedy/)  
+& How to Contribute . Help . &copy1995 Autograph Online . Autograph Online was designed to be used with Netscape 1.1 and may not display properly with other browsers. .\
+--- \[696\] http://www.io.org/~akennedy/ (\<1K)
+
+[Virtual image gallery of actors/actresses from ST:VOY](http://underground.net/~koganuts/Galleries/stvoy.html)  
+Star Trek: Voyager Central . \[85k\] . \[Autographed by Kate Mulgrew, Jennifer Lien, and Garrett Wang\] . Image Gallery . A larger JPEG image is available by clicking on its inline GIF image. . This gallery was awarded the ranking of by ! . ...\
+--- \[693\] http://underground.net/~koganuts/Galleries/stvoy.html (4K)
+
+[index](http://www.onsale.com/category/inv/histmem.htm)  
+Historical Memorabilia . \#468 Aug 4 Arthur Conan Doyle Original Autograph Manuscript, "The Journey" \$3,500.00 . \#467 Jul 28 1833 Autographed Letter From Omer Pasha, Leader of the Ottoman Empire \$155.00 . Copyright (c)1995 ONSALE, ...\
+--- \[689\] http://www.onsale.com/category/inv/histmem.htm (\<1K)
+
+------------------------------------------------------------------------
+
+### Back to [Robert's Web Spot](index.html)\
+or Back to my [Autographs](address.html) Page.
+
+------------------------------------------------------------------------

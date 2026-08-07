@@ -1,0 +1,71 @@
+---
+title: "The First Manifesto of Virtuism by R.S. Pearson"
+source_domain: amasci.com
+source_path: ~telical/virtue1.html
+order: 8981
+reachable_from_entry: false
+images: 3
+internal_links: 2
+extracted: 2026-08-07T17:16:55Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The First Manifesto of Virtuism by R.S. Pearson
+
+*Source page: `~telical/virtue1.html`*
+
+The First Manifesto of Virtuism by R.S. Pearson
+
+The First Manifesto of Virtuism by R.S. Pearson (1985-1999)
+
+We have all felt the beauty of human virtue, and we all know that there are reasons for humans to be virtuous, both for our personal benefit and that of others. We are undeniably in the position where we must act wisely, for we have no choice; we are here on the Earth, and logic is some kind of universal constant. If there is more to our intelligence and existence, if there is another level upward of social interactions between beings, it will undeniably be less stained by crime slander and malice than the world we know is.
+
+The experience one gets from witnessing the virtuous act in human interaction is closely linked to the aesthetic experience. A simple explanation of this is the feeling you get when someone does something nice for you. Inside you feel: "Oh, that is incredible that they could do that for me. That was really kind and even self-sacrificial." When you look at a work by one of your favorite artists, inside you feel: "Oh, that is incredible. That is really nice." The first is a type of the aesthetic experience as is the second.
+
+The definition of what I consider virtuous I do not consider arbitrary, although if we look at it as such it may be easier to express the vision of the doctrine. Each Emotive Virtuist must come up with his own themes of what will increase virtue in the viewer. The theory of Emotive Virtuist art does not easily lend itself to the criticism of the amoral and nihilist segment since there are no set definitions put forward in this manifesto of what I think is virtuous. These definitions need not matter to the reader, a definition of virtue is something that must be understood first hand.
+
+A primary mode of working is to create art about the feelings produce by the good and bad in people, however, in no way is this Emotive Virtuist aesthetic limited to moral commentary. Emotive Virtuism is a philosophical system akin to pragmatism. Its subject matter is immense, and there have been instances of Emotive Virtuist art in the past.
+
+Emotive Virtuism in the mode of human morality is to create art about the person who sold you the user car which they said was in great condition, but which broke down a week after you bought it. Emotive Virtuism is about the woman who volunteers her time to help the elderly. It is about the ones who are seen as losers by the merciless society of fashion fascism, yet ones who may indeed live a deeper existence. Emotive Virtuism is about the things that help a person who can rise above the slander, malice, despair, callousness, and various other corruption that infringe upon the higher form of the human spirit. It is about the faults of the intelligentsia, of the hatreds of some forms of the upper classes or artistic class, who complain about the "sleeping masses."
+
+There are also virtues in the realm of the creative, in as far as there are some, like Max Ernst, whose entire artistic life was constant experiment, invention and revelation; and there are others whose art seems like a pose. It may be a pleasant formula that the artist has found, but upon investigation we see that ten patterns of this theme is all that they will express. This is not thought of as wrong by many, an d while it is fine for some artists and some viewers, my point is that when one begins to study or simply think about philosophy, aesthetics, politics, and the sciences, one can have much to say in one's art. Therefore, the conclusion I reach is that ther e are currently few of the philosopher/alchemist /artist/scientist mode of a Novalis, Max Ernst or Arthur Rimbaud.
+
+For Emotive Virtuism to be a movement, it will require extreme individualists, due to the nature of our current art trends. These must be voices capable of presenting the idea that virtue is a beauty that has the right to be considered a component of art, just as form, texture and color are components of painting.
+
+Emotive Virtuists will mostly likely be some of the younger artists who will subscribe to this doctrine, who have not clicked into a school, those who are considered naive, those who have not seen the "need" for the darkness nor the vanity of having "seen it all" and "exhausted it all." Whether these voices will come from the next generation of artists or from even further in the future has of course yet to be seen.
+
+The entire crux of the Emotive Virtuist Movement is that there are creative people who agree that virtue and philosophical optimism are too important to stay in the background of art, or even of life. Today this defense is needed when it seems that there is often little concern for virtue, except in a perfunctory way. It has become too easy to become dulled to the battle of righteous indignation. To do so can be the norm, it seems; by focusing on the reality that depictions of virtuous acts produce aesthe tic experiences and by creating a movement of artists solely found for that purpose, we create a movement that will have worldwide impact. This would have enormous benefit for health, as there are now hundreds of studies proving the positive impact of the virtues on physical health.
+
+The main polemic against the Emotive Virtuist aesthetic is that there is no good or bad at all, so why even bother. On the cosmic level, I will not bring in argument for duality, but on a level of human interaction it is a perversion to interpret any acti on that produces an initial "anti-aesthetic" feeling as proper and able to be accepted. No major school of thought would ever state there is no right and wrong in human interaction. This includes Nietzsche (and most of existentialism), Hinduism, Taoism, B uddhism - the very schools of thought that men in ignorance sometimes cite as "amoral." To be truly amoral is always seen as being a loser in the cosmic battle. It is to be one with the evil in the world. To be amoral is not to defend the beauty, the strength, the joy to be found in the world, which we all experience at one time or another. If we fall into the common intellectual mode of despair it does not mean that the world has become any less joyous, it is we who have changed.
+
+Another philosophical structure that Emotive Virtuism enlists is that it is likely that the ultimate truth is here among us, and in an explicit forum. If the truth is not here, then this means that the Earth was set up in a way that doesn't care about our queries upon it. This is a sharp dividing line: was the Earth and the universe established in fashion that is benevolent (eternal life, initiation into absolute truths) to man or in way that sees people as negligible?
+
+Art, when it begins to gain consciousness, is the tool for social, emotional, intellectual, and spiritual enhancement. This positive enhancement is fruitful in enabling one to see facts clearer, in communicating new vision, and in helping one to feel better about life and oneself. Artists are not always up to making such beneficial statements. They are often either too concerned with entertainment -- entertaining their patrons in order to say financially stable -- or the opposite, too antisocial to benefit anyo ne, even on a purely aesthetic level.
+
+Artists have made attempts to help the "poor sleeping masses." This usually occurs in derogatory or shocking modes. We are told by vivid descriptions of harsh reality we can transcend it. We are told by thoroughly understanding something horrible we can eliminate its power over us. This view is frequently coupled with the "experience monger" philosophy, which states that we can "overcome sin by sin itself." These are two of the holiest dogmas of the twentieth century, the popularity of which is undeniable by anyone who has any indoctrination into the ideas of the twentieth century.
+
+The result of artists trying to change life has often been very bleak. Few seem to escape the maze of despair, meaninglessness and the complete substitution of intoxicants for the spiritual and high emotional experiences. One finds here people who started with the best of intentions, only to be defeated by the world they intended on saving. Such was the case with Antonin Artuad, who was incapacitated for a time by this struggle. People talk about the innocence of children, yet they themselves seem the complete opposite. It is frightening to see the attitudes of so many who sought to be a "new man" or "superman." As time passes on it is a fascinating study to observe such people, and observe the fruits of such philosophies.
+
+Pragmatism is the obvious path to go on here. If such a philosophy as Nietzsche's only produces people in despair at its end, every sane person will turn to someone like Bergson (a pragmatic philosopher) instead. The result should be an artist who is above acts of slander, meaninglessness, and corruption of ethics. Some must see these qualities becoming inevitable when one struggles not to be a member of the masses -- a type of necessary reaction against entropic ways. These qualities have nothing to do with creative expression and only mirror the kind of art which some people are capable of producing. This type of ethical "decadence" is highly disputed, when it is even addressed.
+
+Andr Breton once said that his principal concern was morality. This statement was perhaps related in essence to similar proclamations by Rimbaud. The motto of these men was to change life. Yet one wonders in what way they would change it, which things would remain in our behavior and which things would leave.
+
+Surrealism said, we could not find beauty in the world, except for the beauty of romantic love and that of nature. The Emotive Virtuist aesthetic also states that we do not have to invent all the beauty we seek, there is beauty to be found in this world, in our subconscious and in our conscious life. We do not have to manufacture our aesthetic statement by random chance or quick inspiration. We can explore our memories of our fondest experiences. We can structure our art upon those experiences that mean the most to us -- the ones that affect us in the strongest way.
+
+This will carry over to powerful artwork of the "convulsive" that Breton discussed. These memories can influence our Surrealism in the mode of hope. As art seeks to change life, we must prepare ourselves to both create this and observe this art. The filters to absorbing what is beautiful and having an aesthetic experience are mental blocks caused by environment, choice or unconscious habit. A Emotive Virtuist must become a type of ascetic philosopher, especially in the present age, due to the fraudulent nature, in my opinion, of some modern art scenes. This fraudulent nature is fashion over feeling, form over content, trend over historic purpose and value in art. But, in many ways I believe the problems of the past in art were worse than the problems of the present, and as long as the artist can remain autonomous and separate from them, the worlds parade of problems will not corrupt their art. The best definition of art might be: "anything that produces the aesthetic experience." I have no martyr complex for the whole of art. From early on I felt that much art created today failed to give me an aesthetic experience, nor did this art stimulate my intellect. In almost every instance I can see why some might be affected by these works, but for me they failed to be "convulsive," and the convulsive level of aesthetics is very desirable. Thus, I formed this aesthetic doctrine to define what I bel ieve great art could be at this time. I believe great art always gives meaning to larger issues in life.
+
+The sight of the ocean, or even the feel of sunshine, are qualified as aesthetic experiences by many people. One of the highest beauties available to man is that of the virtuous act in human interaction. This emotive aspect of human virtue is so rare and real that it can be breathtaking when we come in contact with it -- if it bypasses the hazardous cerebral mechanism that blocks such pleasure, such fulfillment of our will from us. This is what I meant by we must prepare ourselves for this aesthetic experience. Some will not be able to understand the beauty of the Emotive Virtuist aesthetic. Some will be too callous, guilt ridden, or blinded by the competitiveness and m aterialism that they themselves have made of their culture to accept witnessing and processing acts of virtue as aesthetic experiences.
+
+These are only some excerpts of the work, Emotive Virtuism, which can be ordered from our web page in both hard copy and ebook on May 15th, 2002. .
+
+|     |     |
+|-----|-----|
+|     |     |
+
+------------------------------------------------------------------------
+
+[**`Creative Virtue`**](index.html)
+
+[**`Virtuism`**](virtuism.html)
+
+<a href="http://www.qksrv.net/click-1431511-10273964?url=http%3A%2F%2Fwww.systransoft.com%2Ft.cgi%3Fid%3Daffiliate%26link%3Dpersonal-multi" target="_top"><img src="http://www.systransoft.com/Img/personal40-small.jpg" data-border="0" alt="SYSTRAN Personal 4.0 Multilingual pack" /></a> <img src="http://www.qksrv.net/image-1431511-10273964" data-border="0" width="1" height="1" /> <a href="http://www.qksrv.net/click-1431511-9291044" target="_top" onmouseover="window.status=&#39;http://www.iss.net&#39;;return true;" onmouseout="window.status=&#39; &#39;;return true;">Click here to link to ISS X-Force AlertCon levels--which indicate the current Internet security threat status</a><img src="http://www.qksrv.net/image-1431511-9291044" data-border="0" width="1" height="1" />

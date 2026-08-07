@@ -1,0 +1,102 @@
+---
+title: "Profile"
+source_domain: amasci.com
+source_path: ~rarnold/profile.htm
+order: 6588
+reachable_from_entry: false
+images: 3
+internal_links: 8
+extracted: 2026-08-07T17:13:57Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Profile
+
+*Source page: `~rarnold/profile.htm`*
+
+<table id="AutoNumber1" style="BORDER-COLLAPSE: collapse" data-bordercolor="#ffffff" height="50" data-cellspacing="1" data-bordercolordark="#FFFFFF" width="750" data-bgcolor="#336699" data-bordercolorlight="#FFFFFF" data-border="1">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bordercolorlight="#336699" width="100%" data-bgcolor="#336699" data-bordercolordark="#336699"><p><strong><img src="ron.gif" data-border="0" data-align="left" width="75" height="117" />Center for the Defense of Free Enterprise</strong></p>
+<p><strong>Left-wing for-profit group beats up Ron Arnold<br />
+in website profile<br />
+<em>Arnold says, "Not bad, for a reporter who didn't<br />
+bother to interview me!"</em></strong></p></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#ffffff"><p><strong><a href="index.html" style="text-decoration: none">HOME</a>    <a href="issues.htm" style="text-decoration: none">ISSUES</a>    <a href="opposition.htm" style="text-decoration: none">OPPOSITION</a>    <a href="projects.htm" style="text-decoration: none">PROJECTS</a>    <a href="defenders.gif" style="text-decoration: none">DEFENDERS</a>    <a href="wiseuse.htm" style="text-decoration: none">WISE USE</a>    <a href="book_store.htm" style="text-decoration: none">BOOKSTORE</a>    <a href="archive.htm" style="text-decoration: none">ARCHIVE</a></strong></p></td>
+</tr>
+</tbody>
+</table>
+
+**The article below appears on the website of <a href="http://www.workingforchange.com/article.cfm?ItemID=17243" style="text-decoration: none">WorkingForChange</a>, a project of Working Assets, one of three related for-profit groups in the <a href="http://www.undueinfluence.com/tidescenter.htm" style="text-decoration: none">Tides Center</a> orbit created to raise money for non-profit "progressive" causes by fund-raising genius <a href="http://www.undueinfluence.com/drummond_pike.htm" style="text-decoration: none">Drummond Pike</a>.\
+\
+They don't have fact-checkers there, or they would have found that the old chestnut cited from *Outside* magazine"Facts don't matter; in politics, perception is reality"was actually Ron quoting the late Representative Phil Burton, Democrat from San Francisco, known as "the congressman from the Sierra Club," giving a civics lesson to some industry lobbyists: something to warn people about, not to believe. The facts do matter, and it's customary to check them first.**
+
+**BTW, Bobby Kennedy is writing a new book, and did have the courtesy to check a quote attributed to Ron. It was wrong, but Ron provided him with a real one just as useful from an autographed copy of his award-winning book, *Ecology Wars*.**
+
+**Anyway, enjoy the profile. We did.**
+
+***from* WorkingForChange.com**
+
+Terrorist tree huggers\
+Ron Arnold, father of the 'wise use' movement, sets his sights on 'eco-terrorists'\
+<img src="col_billberk.gif" data-border="0" data-align="left" width="47" height="46" />\
+By Bill Berkowitz
+
+07.07.04 [<u>http://www.workingforchange.com/article.cfm?ItemID=17243</u>](http://www.workingforchange.com/article.cfm?ItemID=17243)
+
+Ron Arnold -- the father of America's "wise use" movement -- is back. And this time he's adding accusations of terrorism to his arsenal. Consider the following:
+
+On June 8, the FBI distributed its weekly intelligence bulletin to some 18,000 law enforcement agencies across the country, warning that eco-terrorists were planning a "day of action and solidarity" that could involve violent actions in a number of U.S. cities.
+
+At the recent BIO 2004 annual conference in San Francisco, Phil Celestini, supervisory special agent assigned to the FBI domestic terrorism operations unit, told attendees that they could be targets of attacks by eco-extremists despite the fact that "they don't conduct animal testing at their own facilities," the San Francisco Business Times reported. And in early June, Rep. George Nethercutt, R-Wash., introduced the "Ecoterrorism Act of 2004" which intends to "protect and promote public safety and interstate commerce."
+
+<img src="Ron%20engraved.gif" data-border="0" data-align="left" width="195" height="240" />All of these stories have Ron Arnold's fingerprints on them. With friends in the Bush administration, a recent Playboy magazine interview under his belt, a series of radio appearances and PowerPoint presentations at industry-association gatherings, and a new anti-terrorism consulting contract, Arnold is back riding high in the anti-environmentalism saddle.
+
+"Fifteen years after creating his 25 Point Wise-Use Agenda, an agenda prescribing unrestrained, unregulated and unconscionable abuse of the American commons, Ron Arnold is within striking distance of checking off every agenda item on his list," Scott Silver, executive director of Wild Wilderness, told me in a recent interview.
+
+Arnold is no novice when it comes to leveling charges that environmentalists are eco-terrorists. Sheldon Rampton and John Stauber point out in their new book Banana Republicans (Tarcher/Penguin, 2004) that Arnold "has been tossing around the term eco-terrorism for years, defining it as 'any crime committed in the name of saving nature,' which 'includes but it \[*sic*\] not limited to crimes officially designated as 'terrorism' by the Federal Bureau of Investigation.' This definition... is so broad," Rampton and Stauber write, "that is \[*sic*\] even includes activities such as sit-ins and other forms of peaceful civil disobedience."
+
+Since 9/11, Arnold, the executive vice president of the Center for the Defense of Free Enterprise, has been energetically and enthusiastically revving up his anti-environmental gospel with a new twist to his message: Environmental activists not only are working to stifle America's economic growth, but they are a breeding ground for terrorism in the homeland.
+
+The Bush administration's cutbacks in the enforcement of environmental regulations, coupled with its focus on the war against terrorism, have planted the seeds for Ron Arnold's makeover as an expert on ecoterrorism.
+
+"It comes as no surprise that in today's Orwellian world where perception has become reality, Arnold has been recast as the fearless protector of corporate interests while mainstream environmentalists are being portrayed as terrorists," Silver says.
+
+Silver pointed out that Arnold's anti-environmental agenda is salted by his public relations expertise and the understanding that, as Arnold told Outside magazine in 1991, "Facts don't matter; in politics, perception is reality." The same year Arnold also told The New York Times : "We \[CDFE\] created a sector of public opinion that didn't used to exist. No one was aware that environmentalism was a problem until we came along."
+
+These days, Arnold maintains that a phalanx of liberal foundations is not only funding anti-growth and anti-labor environmental campaigns, but that the environmental movement has become fertile ground for budding ecoterrorists. While none of this is particularly new -- he's been plowing similar ground for more than two decades -- it resonates with the industry groups that support his work, as law enforcement officials struggle to keep on top of President Bush's permanent war against terrorism, and has helped him snare a consulting contract supported by government funds.
+
+In the May 2004 issue of Playboy, Arnold told Dean Kuipers that: "There is a criminal section of the environmental movement, and it's probably getting money from the above-ground sector. Some of the environmental movement is simply anti corporate; some of it is more ideological." And in the May issue of Foundation Watch, a publication of the Washington, D.C.-based right-wing think tank Capital Research Center, Arnold's profile of the Philadelphia-based Pew Charitable Trusts -- a leading donor to environmental groups -- concludes that Pew, which recently changed its legal status from "private foundation to public charity," is now be in a position to play "an even more active role in advocating sweeping policies to combat the alleged global warming threat."
+
+A month earlier, in the same publication, Arnold took a close look at Teresa Heinz Kerry, the head of the Heinz Foundation and the wife of presumptive Democratic presidential nominee John Kerry. Among other issues, Arnold looked at the "relationship between the foundation's charitable gifts to environmental groups and environmentalist supporters of the senator's presidential campaign" and what \[that\] might mean for a Kerry presidency."
+
+Twelve years ago, Audubon magazine's Kate Callaghan pointed out that during the 20th century's first decade, Gifford Pinchot, the first chief of the U.S. Forest Service, likely used the term, "wise use" when he "called conservation 'the wise use of resources.'" Eighty years later, Ron Arnold expropriated the phrase and turned it into a political movement. Using the term during a multiple use strategy conference in Reno, Nev., Arnold suggested that "wholesale mining, logging and grazing are possible while simultaneously preserving the land."
+
+Arnold's 1989 book, The Wise Use Agenda , brought the "wise use" movement to the center of an anti-environmental, pro-industry nexus. A savvy corporate fundraiser and public relations spinmeister, he once proudly proclaimed himself as the "Darth Vader for the capitalist revolution."
+
+Arnold's resume also includes his job as the executive vice president of the Bellevue, Wash.-based Center for the Defense of Free Enterprise, a pro-corporate group founded in 1976 by his longtime comrade, Alan Gottlieb.
+
+(Gottlieb is also credited with founding the anti-gun control Second Amendment Foundation and the Citizen's Committee for the Right to Keep and Bear Arms.) According to the Center for Media and Democracy's Disinfopedia, CDFE claims to be "a non-partisan education and research organization which works on free enterprise studies, public policy research, book publishing, conferences, white papers and media outreach." CDFE's website asserts that it tracks "threats to free markets, property rights and limited government."
+
+Over the years, CDFE, a tax-exempt educational organization under Section 501(c)(3) of the U.S. Tax Code, has received support from a network of corporations, including Georgia Pacific, Louisiana-Pacific, MacMillan Bloedel, Pacific Lumber, Exxon, DuPont and Boise Cascade.
+
+In 2002, Arnold launched a campaign to convince the FBI's Domestic Terrorism Program to take a close look at the Green Anarchy Tour 2002. He told the Conservative News Service (CNS) that the tour "presents probable cause for investigation. You do have people here recommending violence, murder, property damage, everything you can think of."
+
+In November 2003, according to the organization's website, Arnold, the author of EcoTerror: The Violent Agenda to Save Nature, the World of the Unabomber -- which traces the history of the radical environmental movement and attempts to link Unabomber Ted Kaczynski to mainstream environmentalists -- was "retained as expert consultant on ecoterrorism" for a University of Arkansas Terrorism Research Center study funded by a \$343,885 grant from the National Institute of Justice (NIJ).
+
+Arnold will work with Brent Smith, a professor of sociology and director of the Terrorism Research Center at the University of Arkansas, who is working on a project called "Pre-incident indicators of Terrorist Incidents: The Identification of Behavioral, Geographic and Temporal Patterns of Preparatory Conduct," an effort aimed at predicting future terrorist attacks.
+
+His warnings may be paying off. In early June, Pork Alert, an online publication of Pork magazine, reported that Rep. George Nethercutt, R-Wash., had introduced the Ecoterrorism Act of 2004. Nethercutt's legislation would "establish federal criminal penalties and civil remedies for violent, threatening, obstructive and destructive conduct that is intended to injure, intimidate or interfere with plant or animal enterprises. This bill would serve to protect livestock from tampering by ecoterrorists." The bill has been referred to the House Judiciary Committee for consideration.
+
+"From drilling in the Alaskan Wildlife Refuge to clear-cutting the Tongass National Forest, from opening all public lands to mining and energy production, to gutting the Wilderness Act, from amending and weakening the Endangered Species Act to turning America's national parks over to the Walt Disney Company, Ron Arnold's agenda is on a roll," Scott Silver pointed out.
+
+"All that stands in the way of Arnold and his ideologically extreme brethren are decades-worth of environmental laws and those who are dedicated to defending our public lands."
+
+**<a href="the_center_view.htm" style="text-decoration: none">RETURN TO THE CENTER VIEW</a>**
+
+**<a href="index.html" style="text-decoration: none">RETURN TO CENTER FOR THE DEFENSE OF FREE ENTERPRISE HOME PAGE</a>**

@@ -1,0 +1,265 @@
+---
+title: "What's Not News Any More... 1997 Archive"
+source_domain: amasci.com
+source_path: ~stevemc/whats97.html
+order: 8474
+reachable_from_entry: false
+images: 8
+internal_links: 3
+extracted: 2026-08-07T17:16:12Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# What's Not News Any More... 1997 Archive
+
+*Source page: `~stevemc/whats97.html`*
+
+What's Not News Any More:\
+1997 Archive
+==========================
+
+<img src="images/whatsnew.gif" width="300" height="150" alt="What&#39;s News Logo" />
+
+<img src="images/Scissors10F1.gif" width="24" height="25" />Capitol Chatter from Roger Locust Amherst III ... All The News We're In a Fit to Print
+
+------------------------------------------------------------------------
+
+Gates to Reno:\
+*"**If MS Goes Down, I'm Taking the Dow With Me**"*
+---------------------------------------------------
+
+*(Redmond, Washington, NNS)* In his first wide-ranging interview since the Justice Department announced that it would seek a million dollar a day fine against his company, Byte Baron Bill Gates has announced that he isn't going to take things lying down. Gates spoke informally following a session with grade school students touring the Seattle Art Museum's exhibit of Gates' newly-purchased "Codex Liecester" of Leonardo DaVinci.  The Gates interview came after a session with area elementary school children, during which Gates explained his admiration of Da Vinci.  Gates also answered the students questions.  Inevitably, one studen asked Gates whether he could compare himself to Leonardo.   Gates responded, "Of course not, he was one of the great figures of intellectual history. Of course, I do earn more money while taking a leak than your parents will make in a hundred lifetimes."
+
+Known as a fierce -- some would say brutal -- competitor, Gates aggressively defended Microsoft's position in its dispute with Janet Reno's Justice Department. "It's a joke, really, do you want the government designing operating systems and software. Do you want us to have to go to the people who brought you the IRS and ask, 'Is this OK?" Compared to what? Waco? Ruby Ridge?"
+
+Did Microsoft threaten to cancel Windows 95 licences for PC manufacturers who refused to put Internet Explorer on their PC's desktops? Was this a violation of the consent degree prohibiting bundling of operating systems and applications? "Don't ask me if I care, because the answer is that I don't. We develop cool software and we sell it for less, and that benefits consumers. Is this the way monopolies behave? Is this the stupidest thing you've heard all year?"
+
+"I guess we're just going to have to give Ms. Reno a litle remedial economics lesson," Gates continued. "If she wants Microsoft, I'll give her Microsoft... with my last dying breath. I'll suck the life out of the Dow, out of the whole stock market before I let the government get a finger on Microsoft."
+
+------------------------------------------------------------------------
+
+## Health Care Reform... Part Two?
+
+(Washington, NNS) Once again President Clinton is attempting to steal and co-opt the themes of the Republicans, this time as he moves to reform Medicaid and Medicare. Some critics are beginning to say out loud, however, that perhaps this time Clinton has gone too far and risks serious alienation of his core constituencies. While these groups have expressed displeasure with similar moves by Clinton -- most notably the Welfare Reform bill -- they were virtual political captives. Some are suspecting that this time it may be different and that Clinton can't expect even reluctant support from fellow Democrats.
+
+The new proposal is described by Republican supporters as in the spirit of earlier bills that put limits on lifetime welfare benefits, require recipients to be either employed or in job training, and a measure which requires public housing residents to volunteer a minimum number of community service hours in return for their public housing. "We want to extend this principle that's there's no free ride -- no free lunch -- to every government program," according to Jesse Helms, sponsor of the Republican proposal.
+
+"Medicaid and Medicare allow those unable to support our advanced health care system with their dollars to reap its benefits," reasons Helms. "Therefore, we should ask them to give what they can to continue its excellence." A noble sentiment, though some doubt the wisdom of Helms' proposal to require Medicaid and Medicare recipients to participant in medical research experiments to continue receiving benefits.
+
+The proposal caused an immediate outcry on Capitol Hill, with a number of Democrats labeling it, "the most disgusting and outrageous thing the Republicans have yet proposed," in the words of Sen. Ted Kennedy. "I wouldn't believe this if I didn't have the proposal in front of me," according to another Democrat, "it's the closest thing I've ever seen to Legislative Drunk Driving."
+
+All the more surprising was the reaction of the Clinton Administration, which labeled the proposal, "on its face, impractical, but worthy of careful and prudent examination." A debate was said to be raging within the Clinton Administration, with one group of advisors saying it was "incredible -- off the map," while another group counseled caution as the idea was, "untested and ultimately could have appeal to the public."
+
+Unnamed sources inside the Clinton White House say that the debate raged with Clinton at least stepping in announcing his intentions. Hours later, at a hastily convened press conference, Clinton stepped in front of the cameras.
+
+Clinton stated that the Republican proposal had, "rightly outraged some," but that it was important for the American public to examine such a proposal carefully and with an open mind. "I've done that," Clinton continued, "and I'm here today to announce that our Administration will today propose the 1997 Medicaid/Medicare Reform and Participation Act."
+
+The President described the Republican proposal that Medicaid and Medicare recipients participate in medical research studies as, "fundamentally flawed."
+
+Clinton pointed out that "sometimes these experiments don't turn out the way we'd all like them to," and that able-bodied Medicaid recipients might not be able to continue to work or search for work in these cases. "We think that that just isn't right," Clinton continued. "But the principle that everyone who benefits from a system ought to contribute to it as they are able is a sound one." So the Clinton proposal mandates participation in medical experiments only for those unable to work, such as children and the elderly. "I think, if you ask them, these people are grateful for the finest medical care in the world and they wouldn't think for a minute about doing whatever they can to support it."
+
+Later asked by reporters to comment on the Supreme Court decision allowing Paula Jones to proceed with her sexual harassment suit against the President, Clinton responded, "Hey, Helen, get with the program... that's old news. Paula Jones? Didn't you hear what I said? Medical experiments on kids and old people? Hellll-ooo big time White House correspondent: anyone home?"
+
+------------------------------------------------------------------------
+
+<div align="center">
+
+<table data-border="0" data-cellpadding="6">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="50%"><h2 id="internet-suicide-cult-prompts-parental-warning">Internet Suicide<br />
+Cult Prompts<br />
+Parental Warning</h2></td>
+<td style="text-align: center;" width="50%"><h2 id="section"><img src="images/heaven.jpg" width="229" height="188" /></h2></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+(Rancho McHrab, WA; NNS) In the wake of the sensational mass suicide of Internet-savvy buzz-cut twenty-somethings, parents are once again being warned to pay attention to their children's Internet habits. Law enforcement officials close to the investigation of the case offered that warning as details of the case became public today.
+
+"Good grooming, rejection of drugs and alcohol, and high tech employment now are unquestionably indicators of mental instability. For years, parents who've seen this kind of behavior have lulled themselves into complacency, thinking, 'Well, at least they're not into that grunge thing,'" remarked Coroner Paul Jones. "It's time for them to wake up and face these signs head on."
+
+Showing a screen shot of the Heaven's Gate group's web site, Bators urged parents to be highly suspicious if their kids access Internet sites based on flop Hollywood movies. "I wouldn't be too damn worried if my son was spending time on the Ghandi web site, but more than a few seconds on [www.ishtar.org](http://www.ishtar.org) or [www.howardtheduck.com](http://www.howardtheduck.com) would chill and set my jello. Be afraid, be very afraid," Jones warned.
+
+------------------------------------------------------------------------
+
+ 
+
+(3/5/97) Actual Draft Document Pilfered From the White House:
+
+<img src="images/WHTHOUSE.GIF" width="345" height="126" alt="White House Drawing" />
+
+***Not Too Far From the Desk of\
+Vice President Albert Gore, Jr.\
+Washington, D.C.***
+
+<div align="center">
+
+<table data-border="0" data-cellpadding="6" width="85%">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="70%"><p><em>The Election's Over...<br />
+and We're Having a</em><br />
+<strong><em>Dem-O-Rama<br />
+</em>Sale-A-Bration!</strong></p></td>
+<td width="30%"><p><img src="images/AL-GORE.GIF" width="106" height="161" alt="&quot;Crazy Al&quot; Gore Drawing" /><br />
+"Crazy Al" Gore, Jr.<br />
+Sez...</p></td>
+</tr>
+<tr>
+<td colspan="2" width="100%"><p><em>"If you didn't shop at the DNC, You paid too much for your politician!" - Al Gore</em></p>
+<p>Dear Value-Minded Democrat:</p>
+<p>The inaugural parties are over and for a lot of folks it's back to business as usual in Washington, DC. But if you know anything about President Clinton and I, you should know that around here, business is anything but "usual".</p>
+<p>Bill and I are proud -- damn proud! -- of all the support you showed for us last November. You helped prove that the Republicans have no lock on the wallets that open the hearts of American voters.</p>
+<p>And now we'd like to return the favor to you, with the Best Values the DNC has offered in years! Imagine paying post-Carter prices for a night in the Lincoln bedroom in a second-term Clinton White House. Actually, thanks to the DNC you don't need to <em>imagine</em> it at all.</p>
+<p><em><strong>How the Heck Can You Do That, Al?</strong></em></p>
+<p>To be honest, like any big shopping season, since the elections we've had our share of returns and refunds. If you read the papers, you know this hasn't been easy for us. But now our pain is your gain! If you're a U.S. citizen with no criminal record, we're ready to deal!</p>
+<p>This is an historic opportunity that absolutely won't be repeated. So open up your checkbook, just like the American people opened up their hearts to Clinton-Gore last November. We weren't losers, and you won't be, either.</p>
+<p><em><strong>But Wait! There's More!</strong></em></p>
+<p>If you're like me, in a lifetime of involvement in politics you've probably received a truckload of buttons, posters, and political bumperstickers. Sure, it's what <em>everyone</em> gives out, but what real use is it? President Clinton and I want to show our gratitude for your support of the DNC with a unique and eminently collectable gift. Forget the nights in the Lincoln bedroom... we're going to give you a little bit of Lincoln himself!</p>
+<p>That's right, for a limited time only, if you donate $25,000 or more, the DNC will send you actual genetic material from Abraham Lincoln. You can't clone him now, but this one's guaranteed to be the hottest political collectible going in a couple of years!</p>
+<p>And if Lincoln's a little too rich for your bank account (you know what they say about those Republican!), the DNC has genetic material from 15 other current and former Presidents that will fit your budget! Imagine the pride you'll feel, knowing that you've supported the President and the DNC... and that in a few years you'll <strong>really</strong> be able to bring history to life for your kids.</p>
+<p>But don't hesitate: this is the hottest deal ever to come out of the cryogenic archives... and at prices like this it can't last long. So, be sure and get your Presidential DNA from the DNC ASAP!</p>
+<p>The DNC thanks you for your support, and so do President Clinton and I.</p>
+<p>Sincerely,</p>
+<p><img src="images/gore-sig.jpg" width="234" height="126" /><br />
+Al Gore<br />
+Vice President, USA<br />
+(Title for identification purposes only)</p></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+------------------------------------------------------------------------
+
+*Media News:*
+
+### New PBS Fundraising Tactic Raises Millions
+
+*(Washington, NNS)* Without great fanfare, PBS executives are telling media observers that they've hit on a formula which they believe will take the network, "to the next level."
+
+The untold story, however, is that the fundraising tactic was a bit of serendipty which resulted from an equipment malfunction at KCTS Seattle. It seems that during the sixteenth airing the "Riverdance" special during February, the station's videotape machines broke. The screen went black, and astonished staffers noted an immediate upswing in pledge line callers during the five minutes that "Riverdance" was off the air. Amused station staff joked about the spike in subscriptions, but alert management saw this as a potential opportunity.
+
+<div align="center">
+
+|  |  |
+|----|----|
+| The next evening, as another re-broadcast of "Riverdance" was scheduled to begin, the station began a pledge break with the unusual offer that if enough callers dialed in, "Riverdance" would not be shown that evening. | <img src="images/noriverd.gif" width="350" height="114" /> |
+
+</div>
+
+"Viewer response was phenomemnonal," according to a station source who asked not to be named. "Overnight, we realized we were sitting on top of a goldmine."
+
+The idea quietly spread during the past week as other PBS stations around the country quietly experimented with the "Riverdance" non-broadcast subscription drive. At the Corporation for Public Broadcasting, focus groups and programming consultants have been running 24 hours a day, seven days a week.
+
+Speaking on the condition of anonymity, a PBS insider said, "We're, like, *astounded* at the possibilities here. Everybody knows it's easier to get someone out to **vote** against something, rather than for something. And that's what this is. It's boggling to imagine how much stuff we've got on the shelf that people would pay to keep off the station. Think about it: Barney's Primetime Marathon -- we just have to name a price on that sucker. It's magic, and if you doubt it, I've got two words for you: Bill Buckley."
+
+Whether PBS will wear out its welcome with viewers or not, the PBS brass behind the scenes have decided to pin their future on this strategy. "So, A&E and Bravo get the BBC stuff... we've got years worth of wildlife specials people will pay not to see for years to come."
+
+------------------------------------------------------------------------
+
+<div align="center">
+
+<table data-border="0" data-cellpadding="6" width="100%">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="85%"><h2 id="scottish-scientists-clone-sheep-warn-of-moral-dangers..." data-align="center"><strong>Scottish Scientists Clone Sheep;<br />
+<em>Warn of Moral Dangers...</em></strong></h2>
+<p><em>February 22, 1997</em>: The journal "Nature" this week reports that Scottish scientists have succeeded in the first cloning of an adult mammal. The team extracted mammary cells from an adult sheep as the source for the clone. These scientists say that it's only a matter of time before a similar technique could be applied to cloning humans, and they warn of serious ethical issues.</p></td>
+<td width="50%"><p><img src="images/clonesci.gif" width="192" height="282" /></p></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+The story was given major coverage in the mainstream media, with each story inevitably raising the specter of "Brave New World" and other science fiction tales of cloned soldiers and harvested organs.
+
+Despite the ponderous tones of the media stories, perhaps the most curious aspect is that no one questioned the moral authority of a bunch of Scots whose claim to fame is sucking cells out of a sheep's breast for asexual reproduction. Even in a world where the words "Dennis Rodman" and "idol" are occasionally found in the same sentence, this seems a stretch.
+
+Others have pointed out that cloning is still far from a proven technology. The Scottish scientists implanted fifty embryos before their single success. Other researchers have speculated that the "perfect copies" image of clones in the popular press may be misleading.
+
+Dr. Russell Johnson of UCLA points out, "There's a lot we don't know about this. You have to remember it's a delicate biological process, people tend to think of it as mechanical, like a machine. The cloning process itself could result in genetic damage or trigger spontaneous mutation in the offspring. Let me put it in layman's terms: you could start out with a Jerry Lewis, go to a Howie Mandell, and end up with a Gilbert Gottfried. Some of these potential consequences are too terrible to contemplate."
+
+Further, these stories come a decade after cloning and genetic engineering were first explored in the pages of "Slug Tales". At that time editors reported that only the "least creative scientists" would be content with cloning. The True Artists of the Genetic Age would use the new tools for synthesis and true creativity. Among the experiments on the drawing board at that time were a variety of "designer pets", exotic multi-function animals which would be both lovable and serve a purpose.
+
+So, while the Scots were Xeroxing sheep, "Slug Tales" editors were outlining a future where genetic engineering forms the foundation for useful achievements. An example: consider the utility of toy poodles with genetically engineered velcro strips in their backs, so they could be quickly hung on the wall when they get too frisky or yappy. If this seems a trifle cruel and, well, superficial, there is the more utilitarian Scrub Puppy, a tiny terrier with a coat composed entirely of teflon-safe pot scrubbing material.
+
+------------------------------------------------------------------------
+
+### ABC/Disney to Acquire C-SPAN
+
+(2/11/97, NNS) Hard on the word of the CBS/Westinghouse acquisition of the Nashville Network cable channel, ABC News head Roone Arledge appeared at a hastily-called news conference to announce ABC's purchase of the C-SPAN, the cable public affairs network. This was not the news some anticipated from Arledge, with low news ratings spawning recent rumors that Arledge's job might be on the line. But Arledge's performance at the news conference may add fuel to the fire burning under him.
+
+C-SPAN's programming consists mainly of the televised proceedings of Congress and unedited footage of political events and conferences. Arledge praised C-SPAN for having, "a clarity of purpose and dedication to mission rarely seen in other broadcast organizations." Proving he still has a nasty backhand, Arledge continued, "But, of course, this isn't the kind of thing that's going to get the Bud and Pepsi commercials that made modern broadcasting possible."
+
+C-SPAN staffers present appeared more stunned than offended as Arledge ticked off the points in plans for a dramatic make-over of C-SPAN. Some quotes from Arledge:
+
+- *"Brian Lamb: knows his stuff.. but this guy makes Mike Dukakis look like David Lee Roth... Brian: wake up and DRINK the coffee!"*
+- *"Congressional proceedings: great set, big issues... but no dramatic tension! What can you say when the 'high drama' is listening to classical music for half an hour while the vote count glacially ticks up on the screen? Maybe we can't change the process, but what about some play-by-play... hell, if we can make frigid' golf into good TV, this governing stuff should be a piece of cake."*
+- *"The product's sound, but the demographics basically suck. Would it kill democracy to add a little zip to this thing? Listen folks, there's no mystery here... I don't care what angle you go for... historical perspective with Jenny McCarthy on Joe McCarthy... go for the boomers with Sonny and Bono... (responding to nervous laughter in the audience) No, listen! Will it be the end of the Constitution to have Rep. Sonny Bono and Bono from U2 mixing it up on Sunday morning?"*
+- *"Our new owners at Disney know something about entertainment... these folks have to realize that just because we're talking public policy, there's doesn't there's no room for a little INTERESTING TV. Show me the Consitutional Amendment that says that the government is best that bores the most."*
+
+Whatever else could be said, Arledge certainly left no one bored. There were, however, some obvious gaps in his presentation. This was especially evident when in response to a reporter's question Arledge commented, "Well, jeez, we can only do so much with the product as is. Sure, in a couple of years we may want to change things, but let's give these kids here a chance to test their wings with our ownership and a real network budget. Don't get me wrong though, we're not going to hang the C-SPAN folks out to dry if there are problems. We know some recasting may be needed to make it better TV. It's like the first days of the talkies... there are politicians out there who can stand up and talk for hours on any obscure topic, but they've got to getg the message that that isn't what's needed any more. We'll be there for C-SPAN, whatever it takes... guest shots, cross-promotions, whatever. We'll just have to see how it goes."
+
+------------------------------------------------------------------------
+
+February 11, 1997
+
+*Don't have a cow, man..*. After a long career in the House, new Senator Robert G. Torricelli of New Jersey faces a difficult decision over a proposed Balanced Budget Amendment to the Constitution. Torricelli, a Democrat who has twice previously voted for a Balanced Budget Amendment (BBA), says the issue today is different. "In the House I was one of 435 members, and now as one of only 100, the pressure is different." And with the voted expected to be close, the pressure for a Democrat with Torricelli's voting record is, indeed intense.
+
+"It's not the issue, *per se*," says a Torricelli insider. "It's the catch phrase thing." These policy battles are won or lost based on who appropriates the best pop culture catch phrase, and it's obvious ***what*** the phrase is going to be, but not who gets to use it. Pundits on both sides of the aisle agreed that despite Clinton's actions narrowing the deficit, this battle will probably be won by the first party to convincingly appropriate the phrase, "Show me the money!"
+
+It's unclear whether this battle will be won by Republicans who want to guarantee the budget is balanced and not just promised. A convincing case can also be made that Democrats will effectively use the phrase to address how a BBA can be passed without effecting eventual cuts in Social Security and other politically popular programs.
+
+Pundits give the edge in this battle to the Republicans. Commentator Kevin Phillips points out, "If the Democrats are so confident of this one as the catch phrase to save Social Security, then why do we hear Diane Feinstein roaming the halls at all hours of the night practicing her inflections of, 'Don't Go There!' I think the Democrats sense that this one is going to the other side."
+
+Senator Strom Thurmond, meanwhile, is recuperating from illness and reportedly steaming mad at the prospect of Feinstein using, "Don't Go There!" Thurmond is said to want the "female face" of the BBA to be a Republican so that, in the words of the Senator, "Just once before I die I can shout, 'You Go, Girl!' Is this too much for an old man to ask?"
+
+------------------------------------------------------------------------
+
+OJ's Future Income Subject of Jury Scrutiny....
+
+*(Santa Monica, NNS) February 6, 1997:* "Negative Career Impact" probably isn't overstating the effects of being found liable for murder and battery. With an \$8.5 judgment for compensatory damages already against him, jurors are trying to set punitive damages against OJ Simpson. This calculation depends to a great extent on estimates of the OJ's future income. So, at this point it's to OJ's advantage to say his name is mud, while those who fought to establish his infamy now must prove that OJ can find work more lucrative than sitting in a carnival dunk tank.
+
+So, when it comes to pulling down the big bucks, what's a murderer to do? Some have suggested that OJ may stand to earn a bundle from future book rights... but is the literary crowd more gullible than those who avoided his Interview video and 900 number in droves? Has anyone considered that at this point OJ might just be, well, *a tad bit* over-exposed?
+
+All this aside, finding OJ lucrative work would provide some compensation to the victim's families, so it's time to get creative and get that man workin'! Unfortunately, OJ's timing is horrible: he's killed in the decade when even Jack Lemmon would have a hard time remaking his 60's *comedy* "How to Murder Your Wife", OJ, man, I'm telling you: don't go there!
+
+Given his love of golf, his roles in the "Naked Gun" flicks, and his newly rediscovered identification with the black community... maybe there is a role for OJ. Just as white musicians sanitized R&B in the fifties to create Rock 'n Roll, perhaps there are untold millions awaiting OJ in an African-American version of the popular Tim Conway "Dorf" videos. Even if the slapstick doesn't connect on the intended level, there's probably a sizable audience for any video with OJ himself subjected to hilarious acts of violence.
+
+Other career advice for OJ? Send you ideas to me: [Roger L. Amherst III](mailto:stevemc@eskimo.com)....
+
+------------------------------------------------------------------------
+
+### Clinton Gives Dole Mr. Congeniality Award....
+
+Within a week of his Inaugeration, President Clinton took the time to award the National Medal of Freedom to his former rival.
+
+Clinton honored Dole for his military service and years in Congress, as well as chickening out on getting Really Mean during the recently concluded campaign. Dole joked that he had expected to be in Washington for a different ceremony this week. Clinton, for his part, noted that the Medal of Freedom was "the highest civilian honor... the highest honor used to be being elected President, but Nixon and I just about hosed that puppy."
+
+Dole has adapted to his loss gracefully and is pursuing a career as a corporate spokesmodel, having already filmed commercials for Air France and a credit card company. The enthusiasm Dole has shown for these ventures is tempered by the advice of PR professionals, who fear he may be risking over-exposure. Roland Feld, CEO of Feld, Feld, and Loam, recounts that, "Last week I had a script on my desk from the Preparation H folks, with Dole saying, 'Boy, what the heck am I doing a commercial about sore assholes?' Funny, once, maybe... but that 'asshole' thing just won't have legs."
+
+------------------------------------------------------------------------
+
+### [Return to the Slug Tales' What's News Page!](whatsnew.html)
+
+### [Return to the Slug Tales' Home Page!](SlugTales/slugpage.html)
+
+### [Return to Steve's Home Page](index.html)

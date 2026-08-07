@@ -1,0 +1,468 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0126.htm
+order: 6787
+reachable_from_entry: false
+images: 19
+internal_links: 0
+extracted: 2026-08-07T17:14:11Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0126.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a.gif" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="95" height="175" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+> **i have three wings.\
+> with whom do i flock?**
+>
+>        *Wanda Coleman,* "American Sonnet (29)"
+
+[]()\
+[]()\
+\
+--
+
+**JANUARY 26**
+
+VSEVOLOD MEYERHOLD\
+Theater director, modernist movement choreographer.
+
+& 
+
+SAMUEL H. DAY, JR.\
+"Old Codger for Peace"
+
+> 
+>
+> ------------------------------------------------------------------------
+>
+> > Scotland: UPHELLYAA. Norse galley burned in Viking sacrifice to sun.
+> >
+> > US: NATIONAL POPCORN DAY.
+> >
+> > Australia: INVASION DAY.
+> >
+> > TU BISHRAT: New Year of the trees in ancient Palestine. Families plant a tree for each child born in the year (cedar for boys, cypress for girls).
+> >
+> > GONE TO CROATAN FESTIVAL.
+> >
+> > <img src="http://www.isomedia.com/homes/harpo/gallery/9195/images/fr001a.jpg" data-border="0" data-hspace="10" data-vspace="10" width="288" height="388" alt="Collage, James Koehnline" />\
+> > Gone to Croatan: Origins of North American Dropout Culture\
+> >  Ron Sakolsky & SaintMeister James Koehnline, editors\
+> > 
+> >
+> > Lost history viewed through cracks in the cartographies of control, including "tri-racial isolate" communities, buccaneers, "white Indians", black Islamic movements, the Maroons of the Great Dismal Swamp, the Mtis nation, scandalous eugenics theories, rural "hippie" communes, & many other aspects of North American autonomous cultures. A festschrift honoring historian Hugo Lemming Bey of the Moorish Science Temple.\
+> > ISBN: 0-936756-92-6 \$12 pp. 382 6" x 9"\
+> > <http://www.t0.or.at/hakimbey/taz/taz3d.htm>\
+> >
+> > ------------------------------------------------------------------------
+> >
+> >  []()\
+> >
+> > []()\
+> > \
+> > 1531 -- Lisbon hit by Earthquake; about 30,000 die. []()\
+> > []()\
+> > \
+> > 1697 -- Duh?: Isaac Newton receives Jean Bernoulli's 6 month time-limit problem, solves problem before going to bed that same night, no problem. []()\
+> > []()\
+> > \
+> > 1784 -- Fowl? Benjamin Franklin, noting the bald eagle was "a Bird of bad moral character" who lived "by Sharping & Robbing" expressed regret it had been selected to be our national symbol. Franklin's choice: the turkey, *"a much more respectable Bird & withal a true original Native of America."*
+> >
+> > > Regards certain events in the US in 2001 & 2002, or thereabouts, Ben had this to say:
+> > >
+> > > > 'They that can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety.' 
+> > > >
+> > > > -- Benjamin Franklin
+
+
+
+[]()\
+[]()\
+\
+1788 -- Australia: A fleet of 11 ships lands in Port Jackson after sailing with the continent's first 1,030 English settlers, including 736 convicts.
+
+All told, England ships more than 160,000 men, women, & children in bondage to Australia in the largest forced exile of citizens by a European government in pre-modern history.
+
+Exiles landing today become known as the First Fleet. They are so unfit for survival in the new land that they live near starvation amid what is natural abundance to Aborigines. Most of the First Fleet convicts have never traveled more than 10 miles from their birth places. They saw the sea for the first time when they were clapped in irons & thrust onto the ships.
+
+All the convicts were transported for crimes against property. They include 70-year-old Elizabeth Beckford, who was exiled for stealing 12 pounds of Gloucester cheese. West-Indian Thomas Chaddick was sent to Australia after hunger drove him to steal cucumbers from a kitchen garden.
+
+Obviously, not much has changed in 200-plus years.
+
+[]()\
+\
+
+> []()\
+> \
+> 1804 -- Eugne Sue, lives, Paris. French author of sensational novels of the seamy side of urban life & a leading exponent of the roman-feuilleton ("newspaper serial"). Having inherited a fortune from his father, Sue became a well-known dandy & depicts contemporary "high Life" in such works as Arthur (1838) & Mathilde (1841). []()\
+> []()\
+> \
+> <img src="http://www.markomics.com/alpha.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="54" height="54" alt="?" />\
+> 1831 -- Mary Mapes Dodge (Hans Brinker, or The Silver Skates) lives, New York City. []()\
+> []()\
+> \
+> 1849 -- English Minor Romantic poet Thomas Lovell Beddoes, with no leg to stand on, takes his life. 
+>
+> > He was living in virtual exile in Basel, Switzerland. His physician-father Thomas Beddoes was the Bristol physician who started Coleridge on laudanum. The younger Beddoes wrote a verse-play The Brides Tragedy which got no attention in England. 
+> >
+> > In Germany he fell into revolutionary circles & kept writing on a long disjointed play called Death's Jestbook, or The Fool's Tragedy. 
+> >
+> > Disappointed in a gay love-affair, he tried to kill himself by cutting an artery in his leg. He was rescued, as it were, but gangrene developed & he lost the leg. When fitted with a wooden replacement, he went to the chemist's shop & bought some curari, a deadly poison. 
+> >
+> > He left a suicide note & a bequest to his physician for a stomach pump, which would have saved his life.
+>
+> \
+> []()\
+> []()\
+> \
+> 1855 -- US: Clallam Indian band signs Treaty of Point-No Point, Washington state. []()\
+> []()\
+> \
+> 1856 -- US: Leschi, chief of the Nisqually & Yakama Indians, leads 1,000 warriors in an attack on the town of Seattle. The attack is repulsed by naval forces in the harbor. <http://www.historylink.org/output.CFM?file_ID=1960>\
+> \
+> []()\
+> \
+> <img src="http://www.unique.thomasregister.com/olc/unique/02x0129.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="252" height="180" alt=" ? " />\
+> 1875 -- Progress? Electric dental drill is patented by George F. Green.\
+> <http://www.geocities.com/ResearchTriangle/3066/trepanation.html>\
+> []()\
+> \
+> 1885 -- Muhammad Ahmed ("Mahdi") rebels conquer Khartoum. []()\
+> []()\
+> \
+> 1886 -- In Decazeville, the pitiless sub-manager of Watrin Mines, who had forced a drop in workers' wages (10% reduction), ignores their protests. Attacked by an angry crowd, he barricaded himself in his office &, still under attack, dies when he jumps from his window. []()\
+> []()\
+> \
+> <img src="http://perso.club-internet.fr/ytak/images/guerdjikov_low.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="80" height="106" alt="?" />\
+> 1887 -- Mikhael Guerdjikov (1877-1947) lives. Bulgarian anarchist influenced by Bakuninist ideas. Started the first Bulgarian anarchist paper, "Free Society". See the Anarchist Encyclopedia page,\
+> <http://www.eskimo.com/~recall/bleed/sinners/MikhaelGuerdjikov.htm> []()\
+> []()\
+> \
+> 1904 -- Sean Macbride, diplomat & peacemaker, lives, Ireland.\
+> []()\
+> []()\
+> \
+> 1905 -- World's largest diamond, the 3,106-carat Cullinan is discovered. Weighs in at over one & a quarter pounds. []()\
+> []()\
+> \
+> <img src="http://www.markomics.com/alpha.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="54" height="54" alt="?" />\
+> 1907 -- After the opening of John Millington Synge's Playboy of the Western World, police are called in to calm the audience at Dublin's Abbey Theatre.\
+> <http://athena.english.vt.edu/~marvin/syngeweb/cover.html>\
+> []()\
+> \
+> 1907 -- US: Congress passes an act forbidding corporations from contributing to election campaigns for national office. Yup. []()\
+> []()\
+> \
+> <img src="http://oraibi.alphacdc.com/necona/common/jt-stamp.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="95" height="96" alt=" ? " />\
+> 1913 -- Quitter?: Jim Thorpe relinquishes his 1912 Olympic medals for being a pro.\
+
+[]()\
+[]()\
+\
+<img src="http://www.editions-verdier.fr/france/images/couv/gat_parole.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="left" width="117" height="190" alt="?" />\
+1924 -- <img src="http://www.editions-verdier.fr/france/images/portraits/gatti2.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="132" height="200" alt="?" />Armand Gatti lives, in Monaco. Libertarian playwright, author of more than 40 plays.
+
+His father Gino Gatti, a Piedmontese anarchist, was a comrade of Carlo Cafiero, & involved in many struggles in Argentina.
+
+A Resistance member during WWII, Armand Gatti was captured in 1943, condemned to death & shipped to Germany, near Hamburg, from which he escaped to England. 
+
+After the war he became a prize-winning journalist, then devoted himself to the theatre. 
+
+For the anarchist that Gatti still is, the theatre is "a perpetual medium for freedom". Resistance & exile are themes in his works, which include The Time of the Physicists, La Deuxime Existence du camp de Tatenberg, & La Journe dune infirmire. His La passion du gnral Franco (1968) was banned in France, under pressure from Franco's Spain.\
+
+------------------------------------------------------------------------
+
+One day Gatti and his pupils were leaving the National Monument and came across some grim looking bikers. The old teacher ran forward to remonstrate with one who was wearing a swastika. 
+
+"He could have been decked," says [Roy Dupuis](http://www.roydupuis-online.com/library/f_magazines/actualite0893.htm), a Canadian filmmaker particularly inspired by a 69-year-old anarchist. 
+
+"Gatti taught me that there was no need to be afraid to stand up for ones beliefs. That the theatre was sacred, that it was more important than the individual. He taught me to be a servant."
+
+------------------------------------------------------------------------
+
+[]()\
+\
+<http://www.fashionfinds.com/july/pages/roy-dupuis-3.htm>\
+
+> <http://www.editions-verdier.fr/france/auteurs/gatti.htm>\
+> \
+> 1926 -- Television demonstrated publicly for the first time by J.L. Baird in London.
+
+[]()\
+[]()\
+\
+1929 -- Cartoonist/dramatist (Little Murders) Jules Feiffer lives, New York City.\
+
+\
+<http://www.oregonlive.com/books/9804/bk980413bs.html>\
+<http://www.detnews.com/AAEC/summer97/jules/jules2.htm>\
+<http://www.kirjasto.sci.fi/jfeiffer.htm>\
+
+[]()\
+\
+1932 -- Aboard a Connecticut-bound train with editor Max Perkins, Thomas Wolfe suddenly decides he doesn't want to make the trip, jumps from the moving car onto the Grand Central Station platform, severing a vein in his left arm.\
+<http://www.cms.uncwil.edu/~connelly/wolfe.html>\
+<http://www.cms.uncwil.edu/~connelly/perkins.htm>\
+\
+<img src="http://www.spunk.org/library/places/spain/sp001780/thumb.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="134" alt="?" />\
+1937 -- Spain: Jaime Balius appointed director of La Noche. Wrote the pamphlet "Towards a Fresh Revolution".
+
+anarchist
+
+\
+<http://www.spunk.org/texts/places/spain/sp001780/chap1.html>\
+<http://www.spunk.org/library/places/spain/sp001780/chap8.html>\
+\
+1939 -- Spain: Barcelona falls to Franco's fascist forces.\
+[]()\
+[]()\
+\
+1944 -- US: Angela Davis, African American commie activist, lives, Birmingham, Alabama.\
+<http://felix.vcu.edu/~mcapers/ramond.htm>\
+<http://www.tezcat.com/~juanyen/alabama.html>\
+\
+1945 -- Poland: Liberation of extermination camp, Auschwitz/Oswiecim. []()\
+[]()\
+\
+<img src="http://www.blueflamecafe.com/photos/jlx1.jpg" data-border="0" data-hspace="10" data-vspace="10" width="120" height="140" alt="?" />\
+1948 -- John Lomax dies (1867-1948). Folk Singer, music Producer, author, folklorist who collected folk songs & tales, documenter of musical heritage (year of birth uncertain; some say 1875). Amassed some ten thousand recordings for the Library of Congress. Father of Alan Lomax.\
+<http://www.blueflamecafe.com/default.htm>\
+<http://www.tsha.utexas.edu/handbook/online/articles/view/LL/flo7.html>\
+\
+1950 -- India becomes a republic as constitution goes into effect. []()\
+[]()\
+\
+1953 -- US: Taint a Fit Night Out, For Man Nor Beast? Radioactive rain falls on Troy, New York. []()\
+[]()\
+\
+1956 -- US: Martin Luther King, Jr. arrested for the first time; his home will be bombed in a few days. []()\
+[]()\
+\
+1956 -- Martinus Nijhoff, Dutch poet, dies in The Hague. From his early work De wandelaar & his best known volume, Vormen ("Forms," 1924), his work became more optimistic, such as Nieuwe gedichten ("New Poems," 1934) & Het uur U ("Zero Hour," 1942). []()\
+[]()\
+\
+1960 -- US: What's The Point?: High-school basketball sensation Danny Heater scores 135 points. []()\
+[]()\
+\
+1962 -- US: Bishop Burke of the Buffalo, New York Catholic Diocese bans the Twist. It can't be danced, sung about or listened to in any Catholic school, parish or youth event. Later in the year, the Twist will be banned from community center dances in Tampa, Florida as well. []()\
+[]()\
+\
+1968 -- France: 40 members of the Nanterre University anarchist group march into the faculty hall with comical posters ridiculing the police. The porters attack the anarchists but are defeated. The authorities call in the police; one thousand students fight back & attend a protest meeting. The movement thus launched has grown ever since. The students are determined to get rid of the uniformed & plainclothes police haunting the faculties. Antecedent of May events in Paris-France.\
+<http://www.ecn.org/freedom/1968/vive.html>\
+[]()\
+\
+<img src="http://www.eskimo.com/~recall/bleed/images/bullet.gif" data-hspace="5" data-vspace="0" data-align="left" data-="" width="18" height="18" alt="Ooopsie!" />\
+1969 -- Edwin Pratt, director of Seattle Urban League, is assassinated; police involvement is widely suspected. An arrest is never made in the case. []()\
+[]()\
+\
+1970 -- US: State capitol of Louisiana is damaged by a dynamite explosion. []()\
+[]()\
+\
+1970 -- Philippines: 20,000 riot in Manila to protest the regime of U.S.-backed Beloved & Respected Comrade Leader Dictator & Shoe-Hoarder Ferdinand Marcos following his State of the Nation address. Over 2000 attempt to storm the presidential palace on the 30th & riots continue throughout the year. []()\
+[]()\
+\
+<img src="http://www.uspa.org/images/teamhypoxia_MrBill_1.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="293" height="173" alt=" ? " />\
+1972 -- Coffee, Tea, or... Oh, Damn!?: Stewardess Vesna Vulovic survives 10,160m fall without parachute.\
+<http://www.uspa.org/>\
+[]()\
+\
+1973 -- US: Selective Service military draft put on standby, never (so far) to return. []()\
+[]()\
+\
+1977 -- Checked Out?: Fleetwood Mac's first lead guitar player, Peter Green, is committed to a mental hospital in England after firing a pistol in the general direction of a delivery boy who was attempting to deliver to Green a royalties check from Fleetwood Mac record sales. Green left the band in May 1970 to live a life of religious seclusion. []()\
+[]()\
+\
+1983 -- US: National Commission on Excellence in Education issues a report labeling U.S. elementary & secondary education "mediocre." Recommends schools put more emphasis on English, math, social studies, & computer science; the school day be lengthened; that teachers be rewarded for merit rather than seniority; & college admissions standards be raised. []()\
+[]()\
+\
+<img src="http://home1.inet.tele.dk/chilsta/killer1.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="326" height="74" alt=" ? " />\
+1983 -- Dennis Nilsen, the "British Jeffrey Dahmer", strangles a 20-yr. old man, his 10th of 15 victims, London.\
+[]()\
+[]()\
+\
+1988 -- Australia: Aborigines mark 200th anniversary as "invasion day".\
+<http://www.tao.ca/ainfos/ainfos00210.html>\
+[]()\
+\
+<img src="http://www.monmouth.edu/irs/library/images/photo1.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="200" height="275" alt="?" />\
+1990 -- US: Technology critic Lewis Mumford dies, Amenia, New York.
+
+> "Where both aims, the aesthetic & the technical, were pursued together, it had the happy result of producing an harmonious relation between the subjective & the objective life, between spontaneity & necessity, between fantasy & fact."
+>
+>        Lewis Mumford: Art & Technics
+
+<http://www.monmouth.edu/irs/library/mumford.html>\
+
+> Wrote, among many books, **The Story of Utopias 1922**; **Sticks & Stones: A Study of American Architecture & Civilization 1924**; **Herman Melville 1929**; **Technics & Civilization 1934**; **The Culture of Cities 1938**; **The Conduct of Life 1951**; **The City in History: Its Origins, Its Transformations, & Its Prospects 1961**; **The Highway & the City 1963**; **The Myth of the Machine: I. Technics & Human Development 1967**; **The Urban Prospect 1968**; **The Myth of the Machine: II. The Pentagon of Power 1970**.\
+
+<http://www.planning.org/info/mumford.htm>\
+
+
+> *"Layer upon layer, past times preserve themselves in the city until life itself is finally threatened with suffocation; then, in sheer defense, modern man invents the museum."*
+
+[]()\
+\
+1991 -- US: 100,000 march against Gulf War, New York City & San Francisco. []()\
+[]()\
+\
+1993 -- Canada: Women in Black demonstrate in solidarity with their Serbian sisters, Toronto.
+
+I take the rainy landscape from my window remove the shadow of the wutong tree wipe you off.
+
+Yang Mu, The Woman In Black
+
+<http://www.hartford-hwp.com/archives/62/062.html>\
+
+[]()\
+\
+1995 -- Where's The Rest of Me?: Beloved & Respected Comrade Leader New Jersey Governor Christine Whitman, dedicates a rest stop to Howard Stern. []()\
+[]()\
+\
+1998 -- Beloved & Respected Comrade Leader President Clinton "the Dickster" says
+
+*"I want to say one thing to the American people, I did not have sexual relations with that woman, Miss Lewinsky...."* []()\
+[]()\
+\
+<img src="http://www.realchangenews.org/predevimages/pagehoriz.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="240" height="167" alt="?" />\
+1998 -- US: Seattle songster Jim Page plays The Wild Duck Brewery in Eugene, Oregon, home to thousands of black-masked anarchists...
+
+> Jim Page is acerbic, powerful, poignant, clever & very funny -- & can improvise a song in a flash. He reveals the nuances, twists & turns of political & everyday life in songs that are crafted to be engaging, one interesting lyric at a time.
+
+> there's a shadow on the promised land\
+>  shiver in the winter\
+>  freezin' in the empty space\
+> seems like nobody really cares about anybody anymore\
+>  if you ain't got a lot of money\
+>  or a pretty face\
+> & it's slander for slander, it cuts like a knife\
+> this ain't no game we're playin', this is real life
+>
+> & all they want to talk about at city hall\
+> is how to build a better building to play baseball\
+> 
+>
+> [Whose World is This](http://www.liquidcity.com/sounds/jimpage/world.ram)\
+> [Stranger In Me](http://www.liquidcity.com/sounds/jimpage/stranger.ram)\
+> 
+
+<http://www.realchangenews.org/pastarticles/interviews/fea.Page.html>\
+<http://www.speakeasy.org/wfp/25/Lyrics.html>\
+\
+1998 -- "The Global Climate Coalition just doesn't want us to notice that the climate is ten times worse that it was ten years ago, that 230 million people in China were dislocated by floods this year, that Mitch was the worst hurricane in 200 years, that jungles were on fire all over the place in 1998. 
+
+We're not supposed to know about that; & if we do know, we're supposed to conclude that it's some kind of astonishing freak accident."
+
+
+
+~ ~ Bruce Sterling, Wired News, 1/26/98
+
+[]()\
+[]()\
+\
+1999 -- Australian Heritage Commission accepts the Tent Embassy as a place of special significance to indigenous Australians.
+
+> Although Parliament House has moved to a sight a kilometre away & sits on a hill surrounded by a well manicured expanse of grass, the mean spirited petty, intellectually limited renegades Liberal/National Party government re-enacted a 64 year old law to remove what they see as an eyesore from in front of the old Parliament House.
+>
+>  The Tent Embassy was established in 1972 as a national focus for the indigenous land-rights struggle. Every time the government took down the Tent Embassy in 1972, hundreds, then thousands, rebuilt it.
+
+[]()\
+[]()\
+\
+<img src="http://no-nukes.org/samday/samandcane.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="200" height="210" alt="?" />\
+2001 -- Samuel H. Day Jr. dies, age 74. A self- proclaimed "Old Codger for Peace" & author of Prisoners On Purpose: A peacemaker's guide to jails & prisons. Journalist, civil libertarian & militant opponent of nuclear weapons who led a magazine in a landmark First Amendment court battle over the publication of an article on the hydrogen bomb. 
+
+> Sam Day was managing editor of The Progressive in 1979 when it printed "The H-Bomb Secret: How We Got It, Why We're Telling It." The US government tried to halt its publication, which ultimately resulted in a victory for free speech advocates & journalists.  
+>
+> From 1956 to 1974, Day worked at several Idaho newspapers, including the weekly Intermountain Observerin Boise, where BleedMeisterAuntieDave & Bleedster Gus, as Midwest Field Secretaries & reporters for the US Student Press Association (USPA)/College Press Service (CPS), met him & were marvellously hosted. We both wrote impressions of Boise for his paper, which was considered a crusading, muckraking newspaper.
+>
+> After the Observer folded in 1973, Day became managing editor of the Bulletin of Atomic Scientists, then on to the Progressive.
+>
+> Day, a Korean vet, went to prison innumerable times for his advocacy of international peace, & in 2000 wrote in an articlepublished in newspapers across the country on Memorial Day weekend that,
+>
+> > > "if it is right to honor those who served in the cause of war, then it is equally right to honor those who served in the cause of resistance to war."
+> > >
+> > > A very nice tribute page at:\
+> > >  <http://no-nukes.org/samday/>\
+
+\
+
+> > []()\
+> > \
+> > 3000 -- 
+> >
+> > \
+> > BETTY SHABAZZ, 1998 SAINT\
+> > Radical educator, widow of Malcolm X.\
+> >  <http://www.webactive.com/webactive/pacifica/demnow/dn970624.html>\
+> >
+> > []()\
+> > \
+> > 3000 --
+> >
+> > <table data-cellspacing="2" data-cellpadding="10" width="80%">
+> > <colgroup>
+> > <col style="width: 100%" />
+> > </colgroup>
+> > <tbody>
+> > <tr>
+> > <td data-bgcolor="#8F898B"> <strong>Pattiducking</strong>
+> > <p>Pattern generation by deductive &amp; inductive reasoning. Persons adept at pattiducking often become professional synthesizers &amp; are favorites of the Dilettante Dept.</p>
+> > <p>By concentrating on the patterns inherent in all phenomenon, pattiduckers can come to sweeping conclusions concerning current &amp; future events. Pattiduckers are not concerned with rote memorization of facts but rather discerning the pattern facts fall into when considered as a whole.</p>
+> > <p>Most Pattiduckers make good use of reference works &amp; computational aids to compensate for their disinterest with memorization.</p>
+> > <p>See Also: Language.</p>
+> > &#10;       Stand on Zanzibar by John Brunner<br />
+> > <a href="http://husted.com/hgsf/Pattiducking.htm">http://husted.com/hgsf/Pattiducking.htm</a><br />
+> > &#10;</td>
+> > </tr>
+> > </tbody>
+> > </table>
+> >
+> > []()\
+> >
+> > 
+> >
+> > > > > []()\
+> > > > > \
+> > > > > <img src="http://voyager.learntech.com/catalog/freakshow/freakshow.circle.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="60" height="60" alt="?" />\
+> > > > > 4000 --
+> > > > >
+> > > > > <div align="LEFT">
+> > > > >
+> > > > > []()\
+> > > > > []()\
+> > > > >
+> > > > > ------------------------------------------------------------------------
+> > > > >
+> > > > > anti-CopyRite 2000-3000, more or less\
+> > > > > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > > > > or send questions, suggestions, additions, corrections to:\
+> > > > > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> > > > >
+> > > > > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> > > > >
+> > > > > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> > > > >
+> > > > > anarchist, labor, radical books
+> > > > >
+> > > > > See also: Anarchist Encyclopedia\
+> > > > > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > > > > Stan Iverson Memorial Library\
+> > > > > http://recollectionbooks.com/siml/\
+> > > > > Anarchist Time Line / Chronology\
+> > > > > http://recollectionbooks.com/bleed/indexTimeline.htm
+> > > > >
+> > > > > </div>

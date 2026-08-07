@@ -1,461 +1,0 @@
----
-title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
-source_domain: amasci.com
-source_path: ~recall/bleed/0509.htm
-order: 6735
-reachable_from_entry: false
-images: 24
-internal_links: 0
-extracted: 2026-08-07T05:59:31Z
-extractor: site_to_paper.py (pandoc)
----
-
-# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
-
-*Source page: `~recall/bleed/0509.htm`*
-
-> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
-> >
-> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
-> >
-> >   Our Daily Bleed...
-> >
-> > \
-
-\
-<img src="http://www.recollectionbooks.com/bleed/images/pixel.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="50" height="100" alt="?" />\
---
-
-> **My father makes counterfeit money\
-> My mother makes synthetic gin\
-> My sister makes love for a dollar\
-> My god how the money rolls in.**
->
-> My brother's a young missionary\
-> Who saves young people from sin.\
-> He'll save you a blonde for ten dollars\
-> My god how the money rolls in . . .
->
->        *Vance Randolph,*\
-> "Unprintable" Ozark Folksongs & Folklore.\
-> Edited with anintroduction by Gershon Legman
-
-[]()\
-[]()\
-\
---
-
-**MAY 9**
-
-JOHN BROWN\
-Radical abolitionist. "His truth goes marchin' in."\
-
-
-
-
-> 
->
-> ------------------------------------------------------------------------
->
-> MOTHERS' DAY.
->
-> France: JOAN OF ARC PROCESSIONS.
->
-> <img src="http://oposite.stsci.edu/pubinfo/pr/97/38/content/9738ax.jpg%0BALT=%22" data-spaced-out"="" data-border="0" data-hspace="10" data-vspace="20" width="600" height="175" />\
-> ASTRONOMY DAY. Look up tonight
->
-> ------------------------------------------------------------------------
->
->  []()\
-> []()\
-> \
-> 1432 -- England: Charges of Witchcraft dismissed against Margery Jourdemain, John Virley, & John Ashwell. They're executed for littering instead. []()\
-> []()\
-> \
-> 1671 -- England: Pardon Me?: Captain Thomas Blood attempts to steal the crown jewels dressed as a clergyman. Though caught & sentenced to die, he convinces Charles II that his death would spark revolution & he is granted a pardon.\
-> Source: 'Calendar Riots' []()\
-> []()\
-> \
-> 1785 -- Joseph Bramah receives British patent for beer pump handles. []()\
-> []()\
-> \
-> 1800 -- US: John Brown, anti-slavery freedom fighter, who attempted a guerilla war in the very heart of the south, lives, Torrington, Connecticut.
->
-> > There's a flutter in the Southland, a tremor in the air;\
-> > For the rice-plains are invaded, the cotton fields laid bare;\
-> > And the cry of "Help" and "Treason" rings aloud from tongue and pen\
-> > John Brown has crossed the border with a host of fifteen men.
-> >
-> > A Plea for Captain John Brown by Henry David Thoreau, <http://www.sas.upenn.edu/African_Studies/Articles_Gen/Plea_Captain_Brown.html>\
-> > <http://muse.jhu.edu/demo/reviews_in_american_history/23.4cain.html>\
->
-> []()\
-> \
-> 1849 -- Germany: The popular rebellion crushed, Bakunin, Richard Wagner and Heuber escaped to Chemnitz where Bakunin and Heuber are arrested while Wagner hides in his sister's house & escapes.\
-> <http://recollectionbooks.com/bleed/sources.htm#BakuninMikhail>\
-> []()\
-> \
-> 1860 -- "Peter Pan" creator Sir James Barrie lives (1860-1937), Scotland. When his Auld Licht Idylls appeared he wrote: *"For several days after my first book was published I carried it about in my pocket, & took surreptitious peeps at it to make sure the ink had not faded."*
->
-> > "Every time a child says 'I don't believe in fairies' there is a little fairy somewhere that falls down dead."
->
-> <http://www.txdirect.net/users/tinker/barrie.html>\
-> <http://www.kirjasto.sci.fi/jmbarrie.htm>\
-> \
-> 1866 -- <span id="Edelstadt"></span>David Edelstadt (1866-1892), anarchist, lives.
->
-> <img src="http://www.hollanderbooks.com/anarch.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="130" height="100" alt="?" />
->
-> > 
-> >
-> > Marmor, Kalmon. David Edelstadt. New York, YKUF Farlag, 1950. Octavo, orange-red cloth, 410 pp., chronological bibliography, index, b/w illustrations.
-> >
-> > <http://recollectionbooks.com/bleed/sinners/EdelstadtDavid.htm>\
->
-> \
-> []()\
-> \
-> <img src="http://www.ceca.org.br/edgar/nenovasco2.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="146" height="146" alt="?" />\
-> 1878 -- Neno Vasco (1878-1920) lives. Portuguese lawyer, journalist & anarchist writer.
->
-> > Vasco was part of a group of students of the University of Coimbra who became anarchists at the start of the century. Active in both Brazil & Portugal, & one of the most influential militant libertarians in those countries.
-> >
-> > [\[Details, click here\]](http://recollectionbooks.com/bleed/05ref.htm#9/1878)\
-> > []()\
->
-> []()\
-> \
-> 1883 -- Philosopher Jos Ortega y Gasset lives (1883-1956), Madrid, Spain. Wrote The Revolt of the Masses, characterizing 20th-century society as dominated by masses of mediocre & indistinguishable individuals. His ideas converged with other 'mass society' theorists such as Karl Mannheim, Erich Fromm & Hannah Arendt. In exile during the Spanish Revolution, refusing to support either side or hold academic office under Franco. <http://www.sci.fi/~phinnweb/links/philosophy.html>\
-> <http://www.kirjasto.sci.fi/grasset.htm>\
-> \
-> <img src="http://www.speakeasy.org/pnp/moon.GIF" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="110" height="48" alt="?" />\
-> 1892 -- US: Coal mine explosion at Roslyn, Washington, killing 45 mine workers. This is very near the annual two-week campout location where about a million hundred Blue Mooners go to drink suds, scare the fish, squash bugs, get sunburned & otherwise commune with nature, etc, around & about the 4th of July to celebrate Mooner George's birthday. <http://www.speakeasy.org/pnp/bluemoon.htm>\
-> <http://www.trippinout.com/seatbars.html>\
-> \
-> 1897 -- U.S. cruiser ordered to Honduras to "protect U.S. interests". []()\
-> []()\
-> \
-> 1898 -- Italy: "Agitazione" is raided & henceforth, like all other anarchist papers in Italy, suppressed following popular revolt in Milan which took place (early in May). Samaia, Lucchini, Vezzani & Lavattero left the country; Fabbri was arrested at Macerata.
->
-> 
->
-> > These events follow bread riots in about fifty Italian towns, including in Ancona (Jan. 16, 17, 1898) which were also the pretext of Malatesta's arrest.
-> >
-> > Then Malatesta, Smorti, Bersaglia, Panficchi, Briocchi and others of the paper were arrested, & tried as a "criminal" association Others, principally students, rushed to Ancona, among these Nino Samaia, of Bologna, & Luigi Fabbri of Macerata, & edited the paper.
-> >
-> > A trial was held in April, 1898. Three thousand anarchists signed a declaration confessing to be quietly of the same "crime," that of being "criminals," malfattori, in the sense of the Art. 248. Public indignation was roused & the tribunal did not dare to apply the Art. 248 & pronounced sentences of six or seven months' prison for forming part not of a "criminal" but of a "seditious" or, "subversive" society. The higher courts confirmed this judgment against which the prosecution had lodged an appeal.
-> >
-> >  <http://www.pitzer.edu/~dward/Anarchist_Archives/malatesta/nettlau/nettlauonmalatesta.html>\
->
-> []()\
-> \
-> 1898 -- Marcel Wullens lives (1898-1928), Esquelbecq. French anarcho-syndicalist who participated, with his brother Maurice, in the review "Les humbles," the journal "L'insurg," & helped found "La rvolution proltarienne" (without Maurice, a novelist, who broke with the anarchists in favor of the Bolsheviks, & later became an organizer, with Andre Breton & Leon Trotsky, of the [F.I.A.R.I.](http://www.argyro.net/~revsur/encyclo/fiari.htm) ). Wullens died of tuberculosis.\
-> <http://perso.club-internet.fr/ytak/mai2.html#9>\
-> []()\
-> \
-> 1900 -- US: Striking tram workers blow up a tramcar during riots in St. Louis. []()\
-> []()\
-> \
-> 1904 -- Communications theorist Gregory Bateson lives, Grantchester, Britain. []()\
-> []()\
-> \
-> 1909 -- US: Japanese workers at Aiea Plantation in Hawaii walk out, beginning the 1909 Plantation Strike. By June, 7,000 workers & their families are on strike on Oahu & remained out until August.
->
-> [\[Sources, click here\]](http://recollectionbooks.com/bleed/sources.htm#JapaneseAmerican) []()\
-> []()\
-> \
-> 1914 -- US: Beloved & Respected Comrade Leader President Wilson proclaims Mother's Day. The liberal Wilson, elected on an anti-war platform, will send many of the mothers' children to die in the European trenches, as well as oversee the invasion of Russia to suppress the revolution there, & a 'Red Scare' at home. []()\
-> []()\
-> \
-> <img src="http://www.torget.se/users/c/Chilli/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="?" />\
-> 1917 -- US: Conference to organize a No-Conscription League held at the "Mother Earth" office; away lecturing, Emma Goldman claims she sent a message that, as a woman, she felt she could not claim a position on whether or not the League should urge men againstregistering for the military.
->
-> anarchist feminist
->
-> []()\
-> []()\
-> \
-> 1918 -- Eminent Victorians by Lytton Strachey is published. []()\
-> []()\
-> \
-> 1918 -- Russia: Bolshevik troops open fire on workers protesting food shortages in the town of Kolpino. []()\
-> []()\
-> \
-> <img src="http://www.torget.se/users/c/Chilli/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="?" />\
-> 1919 -- US: Socialist Ella Reeve (Mother) Bloor visits Emma Goldman in prison. During this month Goldman emphatically rejects Dr. Ben Reitman's request to visit her in prison. During this month & next, mail bombs purportedly sent to Attorney General A. Mitchell Palmer & other prominent officials gain media attention. Government agents wrongly implicate Goldman & Alexander Berkman in the 'conspiracy'.
->
-> anarchist feminist
->
-> []()\
-> []()\
-> \
-> 1920 -- Mexico: Rebels take Mexico City; four U.S. destroyers sail from Key West for Tampico. Beloved & Respected Peace-Loving Liberal President Wilson orders Texass, New Mexico, & Arizona militias mobilized to serve on Mexican border. []()\
-> []()\
-> \
-> 1921 -- American poet Mona Van Duyn lives. Named Poet Laureate in 1992. []()\
-> []()\
-> \
-> <img src="http://www.infoshop.org/graphics/J_Edgar.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="200" height="300" alt="?" />\
-> 1921 -- Radical priest & anti-war activist Daniel Berrigan lives. 
->
-> Loves to burn draft records. J. Edgar Hoover & his FBI guys have the same affinity for Berrigan as for Martin Luther King, Jr. -- trying to smear & destroy him. <http://www.sojourners.com/soj9511/951121.html>\
-> []()\
-> \
-> 1921 -- US: Thirteenth Convention of the Industrial Workers of the World IWW) is called to order, at 9 a.m., by Roy Brown, the Chairman of the General Executive Board. []()\
-> []()\
-> \
-> 1922 -- Italy: Milan trial begins for the anarchists responsible for an attack on the Theater Diana. Giuseppe Mariani & Giuseppe Boldrini get life sentences, & Ettore Aguggini is only released after many years. []()\
-> []()\
-> \
-> 1922 -- Egypt issues decree making government sole legal trader in opium, cocaine, hashish, morphine. []()\
-> []()\
-> \
-> 1926 -- Commander Byrd claims he has flown to the North Pole & back. See 1996 below. []()\
-> []()\
-> \
-> 1926 -- US: At least 13 men killed by explosion at the G.K. Hughes Developing Co.'s McKie No. 1 oil well in Corsicana, Texass.
-
-[]()\
-[]()\
-\
-1927 -- Debut of Felix the Cat in daily comic strip.\
-<img src="http://wso.williams.edu/~dgerstei/felix/circ5.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="80" height="94" alt="?" />
-
-
-
-# **Felix the Cat is God.**
-
-<http://wso.williams.edu/~ktaylor/gerstein/felix/>\
-<http://www.desperate.com/promo/felixpromo.html>\
-<http://www.felixthecat.com/index.html>\
-
-> > []()\
-> > \
-> > 1928 -- US: Blackbirds of 1928, featuring an all-Negro cast, opens to popular acclaim. []()\
-> > []()\
-> > \
-> > <img src="http://www.neil1.demon.co.uk/marnie/tgall3/burnbk.jpg" data-border="0" data-hspace="10" data-vspace="10" data-="" width="285" height="363" alt="?" />\
-> > 1933 -- First Nazi-inspired mass public book-burning, Germany. []()\
-> > []()\
-> > \
-> > 1933 -- Spain: Bombings & shooting mark a general strike.
-> >
-> > anarchist
-> >
-> > []()\
-> > []()\
-> > \
-> > 1934 -- US: Longshoremen's strike leads to general work stoppage; Longshoremen's General Strike on West Coast. Lasts until July 30th.\
-> > [\[Sources, click here\]](http://recollectionbooks.com/bleed/sources.htm#MayLabor) []()\
-> > []()\
-> > \
-> > 1937 -- Spain: (Sunday): "Solidaridad Obrera" dismisses the manifesto issued yesterday by the Friends of Durruti as demagoguery and the Group's members as provocateurs. Their manifesto had spoken of "treachery" by the CNT leadership.
-> >
-> > Anarchist chronology, Friends of Durruti Group 1937-39, Agustin Guillamon
-> >
-> > <http://www.eskimo.com/~recall/bleed/sinners/DurrutiColumnEarly.htm>\
-> > <http://www.spunk.org/texts/places/spain/sp001780/chap5.html>\
-> > <http://www.geocities.com/Athens/Acropolis/8195/Durruti.html>\
-> >  []()\
-> > []()\
-> > \
-> > 1938 -- Fabio Luz (Fabio Lopez dos Santos Luz) (1864-1938) dies. Novelist & outstanding figure of Brazilian anarchism. Involved in the antislavery movement as a youth & discovered anarchism with the reading of Peter Kropotkin. Wrote d'Idelogos, (1903), d'Os Emancipados, (1906), & Virgem-Me, (1908), the first novels in Brazil to tackle the social question.\
-> > [\[Details, click here\]](http://recollectionbooks.com/bleed/05ref.htm#9/1938) []()\
-> > []()\
-> > \
-> > <img src="http://recollectionbooks.com/bleed/Encyclopedia/GarciaMiguel/Miguel%20Garcia4.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="148" height="211" alt="?" />\
-> > 1939 -- Spain: Miguel Garcia is arrested in Barcelona & put into a hemp warehouse which had been converted into a prisonsince the 'Prision Celular' was now brim-full. Released in March 1941, after 22 months, after being cleared of charges.\
-> > Source: Nancy Macdonald, Homage to the Spanish Exiles (Insight Books, 1987), p315\
-> >  []()\
-> > []()\
-> > \
-> > <img src="http://deoxy.org/gif/nunci.jpg" data-border="0" data-hspace="10" data-vspace="10" width="150" height="150" alt="Lookin At Yuh?" />\
-> > 1944 -- By unanimous vote, the eyes have it!:\
-> > The first eye bank opens, New York City.\
-> >
-> > []()\
-> > []()\
-> > \
-> > 1949 -- England: First launderette opens in Bayswater at 184 Queensway: a step forward in the socialisation of domestic labour (albeit within the framework of capitalism).  []()\
-> > []()\
-> > \
-> > <img src="http://deoxy.org/gif/omegas.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="162" height="163" alt="OH?" />\
-> > 1954 -- Rebounding extraordinaire "The Big O" lives. []()\
-> > []()\
-> > \
-> > 1960 -- FDA approves first oral contraceptive pill in U.S. []()\
-> > []()\
-> > \
-> > <img src="http://deoxy.org/gif/mansun.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="158" height="136" alt="ManSun" />\
-> > 1960 -- Federal Communications Commission chair Newton N. Minow speaks at a meeting of National Association of Broadcasters members in Washington D.C. Minow tells the media executives what he thinks of the boob tube (quote):
-> >
-> > > "When television is good . . . nothing is better. But when television is bad, nothing is worse. I invite you to sit down in front of your television set and keep your eyes glued to that set until the station signs off. I can assure you that you will observe a vast wasteland. You will see a procession of game shows, violence blood and thunder, mayhem, violence, sadism, murder and, endlessly, commercials -- many screaming, cajoling and offending. And most of all, boredom."
-> > >
-> > > <http://ecentric.simplenet.com/prisoner.htm>\
-> >
-> > []()\
-> > \
-> > 1962 -- Beatles sign their first contract with EMI Pstlophone, after being turned down at Decca with the infamous *"Guitar bands are on the way out."* []()\
-> > []()\
-> > \
-> > 1963 -- U.S. Air Force launches 400 million tiny copper needles into earth orbit, despite protests they might play havoc with radio & optical astronomical observations. []()\
-> > []()\
-> > \
-> > <img src="http://recollectionbooks.com/bleed/images/army.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="250" height="174" alt="?" />\
-> > 1967 -- US: Cassius Clay (Muhammad Ali) stripped of his heavyweight boxing title after being indicted for refusing to accept induction into the army.\
-> > []()\
-> > []()\
-> > \
-> > <img src="http://recollectionbooks.com/bleed/images/France68/f4med.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="right" width="130" height="158" alt="?" />\
-> > 1968 -- Paris, France.
-> >
-> > Thursday. The Ministry announced that until calm was restored the Sorbonne will remain closed. The students declared that as soon as they reoccupied the Sorbonne they 'would take over the premises & hold discussions day and night on the problems of the university'.\
-> > []()\
-> > []()\
-> > \
-> > 1969 -- New York Times reveals the United States has been secretly bombing Cambodia -- officially a noncombatant, neutral country. []()\
-> > []()\
-> > \
-> > 1970 -- Five days after the Kent State killings, 100,000 march in Washington, D.C. against Vietnam War. About 600 Canadian protesters deface the Peace Arch at the U.S.-Canadian border at Blaine, Washington. []()\
-> > []()\
-> > \
-> > 1970 -- US: American Labor honcho Walter Reuther & His wife May die in an airplane crash.
-> >
-> > > "In May, 1970, within hours of the plane crash that claimed UAW chief Walter Reuther, there was publicly expressed corporate desire for a replacement who could continue to effectively contain theworkers. 
-> > >
-> > > "It's taken a strong man to keep the situation under control," Virgil Boyd. Chrysler vice chairman, told the New York Times. "I hope that whoever his successor is can exert great internal discipline." 
-> > >
-> > > Likewise, "Fortune" bewailed the absence of a strong union in the coalfields in a 1971 article subtitled, "The nation's fuel supply, as well as the industry's prosperity, depends on a union that has lost control of its members."
-> > >
-> > > --- John Zerzan, Organized Labor versus "The Revolt Against Work"
-> > >
-> > > <http://geocities.com/cordobakaf/zerzan.html>\
-> >
-> > []()\
-> > \
-> > 1971 -- Nguyen Thi Co immolates herself in protest of Vietnam War. []()\
-> > []()\
-> > \
-> > 1971 -- Resistance to militarization of Larzac begins with march from Millau to La Cavalerie, France. []()\
-> > []()\
-> > \
-> > 1972 -- Some 2,000 anti-war protesters march from the University of Washington, near Recollection Books present location, to Seattle's Federal Court House, where they make camp. []()\
-> > []()\
-> > \
-> > 1972 -- Canada: Beginning of Quebec General Strike in protest against jailing of three labor leaders, Louis Laberge, Marcel Pepin, Yvon Charbonneau. []()\
-> > []()\
-> > \
-> > <img src="http://lists.village.virginia.edu/sixties/Graphics/Track16/wounded_knee.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="159" height="269" alt="?" />\
-> > 1973 -- End of American Indian Movement occupation of Wounded Knee, South Dakota. Protesters, U.S. sign agreement in which the government agrees to examine Lakota treaty rights; due to to government inaction, surprisingly, the treaty never takes effect.
-> >
-> > > []()\
-> > > []()\
-> > > \
-> > > <img src="http://deoxy.org/gif/zippy.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="124" height="240" alt="DickHead?" />\
-> > > 1974 -- Impeachment hearings against Beloved & Respected Comrade Leader Richard "Tricky Dick" m Nixon begin.
-> > >
-> > > > "The American people deserve to know whether or not their President is a crook."
-> > >
-> > > []()\
-> >
-> > \
-> > []()\
-> > \
-> > ![](http://rking.vinu.edu/images/SACRIFIC.GIF)\
-> > 1977 -- James Jones dies. Wrote From Here to Eternity. Sounds like a lot of writing.
-> >
-> > > "I also learned that in spite of all the training you get & precautions you take to keep yourself alive, its largely a matter of luck that decided whether or not you get killed. It doesn't make any difference who you are, how tough you are, how nice a guy you might be, or how much you may know, if you happen to be at a certain spot at a certain time, you get it.
-> > >
-> > > ---James Jones, letter to his brother, Jeff Jones, from Guadalcanal, January 28, 1943
-> > >
-> > > <http://rking.vinu.edu/j.htm>\
-> >
-> > []()\
-> > \
-> > 1980 -- Russia: Auto workers in Gorky strike to protest food shortages. []()\
-> > []()\
-> > \
-> > 1986 -- Death of Tensing Norgay, alias Sherpa Tensing (1914-1986), famous Nepalese climber. []()\
-> > []()\
-> > \
-> > 1990 -- US Secret Service announces 28 new hacker raids under Operation Sun Devil. []()\
-> > []()\
-> > \
-> > 1993 -- Network for deserters & conscientious objectors (COs) from former Yugoslavia established, Salzburg, Austria. []()\
-> > []()\
-> > \
-> > 1996 -- Examination of the diary of the aviation pioneer Richard E. Byrd shows he never reached the N. Pole on his famous flight in 1926. []()\
-> > []()\
-> > \
-> > 1996 -- El Salvador: In San Salvador six soldiers arrested in slaying of U.S. Church workers. []()\
-> > []()\
-> > \
-> > 1996 -- Germany: German terrorist Ulrike Meinhof commits suicide in jail cell, Stuttgart. She was a member of the "Baader-MeinhofGang," also known as the Red Army Faction, with Andreas Baader.
-> >
-> > anarchist
-> >
-> >  []()\
-> > <http://www.baader-meinhof.com/timeline/1973.html>\
-> > \
-> > 1998 -- England: Transsexual Dana International wins the Eurovision Song Contest, in Birmingham, provoking outrage among many Israelis. []()\
-> > []()\
-> > \
-> > 1999 -- US: Karl Yoneda, aged 92, dies.
-> >
-> > > Come & pick up this goddamn Jap, hes dying anyway he told me, Black recalled in her biography The Red Angel.
-> > >
-> > > He was a bloody mess. The bandages hadnt been changed on his head. Everything was covered with blood.
-> > >
-> > > Whether by some stroke of compassion or just because he didnt want Yoneda dying in custody, Red Squad chief William Hynes called Elaine Black of the International Labor Defense group, whom the cops had dubbed the Red Angel for her tireless work getting strikers out of jail.
-> > >
-> > > As a student Yoneda read the works of Marx & the Russian anarchist Vasily Eroshenko, who was kicked out of Japan in 1921 for his politics & lived in China. Yoneda found passage to China & hitchhiked to Beijing, meeting the blind Russian in 1922. Along the way in the port of Shimonoseki he worked his first job as a longshoreman unloading coal. He studied with the Eroshenko for two months & took dictation, earning his way back to Japan. Later became an organizer for the Communist Party in Los Angeles.
-> > >
-> > >  <http://www.ilwu.org/0599/people_0599.htm>\
-> > > <http://www.well.com/user/sfflier/heroics-aftermath.html>\
-> >
-> >  []()\
-> > \
-> > 1999 -- Chinese people protest at U.S. embassies in Beijing & around the world after the Chinese Embassy in Belgrade is hit in a bungled NATO airstrike. []()\
-> > []()\
-> > \
-> > <img src="http://www.geocities.com/looter92/PanamaMay9.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="130" height="85" alt="?" />\
-> > 2001 -- Panama riots over bus fares injure 20. Fourteen people were shot & six others injured as protesters & police clashed during the worst night of rioting & looting since the 1989 United States invasion, police said. Thousands of stone-throwing students & workers battled with police & looted stores late into the night.\
-> > []()\
-> > []()\
-> > \
-> > <img src="http://tages-anzeiger.ch/ta/?LO=006f0424a6b7c8d900000004000000040000c0533a6861a800000000000100000000000062696c6400000000006b76ec000000000070276811d98e14006b76ec0069c63800702768&amp;MItypeObj=image/jpeg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="180" height="180" alt="?" />\
-> > 2001 -- Switzerland: Demonstration in Zurich between a group of globalization opponents & the police. The police tried to controlthe demonstation with substantial tear gas application & rubber projectiles. <http://tages-anzeiger.ch/ta/taOnlineDossierArtikel?ArtId=65824&dossierid=16&flag=t&rubrikid=220>\
-> > \
-> >
-> > []()\
-> > \
-> > 3000 --
-> >
-> > > "The law, in its majestic equality, forbids both rich & poor to sleep under bridges, to beg in the streets, & to steal bread."
-> > >
-> > > --- Anatole France
-> > >
-> > >  []()\
-> > > <img src="http://www.subgenius.com/bigfist/pics2/pics4/GIFMovies/stolenGIFmovies/alien_wa.gif" data-border="0" data-hspace="10" data-vspace="10" width="80" height="120" alt="?" />
-> > >
-> > > > []()\
-> > > >
-> > > > ------------------------------------------------------------------------
-> > > >
-> > > > anti-CopyRite 2000-3000, more or less\
-> > > > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
-> > > > or send questions, suggestions, additions, corrections to:\
-> > > > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
-> > > >
-> > > > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
-> > > >
-> > > > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
-> > > >
-> > > > anarchist, labor, radical books
-> > > >
-> > > > See also: Anarchist Encyclopedia\
-> > > > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
-> > > > Stan Iverson Memorial Library\
-> > > > http://recollectionbooks.com/siml/\
-> > > > Anarchist Time Line / Chronology\
-> > > > http://recollectionbooks.com/bleed/indexTimeline.htm

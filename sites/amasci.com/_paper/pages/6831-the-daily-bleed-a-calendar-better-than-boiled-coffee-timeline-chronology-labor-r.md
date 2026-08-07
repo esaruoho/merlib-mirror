@@ -1,0 +1,408 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0308.htm
+order: 6831
+reachable_from_entry: false
+images: 15
+internal_links: 0
+extracted: 2026-08-07T17:14:16Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0308.htm`*
+
+Our Daily Bleed...
+ -- 
+Remember now there were others before;
+The sepulchres are full at ford & bridgehead.
+There will be children with flowers there,
+& lambs & golden-eyed lions there,
+& people remembering in the future.
+
+        Kenneth Rexroth,  
+"From the Paris Commune to the Kronstadt Rebellion"
+ (1936), 
+
+
+alt: Cronstadt
+   
+   
+
+
+ -- 
+MARCH 8 -- 
+CARRIE CATT CHAPMAN
+American suffragist leader, proto-feminist educator.
+ 
+INTERNATIONAL WOMEN'S DAY.
+China: FESTIVAL OF THE EARTH GODDESS.
+  
+ 
+  
+
+
+1782 -- US: Glikhikan, a Delaware warrior, murdered & scalped by "white savages" under Beloved & Respected Comrade Leader Col. D. Williamson.   
+   
+
+
+1859 -- Kenneth Grahame (1859-1932) lives. English bank official, writer, author of 
+the Wind in the Willows
+ & ardent eulogiser of picnics. Also published essays, stories & collections of sketches.
+   
+http://www.kirjasto.sci.fi/grahame.htm
+   
+
+
+1862 -- US: Captain Nathaniel Gordon becomes the last pirate to be hung in America.   
+   
+
+
+1890 -- American journalist, novelist, & biographer Gene Fowler lives, Denver, Colorado:
+ 
+"Writing is easy; all you do is sit staring at a blank sheet of paper until the drops of blood form on your forehead."
+   
+   
+
+
+1891 -- US: Crackpot spiritualist fraud Margaret Fox dies, Brooklyn, New York.   
+   
+
+
+1899 -- Eric Linklater (1899-1974) lives. Scottish poet, novelist & historical writer, who began as a poet but gained world fame with the humor novels 
+Juan in America 
+& 
+Juan in China
+.
+   
+http://www.kirjasto.sci.fi/linklate.htm
+   
+
+
+1906 -- Philippines: US occupation troops attack the stronghold of an "unruly" band of hill Moros, mowing the stubborn tribespeople down with a combination of artillery fire & infantry assaults. 
+All these Moros    men, women & children    are slaughtered, whereupon Beloved & Respected Comrade Leader President Theodore Roosevelt, congratulates these brave Americans for, 
+
+"A brilliant feat of arms wherein you...upheld the honor of the American flag."
+
+Asked  to define the age limit for killing, General Smith replied,
+"Everything over ten."
+ 
+Eight years ago, in 1898, philosopher William James & other prominent US  intellectuals formed the Anti-Imperialist League to educate the public on the horrors of US policy in the Philippines. Despite the group's efforts, however, there is no great public outcry, & US destruction & domination of the Philippines continues.
+
+"The major [accused of killing 11 defenseless Filipinos] said that General Smith instructed him to kill & burn, & said that the more he killed & burned the better pleased he would be; that it was no time to take prisoners, & that he was to make Samar a howling wilderness. Major Waller asked General Smith to define the age limit for killing, & he replied "Everything over ten."
+
+
+  
+   
+
+
+1906 -- In 1906 Manifest Destiny was uppermost in American & corporate policy, with the attendent attitutudes towards colonization & subjugation of any non-whites (savages & thus defined, ala Ayn Rand, as without rights) in those areas the US conquered in the name of freedom, democracy & civilization. 
+To charges of brutality in the Phillipine war, Beloved & Respected Comrade Leader Secreatary of War Elihu Root responded,
+
+"The war in the Phillipines has been conducted by the American Army with scrupulous regard for the rules of civilized warfare...with self-restraint & with humanity never surpassed."
+Some links: 
+The World of 1898: The Spanish-American War Home Page
+
+http://lcweb2.loc.gov/ammem/sawhtml/sawhome.html
+
+A Splendid Little War 
+http://www.smplanet.com/imperialism/splendid.html 
+
+William James ...of the New England Anti-Imperialist League. 
+http://userwww.service.emory.edu/~mpajare/james.html 
+
+Mark Twain, William Dean Howells, & the Anti-Imperialist League, 1899-1920, 
+http://www.boondocksnet.com/twain/mt_howel.html
+
+Anti-Imperialism in the United States, 1898-1935 & Sentenaryo/Centennial have moved.
+http://www.boondocksnet.com/ail/zwick98a.html 
+Includes links to the following: Anti-Imperialism in the United States, 1898-1935; BoondocksNet.com Home Page; Centennial Books Historical Graphics Gallery; Mark Twain on the Philippines; Neely's Photographs: Fighting in the Philippines; Sentenaryo/Centennial; Stereoscopic Visions of War & Empire;  "The White Man's Burden" & Its Critics 
+
+See also Howard Zinn's 
+The Twentieth Century: A People's History
+
+
+
+"We have pacified some thousands of the islanders & buried them; destroyed their fields; burned their villages, & turned their widows & orphans out-of-doors; furnished heartbreak by exile to some dozens of disagreeable patriots; subjugated the remaining ten millions by Benevolent Assimilation, which is the pious new name of the musket; we have acquired property in the three hundred concubines & other slaves of our business partner Sultan of Sulu, & hoisted our protecting flag over that swag.
+& so, by the Providences of God -- & the phrase is the government's, not mine -- we are a World Power."
+
+ --- Mark Twain (no WildEyedRadical or murdering anarchist he...)
+
+The war in the Phillipines remains an obscure episode in American history textbooks, & Manifest Destiny resurfaces in future years under a variety of more "sophisticated" guises; following the disasterous Vietnam War, for example, would come "New World Order," "WTO," "War on Drugs'" "War on Terrorism," etc.
+   
+   
+
+
+1908 -- US: Thousands of workers in the NY needle trades (primarily women) demonstrate & begin a strike for higher wages, shorter workday & an end to child labor. Becomes the basis for International Women's Day.   
+   
+
+
+1917 -- February Revolution begins, Russia. Women workers in Petrograd begin economic & political strike, providing the spark.   
+   
+
+
+1920 -- US: Roberto Elia & Andrea Salsedo, anarchists who worked for the Cronaca Sovversiva, are taken into custody by the Department of Justice without a warrant or being arrested. They are beaten until they agree to inform on their fellow anarchists.    
+   
+
+
+1920 -- Russia: After attending a conference of Moscow anarchists Emma Goldman & Alexander Berkman are granted a meeting today with Lenin.
+Goldman and Berkman express concern about the suppression of dissent & the lack of press freedom & propose the establishment of a Russian society for American freedom independent of the Third International. 
+Protests of the arrest & Trotsky's threatened execution of anarchist V. M. Eikhenbaum (Volin) lead to his transfer to Butyrki prison in Moscow & later his release. they then travel to Dmitrov to meet with Peter Kropotkin.
+  
+Source: Emma Goldman Papers
+  
+   
+
+
+1921 -- Grigori Petrovitch Maximov, Russian anarcho-syndicalist, is imprisoned, along with the other members of the NABAT. Not released until autumn, following a hunger strike, when he is expelled from Russia with Voline. 
+See the Anarchist Encyclopedia,
+http://www.eskimo.com/~recall/bleed/sinners/GPMaximov.htm
+alt. sp., Gregory Maximov, G.P. Maximov, G.P. Maximoff, Grigori Maximoff, Grigori Petrovitch Maximoff
+   
+ 
+   
+
+
+1921 -- Russia: Bolsheviks, consolidating their party power over the workers & peasants, begin an air raid on the peaceful population of Kronstadt. The Provisional Revolutionary Committee of Kronstadt appeals by radiotelegram to workers around the world to publicize their plight.
+alt: Cronstadt
+ 
+"The present upheaval at last gives the toilers the opportunity to have their freely elected soviets, operating without the slightest force of party pressure, & to remake the bureaucratized trade unions into free associations of workers, peasants & the laboring intelligentsia. At last the policeman's club of the Communist autocracy has been broken."
+
+  March 8, 1921, "Izvestia Vremennogo Revoliutsionnogo Komiteta (cited, in full, in Paul Avrich's 
+The Anarchists in the Russian Revolution
+)
+  
+http://www.pitzer.edu/~dward/Anarchist_Archives/bright/voline/biography.html
+ 
+  
+
+
+1921 -- Spain: President Eduardo Dato assassinated in Madrid by metallurgists of the CNT, Luis Nicolau, Pedro Mateu, Ramon Castenellas. Dato was in charge of anti-trade-union repression in Barcelona, responsible for several deaths: on 20 January, three imprisoned trade unionists were the first victims of the "law of escape" -- that is, being "set free" only to be shot down moments later.   
+   
+
+
+1931 -- Author John McPhee (
+Giving Good Weight
+) lives,  Princeton, New Jersey.   
+   
+
+
+1935 -- Thomas Wolfe's second novel, 
+Of Time & the River
+, is published to great acclaim.    
+   
+
+
+1936 -- England: Emma Goldman lectures again to the Leicester Secular Society.
+anarchist
+   
+   
+
+
+1941 -- After ingesting a toothpick along with an hors d'oeuvre at a cocktail party, author Sherwood Anderson, 64, dies in Colon, Panama, of the complications of peritonitis.
+   
+http://www.urich.edu/~journalm/sahome.html
+   
+
+
+1944 -- Hseyin Rahmi Grpinar dies in Istanbul. Author of some 50 novels, about 70 short stories, a few unsuccessful plays, & translations of French novels, he was influenced by Alfred de Musset & Guy de Maupassant.   
+   
+
+
+1947 -- American suffragist Carrie Catt Chapman dies, New Rochelle, New York. 
+"Hundreds of women gave the accumulated possibilities of an entire lifetime, thousands gave years of their  lives, hundreds of thousands gave constant interest, & such aid as they could. It was a continuous, seemingly endless, chain of activity. Young suffragists who helped forge the last links of that chain were not born when it  began. Old suffragists who forged the first links were dead when it ended."
+     
+  Carrie Chapman Catt & Nettie Rogers Shuler
+
+  
+   
+
+
+1951 -- The Honeymoon Killers die in electric chair. 
+  
+   
+
+
+1955 -- World Peace Council launches drive to ban all nuclear weapons.   
+   
+
+
+1959 -- In Portland, Oregon, Mel Lyman notes:
+
+ I sit here looking at the kids playing outside & I want to join them...
+   
+Diary of a Young artist
+   
+http://www.trussel.com/lyman/mirror.htm
+ 
+  
+
+
+1964 -- US: Malcolm X announces split with Nation of Islam. 
+When you go to a church & you see the pastor of that church with a philosophy & a program that's designed to bring black people together & elevate black people, join that church!
+If you see where the NAACP is preaching & practicing that which is designed to make black nationalism materialize, join the NAACP. Join any kind of organization -- civic, religious, fraternal, political or otherwise   that's based on lifting ... the black man up & making him master of his own community.
+ Malcolm X, 
+"The Ballot or the Bullet"
+, Detroit
+
+I had blind faith in him. My faith in Elijah Muhammad was more blind & more uncompromising than any faith that any man has ever had for another man. And so I didn't try & see him as he actually was.
+ Malcolm X, Audubon Speech, 15 Feb. 1965
+http://www.nationalmalcolmx.org/
+
+Graphic: "Malcolm X and J Edgar Hoover", by Sue Coe
+
+http://www.graphicwitness.org/coe/prntdate.htm
+  
+ 
+  
+
+
+1964 -- US: First invasion of Alcatraz, by Dakota Sioux who claim the island under the 1868 Sioux Treaty to remind Amerika of more than 600 treaties which have been broken. They offer the government $6.54 for the land, based on the 49 cents per acre which was being currently proposed to be given as compensation for tribal lands stolen from Californian Amerindians. 
+Source: 'Calendar Riots'
+  
+   
+
+
+1967 -- USSR puts its Far East army on alert after Ussuri River clash   with China. 
+Robert Braunwart
+  
+   
+
+
+1968 -- 
+Bill Graham, owner of the Fillmore, San Francisco's legendary rock ballroom, opens Fillmore East in New York City. Opening bill features Albert King, Tim Buckley & Big Brother & the Holding Company.
+   
+   
+
+
+1968 -- 
+Meanwhile, back in the Frisco Bay area,  Cream, James Cotton Blues Band, Jeremy Satyrs, & Blood Sweat & Tears at the Fillmore Auditorium. Over to the Avalon Ballroom is Love, Congress of Wonders, & Sons of Champlin.
+
+Joel Selvin's Tour of San Francisco Rock Shrines
+
+Colin Pringle's History of the Haight-Ashbury
+   
+http://www.sfmuseum.org/hist1/rock.html
+   
+
+
+1970 -- US: About 70 Native American activists briefly occupy Fort Lawton, in first invasion of the disused military base, as the federal government negotiates with the city of Seattle over how to use the surplus military land. 13 arrested. The third attempt results in a three month occupation & the eventual handover of some of land for the permanent establishment of the Daybreak Star Cultural Center.   
+   
+
+
+1971 -- Silent film comedian Harold Lloyd dies.   
+   
+
+
+1971 -- US: Members of the "Citizens Committee to Investigate the F.B.I." break into an F.B.I. office in suburban Philadelphia, & later publish files revealing the existence of the F.B.I.'s COINTELPRO program harassing domestic political dissidents.   
+   
+
+
+1971 -- Canada: The Union of Nova Scotia Indians, claiming immunity under Canada's Indian Act, announces it will no longer pay provincial taxes on Indian lands. 
+  
+   
+
+
+1971 -- Vietnam: Radio Hanoi broadcasts Jimi Hendrix's "Star Spangled Banner".   
+http://www.rockcitynews.com/americanrock/mainstart.html
+ 
+  
+
+
+1973 -- Ron "Pigpen" McKernan, charter Grateful Dead member & the first of three Dead keyboardists to come to a premature end, dies of liver disease caused by his heavy drinking, Corte Madera, California. 
+  
+   
+
+
+1973 -- Mary, Mary, Quite Contrary?: Paul McCartney pleads guilty to charges of growing marijuana outside his Scottish countryside farm, & is fined $240. Paul claims Yoko gave him the seeds & he didn't know what they would grow. Watermelon, Man? 
+http://www.isomedia.com/homes/harpo/gallery/9600/anti-prohibition_1of1.html
+  
+http://www.seattlehempfest.com/
+ 
+  
+
+
+1976 -- France: Robert Touati, a French anarchist active in Centro Iberico around 1974, & Juan Durran Escriban, wanted in Spain for an attack on an armory, are both killed on the grounds of Toulouse University during the night of 8/9 March.
+Police claim they are members of GARI (Groups of International Revolutionary Action") & responsible for a series of anti-Franco actions in Southern France. 
+   
+http://au.spunk.org/library/writers/meltzer/sp001591/app1.html
+   
+
+
+1982 -- US: Little Deuce Coup?  Two high school boys with ambition to be mercenaries, arm themselves & attempt a military "coup d'etat" at their high school.   
+   
+
+
+1982 -- South Africa: Cathedral occupied for fast for right to live in "white areas," Cape Town.   
+   
+
+
+1983 -- Israel: 40,000 rally against war in Lebanon, organized by Peace Now, in Tel Aviv.   
+   
+
+
+1983 -- Italy: La Ragnatela (Spider's Web) Women's Peace Camp created at Comiso, Sicily, the first overseas site for U.S. cruise missiles. 
+  
+   
+
+
+1983 -- US: Beloved & Respected Comrade Leader acting President Reagan tells a national convention of evangelicals that the Soviet Union is "the focus of evil in the modern world ... an evil empire." Says historian Henry Steele Commager: 
+"It was the worst presidential speech in American history, & I've read them all."
+   
+   
+
+
+1985 -- Women from Eastern & Western Europe invite all citizens to sign petition for denuclearization.   
+   
+
+
+1987 -- US: Wampanoag tribe of Gay Head, Mass. gain federal recognition.   
+   
+
+
+1988 -- US: Ten arrested in police raid on Union of the Homeless tent city, Albuquerque, New Mexico.   
+   
+
+
+1988 -- US: Soap opera scriptwriters' strike. 
+Source: 'Calendar Riots'
+  
+   
+
+
+1993 -- Germany: Women's Strike Day in cities across the nation protesting anti-abortion court ruling. 
+  
+   
+
+
+3500 -- 
+ 
+"Nunca nada cambia a menos que lo hagamos cambiar"
+ Los Crudos
+  
+ 
+  
+
+
+4000 -- 
+   
+   
+ 
+anti-CopyRite 2000-3000, more or less
+ Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),
+ or send questions, suggestions, additions, corrections to:
+ 
+ BleedMeister David Brown
+Visit the complete
+ Daily Bleed Archives
+The Daily Bleed is freely produced by 
+Recollection Used Books
+ anarchist, labor, radical books
+See also: Anarchist Encyclopedia
+http://recollectionbooks.com/bleed/gallery/galleryindex.htm
+Stan Iverson Memorial Library
+http://recollectionbooks.com/siml/
+Anarchist Time Line / Chronology
+http://recollectionbooks.com/bleed/indexTimeline.htm

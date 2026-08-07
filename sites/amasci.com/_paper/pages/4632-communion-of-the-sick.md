@@ -1,0 +1,47 @@
+---
+title: "Communion of the Sick."
+source_domain: amasci.com
+source_path: ~lhowell/bcp1662/occasion/sick_communion.html
+order: 4632
+reachable_from_entry: false
+images: 10
+internal_links: 8
+extracted: 2026-08-07T17:11:30Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Communion of the Sick.
+
+*Source page: `~lhowell/bcp1662/occasion/sick_communion.html`*
+
+## The Communion of the Sick.
+
+------------------------------------------------------------------------
+
+*Forasmuch as all mortal men be subject to many sudden perils, diseases, and sicknesses, and ever uncertain what time they shall depart out of this life; therefore, to the intent they may always be in a readiness to die, whensoever it shall please Almighty God to call them, the Curates shall diligently from time to time (but especially in the time of pestilence, or other infectious sickness) exhort their Parishioners to the often receiving of the holy Communion of the Body and Blood of our Saviour Christ, when it shall be publickly ministered in the Church; that so doing, they may, in case of sudden visitation, have the less cause to be disquieted for lack of the same. But if the sick person be not able to come to the Church, and yet is desirous to receive the Communion in his house; then he must give timely notice to the Curate, signifying also how many there are to communicate with him, (which shall be three, or two at the least,) and having a convenient place in the sick man's house, with all things necessary so prepared, that the Curate may reverently minister, he shall there celebrate the holy Communion, beginning with the Collect, Epistle, and Gospel, here following.*
+
+*The Collect*
+
+**<img src="../images/a_big.gif" data-align="LEFT" width="57" height="54" alt="A" />LMIGHTY**, everliving God, Maker of mankind, who dost correct those whom thou dost love, and chastise every one whom thou dost receive: We beseech thee to have mercy upon this thy servant visited with thine hand, and to grant that he may take his sickness patiently, and re- cover his bodily health, (if it be thy gracious will;) and whensoever his soul shall depart from the body, it may be without spot presented unto thee; through Jesus Christ our Lord. *Amen*.
+
+*The Epistle.* Heb 12. 5.
+
+**<img src="../images/m_small.gif" data-align="LEFT" width="47" height="36" alt="M" />Y** son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him. For whom the Lord loveth he chasteneth; and scourgeth every son whom he receiveth.
+
+*The Gospel.* St. John 5. 24.
+
+**<img src="../images/v_small.gif" data-align="LEFT" width="37" height="37" alt="V" />ERILY**, verily I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life.
+
+*After which the Priest shall proceed according to the form before prescribed for the holy Communion, beginning at these words* \[[Ye that do truly,](../communion/index.html#YeThatDoTruly) *&c.\]*
+
+*At the time of the distribution of the holy Sacrament, the priest shall first receive the Communion himself, and after minister unto them that are appointed to communicate with the sick, and last of all to the sick person.*
+
+*But if a man, either by reason of extremity of sickness, or for want of warning in due time to the curate, or for lack of company to receive with him, or by any other just impediment, do not receive the Sacrament of Christ's Body and Blood, the Curate shall instruct him, that if he do truly repent him of his sins, and stedfastly believe that Jesus Christ both suffered death upon the Cross for him, and shed his Blood for his redemption, earnestly remembering the benefits he hath thereby, and giving him hearty thanks therefore, he doth eat and drink the Body and Blood of our Saviour Christ profitably to his Soul's health, although he do not receive the Sacrament with his mouth.*
+
+*When the sick person is visited, and receiveth the holy Communion all at one time, then the Priest, for more expedition, shall cut off the form of the Visitation at the Psalm* \[In thee, O Lord, have I put my trust *&c\] and go straight to the Communion.*
+
+*In the time of the plague, sweat, or such other like contagious times of sickness or diseases, when none of the Parish or neighbors can be gotten to communicate with the sick in their houses, for fear of the infection, upon special request of the diseased, the Minister may only communicate with him.*
+
+------------------------------------------------------------------------
+
+**[<img src="../images/buttons/previous.gif" data-border="0" width="82" height="30" alt="[Previous Page]" />](sick_visit.html)[<img src="../images/buttons/contents.gif" data-border="0" width="80" height="30" alt="[Contents]" />](../intro/contents.html)[<img src="../images/buttons/next.gif" data-border="0" width="57" height="30" alt="[Next Page]" />](burial.html)[<img src="../images/buttons/help.gif" data-border="0" width="57" height="30" alt="[Help]" />](../notes/help.html)[<img src="../images/buttons/search.gif" data-border="0" width="67" height="30" alt="[Search]" />](../notes/search.html)[<img src="../images/buttons/directory.gif" data-border="0" width="82" height="30" alt="[Directory]" />](../directory.html)[<img src="../images/buttons/home.gif" data-border="0" width="65" height="30" alt="[Home]" />](../index.html)**

@@ -1,0 +1,85 @@
+---
+title: "December 2nd"
+source_domain: amasci.com
+source_path: ~ouija/edsel_06.htm
+order: 5686
+reachable_from_entry: false
+images: 10
+internal_links: 2
+extracted: 2026-08-07T17:12:51Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# December 2nd
+
+*Source page: `~ouija/edsel_06.htm`*
+
+**Suspension Installation**
+
+<img src="edselpics/kinda.gif" data-border="0" width="325" height="160" />\
+*Click the picture above to hear an old radio jingle for the 1958 Edsel!*
+
+The old suspension gets a face lift
+
+|  |  |  |  |
+|----|----|----|----|
+| <img src="edselpics/04_arms_1.JPG" data-border="0" width="230" height="156" /> | <img src="edselpics/06_frame_front.jpg" data-border="0" width="231" height="155" /> | <img src="edselpics/05_susp_front_01.jpg" data-border="0" data-align="right" width="167" height="155" /> | <img src="edselpics/04_frame_clean_2.JPG" data-border="0" width="232" height="156" /> |
+
+**March 21st, Friday 2003:** I ordered the leaf springs today as well as the motor and transmission mounts...nice to be able to get replacement springs, it looks like the shock mount on the drivers side was missing for a long time, the spring was nearly flat.  I ground off what was left of the patch job someone did to "make" a shock mount, two broken pieces of brake drum welded to the rear frame with a drilled hole for the shock (which was also snapped off), so this thing was without a rear shock for a long time...hence the terrible lean in the rear when she first arrived (or was it he...?).
+
+|  |  |
+|----|----|
+| **March 22nd, Saturday 2003:** I ended up dragging my hind end out of sickness on the couch before the tube of glowing goodness and went out to the driveway to install the shiny new sway bar.  At least it matches the shocks.  There was a fifteen minute break in the rain today, just enough to put the bar on.   | <img src="edselpics/08_edsel_susppass.jpg" data-border="0" data-align="left" width="364" height="398" /> |
+
+**March 23rd, Sunday 2003:** Got a call today from Kanter, they can't get the motor mounts anymore however, they can take my originals and re-vulcanize them, yes, so I sent them off to get rubbered along with the transmission mount.  It will be interesting to see how they turn out.
+
+**March 25rd, Tuesday 2003:** Sent off the motor mounts and tranny mount today to get re-rubbered!  Yes, it will be nice, especially since the driver side mount has no rubber on it at all!  No sign of the leaf springs...did get some odd news though, the spring maker said that the car should have seven leaves on a spring, mine only had six...so I guess as long as they sit and look the part, seven will do.
+
+**March 31st, Monday 2003:** Some bad news today, Kanter can't re-vulcanize the motor mounts, someone there told the salesman that they could so I sent the mounts back east and today they realized they couldn't...they had no suggestions as to where to send them.  "PARTS CHALLENGE"!!  Okay, Napa doesn't have them (surprised at that, I expected them to, they usually accept the challenge and make it), Autozone doesn't have them (they're new to the area and are just getting to know their books), Schuck's grumbled when I came in, "Oh the Edsel Guy..." they chorused.  Their computers only go back to 1960 and they balked when I asked them to look through their books, ..."what, you mean you want to work to look up your parts!  bah..." so they failed to. 
+
+Good thinking on my part brought me to <http://www.edsel.com> and there they have a great listing of Edsel Parts Suppliers and score, found the resources there (it is fun to see the faces of these parts guys when I tell them what I need...sometimes they surprise themselves when they find the part).  I will be sending the mounts to **Metro Rubber** {<http://www.metrommp.com>}as soon as they arrive back from Kanter, they'll do the re-vulcanizing.  I am going to send my steering box in, it works fine but has a leak, so **Pro Steering** in Oregon will help there {<http://www.prosteering.com/>...boxed up the unit and will send it here in a day or two, they told me that they didn't have any on the shelf (go figure) but they could rebuild mine in one or two days.
+
+<table data-border="1" width="101%">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="46%"><strong>Friday April 4th, 2003:</strong> I am going to have to find a stud for one of the rear axles...since one is missing I will replace it along with the one to the left and right, a recommendation of a mechanic for safety...still waiting for the leaf springs, maybe they'll be here tomorrow...probably not..sigh...its raining again! I guess that is why it's called spring and something about April showers... 
+<p>Yes this is me looking tired of the rain.  In the background you can see the very hefty E-410...ah sweet power.  If it ever stops raining maybe I can get somewhere on this project.</p></td>
+<td width="56%"><img src="edselpics/06_frame_rearend.jpg" data-border="0" width="478" height="317" /></td>
+</tr>
+</tbody>
+</table>
+
+\
+**Saturday April 5th, 2003:** Disappointing news today...in order to do the four wheel disk brakes on the Edsel, I would have to pay a tremendous amount of money over the kit I would have bought from MPBrakes. Turns out that the bolt pattern is odd on the Citation and would require a much larger investment of money on my part and frankly, nope. Heck, the drums are about the same as those on my 3/4 ton truck, and that can stop several tons well...enough for the Edsel. So with that said, I reluctantly went back to original...I guess for purists this is a hurrah. So I spun the drums, cleaned and polished parts and ordered new wheel cylinders all round. Kanter Automotive (http://www.kanter.com) supplied the lot including a great brake overhaul kit with all new shoes and misc trinkets. Cleaned up the Transmission mount cross bar and replaced a spring that looked like a rusted spaghetti noodle. A break in the weather would be nice, I have few things I need to install on the frame...sigh.\
+\
+**Sunday April 6th, 2003:** Woke up late, daylight savings hit our house in a sneaky way...sunshine, yes! \[PARTS CHALLENGE\]!! Okay here we go, inner seals and wheel bearings for inner and outer. Lets try Schucks. When I arrived, the counter folk that normally greet me with a grimace weren't there. A tattooed man greeting me and I asked him for the parts: Didn't flinch at all. He looked up the parts, asked me if I wanted the cheap ones or the good ones, I said good. He reached for a ladder, walked down a parts isle littered with thousands of small boxes holding all sorts of mysteries...and produced a full set of bearings and seals. I was surprised but the counter guy was pretty cool about it...I let him know about the Parts Challenge that I do and I had to reassure him I was buying the parts, not just putting him through a test. He was a good sport, so, Schucks is one by up. \
+\
+**Tuesday April 8th, 2003:** The leaf springs arrived today, I guess these things don't get boxed and are shipped naked. They look nice, the originals had six thick leaves, the replacements have seven thinner leaves but the total thickness is about the same. Maybe tonight I can get the rear-end back under the car...I have new U-Bolts thanks to the local Napa they survived that \[PARTS CHALLENGE!!!\] very well...they usually do. I am learning a lot about automotive parts distributors...hey, new thing. Autozone just put a shop here in town. I have seen there commercials for a long time on TNN and have wondered why they aren't around here but now I guess I have my answer...I wonder how they would take to a \[PARTS CHALLENGE!!!\] hehehe. Still haven't got my original motor mounts and tranny mounts back from Kanter...I am getting a little worried.\
+
+|  |  |
+|----|----|
+| <img src="edselpics/06_frame_rearend_springs.jpg" data-border="0" width="551" height="367" /> | **Wednesday April 9th, 2003:** Worked on the rear end today, bolted on the springs and wheeled the rear under the frame...remembered that I broke a bolt or two removing the leaf springs so I quickly ran to True Value about two blocks away and got some replacements.  The springs and rear look much better under the frame rather than sitting in the garage.  Turns out that I was sent the wrong bushings for the rear shackles...the lower insert that fits into the spring was right but the upper bushings I was sent were fart to large and narrow to work.  I left a voicemail for Kanter's Customer Service...still haven't seen my motor mounts.  At least it didn't rain on me. |
+
+**Thursday April 10th, 2003:** A rock busted my front windshield today on the way into work so I had to take care of that during the afternoon and that ate up my night...it's about 7:30 now and things are back to normal...\[PARTS CHALLENGE!!!\].  Tried out Autozone, they tried their best to find the upper shackle bushings however no go...kind of.  What they did find was the kit, upper and lower along with the hardware, the shackle itself but the catch was that their vendor was out of stock which meant they could not order me the part.  They were kind enough to point me to [www.rareparts.com](http://www.rareparts.com) where they order their parts from and also gave me the part number...they did exhaust themselves with about an hours worth of looking but to no avail...due to their corporate policy, they could only order from their vendor, not the manufacturer, so if the vendor was out and the manufacturer had a thousand in stock, I would still be out of luck.  Their policy (which they agreed with) should be more flexible, heck, why couldn't they just order the part from the wholesale manufacturer, have it overnighted and had me pay shipping...a company worth anything customer focused would have done that.  I don't blame the folks there, they tried harder than Napa or Schuck's combined.  SO even though they failed, in a sense they succeeded.  So I am off to Rareparts (over the internet) to see if I can get the kit.  Kanter's customer service folk (yes they have just one) hasn't gotten back to me in nearly two weeks so I am having to resort to a lot of local foot traffic and internet scouring.  The Shackle kit part number is DC-35443 for the Citation/Corsair and covers lower and upper bushings along with the metal brackets and bolts, very slick, and for about 30 bucks.  Nice.
+
+**April 12th, Saturday 2003:** For once a sunny morning! Okay best get to work. Today I was able to put the brakes on the front, new bearings, springs, wheel cylinder...and adjuster...uh, hmmm...it appears that I have only one set of automatic brake adjusters? For giggles I removed the rear wheels and drums (something I hadn't done yet). Both of the rear tires were missing all of the auto-adjustment hardware too. Looks like whoever was the caretaker of the car thought nothing of maintenance. What probably happened was it was taken in for a brake job sometime around 1960 and the guy doing the work said, "What the heck is all this crap?" and removed the cable, adjuster plate, and pivot. Who knows. Luckily, when I was in Idaho a couple of years ago, I bought a box of brake parts and I was able to cough up the necessary parts to return the brakes to their auto-adjusting status. So with the day ending I was able to finally complete the front and put a pair of cruddy tires on it to at least allow me to move it around. Until tomorrow...hope the weather holds. \
+\
+**April 13th, Sunday 2003:** Sunny again and warm too...today I got a chance to get to the rear-end. Again I found the condition of the rear brakes awful. The auto-adjusters were missing along with a wheel stud on the drivers side. The drum came off the passenger side fine, it should have, there were brake shoes in there but no lining, the shoes were adjusted all the way out and the metal was used against the drum...and long enough to destroy the drum roundness and finish. Luckily I have two spare rear drums I picked up in Idaho a couple of years ago, freshly turned and in plastic. The drivers drum still had shoes in it however they had rusted solid to the drum, it looked as if a few of the internals fell apart and joined the dust and goo in the brake drum bottom and created a solid rust mass. With a hammer and other nameless tools I was able to break the brake drum free (hehehe). With the threat of rain this evening I completed at least one of the rear tires with new brakes, bearings, seals, the works, and the autoadjuster too. Worked great. Hanging it up for a few days, the week is upon me. Nite.
+
+**April 17th, Thursday 2003:** Of course it was sunny and nice all day during work and lunch at the waterfront...and when I got home it rained all evening...yup figures.  I was able to get the rear brake lines run...need to setup the front and connecting ones now.  Getting close to mounting the engine and tranny back on the frame.
+
+|  |  |
+|----|----|
+| <img src="edselpics/08_frame_rear.jpg" data-border="0" data-align="right" width="525" height="268" /> | <img src="edselpics/08_edsel_frame.jpg" data-border="0" data-align="left" width="503" height="268" /> |
+
+**April 18th, Friday 2003:** Off to Norwescon for the weekend (A Sci-Fi convention at the Sea-Tac Airport Double Tree Inn)...live long and prosper...
+
+**April 21st, Monday 2003:** The motor mounts finally arrived so I will be sending those off to a company that I caught off guard with the request.  They mentioned that it was not their normal thing to do but they would do this one off re-vulcanize of the motor mounts...yeah!  I also mentioned the site to them and they said that if I wanted I could show their link however, I was to remind folks that they are not in the business of motor mounts however, if another citation set is requested of them, the work they do for me will set them up with the ability to do them in the future (I guess they need to make special jigs and holders to work the mount correctly, these items they'll keep around)...so if you are desperate and need a set done...well...we'll see how they turn out first.  I'll let you know who they are once I get them back.  Oh the suspense is killing me!  uh huh...
+
+**April 22nd, Tuesday 2003:** Nice day out once I got home so I was able to get the front lines run as well...an important note here, make sure you include a copper washer between the hose fitting and any brass block, the copper is soft and will seal the joint nicely and preserve the threads and fit of the hose to block.  Getting ready to ship the power steering valve and the piston down to Oregon for a rebuild at ProSteering...their work is great, they did my steering box and it turned out great.
+
+\<[HOME](edsel_main.htm)\>\<[NEXT](edsel_07.htm)\>

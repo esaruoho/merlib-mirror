@@ -1,0 +1,664 @@
+---
+title: "Myth #9 MAC26X NOT RACABLE - PHRF, IRC, ISAF and US Sailing"
+source_domain: amasci.com
+source_path: ~mighetto/p09.htm
+order: 5070
+reachable_from_entry: false
+images: 48
+internal_links: 17
+extracted: 2026-08-07T17:12:03Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Myth #9 MAC26X NOT RACABLE - PHRF, IRC, ISAF and US Sailing
+
+*Source page: `~mighetto/p09.htm`*
+
+<span id="Top"></span>
+
+# Cruising Log of the Murrelet
+
+<table data-cellspacing="0" data-cellpadding="0" width="100%" data-border="0">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: right;"><table data-cellspacing="0" data-cellpadding="0" data-border="0">
+<tbody>
+<tr>
+<td width="11" data-bgcolor="#cccc99" height="19"><img src="slant.gif" data-border="0" width="11" height="20" /></td>
+<td data-valign="center" data-bgcolor="#cccc99"><a href="murrelet.htm" class="OnTab" target="_top">Main</a></td>
+<td width="10" data-bgcolor="#cccc99" height="19"><img src="rightcurve.gif" data-border="0" width="10" height="19" /></td>
+<td width="10" data-bgcolor="#cccc99" height="19"><img src="oc_leftoverlap_off.gif" data-border="0" width="10" height="19" /></td>
+<td data-valign="center" data-bgcolor="#cccc99"><a href="p01.htm" class="OffTab" target="_top">CB</a></td>
+<td data-bgcolor="#cccc99" height="19"><img src="rightcurve.gif" data-border="0" width="10" height="19" alt=" " /></td>
+<td width="10" data-bgcolor="#cccc99" height="19"><img src="oc_leftoverlap_off.gif" data-border="0" width="10" height="19" /></td>
+<td data-valign="center" data-bgcolor="#cccc99"><a href="p02.htm" class="OffTab" target="_top">FB</a></td>
+<td data-bgcolor="#cccc99" height="19"><img src="rightcurve.gif" data-border="0" width="10" height="19" alt=" " /></td>
+<td width="10" data-bgcolor="#cccc99" height="19"><img src="oc_leftoverlap_off.gif" data-border="0" width="10" height="19" /></td>
+<td data-valign="center" data-bgcolor="#cccc99"><a href="p03.htm" class="OffTab" target="_top">Fast</a></td>
+<td data-bgcolor="#cccc99" height="19"><img src="rightcurve.gif" data-border="0" width="10" height="19" alt=" " /></td>
+<td width="10" data-bgcolor="#cccc99" height="19"><img src="oc_leftoverlap_off.gif" data-border="0" width="10" height="19" /></td>
+<td data-valign="center" data-bgcolor="#cccc99"><a href="p04.htm" class="OffTab" target="_top">Size</a></td>
+<td data-bgcolor="#cccc99" height="19"><img src="rightcurve.gif" data-border="0" width="10" height="19" alt=" " /></td>
+<td width="10" data-bgcolor="#cccc99" height="19"><img src="oc_leftoverlap_off.gif" data-border="0" width="10" height="19" /></td>
+<td data-valign="center" data-bgcolor="#cccc99"><a href="p05.htm" class="OffTab" target="_top">Keel</a></td>
+<td data-bgcolor="#cccc99" height="19"><img src="rightcurve.gif" data-border="0" width="10" height="19" alt=" " /></td>
+<td width="10" data-bgcolor="#cccc99" height="19"><img src="oc_leftoverlap_off.gif" data-border="0" width="10" height="19" /></td>
+<td data-valign="center" data-bgcolor="#cccc99"><a href="p06.htm" class="OffTab" target="_top">Ballast</a></td>
+<td data-bgcolor="#cccc99" height="19"><img src="rightcurve.gif" data-border="0" width="10" height="19" alt=" " /></td>
+<td width="10" data-bgcolor="#cccc99" height="19"><img src="oc_leftoverlap_off.gif" data-border="0" width="10" height="19" /></td>
+<td data-valign="center" data-bgcolor="#cccc99"><a href="p07.htm" class="OffTab" target="_top">Point</a></td>
+<td data-bgcolor="#cccc99" height="19"><img src="rightcurve.gif" data-border="0" width="10" height="19" alt=" " /></td>
+<td width="10" data-bgcolor="#cccc99" height="19"><img src="oc_leftoverlap_off.gif" data-border="0" width="10" height="19" /></td>
+<td data-valign="center" data-bgcolor="#cccc99"><a href="p08.htm" class="OffTab" target="_top">Tall</a></td>
+<td data-bgcolor="#cccc99" height="19"><img src="rightcurve.gif" data-border="0" width="10" height="19" alt=" " /></td>
+<td width="11" data-bgcolor="#316592" height="19"><img src="slant.gif" data-border="0" width="11" height="20" /></td>
+<td data-valign="center" data-bgcolor="#316592"><a href="p09.htm" class="OffTab" target="_top">Race</a></td>
+<td data-bgcolor="#316592" height="19"><img src="rightcurve.gif" data-border="0" width="10" height="19" alt=" " /></td>
+<td width="10" data-bgcolor="#cccc99" height="19"><img src="oc_leftoverlap_off.gif" data-border="0" width="10" height="19" /></td>
+<td data-valign="center" data-bgcolor="#cccc99"><a href="p10.htm" class="OffTab" target="_top">Lean</a></td>
+<td data-bgcolor="#cccc99" height="19"><img src="rightcurve.gif" data-border="0" width="10" height="19" alt=" " /></td>
+<td width="10" data-bgcolor="#cccc99" height="19"><img src="oc_leftoverlap_off.gif" data-border="0" width="10" height="19" /></td>
+<td data-valign="center" data-bgcolor="#cccc99"><a href="p11.htm" class="OffTab" target="_top">Ocean</a></td>
+<td data-bgcolor="#cccc99" height="19"><img src="rightcurve.gif" data-border="0" width="10" height="19" alt=" " /></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+|                                                             |
+|-------------------------------------------------------------|
+| <img src="" data-border="0" width="1" height="9" alt=" " /> |
+
+|     |     |
+|-----|-----|
+|     |     |
+
+### \#9 MAC26X NOT RACEABLE - PHRF, IRC, ISAF and US Sailing
+
+<table data-cellpadding="0" data-cellspacing="0">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr data-valign="top">
+<td style="text-align: left;">[<a href="murrelet.htm">First Pg</a>] [<a href="p10.htm">Next Pg</a>] [<a href="p08.htm">Prior Pg</a>] [<a href="p11.htm">Last Pg</a>]
+<div data-align="center">
+&#10;</div>
+<p><span id="PubSt2F"></span></p></td>
+<td><p><span id="PubSt2F"> Mac26x owners who come from a power boating background (like myself) are certainly interested in speed. Hence the attraction to 50hp motors and 20+ MPH under power. In my sailing area there are 300 Mac26x boats. With 5,000 Mac26x boats world wide there should be excellent one design Mac26x racing at several locations. <a href="http://www.lewmar.com:591/cgi/FMPro?-db=Winches.fp3&amp;-lay=CGI&amp;-error=winchfeature_stand.htm&amp;-format=winchfeature_stand.htm&amp;-token=12604911&amp;-view">Lewmar winches</a> and Doyle sails are standard on the vessel and dealer packages may include <a href="http://www.boomkicker.com/bk_feat.htm">boom kickers.</a> Mine did. The boats also come with a back stay standard. Unlike the Mac26M, the manufacturer views racing as one of the recreational activities for which Mac26x vessels are intended. Good winches, back stays, and boom kickers are all performance items that support racing.</span></p>
+<p><span id="PubSt2F">In June of 2001 almost 30 Mac26x cruisers gathered in Liberty Bay (DogFish Bay) in Washington State to learn about racing and compare vessels. But there really wasn't enough wind to race. Hence in 2002 the rendezvous was held at Friday Harbor where there usually is enough wind to reef, and was. Click on the picture to the left to start a slide show. Hold your mouse over the slides to display captions.<br />
+</span></p>
+<p>To search this site enter a word or phrase below:</p>
+<table data-border="0" width="80%" data-cellpadding="5">
+<tbody>
+<tr>
+<td>     </td>
+</tr>
+</tbody>
+</table>
+<div data-align="center">
+<div data-align="center">
+&#10;</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+![HOPE ISLAND RACE 2004 believe it, Mac26x cruisers can finish with the race fleets. On this race Murrelet finished about an hour faster than expected and initially recorded.](wow.jpg)
+
+> *"There have been arguments for years about the advantage of learning to sail in a small boat, but there's never been any question in my mind that a small boat sailor is always better than one who learned on a larger boat... Sailing schools generally choose keelboats like Solings for a lot of reasons, but not because they are as good as small boats at learning how to sail. Bigger boats carry enough students to make a class viable financially, and students can move around easily to change positions."*\
+>
+> Christopher Caswell in June 2005\
+> [Sailing, pg 10](http://www.sailnet.com/sailing/)
+
+------------------------------------------------------------------------
+
+RaceAbility, CE Marks & Resale Value
+
+\[[Top](#Top)\] \[[Next](#PHRF%20Racing)\] \[[Prev](#Top)\] \[[Bot](#Bot)\]
+
+<img src="speed.gif" data-align="left" width="287" height="69" alt="speed boat" />
+
+While not true with a power boat, raceability - to use a Cardwell term - is a determinant of resale value in sailboats.
+
+All Mac26x owners are at least indirectly interested in racing owing to the related resale value of the power sailer. MacGregor Yachts established itself as a race boat company with the MacGregor 65. The MacGregor 65 Joss in 1985 established a record *that went unbroken 22 years - one of the oldest records in ocean racing [history](http://www.torresen.com/sailing/content_archives/2005_02.php).*
+
+In 1985 Richard and Camille Daniels' MacGregor 65, Joss, boosted by following breezes of 15 to 25 knots most of the way, raced the 1,125 nautical miles from Marina del Rey to Puerto Vallarta in 4 days 23 hours 0 minutes 4 seconds. Average speed: 9 1/2 knots. If you want to bookmark this site just <a href="bookmark" ondragstart="return false" onclick="window.external.AddFavorite(location.href, document.title + 
+&quot;Macgregor Racing.&quot;);
+return false" onmouseover="window.status=&#39;Add to Favorites&#39;" onmouseout="window.status=&#39;&#39;">click here</a> and you'll add it to your favorites list.\
+
+Undoubtedly this reputation contributes to the high resale value enjoyed by Mac26x vessels and confusion regarding the Mac26m which is being marketed as not for racing. For unmarked boats, raceability is also an important factor for blue water cruising. Any used boat that is *advertised by the manufacturer as for racing* is exempt from the (most often presented as absolute) restriction on importing a used boat not put into service in Europe prior to 1998. Racing activity, in combination with US documentation, frees the Mac26x owner from the threat (real or not) of confiscation by EU custom authorities. See [http://www.conformance.co.uk/CE_MARKING/ce_boats_sea.html.](http://www.conformance.co.uk/CE_MARKING/ce_boats_sea.html)
+
+If there is little dealer or manufacturer support for racing, the new boat owner should ensure that the factory CE marks their cruisers prior to taking delivery because there is less potential for exemption from the CE mark rules. Cruising powerboat manufacturers in the US are taking CE marks very seriously to the point of even relocating and retooling complete plants so that European rules are followed. The same care should be taken to preserve blue water cruising potential with a sail boat that is not to be raced as is being taken with US built cruising powerboats. Smaller cruising boats are often transported to major world events such as the Olympics and Americas Cup. *This transportation is not legally possible for an unmarked boat that does not have an exemption.* All, not just EU delivered sailboats, should be marked, *to preserve the possibility of transportation to blue water EU destinations as well as resale value. A cruising sailboat that is banned from use in the Medituranian will have less value than one that is marked.* Only the manufacturer can mark a vessel and it can not be done after a dealer or other owner takes delivery. There is no current mechanism or plans for implementing such a mechanism involving the CE marking of a used boat.
+
+Both the X and M are easially transported should distances to a race exceed what is reasonable for trailering (usually thought to be 250 miles) or the race be overseas.
+
+[<img src="containerX.jpg" data-align="center" alt="two X boats in container" />](container.jpg)
+
+\
+
+The notion that the X was designed from the start for unballasted racing is troubling to dealers and even those controlling MacGregor Yachts today. Because both the X and M are substantially heavier than a sailboat that is not a powersailer, sailing with water ballast in light air is like sailing with an additional 4 to 6 crew members in a contemporary boat.
+
+You are just not going to race competitively in light wind against contemporary sailboats fully ballasted in an X.
+
+To put it into perspective, think about how a MacGregor Classic would do against another Classic weighted down with 300 to 600 lbs of extra fiberglass and a 50 hp engine? It is dumb to even think the weighted boat will better in light wind. AND YET WE SEE FOLKS IN SAN DIEGO AND ON LAKE MEAD DOING THIS by requiring X cruiser's to run full water ballast at all times against much lighter Mac26ds. Talk about rigging the results! Of course the Mac26d's will better Mac26m's and Mac26x's. By weight and sail carried it would be natural for them to come across the line in that order.
+
+# McAllister Creek Race
+
+### February 25, 2006\
+rescheduled from February 4
+
+Shortened at Itsami coming back\
+*Boru* was the RC Boat. Thank you.
+
+***FLYING CIRCUS* was First OA**
+
+    S CLASS    Start Time: 10:00   Distance: 17 nm
+                                                                  Correctd          
+                                                         Finish   Finish   
+    Course   
+    Points Sail No. Yacht Name     Yacht Type     Rating Time     Time     
+    Time     
+    ------ -------- -------------- -------------- ------ -------- -------- 
+    ---------
+      0.75    69399 FLYING CIRCUS  EXPR 37            73 16:20:13 15:59:32   
+    6:20:13
+      2.00     1005 SILVERHEELS    SYN                54 16:19:07 16:03:49   
+    6:19:07
+      3.00    42433 ZEALOT         JBOA 33            93 16:45:34 16:19:13   
+    6:45:34
+
+    B CLASS    Start Time: 10:05   Distance: 10.5 nm
+                                                                  Correctd          
+                                                         Finish   Finish   
+    Course   
+    Points Sail No. Yacht Name     Yacht Type     Rating Time     Time     
+    Time     
+    ------ -------- -------------- -------------- ------ -------- -------- 
+    ---------
+      0.75      115 SLITHER        HOL 20            192 15:46:44 15:13:08   
+    5:41:44
+      2.00    39476 SINGULARITY    MORG 27           204 15:59:44 15:24:02   
+    5:54:44
+      3.00    29462 INATI          RANC 29           201      DNF                  
+
+    D CLASS    Start Time: 10:05   Distance: 10.5 nm
+                                                                  Correctd          
+                                                         Finish   Finish   
+    Course   
+    Points Sail No. Yacht Name     Yacht Type     Rating Time     Time     
+    Time     
+    ------ -------- -------------- -------------- ------ -------- -------- 
+    ---------
+      0.75     3285 POWER SURGE    FARR 36           141 16:47:08 16:22:28   
+    6:42:08
+      2.00     2601 FOURTH CHAKRA  CATA 30           234      DNF                  
+      2.00    29770 DAMN YANKEE    YANK 38           149      DNF                  
+      2.00    39458 RELEAF         PEAR 30           247      DNF                  
+      2.00    39870 SEA DOG        CATA 27           239      DNF                  
+      2.00    47727 ADAGIO         RANC 28           215      DNF                  
+      2.00    69212 HAVIN' SUN FUN USY 27            232      DNF                  
+      2.00    79020 MURRELET       MCGR 26           256      DNF                  
+
+    No Race for A and H Classes, no finishers
+    boats out were:
+    Sail No. Yacht Name     Yacht Type     Rating
+    -------- -------------- -------------- ------
+    A CLASS    Start Time: 10:00   Distance: 17 nm
+        1594 ODYSSEA        CATA 36II         156
+       28415 EDGEWALKER     OLSN 34           121
+       47914 KAITLIN        RANC 32           175
+       51496 PANDORA        CAL 36            165
+       64985 LIBERTY        C&C 35            122
+       69276 ISABELLA C     CHAN 37-1         154
+       69927 BALDER         ERIC 38           125
+    H CLASS    Start Time: 10:00   Distance: 17 nm
+         245 SPARROWHAWK    JBOA 30           139
+       18351 MISS CONDUCT   OLSN 29           105
+       69880 UPROAR         JBOA 80           129
+       83179 HE LIVES       JBOA 92           107
+          79 STRIDER        F9A                27
+
+\
+
+------------------------------------------------------------------------
+
+The above race results are instructive. Murrelet and all but one boat in crusing class (Class D) failed to finish (DNF= Did Not Finish). This was a race that started with moderate wind on the nose which died two hours later against opposing tidal current. The boat in crusing class that did finish has a PHRF rating of close to what an unballasted Mac26x rates using a fixed fin supporting Velocity Prediction Program (VPP). On the return leg this vessel was able to gain enough speed against tide to finish in 7 hours. The race by rules closed after 9+ hours. The instructive part of the race results involve the chess game part of the sport.
+
+Because a single boat in the class finished, all boats get scored. You are not required to finish to get a score and in this case. Murrelet was given a score equivalant to coming in second, even though her crew was enjoying diner and drinks at a warm restaurant while others still struggled with the poor wind and tide conditions
+
+It wasn't until March of 2005 that Mac26x sailors began serious discussions on Sailnet.net about sailing without water ballast. Early in these discusions was the recognition that solid weight could always be added so that sailing in higher than 7 MPH wind speeds with the water ballast tanks empty was possible. This brings up the centerboard controversy and the Sand-baggers.
+
+Sand-baggers were small half-decked boats used for commercial purposes and as party boats by New York sportsmen willing to bet on the races. Wide shallow centerboard craft with huge sails and great beam with two mast steps, one for a sloop rig and one for a cat rig, characterized these movable ballasted racing machines. The movable ballast was in the form of bagged sand and racers would agree before hand if the ballast was to be "brought home" or thrown overboard during the race. They were 18 to 28 feet in length and popular as early as 1855. These were extraordinarily fast boats in smooth water, perhaps like Melges *or J-80s* or Mac26x boats today. However, so that the ballast could be carried out far from centerline, the topsides were flared. This meant that the gunwales could be easily burred in the sea with capsizing being the result.
+
+Because of their speed, boat designers copied the sand-baggers in bigger models that were not crewed by racing professionals and hence became dangerous. It is because of this that the centerboard yacht gained a bad reputation that should have been credited to poor design rather than to inherent qualities of the type. There are vessels using sand bags with shallow keels (not retractable) being raced by professionals through the [Anguilla Sailing Association.](http://www.anguillaregatta2005.com/) *The [Photon 14](http:www.photon14.com) is a centerboard racer similar to a small sand-bagger in that both cat and sloop rigs are supported. These vessels do not use movable ballast and have twin rudders inspired by Open 50 race boats. They are built with solid flotation. (see 2005 June Sailing, pg 49)*
+
+PHRF Racing
+
+\[[Top](#Top)\] \[[Next](#Centerboard%20Slot%20Drag)\] \[[Prev](#RaceAbility)\] \[[Bot](#Bot)\]
+
+Unlike the M, the X model's potential as a racer was recognized shortly after her launch. The manufacturer even oriented its promotional literature around this potential. But racing organizations were reluctant to allow unballasted operation and it really wasn't until 5000 hulls were lauched that serious racers begain to take notice of the X's one-design racing potential. In addition, owners of contemporary racers were reluctant to allow rating of any vessel capable of exceeding hull speed. The redesign of courses to limit planing and surfing oportunities greatly reduced the racability of modern monohulls like the X which are intended to do so.
+
+<img src="raceday.jpg" data-,="" data-align="right" alt="Murrelet racing PHRF" />The newer light racing sailboats that while not capable of planing were capable of surfing discovered a technique of using a tug or ship's wake to make better time. Major events have been won using this technique and it is considered an acceptable tactic giving the crouded waterways upon which races are conducted and the ocurance of waves in nature. Partially owing to this development, in 2004 the rewoking of courses and reluctance to rate vessels like the Mac26x has lessened greatly and with that greatly improved the racability of the X in US waters.
+
+In 2003 the PHRF Seattle Regional Sub-Council proposed a revision to the rating protocol to address water-ballasted boats.
+
+> It was noted that these boats are able to significantly alter their displacement and stability characteristics by dumping ballast water without penalty. Accordingly, a proposal was made to prohibit ballast water dumping during a race. The proposal elicited much discussion but no Motions. It was agreed that the base rating for these boats should be predicated on their optimum speed potential which is presumed to include changes in ballasted configuration during racing. The Council will continue to monitor these boats and adjust their base ratings under review or appeal if warranted.
+
+There have been other rules developed to help us race.
+
+The RRS for 05 - 08 allow you to skull (move your rudders back and forth) to position your vessel to recieve a puff. This particular rule appears to favor tillers over wheel steering. What this means to racers with wheel steering and outboards connected to that steering is that the outboard must be easially disconnected from the steering mechanism and that the helm should be of the rack and pinion type so that skulling is possible. Murrelet has the former design requirement but lacks the later. Mac26x vessels post 2000 were fitted with rack and pinion steering. We believe that skulling may still be possible on Murrelet owing to her dual rudders and a recently installed shorter steering cable and will be experimenting with that in anticipation of the first season to be raced under the 05-08 rules.
+
+<img src="balder.jpg" data-,="" data-align="left" alt="Balder racing PHRF" />The 05-08 rule changes appear to be to be to get more boats with smaller crews onto the race courses and make those races fun even if the wind dies. When the wind dies, crew get restless - they may even force the captain to abandon the race! Sometimes catching just a small puff will get the boat moving and the crew interested and this skulling rule change is designed to do that. Blowing ballast when the wind dies also encourages crew to finish races.
+
+The base rating for a Mac26x *in the Pacific Northwest* assumes no water ballast and has for all Mac26x cruisers rated in 2003. Furthermore, crews of UPTO 10 are being allowed on craft 20 to 30 foot because it is recognized that additional weight can improve performance on some boats. The 1,400 lbs of water ballast in the X is equivalent in weight to at least 8 crew members.
+
+Water ballast has been recognized in PHRF racing as important in reducing average crew size. The addition of movable external ballast tanks to boats that previously did not have them is addressed as a rating adjustment. Any appendage alteration is also an adjustment. Mac26x owners are not being allowed to lift rudders nor will daggerboarded vessels be allowed to lift - even partially - those appendages. All foils must be fully extended. Given that It was agreed that the base rating for water ballasted boats should be predicated on their optimum speed potential which is presumed to include changes in ballasted configuration during racing, I think rudder lifting which like unballasted operation is specifically mentioned by the designer and manufacturer should be allowed. However at this time a rating addjustment will be applied to our kind of craft, should we operate them as intended in that fashion. We have no problems whatsoever in rating as a class.
+
+There has been a concern that the Mac26x did not include a mechanism for dumping water ballast. This of course isn't true. The manufacturer intended the use of an outboard engine for doing that. Since engine operation will not be allowed during a race, we will be allowed to blow water ballast out using a raft inflator - just like the Classics do prior to trailiering. **As movable water ballast comes of age in PHRF racing the Mac26x enters her prime.** As mentioned previously Polish yards have copied the vessel. MacGregor Yachts does not object to this copying. Hence in future years, new 26x boats needed to support racing should be coming off production lines at perhaps more than one manufacturer.
+
+I have yet to find an insurance policy that doesn't specifically point out that sail boat racing is not only covered but encouraged. Still sailboat racing is dying out in the US possibly because there is more than a little bit of frustration with PHRF class ratings. That frustration extends to one-design. The retort when you do not like a rule or proposed PHRF rule is "so if you don't like it go one-design". This kind of retort isn't being cooperative. It just turns potential racers off from racing. Even though there are now 300 X cruisers in Puget Sound, it is believed unlikely that 30 will bother with sail numbers and then half of those will never race. One-design requires either strong manufacturer support or the incubation afforded PHRF.
+
+|  |  |  |  |
+|----|----|----|----|
+| Dimension | Type | Measurement | Description |
+| Rig | I | 22 ' | height to top of jig sheave |
+| \- | J | 10' | horizontal distance front of mast to base of forestay |
+| Main Sail | P | 25' 10" | \- |
+|  | E | 10' 4.75" | \- |
+| \- | HB | 5.75" | the maximum fore and aft dimension of the headboard |
+|  | MGM | 11' 9" | mainsail midgirth. locate midpoints of luff and leach by folding head of sail to the tack and the cluw. Measure between the luff and leach midpoints |
+|  | MGU | 5' 8" | mainsail upper girth. Locate the 3/4 points by folding head of sail to the midgirth measurment points. Measure between luff and leach 3/4 points. |
+| Jib/Genoa | LLJ | 25' 3" | \- |
+| \- | LP | 13' 10" | \- |
+| Spin | LLS | \- | \- |
+| \- | G | \- | \- |
+| \- | SPL | \- | \- |
+| \- | H | \- | height to top of spinnaker sheave |
+
+Murrelet Rig & Sail Dimensions PHRF 2004 {border="2"}
+
+[Practical Sailor](http://www.practical-sailor.com/sample/boatreview2.html) notes in its review of the Mac26x that she has a sail area/ displacement ratio (SA /D) of 19 and a displacement /length ratio (DL) of 138, which "indicate the potential for speed" The Lady Katie Too!, a Mac26x on the 2001 fleet roster of [PHRF Southern California](http://www.phrfsocal.org/), had been given a Year 2001 PHRF rating of 216. Vessels on this roster typically do not use roller furling and have bottoms that are specially prepared for speed, as well as lighter lines, special rigging, and precision tuning. *This low a rating is not appropriate.* The Lady Katie Too! followed in the steps of the first power sailer/ performance motorsailor [(see above)](file:///D:/Marina/Murrelet/test.htm#Lancer), which surprised the yachting world by winning races with speeds not theoretically possible for displacement hulls of similar waterline length. Lady Katie Too! sailed and motored to first in cruising class in the 1997 [Newport to Ensenada Race](http://www.nosa.org/05_races-results.html) becoming infamous. see ([latitude38](http://www.latitude38.com/features/ensenada.htm)) and saddling Mac26x cruisers with a punitive PHRF rating for many years.
+
+In early 2003 my X rated 235 giving the unaltered Classics the rating advantage (higher rating). This is in spite of 7 years of Internet banter claiming the Clasics were faster. The rating recognizes the intent of the designer to move water ballast on and off the vessel during a race, as Lady Katie Too! did in 1997. It will take 10 racing X boats in my area to adjust this rating, though I was successful in getting the rating designated T for Test mode and hagling continues. *In 2004 we took the rating adjustment allowing crew to lift a rudder and obtained a rating of 241. I am not willing to give up spinakker use but did not race with the asymetric in 2004.* My cruiser is far from racing form. Bottom paint, standard main and furling foresail. And the center foil lifting line has not been replaced by a wire to reduce drag. The wire arangement was standard on X cruisers prior to 1998.
+
+- ALREADY IMPLEMENTED
+  1.  Solid and Running Boom Vang
+  2.  High Quility Genoa Sheet (light strong non absorbant)
+  3.  UK Tape Drive Head Sail
+  4.  Mainsail Bolt Rope loosened on luff
+  5.  Single Line Reefing
+  6.  Tell Tails
+  7.  *Rudder disconnect from engine (the 05 08 Racing Rules of Sailing allow you to skull if that will possition your boat for catching a puff to get you going)*
+  8.  GPS and Radar (GPS for VMG and obstructions, Radar for distance to next vessel and to determine if there is gain or loss)
+  9.  Wisker Pole
+  10. Upgrade Bearings on CDI furler
+  11. Wax Rudders and Centerfoil
+  12. Centerfoil Lifting high tech thin line - PBO
+  13. Backstay Adjuster
+- TO BE IMPLEMENTED
+  1.  Mainsail Bolt Rope loosened on foot
+  2.  Sail slide jackline adjustment (so main sail luff is close to mast)
+  3.  Lighter Forestay and Shrouds (PBO?)
+  4.  Double headsail sloop rig
+  5.  Genoa shrouds routed inbetween outer and inner stays
+  6.  High Quality Main Haulyard
+  7.  Tight Genoa Haulyard
+  8.  Cunningham (so tack not needed after haulyard adjustment)
+  9.  Rudder Alignment Bar (so windward foil need not be lifted in normal wind - missaligned rudders creates drag)
+  10. Ballast Valve to Port (as on early models - to allow blowning or taking on ballast while heeled on either side)
+  11. Diver Service to keep Bottom Clean (fast motoring doesn't get it all)
+  12. 600 grit sand bottom paint
+  13. Spray on (rather than roll on) new bottom paint
+  14. Centerfoil lifting plan
+
+Many if not most of the boats that race PHRF have a Tuff Luff which is a foil over the forestay that allows raising one sail while dropping the other. The "pealing" of sails using a Tuff Luff is very common in racing. Pealing describes the replacement of a normal wind foresail with one made of lighter material, such as might be appropriate for ghosting in very light wind or down wind.
+
+Unlike the rounded sections of her predecessors and successors, the 26x has a hard turn of the bilge, which translates to a higher initial righting moment. As explained in the [ballast section](http://www.eskimo.com/~mighetto/p06.htm), water ballasted designs like the Mac26x, where the ballast is located as far outboard as possible, are roughly four times more stable at 10 degrees of heel, three times more stable at 30 degrees, and twice as stable at 50 degrees than similer vessels with weighted centerline keels. The combined factors of hard chine and off centerline water ballast means that when fully ballasted and crewed by four (the recommended number for racing in normal wind) the X will carry a full Genoa in 15-18 knots of wind before reefing the main is required to keep her on her feet. Fully crewed this way an X could have been designed to benefit from a Tuff Luff.
+
+However, the yacht was designed for roller furling Genoas, a rather new rigging innovation when the first X hulls were launched, rather than Tuff Luffs. Roller furling Genoas add convenience and safety for the average number of active crew on a cruising vessel, which is two. *When partially rolled there may be a performance decrease.* However, modern laminated sails can be preserved on rollers where they are damaged each time they are brought down from a Tuff Luff or standard hank on forestay. Because such sails can be as light as the sails peeled for very light wind a Tuff Luff is less beneficial.
+
+My cruiser looks fast and has been observed fast - this was my handicaper's way of saying little leeway will be allowed in the 2004 racing season. He required me to present the sails for formal measurement. BTW, the M was marketed by BWY for a time as a water ballasted or unballasted self righting sail boat. The X's are viewed that way (as they should be.) Several dozen Mac28x crews investigated racing at Poulsbo during the start of the Summer of 2001. Selected photos can be found below
+
+|  |  |
+|----|----|
+| <img src="poulsbo/cassioX.jpg" width="180" height="250" alt="Cassiopia" /> | <img src="poulsbo/rowofX.jpg" width="180" height="250" alt="Row of X" /> |
+| <img src="poulsbo/nowindX.jpg" width="180" height="250" alt="No Wind Race" /> | <img src="poulsbo/fireboat.jpg" width="180" height="250" alt="Murrelet" /> |
+
+I think most of us (Mac26x owners investigating racing ) know that we want to minimize drag.
+
+<span id="Centerboard Slot Drag"></span>
+
+## Centerboard Slot Drag
+
+\[[Top](#Top)\] \[[Next](#IRC)\] \[[Prev](#PHRF%20Racing)\] \[[Bot](#Bot)\]
+
+When the M was introduced, shortly after the Polish copy of the X was splashed (launched), unoficial documents claimed that the M would sail faster than the X owing to the shorter foil slot size. "An open cavity 7 foot long in the bottom of the boat vented or unvented cannot be ignored by the water passing by it. Turbulance is the name of the drag. Drag is slow death for speed" X owners were informed. The M will be faster under motor and sail than the X owing to its shorter slot was the claim. But I don't believe this and while easily proven by towing both vessels weighted similarly and at several heels and speed, such testing has yet to be performed. While the above quote no longer appears on the official web page comparing the X to M there are still unfair comparisons present. Hence further discusion is required.
+
+There is the notion of barrier layer. That gets established at the bow and extends aft. If the open cavity 7' long does not allow for water circulation (IE it is a closed center board cavity rather than open dagger *slot* and is almost water and air tight), that barrier layer would extend over the slot. If the swinging centerboard is retracted the slot is smaller. If fully retracted there is little slot at all (just a portion in front and behind of the retracted board). At slow (less than say 2 mph) there isn't enough drag created to worry about because there isn't enough drag created by the second rudder to worry about. On a heel the effects are also less.
+
+<img src="http://www.eskimo.com/~mighetto/canoe.gif" data-align="right" alt="black area represents form presented to the water at optimum heal" />At some angle of heel the slot is out of the water - I think that is just above 11 degress - IE just inside the optimal heel range. Hence under sail, most of the time, with the exception of direct down wind and while coming off heel to turn, there is no possibility of drag owing to the centerboard slot. If there were turbulance in the slot, I would expect water to be forced in to the interior at the compression pole step where the center foil lifting line is. Furthermore, this slot business just does not apply to an M motoring faster than the X because the board would be retracted fully and there would be little slot. Finally there is Bernoulli's discovery.\
+
+> In the early 1700s, the Swiss scientist Daniel Bernoulli established that changing the velocity of flow of a fluid, such as air or water, at a specific point brings about a consequent inverse change in pressure at the same point. Bernoulli's law led to its application in the venturi effect -- such as when the flow of a fluid in a tube is constricted resulting in increased velocity and decreased pressure - and the development of the curved foil. The most convincing demonstration of the venturi effect is easy to perform in the kitchen. First, run a stream of water from the faucet. Then, dangle a soup-spoon by the tip of its handle and move its convex surface slowly toward the stream. Rather than being pushed away, as your intuition might suggest, it is pulled into the stream.\
+> \
+> - Chapman's Seamanship Under Sail 64th edition page 276
+
+When you turn the spoon described above to its *concave* side, hence representing the X centerboard trunk it is pushed (or lifted) away from the stream. It is likely that the venturi effect on the long X centerboard trunk not only lifts the vessel while on heel but assists in getting the vessel on plane at slower speeds than possible with out it.
+
+Any relative slowness in comparison to the M has to be explaned by the hull form presented to the water *controled by heel, sail trim,* or weight distribution. Anyway it is interesting to note that BWY's findings that a 70 hp is better on the M and will allow her to keep up with the X cruisers could be explaned by chop. The dribbly hulls are known to do better in chop than river hulls. So if X=dribbly and M=river and the course is Lake Union (where chop is natural owing to harbor action) X will win. But if the sea were smooth (like say a nice day in Florida) M and X would match or M might even better. So both observations reported can be explained. These explanations are owing to Frank Bethwaite, whos theories the crew of the Murrelet are now following:
+
+<span id="IRC"></span>
+
+## IRC, ISAF and US Sailing
+
+\[[Top](#Top)\] \[[Next](#Offshore%20Racing%20Congress)\] \[[Prev](#Centerboard%20Slot%20Drag)\] \[[Bot](#Bot)\]
+
+![](tolstart.jpg)
+
+> *"It is true that the class requires a new generation of sailors. Those who sail these boats should be of the NEW GENERATION, because it has proved hard for some of the old school to adapt quickly enough. If the sailing world is ready to accept this fact, then great. If not IT WILL ALWAYS BE A COMPROMIZE."*\
+>
+> Juan Kouyoumdjian in August 2006\
+> [Seahorse, pg 42](http://www.sailnet.com/sailing/)
+
+------------------------------------------------------------------------
+
+In early 2005 it became obvious that IRC would be the new standard for ocean racing in the US. IRC is capable of applying a rating to any mono-hull yacht. In doing so, it respects such features as asymmetric spinnakers, carbon masts, canting keels, and water ballast. The story of IRC racing involves the Mac26x. It appears that objections raised during a [July 2002 drunken boater's case](http://www.burlingtonfreepress.com/specialnews/trial/martin_index.htm) by Jim Teeters were similar to those the US Sailing technical advisor to the grand prix RWP (Rule Working Party) (also Jim Teeters) hoped would forstall or prevent adoption of the movable ballast *and retractable fin* tolerant IRC. IRC is only seven years old but its adoption on a world wide basis for rating ocean racing sailboats has been nothing less then phenominal. **During the next 10 years the greatest advancement in monohull sailing machine technology of all time is expected and hence there is great interest in rating mechanisms that can handle modern designs.**As of March 2005 there had been only one IRC event in the USA but almost all ocean racing bodies had adopted this standard. US Sailing reluctantly began to support IRC and already J24s J80s and Melges24 as well as over 100 other classes of boats have been rated. For questions and the first IRC races in Puget sound contact kurt@mistychula.net. The [Corinthian Yacht Club of Seattle](http://www.cycseattle.org) was the first in Puget Sound to support the new ratings and did so in 2006. To get a history of the rating systems see [handicap](http://www.sailtexas.com/handicaparticlepart2.html) *In the fall of 2006, Rolex placed its support behind IRC. The 2007 season will be the break-out year for IRC, owing to this support.*
+
+By way of background. Jim Teeters, in a move that halted progress in movable ballast production designs in the USA, inappropriately testified in the drunken boater's case.
+
+The judge and jury in the case wondered why he even bothered to come to court when the death of two children on a MacGregor 26x on July 4th 2002 appeared to all, including the parents of the children, to be related to drinking by the operator. The case was recently concluded with the operator getting 7 years or so jail time. The boat was never on trial but owing to Jim Teeters' involvement, and his prominant roll on commitees at US Sailing, it is likely that MacGregor yachts halted production of the Mac26x, *for business insurance cost reasons*.
+
+Production has apparently started back up in [Australia](http://www.mackmanboats.com.au/mackman%20boats%20mach28.htm) and I would like it to proceed again in the US. There are 5000 of these boats world wide and they are the most extensively studied and operated movable balasted vessels in the world because of those numbers. The movement is simply on or off the boat. There is no side to side or forward aft movement. Just on and off, operated fully loaded with ballast or fully unloaded under sail or under power.
+
+Jim Teeters attempted to show a stability design flaw by use of a video. His purpose for doing so appears related to support of the TP52 box rules and IMS, the rating system that has been all but replaced by IRC. That is my theory on his going out of the way to be involved in the case in some manner.
+
+He impeached himself (or convienently changed his mind) by first stating in a deposition that alcohol could have been a contributing factor and then later saying it had nothing to do with the capsize. Had he stuck with his opinion from the deposition, it is unlikly he would have been allowed to testify because the boat was otherwise not on trial. A fellow named Taylor disagreed with Teeters, testifying that there is no design flaw and the boat can be operated safely, and Taylor's expert witness testimony basically devastated the principles Teeters has supported. *See [2 Plus 2 And 4](http://www.eskimo.com/~mighetto/p06.htm#2plus2).* What is most interesting is that I suspect Teeters' court involvement was not against MacGregor Yachts specifically as much as it was to support TP52s and forstall IRC in the US, *The box rules for the TP52s also included plans for smaller ocean racers of Mac26x size.*.
+
+Basically, Teeters likely hoped that a limit of positive stability of 128 determined by mathematics, would be established for future ocean racing designs. The RWP, wishing to encourage movable ballast ocean racing designs, rejected this principle, which I call the Teeter Principle, in part because no vessel with a limit of positive stability of 110 can be knocked down by wind alone.
+
+Of course all vessels in sufficient sea can capsize but the RWP decided that it was the design's ability to be righted - tested via a test pool - that was most important and not the math. Thousands of these Mac26x vessels in operation for half a decade didn't really support Teeters in his arguments for 128 stability and support of the TP52 box rules. *The racing potential for the X cruisers is also of concern to who those would like to be viewed as experts in sailboat design, and develop a 26 foot racer using the TP52 like box rules.*
+
+In a move that shocked no one, *because it protected significant vested interests,* Jim Teeters, in his capacity as [technical consultant to US Sailing's](http://www.ussailing.org/pressreleases/2003/grand%5Fprix%5Frule.htm) delegation to the RWP, orchestrated the US Sailing delegation's walk out from the RWP.
+
+He then founded ORCA in May of 2004 which I believe to be an organization that is as close to fraudulent as you can get because the ORCA name is a name known in ocean racing since the 1970s but that organization has not operated for many years. Hence prospects for TP52s think the design has the blessings of a well established and reputable organization when the current ORCA is recently established and of questionable reputation.
+
+US Sailing coincidentally reorganized Jim Teeters out of his director of research position, or Teeters resigned *possibly* after being asked to, but in any case the situation is that now US Sailing has no representation on the RWP and the only vessel supported by ORCA is the TP52s which are being marketed as TransPacific vessels in spite of the first five being designed specifically for Atlantic Waters.
+
+The TP52s are claimed to be the fastest growing ocean racing design but there will still be under 20 of them by the end of 2005. *This is after 15 years of effort because the concept boat for the TP52 is the Santa Cruise 52. Santa Cruise Yachts went bankrupt during the launch of the SC52 and it took 10 years of regrouping before the first TP52s were launched. Even if you view the TP52 as having but a 5 year production span, the model is now in its fourth generation. The concepts for the TP52 are literally 15 years behind modern monohull technology. Hence new "generations" are launched almost yearly. The new generation obsoletes the old ones which get retired making these vessels the most foolish of all from a financial risk perspective.* The stability requirement of 128 has harmed them on the Vic Maui race but not the West Marine TransPac Fun race where water ballasted vessels of less than 24 foot such as the Mac26x are allowed to enter.
+
+In the March 2005 Seahorse International Sailing, Teeters finally addressed the critisism above. In his letter on page 32 he attemps to justify the Teeter Principle by pointing out that yet another new offshore organization has proposed a suite of box rules similar to ORCA's TP52 rules. Seahorse makes fun of Teeters through out the issue. First there is an article about change on page 45 where Dave Hoolom states that historically "to be a proper yachting authority you have to have your own rating rule" like the TP rules. Teeters clearly wants to be viewed as a yachting authority. He still is on US Sailing's IMS commitee, a committee that oversees now less than 5 races yearly since all the previously IMS races have gone IRC. Second they caption Teeters letter on page 32 with "In defense of orcas..." And third they describe on page 12 the provisional outline for the ORC (Offshore Racing Council) box rules that replace what Teeters supports through ORCA, even providing 26, 32 and 42 foot illustrations, and discussing the significant investment that should be viewed as sunk and lost forever TP52 development costs. Janet Baxter, president of US Sailing is even quoted "I have heard that ORC is considering the box rule concept we proposed a year ago. We were not (at that time) willing to develop a new grand prix rule without including the TP52 class and it looks like our friends (ORC) have heard us" by coming up with a replacement similar set of box rules for those who ignore IRC.
+
+It is important to note that ORC was [created at the end of 2002](http://www.ussailing.org/pressreleases/2002/isafannualmeeting.asp). It is a spin off of US Sailing that is now a separate organization with a representative on the US Sailing Offshore Committee that continues to maintain and manage the IMS rules as well as new ORC rules. This spin off was likely necessary for US Sailing to continue in its role as national authority in the US on the International Sailing Federation (ISAF) Racing Rules of Sailing.
+
+Simply stated, US Sailing in 2002 appeared biased against retractable foils and water and canting ballast *even though ISAF, had altered racing rules 51 and 52 in 1997 to permit moveable ballast and stored energy.* And Jim Teeters prominant position in the US sailing organization made it appear that US Sailing was using its influence, in US courts, rating organizations, and sailing clubs, to promote heavy fixed fin vessels. Such support appeared to include but was not limited to the promotion of windward leeward courses in spite of a predominance of ISAF rules and examples involving courses that also have reaching legs and are favored by crews of the modern design high performance vessels.
+
+ISAF rules regarding biased judgment such as the above made US Sailing appear inappropriate as the final adjudicator of ISAF rules *because after 7 years it appeared unwilling to support the altered rules 51 and 52*. It is to Janet Baxter's credit that the significant changes made at US Sailing at the 2004 [Pacific Northwest Board Meetings](http://www.ussailing.org/bod/FY2004_Board_of_Directors/BODmin20041024.htm) were implemented *to eliminate the top down decision making preventing the organization from supporting movable ballast and retrating foils.* The biases and material weakness in the financial dealings of US Sailing may have been significantly lessoned so that it can continue in its role as national authority to ISAF.
+
+## <span id="Offshore Racing Congress">Offshore Racing Congress</span>
+
+\[[Top](#Top)\] \[[Next](#sense)\] \[[Prev](#IRC)\] \[[Bot](#Bot)\]
+
+In June of 2005 progress was reported to Seahorse International by ORC in the development of a TP52 like box rule for a 26 footer. The 26 footer is to have a bowsprit and is to be crewed by four. Various clubs had apparently been contacted about creating a regatta circuit for the trailerable grand prix 26 foot ocean racers. At about the same time Farr International was dissolved.
+
+Farr International had been owned by Bruce Farr and Russel Bowler and had had influence at the top at US Sailing. The influence of Farr International, in an IRC world, was demonstrated to have been lost by failure to win a bid against Swan to the NYYC about a month earlier. Farr International had previously supported the TP52 box rules and the de-emphasis of the Farr 40s. They had bet and worked strongly against IRC and with that moveable foils and movable ballast and looked forward to Farr 40 owners, and wealthy Corinthians, purchases of new and used TP52s.
+
+Stagg Yachts Inc. now operates the Mumm 30, Farr 36, Farr 395 and Farr 40 interests of the former Farr International and ORC (Offshore Racing Congress) continues with the TP52 interests that lead Jim Teeters, the Director of Research at US Sailing to testify inappropriately in a drunken boater's case that involved a Mac26x. ORC is a spin off of US Sailing. The Mac26x is a movable water ballasted vessel with 5000 hulls and strong potential for offshore racing especially now that an articulating bow sprit has been developed for the model. It is crewed by four when raced, is trailerable and transportable in cargo containers.
+
+We can conclude that plans for what is now the ORC 26 foot ocean racer and the potential of the Mac26x (The Mac26x has been clocked at 17 MPH under sail) were reasons for Jim Teeters interest in testifying. We can also note that this product disparagement against the Mac26x is an actionable item under US law. There is nothing yet known about MacGregor Yachts intentions to recover damages. Production was halted likely owing to Jim Teeters involvement with the apparent support of US Sailing and concern by MacGregor Yachts business insurance carriers or other advisors. But it does appear that Farr Yachts and US Sailing have made organizational changes complementary to protecting themselves from such action. These actions being the dissolution of Farr International and the spinning off of ORC.
+
+Time will tell. The following section predicts smaller Transpac ocean racers.
+
+## <span id="sense">Transpac Racing and Common Sense</span>
+
+\[[Top](#Top)\] \[[Next](#Planing%20Hulls%20vs%20Displacement%20Hulls)\] \[[Prev](#Offshore%20Racing%20Congress)\] \[[Bot](#Bot)\]
+
+The Dorade, a 52 foot yawl designed by Olin Stephens, and the Santa Cruise 70 are two of only 4 vessels to be first to finish, first in class and first overall in the Transpac, a race to Hawaii that has been run regularly since 1906. Study of these two vessels and Common Sense is important in determining the future of yacht design.
+
+### <span id="Dorade">Dorade</span>
+
+The Dorade win in 1936 made Olin and Rod Stephens unusual designs legendary world wide.
+
+Olin in February of 1988 confided in an oral history at Mystic Seaport that Ken Davidson was his mentor in applying science to sailboat design. Davidson was a physics or math professor in 1931 when young Olin first met him. Davidson had taken training in the Navy as well as graduating from Massachusetts Institute of Technology. The Stephens had built Gimcrack S & S (Gimcrack Sparkman and Sparkman) in hopes of getting a one-design class started. Davidson built a model for this vessel and tank tested it, the result being an education for young Olin and also the Gimcrack Coefficients which were applied to the driving and heeling forces of sails and rigs. Olin states about Davidson,
+
+> "I would say the only bad advice he ever gave me was this: I said, 'I don't worry much about the naval architecture, I'm not going to school as a naval architect, but I wish I knew more about calculus.' He said. 'Oh, you can always get someone to do that for you." (laughter) Since I've gotten involved with the computer, I wish I could do more of it myself." Olin Stephens also states "I often kick myself, because with the knowledge that Ken had and a lot of which he passed along to me, I think we could have advanced a lot faster then we had."
+
+Olin did not complete his degree at MIT. Instead his father, with financing from the sale of a coal-supply company, placed an order for the 52 foot Dorade with Olins company Sparkman & Stevens, and Olin set out to build her. Dorade is an alternate spelling for Dorado which is a kind of dolphin and the boats form is dolphin like by my eye. Her form was not tank tested or analyzed by mathematics and when launched this was evident as she floated three inches lower than the painted waterline mark. The boat was considered quite thin and G. Bruce Knecht reported in the Wall Street Journal (November 4, 2006) that Mr. Stephens now thinks her slightly to narrow, this contributing to rolling. Outside ballast was used for stability.
+
+### <span id="Merlin">Merlin</span>
+
+In 1977, Bill Lee decided to take advantage of the potential of fiberglass by making an ultra light displacement boat. His Santa Cruise 70 Merlin not only won the Transpac but held the record for this race for 20 years. It took Pyewacket, a water ballasted racer, to better Merlin. These names are important even today for the [2005 Transpac](http://www.transpacificyc.org/05/tp05-divisions.html)
+
+. The Pyewacket win demonstrated the value of movable ballast but she was also larger than Merlin.
+
+### <span id="Common Sense III">Common Sense III</span>
+
+In 1938 a 27 footer named Common Sense III had a problem prone race. That prompted organizers to require boats *competing in the Transpac to be* larger than 30 foot with crews of at least four. I suspect the name of the boat angers many even today because there really is no reason in the modern age for the restriction.
+
+By the 1950s boats as small as 23 foot were shown to be ocean worthy and the minitransats racing today are that size. In 2005 common sence for the most part did prevail when Cone of Silence a 31-foot canting keel sailboat came from dead last to finish first on elapsed time and second on corrected time in Division 3, of the TransPac. However, being required by race rules to carry four across a wide expanse in such a small vessel is not reasonable when you consider the amount of gear required and that the average crew size on a modern passage maker is two.
+
+May common sense allow vessels like the [La Perla Noir](http://www.eskimo.com/~mighetto/p03.htm#pearl), which owing to water ballast and positive flotation are safer ocean racers, but are under 30 foot, to race in 2007, with smaller crews. This Mac26m concept boat and the Mac26x vessels combine the stability of Dorade when water ballasted, with the ULDB sled features of a Santa Cruise 70. They are comparable to the planned TP52 box rule 26 footers. The Macgregor babyMacs are larger than the minitransats doing similar downwind races.
+
+One of the longest ocean race records is held by a MacGregor 65. The record is for the Los Angeles, CA to Puerto Vallarta, Mexico Race, which is run on alternate years from the Transpac and wasn't bettered until 2006. It was exciting to see BARKING SPIDER 3, a MacGregor 65 run in Division III of the 2005 Transpac, with Cone. She is owned by David Kory of Concord California who hed previously sailed a Catalina 38 from Point Richmond in the Transpac.
+
+### <span id="Sick Marketing">Sick Marketing</span>
+
+*On 4 August 2005 this weblog had 230,000 hits for a year period and I was introduced by talk show hosts during a broadcast at [Air America](http://www.am1090seattle.com/) to a book called the Selling of Sickness. This is a book about marketing drugs but it was clear that the same marketing applies to sail boats.*
+
+*Public Relations firms on the east-is-the-least for sailors coast of the US had figured out that while most countries do not allow direct marketing of drugs to consumers, you are allowed to market sickness. If enough folks can be convinced that they or their loved ones are sick or that the sickness is so serious that it should be avoided at high cost then consumers will eventually find the drug you want them to purchase either through a health care professional, the web, or other media. The author of the book Selling of Sickness, stated in his interview, which Aired on 7 August 2005 on AM1090 before 8 AM, that once a "sick" marketing campaign is tested out in the US, it is then rolled out in other countries.*
+
+*This technique may have been learned from the marketing of sailboats. It only works if most of the media can be controlled, meaning those with opposing viewpoints are silenced by bullying, payoff, web site hacking, or legal threats. [Common Sense III](#Common%20Sense%20III) demonstrates that this game was being played in the sailboat design field in the 1940s, and we see from the transpac in 2005 and attacks on this web log, that it is still being played. The Cone of Silence has been lifted.*
+
+*An entire generation in the US has come to believe that a bigger sailboat with a heavy keel is a safer sailboat. Nothing is further from the truth given the fact that smaller sailboats can be designed that do not sink - even after being swamped - and are able to avoid hazardous conditions, unlike larger vessels, because they are so fast, and their small size makes them more like the life boats thoes in larger vessels carry which handle sever seas better than larger vessels by bobbing over breaking waves rather than crashing through them. It may take many more years but eventually the notion that small boats are safer boats will become common sense.*
+
+> 15 February 2005
+>
+> Dear Protest Committee,
+>
+> <img src="hwsnbn.jpg" data-,="" data-align="right" alt="He Who Should Not Be Named" />I wish to report a gross breach of good manners and sportsmanship that has brought the sport into disrepute. The allegations of gross misconduct fall under the Racing Rules of Sailing (RRS) 2001-4.
+>
+> This report involves encouragement of and actual theft of property by the crew of S Parker, parkersu@earthlink.net, AKA Tripp Gal.
+>
+> Encouragement of the theft has been orchestrated for several months on multiple Internet sites, causing considerable loss of reputation for the sport, with the actual thievery taking place on February 14th in what might be called a Valentines Day Massacre.
+>
+> The property taken is access to my club's bulletin board. I had been warned by the crew of Trip Gal, some of whom are members of my club that such action would take place if I continued to express my views publicly regarding fixed fin and movable ballasted vessels, specifically TP52s and MacGregor 26x vessels, but also centerboard vessels and those with canting keels. These views are well documented over a period of several years and reviewed critically and are expressed primarily on a web site I and others from Sailnet.net developed http://www.eskimo.com/~mighetto/murrelet.htm first several years ago and then enhanced regularly. Those offended by my views were able to persuade others, including Sean Trew that they had a right not to be offended.
+>
+> No such right has ever been established in any form of communication in the US. On December 8, Tripp Gal had emailed me with a message which appeared to indicate my troubles with her were over, but she later recommended that those contributing to a popular thread she started delete their posts. Later, I was contacted by Daniel Decker by phone, on or around January 31th, I suspect owing to Trip Gal or her husband's request. Dan had been a pawn in a similar action several months earlier, likely by the same individuals whoes apparent goal is not only to restrict my ability to speak about sailing but also remove me from my post as Secretary of SSSS.
+>
+> The net result is that a resource I value highly is no longer available, and a working relationship that I value with Daniel Decker harmed. Dan challenged me to make this protest and is Vice Commodore of SSSS.
+>
+> The BB resource includes threads on the Toliva Shoal race and hence should result in the protest committee calling a hearing as it impacts my race planning. I have registered for Toliva Shoal and hope to compete with out fear of "accidental" collision.
+>
+> There is continued effort to ban me from posting views regarding fixed fin and movable ballast vessels on other boards such as [boatdesign.net](http://boatdesign.net/forums/showthread.php?p=55543#post55543) and Sailing Anarchy and in soliciting critical review of the web site listed above. That effort will likely continue unless the protest committee can take action at this time.
+>
+> If I were the only competitor so treated it would be one thing. Unfortunately Tripp Gal, her husband, and others going under the names of Crank Boy and Bubba, who I can not identify but have identified themselves as friends or crew for Tripp Gal, have targeted those they believe are my supporters with similar treatment to the point that one individual believed himself in physical danger, when I was on vacation, and will no longer post on the SSSS BB.
+>
+> Tripp Gal also threatened to orchestrate a boycott of Toliva Shoal which she believed I have involvement with to spite me. I have been threatened with dog doo over my vessel and challenged to a race for pink slips. This publically on Internet forums, and I suppose charming and entertaining but in combination with other actions alarming.
+>
+> The behavior just doesn't appear to be stoppable outside of a formal protest, and it likely discourages those considering sailboat racing. I have chatted either by phone or email, and publically on Internet formus with the completitors over a period of several months to try to resolve the issue. Competitors that would need notification in writing ofthe alleged misconduct include:
+>
+> Scott Awalt - Owner of Sugar Magnolia and crew member for Tripp Gal S Parker, parkersu@earthlink.net, AKA Tripp Gal, owner of a Tripp sailboat Dan Decker, vicecommodore@sssclub.com - Owner of Oh My God Sean Trew, trew@qwest.net - Donator of SSSS Bulletin Board, unknown boat.
+>
+> Your prompt attention to this matter is appreciated.
+>
+> Sincerely, Frank L. Mighetto, mighetto@eskimo.com Owner of Murrelet
+>
+> Secretary South Sound Sailing Society
+
+*The above documents some of the troubles related to Jim Teters which are being adressed. They involve more than just Mac26x cruisers of course. Teeters Velocity Prediction Program (VPP) has I believe purposefully been created to penalize new sailboat designs and protect the kind of vessels known as the "Big Boats". In early August of 2005 On Sailing Anarchy the following was posted "Cow Bay is the fun, three- race windy regatta of the summer in the Pacific Northwest. Three years ago it was really windy and the Martin 243's cleaned up. None have been back since. Apparently some of the big boat owners and PHRF decided to a rating change would be in order for this year. A Martin 243 rates 69 Northwest, 60 SoCal, 45 SoCal offset and 15 downwind...So when the 243 showed up after the rating had been discussed, the local rater put it at -45 PHRF! So the boat went from 69 to -45, and after complaining about it all night they got bumped back to -12, Then in the morning, after another rater called bullshit they ended up sailing at +15 Some say the old rating was generous for the venue as it is a one gybe reach for 8 miles, and only tack four or five times up the beat, in flat water and 20 knots of breeze - legs and conditions which the 243 hauls ass. But an arbitrary 114 sec hit, then pushed 60 secs the other way. That is the biggest swing ever and the fastest 24 footer ever!.......PHRF apparently threw some numbers up in the air and just grabbed at something on the way down. Anyway, the Martin finished last, and nobody seemed to care. Here are e-mails between the Martin 243 and the organizers. Good times." Sailors do care. Not many have understood that Jim Teeters developed the VPP used to generate the obvious rating distortions that are keeping the fast planing boats off the race courses and the displacement designs from being retired.*
+
+<span id="Planing Hulls vs Displacement Hulls"></span>
+
+## Planing Hulls vs Displacement Hulls
+
+\[[Top](#Top)\] \[[Next](#Training%20Requirements)\] \[[Prev](#IRC)\] \[[Bot](#Bot)\]
+
+<img src="FM24.jpg" data-align="right" alt="M and Classic" /> There are four modes of sailing. Displacement mode, forced mode, planing, and the 4th mode. Obviously many ocean sailboats do not plane and hence there is no reason to learn planing techniques on those boats. In fact it is just the opposite. There are good reasons to learn how to prevent planing because planing will put different stresses on hull and rigging. If the vessel is not designed for planing, dismasting, boom failure, hull folding etc is possible. We saw all of that in the most recent AC cup effort and much of it in the Around Alone. Crews for the Mac26 Classics and the M (at least until the rigging is tested out) should NOT allow their vessels to plane. These two cruisers are pictured at the right. (Use the mouse to hover over the picture for the caption.)
+
+There are different rigging concerns for a displacement vs a planing hull. For example, the use of swept back spreaders on a displacement hull with a single head sail has been a concern for sometime. For example, it has been predicted that the use of a single head sail on a Classic, in more than moderate wind, will one day result in a dismasting because that has happened on other vessels with swept back spreaders. The same is likely true with the M, which does not have a backstay. Note however that the concern often expressed in articles, likely applies to lesser built cruisers than MacGregors. *There has been a reported dismasting of a MacGregor 26 Classic. The owner reported that the hinged spreader may have been the cause. MacGregor Yachts no longer uses hinged spreaders.* On a boat intended to plane, like the Mac26x, (but not the classics) the hull of the vessel would break out of the sea before stress on the mast from a single head sail could cause a dismasting.
+
+<span id="Training Requirements"></span>
+
+## Training Requirements
+
+\[[Top](#Top)\] \[[Next](#How%20to%20Sail%20an%20X)\] \[[Prev](#Planing%20Hulls%20vs%20Displacement%20Hulls)\] \[[Bot](#Bot)\]
+
+The above illustrates different training requirements for crews. X boat owners and crews should be taught how to plane where boats like the Classics and M should be shown how to prevent it. The above also shows why there is a preference for upwind downwind (windward-leeward) race courses when the vessels are not capable of planing. Planing is most often optained on broad reaches in fresh and heavy wind. It is the relatively greater likelyhood of mast failure on reaches that gives two mark (one upwind and one downwind) the favor for racing displacement sail boats. Because these points of sail protect the boat investment they are favored by US owners of displacment only racing sailboats. Hence it isn't necessary to rig the racer like a cruiser (which most often will be sailed on a reach) or train crews on broad reaches just like it isnt necessary to train crews for forced mode or planing. Likewise there isn't a need to learn the 4th mode of sailing for an ocean hull that doesn't require it, such as the hulls of the M and Classics.
+
+<img src="FM25.jpg" data-align="left" alt="First Generation Powersailer Mac19" /><img src="FM17.jpg" data-align="right" alt="Second &amp; Third Generation Powersailers - X &amp; M" />
+
+Unfortunately for Mac19 owners and X boat owners, most US ocean sailing schools ignore not only planing and the 4th mode but also the forced mode. They teach but displacement mode sailing, concentrating on upwind downwind work, also called keel boat sailing, and ignore all the advancements in sailing knowledge that has been obtained since the 1970s, that is based on air plane knowledge.
+
+Is it any wonder that US trained crews are not competitive in the Americas Cup and Around Alone? Those crews have learned but 1/4 of what is necessary to be competitive, or at least those in charge have learned only 1/4 of what is necessary. Clearly American AC crews are composed of many nationalities. If captained properly perhaps the ways of the knowledgeable (ways probably overridden by captains) would have meant salvation. No AC challenger in 7 years, soon to be 10 years, - NYYC be ashamed.
+
+<img src="thull.jpg" data-align="left" data-border="1" alt="Tasar advanced Dribbly hull is Mac26X like; mast rotates like Mac26M" />
+
+<img src="tround.JPG" data-align="right" data-border="1" alt="Dribbly hull best in rough sea and about marks" />
+
+Many do not know that the highest paid athletes in the world are sailors. But US sailors are not well respected. This is likely owing to the closed mindedness of the society in which they are trained. In 2003 the World Tasar championships were swept by US athletes who are desperate to earn the kind of respect given sailor athletes in other countries. The Tasar is the closest dinghy with a hull form similar to a Mac26x and is an ocean planing dinghy. They are a Bethwaite Design and utilize a rotating mast like the M. Roger MacGregor may have been inspired by these small craft in the design of the X hull and the M rigging. The crew of the Murrelet is learning as much as possible on Tasar racing in hopes that this will be of benefit in racing an X.
+
+![an I-14 sporting Murrelets name](murrelet2.jpg)
+
+<span id="How to Sail an X"></span>
+
+## How to Sail an X
+
+\[[Top](#Top)\] \[[Next](#Why%20Three%20Generations%20of%20Powersailers)\] \[[Prev](#Training%20Requirements)\] \[[Bot](#Bot)\]
+
+<img src="tplane.JPG" data-align="left" data-border="1" data-hspace="8" alt="planing Tasar" /> The New Zealand, Australia and Switzerland crew members are valued because these members are trained in 3 more modes of sailing than the Americans. Others may disagree but all now recognize the importance of crew competency even if some do not yet realize the incompetency of the US trained.
+
+I blame the sailing schools and advocate that those schools start teaching ocean sailing using higher- performance designs. The problem with the boats currently being used, such as keelboats and catamarans, is that "at some critical wind speed their headsails fall centrally by gravity." At that point the vessel stops. Crew weight isn't enough to prevent this on traditional cruising monohulls.
+
+On a monohull like a MacGregor, however, "crew move their weight forward over the progressively narrower forward underbody, the hull stability decreasing to the point where it will become neutral." A 15 percent heel can then be established by moving to the side and the headsail can remain in position to capture any wind in the near calms.
+
+This bow down and heeled attitude is the forth mode of sailing and higher speeds in very light airs occur when the handling is done that way. Roger MacGregor states in the next to last sentence of his how to sail the X literature (see)
+
+[How To Sail The X by Roger MacGregor](how_to_sail.htm)
+
+"In light wind, keep the crew forward and positioned so the transom is almost out of the water and the boat heels about 5 to 10 degrees. This heeling reduces the amount of hull surface in contact with the water. In light wind, the surface area touching the water creates most of the drag. The more surface in contact with the water, the slower the boat will go. A 10 degree angle of heel reduces this area significantly." On a Mac26x 11, degrees is enough to bring the centerboard slot out of the water. Significant indead.
+
+Bethwaite, pg 270 adds "if at the same time, the crew separate their weights in the sideways sense, this will stabilize the boat in a roll (technically, by separating their weights they increase the angular inertial)" Hence even in light wind with waves, higher-performance designs can match those of more rounded design - like the Classics (M included in that group). "The more the crew can stabilize the hull and steady the rig in light air, the more efficient and powerful can the airflow over the sails become, and the faster the boat will sail." In addition when heeled and trimmed bow down the shape presented to the water is River dinghy (M) or single catamaran hull like.
+
+<img src="tstart.JPG" data-border="0" alt="Tasars line up" />
+
+<span id="Why Three Generations of Powersailers"></span>
+
+## Why Three Generations of Powersailers
+
+\[[Top](#Top)\] \[[Next](#Tail)\] \[[Prev](#How%20to%20Sail%20an%20X)\] \[[Bot](#Bot)\]
+
+The following photos show the undebatable similarity in the top deck of the Mac19 (the first generation powersailer) and the M (the third generation powersailer). A potential boat purchaser will recognize that the M was sketched out for the most part by combining features of the Mac19 and Mac26 pre X launch. The M has features (like the topdeck, rudder brackets and fuel lockers) of the Mac19 and features of the Classic 26 vessels (like the midship head, mirrored bulkhead and close to centerline ballast).) While superficially resembling an X boat (see the second and third generation picture above) there really is little similar in how the M boat is sailed vs the X boat, or in the interior layouts or ballast system. The M can be seen to be a stretched 19 or Classic 26 with standing room but not as an advancement or improvement to the X cruiser. The X is more like a branch on the tree of powersailer evolution rather than a progression linked to the M.
+
+<img src="FM26.jpg" data-align="left" alt="Mac19" /><img src="FM27.jpg" data-align="right" alt="MacM" />
+
+When one comes to realize that the X hull is the more advanced sailing hull form by reading Bethwaites High Performance Sailing book the question of why introduce a less advanced hull in 2003 starts to perplex. After long thought and painfull discusions on why Roger brought out the M, I *had* concluded that dealer preasure explained the third generation powersailer. The M is more advanced arguably in the rigging. The rotating mast is similar to that of a Tasar or a multihull. However the hull form is more like the Classics, a river hull and really a cross between a river hull and a power boat hull (spenser hull).
+
+The M will sail more like a classic and that means there is less for the dealers to explain to new owners and train them on (at least 3/4 less by the above). I am certain that MacGregor Yachts would like dealers to sell training as a side line to powersailer sales and there are dealers willing to try (such as BWY). But, the easier to support M will likely be more profitable for them. The M is easier to support in the Americas because any of a large number of sailing schools are capable of training new boat owners in handling the M because it handles like most keeled cruisers. The X handles like a Taser ocean racer. By de-emphasizing racing with the introduction of the M, dealers also are relieved of the dificulties of organizing and sponsering one-design racing (which with every X hull over 5000 grows in interest). Bottom line, profit minded US dealers would HOPE Mac26x owners would not be interested in racing, possible even spreading the notion that the X hull isn't fast enough for racing. The X vs M comparison states:
+
+> In March of 2003, MacGregor introduced the all new MacGregor 26M, to replace the 26X that had been in production for 7 years. Approximately 5000 of the X had been produced before being replaced by the M. The new boat is substantially different from the old.
+
+The substantial difference appears to be related to racing. In the X marketing the following statement is telling.
+
+> Here are your sailing choices: (1) With the water ballast tank full and conservative sails, the 26 is an extremely stable sailboat, ideal for a beginner. (2) With the big genoa jib or spinnaker, it is a conventional self righting sailboat with outstanding sailing speed. (3) Without water ballast, it is one of the wildest and potentially fastest sailboats around. Under power (1) without water ballast, it is a rather fast conventional cabin cruiser, or (2) with the water ballast, a docile, heavily ballasted power boat. ... Quick, stable and responsive, the revolutionary MacGregor 26 is the fastest and best handling of any of the trailerable cruising sailboats.
+
+The M's substantial difference is best summed up as "she is not for racing" or "she is more of a blue water cruiser than a trailerable". The X while not a race boat, is a very fast cruiser capable of racing ballasted or unballasted like a Tasar. The X is an ocean cruiser-racer when ballasted and becomes an Ultra-Light ocean racer when unballasted. For someone who has learned to sail in the US and is set in the ways of keel boat sailing the M truly will be the faster sailboat. But for a Jack and Jill crew familiar with Tasar sailing the X has race potentitial that is as Macgregor Yachts states revolutionary.
+
+The apparent full story of why X production was halted in the US goes beyond dealer preasure. MacGregor Yachts had up until the introduction of the X always produced more than one model at a time. The expectation was to produce both X and M models in 2004. But there was strong vested interest in the US ocean racing community. The vested interests ran counter to any kind of movable balasted vessel. US Sailng's [GRAND PRIX WORKING PARTY QUESTIONNAIRE](http://www.ussailing.org/offshore/grand%5Fprix%5Frule%5Fquestionnaire.asp) is telling. It leads the respondent to conclusions that were rejected by ISAF when rules 51 and 52 were modified in 1997 to support movable ballast in the forms of water and retractable, swinging and canting keels.
+
+In the questionare the notion of stability limits for safety as well as the allowing of water ballast and canting keels was raised and Jim Teeters was identified as the consultant for the US SAILING contingent to the Grand Prix Rule Working Party RWP. Jim Teeters is the expert witness that inappropriately tried to put the Mac26x design on trial during a drunken boater's case. The RWP eventually rejected Jim Teeters notions of safety being related to mathematically calculated stability ratios in order to support movable balasted designs (both water and canting balast designs). It appears that an orchestrated campaign to disparage the Mac26x and indead any movable ballast (*and that includes retractable foils*) design had been carried out to support the production of vessels called TP52s *and the planned design of smaller ocean racers as small as Mac26x size*. This campain made it appear that US Sailing supported not only Jim Teeters but also those with interest in TP52 box rules. That raised questions as to the tax exempt status of US Sailing and the eventual reorganization of the organization in October of 2004.
+
+In any case, it is still exciting to see MacGregor provide the M vessel for the group of sailors looking to evolve from a trailer sailer to a true blue water boat. The M can be purchased without a trailer where this was never an option for the X. Race activities are supported by trailers.
+
+The M plays into many of the myths bantered by dealers of lesser vessels (like you can't have a shower on a boat with solid flotation and that centerboards are less seaworthy than fixed keels and that solid ballast is better than water ballast). Hence because there are are fewer issues to scotch, the M may be easier to sell to the masses. But for the next generation of US racing sailors, the generation hoped to retrieve the Americas Cup, the X will prevail as the advanced planing machine she is, just as the splash X hulls will in Europe.
+
+![Double X at Roche Harbor](doubleCross.jpg)
+
+I am hoping for an additional production run of the X in the US. But if I were "boatless in Seattle" I would be purchasing an M rather than waiting. The MacGregor sailboats are built for ocean use and they are the only US manufacturer building powersailers. In addition, like new X cruisers are rarely available for under \$20,000 and you can not know the history of a used boat. But it is not just cost, functionality, and history. I spent way to many years under power alone, and very little sailing of my X until the third year. If an X production run is started in the near future and I owned an M, at that time, I would upgrade and give myself and crew the time needed to unlearn the keel boat style of sailing advanced with the M. I can see that new boat purchasers might be confused if both vessels were offered by the dealers because they are sailed so differently and clearly two sets of new customers with widely different training requirements would be difficult to manage.
+
+Practical Boat Owner magazine did not let go of the notion that new X's would be produced in 2003, in spite of production halt in the US. The Mac26x French Canal article in October of 2003 is a cover story. You would think X cruisers available new all over Europe with MacGregor Yachts dealerships and factory encouraging big publications to do stories about them by purchasing advertisements. No mention of production halt. The powerboat plug makers benefit from frequent hull style changes. While possibly appropriate for power boats, where insurance policies generally prohibit racing, this buisiness model is harmful for purchasers of new sail boats because the number of hulls produced is likely to be small thereby harming racability and resale value. Court actions as described above explain both the fast roll out of the M, utilizing plug technology, and halt of X production in 2003. The courts have long influenced boat design, often adversly. This is evident in the role of courts in the Americas Cup.
+
+## <span id="Tail">Cod's Head & Mackerel Tail</span>
+
+\[[Top](#Top)\] \[[Next](#Finisterre%0A)\] \[[Prev](#Why%20Three%20Generations%20of%20Powersailers)\] \[[Bot](#Bot)\]
+
+Ted Brewer, a designer who did much of his work in my own state, recently retired and moved back to British Columbia. His training material for amateur builders and beginning yacht designers, now in its 4th edition, portrays the typical hull form used on sailing craft from the 1800s known as the Cod's Head & Mackerel Tail, as inappropriate for contemporary designs. It is even stated that such a hull form "would sail better backwards!". This opinion is based on work Brewer did with America's Cub boats in the 1960s.
+
+Shortly before Brewer began modifying AC boats, the New York Yacht Club, having suspended AC racing during the World Wars, successfully petitioned the Supreme Court of the State of New York to modify the Deed of Gift governing future AC races. The modifications approved by the court allowed boats to cross the ocean on transports rather than their own bottoms. They also limited the size of the racing vessel to 65 feet under a 12 meter rule.
+
+The British appeared to have an edge in sailing 12-meter sailboats, which were not raced in the U.S. at that time, and sent the 12 meter yacht Sceptre to compete in 1958. Sceptre lost every match. Brewer, and others, including English designers, concluded that the shape of Sceptre's hull, the Cod's Head and Mackerel Tail, explained what Brewer describes as the fiasco of four straight losses and no wins.
+
+The folly of 1958 probably was the removal of the requirement that challengers travel to AC races on their own bottom, because it allowed designers to skip over seaworthiness considerations, considerations Sceptres designers were unwilling to ignore. But this foolishness was compounded by those wishing to attribute the designer of the boat that beat Sceptre with most of the glory. Olin Stephens had designed what was arguably the fastest 12-meter in the world, Vim, prior to designing Columbia, the boat that beat Sceptre. He was well recognized owing to that and the AC win.
+
+But more important than design is the fact that this was Sceptre's first race. Columbia's crew had been well seasoned during an exhausting set of matches with crew on Weatherly the vessel that Brewer eventually modified, and in 1962 won the cup 4 out of 5 matches. Because many AC races were determined in contests where the challenger didn't win a single match, prior to 1958 and after then, rejection of a hull form respected for hundreds of years truly was foolish. This was especially true with the introduction of fiberglass which allowed the construction of much more ridged hulls necessary for larger boats that could plane, like the Santa Cruise 40s and 50s. Tasar race crews (possible familiar with Brewer's disparaging remarks involving the cods head and mac hull form) have objected to characterizing their race boats that way. The form is subtile in the Tasar and in the Mac26x and is preceded by what is called by brewer a fine entry bow.
+
+## <span id="Finisterre">The Story of Finisterre</span>
+
+\[[Top](#Top)\] \[[Next](#Offshore%20Racing%20Congress)\] \[[Prev](#Tail)\] \[[Bot](#Bot)\]
+
+In 1954 the Olin Stephens designed yacht Finisterre was launched, to late for the Bermuda race that year. She was a 38 foot centerboarder and there is no more accomplished racing yacht. She ranks as one of the most significant yachts in the history of the sport.
+
+Carleton Mitchell, the owner of Finisterre, is the author of the book Islands to Windward. He had developed a sailing style that was not in concert with the era of the deep-keeled, long-ended windward leeward oriented ocean racers. Mitchell had previously owned a 58-foot centerboarder, the Rodes-designed Caribbee. Michell wanted to prove something by racing.
+
+With Finisterre, he humiliated hundreds of deep fixed keel race boat owners by holding the honor mooring spot off the Royal Bermuda Yacht Club from 1956 to 1962, a spot envisioned for a much larger and deep draft vessel.
+
+Prior to the build, Mitchell put his ideas in articles which were criticized, putting him in the awkward position of potential publicized failure. Finisterre was built at the height of custom yacht design. His notion of a vessel that would be like having your cake and eating it to, that would be small enough for single handling, comfortable enough for luxurious cruising, able to cross oceans and fast enough to win races was not popular among the all boats are compromises mindset. The fact that the vessel would be a centerboarder undoubtedly angered many who had worked for years to discredit this foil type.
+
+Bill Robinson, in Legendary Yachts, relates the story of Stanley Rosenfeld, the photographer, who in following Finisterre for a photo shoot, noticed little of the creaking that he listened for from the helm of his subjects to identify just the right distance and angle for good photos. Robinson believes the lack of that noise was part of the secret to this vessel and so do I not that anything about Finisterre was secret, it all being public record owing to Mitchells wish to prove something.
+
+Pat Royce in the 2000 edition of Royce Sailing Illustrated notes that Mitchell used the swing keel for steering The centerboard is down all the way when beating to windward in a light breeze. As the wind increases the centerboard is raised sufficiently to trim the rudder to reduce weather helm rudder drag. Pg 17
+
+Winning races unfortunately does not prove anything to those who are closed minded. Robinson lists many reasons for Finisterres success ranging from Mitchel's knowledge of weather to winches but does not connect the centerboard dot as a reason for her success. Retracting foils helps the vessel to surf or plane. Finisterre was able to surf the storm fronts owing to this thereby bettering her "betters". She was greatly immitated by other builders and this immitation lead to rule changes tending to reduce the success of her type acording to Robinson. That success should spawn rules limiting progress in design is a tradgedy only now being undone by vessels like the Mac26x.
+
+<span id="More thoughts"></span> <span id="Bot~"></span>
+
+## More thoughts
+
+\[[Top](#Top)\] \[[Next](#Bot)\] \[[Prev](#Finisterre)\] \[[Bot](#Bot)\]
+
+<img src="sisLogo.gif" data-align="left" />The logo to the left was designed in 1981 by Marvin Oliver for the [School of Public Health and Community Medicine](http://sphcm.washington.edu) at the University of Washington (UW). The crew of the Murrelet have connections with that school and with the UW. The logo, which is called 'Soul Catcher' is also our avitar on web logs discussing the content of this cruising log.
+
+I do not think many of us understand how our cruisers are lifted. The way the Mac26x is lifted, and all *sail* boats for that matter, is by crabbing. Leeway is a good thing for planing. We want leeway because it lifts the cruiser. No leeway, no lift. Leeway is what provides the foils with an "angle of attack". It is required for fast sailing. The trick is finding that amount of *retractable foil* and amount of crabbing that creates lift for our cruisers without excessive leeway and without excessive drag. I think my cruiser betters others in no/ light wind because I have been extending the centerboard rather than lifting it, and dropping the second rudder rather than leaving it raised as I normally do when there is normal wind. By crabbing the current, my boat is getting lifted. I had thought I was catching current to push me along by extending the appendages. But really I was lifting the vessel with the foils owing to the angle of attack on the current and catching wind to push me along. This explains why the extended foils helped regardless of my need to oppose or go in the direction of the current. The effect is probably similar to using an air inflator device to blow ballast *or [trim tabs](http://www.ginasvineyard-marina.com/ginasoutdoorstore/bentrimtaban.html) to lift the cruiser while motoring.* To plane under sail the boat needs lift, at least initially in order to crest its bow wake. That means she needs leeway. Leeway that likely will be considered excessive by some.
+
+\[[Top](#top)\] \[[Next](p10.htm)\] \[[Prior](p08.htm)\] \[[Last](p11.htm)\]
+
+## Java
+
+\
+
+## Java
+
+\
+
+## Java
+
+\
+
+## Java
+
+\
+
+## Java
+
+\
+
+\[[Home](http://www.eskimo.com/~mighetto/)\] \[[Decision Tree](lstree.htm)\] \[[Deep Knowledge](lsknow.htm)\] \[[Acknowledgements](acknow.htm)\] \[[Map](lswebmap.htm)\]
+
+<a href="http://www.eskimo.com/~mighetto/bvi/bvi.htm" target="_blank">Cruising Log of the Mariah Wind</a>
+
+<a href="http://www.eskimo.com/~mighetto/belladonna/bd.htm" target="_blank">Cruising Log of the Bella Donna</a>
+
+[Crusing Log of the ForeverGreen](http://www.eskimo.com/~mighetto/forevergreen/foreverg.htm)
+
+***Frank & Lisa Mighetto*** - 1260 NE 69th St. Seattle, WA 98115 - (206) 525-1458 voice and fax
+
+<mighetto@eskimo.com> - Internet email address
+
+[](http://www.skytel.com/) [mighetto@compuserve.com](mailto:72154.3467@compuserve.com) - Internet email address or 72154,3467 from within Compuserve
+
+------------------------------------------------------------------------

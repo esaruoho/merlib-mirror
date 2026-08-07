@@ -1,0 +1,326 @@
+---
+title: "SMALLnet post423"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post423.html
+order: 8282
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:16:00Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post423
+
+*Source page: `~smallnet/Archive/post423.html`*
+
+## SMALLnet Posting post423
+
+------------------------------------------------------------------------
+
+**Date: Sat, 8 Jun 2002 00:31:04 -0500**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet/> \>
+
+<div class="Joe">
+
+...Back safely from Little Rock, gang. We enjoyed ideal weather; however, the turnout declined from last year's 135. At the new North Little Rock site 87 participants registered. Eric Clutton was there; Pat Tritle came from Albuquerque (as did our favorite "pesky kid", Chris Bowker, who put on death-defying aerobatic displays indoors and out with his e-powered craft). Alan Porter and Steve Adams came all the way from mid-California with their fleet of tiny biplanes. Mike Gillihan made it too; also Henry Pasquet with his unbelievably tiny CO2 R/C models.
+
+<span id="16"></span>
+
+<div class="green">
+
+Source: Kits, MIG-15, Sabrejet\
+
+</div>
+
+Don Downing put on some unusual e-powered flying with his all- foam near-scale ducted fan MIG-15's and Sabrejets. These are 25-inch span craft powered by GWS-50 fan units. Don advises that these planes be flown indoors; but they did well outside at Little Rock. "Kits" for these are available from Fan-Tastic Models, 3204 Johnson Road, Southlake, Texas 76092 -- \< 
+
+ \>.
+
+Randy believes that the lower turnout this year may have been due to some reluctance amog SMALLsters to try the new location. True, the field is less convenient to get to than the former Maumelle site; and it was too newly-established to have the various "amenities" that made the Maumelle SMALL meets so enjoyable.
+
+But Ron Stanfield (the CD) tells us that much more work is planned to enhance the new field (it's in the Burns Park complex, and thus safe from the commercial development that stole away our beloved Maumelle site).
+
+Frank Fanelli was there, from Flying Models; MAN even sent out a reporter/photographer to cover this now-famous model meet. To sum up: As always, a good time was had by all -- and that's what we went to Arkansas for! \[JW\]
+
+</div>
+
+Tim Dannels \< 
+
+ \> wrote:
+
+There's nothing "Phantom" about the April 1950 issue of Flying Models. It is probably my all-time favorite issue of FM. Aside from the good-looking model on the cover (the airplane is nice, too) it contains a whole bunch of full-size plans.
+
+The Baby Spitfire-powered Hummingbird by Paul Plecan is a great little sport freeflight. I built one in 1950; and my third one is now 40+ years old and in sad need of recovering. I'm finishing up a 4th one that I have played with for R/C. A great and easy-to-fly model.
+
+I have also built the cover model (airplane): the Shoo-Fly -- a nice towline glider -- and the Waco Aristocraft CO2 model. Jim, I can copy any of the plans you might need out of that issue.
+
+There are six models in it -- all with full-size plans. How long since you've seen that? U/C Scale -- U/C Speed -- Sport Free- flight -- Towline Glider -- CO2 freeflight -- Rubber-Powered Sport Freeflight.
+
+Tim Dannels
+
+Howell H. Gwin \< 
+
+ \> contributed:
+
+Thought you'd be interested in my experiences with the MiniMax from Hobby People; built stock, with a few exceptions.
+
+1\. I put a 1/8 x 1/4 balsa stick (edgewise) along the bottom of the wing mount. That seemed a bit flimsy.
+
+2\. If I had it to do over, I'd put some 1/2" nylon filament tape on the bottom of the wing. It flexes about 45 degrees in a loop. I've retrofitted mine.
+
+3\. The control surface movement specified in the plans is SILLY. You only need half of that.
+
+4\. I think the down-elevator is supposed to provide downthrust (wing at positive + tail at positive gives down-thrust. Carl Goldberg did this on some of his airplanes, such as the Falcons, Skylanes, etc. Don't.
+
+Leave the elevator at neutral and put at least a 1/8" ply shim under the top two mounting bolts. I'm probably going to put in another 1/32"; 1/8" was all I had with me. Otherwise it climbs waaay too fast and snap-rolly on full power.
+
+5\. I tried 1/8" shim under the BACK of the wing mount to get rid of a stally glide. Take the airplane up high, trim for a good glide. If it doesn't glide, put in a smaller shim. Just play around with it as we used to do with Rubber and Freeflight. (I can say that on this list and you will know what I'm talking about, since we are old-fashioned GOOD modelers. grin.)
+
+6\. I think I'm going to paint the wheel spokes silver. Oh, and I didn't put the decals on, but think I might as well.
+
+I flew it 3 times this morning, calm to wind of about 10 mph. As long as you don't get too far downwind with no battery power, it does fine. If it's too far downwind, full power and full down trim works OK. I have 800 mAh NiMH 8.4 V batteries; don't waste time/money on NICDs. I got 22 minutes on the first flight, 20 on the 2nd, and 12 (partly charged battery) on the 3rd.
+
+Nice take-offs if you don't just nail the throttle. Half-nail it.
+
+I'm very happy with my MiniMax; I can take it out early in the calm morning, put in a few flights before work, and go to work in a much better frame of mind. Howell
+
+Dale Goff \< 
+
+ \> asks:
+
+Does anyone know of a source for 4.5x2 Cox props, or have some for sale? I have a Tiger Moth with a Tee Dee .020 that I recently built and I need some props. Thank you for any help you can give.
+
+<div class="Joe">
+
+...Dale, Graupner's 5-2 "Grey" props work very well indeed on .020 engines, and are available from Hobby-Lobby. \[JW\]
+
+</div>
+
+Gary Gullikson \< 
+
+ \> reports:
+
+My Electric Guillow PT-17 Finally Flew Today !
+
+Added incidence to both wings, and increased down thrust. The plane flies with slight down elevator trim, and a fair amount of right thrust. GWS 300AS 3.75:1, APC 9X5 SF prop, 8-cell 720 mAh NiMH pack, GWS R4P receiver, and 2 Pico servos. Total weight is 16 ounces.
+
+Litespan covering on wings, silkspan on fuselage. Wings and struts designed to pop off with rubber band mounting.
+
+After a couple of abortive ROG's due to tip stalling, I fed in a little down elevator trim, recharged the battery, and tried again. Took off after about 40 feet from a smooth ball diamond; climbed to 200 feet. I levelled off and reduced throttle to 1/2; circled field a number of times; tried a loop. This plane is very responsive to rudder and elevator. Would probably fly an honest 10 minutes at 1/2 throttle. Yippppppeeeeeeeeee!
+
+Getting small Guillow and other small rubber scale "stick construction" models to fly R/C with electric power is a real challenge, and should only be attempted after building larger models. See article in Model Aviation (July 2002, page 94): A Tale of Two Hellcats, etc., explains why bigger flies better.
+
+Gary Gullikson, Garden Grove, California
+
+Dereck Woodward \< 
+
+ \> submitted:
+
+Mark D. Fain asked about a 1/2A "Dirty Birdie". "Global", who are still around, but heavily into BARFing (Bought Almost Ready to Fix ;-^) released both the "Baby Birdie" and "Birdie 10" in the late '80's / early '90's. I reviewed the Birdie 10 for "Radio Modeler" in England around 1992. Slightly underpowered by an OS10FP, it was a capable little aerobatic ship with no bad habits. Really needed a .15 to act like what it looked like.
+
+Takeoffs from the grass strip I flew off then demanded patience, as its three little wheels ploughed through the grass. I never saw it, but my buddy Peter Miller reviewed the Baby Birdie around that time and had good things to say of it as I recall.
+
+The kits have died out in the face of instant gratification making better profits, though there is always the chance of some lurking in the back of a quiet hobby store. I'm pretty sure I saw a Birdie 10 kit in the back of a small car-and-plane shop out in the middle of nowhere, near Winston-Salem, North Carolina. The store was closed -- it was Easter -- and the kit was well at the back, but looked familiar. The store was called something like "Props and Wheels", sorry that's not much help.
+
+I've got an old Airtronics kit of the New Era III I understand that the plan for that, and all the other variants of .25-sized "New Era" (at least 4!) are still available from RCM magazine. With modern .25 engines and mini radio systems -- check the specs on the one-ounce Hitec HS225 servo -- those older baby pattern birds should really make your toes curl.
+
+Other matters - we had our big electric meet over the Memorial Weekend, in Rockville, Maryland. The biggest trend has to be how 10-cell power is now the quiet version of the beloved .25 glow. Gary Wright, of "GWMP", made the trip up from Florida to show us that an electric model can truly fly aerobatics like an oily model.
+
+Seeing him walk out holding his "E3D' vertical, power up, let go, and step back from a hovering model was awesome.
+
+Gary also showed off his new kit: the "Kwik-E". This is a slab- wing atop a box body, with but aileron and elevator control. The motor is a Kyosho Endoplasma -- costs around \$25.00 -- on a 6 x 6 Graupner folder and all of 6 2400 or 3000 mAh cells. Has to be about as cheap as an electric gets, of pretty much any size.
+
+Despite that, the only model on the field that was faster was a brushless powered pylon racer.
+
+Curt Hulett asked whether anyone had tried an electric-powered "Mini-Knat". Having converted several lighter glow models to electrics, my main observation is that a glow kit is a nice set of templates for making lighter parts, and a glow plan is a good place to start from! An OS 15FP makes a great sub for a 10FP -- not that much extra weight, bulk or fuel consumption, but a handy power boost with nice enough throttle so you don't have to use it unless you want to. I recall the Knats being touted as light enough for electric, but 'light enough for electric' is relative to the builder ...
+
+Bill Rose asked about an .049-sized Kaos. There's no sign on Joe Bridi's web page of an 049'er, but the Warlord 20 is pretty good value at \$30.00 (and makes a good ten-cell electric, BTW).
+
+I wimped out on going to the Little Rock SMALL event. This foxy redhead I hang out with offered me to tag along with her to her company's national conference in Phoenix, Arizona. When your wife makes that kind of offer, you go along ;-). An aside is getting to go flying with Andy Clancy for two days, as he lives next door in Mesa.
+
+I'm going to try and chisel the L.R. SMALL meet onto the tablet for 2003, but Sue has given me an early birthday present as a consolation: a kitchen pass to Eric "Diesels Don't Stink, Honest" Clutton's bash at Tullahoma, Tennessee in August.
+
+Yours in modelling, Dereck Woodward
+
+Peter Clarke \< 
+
+ \> requests:
+
+I am a UK-based flyer using Brown A23 CO2 motors in several of my free flight models. Sadly I have few, very few, spares for these motors and will need more before the end of the season.
+
+What I need are all the seals, the \`O\` rings for the tank, charging nipple and inlet valve, and the rubber seal in the head. Other items needed are two or three of the later charging nipples and some tubing.
+
+Any information will be gratefully received.
+
+Regards, Peter Clarke
+
+P.S. I forgot to mention that also needed is a rear crankcase seal (a foil disc) for a GB12.
+
+Bob Mosher \< 
+
+ \> wrote:
+
+I've been reading the Postings, but spending most of my time on Micro Helis. Since I am pretty much confined to my electric cart, I have gone completely electric -- and still have a ball flying a Zagi, an IFO, a Voyager E, and two micro helis. Guess I am pretty lucky, as I hit 84 this summer. OLBob
+
+Sam Brauer \< 
+
+ \> sent:
+
+A couple of Postings back, I wrote to tell of my experiences using Oracover Lite. Several SMALLsters e-mailed me asking if I had tried Solarfilm Lite (aka So Lite), and I finally gave it a shot last night. Hoo boy...
+
+Most of the stuff I've read on So Lite has been highly laudatory. Here's an opposing viewpoint... (As a cautionary note, this was my first time with the stuff -- however, Oracover Lite was the easiest-to-use covering I've ever tried first time out. Maybe I'll get the hang of this So Lite by the time I'm covering the airplane; but there's no getting around the fact that it is trickier to use.)
+
+I suspect that both Oracover Lite and So Lite are polyester films. Apparently, the color for the film is applied with the adhesive. I naively thought that both films would handle in a similar manner. Big mistake...
+
+So Lite is being billed as one of the lightest coverings available. I still don't think it's lighter than a good doped Japanese tissue, but I don't want to try weighing the stuff. Doing that will present difficulties -- see below. There is no question that So Lite is lighter than Oracover Lite though -- and I suspect it's actually lighter than Reynolds Wrap.
+
+Pros and Cons:
+
+Pros: very light weight, great shrinkability, easy to shrink over complex curves, highly pliable. All you need to do is get the film tacked to the perimeter of the structure. The stuff will shrink enough to do the rest -- assuming you don't let a fold happen. Since it's so thin, it's hard to see covering mistakes.
+
+Cons: stuff tears easily. It does fine in the finger-poke test, but if you start a rip, it'll keep going readily. You need a really sharp blade cutting the stuff; it'll tear readily.
+
+Removing the backing sheet creates a static charge. This static charge makes the stuff want to cling to anything (and makes weighing difficult). This wouldn't be so bad except they've used a very low temperature adhesive on this film. Not surprisingly, the adhesive is pretty tacky at room temperature. It's not tacky enough to be really helpful draping the film over the structure, but it's absolutely strong enough to bond the film to itself if it folds over.
+
+Since the film has a high static charge and is lightweight and very pliable, it folds over itself readily. Peeling it apart is a frustrating and aggravating process. 9 out of 10 times I wound up ripping the film in the process. This gets expensive fast, especially when you've cut wing panels.
+
+I finally hit upon just peeling the backing off one edge, tacking that down with an iron, and removing the rest of the backing. It's worse than working with Reynolds Wrap, which is at least cheap.
+
+I also couldn't stand one of the colors -- the transparent green reminded me of the pea soup in "The Exorcist" -- 'nuff said? Looks nice on the roll though.
+
+In summary: For most aircraft, Oracover Lite is a far better bet. I'll lay long odds that in service it has higher puncture resistance. (I haven't had any problems in my belly-landing 37-ounce Apache, which has this stuff on an open wing and tail structure.) Oracover Lite is a joy to apply. Yes, it also can have problems when folded over itself, but since the film is heavier, and somewhat less pliable, that happens much less often. Oracover Lite is already lighter than Micafilm or any of the other commonly-used iron-ons, so I suspect that the difference in weight between Oracover Lite and So Lite on even a large airframe is probably less than an ounce.
+
+I'll use So Lite in place of Reynolds Wrap on a real floater where I'm really looking to shave weight (I'd have to be considering tissue instead); but on any kind of faster-flying sport airplane, I don't think the weight savings is worth the aggravation.
+
+(Note: I used Oracover Lite on my Sniffer. I absolutely would not bother using So Lite on this airplane.)
+
+(Later): I've been playing with the So Lite some more. I'm covering a Mini Laser 3D with it. (I'll let you all know how it flies -- the kit goes together well, but there's a fair amount of extra wood for the construction alignment. Oh well, that's what knives are for.)
+
+Anyhow, some hints for the folks who are trying this stuff:
+
+1\) The worst problems occur when you let the stuff fold on itself. This happens due to static charge. If you work in a lower- humidity environment, that seems to help.
+
+2\) Another trick is to use masking tape for weight. I peel the stuff apart (it's got a backing which must be removed) with masking tape. What I discovered was that if you leave some of the tape on, the added weight of the tape makes it somewhat easier to handle.
+
+3\) I'm using a heat gun on it for shrinkage. It does seem to work quickly and easily. However, like most iron-ons, you must be careful around the edges. The stuff can let go easily.
+
+4\) The adhesive does have enough tack to help you position your cut pieces without an iron, just use a little pressure for adhesion.
+
+5\) One suggestion is to use a little baby powder to help reduce the static charge.
+
+6\) There is no denying this stuff is light.
+
+Summary: it takes some getting used to So Lite, but it could grow on you. It is certainly not as easy to use as some other coverings (right off the roll) but it's very lightweight. In contrast to most other coverings, the hardest steps in dealing with this stuff involve removing the backing and positioning the covering correctly without allowing the material to fold on itself.
+
+Once the perimeter is tacked, it's very easy to handle. You're on your own with an undercambered wing..
+
+Sam Brauer Stamford, Connecticut
+
+Sam Baird \< 
+
+ \> asks:
+
+I have been attempting to identify and get a set of plans for a Joe Ott design that I once saw and fell in love with. Unfortunately I was never able to obtain the name or even the year of the design. I have purchased more Joe Ott plans than I have any idea what to do with (buying unseen plans from John Pond can be interesting) -- but none of them are what I am after.
+
+The design is a shoulder wing design with an open cockpit, which, I believe, was well aft of the wing. The plane was rather racy- looking, and my guess would be that it appeared to be a late 30's or early 40's design.
+
+Any help in identifying or locating plans would be much appreciated. Any OTT fans out there with good references? Sam Baird
+
+<span id="396"></span>
+
+<div class="green">
+
+Source: Plans, Joe Ott models\
+
+</div>
+
+<div class="Joe">
+
+...Sam, Allen Hunt \< <http://www.modelairplaneplans.net> \> has plans available for almost all the Joe Ott models that came out in kit form. (Joe did the Ace Whitman designs as well as those that carried his own name.) I checked my catalog just now and saw no listing that sounded like the design you're looking for.
+
+Your description sounds to me like a non-Joe Ott kit called the Bluebird Racer. It had a shoulder-mounted gull wing; 24" span; and was a George Wanner kit that came out around 1939. \[JW\]
+
+</div>
+
+Ian McQueen \< 
+
+ \> wrote:
+
+Re Oscar's inquiry about Enya engines, I can shed a tiny ray of light on the subject.
+
+I met one of the Enya brothers at their office. A very pleasant man, a real gentleman. Already no spring chicken in the mid-80s.
+
+During our meeting I asked why they did not appoint a separate agent for Canada; for, like so many manufacturers, they just throw in Canada with the USA market when appointing a distributor. The US distributor rarely has any interest in serving the Canadian market, and service is poor.
+
+Related to this practice, once a Japanese company has chosen a distributor, they are usually reluctant to break the relationship. If I am not mistaken, the US distributor for Enya has been the same for many years. Probably they cherry-pick, and choose to import only the engines that they can sell the most of for the highest profit with the least effort. If that is only one or two sizes, so be it. And most likely Enya has not leaned on them to carry more of their line.
+
+I learned of the attitude of the Enya distributor a number of years ago from a friend in Montreal who wanted repair parts for an Enya engine. The distributor (in the USA) would not sell him the parts. Apparently not worth their bother.
+
+I am sure that this is representative of the attitude that they once brought to the business and quite possibly still do.
+
+Who knows how well they could do if they sold a wider range of engines. But then they would have to supply parts for them as well. Maybe they could see that the costs would have been so high that they could not make money that way.
+
+Here endeth the speculation. Ian
+
+Evan Evans \< 
+
+ \> contributed:
+
+I live in Canberra, Australia and have been reading SMALLnet Postings for some time. I have been greatly entertained, and learned much from them.
+
+With regard to Don Butman's request for a method of transferring printed formers to plain balsa sheet, I thought I would share the method I developed.
+
+I had read that you could do this by laying a photocopy face down on the balsa and running a hot iron over the back it; this would melt the photocopy toner and cause some of it to transfer.
+
+I tried this, and found that it worked to some degree -- but the transfers were not strong and the rather high temperature needed caused the balsa sheet to warp permanently.
+
+Photocopy toner (and for that matter laser printer toner) consists of carbon black dispersed in a resin, which is ground to a very fine powder. This is used to produce the image by an electrostatic process, and transferred to the paper -- and is fixed in place by running the paper over a hot roller which melts the toner and fuses it to the paper. This is the basis of the above method of transferring the image to the balsa.
+
+However, I knew that the resin binder was also soluble in organic solvents; and thought I could use this property to produce the transfers. The solvent I eventually settled on is what, in Australia, is called "Mineral Turpentine". It is used for thinning and brush clean up for oil-based enamel paints, and is readily available here. I am sure there must be some equivalent available in other places.
+
+The method then is to place the photocopy or laser printer copy face down on the balsa and apply the solvent to the back. The trick is to not get it TOO wet with the solvent, or the toner will dissolve and run all over the place.
+
+I have found it best to use a wad of cloth just damp with the solvent and wipe it across the back using a firm downward pressure. You can make several passes with the wad provided the paper doesn't move. If you hold with one hand, I guess you could tape the paper in place -- but you need to keep the solvent away from the tape. You can lift the end of the paper to see how the transfer is going. The solvent softens the toner and the pressure produces the transfer.
+
+With a bit of practice it is possible to get a result just like the original printwood sheets. You can also get more than one transfer per pattern, but they do get progressively weaker.
+
+I use this method for all my building from plans. I scan the parts from the plan into the computer, collect the images together with a graphics program; then print them out on a laser printer. For instance, if all the ribs for the wing are the same, you only need scan once, then repeatedly paste it into a "document" until you have enough -- then print it out.
+
+Hope this helps, Evan Evans
+
+<div class="Joe">
+
+...In the USA the solvent that Evan mentioned is known as "Stoddard Solvent". Paint stores usually carry it labeled merely as "Paint Thinner". \[JW\]
+
+</div>
+
+\< 
+
+ \> sent:
+
+I would like to know if anyone has used 3-blade props for electric Speed 400s. Other than for esthetics (warplanes) etc., or for ground clearance. I am looking for more thrust on planes such as the Little Rascal or similar planes. I am trying Master Airscrew props and Graupner props. They seem to give me very nice RPM, and I am using 8-6 instead of 9-6 sizes. I just would like your experience.
+
+<div class="Joe">
+
+...Engineering formulas for propeller thrust don't include the number of blades. That DOES make a difference -- but not so much as the propeller diameter and rpm do. Every extra blade adds drag, and thus requires more power to rotate. Still, the "disk area" remains the most important variable in propeller thrust output.
+
+Therefore it's usually noticeably more efficient to use a larger- diameter 2-blade prop than a smaller 3-blader that requires the same power to rotate it.
+
+But the real criterion is WHAT HAPPENS ON THE AIRCRAFT.
+
+It takes test flying to determine the optimum propeller. \[JW\]
+
+</div>
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

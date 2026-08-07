@@ -1,0 +1,470 @@
+---
+title: "USELDING Illinois Vital Records"
+source_domain: amasci.com
+source_path: ~lisanne/uselding/ilvitals.html
+order: 4682
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:11:34Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# USELDING Illinois Vital Records
+
+*Source page: `~lisanne/uselding/ilvitals.html`*
+
+**Illinois Vital Records:\
+Uselding Extractions**
+
+**On January 1, 1916 a state law went into effect in the state of Illinois requiring vital statistics for births, marriages and deaths be recorded. Prior to that time counties kept their own records and the dates of coverage vary for individual counties. Cook County, in particular, kept vital records pre-1916 although there are few records pre-dating the 1871 Chicago fire. Below are the extracted entries for all Useldings from Illinois and Cook County indexes to the surviving pre-1916 records, as well as for Illinois deaths from 1916-1938. Because reporting was not required, the following entries do not include all of the births, marriages and deaths that occurred prior to 1916, only those reported.**
+
+SOURCES:
+
+- Cook County Birth Index 1871-1916 (Family History Library US/CAN Fiche 6016532)
+- [Illinois Statewide Marriage Index, 17631900](http://www.cyberdriveillinois.com/departments/archives/genealogy/marrsrch.html)
+- Cook County Death Index 1871-1916 (Family History Library US/CAN Fiche 6016533)
+- Illinois Death Index 1916-1938 (Family History Library US/CAN Fiche 6016862)
+
+<span id="birth"></span>
+
+\
+  **Births**\
+  
+
+**Name**
+
+**Date**
+
+**Birth Place**
+
+**ID Number**
+
+Parents
+
+Anna L. Uselding
+
+12/30/1888
+
+Chicago
+
+0000002004
+
+John & Lena Soeffge
+
+Anna Useldinger
+
+03/16/1896
+
+Chicago
+
+0000017951
+
+John & Anna Thill
+
+Carl Useldinger
+
+01/16/1891
+
+Chicago
+
+0000015402
+
+John & Anna Thill
+
+Elisabeth Useldinger
+
+08/29/1886
+
+Cook County
+
+0000018076
+
+John & Anna Thill
+
+Frederick Useldinger
+
+08/13/1888
+
+Chicago
+
+0000006605
+
+John & Anna Thill
+
+George Usselding
+
+05/08/1893
+
+Chicago
+
+0000017551
+
+Theodore & Mary Schockelt
+
+John Useldinger
+
+09/21/1878
+
+Chicago
+
+0000008197
+
+John & Anna Enders
+
+John Useldinger
+
+07/05/1893
+
+Chicago
+
+0000017304
+
+John & Anna Thill
+
+Leona Useldug
+
+08/15/1915
+
+Chicago
+
+0000021806
+
+Nicholas & Louisa Unholz
+
+Liese Uselding
+
+10/12/1886
+
+Chicago
+
+0000119202
+
+John & Lena Soeffge
+
+Mary Useldinger
+
+09/12/1884
+
+Cook County
+
+0000009626
+
+John & Anna Thill
+
+<span id="marr"></span>
+
+\
+  **Marriages**\
+  
+
+**Name**
+
+**Date**
+
+**County**
+
+**Vol**
+
+**License**
+
+**Spouse**
+
+Barbara Usalding
+
+11/18/1879
+
+Livingston
+
+G
+
+564 1/2
+
+William Weringarden
+
+John Uselding
+
+03/08/1886
+
+Cook
+
+ 
+
+00100895
+
+Lena Soeffge
+
+John Peter Uselding
+
+10/27/1891
+
+Kane
+
+ 
+
+00007709
+
+Maggie Wampach
+
+Lena Uselding
+
+11/13/1889
+
+Cook
+
+ 
+
+00146362
+
+Joseph Kraft
+
+Margeritke Uselding 
+
+06/18/1895
+
+Kane
+
+ 
+
+00009860
+
+Joseph Wampach
+
+Maria J. Uselding
+
+04/24/1873
+
+Cook
+
+082
+
+00008970
+
+Friederich Ehlen
+
+Theodor Uselding
+
+07/26/1892
+
+Cook
+
+ 
+
+00186730
+
+May Schockelt
+
+<span id="death"></span>
+
+\
+  **Deaths**\
+  
+
+**Name**
+
+**Date**
+
+**Death Place**
+
+**Age**
+
+**ID Number**
+
+**Spouse or Parents**
+
+Anna Uselding
+
+01/08/1896
+
+Chicago
+
+8 mo.
+
+0000019502
+
+John Peter & Margaret Wampach
+
+Anna Uselding
+
+03/28/1926
+
+Chicago
+
+94
+
+6010022
+
+nee' Enders, wife of John Uselding
+
+Annie Uselding
+
+08/07/1905
+
+Chicago
+
+46
+
+0000018402
+
+nee' Thill, wife of John Uselding
+
+George Uselding
+
+03/08/1892
+
+Chicago
+
+1
+
+000001863
+
+John & Anna Thll
+
+Girl Uselding
+
+04/03/1925
+
+Chicago
+
+ 
+
+6010275
+
+Jacob & Elizabeth Hoffer
+
+Henry Uselding
+
+05/20/1912
+
+Chicago
+
+33
+
+0000028180
+
+Husband of Veronica Blau
+
+Jacob Uselding, Jr.
+
+08/09/1924
+
+Chicago
+
+ 
+
+6020572
+
+Jacob & Elizabeth Hoffer
+
+John Useling
+
+08/22/1888
+
+Chicago
+
+21
+
+0000010952
+
+Husband of Lena Soeffge
+
+John Uselding
+
+01/20/1893
+
+Chicago
+
+70
+
+0000018805
+
+Husband of Anna Enders
+
+John Uselding
+
+11/16/1925
+
+Chicago
+
+68
+
+6029804
+
+Husband of Anna Thill
+
+John P. Uselding
+
+02/06/1934
+
+Chicago
+
+68
+
+6003670
+
+Husband of Margaret Wampach
+
+Kenneth Uselding
+
+09/10/1938
+
+Chicago
+
+4 mo.
+
+6024192
+
+Nick & Marie Rosenkranz
+
+Mary Uselling
+
+06/05/1888
+
+Chicago
+
+67
+
+0000010851
+
+nee' Felton, wife of Peter
+
+Nicholas Uselding
+
+04/19/1931
+
+Chicago
+
+44
+
+6012117
+
+John & Anna Thill
+
+Peter Uselding
+
+11/06/1898
+
+Chicago
+
+80
+
+0000020553
+
+Husband of Maria Felton
+
+Veronica Uselding
+
+08/23/1930
+
+Chicago
+
+47
+
+6023112
+
+nee' Blau, wife of Henry
+
+------------------------------------------------------------------------
+
+*Last Update: 14 January 2003*\
+[Lisa Oberg](/~lisanne/lisa.htm) \|\| <lisanne@eskimo.com> \|\| [www.eskimo.com/~lisanne/uselding/](http://www.eskimo.com/~lisanne/uselding/)

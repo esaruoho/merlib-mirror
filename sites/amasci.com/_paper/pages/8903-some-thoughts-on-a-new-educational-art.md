@@ -1,0 +1,37 @@
+---
+title: "Some Thoughts on a New Educational Art"
+source_domain: amasci.com
+source_path: ~telical/artedu.html
+order: 8903
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:16:51Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Some Thoughts on a New Educational Art
+
+*Source page: `~telical/artedu.html`*
+
+Some Thoughts on a New Educational Art
+
+**Some Thoughts on a New Educational Art\
+A New Understanding of Didactic Art\
+by R.S. Pearson**
+
+These are only some excerpts of the 55 page work, Emotive Virtuism, which is available at [Booklocker.com](http://www.booklocker.com/bookpages/rpearsonvirtue.html).
+
+Didactic arts are arts that benefit the viewer in some way intended by the artist, much like the way clergy seek to benefit a congregation by a sermon, or a professor benefits his class by a lecture. This is always going on implicitly in art, and in fact, much art is firmly based on some positive aspect of the didactic. We shouldn't confuse the words "pedantic" and "didactic." Suzanne Lacy, a renown activist/artist, has much work that is didactic. Emotive Virtuist art is didactic as well, but its not its only goal. Its goal is also to create beautiful creations of art.
+
+Not all artwork is didactic. The type of blessing bestowed by a didactic artist can range from information on science to information on social issues, to whatever one feels he should express to his public. Being conscious this aspect of art is beneficia l towards creating art that would be more intellectual stimulating. The mechanism of the didactic is a method by which art could make it's next jump in form and content progression.
+
+Imagine a scientist who is gifted in painting and decides to create a series of works that contained the elements of his understanding. Imagine such information beautifully portrayed in a way that science books would have to refuse as being a little too self-indulgent. Imagine having those works on one's wall. Over the years one would be able to slowly assimilate the information in the work, and be able to grow in that area.
+
+|     |     |
+|-----|-----|
+|     |     |
+
+[**`Creative Virtue`**](index.html)
+
+[**`Emotive Virtuism`**](virtuism.html)

@@ -1,0 +1,233 @@
+---
+title: "DADOG's JETTING PAGE"
+source_domain: amasci.com
+source_path: ~daddog/secretspeed.htm
+order: 2131
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:08:36Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# DADOG's JETTING PAGE
+
+*Source page: `~daddog/secretspeed.htm`*
+
+The DADDOG DOGRIDERS YAMAHA YFZ-450 TOP SECRET
+
+SECRETS OF SPEED FREE INFORMATION PAGE.
+
+BELIEVE IT OR NOT, THIS IS EVERYTHING WE EVER LEARNED. AND HERE IT IS
+
+"GREETINGS YFZ-450 owner! WELCOME to our site, SIR!!"
+
+------------------------------------------------------------------------
+
+READ ME BEFORE YOU GO ON TO THE REST OF THE WEB SITE.
+
+------------------------------------------------------------------------
+
+I am going to spill the beans for you today, I would just like to ask how old are you? Have you had the BIRDS and the BEES yet? The meaning of life? Well, now you are going to hear, In a few short moinutes, The hidden widom of the great motor makers. THE SECRETS OF SPEED. I would like to see your dyno test if it is over 52 hp but it likely won't be. Our first quad we had built ported high comp piston valves retainer etc etc etc pipe ignition etc etc and spend around 4000 all from name people on this list. they assured usn is should be around 60 hp. We dynoed it and it was 49.5 hp repeatedly. we then learned the lesson, a lot of hype and a lot of money exhanged hands. so we started wuilding our own quads and learning to jet. Ithere is no builder that has built a quad that can beat ours cause basically we are at the ceiling for the 439.
+
+HP = nRPM x cc if the airflow is perfect, thats it.
+
+McDizzy will tell you that.
+
+But do not dispare, it is good to send your engine to these builders, because we have to keep them in business! We do need them to rebore them do our valves, sell us pistons etc etc and there are some good builders out there including maxpower.com where we finally settled on our 480 kit which is awesome.
+
+Many people spend thousands and add the HP up on paper. This is how builders get more and more customers, people buing and adding things on paper and recommending to their friends and they never even dynoed it. This has happened for years, and will continue to happen for years.
+
+It won't change anytime soon, and many people will tear this post apart (cause they are engine builders and they dont like this info getting out, but hey, we tried
+
+If they can build a faster one, call us, well buy one also! no problem!
+
+One pipe manufacturer told us our JARDINE pipe was old tech! I said it would beat theirs, and they said NAH! so they sent us a free pipe to test.
+
+It was SLOWER than our Jardine by a few feet and lost midrange so we sent it back. We coulda kept it. they were surprised! They usually send pipes to be TESTED the web owner KEEPS them and writes a good REVIEW, its all about money. Well, it didnt' run as good as our pipes and we told them so, and they didn't like it. (Those dog guys must be weird) . We just beat ALBA and DTR racing the last race with our homebuilt quads that are faster than theirs. {url}www.eskimo.com\]~daddog/index.htm\[/URL\]
+
+You can do much yourself. But some things yopu need an engine builder. But keep it in perspective. Don't think you will get 25% more horsepower cause you wont. yes you need them to buy the kits from but working on your own is the most fun!
+
+Looking in DIRTWHEELS and adding up the HORSEPOWER does not work'/5 hp here 2 hp ther 3 hp there but it doesnt work that way.
+
+But if you say you have 60 hp, then we know you added up on paper, cause you do not have 60 hp. we went through that. not possible with a 439 cc motor without NOS
+
+(Oh check out our NOS page, that stuf is wonderful, for 500 bucks you CAN get 60 hp! easy!. we make no money on our site, just are tired of all the false claims out there, what we did and posted was real and you can do it for free. Your welcome.
+
+We bet if you dyno yours it wont be over 52 hp max. and I will guess right now you will be at 51 hp. sorry to dissapoint but 51 hp is very very good. you did not waste your money. no 439 has ever gone over 52 hop that I have seen, if so I would like to see it.. you can get 49 hp with a pipe, proper jetting and and K&N airfilter, 49.5 with a port job consistently, gobs more torque and a broader power band but you arent going to get 60 hp no way. isnt going to happen.
+
+But I would like to see the dyno if it is over 52 cause it would be a new record. Even 52 can only be uncorrected, like raw score. you cant get over 50 if you correct for temp and pressure.
+
+we have beat many SUPPOSED 55 or 60 hp YFZ-450's and then they come and say WHAT DID YOU DO??? and we said we threw away our jet kit and jetted by hand. and they are stumped. Some have told us their builders said it was 55 hp or 60 hp. but it wasn't. and it can't be.
+
+The only way to get 60 hp on a yfa is with NOS. Nitro fuel, air blower or turbo charger as far as I know. Alcohol wont even get you there, we tried that too.
+
+Everything on our web site we learned by hand over the last year. WE TRIED EVERYTHING THERE IS TO TRY and now our motors are 508 cc strokers, and they have titanium valve retainers, cams springs special and formula 1 single ring high rpm pistons with the rings costing 40 bucks each made from exotic metal, the pistons are the absolute best JE can forge, like triple forged. they are many hundreds a piston.the longer stroke crank and piston is LIGHTER than stock! the flywheel is minus 14 ounces and the things haul bananas.
+
+The valves are 3-5step angles and best flow porting money can buy, these things can rev quick and high and they dont even put out 60 well bet on it, but they will smoke any motor built by any other builder we ever raced and I wont name them here. they are the fastest 450;'s (508's) at this time we think. Cause they are, but I dont know if even THEY are 60 hp without the NOS.
+
+They may not be 60 hp but they are faster than any 439 that is for sure.
+
+We even tested by converting one of ours back to the FASTEST 439 setup we ever had and the 508's smoked them by many lengths, so they aint slow.
+
+We have used 4 engine builders already Walked into this with eyes wide shut and learned. Learned that there are many things you can do, but dont expect to beat everyone, lots of it is window dressing. makes you feel good. etc etc.
+
+Builders are necessary and good, but they will never tell you how much hp youll get., ever notice that? they let YOU come up with that and add it all together.
+
+So you can spread the word!
+
+and they do help with rebuilds, valves and a slew of things, engine builders are GREAT but they will not get you 60 hp. not on a YFZ450. but you will gain 1 hp or 2 hp but you could do this yourself. titanium valve retainers, cams or retard the stock cam and pipe and ron woods airfilter etc. you can spend thousands, and then you can be beat by a well jetted stripped down 439. anyway the problem with ADDING UP HP is the builders tak a STOCK 439 and then add their pipe and jet and they get like 5 hp. then they take a sSTOCK 450 and do their cams and dyno them and get like 4 more hp and then they take a stock 3450 and add an airfilter and jet and they ge 3 hp but they always go from stock
+
+When you do only one of those mods that is TRUE but when they are all put on together they DO NOT ADD UP fopr example, doing the cam mod gives you 3 from stock, if you ADD A PIP you get 3 more then the cames will give you a little more but not as much as if you did it alone. each succesive addition is less and less and you will peak at 50 hp anyone who SAYS they have 60 hp did not dyno it they added up the parts on paper.
+
+Oh, and if you dyno it, take it to a different shop than where you got it fixed. if you do it at your shop they will give you uncorrected hp sometimes, a different shop will dorrect it for humidity and temp. then post the dyno up here if you are over 52 cause you will have a record. Engine builders will give you a LITTLKE BIT MORE which may be what you need. but you can get real close to them for relatively FREE\> max 1-2 hp over what you can do yourself thats it. all the name brand builders nou have mentioned we have beaten quads from some of those with our cam modded 439 with a pipe and airfilter and correct jetting. If you are running a bought jet kit, then I know you can get more power just with fine tuning and jetting, we did. but of course, this post will be ignored by most because the experts might contradict what we said, (but who am I ) but you will find out they do not tell you what hp you will get, they will never commit, cause they dyno them and know better. they will say WE WILL GIVE YOU LOTS OF POWER.
+
+define lots of power... LOL.35? 45? 49?.Depends on what your selling.
+
+Anyway, not to say you DONT have 60 hp, but we think Probably you arent even close to that. Glad you are happy with it though.
+
+Given for a certain temperatur and pressure and fuel mixture
+
+the formula for power is: CC's times RPM = Horsepower - Friction
+
+Thats it. There is nothing more to add to that,,,
+
+And speed is not equal to power it is equal to the sum of all the little parts.
+
+Here is a post I just put up on bluetraxx... Please read it before you go all wide eyed with visions of high powered sugarplums racing in your head.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+Maddy jets lke we do, and that is bringing the pilot up and then jetting from there. We think you get better power that way overall. Check ou www.eskimo.com/~daddog/videos/modunmo.wmv
+
+This is a plain stock YFZ-450 out of the shop against a piped cam moded airboxlid off jetted (sortof) Yfz-450 that is about the difference I would acceept as stock if you put more than two mods on it.
+
+Modification makes a huge difference on the first and second mod, and less on mod two three four and less on mod 5 6 7 etc It is kind of like a curve going to a limit.
+
+some people changed the airbox FIRST so that was their BIGGEST GAIN that amazed them most.
+
+Some put a pipe on FIRST and that was their biggest impression and some cam modded right of the bat (like us) and THAT was their biggest impression.
+
+if you want to see the difference, go race a stock YFZ450 if you can find one, or just put your jets back to pilot 42 mainjet 158 and needle clip 3 and go ride it.
+
+Then you will realize the change.
+
+The people that do all the mods at once get the biggest surprise.
+
+We tried the cams last and found no big change at all and even a little loss on the bottom but that isnt fair, we were already peaked out.
+
+those who put the cams in first see the biggest change.
+
+If you already have 3 mods, whatever you do next wont be that big, but it will help a bit.
+
+A stock quad with JUST A PIPE can get several horsepower if that is the first mod, and it usually is.
+
+But just taking the baffle out and the AI LID OFF will equal just a pipe.
+
+So in final it depends WHO did what first.
+
+The people who LOVE something, usually did that mod first,
+
+or MORE IMPORTANTLY they FINALLY JETTED after that mod and noticed the gaines.
+
+------------------------------------------------------------------------
+
+YOU can buy all the parts you want, but to realize the POTENTIAL FOR THAT PART you have to jet to the max,
+
+otherwise that part is wasted.
+
+HORSEPOWER = DISPLACMENT times RPM minus FRICTION - THAT IS THE LAW you cannot break the law.
+
+Anything that will increase your RPM will increase your horsepower.Assuming proper airflow and jetting at that new RPM
+
+And engine life shall suffer.
+
+Anything that will increase your displacement should increase your horsepower. If you introduce the optimal fuel misture. And engine life shall suffer, unless you increase weight and strength.
+
+Concerning the Yamaha YFZ-450 - If you get every bolt on mod available you should be around a 48 pilot or 50,
+
+NCVQ needle on 5-6 or P needle on 3 and main 180 or so depending on altitude weather etc.
+
+You want to notice engine change?? buy a stock 450 and ride it at st Anthonies 4000 feet,
+
+Then put all the mods on and jet it for Oregon dunes, that will be like two worlds, oregon (or Pismo) really puts out the power.
+
+so, since everyone is always doing things in different orders, there will always be the CAM crowd, The PIPE crowd and the AIRFILTER crowd, when in fact once they get to max, they will all be right at 49 hp on corrected dyynos at sea level.
+
+you can only get so much horsepower out of certain cc, unless you put on a bottle. or change fuel etc, Or turbo/supercharge (which is really changing your cc's in the final analysis.
+
+after proper jetting, the only way to increase power is increas cc's if you are not jetting perfect for you at that time and place you are just Losing power. but hey, that may be ok, so what if you run 47 hp with a quick pipe and airfilter and jet, or if you run 49.5 hp with cam mod or cams, airfilter 2000 GPH, 4 inch pipe, bored carb ported head and 6000 dollars in mods.
+
+the difference is there, it is about 2-3 hp and it gets expensive quick.
+
+the cheap way is stock quad and strap on a bottle, dial in 10 hp and have fun for a day/ but that is not exciting, everyone EXPECTS power then, and no one will drag you, (theyd be crazy to drag a NOS quad)
+
+That is what we found. So, we settled at around 49 hp and having fun.
+
+The challenge is peaking wherever you go, like traveling and rejetting.
+
+Notice how the LOCFAL QUADS usually win? Well when they come to YOUR dunes they usually loose!
+
+thats the bottom of it all.
+
+There will be people denying this all, but then just ask them what they are selling. If they have something to sell, it always will add a lot and their friends are always surprised, cause they were probably the FIRST mod they did with that change.
+
+Let me tell you what we learned.
+
+MUMBER ONE IS WEIGHT you can change your weight far more easily than your HP
+
+number two is TIRES
+
+and number three is power.
+
+We can take a stock quad with pipe and airfilter and strip that puppy down and put special tires and gears on it an beat 95% of any 439 up whatever hill.
+
+Why?
+
+WEIGHT!
+
+thats where it is at. But you cant SELL weight, so the FOCUS is on PARTS, and a lot of expensive ones at that.
+
+If you jet right, you can take a stock pipe, drill out the inside and just TAKE THE WHOLE AIR FILTER OFF and jet to the mas and beat almost anything
+
+Speed is not power
+
+speed is the sum of ALL THE PARTS and WEIGHT RULES
+
+It is all very fun, and a never ending conversation.
+
+Quad riding is very fun and never ending. So hang in there.
+
+The best thing you can do is go on a diet, and learn to jet. there is a lot of potential there for very little money.
+
+BUT you can always go a LEETLE BIT FASTER with a lot more money.
+
+This post is all the dog wisdom we have learned over the last two year, and you can agree with it or not, But it is true.
+
+Have a nice day.
+
+So now that you understand how to go fast, and you still want to see any little advantage at any cost, Feel free to peruse the web site!
+
+And please go on a diet and learn to jet!
+
+.
+
+Remember while you are hungry, you are loosing weight.
+
+.
+
+While you are full you are gaining weight.
+
+.
+
+Stop eating all day long. LOL.
+
+.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ The surest way to learn, is the hard way. And we're sure learning hard. MOTTO: ) 1)on't Automatically Believe Everything You Read 2) Always "Explore The Opposite" 3) Never Fear Failure 4) When in Doubt, Go For It !! 5) Never Put Limits On Your Imagination 6) Spill the beans 7) Let the cats out of the bag. www.eskimo.com/~daddog/index.htm [\<](funny.htm)
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------

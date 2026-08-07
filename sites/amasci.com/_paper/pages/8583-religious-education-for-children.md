@@ -1,0 +1,59 @@
+---
+title: "Religious Education for Children"
+source_domain: amasci.com
+source_path: ~sunset/euuc/KidsRE.htm
+order: 8583
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-07T17:16:21Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Religious Education for Children
+
+*Source page: `~sunset/euuc/KidsRE.htm`*
+
+<table data-border="0" data-cellpadding="5" data-cellspacing="0" width="100%">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="8%" data-bgcolor="#00CCFF"> </td>
+<td width="88%"><p><span id="Top"></span> <a href="EUUC.htm">Home</a>  <a href="Minister1.htm">Minister</a>  <a href="Sermon.htm">Sermons</a>  <a href="SServ1.htm">Services</a>  <a href="About1.htm">About</a>  <a href="Contact.htm">Contact</a>  <a href="Events.htm">Events</a>  <a href="Welcome.htm">Welcoming</a>  <a href="Links.htm">Links</a> <a href="RE.htm">Top</a></p>
+<p><strong>THE RELIGIOUS EDUCATION FOR CHILDREN</strong></p>
+Welcome to our Religious Education program for children. We seek to provide a program that nurtures a child's natural sense of awe, wonder and respect for the world in which we live. In our safe and inclusive environment, young people may explore their immediate concerns and seek answers to the religious and ethical challenges they face in today's world.
+A SUNDAY AT THE EDMONDS UNITARIAN UNIVERSALIST CHURCH
+We begin our morning together in Chapman Hall at 10:00 a.m. This is a time for us to come together as one community in the morning service. At about 10:20, our young people move on to their Religious Education classes, while the adults remain in the service. The R.E. classes end at 11:30 a.m.
+PARTICIPATING IN THE PROGRAM
+The Religious Education program at EUUC is a volunteer-run cooperative. Every teacher you see in the classroom is a member or friend of the congregation who has taken time from a busy schedule to help provide this important opportunity for our young people. As the volunteers give their time, nurturing, learning, teaching and sharing, the children will see them as active contributors, leaders in the church community. And, in the process, they become connected with other families who share their values
+REGISTRATION
+<br />
+After attending four RE classes, you will be asked to register your child. There is an annual fee of $25.00 per family. After January 1, the fee is reduced to $12.50 and after April 1 the fee is waived. If this fee would cause any hardship for your family, it can be waived. However, registration is still important as it aids us in our program planning
+<p><strong>From the desk of Mary Marsh, Director of Religious Education</strong><br />
+Office Hours: Tuesday 9:00 to 12:00<br />
+Phone: 425-775-0733<br />
+ernail: huuman.athome@gte, net</p>
+<p>What a summer! It's my 4th in the Puget Sound, and I have to say, this has been the warmest and sunniest one yet! While we haven't had time for vacations this year, we have certainly been taking advantage of all the gorgeous weather and tourist attractions available. When the weather is this good, it just feels like paradise around here. I sincerely believe this is one of the most beautiful places in the world. And still, even with all this fun in the sun, I'm looking forward to our community ingathering and the year ahead. I've been busy putting things together so we'll be all ready to go when September 10 finally rolls around. Fall is such an exciting time in our program. Below is a brief rundown on some of what will be happening. Watch for the next newsletter for complete details on the coming program. Enjoy the rest of your summer - and we'll see you on the 10th!</p>
+<p><strong>Age Group Changes</strong> When I sat down with the actual numbers, I discovered that the class age groups we used last year will not work! Unless we want some classes to have about 5 or 6 kids while other groups are running around 30 students. After much tinkering, I have found a way to even out our classes - but it is an adjustment from last year.</p>
+<p>The following "solution" gives us 6 classes with around 15 students each. It's nearly perfect, however, we can't use simple grades or ages to group students. We literally have 30 students of the same age group and that doesn't work for an RE class. We must split that group and do it in away that won't be completely confusing on Sunday mornings.</p>
+<p>To help smooth the process, we'll be having students registered in advance. Students will be assigned to a class and I'll be doing a mailing to everyone in the RE database to let them know where their children have been initially assigned. When you get this information, please feel free to request a change. I'll make mistakes -because you know your kids better than I do. So, when you register your kids, simply tell me which class they belong if you want to make a change.</p>
+<p>Here are the groupings we'll be using this year:</p>
+<p><strong>Fireflies</strong><br />
+This is our toddler/preschool group. In general these kids are 4 and under and aren't ready to participate in group activities.</p>
+<p><strong>Sparks</strong><br />
+These kids are 4 to 7 years old. We will have some fairly loosely structured activities and a chalice lightingcircle time. Group projects and individual social time will be a part of the class.</p>
+<p><strong>Chalice Lighters</strong><br />
+7 to 9 years old - Experiential approach towards curriculum. Students should be able to cooperate in group activities, and enjoy some structured group projects, but the emphasis is on building friendships and feeling comfortable at EUUC.</p>
+<p><strong>Flames I &amp; II</strong><br />
+We've had to break up our 4th and 5th grade class and bring in a few 3rd graders to make the mix work. We'll have kids from 8 to 11 years old in two classrooms. In general one class will be slightly younger, and expectations will be focused on structured group projects and class activities. The other will tend to have the older of the group, and will be more cooperative in nature. Here are a few more details:<br />
+<strong>Flames I</strong><br />
+This will be an active, energetic class focused on exploring concepts experientially. The expectation is that the bulk of these students have one or more years to go in regular Sunday morning RE classes.<br />
+<strong>Flames II</strong><br />
+Through the use of drama and other cooperative activities, these students will explore RE concepts. The expectation is that the bulk of these students will be moving into the Middle School group next year.</p>
+<p><a href="RE.htm">Top</a> <a href="EUUC.htm">Home</a>  <a href="Minister1.htm">Minister</a>  <a href="Sermon.htm">Sermons</a>  <a href="SServ1.htm">Services</a>  <a href="About1.htm">About</a>  <a href="Contact.htm">Contact</a>  <a href="Events.htm">Events</a>  <a href="Welcome.htm">Welcoming</a>  <a href="Links.htm">Links</a> </p></td>
+</tr>
+</tbody>
+</table>

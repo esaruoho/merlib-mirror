@@ -1,0 +1,198 @@
+---
+title: "vitaet"
+source_domain: amasci.com
+source_path: ~kilroy69/vitaet.html
+order: 4170
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:10:58Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# vitaet
+
+*Source page: `~kilroy69/vitaet.html`*
+
+# Curriculum Vitae
+
+# John G. Poupore
+
+\
+
+**Office Address**
+
+Center for Policy Research\
+446C Eggers Hall\
+Syracuse University\
+Syracuse, New York 13244-1090\
+\
+\
+
+**Home Address**
+
+115 Green Acres\
+Weedsport, New York 13166\
+(315) 689-7463\
+\
+\
+
+# Education
+
+Ph.D.,Economics, May 1996 (expected): Syracuse University.\
+Dissertation: "Essays on Income Inequality and Poverty in a Dynamic Framework" Advisor: Richard V. Burkhauser\
+\
+
+M.A., Economics, August 1993: Syracuse University.\
+\
+M.S., Management Systems, completed all coursework except thesis: Clarkson University.\
+\
+B.A., Psychology, May 1987: State University of New York at Potsdam.\
+\
+
+## Specialization
+
+Fields of Specialization: Labor Economics; Public Economics Research Interests: The Measurement of Income Inequality and Income Distribution Issues; Poverty and its Causes in an Aging Population.
+
+# Teaching Experience
+
+\
+\
+**Utica College of Syracuse University:** Fall 1996 Instructor, Principles of Macroeconomics. Spring 1997 and Summer 1997 Instructor, Principles of Microeconomics**.\
+\**
+
+## Syracuse University:
+
+Summer 1995 **Instructor**, *Economics for Managers* (Graduate Level).\
+\
+Summer 1992 **Instructor**, *Principles of Microeconomics*.\
+\
+Fall 1991 to Spring 1992 **Teaching Assistant**, *Principles of Micro (Fall) and Macro (Spring) economics*: taught three recitation sections each semester and graded exams for students in those sections.\
+\
+\
+
+## State University of New York at Oswego:
+
+Spring 1994 **Instructor**, *Money and Banking.*\
+\
+\
+
+## North Country Community College:
+
+Summer 1991 **Instructor**, *Principles of Microeconomics* (two sections).\
+\
+Spring 1991 **Instructor**, *Introduction to Psychology* (one section) and *Developmental Psychology* (two sections).\
+\
+Spring 1990 **Instructor**, *Principles of Macroeconomics*.\
+\
+Fall 1989 **Instructor**, *Principles of Microeconomics* (two sections).\
+\
+Summer 1989 **Instructor**, *Principles of Microeconomics*.\
+\
+\
+
+## State University of New York at Canton:
+
+Fall 1990 **Instructor**, *Principles of Macroeconomics* (two sections).\
+\
+
+# Teaching Related Experience
+
+## Clarkson University:
+
+Fall 1989 to Spring 1990 **Teaching Assistant**, *Introduction to Statistics*. Duties included grading, occasionally teaching, and research activity not related to the class.\
+\
+
+## Potsdam College Special Services Program:
+
+Spring 1985 to Spring 1986 **Tutor**, Tutored students, usually on a one to one basis, in *Introduction to Statistics*.\
+\
+\
+
+# Research Experience
+
+## Center for Policy Research and The Metropolitan Studies Program
+
+\
+\
+May 1992 - Present: Research under Richard V. Burkhauser and the Cross-National studies on Aging, Poverty, and Income Inequality using the *Panel Study of Income Dynamics* and *the English Language Public Use File of the German Socio-Economic Panel* data sets.\
+\
+
+# Current Research Agenda
+
+- How retirement and the death of a spouse affect income and poverty patterns in an aging population.
+- An examination of the sensitivity of the Shorrocks Measure of the persistence of income inequality to the time period used in the analysis.
+- A look at the proportions of income inequality that can be attributed to inequality between workers within particular industries and inequaliy between workers in different industries.
+- A look at equity and the persistence of inequity in educational expenditures.
+
+# Papers
+
+\
+
+## Papers Revised for Requested Resubmission
+
+Burkhauser, Richard V. and John G Poupore. "A Cross-National Comparison of Permanent Inequality in the United States and Germany," December 1994, resubmitted to *Review of Economics and Statistics*.\
+\
+\
+
+## Papers in Progress
+
+Poupore, John G.. "An Analysis of the Sensitivity of the Shorrocks Measure of the Permanence of Income Inequality to the Choice of Accounting Period."\
+\
+Burkhauser, Richard V., Jan I. Ondrich and John G. Poupore. "A Hazard Model Approach to Economic Well Being Following Retirement."\
+\
+\
+
+# Awards and Honors
+
+- Syracuse University Four-Year Graduate Student Tuition Scholarship.
+- Syracuse University Teaching and Research Assistantships.
+- Beta Gamma Sigma, National Business Administration Honor Society, Clarkson University.
+- Omicron Delta Epsilon, National Honor Society in Economics, SUNY at Potsdam.
+
+\
+\
+
+# Courses Taken
+
+## Subject (Number of Courses); Instructors
+
+- Microeconomics (3); Mike Wasylenko, Susan Gensemer and Lu Hong
+- Macroeconomics (2); Don Dutkowsky
+- History of Economic Thought (1); Jerry Evensky
+- Mathematical Economics (1); Jerry Kelly
+- Econometrics (6); Duke Kao, Jerry Kelly, Jan Ondrich, Pinyuen Chen
+- Labor Economics (2); Thomas Dunn and Richard Burkhauser
+- Public Economics (2); Doug Holtz-Eakin, Ken Couch
+
+# References
+
+Richard V. Burkhauser (Dissertation Advisor)\
+Center for Policy Research\
+426 Eggers Hall\
+Syracuse University\
+Syracuse, New York 13244-1090\
+\
+Kenneth A. Couch\
+Center for Policy Research\
+434 Eggers Hall\
+Syracuse University\
+Syracuse, New York 13244-1090\
+\
+James E. Price\
+Economics Department\
+110 Eggers Hall\
+Syracuse University\
+Syracuse, New York 13244-1090\
+\
+Michael Wasylenko (Chairman)\
+Economics Department\
+110 Eggers Hall\
+Syracuse University\
+Syracuse, New York 13244-1090\
+\
+\
+
+[Return to Vitae Front Page](vitaeh.html).
+
+[Return to Main Page](index.html).

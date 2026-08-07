@@ -1,0 +1,129 @@
+---
+title: "How I Plan an Auto Vacation"
+source_domain: amasci.com
+source_path: ~samoyed/maps/howiplan.htm
+order: 7725
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:23Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# How I Plan an Auto Vacation
+
+*Source page: `~samoyed/maps/howiplan.htm`*
+
+How I Plan an Auto Vacation
+
+My objective on this page is two fold:
+
+1.  Give you in-depth detail on how you might use one of these programs to plan a motor trip. If you are considering buying one, this will hopefully show you what it can do. It does take a little effort to use them to the extent I portray below; but then you may not want the detail I use, and their operation would then be easier.
+2.  If you own one of these program and are having problems getting the details you want, maybe my techniques will be of assistance.
+
+This is a real trip. It is very close to the one I took the summer of '96. And the planning package was within an hour of all predicted times. I used Automap Road Atlas with the Destination Campground add-on; and I used Automap Streets. I will indicate along the way how things might differ if using Map'N'Go.
+
+Warning: this is awfully verbose and detailed; and I apologize for no pictures to help you along. You probably need a western US map to really follow along. If you have Automap or Map'N'Go, give it a try. Now, if you bail-out along the way, at least go to the end for [concluding comments](#concluding).
+
+Your first experience with one of these programs may not give the answers you want to know. I will give you an idea of how I used Automap to plan a 17 day trip, and I will indicate how it might differ with Map-N-Go (version 2). Automap can help you plan your timeline, whereas Map-N-Go can only rough it out. But then, looking for places to stay is Map-N-Go's forte, and Automap gives little help.
+
+My trip was round trip from Seattle, with two primary objectives: visit with friends as many days as possible in Tucson, AZ and Ontario, CA (30 miles E of LA); equal time in both places. The secondary objective was some time for sight seeing, possibly even spending a full day or two somewhere. We were pulling a trailer, so RV parks, campgrounds, and rest stops were fair game for lodging along the way. I was willing to put in a few 500 mile days, but would prefer 300 - 400 miles. And, the first day would be shorter as we would leave after work and travel until around midnight.
+
+So how much time did I have for visiting, and sight-seeing, and how far could I divert from the most direct loop.
+
+- I set the journey with start and end at home, and with Tucson and Ontario as two stop-over points. I set desired travel times of the day as 8 AM to 5 PM, and travel speeds as 55-60 (slower than speed limits as short stops will not be known to the program, nor will it account for them). Quickest calculation showed 6 days and 6 hours with no stops. So that leaves 10 days for visiting, sight-seeing and rest stops. Distance was about 3200 miles with a route down I-5 and back (boring). *Map-N-Go could handle the speed, but not the desired travel hours. It would have given the distance, but 60 hours of driving time instead of time of day. Dividing by 9 hours per day would give 6.7 days.*
+
+So, with 10 days, maybe I can go down through Mesa Verde Nat'l Park, CO and come back up the east side of the Sierra Nevada range, instead of I-5.
+
+- With the route wizard, I added Mesa Verde before Tucson, and added Mono Lake,CA (water feature) after Ontario. Mono is on 395 on the east entrance to Yosemite. Recalculating, it only added about a day (9 hours) and total miles was about 3400. Note: the wizard has a deficiency and only inserts after a selected stop, so inserting before the first requires duplicating the first, adding after the first, then deleting the first.
+
+So, I have about 9 days to play with. If I spend 3 on each visit, and one full day each at Mesa Verde and Mono, I would have one day left over. And, a friend is along the way in a town near Salt Lake (Pleasant Grove), so I may as well plan to go through there and maybe spend the night.
+
+So, what is there along the way that we have not seen. There are several ways to find out, all of which I used.
+
+- I set Automap to show National Parks and other land features I like; turned on the camera icons (points of interest with pictures); set the places of interest options for along the route; and took a look at a paper map (yes, they are still indispensable. The screen is too small). *Map'N'Go has similar (probably richer) features*. From this I found I was going right past Arches and the Petrified Forest; and Canyon de Chelly was not far away. There were also other sights of interest in the area, but I didn't think there was time. I did no looking on the return leg as that was familiar territory and we were going to breeze on through after Mono Lake.
+- I used the route wizard and inserted Pleasant Grove, UT; and inserted Arches, Canyon de Chelly and Petrified Forest in the appropriate locations.
+
+This added about 150 miles totaling 69 hours of driving time (*Map'N'Go would show a similar driving time*) and the days were 7 and 6 hours. With planned full days visiting (6) and sight seeing (2), this is 15 days and 6 hours. So I have a day for doing sight-seeing along the way and maybe shortening some days.
+
+The following tasks are left:
+
+1.  Tune the map to see if the current objectives are achievable and pick stopover times for sights. We will set up the real timeline in this step.
+2.  Where to stay;
+3.  Scrutinize the route for any micro-adjustments needed.
+
+Setting a real timeline is not possible in Map'N'Go, so this first step would have to be estimated on your own. It is possible in Automap, but sometimes takes some trickery. The following problems have to be overcome:
+
+1.  The manual set journey dialog box lets you add stops on the end and you can indicate stopping time in hours and minutes, but less than a day. Blanking a stop will cause its removal. The only way to insert a stop is to start at the end and copy all stops down one until you reach the insertion point.
+2.  The journey wizard lets you insert and delete stops, but you cannot specify stopping times. If you already have stops with times and you enter the wizard to edit, you will lose the stopping times. You then have to go back to the manual entry and re-enter times.
+3.  You can enter desired driving times of the day (I have 08:00 to 17:00) and it will start you every day at the appointed time, and stop you at some town before the appointed time. The first day can have a different start time. You need to set the start time of each day to your earliest day, and the stop to the latest day. You can then play games with a stopover to leave later or stop earlier. To leave later, go to your current stop and stay the appropriate time. To stop early, put in your stop and stay enough hours to end the day. To spend a full day, put another stop with the number of hours in your day.
+
+So, with the above trickery in mind, here is how we get a close approximation of the daily timeline.
+
+- Go into the route wizard and add duplicate stops for Mesa Verde and Mono (staying one full day at each), and add 3 duplicate stops each for Tucson and Ontario (spending 3 full days at each). Since Mesa Verde to Tucson is too long with the planned stops, add another Petrified Forest as a place holder. I will look for places at Canyon de Chelly, Petrified Forest, or somewhere between Canyon de Chelly and Tucson.
+- Go into the route settings and change the end time of each day as 23:00 (my latest day).
+- Go into the manual journey dialog box. Set the leave home time to 18:00 (leaving after work on first day). Set each full day stop to 15 hours. Set 10 hour stops for the 1<sup>st</sup> Mesa Verde, 1<sup>st</sup> Tucson, 1<sup>st</sup> Ontario, 1<sup>st</sup> Mono, and Pleasant Grove, UT, and one of the Petrified Forests (these should kill enough time at each to reach 23:00).
+- Recalculating the route has me hitting plans pretty close for hopeful overnight stops and total timeline (16 days 2 hours). 1<sup>st</sup> night lands me somewhere after Pendleton OR; 2<sup>nd</sup> where I want at Pleasant Grove about 7 PM; then hit Mesa Verde about 4:30 PM (gives some time for Arches along the way); Petrified Forest about 2:30 PM (this leg needs more tuning); Tucson about 2 PM (will change); Ontario about 4:30 PM; Mono about 3:30 PM; and then an open end for the last night.
+- I picked 3 hours each for sight seeing at Arches, Canyon de Chelly, and Petrified Forest. And I add another stop at Klamath Falls, OR for 10 hours as it would be about right for stopping the last night. It has me coming into Mesa Verde about 7:30 PM. And, with the 3 hour stopover at Canyon de Chelly, I would get into Petrified Forest about 5:30 PM. So, I need to spend the night near one of the parks, or in between.
+
+So, where to stay? The five areas under consideration, and how I resolved it, follow. In my case, I am looking for RV parks and campgrounds. You need "Destination Campground" added to Automap for this. If you want motels, Automap is of little use. Map'N'Go will give you AAA motels and campgrounds.
+
+1.  Pendelton, OR area: Since I am rolling in near midnight and want to leave by 8 AM, I am not interested in facilities. I decide a roadside rest would be sufficient. There is one after Pendelton.
+2.  Mesa Verde: Picked "A & A Mesa Verde RV park" across from Mesa Verde entrance from listing shown in Destination Campground. There were other choices in the area. Map'N'Go should provide the same information. I made reservations there (from Destination Campground information), as I figured it might be an area that fills up easily.
+3.  Mesa Verde to Petrified Forest Area. Destination Campground show little around Canyon de Chelly or Petrified Forest. Canyon de Chelly had an NPS campground without electricity; but I decided it might be too hot and I might want air conditioning; so I decided on a KOA in Gallup. I regretted this, as the Canyon de Chelly park was well shaded and we had mild temperatures. I made reservations at Gallup, as we would be arriving in early evening.
+4.  Mono Lake: had "Mono Vista RV Park" in Lee Vining; where I had stayed before. I made reservations here as it was the 4<sup>th</sup> of July time period.
+5.  Klamuth: Koa and another park in the area. Made no reservation and decided to take my chances.
+
+So, the final changes to the route were as follows:
+
+- Couldn't route to the rest stop near Pendelton, as Automap does not treat them as a place you can go; but the overnight stop was close, so I left it at that. *I would hope Map'N'Go allows routing to rest stops, but don't know.*
+- Changed the Mesa Verde stops to the RV park.
+- Changed the first Petrified Forest stop to the Gallup KOA for 10 hours and made sure the second was 3 hours.
+- Changed the Mono Lake stops to the RV park.
+- Left Klamath alone, but took the RV park listings with me.
+
+So changing the 1<sup>st</sup> Petrified Forest stop to the Gallup KOA got me in there after 5 PM. The Tucson arrival was then about 5:30 PM with 3 hour stop at the Petrified Forest.
+
+I then looked at tuning the route to see if there were any slight deviations. The route looked acceptable.
+
+I then constructed a notebook with the following:
+
+1.  Trip itinerary and route map;
+2.  Blow-up maps of sections of the route where I wanted more detail *Map'N'Go would do the same, or you could divide up the trip into sections or build strip maps*;
+3.  Street maps (with Automap Streets) of towns I knew I would be venturing into;
+4.  Information on places of interest. Some from Automap, some from web sites, etc;
+5.  Information on places we would be staying (from Automap);
+
+And lastly, I ordered a TripTik® from AAA and their maps and tourbooks. They are handy to have in the cab, and my wife would prefer to browse them, then to leaf through my 8 ½ x 11 notebook.
+
+------------------------------------------------------------------------
+
+<span id="concluding">Concluding Comments</span>
+
+These planning programs can give you a lot of assistance in planning a motor trip within the United States, Canada and Mexico. They can pick a route that is close to meeting your desires. They tell you how long the route is, and how much driving time. And they will even suggest sights of interest along the way and help you find lodging. But, they have a lot of options which can be overwhelming.
+
+One big benefit is in "what if" investigation. You dig out all those maps and guide books and plan a trip. Then you ask the question: sight X is nearby, do I have time to go there? You can divert to sight X and see what difference it makes. Map'N'Go will give mileage and time from start of trip; and you have to calculate your own timeline. Automap will also give you time of day and let you spend time at a stopover and do overnight stops; but the controls need considerable improvement for conveniently doing "what if" planning with stopping times.
+
+A second big aid is choosing places to stay; especially if you are looking in suburbs or rural areas. Catalogues listing campground and lodging usually list by town. I have often sat with a map and a guide book leafing back an forth between towns. With these programs, you can see places pinpointed on the map, or get lists of places within a certain area. Automap is lacking in this area. It only offers RV parks and campgrounds (with the Destination Campground add-on). Map'N'Go is good in this area.\
+
+*Dispense with Maps and Guidebooks?*
+
+A 15" screen cannot compare to a big paper map spread out on a table when you are trying to grasp the big picture; plus see possible places of interest along the way. But, with the programs, you can zoom into areas and see good detail; plus filter on the types of attractions that interest you.
+
+But on a trip you need to take the traditional tools along if there is any chance you will deviate from the itinerary (unless you have a laptop - *I don't*). A laptop would be great if planning a trip on the fly; and having access to street maps whenever venturing into some town would be indispensable. And, if you were lost and had it connected to a GPS, you wouldn't have to stop and ask directions. But, where do you set it up while driving, and is your navigator comfortable with a laptop vs. Maps?
+
+Even though I plan a trip in excruciating detail, I still order a AAA TripTik®. Although its route is no different than mine, it is small and easier to work with in the car than an 8 ½ x 11 notebook.\
+
+*Bottom Line*
+
+If you enjoy planning your own trips, and especially if you enjoy refining it for weeks beforehand; these programs are for you. Map'N'Go has lodging, campgrounds and restaurants; whereas Automap only has RV parks and campgrounds (with the Destination Campground add-on). Automap lets you plan a realistic timeline with planned stops and overnight stays; whereas Map'N'Go only gives total driving time. For points of interest, they both do reasonably well; but Map'N'Go is probably richer in information.
+
+Enjoy. They are fun to play with. And, I even use them often to lookup a city in the news.
+
+------------------------------------------------------------------------
+
+[Back to map introduction](index.html)
+
+[My home page](../index.html)
+
+[Ron Bowser - samoyed@eskimo.com](mailto:samoyed@eskimo.com)

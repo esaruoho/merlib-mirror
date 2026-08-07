@@ -1,0 +1,83 @@
+---
+title: "Trial lawyers discover global warming"
+source_domain: amasci.com
+source_path: ~rarnold/trial_lawyers.htm
+order: 6642
+reachable_from_entry: false
+images: 1
+internal_links: 9
+extracted: 2026-08-07T17:14:02Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Trial lawyers discover global warming
+
+*Source page: `~rarnold/trial_lawyers.htm`*
+
+<table id="AutoNumber1" style="BORDER-COLLAPSE: collapse" data-bordercolor="#ffffff" height="50" data-cellspacing="1" data-bordercolordark="#FFFFFF" width="750" data-bgcolor="#336699" data-bordercolorlight="#FFFFFF" data-border="1">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bordercolorlight="#336699" width="100%" data-bgcolor="#336699" data-bordercolordark="#336699"><p><img src="paul_driessen_portrait_05.jpg" data-border="0" data-align="left" width="101" height="145" /><strong>Center for the Defense of Free Enterprise<br />
+Economic Human Rights Project</strong></p>
+<p><strong><br />
+Paul Driessen<span style="font-size: 14.0pt; font-family: Arial"><br />
+</span><span style="font-family: Arial">Trial lawyers discover global warming</span><span style="font-family:Arial"><br />
+Eco-radicals add phony lawsuits to their anti-civilization arsenal</span></strong></p></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#ffffff"><p><strong><a href="index.html" style="text-decoration: none">HOME</a>    <a href="issues.htm" style="text-decoration: none">ISSUES</a>    <a href="opposition.htm" style="text-decoration: none">OPPOSITION</a>    <a href="projects.htm" style="text-decoration: none">PROJECTS</a>    <a href="defenders.htm" style="text-decoration: none">DEFENDERS</a>    <a href="wiseuse.htm" style="text-decoration: none">WISE USE</a>    <a href="book_store.htm" style="text-decoration: none">BOOKSTORE</a>    <a href="archive.htm" style="text-decoration: none">ARCHIVE</a></strong></p></td>
+</tr>
+</tbody>
+</table>
+
+<span style="font-family: Verdana; font-weight:700">Paul Driessen,\
+Director, Economic Human Rights Project</span>
+
+<span style="font-family: Verdana; font-weight: 700">December 18, 2004</span>
+
+**Much to the outrage of ideological environmentalists and certain segments of the international community, the United States wont sign the Kyoto Protocol which some apparently believe will guarantee happy ever-aftering on a planet where temperatures remain fixed in a one or two degree spectrum, rain never falls til after sundown and winters exit March the second on the dot.**
+
+**Even worse, they bellow, President Darth Bush has set a terrible example. Now, Australia wont sign the treaty either, and neither will China, India, Brazil, Uganda or even Argentina, the folks hosting the latest four-star hotel and dinner global warming gabathon.**
+
+**Climate alarmists might be able to enjoy their usual antics, but they wont come away with the big prize they had so eagerly sought: entry into force of a binding treaty that would give them and their bureaucratic friends control over the economies, energy and lifestyles of everyone on Earth, especially gluttonous Amerikans. So they have fallen back on Plan B, with the expectation that it might generate a Day After Tomorrow tidal wave of litigation that would make the breast implant, asbestos and tobacco suits look like an off-Broadway dress rehearsal. **
+
+**EarthJustice, Friends of the Earth, the Center for International Environmental Law and other outfits are busy in Buenos Aires, bolstering the efforts of Arctic Inuit Indians to sue an assortment of corporations for climate genocide, or something like that. The Inuits subsistence traditions are threatened, they inform us, by catastrophic warming caused by our wanton use of fossil fuels. On the witness stand, providing expert testimony, is one Robert Corell, lead author of the Arctic Climate Impact Assessment (ACIA) study thats gotten the *New York Times*, *Washington Post*, *London Guardian* and other liberal media folks all agog.**
+
+**Very rapid and severe climate change in the Arctic, rising sea levels from the projected melting of Greenlands ice shelf, changes in animal habitats and possible shifts in ocean currents <span style="color: windowtext">present serious challenges to human health and food security, and possibly even the survival of some cultures, </span>Dr. Corell solemnly intones. Even now, abnormally warm weather might be causing wildlife to disappear and the Inuits snowmobiles to fall through the ice. To back up these gloom-and-doom claims, he offers an array of glitzy charts and maps.**
+
+**But the linchpin of his Armageddon theory lies in a temperature graph that depicts a 33-year warming trend, during which temperatures rose nearly 1.5 degrees Celsius (2.7 F).  Project that out in a straight line, Dr. Corell and his team say, and its easy to foresee a potentially devastating temperature spike of 4.5 C or 8.1 F over the next century. Rising seas would surely inundate New York City, Bangladesh and the Florida keys, as another Corell graphic graphically shows.**
+
+**Thankfully, its all just the stuff of Hollywood horror movies. Not only is the ACIA study flawed. Its as phony as a three-dollar bill as plausible as the science in The Day After Tomorrow.**
+
+**Its horrific scenarios depend on Dr. Cs deliberate selection of the 1971-2003 time snapshot, and his faulty assumption that this trend will continue, forever. Relatively cold in 1971 warmer in 2003 Arctic meltdown by 2100, if we dont slash fossil fuel use immediately.**
+
+**But what if he and his team had selected a different window, just a few years earlier such as the period 1938 to 1966? During those three decades, Arctic temperatures FELL 3.5 C (6.3 F), according to studies by American, Canadian, Russian and other researchers. At this rate, equally incompetent computer models could easily show, temperatures would plummet a whopping 12.5 degrees C (22.5 F) in just one century and reached the temperature of dry ice (minus 109 F) in just five centuries. Talk about threatening wildlife and Inuit culture!**
+
+**This scenario is just as ludicrous and just as reasonable as what Corell & Co. would have us fall for hook, line and sinker. Actually, its only a slight exaggeration of what their predecessors the global cooling alarmists who have since morphed into todays global warming alarmists did back in the 1970s.**
+
+**Thats when they, *Newsweek* (see its April 28, 1975 issue) and their fellow travelers were wailing and gnashing their teeth over agricultural disaster amid another theoretical little ice age because of our wanton use of fossil fuels, of course. Had they been quicker on their feet back then, the ever-inventive eco-lobbyists would no doubt have found some natives in Hawaii (or Tuvalu) to file lawsuits to stop that cultural genocide.**
+
+**However, its a fact of life here on Planet Earth that our climate is as unpredictable and cyclical as the solar and orbital variations that play dominant roles in determining that climate. Thus we get mild temperature shifts every 40 years or so, and much more significant changes every few hundred years amid interglacial periods that are marked at either end by massive walls of ice flowing down from this same Arctic, obliterating everything in their path: forests the last time, maybe entire cities the next.**
+
+**The global environmental movement, however, has long portrayed our planet as a stable, idyllic utopia until evil people, corporations and technologies ruined everything. It has a nice, neat Garden of Eden ring to it. But it ignores the Ice Ages, Medieval Warm Period, Viking colonization of Greenland back in the days (950-1300) when people could actually grow crops there, and Little Ice Age (1350-1650) when northern seas were choked with ice and Europe was plunged into an era of cold, wet, stormy weather that destroyed crops, caused famines, and hammered populations, communities and cultures.**
+
+**The ample historical record of these events underscores how turbulent and uncertain Earths climate has always been. (Its doubtful that caveman, Viking or Medieval fires caused those past climate mood swings. Perhaps it was space aliens who also used fossil fuels, but took all the evidence home with them.) To suggest that we have suddenly arrived at an immutable ideal state may serve the pressure groups political ends, but it is not reality.**
+
+**The best thing we humans can do is continue to adjust to changing climates, just as our ancestors did. The worst thing we could do is follow the radicals prescriptions, and agree to hobble our institutions, forego future health and prosperity, and impose permanent poverty on our Earths least fortunate citizens in the name of preventing a purely conjectural problem. **
+
+**If a corporation or accounting firm were to issue an annual report or stock offering as bogus and Enronesque as the slick ACIA analysis, its officers and directors would end up in jail and deservedly so. Unfortunately for us, but fortunately for the climate charlatans, no such laws govern eco pressure groups or even semi-governmental groups like the ACIA so they can get away with trying to con all of us.**
+
+**In the long run, we need to reform our legal system, to enforce basic standards of honesty, integrity, transparency and accountability for everyone: for-profit and not-for-profit corporations alike. In the short run, we simply need to apply the same standards of credibility to Dr. Corell, Friends of the Earth, Greenpeace and their Inuit plaintiffs, as we now do to Enron, WorldCom, Arthur Anderson and other crooks who bilked employees and investors out of billions.**
+
+**The stakes are certainly much higher this time because these eco flimflam artists threaten to disrupt our economy, technology, health and prosperity, to safeguard us from a risk that is no more real than Tyrannosaurus rex bursting out of a lump of Cretaceous amber.  **
+
+------------------------------------------------------------------------
+
+**Paul Driessen is senior policy advisor for the Congress of Racial Equality, Committee For A Constructive Tomorrow and Center for the Defense of Free Enterprise, and author of *Eco-Imperialism: Green Power Black Death* (<a href="http://www.eco-imperialism.com/" style="color: blue; text-decoration: underline; text-underline: single">www.Eco-Imperialism.com</a>)**
+
+**<a href="the_center_view.htm" style="text-decoration: none">RETURN TO THE CENTER VIEW</a>**
+
+**<a href="index.html" style="text-decoration: none">RETURN TO CENTER FOR THE DEFENSE OF FREE ENTERPRISE HOME PAGE</a>**

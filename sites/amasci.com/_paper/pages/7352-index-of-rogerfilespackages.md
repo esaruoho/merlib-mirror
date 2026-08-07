@@ -1,0 +1,36 @@
+---
+title: "Index of /~roger/files/packages"
+source_domain: amasci.com
+source_path: ~roger/files/packages/index.html
+order: 7352
+reachable_from_entry: false
+images: 15
+internal_links: 1
+extracted: 2026-08-07T17:14:55Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Index of /~roger/files/packages
+
+*Source page: `~roger/files/packages/index.html`*
+
+# Index of /~roger/files/packages
+
+     Name                    Last modified       Size  Description
+
+     Parent Directory        19-Jan-2005 17:13      -  
+     1                       09-Feb-2005 13:14     1k  
+     crw-1.92.tar.bz2        20-Sep-2003 17:01    31k  
+     gc82-20050117.tar.bz2   17-Jan-2005 13:28   167k  
+     gc82-20050117.tar.bz..> 17-Jan-2005 13:28     1k  
+     gc82-20050117/          17-Jan-2005 13:19      -  
+     gc82-20050208.tar.bz2   08-Feb-2005 21:21   163k  
+     gc82-20050208.tar.bz..> 08-Feb-2005 21:22     1k  
+     gc82-20050209.tar.bz2   09-Feb-2005 19:20   175k  
+     gc82-20050209.tar.bz..> 09-Feb-2005 19:20     1k  
+     gc82-20050219.tar.bz2   19-Feb-2005 18:06   175k  
+     gc82-20050219.tar.bz..> 19-Feb-2005 18:06     1k  
+     makehtml.zip            30-Oct-2004 09:50    31k  
+     pvrusb2/                19-Jan-2005 17:33      -  
+
+------------------------------------------------------------------------

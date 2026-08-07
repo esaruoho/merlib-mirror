@@ -1,0 +1,456 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0409.htm
+order: 6863
+reachable_from_entry: false
+images: 13
+internal_links: 0
+extracted: 2026-08-07T17:14:19Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0409.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+--
+
+**After the offending bit is popped out\
+these tiny stitches on your neck**
+
+are exquisite. Lips of the slit\
+don't speak the way you think they should,
+
+break into stupid song, blow kisses\
+at the doctor. . .
+
+       *Rachel Loden,* ["Lives of the Saints"](http://rehue.csociales.uchile.cl/rehuehome/facultad/publicaciones/Pares/pares4/poesia19.htm)
+
+> []()\
+> []()\
+> \
+> -- APRIL 9
+>
+> 
+>
+> 
+>
+> 
+>
+> C
+
+H
+
+A
+
+**R**
+
+L
+
+ES
+
+
+
+B
+
+A
+
+UD
+
+Y ...
+
+*L*
+
+A IRE
+
+
+
+
+
+\
+
+"Be drunken always with wine, poetry ... even with virtue"\
+our tipsy translation from The Flowers of Evil.
+
+> 
+>
+> ------------------------------------------------------------------------
+>
+> NAME YOURSELF DAY.
+>
+> ALL OVER AGAIN DAY.
+>
+> HOCKTIDE: celebrates a battle in 1002 when Saxon women defeated the Danes.
+>
+> ------------------------------------------------------------------------
+>
+>  []()\
+> []()\
+> \
+> 1553 -- Francois Rabelais dies, Paris France. His last will states:
+>
+> > "I have nothing. I owe much. I leave the rest to the poor."
+>
+> <http://perso.club-internet.fr/ytak/avril2.html#9>\
+> []()\
+> \
+> 1626 -- Death of Francis Bacon, statesman/philosopher. []()\
+> []()\
+> \
+> 1754 -- New World: Letter from Indian slave trader to South Carolina Governor J. Glenn asking for permission to use one group of Indians to fight another:
+>
+> *"We want no pay, only what we can take & plunder, & what slaves we take to be our own."* []()\
+> []()\
+> \
+> 1802 -- Elias Lnnrot lives (1802 - 1884). Collector of folklore, linguist, medical doctor, professor in Finnish philology. Compiler of the Finnish national epic [Kalevala](http://virtual.finland.fi/news/showarticle.asp?intNWSAID=1868&intNWSCategoryID=4) for which he travelled among the Lapps, the Estonians & the Finnish for about 10 years interviewing & writing down their stories, poems & songs.\
+> He also compiled a Finnish-Swedish dictionary & began the first magazine in Finnish, Mehilinen (The Bee). Not enough: he also wrote & arranged psalms.\
+> <http://www.kirjasto.sci.fi/lonnrot.htm>\
+> []()\
+> \
+> 1821 -- Charles Baudelaire lives (1821-1867), Paris. 
+>
+> > One of the great 19th century French poets, who formed with Stphane Mallarm & Paul Verlaine the so-called Decadents. His translations of Edgar Allan Poe made Poe better known in France than the US. He became addicted to opium & hashish, & contracted syphilis, which proved lethal, while in law school.\
+> > When his Les Fleur du Mal appeared in 1857 all -- author, publisher, & printer -- were prosecuted & found guilty of obscenity & blasphemy.\
+> > After a lecture tour in Belgium he became seriously ill & died in Paris in his mother's arms.
+> >
+> > > "Genius is childhood recaptured."
+> >
+> > \
+> > <http://www.geocities.com/Paris/Metro/1301/>\
+> > See Kenneth Rexroth articles in Classics Revisited or More Classics Revisited.<http://www.eskimo.com/~masonw/gwwc.htm>\
+>
+> <http://www.kirjasto.sci.fi/baudelai.htm>\
+> \
+> 1834 -- France: In Lyon, the insurrection of the Silk workers begins. It is the beginning of the "Sanglante semaine" (Bloody Week).\
+> [\[Details, click here\]](http://recollectionbooks.com/bleed/04ref.htm#09/1834) []()\
+> []()\
+> \
+> 1839 -- Eadweard Muybridge, pioneered study of motion in photography, lives, Kingston upon Thames, England. []()\
+> []()\
+> \
+> 1859 -- US: Caution? Mark Twain (Samuel Clemens) is licensed as a Mississippi steamboat pilot in St. Louis after his two-year apprenticeship.\
+> <http://marktwain.miningco.com/>\
+> []()\
+> \
+> 1865 -- US: Civil War ends with Lee's surrender at the Appomattox courthouse. Over 500,000 lay dead (out of a 35 million population). []()\
+> []()\
+> \
+> <img src="http://www.magnet.ch/serendipity/cda/bill_o_r.gif" data-equal="" data-rights="" for="" data-all"="" data-hspace="10" data-vspace="20" data-align="LEFT" width="75" height="120" alt="(F)red&#39;s" />\
+> 1866 -- US: Congress passes a bill over the veto of Beloved & Respected Comrade Leader President Andrew Jackson guaranteeing the same civil rights to all persons born in the US (citizenship for all except Indians, of course). The prez was empowered to use the Army to enforce the law.\
+> []()\
+> []()\
+> \
+> 1874 -- US: Crapshoot? Muckleshoot Indian Reservation established (Washington State). (The casino came much later.) []()\
+> []()\
+> \
+> 1875 -- Jacques Futrelle lives (1875-1912), Pike County, Georgia. American journalist, theatrical manager, & mystery writer, who died on the Titanic 15 April 1912.\
+> [\[Details, click here\]](http://recollectionbooks.com/bleed/04ref.htm#09/1875) []()\
+> []()\
+> \
+> 1877 -- Louis Rimbault, French anarchist & vegetarian, lives (1877-1949). (See [10 November 1949](http://www.eskimo.com/~recall/bleed/1110.htm) & [27 February 1913](http://www.eskimo.com/~recall/bleed/0227.htm)).
+>
+> > []()\
+> > []()\
+> > \
+> > <img src="http://www.louisville.edu/~kprayb01/images/WCcolor-spot.jpg" data-border="0" data-hspace="10" data-vspace="10" width="275" height="350" alt="Bill Claude" />\
+> > 1879 -- William Claude Dukenfield, a.k.a. W. C. Fields, lives (or Jan 29?).
+> >
+> > "Taint a fit night out for man nor beast..."
+>
+> []()\
+> []()\
+> \
+> 1880 -- Maria Jotuni (1880 - 1943) lives, Kuopio. Novelist, playwright, one of the classic feminist authors in Finland. Jotuni was influenced by postnaturalism & impressionism, expressed in her choice of form: short stories, fragments of prose, impressions & dialog. She often shows society from a woman's point of view, as in her major novel, Huojuva Talo (1963).\
+> <http://www.kirjasto.sci.fi/jotuni.htm>\
+> []()\
+> \
+> 1885 -- France: During this month, dbut de la parution, Paris, sous la direction de Jean Grave, de la deuxime srie de l'organe anarchiste Le Rvolt.\
+>
+> Le Revolte
+>
+> <http://www.maitron.org/histoire/chrono/chrono3.htm>\
+> []()\
+> \
+> 1894 -- France: Hunger revolt in Lyons.
+>
+> []()\
+> []()\
+> \
+> <img src="http://www.pbs.org/newshour/images/entertainment/july-dec97/bl.gif" data-border="0" data-hspace="10" data-vspace="10" width="150" height="100" alt="?" />\
+> 1898 -- US: American Renaissance man Paul Robeson lives, Princeton, New Jersey. Football star, actor, singer, black liberation fighter. 
+>
+> > During the Cold War, Robeson was not allowed to leave the Land of the Free & the Blacklist virtually destroyed his career. (Oddly, seemingly the same rightwingers who deny the Holocaust ever happened also deny existence of the Blacklist.)
+> >
+> > Exiled communist, with a voice so international that it could be heard on the only juke box in the only public bar in the only hotel in Ulan Bator, Mongolia during the bad old days of Stalinism. 
+> >
+> > He renounced his US citizenship. <http://www.princeton.lib.nj.us/robeson/links.html>\
+> > <http://www.pbs.org/newshour/bb/entertainment/july-dec97/blacklist_10-24.html>\
+> > <http://www.isomedia.com/homes/bhd2/paul_robeson.htm>\
+>
+> []()\
+> \
+> 1908 -- US: Beloved & Respected Comrade leader President Teddy Roosevelt investigates legality of not only barring anarchist propaganda that advocates political violence, but also prosecuting those who produce the material.
+>
+> > > ...When compared with the suppression of anarchy every other question sinks into insignificance. The anarchist is the enemy of humanity, the enemy of all mankind, & his is a deeper degree of criminality than any other. No immigrant is allowed to come to our shores if he is an anarchist; & no paper published here or abroad should be permitted circulation in this country if it propagates anarchist opinions.
+> > >
+> > > \
+> > >
+> > > > Beloved & Respected Comrade Moose President Theodore Roosevelt,\
+> > > > [Message To the Senate Committee on the Judiciary Regarding Transmission Through the Mails of Anarchistic Publications](http://www.blancmange.net/tmh/articles/bonaparte.html)\
+> > > > April 9, 1908
+
+\
+[]()\
+[]()\
+\
+1914 -- Admiral Henry T. Mayo, acting on his own, provokes an international incident by demanding a special 21-gun salute from Mexicans at Tampico. To save face Beloved & Respected Comrade Leader President Woodrow Wilson sent an American fleet to Veracruz, & occupied the city in retaliation for the arrest of US sailors in Tampico.
+
+> "They sell a little image of us in the markets of Mexico, with a bowie knife in one side of the girdle, & a Colt's revolver in the other, a huge loaf of bread in the left hand, & a slave whip in the right. That is America!"
+>
+>  Wendell Phillips
+
+[]()\
+[]()\
+\
+1915 -- US: Anarchists Frank Abarno & Carmine Carbone, members of the Italian anarchist Gruppo Gaetano Bresci, accused of planting bombs in St. Patrick's Cathedral & the Church of St. Alphonsus on the five year anniversary (October 13, 1914) of the execution of [Francisco Ferrer](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#f), are today sentenced to 6 to 12 years in prison.\
+<http://www.socsci.kun.nl/ped/whp/histeduc/radicaled.html>\
+<http://sunsite.berkeley.edu/Goldman/Guide/chronology0119.html>\
+[]()\
+[]()\
+\
+1917 -- English poet, Edward Thomas, dies in Arras, France. []()\
+[]()\
+\
+1919 -- Bavaria: Spartacus League attempts military *coup d'etat* against Bavarian Councils Republic to establish "proletarian dictatorship". []()\
+[]()\
+\
+1919 -- Bavaria: Second Bavarian Councils Republic destroyed by "Freicorps" under orders of Social-Democratic government.
+
+[]()\
+[]()\
+\
+1919 -- John Presper Eckert, co-inventor of first electronic computer (ENIAC), lives.\
+
+
+[]()\
+[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/postersMisc/whatisdada.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="250" height="225" alt="?" />\
+1919 -- The 8th 'Dada-Soire', at the 'Kaufleuten-Saal'. During a reading of Walter Serner the audience begins with interjections & finally some of them attack the stage. The whole auditorium was in commotion & Dada-Zurich ended in tumult & chaos as it began.\
+<http://www.mital-u.ch/Dada/cabvolte.html>\
+[http://mama.indstate.edu/users/dada/\
+](http://mama.indstate.edu/users/dada/)[]()\
+\
+<img src="http://recollectionbooks.com/bleed/images/anarchist/S&amp;Vshahn.jpg" data-&="" data-vanzetti="" data-border="0" data-hspace="10" data-vspace="10" width="277" height="409" alt="Sacco" />\
+1927 -- US: Massachusetts: Death sentences for "those anarchist bastards" (quote from the trial Judge Thayer during the trial) Nicolas Sacco & Bartolomeo Vanzetti are upheld.
+
+> excerpt...AMERICA
+>
+> ...America how can I write a holy litany in your silly mood?\
+> I will continue like Henry Ford my strophes are as individual as his\
+> automobiles more so they're all different sexes\
+> America I will sell you strophes \$2500 apiece \$500 down on your old strophe\
+> America free Tom Mooney\
+> America save the [Spanish Loyalists](http://www.english.upenn.edu/~afilreis/88/spain-home.html)\
+> America Sacco & Vanzetti must not die . . .
+>
+> --Allen Ginsberg
+
+<http://www.english.upenn.edu/~afilreis/88/sacvan.html>\
+
+> []()\
+> \
+> <img src="http://www.keaveny.demon.co.uk/lehrer/tom_lehrer.gif" data-width="200" data-vspace="30" data-hsapace="10" height="170" alt="Sing along with Tom..." />\
+> 1928 -- The 20th century's greatest living American classical composer, arranger, musician, singer: Folk singer, protester Tom Lehrer lives.
+>
+> > I'd like to take you now, on wings of song as it were, & try & help you forget for a while your drab, wretched lives.
+> >
+> >  Tom Lehrer, "Poisoning Pigeons in the Park"
+> >
+> > <http://www.keaveny.demon.co.uk/lehrer/>\
+
+[]()\
+\
+1932 -- The 20th century's greatest living American journalist, The Realist editor Paul Krassner , lives!
+
+> Crime Ball(ooning)? ...
+>
+> FORTY TWO STRIKES & YOU'RE OUT(LAW)?:
+>
+> "A jealous Thai woman has been arrested for cutting off her husband's penis. The Thailand police say 42 similar crimes have been reported to them in the past 15 years. 
+>
+> What marks this incident as different is that she tied the severed penis to a helium-filled balloon & watched it float away."
+>
+> <http://www.primenet.com/~lippard/realist.html>\
+
+[]()\
+\
+1932 -- Rock n' Roll's Carl Perkins lives, to wear Blue Suede Shoes. []()\
+[]()\
+\
+1942 -- Norway: Teachers returning from strike publicly reject Nazification. []()\
+[]()\
+\
+1947 -- US: First day of Freedom Ride, the "Journey of Reconciliation," sponsored by CORE & FOR, with white & black activists riding (otherwise) segregated buses through four southern states. 
+
+> April 9-23 Congress of Racial Equality (CORE) sponsors interstatebus ride to test June 3, 1946 Supreme Court ruling that Negropassengers could not be forced to sit at the back; Bayard Rustin, of the Fellowship of Reconciliation, Igal Roodenko, & Joseph Felmet serve 30 days on a chain gang. Lynchings in the south have reached 1918 levels, as Negro G.I.s return, talk of getting the rights they fought for.\
+> <http://www.spartacus.schoolnet.co.uk/USAjor.htm>\
+> \
+> <http://www.swarthmore.edu/Library/peace/DG151-175/dg161irood.htm>\
+> []()\
+
+[]()\
+\
+1948 -- Colombia: If they do not kill him, Jorge Elicer Gaitn will be president. 
+
+> Buy him, they cannot. To what temptation will he succumb who despises the pleasures, who is single, who eats little, drinks nothing & refuses anesthesia to remove a tooth? 
+>
+> The poor & ragged ones adore him, flock to hear him speak. They say when Gaitn speaks it breaks the fog in Bogota.
+>
+> The arrogant caudillo, tidbit statue face, speaks the naked language of the oligarchy, sitting on the knees of the imperialistic ventriloquist an oligarchy without its own life, its own words, mouthing agrarian reform & other truths that end a lie.
+>
+> 
+>
+> > Lo mataron! Lo mataron!
+>
+> In the street, three shots. Time has run out, Gaitn is left unemployed . . . Jorge Elicer Gaitn is assassinated. Listening, earthquake noises, a human avalanche comes to him above. From suburbs & hills, advances a whirlwind, a hurricane of the pain & wrath comes sweeping the city, breaking show windows, upsetting street cars, setting afire buildings...
+>
+> In Spanish, see Eduardo Galeano, Century of the Wind,\
+> <http://spin.com.mx/~hvelarde/Uruguay/Galeano/memoria/abril.htm#BM19480409>\
+
+[]()\
+\
+1956 -- US: African American Singer Nat King Cole is beaten up by a group of racial segregationists in Birmingham, Alabama. []()\
+[]()\
+\
+1963 -- Winston Churchill, 88, is proclaimed an honorary US citizen by Beloved & Respected Comrade Leader Boot-Legger's son, John. Dad Joe Kennedy, Ambassador to England & a notorious WWII right-wing defeatist, rolls in his grave. []()\
+[]()\
+\
+1966 -- US: Week of Angry Arts Vietnam Mobilization fund raiser at Longshoremens Hall, 400 North Point St., in Frisco.\
+<http://www.msstate.edu/Archives/History/USA/Vietnam/vietnam.html>\
+[]()\
+\
+1967 -- US: Digger Emmett Grogan arrives in NY (6 week trip, having left someplace about March 1).
+
+anarchist
+
+<http://www.bigmagic.com/pages/blackj/column9a.htm>\
+[]()\
+\
+1967 -- US: Second day of riots in Nashville, following Stokely Carmichael's speech at Fisk University. []()\
+[]()\
+\
+1969 -- US: Deanie Babies?: Harvard students take over the campus administration building, ousting the deans. 300 led by SDS seize University Hall. More action to come over next few days. []()\
+[]()\
+\
+<img src="http://www.cosmicbaseball.com/pwlogos7.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="right" data-="" width="100" height="100" alt="Phil Ochs logo" />\
+1976 -- Folk singer Phil Ochs hangs himself at his sister's house, Far Rockaway, NY. See also [19 December](http://www.eskimo.com/~recall/bleed/1219.htm)\
+
+> "It is wrong to expect a reward for your struggles. The reward is the act of struggle itself, not what you win. Even though you can't expect to defeat the absurdity of the world, you must make that attempt. That's morality, that's religion. That's art. That's life."
+>
+> [http://www.clark.net/pub/cosmic/ochs8.html](http://www.cosmicbaseball.com/ochs8.html)\
+>  <http://www.cs.pdx.edu/~trent/ochs/index.html>\
+
+> "I knew Kate well & I traveled with her a good bit. I found it unsatisfactory mainly because there were people on the stage that weren't really associated with her life & nobody was singing her songs. When Cloud called me about the possibility of doing this, I described to him Phil Och's night. Well, Phil Och's sister, Sunny, three times a year rents a big hall, gets four or five well known folk singers & they do a show. 
+>
+> Every singer does three songs, two of their own & one of Phil's. 
+>
+> That's her way of making sure Phil Och's songs are still sung & made available to audiences."
+>
+>  U. Utah Phillips
+
+[]()\
+\
+1979 -- Longest doubles ping-pong match of 101 hours, begins. []()\
+[]()\
+\
+1981 -- Canada: Members of Big Stone Cree end a 250 mile march to Edmonton, Alberta, to highlight economic plight of Big Stone Cree in northern Alberta. []()\
+[]()\
+\
+1981 -- Ireland: Robert (Bobby) Sands elected to Parliament in 6th week of hunger strike. []()\
+[]()\
+\
+1984 -- US: One day after his administration announced it will not recognize the Worlds Court's jurisdiction over the mining of Nicaraguan harbors, Beloved & Respected Comrade Leader acting President Reagan proclaims May 1 as "Law Day USA." Sez the prez: "Without law, there can be no freedom, only chaos & disorder."\
+[]()\
+[]()\
+\
+1986 -- US: The Sam Goody record chain & top company executive are convicted of trafficking in pirated tapes. []()\
+[]()\
+\
+1989 -- US: Over 300,000 choice supporters march in Washington, D.C., to defend the Supreme Court's 1973 Roe v. Wade decision. A 1985 poll showed that 74 percent of the country did not believe that abortion could be outlawed again. But with the right to choose clearly in danger, agitated volunteers have inundated the National Organization for Women, the National Abortion Rights Action League, Planned Parenthood, theAmerican Civil Liberties Union & the Fund for the Feminist Majority. []()\
+[]()\
+\
+1992 -- Comedian Sam Kinison dies when a pickup truck slams into his car on a desert road between L.A. & Las Vegas.\
+[]()\
+[]()\
+\
+1995 -- US: Over 100,000 at Rally For Women's Lives, Washington DC.
+
+[]()\
+[]()\
+\
+<img src="http://www.pmalitfilm.com/images/bookcovers/CowsWithGuns.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="right" width="120" height="171" alt="(F)red&#39;s Killing Fields" />\
+1997 -- *Mad Cow Disease* while much of the world shuns British cows, a Cambodian newspaper suggested yesterday that the animals be shipped to Cambodia & allowed to roam free & detonate the millions of land mines littering the country:
+
+> <img src="http://vgap.net/images/militants1g.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="360" height="255" alt="?" />
+>
+> THE FINAL SOLUTION
+>
+> "The English have 11 million mad cows, & Cambodia has roughly the same number of equally mad land mines. Surely the solution to Cambodia's mine problem is here before our very eyes in black & white," the Cambodia Daily said. "The plan is simple, practical, & will make mince-meat of the problem overnight," the paper said.
+
+\
+
+> > []()\
+> > []()\
+> > \
+> > 1998 -- US: Giving "Parental Supervision" a Bad Name?: In Martinez (Calif.): a man was playing "What's That Color?" with his small son while driving & held his breath to produce a red or blue color. However, he held his breath too long & passed out, & the car ran off the road. Neither person required medical attention.
+>
+> []()\
+> []()\
+> \
+> <img src="http://www.nara.gov/exhall/newdeal/77.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="140" height="200" alt="?" />\
+> 3500 --
+>
+> HENRI LEFEBVRE, 1947
+>
+> > To understand this properly, we need to think about what is happening around us, within us, each & every day. We live on familiar terms with the people in our own family, our own milieu, our own class. This constant impression of familiarity makes us think that we know them, that their outlines are defined for us, & that they see themselves as having those same outlines \[...\] But the familiar is not necessarily the known \[...\] Familiarity, what is familiar, conceals human beings & makes them difficult to know by giving them a mask we can recognize, a mask that is merely the lack of something. & yet familiarity . . . is by no means an illusion. It is real, & is part of reality. Masks cling to our faces, to our skin; flesh & blood have become masks.
+> >
+> > <http://www.birdhouse.org/words/wbrown/41curses.html>\
+> >
+> > > []()\
+> > > \
+> > > <img src="http://melior.univ-montp3.fr/ra_forum/images/anin31.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="180" alt="?" />\
+> > > 4500 --
+> > >
+> > > []()\
+> > > []()\
+> > >
+> > > ------------------------------------------------------------------------
+> > >
+> > > anti-CopyRite 2000-3000, more or less\
+> > > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> > > or send questions, suggestions, additions, corrections to:\
+> > > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+> > >
+> > > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+> > >
+> > > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+> > >
+> > > anarchist, labor, radical books
+> > >
+> > > See also: Anarchist Encyclopedia\
+> > > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> > > Stan Iverson Memorial Library\
+> > > http://recollectionbooks.com/siml/\
+> > > Anarchist Time Line / Chronology\
+> > > http://recollectionbooks.com/bleed/indexTimeline.htm

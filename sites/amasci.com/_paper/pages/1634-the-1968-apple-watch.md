@@ -1,18 +1,18 @@
 ---
 title: "The 1968 Apple Watch"
 source_domain: amasci.com
-source_path: ~bpentium/beatles/apple_watch/index.html
+source_path: ~bpentium/beatles/apple_watch/index.htm
 order: 1634
 reachable_from_entry: false
 images: 4
 internal_links: 1
-extracted: 2026-08-07T05:55:19Z
+extracted: 2026-08-07T17:07:57Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # The 1968 Apple Watch
 
-*Source page: `~bpentium/beatles/apple_watch/index.html`*
+*Source page: `~bpentium/beatles/apple_watch/index.htm`*
 
 |                                                                    |
 |--------------------------------------------------------------------|

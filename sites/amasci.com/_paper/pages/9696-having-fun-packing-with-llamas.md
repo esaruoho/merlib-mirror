@@ -1,0 +1,95 @@
+---
+title: "Having fun packing with Llamas"
+source_domain: amasci.com
+source_path: ~wallama/jen.htm
+order: 9696
+reachable_from_entry: false
+images: 2
+internal_links: 9
+extracted: 2026-08-07T17:17:50Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Having fun packing with Llamas
+
+*Source page: `~wallama/jen.htm`*
+
+<table width="100%" data-border="0" data-cellpadding="5" data-align="CENTER">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><h1 id="backpacking-with-llamas">Backpacking with Llamas</h1></td>
+</tr>
+<tr>
+<td><img src="cbar.gif" data-border="0" width="385" height="25" /></td>
+</tr>
+<tr>
+<td><br />
+</td>
+</tr>
+<tr>
+<td><h2 id="by-jen-barker">By Jen Barker</h2></td>
+</tr>
+<tr>
+<td><br />
+</td>
+</tr>
+<tr>
+<td><strong>I often find myself embarrassed to tell people what is living in my backyard. Being a 17 year old girl I dread that someone will think that my families weird and different. When I do tell people my age that my family raises llamas, I am many times mocked and become the brunt of all jokes for weeks to come. But deep down I know how lucky and special I am to have such wonderful, majestic creatures living with me. Having them has enabled me to view the most beautiful things I have ever seen. They have provoked my most exciting adventures and created some of my most wonderful memories.</strong></td>
+</tr>
+<tr>
+<td><strong>Almost every summer my family of 5 load up our light blue horse trailer with 6 willing llamas and head out to the wilderness to spend a glorious, relaxing vacation away from the everyday stress and commotion our lives. Quite a few years ago my mother came to the brilliant solution that if we took llamas on our wilderness adventures than we would not have to carry anything and could hike for a more extended period of time, and as my parents got older and more brittle and we the children became older and a lot lazier our llamas became a great incentive to keep returning to nature.</strong></td>
+</tr>
+<tr>
+<td><strong>Llamas are a member of the camelide family. They originate form South America in such countries as Peru and Chile. They play a vital role in the South American culture ,providing food, wool for clothing, and a means of moving goods for the people. This is where the idea of backpacking with llamas came from. Llamas are good to backpack with because they are able to hike for long periods of time and don't require a large amount of food. On our trips we bring along small portions of alfalfa and Bermuda grass for the llamas to eat when we come across places where grazing is not allowed or not sufficient .</strong></td>
+</tr>
+<tr>
+<td><strong>My most vivid and exciting memory from backpacking with llamas comes from when I was about 13 and we decided to climb New Army Pass. We were traveling through the West side of the Sierras and had been out for 4 days ,fatigue was beginning to set in and the dramatic change of altitude was not quite agreeing with my sensitive stomach. We woke that morning not really knowing the great task that was lying ahead of us. We carried out of normal morning routine of eating a mediocre breakfast and packing up camp. As usual I convinced my sister to stuff my sleeping bag( a frustrating task I have yet to finish) and I in turn cleaned her plates and silver wear. While my mother and father readied the llamas, my brother, sister and I explored the surrounding rocks and crevices, constantly stopping to simply absorb the beauty and pureness that surrounded us.</strong></td>
+</tr>
+<tr>
+<td><strong>Back at camp my parents began to equip the llamas with packs and saddles that my mother specifically designed for people who want to backpack with their llamas. She calls them Llama Luggage and has made quite a successful business selling them. Depending on their size and strength each llamas carries from 50 to 100 pounds. The packs were customer designed to fit a llamas unique body shape and are quite comfortable for the llamas to wear. As soon as we had all 6 llamas, (Henry, Johnny, Timber Willy, Picacho, and Rocky) all ready to go we headed out to what turned out to be our most challenging and rewarding day together.</strong></td>
+</tr>
+<tr>
+<td><strong>Through most of our journeys I and my llama, Timber, have been the leaders. This is due to the fact that I walk faster than anyone else in the family and that Timber has something against walking behind the others llamas (perhaps having something to do with his ego or sense of leadership that Timber loves to have). Each llama has a different personality and preference when it comes to backpacking, trying to comply to all of these is often our most difficult tasks. Conflicts between the llamas was not unusual ,but could be avoided with some strategic placing of order by my parents and myself. This particular day Timber and I had set quite a fast pace for ourselves and ended up about a half mile ahead of everyone else. As I rounded the final switch back I saw something that filled my little body with such intimidation and excitement I began to shake. It was called New Army Pass. This was a 13,000 foot pass that, from where I was standing went straight up a rock. I couldn't in my wildest imagination think of how I was supposed to hike up this, especially since I had a llama with me.</strong></td>
+</tr>
+<tr>
+<td><strong>After a 3 hour trek up this gigantic barren mountain we, and the llamas made it to the top. There we were able to enjoy the breath taking views of the surrounding mountains and joke about the incredible obstacle we had just over come. Backpacking with the llamas has taught me a great deal. I have learned to better understand the importance of teamwork and how to be patient and compassionate towards another species. It is true that people make fun of the creatures I share my home with, and yes, I am often embarrassed because of them ,but my llamas have given so much .I now know what extra ordinary things can be found in nature, and I know why its so important to keep them there. I respect what the earth has to offer and I can hopefully share that with others. I hope everyone has a chance to see all that I have, with or without a llama.</strong></td>
+</tr>
+<tr>
+<td><h3 id="im-sure-jen-would-enjoy-hearing-your-questions-or-comments-on-her-article-you-can-drop-her-a-note-at-this-address-ecllamasaol.com">I'm Sure Jen would enjoy hearing your questions or comments on her article, You can drop her a note at this address: ECllamas@aol.com</h3></td>
+</tr>
+<tr>
+<td><br />
+&#10;<img src="cbar.gif" data-border="0" width="385" height="25" /></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td><br />
+</td>
+</tr>
+<tr>
+<td><strong><a href="refndx.htm">Back</a>| <a href="index.html">Home</a>|<a href="photo.htm">What do Llamas Do</a>|<a href="love.htm">Cria to Teen</a>|<a href="faq.htm">Llama FAQ's</a>| <a href="ranch.htm">Different kind of Ranch</a>|</strong></td>
+</tr>
+<tr>
+<td><strong><a href="pr.htm">PR Llamas</a>|<a href="snow.htm">Snow in the Pasture</a>|<a href="linkndx.htm">Link Index</a>|<a href="mailto:wallama@eskimo.com">E-mail</a></strong></td>
+</tr>
+<tr>
+<td><strong><a href="http://www.eskimo.com/~wallama/pnw/">PNW Web Design Business Site</a></strong></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td><br />
+<strong>Web Pages &amp; Graphics Created by: PNW Web Design</strong><br />
+<strong>For Web Page Development contact <a href="mailto:wallama@eskimo.com">Sandy Stillwell</a></strong></td>
+</tr>
+<tr>
+<td><strong>Copyright © 1996, 1997, 1998, by Sandy Stillwell. All rights reserved, including the right of reproduction in whole or in part, in any form. This document can not be reproduced without the written consent of the owner.</strong></td>
+</tr>
+</tbody>
+</table>

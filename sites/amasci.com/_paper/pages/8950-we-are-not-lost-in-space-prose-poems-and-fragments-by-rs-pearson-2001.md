@@ -1,0 +1,687 @@
+---
+title: "We Are Not Lost in Space -- Prose Poems and Fragments by R.S. Pearson (2001)"
+source_domain: amasci.com
+source_path: ~telical/notlostinspace.html
+order: 8950
+reachable_from_entry: false
+images: 1
+internal_links: 2
+extracted: 2026-08-07T17:16:53Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# We Are Not Lost in Space -- Prose Poems and Fragments by R.S. Pearson (2001)
+
+*Source page: `~telical/notlostinspace.html`*
+
+We Are Not Lost in Space -- Prose Poems and Fragments by R.S. Pearson (2001)
+
+|  |  |
+|----|----|
+| [**`Creative Virtue`**](index.html) | [**`Robert Pearson Poetry and Prose`**](lit.html) |
+
+**We Are Not Lost in Space -- Prose Poems and Fragments\
+by R.S. Pearson (2001)**
+
+Note: One probably can't understand a lot of my poetry without understanding about the lineage of who I consider the greatest modern poets: Andre Breton, Tristan Tzara, Rimbaud, and e.e. cummings. I purposefully try to decontruct language and put it back together. For some people, this may be too weird: I'm sorry!
+
+I also try to sometimes invent little science fiction scenarios in my poetry. These aren't experiences that I've had that I write about, only my imaginations, my fictions.
+
+Dedicated to my friends I grew up with in West Islip, New York.
+
+    1
+    (Fragments)
+        
+
+    we are not lost in space, although it would make more
+    sense to feel we are.  
+    The late afternoon air --
+    hyperventilation of early evening
+    stars outside us
+    the map of a neighborhood.  
+
+    we don't see the scale of what we occupy in distance. 
+    what we occupy in the currency of the heart is 
+    measureless.  timeless.  spaceless. 
+
+    -
+    sacred eternity our sacred home
+    original space modifiable conscious
+    my tear for the star
+
+    -
+
+    a softer city has taken me in
+    rain tear hoping political concerns
+    a softer population, less teenage trend
+    I, the main source of my realness,
+    strive to be awake, alive, concerned
+
+    -
+    stay still in your mind.   
+    stay still in your arms and relax....your feet
+    stay still in your feelings for a while
+
+    inner multiplication on a solution table 
+    feminine star grace redemptive attention
+    I see the merge of one symbol from the old to the new
+    let me tell you of the mathematics of one symbol from the old
+    to the new
+    that of the God who suffers, of Florence Nightingale's
+    supplications, of the good Samitaran's applications.
+            
+    I see this by creative dreaming
+    creation in conditioning, visualizing hoping 
+    drugless luxuriations towards higher emotion
+    against the vague terrorization that becomes attached
+     
+    -
+
+    random sets of orbital fructose
+    nets cubic mall gifts in
+    oxygenated vegetation machines of life
+    of where you are in air 
+    in space
+    on earth, sunny place 
+    feels like blue wind in your hair
+    and then later, nocturnal kisses, 
+    infinity breasts, in twilight stare
+
+    -
+
+    across the old city sky
+
+    horizon's show the skyscrapers
+    of the 42nd century
+    superimposed upon
+    this day of an earlier time
+
+    frozen sunlight gas
+    whole net free storm dirty forest
+    grass trees bramble bus
+    the skyline sets the day to
+    setting tones of the sun
+
+    turning the air to a dull baby blue
+
+    clouds broken apart as if by providence
+    by a grace ordered structured and made light
+
+    -
+
+    higher things to do 
+    more meaningful and true 
+    belief in the sets showing their way to display
+    the pattern, and then the foundation
+    is true, various and life begin to display, 
+    more themes
+    and subjects emit
+
+    -
+
+    starsunlight
+    sun light pounding down shares possibilities
+
+    I see all that is in me is of the sun.  
+    Days with shining faces hard for the helpless 
+    so that their hardships be finally undone. 
+
+    This act was what the sun gets from earth, a bit of it
+    refracted -- the eternal light of heaven, made in our
+    flaming hearts.  
+
+    -
+
+    Rewarded in the lap of the luxury of the air. 
+    We are the pool reflecting others beauty and wonder.   
+    We still the waters in awe, our beauty and wonder
+
+    Warm night, romance breeze, not yet twilight, 
+    papers moving lightly in the air.  
+    Breath deep, feel the universe's warm love, 
+    join the emotional aristocracy
+
+    -
+
+    A musical harmony beating, 
+    keeping smiling, soaked blue mirth
+    Light yellows, blue gold white alive above and around
+    Watching carefully morbid or droning waves around me
+    The possibilities of this life astound me. 
+
+    -
+
+    I, a living being, autonomous to the boundaries of this creation
+    Encountering in my scope, all time and space
+    Instead of all distance and movement
+    I see it like a small solid in front of me. 
+
+    -
+
+    Life is a battle between impressions of life 
+    taking root in ourselves.  
+    Our bodies and the matter of events in our lifetime follow suit
+    The readings of the level of light in our mind and soul
+    is the book we read
+    The control of our movement in space 
+    is a streering wheel
+    to guide one there 
+
+    guided to the earth stars
+
+    socializing, my hand -- my relaxation gauge --
+    turns me up, turns me down. 
+    The culture's poster child
+    without a cigarette, 
+    one who lives wise and merry to their
+    ripe old age
+
+    I sink in beautiful gratitude today -- 
+    colors alive and staying.  
+    There is thoughtfulness, thankfulness, and 
+    even a blessing on my parents.  
+
+    -
+
+    Remember yourself, carver in life best visions 
+    against a mass of hazy psychological curses 
+    which can be the ambiance often of this world. 
+    where are the protective angels about which they once heard
+    to steer their thoughts in godly life?
+
+    -
+
+    vision outside the function of time on matter: 
+    butterfly hatching solidification of all human events --
+    like pods hatching souls into eternal life
+
+    -
+
+    young lady lighthouse
+    burn yellow fire guidance
+    ascender sidewalk
+    I see you where ever I go
+    Here in this city in a day
+    I see two or three of you.
+
+    -
+
+    It's an oscillating stream, the near and the far.  
+    Phase to self-reflection
+    the I divided attention throughout the day
+    beaming love to and from one's heart
+    divided attention and even to pray
+
+    -
+
+    I opened up for what good I saw
+    what the tops of the stars had to say
+    what could a man hear?
+    If he really tried?
+
+    could he hear evolutionary altitudes?
+
+    the special events promised in spiritual books
+    the majesty inherent in all life experience
+    is it in your doctrine?
+
+    you know about love and joy 
+    -- that what you don't use about them
+    you lose all there is about them
+
+    -
+
+    poetic mind flights arrivals
+    symbols like airports of mighty time space shifts
+    symbols like awareness of clouds from deep space
+    scents of other worlds
+    flavors of paradise
+    blowing in like fresh winds 
+    into parts of oneself
+    that seem like hollow senses
+
+    something saved for many to have
+    to try to pull it back from forlorn strangeness
+    and understanding why such things become someone's madness
+
+    fierce fighting for one's beauty after witnessing
+    the seeming conspiracy against it
+    the conspiracy against one's youthful beauty, curiosity, grace and hope.
+
+    dreaming how this conspiracy against one's beauty was defeated
+    in a practical life
+    a life looking back at 59 or 80 
+    not hopes at 17 or 28
+
+    saved from what becomes in some a very destructive world pattern
+    without loving our past, all our past days
+    there would be no glorious present
+    no great happiness experienced in the now 
+    from ourselves that we lived
+
+    expecting from the public a crucifixion of grace 
+    it will be forever now this elegetic reality
+    I forgive the entire thing
+    I allow the entire thing to be beautiful
+    fully alive, fully capable
+    a pocketful of rewards from past choices and decisions
+
+    what can I say now about the future
+    except that a grin comes to me
+    like in a little boy's eye
+    who knows he can have the things he's missed 
+    as an obvious result from new choices
+
+    unidentified 
+    I have no set financial value
+    I have no understanding of what others feel toward me
+    I recognize no past
+    I recognize no future
+
+    any given day has all the miracles in it that any other day has
+    The trick is avoid the whole world of oneself 
+    to live out the magic that creates the miraculous:
+    merely positive emotions can always, any day, 
+    come in when we link with the retractable force of love
+
+    -
+
+    is our collective bad feature
+    the not looking back with happiness?
+    no gratitude for today
+    the strength to write it out again
+    better, deeper -- today.
+
+    what stays in my brain, as opposed to what I need?
+    what lingers in my air, brought by the inner suns
+    hard rays? 
+
+    how can a liberation be that great?  
+    to unify my mind above the whole town's trend? 
+
+    how can an older man outphase all he's been through, 
+    when he's been around the progressive since a teen? 
+
+    words can be repeated in echoes from poems of old, condensed
+    to save that thing is to repeat the message, the vibratory. 
+
+    what exercises stayed in my mind
+    to be repeated wherever I am? 
+    Am I tossed and turned without hope, without anchor?
+    without a life preserver?  
+    Watching my breath, then seeing the light
+    dreaming of seeing my soul again
+    To see it again and again
+    the soul that is the very engine of perception
+    that thing I own, the thing that owns me, 
+    the engine 
+    the thing that we operate from explicitly. 
+
+    a daze attracted to face when shifted up 
+    from awareness of consciousness
+    affluent luxuriation in music's atmosphere
+    getting back to the roots of life's finest things
+    inner smiles in us forming the saturation of kisses
+    like the sunshine's heat expand make me bold
+    not to become small like the ice when cold
+
+    2
+            Imagine the brain of someone who loved everything about
+    your hometown:  fond weather, glowing evenings where,
+    before, staying in sweet restaurants, the smells and trails
+    of twilight following them home.
+
+            The jobs are good here, there are a million smart people
+    here.  They seem fascinating and they acknowledge you are
+    one of them.  A unity not perhaps like the old unity this
+    town once had, that was a bit colloquial and limited, but a
+    new unity not based on birth but on choice, on some kind of
+    technocracy or meritocracy, yes, but hopefully stronger...
+    as at times I can still see nature in this city shine it's
+    breath on one, and I know this fresh feeling that is so
+    unique -- it's as if the land is gently smoking.
+
+    3
+
+    you mentate siloqueys and sonnets
+    about threats and dominance
+    but inside have you ever seen
+    not to make accounts
+    about how you think you're seen?
+
+    tallies empty, not added up
+    from imaginations holdings
+    removed from a lifetime 
+    the accountings of imperfect place?
+
+    imagine using your mind to build
+    without that process of making accounts
+    about what others are perhaps thinking of you?
+
+    be free to live life in the stream
+    of a good escape from
+    your siloqueys and sonnets
+    about threats and dominance
+
+    walk into my imagination
+    my positive landscape of you
+    the resonance of the waveform
+    of your terrain
+    is increased by the time 
+    graced dwelling on you
+
+    waking from living in the dream
+    the day to day encampment we have in the dream
+    which is the true house of us here on earth
+    the dream on top of the realities 
+    which are the true foundations of life
+
+    4
+
+    poetry is a force to sear life open 
+    when living has no life
+    like no city to a suburb
+    no higher products of the mind
+    only monster trucks all around
+
+    and I won't die yet
+    fortuitous, my word of words
+    comes to me in time 
+    friends from ages past
+    a world opened through love
+    through friendship, via similarities, nothing else
+    and I don't accept my childish nature
+    what do I break after all these years?
+    what kind of construction in gold appears?
+
+    these recoveries are beautiful
+    the harmony between all is now here
+    because, we hate being judged
+    so we hate juding others
+    we hate being sized up 
+    so we hate that which does it in us
+
+    imaginative constraints
+    come against helping a soul 
+    who is handicapped
+    fear of contamination, exploited
+    and excuses richochet in the brain
+    how they must feel
+
+    so disfigured, so disabled
+    playing a game, maybe
+    fighting a war against our 
+    imaginative constraints
+    against ever touching
+    seeing, being with helping along
+
+    5
+
+    help my mind be something greater
+    take my emotions out of dullness
+    help me give up sufferings that don't bring goodness
+    help me to know that prayer will bring me there
+
+    help me to know
+    prayer will bring me the future
+    wherever we want to go together, Lord
+    wherever you know we should go
+
+    willing to walk out of darkness
+    that is, not knowing prayer will bring me to the light
+    so now before I continue
+    let the reader pause for a moment to pray
+
+    I will leave behind from the place I'm leaving
+    people or things we realize won't come
+    help me know prayer might bring them here
+
+    6
+
+    if we could make a race of men
+    who when standing up for their rights
+    would feel extreme guilt and remorse
+    feeling they were mistreating those around them
+    such a race could always be kept 
+    as subservient pitiful slaves
+
+    7
+
+    I feel emotion's chilly sun burst so high
+    but this time it is guided by the intellect of the intellect
+    disengaging from the stigma's branded by the commerce mass
+    the mass that outputs children killing children better and younger
+
+    I feel emotion's chilly sunburst so high
+    but this time guided by the intellect of the intellect
+    disengaging from the processing of status by monetary payments
+
+    I feel emotion's chilly sunburst so high
+    but this time guided by the intellect of the intellect
+    engaging in the tasting of freedom
+    thanks to focusing through the ruler of ancient guidances
+
+    8
+
+    Something probably very different, something very strong
+    realized.... and what could it be? 
+    The sunshine seems to take me there
+
+    Planets probably more powerful than the earth. 
+    Mutual reality probably more united than the earth's. 
+    is there ever a safe way to study these implications?
+    to find the outside?
+
+    Time sense fades down in darkening blue sky
+    Beautiful ducks fly right in from this horizon. 
+
+    the conscious energy of enlightened happiness.  
+    the love of life is plodding back
+    refreshed memories, 
+    thoughts nourishing a higher state
+    putting me in literary dimensions. 
+    the times at the city library, 
+    always taking home the French poets
+    hanging out with the town's most attractive women at my side
+    this love of life in insidiously opened days. 
+
+    I've started to get the joke that made 
+    my inner child chuckle
+    merely that the unseen has-been-world vortex 
+    had tried to take away this laughter
+
+    everyone in your life is your church.  
+    as I see the present, the gift
+    all of us on the alone earth 
+    life comprehension at this level
+    makes me breath deeply the glory of our unity, in the present
+    the gift of all of us on earth
+    we are all each other's present
+
+    everyone in your life is your church.  
+    moving out to something like a massage
+    give love to those who rejected you
+    if it was rejection they made
+    reconciling the flesh threats made 
+    since we wrestle not against flesh and blood
+    a war with abstract haze of forces
+    maybe today best seen as a mindless media
+
+    mended world as in the adaptation
+    rid of the wash of earth negativity
+    often concurrent ubiquitously
+    not just to me
+    for when this negative wash
+    does not hinder one
+    they are maybe causing it to others
+    flowing in it, being an average type
+    only mended by prayer and meditation
+    unless they like being 
+    identified, lost and negative
+
+    all the seeds sown to wildness
+    and, growing the mystical and metaphysical
+    which got us into landscapes alone yet bright
+    such moods will bring their enchantments
+    in days to come
+
+    we will have no regrets upon the spiritual earth
+    inner power and faith in God's marvellousness
+    something far above everything in a person 
+    yet still grounded in love
+
+    light no longer contained breaks color bands
+    once rectangular throughout the night of compression. 
+
+    9
+
+    individuation first by sealing leaks
+    just awareness of oneself and seeing what that does
+    this is always the key
+    believing in doing it is the bridge
+    the thing that wears off the effect of negative impressions
+    the inner warmth self-remembering brings
+    is the gauge I concentrate on
+
+    that the body can consciously align
+    by the force of the mind, I've seen
+    very well, the effect of a massage or even
+    a tranquilizer can be given by simply telling each individual
+    part of the body to relax
+    in simple commands, that elongate the muscles
+
+    and that a similar thing happens when 
+    I repeat the word love
+    and plummet the depths of my forgiveness
+    of others, visualizing the good harmony of
+    the future, the very soon future
+    the body loosens tightness all over
+    when better scenarios are kept in heart
+    and maybe ask God to make better what we hurt
+
+    And I see the emotional bridges
+    to imagine we have a mind or place
+    where all our emotion takes place
+    and that emotions spin faster than our
+    thoughts, and if we can catch on 
+    to the spinning we can make it into positive emotions
+    I've seen this often comes easy especially around good music
+
+    but back to the act
+    of self-awareness -- the holding in
+    the memory of oneself, the awareness
+    of oneself at present
+    seeing this shift into an instant
+    stopping of thoughts and movements
+    usually good things happen
+    after trying very hard to do this
+    over a period of ten or twenty minutes
+
+    breaking away into inner freedoms
+    affirming our inner privacy
+    grabbing the reign of one's actions
+    and not letting them proceed mechanically
+    and again focusing on the alignment
+    of the body, so that all muscles
+    are relaxed that can be relaxed
+
+    and to think more about the 
+    sun, the light in the sky
+    the distance of space between 
+    the planets, the stars, the sun and you
+    how you are suspended in infinite 
+    distance of forms
+    and like notes of delight on a piano keyboard
+    raising in beauty and purity
+    you being to ascend in emotion
+    as an eternal part of your begins 
+    to manifest.  That which is created
+    complete, perhaps it's the engine of soul
+    that exists in a self-descent into your mind
+    a presence of how you really are
+    in your soul
+    and your witness it can talk by
+    a type of inner speech
+    which is just another dimension of your own thought
+    and you'll know that this Real You
+    can pull you out of difficult situations
+    if you just remember to create a bridge
+    by observing those things I've written
+    as the presence of being must be
+    aligned by releasing the tensions of life
+
+    and you will find sooner or latter there is
+    another shift up by your soul-remembering
+    like a slight knock 
+    in which more of your soul is made plain and
+    present to your attention
+
+    this state of awareness of stillness 
+    seems to burns off sin
+    everything that I tried to do by being religious 
+    becomes more manifest here
+
+    10
+
+            I woke up from this dream.  I was downtown, walking
+    around, next to me were these guys walking with a
+    trampoline to help save someone who was going to jump.  I
+    think they acted a bit proud to me -- like they were the
+    privileged fathers and young upstarts of the town.  Then I
+    looked up in the sky and I saw a man falling. 
+
+    He was coming down about 30 feet from where they were
+    walking.  I think I shouted for them to walk.  They
+    weren't even looking up for anyone.  A loud sound, more
+    like a pop than a splat, then there were two more coming
+    down, again these two strange loud sounds.  The guys with
+    the trampoline were totally useless. 
+
+    11 
+
+    Stone Building
+
+             He lives in the stone building that has many stained
+    glass windows.  He is,  the best possible famous person on
+    earth.  Best in a moral sense, that is.  Famous for poetry
+    that make one shiver in delight and philosophical convulsions. 
+    People know him for being the man who does many wonderful things.
+
+            He projects large waves of love to whatever group of
+    people he is in.  That is his secret of success.  All the
+    guardian angels of the earth want him around 
+    their great charges. 
+
+            Emoting love as a word, as a feeling, the word continuing
+    the feeling, the symbols become aim.  The need to see what
+    the force that created what constitution we are in. 
+
+            He will subtract all events away from himself every day
+    and live in Possibility.  He will subtract all events and
+    live in the endless possibilities of life. 
+
+    12
+
+    Beaming Love
+
+            Discovered, a type of spiritual exercise that is of very
+    solid importance....
+
+            A very simple exercise.....it is the exercise of when one
+    is out in public, of saying a prayer for everyone 
+    in the immediate area, combined with visualizing and feeling 
+    a beam of love extending from you to them. 
+
+            Feeling these strong beams from God, these strong beams
+    of love from you towards others, in the crowd.  When we
+    emanate a feeling of love towards others, towards an area
+    of need, we see instantly the intrinsic meaning of the
+    universe at play. 
+
+     
+    Creative
+    Virtue
+
+[**`Robert Pearson Poetry and Prose`**](lit.html)
+
+<a href="http://www.qksrv.net/click-1431511-10307849" target="_top"><img src="http://www.qksrv.net/image-1431511-10307849" data-border="0" width="468" height="60" /></a>

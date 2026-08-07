@@ -1,0 +1,331 @@
+---
+title: "Steve's Flying Journal (Private Pilot)"
+source_domain: amasci.com
+source_path: ~sfox/SJF/flying4.htm
+order: 8070
+reachable_from_entry: false
+images: 0
+internal_links: 3
+extracted: 2026-08-07T17:15:42Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Steve's Flying Journal (Private Pilot)
+
+*Source page: `~sfox/SJF/flying4.htm`*
+
+Steve's Flying Journal (Private Pilot)
+
+# Steve's Flying Journal
+
+|               |                                                             |
+|---------------|-------------------------------------------------------------|
+| Lessons 1-19  | [Pre-Solo](flying.htm) (24.3 hours, 123 landings)           |
+| Lessons 20-45 | [Pre-Cross Country](flying2.htm) (60.6 hours, 330 landings) |
+| Lessons 46-65 | [Pre-License](flying3.htm)                                  |
+| Lessons 66-   | Private Pilot, read below                                   |
+
+Phases of my training {border="1"}
+
+<span id="Contents"></span>
+
+## Table of Contents
+
+- [66. First Passenger, Darrington attempt](#66)
+- [67. Because I could](#67)
+- [68. New airplane](#68)
+- [69. Pam's first flight](#69)
+- [70. Cyndi's first flight](#70)
+- [71. Second try at the 172](#71)
+- [72. Gary's first flight](#72)
+- [73. Testing my Constitution](#73)
+- [74. Checkout complete for 172](#74)
+- [75. With a Friend to Friday Harbor](#75)
+- [76. So's flight](#76)
+- [77. Angie's flight](#77)
+- [78-80. 172 Touch and Goes](#78-80)
+- [81. Trading T&Gs with Bruce](#81)
+- [82 and 84. First overnight trip](#82)
+- [83. Pat's first flight](#83)
+- [85. Nighttime T&Gs](#85)
+- [86. Windy T&Gs](#86)
+- [87. Girls to Friday Harbor](#87)
+- [88. Club contest flying](#88)
+- [89. Nighttime checkout](#89)
+- [90. Mountain checkout](#90)
+- [91. Some radio practice](#91)
+- [92. First nighttime foray](#92)
+- [93. Some hoodwork](#93)
+- [94. 12000'](#94)
+- [95. Mt. Olympus?](#95)
+- [96. Anton's night flight\< /a\>](#96)
+- [97. Kids' night flight](#97)
+- [98. First Cherokee Warrior flight](#98)
+- [99. Mountain Cross Country](#99)
+- [100. Warrior checkout completion](#100)
+- [101. Warrior touch and goes](#101)
+- [102. Doug's first flight](#102)
+- [103. Mom, Art and So](#103)
+- [104. Portland Attempt](#104)
+
+<span id="66"></span>
+
+## Flight 66 -- First passenger, Darrington attempt
+
+*Mon 7/28/97 0900* The weather looked great for a flight towards the mountains and a glimpse of Glacier Peak. But when me and my first passenger (an experienced pilot) got up in the air, it looked too hazy to be messing around in those valleys. Besides, I need a mountain checkride and a little more training first. Good choice -- stay in the safe stuff for now. So off for a touch and go at Bay View and back to Paine along the edges of very low clouds along Puget Sound.\
+*1.4 hours* [Contents](#Contents) <span id="67"></span>
+
+## Flight 67 -- Because I could
+
+*Wed 7/30/97 1900* I flew today simply because I could. I could go anywhere I wanted without permission. So I flew from Paine to Jefferson County in Port Townsend. Nothing to do there, so after a while being bored I flew back. I better not do that any more, this costs too much!\
+*1.1 hours* [Contents](#Contents) <span id="68"></span>
+
+## Flight 68 -- New airplane
+
+*Thu 7/31/97 2000* Tim called and said let's get checked out in the C-172. It flies very similar to the C-150. I did steep turns, departure and arrival stalls, and 3 touch and goes. No biggie, except for different speeds it seems to be about the same. Smoother and it climbs a lot faster, but the handling is very similar. Better visibility too. And the seat can be raised up too. Hopefully I'll be checked out in it soon so I can fly all three kids at once!\
+*0.9 hours* [Contents](#Contents) <span id="69"></span>
+
+## Flight 69 -- Pam's first flight
+
+*Fri 8/1/97 1900* I figured that this flight ought to be the most fun yet, and sure enough it was. I took my 11 year old daughter up, her first in a small plane. She says she wants to be an airline pilot when she grows up. She's pretty wiggly and active, so this might be a challenge.
+
+We preflighted, which she had minor interest in, and took off for flying over the house. I did some slow flight as she gazed down at the yard, roof, neighborhood. Then off to Hood Canal bridge and then Jefferson County airport. She got to fly a little on that leg. We did a touch and go right into the sun (she calls them "touchables") and then landed there. Quick bathroom stop, then up and back to Paine. She really enjoyed the flight. I really learned why they distract you in the air. Man! She was a MAJOR distraction! We had fun, I'd do it again in a minute!\
+*1.6 hours* [Contents](#Contents) <span id="70"></span>
+
+## Flight 70 -- Cyndi's first flight
+
+*Sat 8/2/97 1600* There was enough time to sneak in another flight today, so I took up Cyndi (8 years old) for a shortie. This was her 4th time ever in an airplane (the first four on our Disneyland trip earlier in the year). Her favorite call sign is 704RY, because she likes the Romeo Yankee part... but it's too far away so we took 704GC. Golf Charlie will HAVE to do!
+
+We flew over the house in quite bumpy air. She loves the bumps! Ah, the kind of passenger I like! Except I didn't like them all that much. I'm still not all that relaxed in the bumps. I don't mind if someone else is flying in bumps because I'm not experiencing the airplane reacting differently than my controls... hard to explain. Anyway, we found the house, school, etc. Then she got to fly it a bit over Puget Sound on the way back. We just did the one landing (not a bad one for once) and called it a day. Lotta fun, she loved it! Gary will be next...\
+*0.8 hours* [Contents](#Contents) <span id="71"></span>
+
+## Flight 71 -- Second 172 flight
+
+*Sat 8/2/97 1830* Tim calls up, sees if I can go up in the 172 again, to do short field takeoffs and landings. Can the two girls sit in back? SUre... so off we go. This time it was in a 172N, and boy did it feel different than the other 172P I flew the other day. I take back all that stuff I said before about flying a different airplane. This one felt odd, because I cranked the seat up and it felt like we were decending all the time. I flubbed the first two (had to go around) but finally got the landings working at Monroe. THe girls got bored back there, it's more fun sitting up front.\
+*1.3 hours dual* [Contents](#Contents) <span id="72"></span>
+
+## Gary's First Flight
+
+*Fri 8/8/97 1530 -- no, 1600 -- no, 1830... ARGHH!* Gary (13) was ready to try a flight, so we headed over to the club to hop in the 150. The airplane was over at Crown Aviation getting new brakes. So we hopped in the maintenance officer's car and drove over to get it. I figured we could just take off from there instead of our usual spot on the big runway.
+
+After the paperwork was complete, we hopped in. Oops, forgot the second headsets! OK, we'll taxi to BEFA and get them. What a waste of time... but we got them. By now we've lost an hour. I didn't bother with a preflight just to taxi, so we did a thourough one. Uh-oh... TOO MUCH oil, by almost 2 quarts. Hmmm... now what. I call my instructor and he says don't fly, he'll check it out in the evening.
+
+Naturally, Gary was a little dejected at this news. We hung around for a while while I tried to get ahold of the mechanic. *(Hey, two "whiles" in a row in that sentence. Never done that before. Ain't changing it either, so there!)* The maintenance officer shows up in the meantime, and says let's drain the oil. After getting it all over the ground and making a huge mess, the airplane seems ready to go. I find out the oil was just replaced.
+
+So finally we finish preflight and get ready to go (almost 3 hours after the original start time). We get our clearance to take off, and I'm trundling down the runway at close to rotation speed when this horrible flapping sound happens. "Tower, 704GC is aborting takeoff". "Anything structurally wrong?" "I think it's a seatbelt". Sure nuff, it was.
+
+Tower said I could take off the wrong way on the big runway, but being conservative I declined to do that or backtaxi down the runway. Instead we taxied back to the starting point, and actually took off! Poor Gary, bet he was wondering.
+
+The flight went well, and Gary was super interested in the magic of takeoff and buzzing around. We flew over the house, his school and church, and then off across the Puget Sound. I elected to take a wide course due to Seafair and the Blue Angels. I really don't want to get hit by acrobatic jets flying in formation, whether they flew hours before my flight or not! Then we landed at Jefferson County, used the facitilities, and went back to Paine (with some steep turns for fun tossed in). Gary enjoyed taking the controls briefly while I carefully monitored traffic and airspeed, etc. Good flight, he enjoyed it the most of all three kids!\
+*1.6 hours* [Contents](#Contents) <span id="73"></span>
+
+## Flight 73 -- Testing my Constitution
+
+*Mon 8/11/97* Today's flight wasn't all that amazing -- I flew to Orcas Island. What I had decided was to stuff my bike into the Cessna 150 and go for a bike ride on the Island. Perhaps I could climb to the top of Mt. Constitution. By taking the front wheel and seat (both on quick release for my mountain bike) I managed to jockey the bike in (with the right seat folded down). I tied it down with a cord in case of a bad landing (hey, that bike is worth some bucks!!) and took off in perfect CAVU and smooth air for Orcas. The landing went well.
+
+I extracted the bike and headed who knows where... hopefully in the general direction of the mountain. Somehow I managed to stumble onto Moran State Park, a campground. I checked it out, and lo and behold, at the end of the campground the road kept going up to the mountain.
+
+I've done an awful lot of bike riding, probably 30,000 miles, and over many mountain passses and up some incredibly steep hills. Except this year. Me no ride much this year, first year in 22 years! And it showed! The grade up the mountain is short (5-6 miles) but STEEP. I'd say a good 8%, with some 10% sections thrown in. At the top of the "little summit" I was about dead, with no water (bad planning).
+
+The road went slightly down, then angled up again. That's all I could handle and I had to stop. Just about shattered, I sat and ate dry bagels with no water, and after a 5 minute rest hopped (okay, more like barely crawled on) on my bike and headed up. Hey, it was a short stretch, and I had done the worst of it! The rest of the way was (comparitively) a piece of cake. And ... the best part... water at the top! Ah...
+
+The ride down was awesome. I think I broke the FAA rules by going over 250 kts but what the hey. Now to ride more often so I can handle it better. I'm riding on memory of being in shape, not on hardened-muscle legs of steel! Ah, but the memories...
+
+The ride back was uneventful except I asked for a downwind landing to save precious bucks (the runway is 9000' long, and it turned out to be a crosswind anyway).\
+*1.7 hours* [Contents](#Contents) <span id="74"></span>
+
+## Flight 74 -- Checkout complete for 172
+
+*Mon 8/16/97 0800* Let's try those short-field landings again. I just could not get that seat far enough forward, and I was stretching to reach the rudder pedals and throttle. We head off for Monroe, but there is fog in the valley. Nah, I don't think so! Let's go to Langley instead. Over there we did several landings, which gradually improved until I seemed to have it. One landing in particular was a bouncer though. Man, those landing gear are springy, and I hardly felt it. But we did bounce two or three times anyway! Yee-haw.
+
+On the way back, for a little something new and exciting, I finally landed on runway 11. First time was my checkride on 29 (it's the diagonal at Paine). That landing went well, too. I don't particularly care for the visiblity of the 172 but it climbs nicely and has a lot of interior room. I seem to land ok albeit it's a challenge to get it to the ground compared to the 150. You have to point down! Now to practice solos, then take up multiple passengers... obviously that'll be the kids! Nobody else is THAT dumb!\
+*1.1 hours dual* [Contents](#Contents) <span id="75"></span>
+
+## Flight 75 -- With a Friend to Friday Harbor
+
+*Fri 8/22/97 1600* After work we headed out to Friday Harbor, in the San Juan Islands. Juan Pablo has flown gliders quite a bit and so I let him take the yoke and he flew most of the way there. I learned something very important though -- don't fly when you have congestion! My ears got very plugged coming down from 4500 to sea level!
+
+While we were eating a burger in a local bar, I suddenly realized I never canceled my flight plan! Omigod! Luckily I got it closed out before it was overdue, since I had opened it kinda late and allowed for far too much time anyway. We wandered about the town for a short while, then headed back up. My ears cleared out nicely up at 3500'.
+
+Interesting landing back at Paine. I considered going in to runway 11 just for fun, but never asked. A 727 heavy was doing touch and goes on the big runway, and the tower asked if I wanted 29. Sure! Somehting new and exciting... so with a LOT of tower talk and airplanes landing under me on 34L, I got into the pattern for 29 and did a pretty nice landing (for once). OK, I was a little crooked, but for me, not bad. Meanwhile, the 727 did another touch and go in front of me on the big runway. Fun landing!\
+*1.8 hours* [Contents](#Contents) <span id="76"></span>
+
+## Flight 76 -- So's flight
+
+*Sat 8/23/97 0830* I flew down to Renton in decent weather, but with a threatening forecast. It was a bit bumpy but I'm getting more used to that. I had a slightly bouncy landing at Renton, and picked up So. We headed south, flew over Seatac and practiced VORs a bit. So just soloed, so he needed some practical experience with the VOR. DId a touch and go at Bremerton, then back over Seatac (had to circle quite a bit waiting for clearance), then a pretty lousy landing at Renton. Long wait at Renton to get outta there, and a late arrival for the next guy wanting the airplane at Paine.\
+*2.3 hours* [Contents](#Contents) <span id="77"></span>
+
+## Flight 77 -- Angie's flight
+
+*Sun 8/31/97 1000* Angie had never flown before, and so I took her up on a quick flight in the Auburn area. It was a bit bumpy and hazy, so not a great intro to flying! But we did it anyway. Another successful flight, huh?\
+*1.9 hours* [Contents](#Contents) <span id="78-80"></span>
+
+## Flight 78-80 -- 172 Touch and Goes
+
+*Tue, Wed, Thu 9/2-4/97 1500* After work I went out to practice landings in the 172. The darn airplane feels like a truck and has way too much power for me. But by the third day I'm getting the hang of it good enough to think I can take passengers. Many of the landings were really bum py but the landing gear is pretty forgiving!\
+*2.9 hours total* [Contents](#Contents) <span id="81"></span>
+
+## Flight 81 -- Trading T&Gs with Bruce
+
+*Fri 9/5/97 1530* A pilot friend, Bruce, and I went to Bremerton. We traded off doing touch and goes there. He did really well in that right seat! My first landing was awful, due to 172 corruption, but the rest of the landings got better and better. Good practice!\
+*3.0 hours total* [Contents](#Contents) <span id="82"></span>
+
+## Flight 82 and 84 -- First overnight trip
+
+*Sun 9/7/97 1800, Mon 9/8/97 1400* After getting permission to take the airplane overnight, I decided to go to visit my sister in Portland. Another pilot had the airplane until 6pm, and it gets dark before 8pm. It was going to be a bit of a rush to get down there in time, since I'm not app roved by the club to fly nighttime yet. So I pushed it to as high a power setting as I dared and blasted on down to Troutdale in the mighty Cessna 150. I brought a sleeping bag, tent, and food in case I had to stop earlier. Fortunately, everything went ve ry smoothly and I arrived in the Portland area just as the sun went over the horizon. That was good, because the runway faces west!
+
+I had a little trouble finding the lake that the air traffic controller wanted me to stay north and east of. I finally asked him, and found Lacamas??? Lake, a long thin one just north. Good thing I know the Portland area quite well! All went well with the landing, due to fairly light winds. Only problem was my sister didn't pick me up for two hours, and I got pretty bored sitting around.
+
+The return trip went just as smoothly. I did better following my intended route on the way back. Of course, Interstate 5 was always in view so navigation was a breeze. On landing at Paine, the controller was talking to a 737, and said he was 10 miles out. Well, my straight-in approach would have bumped me into the big guy, so I elected to do a 360 (with tower's permission, of course!) A great flight, I'll have to do more of these!\
+*3.6 hours total* [Contents](#Contents) <span id="83"></span>
+
+## Flight 83 -- Pat's first flight
+
+*Mon 9/8/97 1100* My friend from way back (3rd grade) wanted to be one of my first passengers. He really had a great time, he's pretty excited about being up there. We flew towards Mt. St. Helens. I can't fly into mountainous terrain until a club mt. checkride, so we just viewed it from a distance. Then into Portland, over his house and his friend's house. We found out later she was waving madly at us as we flew over. I had a little trouble with turbulence out of the Columbia Gorge on takeoff and climb, and on the landing. Also, Pat at 6'5" and 230 lb was way too big for this airplane. Also a bit of trouble with the Portland Class C airspace. Still, things went quite well and I had the squeakiest landing of my career (after an awful approach too). OK, I was way off the cen terline, but who's looking? Pat had a great time. Next time we'll try the 172 though!\
+*1.3 hours* [Contents](#Contents) <span id="85"></span>
+
+## Flight 85-- Nighttime T&Gs
+
+*Wed 9/10/97 2230* I haven't really flown at night since the early days of my training. And I'd like to get that nighttime checkout. So off I go with my instructor. I would have driven the airplane right into the ground if it weren't for him along! The landing lights were o ut so that didn't help much. Course, I need to be able to land without them anyway. I'll need more dual before I'm set free.\
+*1.1 hours dual* [Contents](#Contents) <span id="86"></span>
+
+## Flight 86 -- Windy T&Gs
+
+*Fri 9/26/97 1700* Tim calls during a wind storm and says "let's go out for some landings". Got the two girls with me. "Wanna go on a bouncy ride?" "YES!!!" they both say. So off we go for some bopping around. My landings actually went well. We had heavy rain, difficult visibility, lightning in the distance, but I managed it all ok. Good confidence builder. I also figured out why I'm bouncing my landings. Carrying too much airspeed on the landings.\
+*1.0 hours dual* [Contents](#Contents) <span id="87"></span>
+
+## Flight 87 -- Girls to Friday Harbor
+
+*Sat 9/27/97* The weather wasn't looking too good for our planned trip to Friday Harbor. But I decided we would go up and take a peek at the conditions. Maybe we would just hop from airport to airport up to Bellingham. Maybe we would just turn around and land. But it looked much better up there, and was improving. We made it easily up to Skagit and decided to head west to Orcas. The ceilings were pretty good and winds calm so we landed at Orcas. pam and Cyndi weren't too interested in that location, so we hopped back up to Friday Harbor, stopped for ice cream for a couple hours (well, thewe were big cones!). The return flight was a bit low ceilings but calm winds. I keep learning a lot. I'm definitely feeling comfortable in the 172 now.\
+*2.3 hours* [Contents](#Contents) <span id="88"></span>
+
+## Flight 88 -- Club contest flying
+
+*Sun 9/28/97* The flying club has an annual event: bomb drop and spot landing contest. It's a fun event! Ya gotta try 'em both. I took off in 17 kt winds, gusting to 22 kt, and got really tossed and turned from Paine down to Renton. Definitely the most bumpy flight yet for me. And the ceilings were about 2300, which I was just below at 1700. I sure do like that flight following where they track you on radar. Use it every chance I can. Luckily, the winds at Renton were nice and smooth, 10 kt right down the runway. I picked up my favorite bombadier/copilot/navigator/coach and we headed in smooth skies to Auburn Academy, a grass field.
+
+I had a hard time finding the field, but we found it and managed a relatively decent landing on the grass. We picked up our three bombs and headed out using short field, soft field techniques. Boy those trees are close! Our first drop was long, the second short, but the third! Ah, the third! 18' from the target! Wheeha! that was fun. It was tricky flying for me, 100' over the runway at slow speed. I flew too fast, too chicken to really go slow.
+
+Next was the spot landing. We took the plane for fuel to Auburn, and were the last ones back. On the ground, they asked if we'd be willing to make this landing one of the contest attempts. Well... ok, why not? So I cut power abeam the "numbers" and made a short base and final. Barely clearing the trees, or so it seemed to Mr. Chicken Little here, I dumped all flaps at the last moment and had the luckiest landing of my entire life. I somehow hit the ground 2 feet past the tape. Hmmm, not bad considering my inexperience, the first attempt of the day, and... ok it was total beginner's luck! THe climbout was scary though. They said to do touch and goes. That field is a bit short for that, and full fuel with a passenger in the 150 was a bit scary for this short time pilot.
+
+The second and third attempts were more like my usual, except that second touch and go was plain awful. I dumped the flaps as soon as possible, but the electric flaps are slow. I managed to bang back down on the runway twice before finially climbing away. Sure scared my coach sitting right seat probably! Somehow, that first landing was the best of the day and I won! How strange... but I'll take whatever I can get these days!
+
+The ride back was pretty straightforward, nothing much to report. Except I need to pay attention to the tail number of the airplane I'm in. ATC got confused when I changed to a different tail number after I got passed off. I didn't figure it out for 10-15 minutes when I caught myself saying "4GC" instead of "4ML".\
+*2.7 hours* [Contents](#Contents) <span id="89"></span>
+
+## Flight 89 -- Nighttime checkout
+
+*Sun 9/28/97 2000* Second nighttime dual for the club checkout requirement. I did fairly well on the last set and got checked out for nighttime flying. Gee, 4 flights in three days, I'm gonna go broke!\
+*1.3 hours dual* [Contents](#Contents) <span id="90"></span>
+
+## Flight 90 -- Mountain checkout
+
+*Mon 9/29/97 1000* Hoo boy... 5 flights this weekend (incl. Monday). But the weather was right for a mountain checkout. We took a good C-172 from Paine to Fall City, then between Cougar and Tiger summits up Stampede Pass. Experienced the lift and sink on each side of the valley ont he way up, staying only 1000 above the valley. Then all of a sudden, the valley ends and you have to climb up a big pass! We added full power and climbed to 500 above the pass. Interesting turbulence where the valleys join. But it was a relatively calm day, blue skies, so not all that bad.
+
+Then we turned to go down Snoqualmie Pass. We went up Gold Creek valley a bit to see if I could turn around in the valley, which I ended up diving down too fast. You are supposed to reduce power to landing power (1500 rpm), slow down, maintain altitude, and turn as sharply as possible. Nose down to keep the speed up. I over-nosed!
+
+Then we cirled around to sneak a peak at Snoqualmie Pass area (actually, just south is a better route), and seeing it was clear, went for it. Course it was clear, this was a blue sky day! But I was supposed to pretend it was foggy. You can see the freeway way down there. Fun place to fly! We dove down to make an appoach at Bandera airfield, but didn't land there. I had to do a major slip to get down that low, that fast! The rest of the ride back was uneventful (over Fall City, after seeing Snoqualmie Falls way down there). Fun flight! Now I can go whenever I want to the mountains. Yee haw!\
+*1.6 hours dual* [Contents](#Contents) <span id="91"></span>
+
+## Flight 91 --Some radio practice
+
+*Sun 10/12/97 0900* A friend from Spain wanted to see what it's like in the air around here. Anton is a pilot, and was particularly interested in the radio operations. So, what's more complicated than a VFR flight using flight following over Seatac airport? Nothing I can think of. We got passed from one controller to another. The flight went well, and I handled the radio not too badly. I even got to squawk 6666! Anton is quite knowledgable about flying, I could tell right away. He'll have no problem with our U.S. flying procedures.\
+*1.2 hours* [Contents](#Contents) <span id="92"></span>
+
+## Flight 92 -- First nighttime foray
+
+*Wed 10/15/97 1900* Time to try a nighttime flight on me own. It was a very calm night, and visibility excellent. Off I went to pick up a pilot friend in Renton, where we took off for touch and goes at Boeing Field. I'm glad I had the copilot on board, being unfamiliar with BFI. It's in very busy airspace, and has two runways very close to each other. Jets take off the big one. So we had to do goarounds three times. My landings were not too bad, at least the part about judging where the ground is. But both Renton and Boeing Field are well lit (besides the runway lights).
+
+More touch and goes at Renton, then I dropped off my friend and headed back to Paine, where I had a pretty bad landing. The runway is much darker, and those lights in the center don't help!\
+*2.3 hours* [Contents](#Contents) <span id="93"></span>
+
+## Flight 93 -- Some hoodwork
+
+*Wed 10/17/97 1745* I got hoodwinked into doing some hoodwork. We flew from Renton to Thun. I don't think I managed to get us there *totally* on my own, but anyway, it was good practice. I did some turns, climbs, and descents, and learned how difficult this instrument flying really is! On the way back, I did some 360 turns, and tried to land the airplane under the hood. We almost made it, but I didn't quite make it to the landing itself. Good flight though! Boy do I need more practice!\
+*1.0 hours* [Contents](#Contents) <span id="94"></span>
+
+## Flight 94 -- 12000'
+
+*Sun 10/19/97 1745* I had a little time, so why not see how high I can climb in a pretty weak Cessna 150? After a half hour of climbing west towards the Olympic mountains, I got to 12000'. It was still climbing, but very slowly (about 100 fpm). This was with just me and full fuel load (I'm about 140 lbs). I was getting late for a concert so I turned back and had to dive at the top of the green arc, about 1000 fpm drop. It took forever to drop! I ended up doing S turns so I wouldn't overfly the runway. I wish I had had the time to mosey on down and enjoy the view. Dumb!\
+*1.0 hours* [Contents](#Contents) <span id="95"></span>
+
+## Flight 95 -- Mt. Olympus?
+
+*Sun 11/2/97 0900* I had enough time, so went back towards the Olympics, this time in a 172N. I started with a touch and go, since it had been a while since I flew a 172. THe first landing was my worst yet, I flared too early and sunk down. That sickening feeling when you \*know\* you are going to slam down, except I totally forgot to ADD POWER to slow down the sink rate! BAM! ouch. I decided another T&G was in order. THe second one, I probably flared the same place, but added plenty of power and greased it in. That satisfying me that I need to use the throttle, I headed west.
+
+I intended to fly to Mt. Olympus in the Olympics. There were snow-capped mountains in sight on the east side, and I gained altitude until I was at 10000', then flew around the mountains for a bit. Some of them were enshroded in clouds, so I headed for what I thought was Olympus. When I got home, I realized that it probably wasn't, but another peak almost the same elevation.
+
+An uneventful ride back, slowly gliding down to pattern altitude, where it got really choppy. Bouncing around, I managed another good landing, then did a fourth one. 3 out of 4 decent landings, I'm ready to fly the kids this weekend someplace at night time. I feel my flying days are almost to a close due to the incredible costs. A couple more, then that's it.\
+*1.8 hours* [Contents](#Contents) <span id="96"></span>
+
+## Flight 96 -- Anton's night flight
+
+*Wed 11/5/97 2030* Our plan was to show Anton the 172, as he is interested in flying it soon. But it's not available. Luckily, a 150 is available, so off we go for a flight over Lake Washington and a bit of Seattle. Pretty nice flight!\
+*0.9 hours* [Contents](#Contents) <span id="97"></span>
+
+## Flight 97 -- Kids' night flight
+
+*Sat 11/8/97 1730* Now that I'm so good at the 172 (yeah, right!) off I go taking the kids on a night flight. We flew from Paine south in search of Thun field. I hadn't planned to carefully, thinking it was easy to find. We flew past fields very familiar to me, like Renton and Auburn, and on further south. Uh-oh... where is Thun? I should have planned a lot better. It's hard to see the map in the dark!
+
+On top of that, I can't tell if the radio is working. Going past Renton, I hear nothing. Twisting dials and pressing knobs, I really wonder. It seems ok! So I call up on Renton's frequency "Radio check please". "Loud and clear". Hmmm... nobody talking on either Seatac or Renton? Seems strange. Oh well, after two more checks all is ok so I keep flying south. Nobody is out on an absolutely beautiful evening.
+
+Finally I see what looks like a runway, after following the 155 radial in the 155 direction. I should have gotten the VOR coordinates BEFORE getting in the airplane. But there it is. We drop down to pattern altitude, and I tell the kids to move their mikes away from their mouths and be quiet as I try a night landing with the precious cargo. Coming down on base leg, there is nothing but darkness. Man, I sure HOPE there's nothing sticking up high, there shouldn't be at an airport after all. We keep dropping as I think I can see something down there, and the runway to my left is in plain view.
+
+After turning final, we keep dropping, and I'm way too high. We keep dropping and looks like I can hit about 1/3 to 1/2 down the runway. About 20 feet over the runway, all of a sudden I hit fog. Oh no! Last thing I need after a shaky approach. All I could think of is we'll get stuck there and not be able to take off. So immediately I hit full power and flaps 20 and got the heck outta Dodge.
+
+We flew back to Renton and landing ok there, even if it was night! After a short rest we hopped back in. One of my flying buddies flew in just at that time. "Oh hi there" I say, and we take off, using a new procedure to me, the Burien departure. Course, the tower was closed by this time. Oh well, I did it anyway and crossed Seatac which the kids enjoyed. Then over to the Space Needle, which is cool at night. Off over the city of Seattle back to Paine and a pretty decent landing.\
+*2.2 hours* [Contents](#Contents) <span id="98"></span>
+
+## Flight 98 -- First Cherokee Warrior flight
+
+*Mon 11/10/97 0900* I decided to try a new airplane, just for the heck of it. I sure learned a lot flying the 172. It improved my 150 flying. So I hoped that would be the same in the Warrior. It's a really nice airplane, with 4 seats and a comfy interior. It's a low wing, so quite different. Also, the procedures for flying are different. What the hey!
+
+We did steep turns, arrival and departure stalls, engine out emergency landing, and then went to try landings at Boeing Field. My first landing was a greaser. I'm liking this already! Boy, the airplane sure stalls gently, incredibly gently! We did a no-flaps landing. The only problem today is a ferocious sidewind and lots of turbulence. Somehow I survived it, with the CFI next to me I can handle anything with CONFIDENCE! My last landing at Renton was not as good, but I did ok.\
+*1.2 hours* [Contents](#Contents) <span id="99"></span>
+
+## Flight 99 -- Mountain Cross Country
+
+*Sun 11/2/97 1000* This was my best flight ever. I talked my mountain-flying pilot buddy into accompanying me on a long flight over the Cascades. We took off from Paine on a 100-mile visibility day, with very slight winds out of the east. When that happens, it's clear and cold and brilliant. There was a dusting of snow on the mountains which made it absolutely beautiful.
+
+We flew towards the old foothills ghost town of Monte Cristo. I wanted to check out my hiking haunts. We zoomed over some climbing peaks and rugged terrain. **Fantastic!** Then on the same path, about 30 miles south of Glacier Peak (10,600') with great views of it. We found Lake Chelan and flew northwards up it to it's end at Stehekin. From there we turned east and landed at Winthrop.
+
+As if this wasn't fabulous enough, it was only a preview of the best. We took off NW towards the northern tip of Ross Lake (really a reservoir) which is just into Canada. This was over some extremely rugged terrain. Quite imposing, I'd hate to have an engine out there. So I kept it up high, at least 10,000'. Turning WSW towards Baker, we flew over some even more fantastic terrain and stunning views. I tried to take a few pictures, but it was too beautiful to miss, and in an airplane you rush past things awful fast.
+
+We flew to the south side of Mt. Baker (10,800') to cut off a few miles (worried about fuel, since I'm pretty conservative about that). But it was irresistable to fly completely around the mountain in the super calm air. Gazing down at the rugged glacier with all the big crevasses was a blast. I don't know how I had climbed it once, the crevasses seemed to block all reasonable paths.
+
+By this time we are at 12,000' and it was a long, long drop back to Paine field. I grabbed some gas, and we flew down to Renton to drop off my buddy. Back to Paine, and my favorite flight was over... dern!\
+*4.1 hours* [Contents](#Contents) <span id="100"></span>
+
+## Flight 100 -- Warrior checkout completion
+
+*Sun 11/21/97 1400* The CFI and I did 4 landings to complete my checkride. First, soft field takeoff, and a soft field landing. Then a short field stop and go. Then an engine out landing. Finally a no-flaps landing. All went really well. So I got signed off to fly Warriors. Watch out up there...\
+*0.5 hours* [Contents](#Contents) <span id="101"></span>
+
+## Flight 101 -- Warrior touch and go practice
+
+*Tue 11/25/97 1500* I took the Warrior up for some touch and goes at Renton. All went super well. I guess I'm ready to take victims. I have not had a bad touchdown yet. Mostly I need to stay ahead of the airplane in the first part of the pattern, and keep on paying attention as I drop out of the sky.\
+*0.9 hours* [Contents](#Contents) <span id="102"></span>
+
+## Flight 102 -- Doug's first flight
+
+*Wed 11/26/97 1700* I popped over to the club to take a 150 on a nighttime cross country flight. It was an absolutely gorgeous day -- the first day I'd ever heard the Paine tower mention 100 mile visiblity. Of course, I didn't get out all day, so thought I'd go nighttime. When I got to the hangar, I met a guy I used to work with, who had just gotten his orientation at the hangar. He hadn't flown but once before, so I offered to take him up in a 172. We buzzed over to Seattle and back. I lucked out on a soft landing, having absolutely no idea where the runway was but got lucky!\
+*0.9 hours* [Contents](#Contents) <span id="103"></span>
+
+## Flight 103 -- Mom, Art & So
+
+*Thu, Thanksgiving Day, 11/28/97 0900* Drove down to Renton and hopped in the Warrior to take up my mom, brother, and pilot bro-in-law. Per the calcs, we were slightly overweight, so I did some touch and goes to burn off some fuel weight. My first landing was a bit long at Auburn airport, as was the second. I did two with just So who helped me judge things a bit. Then my mom and brother hopped in the back. We flew up and around Seattle and had a pretty nice tour. The weather was a bit bumpy and not too clear. But it was fun anyway. They enjoyed going over Seatac too.
+
+I dropped off So and Mom, and Art hopped up front and I let him take over a while on the way back to Renton. He really enjoyed that.\
+*2.5 hours* [Contents](#Contents) <span id="104"></span>
+
+## Flight 104 -- Portland attempt
+
+*Fri, 11/29/97 1500* Pam and I waited all day long for the weather to clear. Finally it broke up in the Seattle area. Unfortunately, it was still MVFR or IFR down towards Kelso. But thinking it would break up there, too, we finally risked it and took off from Renton for Portland. After dodging low clouds just past Thun Field, we had to divert a bit off course. I found some holes in the clouds but was getting a little uncomfortable with the low altitude (1500') and hills looming up ahead. I diverted a bit northwards, looking for I-5. We finally spotted it, but the clouds looked really thick further south towards Centralia. I dropped down to 1000', but the clouds were still lower. Up north it was blue sky! Darn the luck. I snuck up sideways, found it was solid and we got the heck outta there.
+
+Ended up flying over Olympia, Tacoma, Seatac back to Renton on a total waste of time flight. Oh well, learned something about cloud avoidance and when NOT to fly. And how to turn back from a trip that sure sounded like a lot of fun. C'est la vie!\
+*1.8 hours* [Contents](#Contents)
+
+The above flight turned out to be my last flight. I quit due to high expense, but it was a ton of fun and a great learning experience. Hope someone here enjoyed this stuff... I flew for exactly one year, spent a wad o' dough, got in over 150 hours logged. Not bad for a guy who never thought he'd be flying, much less a pilot!
+
+------------------------------------------------------------------------
+
+[Send Steve a comment](mailto:sfox@eskimo.com)

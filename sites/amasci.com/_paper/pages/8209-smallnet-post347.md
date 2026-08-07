@@ -1,0 +1,276 @@
+---
+title: "SMALLnet post347"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post347.html
+order: 8209
+reachable_from_entry: false
+images: 0
+internal_links: 3
+extracted: 2026-08-07T17:15:53Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post347
+
+*Source page: `~smallnet/Archive/post347.html`*
+
+## SMALLnet Posting post347
+
+------------------------------------------------------------------------
+
+**Date: Wed, 20 Sep 2000 23:33:28 -0500**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet/> \>
+
+...If anyone noticed the "time stamp" on the previous Posting, he'd know that it was sent out at 4 AM. That was a mistake on my part -- because working that far into the morning caused ME to commit some factual errors. Three to be precise -- and you eagle-eyed SMALLsters caught two of 'em.
+
+<span id="12">Vendor: Joe Deppe\
+</span> The one nobody noticed was a wrong Zip Code for Joe Deppe -- the custom basswood cutter. The correct Zip Code for Bolton Landing, New York is 12814. \[JW\]
+
+Bill Lee \< <Bill@WRLee.com> \> wrote first about basswood sources:
+
+<span id="19">Source: Basswood\
+</span> <span id="20">Vendor: Lonestar Models\
+</span> Have you looked at Lone Star Models as a basswood supplier? Sheets from 1/32 x 3 x 24 to 2 x 3 x 36. Sticks from 1/16 x 1/4 x 36 to 1/2 x1 X 60. \< <http://www.lonestar-models.com> \>
+
+Lone Star is one of the best (if not THE best) wood supplier for model airplanes in the United States. That's Lone Star Models, Route 9, Box 437, Lubbock, Texas 79423 --- (806) 745-6394 (This is an incorrect address/phone number: see \< [post348](post348.html) \> -- Bill Lee)
+
+Regards, Bill Lee
+
+Larry Driskill / Kitting It Together \< <kit@llano.net> \> concurs.
+
+Bob Anderson \< <dandersons@onenet.net> \> suggested:
+
+Hobby Lobby arts and crafts stores in most cities carry some basswood. It is not of the highest quality, but, depending on your needs, it's worth a look. The three stores I have looked in have "sticks" from 1/16th inch square up through larger rectangular sizes and some sheet stock. However, it is only 24 inches long. There is usually some balsa too. It's way in the back in a rack against the wall, past all of the plastic flowers and other junk. They also have a few small, high-priced Guillow rubber-powered kits. Bob
+
+Romey Bukolt \< <conceptmodels@mailbag.com> \> contributed:
+
+For anyone who is interested, Balsa USA carries basswood in all the usual spruce sizes of sticks. I don't know if they have basswood sheets. Romey Bukolt
+
+Don Garry \< <dongarry@webtv.net> \>
+
+You can purchase basswood from Lone Star Models. Like you, they recommend it over spruce. Go to \< <http://www.lonestar-models.com> \> and check out their web site. I believe their products are immediately available.
+
+I am currently debating on which material to use on wing spars. Do you think bass wood is the best? Is it as strong per the same size as spruce? You have noted that the weight is about the same...
+
+Don Garry Cocoa, Florida 32927 Phone (407) 632-9115
+
+...OK, fellows, I stand corrected -- I think. I do believe that it's possible that Joe Deppe wasn't lying when he told me that he is the only custom cutter in the USA of model airplane grade basswood. Balsa USA and Lone Star MAY be buying their basswood from Joe.
+
+I know from my own model airplane kit manufacturing experience that sawing balsa and hardwood require different techniques and even different sawblades.
+
+As for Don's query, the fact is that wood varies a LOT in hardness, strength, and weight even in a single "species". "Sapwood" is different from "heartwood"; trees grown in Oregon produce different quality wood from the same species grown in Mississippi.
+
+All my personal experience with basswood has been with what I'd classify as "patternmakers' grade": uniform, close-grained wood without visible flaws. "Aircraft grade" spruce used to be like that -- but hardly anyone builds man-carrying airplanes from wood any more, so that most spruce these days is "harvested" for less demanding purposes. (The "2 by 4's" my local lumberyard carries are mostly spruce.)
+
+Anyway, I wouldn't use either bass or spruce for wing spars. I think hard balsa is MUCH better: far more resistant to breakage in sudden shear loads. Now, when I say hard balsa, I mean HARD. I have some in my wood supply box that's almost as heavy and tough as OAK!
+
+For wing spars I wouldn't go quite THAT hard -- but I would use balsa in the 20 pounds per cubic foot range. (A 1/4" square spar 3 feet long weighs just less than half an ounce at that density.)
+
+I believe that glue holds better to balsa than to spruce or basswood, too. The purpose I need basswood for is the struts on my Dare Sopwith Triplane. I'm revising the construction on that a bit, to eliminate the damage-prone wing attachments and simplify the whole wing cellule arrangement. And I feel that basswood struts are what I need to accomplish my objectives. \[JW\]
+
+Jim Rundle \< <jrr10@cornell.edu> \> inquires:
+
+I also appreciated Steve Morris's review of the Enya .06. I wonder if anyone has a Cipolla .09 R/C Junior and would be willing to tell us about it? It seems to be another neglected engine (of course, there could be a reason).
+
+All I know is that it is very light for an .09. If it will swing an 8-inch prop, hand-start and idle and transition well, it could be just the ticket for my Petite Parasol (a cute 41-incher designed by Ralph Fidance and published by MAN in 1966). My PAW .06 is too feeble, and my PAW .09, at 5+ ounces, seems a little heavy and bulky.
+
+One of the new .07s would probably do well, but I'd prefer a larger, slower turning prop. Maybe the .07s could run with 8 inch props -- has anyone tried? Thanks in advance for any information.
+
+Speaking of PAW .09s -- no trouble with the prop nut yet on mine, but I've only just broken it in. There must be a reason no one uses lock washers on prop shafts, but can someone tell me what it is?
+
+Jim
+
+...Jim, lock washers chew up prop hubs rather avidly! \[JW\]
+
+Steve Finch \< <steve@finch82.freeserve.co.uk> \> is also a PAW lover:
+
+Having used PAW 1.5cc (.09 cu in) diesels man and boy -- both the original DS (radial ported) and contest (schneurle ported) mostly for control line sport/combat, I don't recall ever stripping a prop nut or having a prop come loose. The prop nuts on the motors I own are 1 BA (British Association) steel full nuts with a steel washer.
+
+The props I used were mostly of the flexible nylon variety Grish Tornado 7x6, though I have also used APC 7x6. PAW's are some of the most rugged and reliable motors I have ever used.
+
+I don't know how experienced Len is with diesels but it may just be a case of developing a suitable technique.
+
+Here's what works for me: Once the optimum running settings have been established on both compression and fuel needle I leave them alone. Provided the fuel blend and prop remain unchanged there is rarely any need to adjust them (especially the compression).
+
+To start from cold, the air intake needs to be reduced in area (like the choke on a car (auto?) carburettor). I find my thumb works fine for this, and provides a good level of control.
+
+As the motor warms up, progressively increase the air allowed to enter until the air intake is fully open. On the first run of the day when the motor is stone cold this might take over a minute; but on subsequent runs if the motor is not allowed to cool down too much, it only takes a few seconds and the running setting is spot on every flight.
+
+The fuel I use for a run in PAW 1.5 (.09) or 2.5 (15) is 2.5 parts castor oil, 4 parts paraffin (kerosene?) and 3 parts ether with 2% isopropyl nitrate (I.P.N). I mix my own to ensure it's always consistent.
+
+Regards, Steve Finch
+
+...Steve brought out the other error I committed in the previous Posting: confusing "BS" threads with "BA". Dagnab, but I should have checked that before merrily typing it (around 3 AM). \[JW\]
+
+Ian McQueen \< <imcqueen@nbnet.nb.ca> \> also caught that mistake:
+
+I believe that the PAW prop nuts are BA, not BS (unless they've changed the nomenclature). I'd have to guess at the meaning; perhaps "British Association".
+
+They seem to be the standard small size in the UK, and were in Australia for electronics projects when I lived there to '78. Probably still are despite metrication, the same as here in Canada where metrics are in one corner of a hardware shop surrounded by the traditional imperial/SAE/whoknows fasteners. Ian
+
+Paul Dranfield \< <pdran@bc.sympatico.ca> \> says:
+
+The prop nuts do strip!! I would suggest using a PAW spinner nut on your 09 instead of the standard prop nut. This will solve your problem and allow props with larger hubs to be used..
+
+Regards, Paul Dranfield
+
+\< <http://www3.bc.sympatico.ca/dieselcombat/index.htm> \>
+
+Phil Huffstatler \< <phuffsta@pelzgolf.com> \> advises:
+
+For those SMALLsters still flying with engine power. Today's tip is Check Your Batteries, Check Your Batteries, Check Your Batteries! We've all heard it a thousand times, but I didn't do it!
+
+Flying last weekend, had about six 5-6 minute flights, and of course, it was literally the last flight of the day... Engine was running out of gas, turned downwind to set up for final, and nothing! Plane slowly turned to the left and dove in under ever-increasing speed, CRUNCH! I HATE that sound.
+
+Check your Batteries!
+
+Phil Huffstatler in Austin, Texas
+
+P.S. I need a new muffler for my MDS .28
+
+Mike Gillihan \< <GillihanMike@JohnDeere.com> \> announces:
+
+Who says one has to shell out the big bucks to have a really good time? \[The model magazine advertisers, that's who. JW\]
+
+I recently purchased an "Ultra-Flier". This is one of those four- dollar foam airplanes sold in the toy department of most discount stores. The aircraft has a 48" wingspan, and resembles the U-2 spyplane. I have always wanted to R/C one of these puppies, and this weekend I finally got around to doing so.
+
+Long story made short, I cut some holes and put mini-servos behind the wing, and pylon mounted a Pee-Wee .020 just forward of the wing. The rudder and elevator were made full-flying control surfaces, and I added a fair bit of dihedral to the wing (stock is no dihedral). A bit more of this 'n that, and we were ready to fly.
+
+I would have been very happy if the bird dragged itself around the sky a bit. A spectacular crash would have been excellent. What I got was totally unexpected... That little bird flew out of my hand like a dove climbing for the heavens. The Pee-Wee provided ample power, and plenty of altitude to snag a thermal. I strongly suggest a light mist of foam-safe colorful paint on the bottom of the wing, as the aircraft was very difficult to see when it became a speck.
+
+The aircraft is also very adept at low altitude fun flying, and the strapping-tape reinforced wing withstands the G of loops and snap- rolls without a problem. I enjoy flying the plane about five feet off the deck, making super tight pylon turns around sapling trees. This bird flies slowly, and will do a 360 in its own length!
+
+If anyone is interested in the exact setup on this thing, I will post photos and detailed directions on a web page. I have seen reports and photos of other "bashed" foam gliders, but none of the reports led me to expect what I got with this little honey! Again, who says one has to spend money to have fun?
+
+Mike S. Gillihan
+
+Dave Fritzke \< <DFRITZKE@ci.crystal.mn.us> \> made a discovery:
+
+I went to the field yesterday and brought my Champion 45L (Double ouch, a .50 sized plane and an ARF to boot!) and my Pee Wee- powered "Micro Vagabond" three-channel plane.
+
+I had lots of trouble getting the Pee Wee to run, so I took it apart when I got home and decided the culprit was the raggy little black rubber gasket that seals the backplate to the fuel tube. Needing a replacement, I decided I should be able to slice off a bit of fuel tubing and use that.
+
+I looked in the box of fuel tubing scraps, and found a piece of translucent yellow "Tygon" that had the right inner diameter. I first tried to cut a slice with an X-Acto knife; no way! It was impossible to get a slice thin enough AND a consistent thickness, even with a brand new scalpel blade. I thought, "If I could just shave off a slice with a razor plane..."
+
+So I found a 2" chunk of brass tubing that was a snug fit around the Tygon, and let the Tygon protrude from the end of the brass tubing; and used the end of the brass tube to guide the blade. I then pushed the Tygon out of the brass tube about the thickness of a sheet of paper and made another cut.
+
+It took about 10 attempts, but I got one that was thin enough and a consistent thickness. I found that you need a really sharp blade, a good smooth end on the brass tube, and a little lube (I used Teflon spray) on the knife blade to help it "glide" through the Tygon tubing.
+
+Also, hold the blade at about a 30 degree angle to the face of the brass tubing.
+
+I put the engine back together and got a good solid run, so I think it was a good fix. Have any of you found a source for these little gaskets (I know they come in the overhaul kits, but it's hard to get them for the PeeWee) or a good substitute? Does RTV or "Goop" work?
+
+Thanks to all you SMALLsters that asked for the Strutz and Touch- down scans. Send me pictures if you build one! By the way, anyone have a set of plans for the Airtronics "Warlock 05"??
+
+Dave Fritzke
+
+...Dagnab but that's clever, Dave! I tried the freehand method myself several times, and failed miserably. You have brought a new ray of sunshine into the lives of us Pee Wee-powered flyers!
+
+That teeny little black washer seems to be the most important part of the whole engine -- at any rate, the Pee Wee surely won't run right if the junction between the tank back and the intake tube has even a minor leakage path.
+
+Randy, how about using this tip in a future Small Talk column? \[JW\]
+
+Jan Carlerud \< <jance@telia.com> \> makes his first contribution:
+
+Andy Woitowicz asked, "Would you believe someone has electrified, and R/C'd a Hacker Tiger Moth (26" span) and then had the gall to put floats on it and THEN proceeded to have a blast of fun with it?"
+
+I suggest you take a look at \< <http://hem.passagen.se/johanbju/> \>, which is the site where you can see pix of said Hacker Moth and lots of other really small stuff. Johan Bjurling has lots of information, which he also has translated into English. (So Americans should be able to read it too... :-) ) Jan Carlerud
+
+Joey Maggio \< <SkyTiger21@aol.com> \> contributed:
+
+I was just told about this mailing list by my flying buddy Pat LeRay. I'm 15 years old and have been flying anything that had wings and a way into the air since I can remember, but I've been flying R/C for about 7 or 8 years now.
+
+I have normally flown .40 size planes, average sport and aerobatic, which I love, but when I saw Mr. Pat's collection of old-timers and gliders I was immediately hooked. You just can't beat real flying.
+
+Needless to say, I have now cleared the workbench, started scrounging for balsa and a set of plans to start on a 46" Playboy. (I just can't wait!) I hope to have an enjoyable time talking to all of you and meeting new people of the same interests. (I'm sure I'll need all the hints and kinks I can get my hands on too!)
+
+Thanks a lot, and I look forward to much more airplane discussion.
+
+Sincerely, Joey Maggio
+
+...Good having you with us, Joey! \[JW\]
+
+Dave Campbell \< <cdcampb@ismi.net> \> wrote:
+
+Gary Gullikson quoted a "...general rule of thumb: with a 200 square inch wing, all-up weight should not exceed 6 or 7 ounces for decent e-powered flying, given state-of-the-art motor/gear/prop/R/C/battery systems."
+
+I must admit being a little perplexed by the above rule of thumb. My guess is that Todd figured you wanted an R/C Slow-flier (which is his forte) when he told you that a 200 square inch electric scale model wouldn't work. I know that Todd had a composite Speed 400 pylon racer similar to the one I kit (the Sliver 400) so I know that he's experienced 400-sized airplanes first hand.
+
+A Speed 400 racer typically is 130 square inches and weighs 14 ounces. This is middle-of-the-road for the type -- they can go as low as 75 square inches and as high as 17 ounces. These airplanes are terribly overpowered by 90% of the modelling public's standards, but other than being too clean to slow down on landing they have no bad habits.
+
+The real way to judge how well an electric airplane will fly is to calculate watts per pound. The rules of thumb in the E-flight community are as follows:
+
+35 watts/pound will fly most gliders\
+50 watts/pound will give scale-like performance in a sport plane\
+75 watts/pound will give spirited performance\
+100 watts+/pound will give unlimited aerobatics and vertical climb (the latter depending on the prop and model)\
+
+These are generalizations, of course, because I can take my racer and put an Astro 010 in it and do everything in the book but straight-up verticals -- all at schoolyard speeds! Prop efficiency, drag, and wing loading play a part here as they would for any other size of airplane.
+
+So for your 200 square inch scale airplane, let's play with the numbers! If you were to build your plane at 12 ounces, 75 watts would be all you'd need to make it into the 100W category.
+
+A typical Speed 400 with a water break-in and timing advance pumps out in the neighborhood of 110 watts; so there is a lot of latitude left to account for extra weight, drag and such.
+
+The wing area you want is actually a little large by Speed 400 scale and sport standards. Usually you'd see 175 square inches for a model of this type. Since you are looking for a real floater, you'll want to use a gear-drive and a larger prop.
+
+Most folks use a 2:1 gearbox on 7 cells, a 6V motor, and an 8-5 prop. Performance can be varied to a great degree be the motor type and number of cells. For example, a 4.8V Speed 400 and a 4.5:1 planetary gearbox will swing a 10-6 Master Airscrew glow prop at 6100 rpm.
+
+That would give vertical performance in most airplanes, and have a pitch speed of about 60 mph. The airplane will probably fly a little faster than the calculated pitch speed because the prop will unload and the airfoil on the blades will produce lift (and act as more pitch) as the prop spins.
+
+Remember too that these components are not 'state of the art', but cheap parts that you can get at your local hobby store. Using the best of equipment will give 25% better results across the board!
+
+In any aspect of our hobby, there will always be 'rules of thumb'. Most of the time they are formed from casual observation. It was only about 15 years ago that electrics started in the USA and people remember seeing an underpowered glider equipped with the cheapest components that the importer could source from his R/C car inventory try to stagger around the field on its test flights....
+
+That's caused a lot of skepticism towards electric flight in the US -- there's no two ways about it. Several things have happened in the last decade or so that have revolutionized electric flight to the point that ANY project is possible. For starters, charging technology has improved; motors have become more powerful and efficient; and most importantly, batteries have improved due to the boom in laptop computers and cell phones.
+
+In the last 4 years, MOSFET technology has enabled a new breed of speed controls that are much more efficient than the crude frame rate controllers that were first available.
+
+As I said before, any project is within reach. The only disclaimer is that when you go to extreme power levels you end up trading weight for run-time. There are people flying 1 ounce indoor airplanes at less than 1 watt, and there are people flying 1/3 scale Extra's at 3000 watts!
+
+Crunch the numbers, pick a prop and gearing (if needed), get the cell count, and go fly!
+
+Hope that helped some! Dave
+
+Sam Brauer \< <SBrauerBCC@aol.com> \> amplifies:
+
+I've been doing some thinking about Gary Gullikson's comment that there are no suitable electric power systems for airplanes in the 12-14 ounce range. I think he may have overlooked some options. Furthermore, since I too have some Flyline kits still kicking around, these will probably be electrified instead of glow power.
+
+I suspect that the 12-14 ounce range is a little much for a geared Speed 280, although the Slow Mow Watt by Tom Hunt flies in this weight range. Conversely, the Slow Mow Watt has over 400 squares and is very much a slow flyer.
+
+I've been flying a Flyline Megowcoupe with an MTM S-300 geared 5:1 swinging an 8x4 prop. This combination is running on an 8-cell 350 NiMH pack and will fly a 16 ounce, 350 square inch airplane. However, the climb performance is somewhat lacking. I'll try a larger prop soon. For a smaller, lighter airplane, this power combination is respectable.
+
+Furthermore, the motor and batteries along with speed control are probably less than 6 ounces. At this loading, the motor is just loafing since it can handle a 9 x 9 three-blade prop.
+
+Alternatively, MTM also makes an S-200 motor which should swing an 8-inch prop. This motor will probably be an ounce lighter than the S-300, but is somewhat more expensive.
+
+Both of these motors are larger and heavier than what is commonly used in Todd Long's indoor stuff. There is something of a void in between the small indoor coreless motors swinging large props and Speed 400s, but the MTM stuff does seem to fit the bill. I've got 2 of the S-300s and I'd happily buy more -- they're not cheap, but well-done motors.
+
+I'm finding that electrics are just more relaxing than fighting with balky engines. Years ago, I built a Flyline Robin and put in a Cox Dragonfly. Foolish soul that I am, I even added some of the exhaust detail. None of that lasted 5 minutes when I was trying to get the engine to run -- it just broke off. One of the major advantages of electrics is that you don't have to use brute force, starting clips, or hang on tight while trying to start them.
+
+Actually handling the airplane is much easier. I vowed I'd never use tissue covering on a gas powered airplane again (OK, over solid sheet I will), since the last time I did, I kept poking holes in the tissue when it would get soggy from the fuel -- and this was after 4 or so coats of butyrate dope.
+
+Constantly patching the airplane (the Megowcoupe) was frustrating. Consequently, I've put an electric motor in the airplane and much of these handling woes vanish. Therefore, unless you're enamored of small engines and making them run reliably, I think electrics for .049 and smaller gentle-flying models is the way to go.
+
+With careful equipment selection, overall weights can be equivalent to glow, or even lighter than the radio gear alone used 10 years ago.
+
+Sam Brauer, Norwalk, Connecticut
+
+William Adams \< <William.P.Adams@mii.com> \> contributed:
+
+I saw some questions about Yard Bees - how they handle and what to power them with. I just got mine finished & flying with a K-Mills 0.75. Covered in MonoKote, with Trexler wheels and 3 channel FMA micro "Magnum" receiver and S80 servos & 250 mAh battery. My one-ounce tank is good for quite long flights.
+
+All-up weight is around 13-14 ounces. Ron Vallejo said his is unstable in pitch, but that seems OK: it is a short plane. Takeoffs are fun with a tail skid. I have not got mine to go off in a predictable direction. The 3rd R/C channel for throttle is a joke with the Mills. It seems to have 2 settings -- full blast and stalled. All the evidence is that this engine is not a good candidate for throttle. Still, this is a fun plane to fly. I have a PAW 0.5cc (R/C) to try out in it some time.
+
+William Adams, St. Louis, Missouri
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

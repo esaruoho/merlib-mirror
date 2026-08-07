@@ -1,0 +1,155 @@
+---
+title: "jetindex"
+source_domain: amasci.com
+source_path: ~daddog/ultimate.htm
+order: 2132
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:08:36Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# jetindex
+
+*Source page: `~daddog/ultimate.htm`*
+
+DOGRIDER ULTIMATE SETUP
+
+or, the FASTEST BEST YFZ-450 SETUP FOR THE MONEY
+
+Updated 8/19/2004
+
+------------------------------------------------------------------------
+
+We said , after 1 year of steady trials of many different things, We would let you know what the ultimate ultimate dogrider YFZ-450 sand machine would be. WELL, it is the end of summer! So, here we are!
+
+We have tried many bolt on, machined, ported, modified things that you can do for the YFZ 450 to give it power and performance. And for sand riding, to have the most fun and rule the dunes, this is the ultimate setup for the money IN OUR OPINION..
+
+1\. Buy a YFZ-450 Quad. ride it, break it in hard, with lots of drags, and run 92 octane, not race gas.
+
+2\. Take off fenders, powder coat the frame, remove starter or any other weight you may wish, to make it to look nice.
+
+3\. Install a nice light pipe, we like the Jardine, but any pipe will be close. Jardine is only 5 pounds.
+
+4\. Buy ultrabuffed 25x11x9 11 paddle haulers on the back on black label rims and mohawk or baldies ultrabuffed for the front on black label rims (we jump a lot) you could use blue label also. that would be even better. You will hear lots of JOKES about the big tires from people! (REMIND ME TO TELL YOU A FUNNY STORY \*\*\* see botttom of page)
+
+5\. Replace your stock axle with the DOMINATOR axle. Some have broken a dominator. If so, then buy a Dominator 2. Buy the dominator 2 axle if you have ever broken an axle before, because you probably will never break a dominator 2 axle.
+
+6\. For the YFZ-450 carb, buy some jets, put a 48 pilot in the carb and GYTR needle NCVQ on \#3 or \#4 depends on your mods. mainjet until it runs right. probably 175
+
+7\. Install a K&N RON WOODS Airfilter
+
+8\. Do your own free cam mod and rejet until it runs right.
+
+9\. Buy a 15 pounds nitrous oxide tank and a NOS filler hose 18 inches and a NOS \#3001 nitrous kit for single cylinder motorcycles and ATV's, you can buy them from www.schnitzracing.com. or from Holly performance products. This \#3001 kit is good for up to 500 cc and it costs about 500 dollars. Buy three stainless steel funnel jets, a 13 and a 14 and a 15. the kit comes with a 16 and an 18. Do not set it up with the 16NOS-18GAS stock jets but with special ordered jets 13-15, or 14 NOs and 16 Fuel. This will give your engine a longer long life and gives you 5 more hp, that is all you will really need for this quad, the 450 is so fast already, more doesnt make too much sense, it just reduces piston life. Lower jets let you run many more runs until you refill. so that is it.
+
+THIS IS A SIMPLE CHEAP EFFECTIVE setup and this is when you ARE NOT running the NOS. the Nos only has to be used once in a while. Some days never. Some days you just drag the bottle around and you beat everyone! you can save the NOS.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+NOW the sectio0n if you want to spend some money MONEY.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+FOR MORE MONEY: We like the Titanium valve retainers from Ron Woods racing, you have to put them on the valves so you will have to remove the valves. These help rev's and RPM's Now, when you get bored, you can add on these things:
+
+10\. get some billet stuff with all the big bucks you saved on not buying a bunch of needless stuff.
+
+11\. If you must have more power get a 480 or bigbore kit , This will give will get you a slight edge, like a few lengths (Hey, getting a few lengths on a YFZ-450 is not EASY!
+
+DYNATEK CDI ignition system : this is a programmable ignition system to make your curves fit, this can alter torque output throughout the range.
+
+TRAIL TECH Flywheel: these put out more power and you can get them lighter. This is for the Die hard duners and racers for an edge. PLUS you can run HID LIGHTS which look pretty cool. NOW WHEN YOU ARE SUPER BORED and you get your tax refund back you can also:
+
+508 DD05 STROKER motor from FALICON we like this one.call Falicon and get the DD05 stroker. We have not tried a stroker on NOS yet. This involves a spacer, longer oil line shorter top bracket extra gasket, and of course changing the crank. We can do this in one day.
+
+Lonestar chrome swingarm extended will be necessary so that you will be shiny.
+
+But for the money, the basic 1-9 setup above is just fine.
+
+and that is it. You should have all that setup in one week, and you will be able to run your quad for a year, instead of always working on it with something new, this is the best beginning setup, \#1 to \#9.
+
+The dollars you would have to put in to get the same benefit as super low dose NOS makes it another option if you have those dollars. If not, this is a good way. .
+
+Low injection NOS, is only needed once in a while when your race is very close or you lost by a little bit. maybe 5-10 runs a day. Then flip the switch and try again.
+
+meanwhile WITHOUT using the gas, you are even with 90 percent of the fixed up 450's out there. with the NOS you pass them all. that is the ultimate sandQUAD. Running the Gas will take you to the next level.
+
+Running it low dose like 5 HP. will keep the engine running much longer without rebuilds. It will be almost like stock. We would think one could run a long time without worrying about rebuilds.
+
+SEE OUR SECTION on nitrous.
+
+And there is a CIRCUIT you will HAVE TO INSTALL, it is not hard, just check our web site out how we did it.
+
+Now with this basic setup you can be assured you are at the top of the heap. No more buying things and adding things, just go run it. Instead of pulling it apart every week to experiment, you can just go race around now . No more expperimenting is necessary. This is basic, One of the fastest setups you will see out there. P.S. Make sure you mount the bottle so that LIQUID comes out, not gas. That means upright for the blue bottles.
+
+Anyway, riding it,you will have to be careful.
+
+Be careful dont go putting the jets up to much or you will have to rebuild your top end in a few months, but hey, when you are bored what else are you going to do.
+
+Alcohol? NIt doesnt run with NOS real well. Hard to jet correctly one minute, then the temperature changes... PORTING? You could do this later for more air flow. VALVES? You could do this later for more air flow. For now just put the little bottle on and you get quick benefits.
+
+See you later. I think we should put a little blue DOGRIDER HOUND or a GREYHOUND STICKER on the quads when they run gas that way we will know who they are.
+
+CHOW.
+
+Remember, life is more than winning, try and help someone someday, and we will consider our time worthwhile. Who knows, you may give us a tow out of the valley one day when we run out of gas.
+
+P.S. A quad with a pipe and good tires and airfilter, free cam mod (USE MOLY LUBE!) and jetted right is nearly unbeatable, and with the NOS and daddog's ignition retard, you arent going to be beat by anything without NOS. you will find yourself beating many specialized quads even if you do not use the NOS, we did. WEIGHT IS EVERYTHING, keep it light, when you are not using the NOS take the bottle off, it weighs 5 pounds. Also keep your tank half full of gas and always run on RESERVE so you dont stutter. There, that is all we know. But it is enough.
+
+------------------------------------------------------------------------
+
+If you are runing medium dos NOS (Nos jet 16 or higher, be sure you have daddog's electrical ignition delay circuit working. And you should be running higher octane like a race gas mix or one quart of Toluene per two gallons of 92 octane mix.
+
+------------------------------------------------------------------------
+
+If you are going to inject HIGH dose NOS over 20 hp make sure you have a low compression piston and a high power super crank done by FALICON (they can make a super crank that should handle NOS let Glen know what y9u need, and see if he can do it. Your piston should be lower compression and the electronic circuit must be on there again. You should also know how to tear your motor apart and put it together as needed since this is what you will be doing a lot.
+
+WE RECOMMEND STICKING WITH LOW DOSE NOS (Dogrider NOS).
+
+Be sure you have your fuel pump turned ON before you inject NOS, your setup should be foolproof wired.
+
+Be sure you say hi if you see us.
+
+HAVE A NICE DAY!
+
+happy riding!
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+(\*\*\* FUNNY STORY HERE)
+
+Ok, We went to the dunefest with our quads on the BIG TIRES and we kept hearing oh, are you SURE you got enough POWER to turn those things? But we played it cool, and said Oh, I don't know, are they too big? (At that they usually laugh knowingly.)
+
+The store that talked us out of buying them were there racing too that day. We were going to buy these tires from them earlier in the month. They didn't think they were the best tire for a 450, and they didn't have black labels. So we decided to buy them from somewhere else.
+
+After the race when we took \#1, none of these guys were smiling too much at the tires. Pump them to 5 pounds PSI.
+
+If you buy these tires get prepared for a lot of wisecracks,
+
+That is, until you beat them. (LOL!) I don't know, we are just having too much fun.
+
+See you later!
+
+------------------------------------------------------------------------
+
+[**IGNITION TIMING**](http://eskimo.com/~daddog/fuels/ignition.htm)
+
+ 
+
+[**DISCLAIMER**](http://eskimo.com/~daddog/fuels/disclaimer.htm)
+
+ 
+
+------------------------------------------------------------------------
+
+[**GO BACK TO MAIN PAGE**](index.htm)

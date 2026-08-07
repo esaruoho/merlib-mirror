@@ -1,45 +1,20 @@
 ---
 title: "Information"
 source_domain: amasci.com
-source_path: ~joanne/wholesale_info.html
+source_path: ~joanne/info.html
 order: 3955
 reachable_from_entry: false
 images: 50
 internal_links: 7
-extracted: 2026-08-07T05:57:12Z
+extracted: 2026-08-07T17:10:41Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # Information
 
-*Source page: `~joanne/wholesale_info.html`*
+*Source page: `~joanne/info.html`*
 
-<table width="100%" src="../images/menu_images/
-&#10;
-&#10;
-&#10;
-&#10;
-&#10;
-&#10;
-&#10;
-&#10;
-&#10;
-&#10;
-&#10;
-&#10;
-&#10;
-&#10;
-&#10;
-&#10;
-&#10;
-&#10; border=" data-0"="" data-cellpadding="0" data-cellspacing="0">
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="5" width="20%" data-valign="top" data-background="images/side_bg_logo.jpg"><table data-border="0" data-cellpadding="0" data-cellspacing="0" width="159">
+<table data-border="0" data-cellpadding="0" data-cellspacing="0" width="159">
 <tbody>
 <tr>
 <td><img src="../images/menu_images/spacer.gif" id="undefined_2" data-border="0" width="8" height="1" /></td>
@@ -127,46 +102,38 @@ extractor: site_to_paper.py (pandoc)
 </tr>
 </tbody>
 </table>
-<p> </p></td>
-<td data-valign="top"> </td>
-</tr>
-<tr>
-<td data-valign="top"><p> </p>
-<p><strong>Wholesale Information</strong></p>
-<p>Bassett Aromatherapy welcomes Wholesale and Bulk Orders. We have provided the following pages online for your convenience.  If you have any questions, please feel free to contact us by e-mail, fax or telephone.</p>
-<div data-align="center">
-<table data-border="0" width="52%">
-<tbody>
-<tr>
-<td width="34%" data-bgcolor="#00FFFF"><strong>E-mail:</strong></td>
-<td width="77%" data-bgcolor="#00FFFF"><strong>joanne@aromaworld.com</strong></td>
-</tr>
-<tr>
-<td width="34%" data-bgcolor="#00FFFF"><strong>FAX:</strong></td>
-<td width="77%" data-bgcolor="#00FFFF"><strong>760-944-7109</strong></td>
-</tr>
-<tr>
-<td width="34%" data-bgcolor="#00FFFF"><strong>Toll-free:</strong></td>
-<td width="77%" data-bgcolor="#00FFFF"><strong>1-800-738-8678</strong></td>
-</tr>
-</tbody>
-</table>
-</div>
-<p><a href="catalog/cl_1.html"><strong>Wholesale Catalog Online</strong></a></p>
-<p><a href="order_form.html"><strong>Wholesale and Bulk Price Order Forms</strong></a></p>
-<p><a href="wholesale_catalog_request.html"><strong>Wholesale and Bulk Catalog Requests</strong></a></p>
-<p><a href="display_packages.html"><strong>Display Packages</strong></a></p>
-<p><a href="first_order.html"><strong>First Order Specials</strong></a></p>
-<p> </p></td>
-</tr>
-<tr>
-<td data-valign="top" data-background="images/td_bg.jpg"> </td>
-</tr>
-<tr>
-<td data-valign="top" data-bgcolor="#CCCCCC">© 2001 Bassett Aromatherapy. All rights reserved. Reproduction in whole or in part without permission is prohibited. Disclaimer: All material provided in at this website is provided for educational purposes only. Consult your own physician regarding the applicability of any opinions or recommendations with respect to your symptoms or medical condition.</td>
-</tr>
-<tr>
-<td data-valign="top"> </td>
-</tr>
-</tbody>
-</table>
+
+ 
+
+ 
+
+**Aromatherapy Information and Resources**
+
+***Aromatherapy*** is the art of healing with pure essential oils - the highly concentrated extracts from plants, herbs, and flowers. Aromatherapy is a way of treating mental and physical imbalances through inhalation and the external application of essential oils in massage, baths, etc. Essential oils act on the olfactory nerves which lead from the nose to the brain. Essential oils contain antibacterial properties and also may contain antibiotic, antiviral, and other therapeutic properties. Aromatherapy is holistic therapy for your mind, body, and spirit. Essential oils are organic and act in harmony with the body, providing well-being and balance.
+
+Many essential oils available on the market are not of high quality. They are cut with other substances, rectified, determined, adulterated, synthesized and most of the time insufficiently defined. In response to this state of the market and to help everyone recognize certified aromatic products, the Scientific Institute of Aromatology (INSA) has created the H.E.B.B.D. certification (Huile Essentielle Botaniquement et Biochimiquement Definie, Botanically and Biochemically Defined Essential Oil). The presence of the H.E.B.B.D. certification on a bottle of essential oil is a guarantee of quality. The INSA is located in France. Oils with H.E.B.B.D. certification are never rectified or adulterated.
+
+**Uses of Essential Oils:**\
+For external use only! Essential oils are concentrated so use with extreme care. Please consult an aromatherapy book for in depth description of uses.
+
+**Bath, Hot Tub, or Sauna:** 10 drops in warm water. Put drops into the water immediately before entering. Gently stir the water to disperse the oil. For sauna, dilute the oil with 90% water and spray on rocks or into the air.\
+**Compress:** Put 3-5 drops into a hot or cold basin of water. Cold water contracts the tissues and warm water relaxes the tissues. Fold up a clean cloth and dip it into the water. Squeeze out the excess water. Apply immediately to the painful area.\
+
+**Facial Steam:** One drop of oil per cup of boiling water. Put the drops into the basin after the water is drawn. Gently stir the water to disperse the oil. Immediately place a towel over your head and move your face as close to the aromatic steam as is comfortable.\
+**Massage:** Use 15 drops of essential oil per 1 oz. of blending oil such as sweet almond, grapeseed, jojoba, or apricot kernel oils.\
+
+**Inhalation:** Recommended for respiratory problems, colds, headaches, sinuses, and coughs. Use 3 to 5 drops of an essential oil on a tissue or handkerchief. Hold it under your nose and then breathe deeply.\
+**Environmental Fragrancing:** Electric diffusers are a simple and effective way to fragrance a room for aesthetic and therapeutic benefits. Do not use carrier oils in diffusers as they will clog and not disperse. Use essential oils alone or use synergies of pure essential oils. Diffusers eliminate the need for aerosol fresheners.\
+
+ 
+
+[Toxic Mold](toxic-mold.html)
+
+[A Therapeutic Guide to Essential Oils -- Printable reference page.](guide1.html)
+
+[Aromatherapy Primer -- An Introduction to Aromatherapy and Aromatherapy Terms](aromatherapy_primer.html)\
+\
+
+ 
+
+© 2001 Bassett Aromatherapy. All rights reserved. Reproduction in whole or in part without permission is prohibited. Disclaimer: All material provided in at this website is provided for educational purposes only. Consult your own physician regarding the applicability of any opinions or recommendations with respect to your symptoms or medical condition.

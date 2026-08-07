@@ -196,6 +196,42 @@ def find_entry(html_pages):
 
 # ── main ────────────────────────────────────────────────────────────────────
 
+def clear_stale_pages(pages_dir, say):
+    """Empty _paper/pages/ before writing it.
+
+    Per-page filenames encode a sequence number and a title slug
+    (`001-some-title.md`). Both change when the corpus changes: adding pages
+    renumbers everything after the insertion point, so a re-run writes NEW
+    filenames and leaves the previous run's files sitting beside them.
+
+    That is not cosmetic. Measured on amasci.com: a refresh wrote 10,303 current
+    files into a directory that then held 18,704 — 8,401 stale orphans under old
+    numbering. A page-per-page analysis pointed at that directory would consume
+    both, treating superseded duplicates as if they were distinct pages, and any
+    aggregate drawn from it would be silently wrong.
+
+    The directory is wholly derived from the mirror, so clearing it is safe: every
+    file is about to be regenerated. Confined to *.md inside pages/ — never the
+    mirror itself.
+    """
+    if not os.path.isdir(pages_dir):
+        return 0
+    removed = 0
+    for name in os.listdir(pages_dir):
+        if not name.endswith(".md"):
+            continue
+        try:
+            os.remove(os.path.join(pages_dir, name))
+            removed += 1
+        except OSError:
+            pass
+    if removed:
+        say(f"site_to_paper: cleared {removed:,} previous per-page file(s) "
+            f"— they are regenerated below, and stale numbering would otherwise "
+            f"accumulate as phantom pages")
+    return removed
+
+
 def collect_html_pages(site_dir):
     """Every mirrored HTML page, as relpaths, sorted. Skips derived/meta files.
 
@@ -267,6 +303,7 @@ def build(site_dir, title=None, author=None, quiet=False):
     paper_dir = os.path.join(site_dir, "_paper")
     pages_dir = os.path.join(paper_dir, "pages")
     os.makedirs(pages_dir, exist_ok=True)
+    clear_stale_pages(pages_dir, say)
 
     source_url = ""
     src_txt = os.path.join(site_dir, "SOURCE.txt")

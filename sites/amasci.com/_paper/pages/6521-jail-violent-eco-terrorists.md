@@ -1,0 +1,61 @@
+---
+title: "Jail Violent Eco-terrorists"
+source_domain: amasci.com
+source_path: ~rarnold/hudson_editorial.htm
+order: 6521
+reachable_from_entry: false
+images: 0
+internal_links: 3
+extracted: 2026-08-07T17:13:49Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Jail Violent Eco-terrorists
+
+*Source page: `~rarnold/hudson_editorial.htm`*
+
+This opinion piece appeared in the PASADENA STAR-NEWS April 07, 2003\
+<a href="http://www.pasadenastarnews.com/Stories/0,1413,206~11851~1307601,00.html" style="text-decoration: none">http://www.pasadenastarnews.com/Stories/0,1413,206~11851~1307601,00.html</a>
+
+**Jail violent eco-terrorists**\
+By Dennis T. Avery
+
+WHEN the Iraqi government showed the world photos of dead U.S. soldiers shot, execution-style, through their foreheads, President Bush announced that Iraqis who shoot prisoners will be prosecuted as war criminals.
+
+Shooting defenseless prisoners violates a key rule of today's human societies. Saddam's Fedayeen thugs would no doubt retort that the United States is so much bigger and more powerful than Iraq that they have to strike any way they can.
+
+That's also the argument of First World eco-terrorists who have burned public buildings, destroyed medical research laboratories and even murdered leading Dutch political candidate Pim Fortuyn last year.
+
+Their justification is that they have no way but violence to make society stop doing what eco-terrorists don't like. This is an argument we wouldn't accept from Saddam Hussein, but it seems to protect the eco-terrorists from serious prosecution in America.
+
+Most of the world's people prefer democracies instead of dictatorships. In a democracy everybody gets to help choose, instead of just a thuggish minority willing to burn and murder to get its way. Since most people are unwilling to commit arson and murder, in a world without rules the thugs win.
+
+The spokesman for U.S. eco-violence is Craig Rosebraugh, who admittedly fronts for the Earth Liberation Front (ELF). Rosebraugh says the horror of seeing the forest behind his boyhood Oregon home cleared for affluent home sites made him admire violence. He thinks the U.S. tanks went into Kuwait in 1991 to get oil, not to reverse Saddam Hussein's invasion of a neighboring country. But he has no answer for this question: "If we went for the oil, why didn't we keep it?'
+
+Rosebraugh claims corporations are committing wholesale murder. But the evidence shows Fascist, Communist and Baath Party dictatorships have murdered more than 100 million of their own citizens. Human Rights Watch credits Saddam with 250,000 deaths.
+
+If Rosebraugh was a resident of Baghdad, he'd have seen his Ultimate Leader sell the country's oil to line his own pockets and then deliberately torch Kuwait's oil wells to cause an environmental disaster when the Allies threw him out.
+
+Rosebraugh says corporate greed has set the stage for the "threatening shortage of natural resources and the massive environmental pollution and destruction present today in the United States.' He seems not to understand that the First World's forests are expanding, its farms are feeding more people from less land, and its air and water quality are rapidly improving.
+
+It's the Third World where millions of domestic animals are starved and beaten by their poverty-ridden owners while endangered wild animals are hunted down for sale as "bushmeat.'
+
+Rosebraugh says, "It is clear that the classic state-sanctioned means of social change are not working. It is time for a dramatic increase in underground direct action.'
+
+Instead of nonviolent demonstrations, he recommends large- scale urban riots, physically "knocking the national TV networks off the air,' personally attacking heads of government and big companies in their homes, and undermining support for the U.S. troops going in harm's way.
+
+Most Americans would defend Rosebraugh's constitutional right to speak such views but the Constitution also denies him the right to inflict his views on the rest of us through violence.
+
+It's time the FBI tracked down law-breaking members of eco- terrorist groups and allowed them to contemplate their anti- democratic values from federal prison cells.
+
+-- Dennis T. Avery is a senior fellow at The Hudson Institute, <a href="http://www.hudsoninstitute.org" style="text-decoration: none">www.hudsoninstitute.org</a>  Readers may write to him at Hudson/DC, 1015 18th Street NW, Suite 300, Washington, D.C. 20036.
+
+------------------------------------------------------------------------
+
+**FAIR USE NOTE: In accordance with U.S. Copyright Law as codified in Title 17 U.S.C. section 107, any copyrighted material herein is displayed without profit or payment for non-profit research and educational purposes only. It is posted here only after the commercial purpose of any copyright holder has been satisfied, and complies with fair use clauses of the U.S. Copyright Act. For more information go to: <a href="http://www.law.cornell.edu/uscode/17/107.shtml" style="text-decoration: none">http://www.law.cornell.edu/uscode/17/107.shtml</a>**
+
+**<a href="top_stories.htm" style="text-decoration: none">RETURN TO ECOTERRORISM TOP STORIES TOP PAGE</a>**
+
+**<a href="ecoterror.htm" style="text-decoration: none">RETURN TO ECOTERRORISM TOP PAGE</a>**
+
+**<a href="index.html" style="text-decoration: none">RETURN TO CENTER FOR THE DEFENSE OF FREE ENTERPRISE HOME PAGE</a>**

@@ -1,370 +1,0 @@
----
-title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
-source_domain: amasci.com
-source_path: ~recall/bleed/0113.htm
-order: 6623
-reachable_from_entry: false
-images: 12
-internal_links: 0
-extracted: 2026-08-07T05:59:22Z
-extractor: site_to_paper.py (pandoc)
----
-
-# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
-
-*Source page: `~recall/bleed/0113.htm`*
-
-> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
-> >
-> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
-> >
-> >   Our Daily Bleed...
-> >
-> > \
-
-\
---
-
-> > **"& I brought you into a plentiful country, to eat the fruit thereof & the goodness thereof; but when ye entered, ye defiled my land, & made mine heritage an abomination."**
-> >
-> >  *Jeremiah 2:7*
-> >
-> > 
-
-The Sedge is wither'd from the lake,\
-    & no birds sing.
-
-*John Keats*
-
-> []()\
-> []()\
-> \
-> --
->
-> **JANUARY 13**
->
-> PAUL FEYERABAND\
-> Viennese-born, Swiss-based anarchist philosopher\
-> who demanded separation of Science & State.\
-> 
->
-> > > 
-> > >
-> > > ------------------------------------------------------------------------
-> > >
-> > > England: ST. HILARY'S DAY: According to custom, the coldest day in the year. Feast day of the patron saint of lawyers.
-> > >
-> > > Today was celebrated by the Druids in Ireland in the FEAST OF BREWING: keep warm -- toast a priest.
-> > >
-> > > FESTIVAL OF THE BODY HABITS.
-> > >
-> > > ------------------------------------------------------------------------
-> >
-> > []()\
-> >
-> > []()\
-> > \
-> > 1599 -- English Renaissance poet Sir Edmund Spenser (The Faerie Queene) dies, about 46, in Westminster. 
-> >
-> > > He was a Sir not because Queen Elizabeth thought he was better than other poets (like Non-Sir William Shakespeare) but because he was attending a wedding in which all the other groomsmen were knights & the Queen dubbed him on the spot for reasons of protocol. When Spenser was buried in Poets Corner in Westminster Abbey, his poet friends, including Shakespeare, gathered in the Abbey & read memorial verses that they had written about Spenser with golden pen-nibs. Then the poems & the nibs were immured (put in the niche) with Spenser.The wedding poem "Epithalamion," is matchless for its lyricism.
-> > >
-> > > <http://darkwing.uoregon.edu/~rbear/>\
-> > > []()\
-> > > \
-> > > 1695 -- Author Jonathan Swift ordained an Anglican priest in Ireland. He did not rise in ecclesiastical circlesa fact which disturbed him, as a Tory defender of the Church's place of privilege. Such ideas, called were called antidisestablishmentarianism. He wanted to be a bishop, but never ranked higher than Dean of St. Patrick's in Dublin.\
-> > > <http://www.bartleby.com/65/sw/Swift-Jo.html>\
-> > > []()\
-> > > \
-> > > 1777 -- US: Jefferson gets Virginia to make "sodomy" punishable by castration. []()\
-> > > []()\
-> > > \
-> > > 1810 -- Ernest Rose, utopian socialist, lives.
-> >
-> > []()\
-> > []()\
-> > \
-> > <img src="http://recollectionbooks.com/bleed/images/authors/book_500.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="277" height="462" alt="Horatio is Horny?" />\
-> > 1834 -- Horatio Alger lives, Revere, Massachusetts. Writes "Ragged Dick," & over the next 30 years repeats his rags-to-riches story, prompting George Juergens to remark: *"Horatio Alger wrote the same novel 135 times & never lost his audience."* His "peculiar" penchant for young boys has been documented in recent years.\
-> >
-> > > "As we shall see with Deadwood Dick & Horatio Alger's stories, the dime novels allow "magical transformations" in terms of gender relations, as well -- women turn into men in the wild West, boys transform into erotically-charged proteges for captains of industry -- as compensation for the "impossibility of imagining 'realistic' actions by powerful agents," which could just as easily be the assertion of homoerotic desire as proletariat unrest."
-> >
-> > \
-> > []()\
-> > []()\
-> > \
-> > 1869 --
-> >
-> > 
-> >
-> > Strange Stuff:
-
-
-
-Explosion in the sky, Brighton \[Rept. B. A., 1869-307\]\
-<http://www.passarola.com/strange/decfort.html>\
-<http://www.sacred-texts.com/fort/damned/damn03.htm>\
-
-
-[]()\
-\
-<img src="http://www.badgelight.com/poligr1.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" data-="" width="152" height="348" alt=" ? " />\
-1874 -- US: Too Clubby? Tompkins Square massacre. The original Tompkins Square Police Riot.
-
-As unemployed workers demonstrate in New York City's Tompkins Square Park, mounted police officers charge into the crowd, indiscriminately clubbing adults & children, leaving hundreds of casualties. 
-
-Police commissioner Abram Duryee boasts, (quote):
-
-
-
-> *"It was the most glorious sight I have ever seen . . ."*
->
-> Except for the 1930s, the US never knew a more serious economic catastrophe than the depression of 1873 to 1877. The four years left 3 million workers unemployed.
->
-> Those with jobs face wage cuts, while the jobless go hungry. In the winter of 1873, 900 people starved to death, & 3,000 deserted their infants on doorsteps. 
->
-> Today's Tompkins Square Park demonstration is part of a wave of unemployed parades & bread riots across the nation. 
->
-> In Chicago, 20,000 people march. Even under police attack, workers in New York, Omaha & Cincinnati refuse to disperse.
->
-> <http://www.badgelight.com/police.htm>\
-> \
-
-> []()\
-> \
-> 1883 -- Russia: Last Act?: A theater catches fire during a New Year's Eve performance by the Circus Ferroni; at least 300 people die, in part because two of the three exits are nailed shut, in Berdischeff. []()\
-> []()\
-> \
-> 1892 -- Prince Edward dies of typhoid fever. A closeted gay man, court officials no doubt gave a silent sigh of relief. Students of the Jack the Ripper case often pose Eddy as a candidate for the Ripper's secret identity. []()\
-> []()\
-> \
-> 1894 -- Italy: Insurrection in Lunigiana as anarchists bands arm themselves in support of Sicilian victims of the State of Siege (beginning of January to repress revolts against increased flour prices.) 
->
-> > A military tribunal condemns Luigi Molinari, on 31 January, to 23 years imprisonment as the instigator of the insurrection. A protest movement was mounted & Molinari was amnestied on 20 September, 1895. 
-> >
-> > Molinari was active with Malatesta & Berneri in the Italian anarchist movement.
-> >
-> > - Molinari, Luigi, Il tramonto del Diritto Penale ( Italy, Vulcano Books)
-> > - Molinari, Luigi, La baldoria elettorale (Italy, La baldoria elettorale, La Fiaccola)
-> >
-> >  []()\
->
-> []()\
-> \
-> 1898 -- Novelist Emile Zola blows the lid off rampant French anti-Semitism & a military cover up in the Dreyfus Affair with publication of J'accuse!
->
-> > Dreyfus was a Jewish army captain accused of spying & causing the loss of the war of 1870 with Germany. J'accuse! was written in a feverish two days, following the acquittal of the real culprit after three minutes deliberation. Published in an edition of 300,000 10 times his publisher's normal printing it sold out within days. Zola accused the military of seeking scapegoats & he galvanized public opinion in favor of Dreyfus. French anti-Semitism later culminated in the Vichy regime's persecution & deportation of 76,000 Jews from France between 1941-1944. Only 2,500 survived.
-> >
-> > <http://www.as.wvu.edu/~mlasting/zola.htm>\
->
-> []()\
-> \
-> 1898 -- Kaj Munk lives. Danish playwright & priest, whose outspoken sermons & plays during World War II led to his murder. Believing the truths of Christianity are realized only in action, his plays appealed to Danes to resist the occupiers. On January 4, 1944, Munk was taken from his home by the Gestapo & shot.\
-> <http://www.kirjasto.sci.fi/kajmunk.htm>\
-> []()\
-> \
-> 1901 -- A.B. Guthrie lives, Bedford, Indiana. His best known work is about the American West. []()\
-> []()\
-> \
-> 1904 -- Richard Addensell, film composer, lives. His "Warsaw Concerto" is one of the most famous pieces of film music ever composed. Eatcher heart out, BeeGees! []()\
-> []()\
-> \
-> <img src="http://recollectionbooks.com/bleed/Encyclopedia/GoldmanEmma/bluemma.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="100" alt="Emma Goldman" />\
-> 1909 -- US: [Emma Goldman](http://recollectionbooks.com/bleed/Encyclopedia/GoldmanEmma.htm) lectures on "The Dissolution of Our Institutions" in San Francisco, California, followed by a statement by William Buwalda, a soldier court-martialed the last year & recently pardoned by President Roosevelt. This event actually takes place without police interference.
->
-> > Buwalda was court-martialled last year for attending one of [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma)'s meetings & "for shaking hands with her." 
-> >
-> > Military authorities punished him severely. His sentence was "reduced" to three years upon review & later, as a result of Emma's agitation in his behalf, he was pardoned by Roosevelt after 10-months' imprisonment.
-> >
-> > He had thought Emma Goldman a crank & had come upon her meeting accidentally, while out for a walk.
-> >
-> > "I wanted to raise my voice in protest, to challenge your statements before the whole assembly....Instead I was caught by the crowd & found myself standing on the platform holding out my hand to you.
-> >
-> > "I was upset by what I had heard ... All the way to the Presidio I kept thinking: 
-> >
-> > 'She's wrong, she's entirely wrong! Patriotism is not the last resort of scoundrels. Militarism isn't only murder & destruction!'
-> >
-> > After the plain-clothes men had reported me to my superior officer, I was put under arrest."
-> >
-> > <http://members.aol.com/artgrrrrl/emma.html#menace>\
-> >  <http://dwardmac.pitzer.edu/anarchist_archives/goldman/living/living1_34.html>\
->
-> []()\
-> \
-> 1910 -- Russia: Moishe Tokar, a young Russian Jewish anarchist who attempted to assassinate Hershelman, the hated military commander of the Vilna Fortress, is sentenced to death. []()\
-> []()\
-> \
-> 1910 -- First opera broadcast on radio, Caruso singing from the Met in New York. []()\
-> []()\
-> \
-> 1910 -- US:
->
-> 
->
-> More Strange Stuff:
-
-
-
-Airship seen & heard, Chattanooga, TN (also seen on previous & next days) \[New York Tribune, Jan 15\]\
-<http://www.passarola.com/strange/decfort.html>\
-<http://www.sacred-texts.com/fort/damned/damn03.htm>\
-
-
-[]()\
-\
-1919 -- Actor Robert Stack "number one, top dog, the big cheese," lives. []()\
-[]()\
-\
-1923 -- England: Having refused him for two years, today Lady Elizabeth Bowes-Lyon (the present Queen Mother) sent Albert, Duke of York (later King George VI) a telegram accepting at last his marriage proposal with this message: "All right, Bertie." []()\
-[]()\
-\
-1929 -- US: Wyatt Earp, a noted scoundrel, crook & US marshall (OK Corral), dies at 80. []()\
-[]()\
-\
-1931 -- Flora Nwapa (1931-1996) lives, Oguta, eastern Nigeria. Author & forerunner of a whole generation of African women writers. Best-known for re-creating Igbo (Ibo) life & customs from a woman's viewpoint.\
-<http://www.kirjasto.sci.fi/nwapa.htm>\
-[]()\
-\
-1933 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="Emma Goldman, anarchist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)Having travelled from Paris (on the 10th) to the Netherlands via Reims, Brussels, & Antwerp, [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma)'s lecture tour of the Netherlands takes her to The Hague, Amsterdam, Rotterdam, Utrecht, & Hengelo (from the 13th to the 23rd); Emma speaks on "Dictatorship, the Modern Religious Hysteria."\
-<http://sunsite.berkeley.edu/Goldman/Guide/chronology2040.html>\
-\
-[]()\
-\
-<img src="http://members.ozemail.com.au/~caveman/Joyce/jim.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" width="92" height="124" alt="?" />\
-1941 -- James Joyce dies in Zrich, Switzerland, unhappy with the reception given his work.
-
-> All day I hear the noise of waters\
-> Making moan,
->
-> I hear an army charging upon the land, & the thunder of horses plunging, foam about their knees...
-
-
-
-> At a dinner party at Sylvia Beach's bookstore, Shakespeare & Co., Scott Fitzgerald eavesdropped on a conversation between Joyce & Thomas Mann. He heard them discussing not the state of modern literature but the progress of their aches & pains up & down their bodies.
->
-> <http://www.robotwisdom.com/jaj/>\
-> <http://members.ozemail.com.au/~caveman/Joyce/>\
-
-[]()\
-\
-1956 -- Italy: La polizia di stato interviene in una manifestazione di braccianti a Venosa (Potenza) : 1 morto e 14 feriti. L'Osservatore Romano, giornale del Vaticano, critica l'uso delle armi da parte della polizia per disperdere il corteo.\
-[\[Source: Crimini e Misfatti\]](http://recollectionbooks.com/bleed/sources.htm#Basta) []()\
-[]()\
-\
-1957 -- Hungary: Death penalty enacted for strikers as government calls for order & quiet. []()\
-[]()\
-\
-1964 -- US: A B-52 carrying two nuclear weapons crashes near Cumberland, Maryland. []()\
-[]()\
-\
-1967 -- The Dead, Junior Wells' Chicago Blues Band, & the Doors at the Fillmore Auditorium in Frisco. []()\
-[]()\
-\
-1968 -- Bill Masterson (Minnesota Northstars) checked into the boards & killed. []()\
-[]()\
-\
-1970 -- US: Three black prisoners killed by guard at Soledad Prison during melee. []()\
-[]()\
-\
-1971 -- Spain: Arrest of Pepe Beunza, first of many political conscientious objectors imprisoned. []()\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/sports/57.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="198" height="130" alt="Baseball dugout painting" />\
-1972 -- US: New York rules a woman may become a professional baseball umpire.\
-[]()\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/music/clapton.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="259" height="368" alt=" ? " />\
-1973 -- Eric Clapton has spent the last couple of years troubled by drug addiction. However, on this night he makes a triumphant comeback at London's Rainbow Theater, selling out two shows opening & closing with "Layla." 
-
-Afterward Clapton told a reporter, "I was very nervous, felt sick, the whole bit." Referring to the audience he responded, "They don't know how much it helped me."
-
-\
-[]()\
-[]()\
-\
-1976 -- In a BBC radio broadcast, John Wain comments: *"Poetry is to prose as dancing is to walking."*
-
-> "I just put my feet in the air & move them around."\
->  Fred Astaire
->
-> *"I don't know why everyone makes such a fuss about Fred Astaire's dancing. I did all the same steps, only backwards. & in heels!"*\
->  Ginger Rogers []()\
-
-\
-
-[]()\
-\
-<img src="http://www.enature.net/18_copy.jpg" data-border="0" data-hspace="10" data-vspace="10" data-="" width="255" height="350" alt=" ? " />\
-1979 -- The Y.M.C.A. files a lawsuit against the Village People over their song, "Y.M.C.A." The suit was later dropped. []()\
-
-[]()\
-\
-1985 -- 99-year-old Otto Bucher scores a hole-in-one at Spanish golf course. []()\
-[]()\
-\
-1988 -- Supreme Court rules (5-3) public school officials have broad powers to censor school newspapers, plays & other expressive activities []()\
-[]()\
-\
-<img src="http://www.lasecrets.com/MurderInc/jeffrey.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="150" height="328" alt=" ? " />\
-1992 -- US: Founding father of Cannibals Anonymous, serial killer Jeffrey Dahmer, enters a plea of guilty but insane in 15 of the 17 murders he confessed to committing.
-
-> Over a 13-year period beginning in 1982, Dahmer murdered at least 17 men & boys. Most victims were young, gay, African Americans, who he lured to his home. He drugged & strangled them, often mutilating, & occasionally cannibalizing their bodies.
->
-> Dahmer was beaten to death by fellow inmate Christopher Scarver while performing cleaning duty in a bathroom. Scarver, a convicted murderer, also fatally beat the third man on their work detail, inmate Jesse Anderson, who was doing life for brutally killing his wife. Scarver's motive in killing them was not entirely clear; however, in his trial he maintained that God told him to kill them both.
-
-[]()\
-\
-[]()\
-\
-1993 -- Japan: Vigil against arrival of ship bringing plutonium for nuclear reactor, Tokai. []()\
-[]()\
-\
-1993 -- US: Singer Bobby Brown is arrested in Augusta, Georgia, for simulating a sex act onstage. It's the second time that the Augusta police jerk him for the same offense. []()\
-[]()\
-\
-1995 -- Algeria: Eight opposition groups sign plan for ending civil war.
-
-[]()\
-[]()\
-\
-3000 --
-
-> > "People need a little loving &, God, sometimes it's sad all the shit they have to go through to find some."
-> >
-> >        Richard Brautigan
-> >
-> > []()\
-
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/misc/greatdep.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="left" data-="" width="350" height="225" alt="Photo ID shop Near Dept Labor" />\
-4000 --
-
-"Street corner next to Federal Building where U.S. Dept. of Labor handlesnaturalization of immigrants". 
-
-Zoom forward to 2003. The more things change...
-
-By an unknown photographer, New York City, New York, 1939
-
-> []()\
-> []()\
->
-> ------------------------------------------------------------------------
->
-> anti-CopyRite 2000-3000, more or less\
-> Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
-> or send questions, suggestions, additions, corrections to:\
-> [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
->
-> Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
->
-> The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
->
-> anarchist, labor, radical books
->
-> See also: Anarchist Encyclopedia\
-> http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
-> Stan Iverson Memorial Library\
-> http://recollectionbooks.com/siml/\
-> Anarchist Time Line / Chronology\
-> http://recollectionbooks.com/bleed/indexTimeline.htm

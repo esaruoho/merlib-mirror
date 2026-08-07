@@ -1,0 +1,61 @@
+---
+title: "The Fourth Manifesto of Virtuism by R.S. Pearson"
+source_domain: amasci.com
+source_path: ~telical/virtue4.html
+order: 8984
+reachable_from_entry: false
+images: 4
+internal_links: 2
+extracted: 2026-08-07T17:16:55Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Fourth Manifesto of Virtuism by R.S. Pearson
+
+*Source page: `~telical/virtue4.html`*
+
+The Fourth Manifesto of Virtuism by R.S. Pearson
+
+<a href="http://www.qksrv.net/click-1431511-10306848" target="_top" onmouseover="window.status=&#39;http://www.flowerrewards.com&#39;;return true;" onmouseout="window.status=&#39; &#39;;return true;"><img src="http://www.qksrv.net/image-1431511-10306848" data-border="0" width="468" height="60" alt="Earn valuable gift cards when you send flowers!" /></a>
+
+The Fourth Manifesto of Virtuism by R.S. Pearson (1986) (Edits and Additions 93-99)
+
+The power of being able to create on this higher level is a power which must be obtained. It is very costly. It is a vision that comes to us when we can see simultaneously both the beautiful and the meaningful. If we cannot see both the beautiful and the meaningful, then our style of living is not in keeping with the way it must be. We must be seers of the beauty of heavenly love, seeing all people as of the same family, and upholding in our writing that which keeps them together. We can make a difference.
+
+We can add more beauty to this world, and that beauty can send a light deep into the soul of humanity.
+
+An artist often will seek to suspend his ego over the majority of people, and to look "below" and make statements of the worth of the mindset of others. I found over the years that this attitude was a poor soil for true virtue to grow in, even if virt ue in some guise was a topic of concern to those artists. For those who understand the Emotive Virtuist aesthetic as it was originally tabulated this behavior is anti-aesthetic. It is ugly.
+
+The art for art's sake clique that I followed still had pretensions for being moral. In the morality and philosophical outlook of the artists of my generation I found nothing that could help me personally when things got rough in my life. My life became empty, and the fullness of life which is required to create work in the lines of the first Emotive Virtuist manifesto was missing. These artists and myself had no really power, in the Foucaultian sense of society something very important: we probably didnt have the power of wealth nor of this more supernal power of virtue.
+
+We could not help impoverished street people. We could not help the mentally ill. We could not feed the poor or give them clothes. All we could do was complain. These complaints were our art form. When we cared, all we could do was complain, criticize, and worse, judge the people who were actually doing anything about the problem, that being the maligned Christians, those who work in the soup kitchens and Salvation Army, who do works of charity by the power of their personal faith.
+
+The particulars of my faith are not that important to anyone but me so I will not list them here. Without my personal faith I became a poor artist and a worse person. Without my personal faith, I could not be a Emotive Virtuist. I found it was by the objectiveness of a Higher Power, the "Spirit" that such a doctrine can be followed.
+
+What is the primary blasphemy against life? It is this: that life has no connection with its source, that life is in no way connected with the force that designed it. That is the blasphemy that when committed tinges all of life and that corrupts it.
+
+There is a current small movement of new artists with faith who understand all the things an educated person of today understands but keeps things in check so that the meaningless does not overshadow the meaningful. If one must be a person of faith to prefer this Emotive Virtuist Manifesto over less holistic doctrines, that will be no problem. I ask the reader to consider what a new life with more faith in Spirit could mean to your art and your life.
+
+When I was younger, there were times I got ideas for works which involved a trespass of my ethical codes. Even though these works would be acceptable and even commercially viable, the creation of them would be an insult to myself. The towering figures of nihilistic or violent artists may seem to be the most important literary figures of the age, but often it isn't such figures that prove to have lasting value. It is figures like the Kierkegaards, Melvilles and Kafkas, figures now who are true towers who were nevertheless ignored in their lifetime. I foresee a time when this age will be dwarfed by an expanse of time, and the literary remnants of this time will have to be selected. Surely the ages in front of us will be ov erlooking this period, which even today as I write this seems like it may be passing, with as much curiosity as we now look on some Victorian authors.
+
+I see now strengths in writing to come upon the scene and dwarf the outrageousness of some of these more bleak and dehuamizing writers so that the innocent among us don't have to be exposed to their perversions. Who is to say what damage certain writing has done to the human spirit? How can anyone make references to pedophilia when it is known by its victims to have extremely devastating effects?
+
+What these artists, authors or movie producers do is somehow leave concerned souls bankrupt. They subtract any real benefit that we are capable of making. They cover up the real exploits of children. They never show how blessed we are in the We st compared to many other nations in the world. They make sex meaningless, prolonged monogamous relationships impossible, violence an acquired taste. True, one will come across the occasional fan of someone like W.S. Burroughs who is also involved in protest of war or animal rights but the people who are the most active in these areas probably would find Burroughs' works scandalous. I dont see why such writing as his is required reading by anyone.
+
+If something is going to pave a way out of the "meaningless society" which can do nothing to stop violence, homelessness, and suicides, it will have to be a cleared path to a personal faith. A personal faith has done this for milli ons of intelligent people throughout history. It is time not to give the old message that society is sick, that the "masses are merely an unthinking herd." We should instead give the message that artists need to seriously consider the type of medicine they are currently feeding society.
+
+It is the power of a personal faith that fuels a human being to feel these feelings enough to be able to discuss them with zeal. There are some artists who have a personal faith, but not as many since it has become trendy and fashionable to dis own it. But there are probably no foxhole artist atheists. When the going gets tough for anyone, they get to the point where divine help sought.
+
+I think of the life of Leonardo da Vinci, and see his personal philosophy as being probably the highest, since it produced such a high result. He was able to constantly invent. How much of his thinking was dominated by faith?
+
+------------------------------------------------------------------------
+
+[![](paralogobetter.jpg)](http://www.paramind.net)
+
+Brought to you by ParaMind Brainstorming Software.
+
+**Creative Virtue**
+
+[**`VIRTUISM PAGE CONTENTS`**](virtuism.html)
+
+<a href="http://www.qksrv.net/click-1431511-10274094?url=http%3A%2F%2Fwww.intervideo.com%2Fjsp%2FIntervideo.jsp%3Fv%3Dcj%26u%3Dhttp%3A%2F%2Fwww.intervideo.com%2Fjsp%2FProduct_Profile.jsp%253Fp%3DWinDVR" target="_top"><img src="http://www.intervideo.com/images/home/windvr_main.gif" data-border="0" alt="WinDVR" /></a> <img src="http://www.qksrv.net/image-1431511-10274094" data-border="0" width="1" height="1" />

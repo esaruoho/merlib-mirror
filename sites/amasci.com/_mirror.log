@@ -6030,3 +6030,33 @@ Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/amasci.com
 [2026-08-07 19:27:30] 
 === PHASE 3: Generating Index ===
 [2026-08-07 19:27:34] WordPress PDF extraction: found 199 PDF(s)
+[2026-08-07 19:50:03]   PDF OK: userguide.pdf
+[2026-08-07 19:59:35]   PDFs: 1 downloaded, 48 cached, 150 failed
+[2026-08-07 19:59:35]   Missing PDFs list: /Users/esaruoho/work/merlib-mirror/sites/amasci.com/_missing_pdfs.txt
+[2026-08-07 19:59:35] Generating index...
+[2026-08-07 19:59:35] Index: 46505 files
+[2026-08-07 19:59:35]   .md: 18704
+[2026-08-07 19:59:35]   .txt: 10124
+[2026-08-07 19:59:35]   .html: 7629
+[2026-08-07 19:59:35]   .jpg: 3664
+[2026-08-07 19:59:35]   .htm: 2674
+[2026-08-07 19:59:35]   .gif: 2591
+[2026-08-07 19:59:35]   .shtml: 164
+[2026-08-07 19:59:35]   .jpeg: 131
+[2026-08-07 19:59:35]   .pdf: 109
+[2026-08-07 19:59:35]   .zip: 70
+[2026-08-07 19:59:35]   .png: 56
+[2026-08-07 19:59:35]   .doc: 25
+[2026-08-07 19:59:35]   .save: 24
+[2026-08-07 19:59:35]   .exe: 24
+[2026-08-07 19:59:35]   .xml: 23
+[2026-08-07 19:59:35] 
+============================================================
+[2026-08-07 19:59:35] MIRROR COMPLETE
+[2026-08-07 19:59:35] Total URLs: 20440
+[2026-08-07 19:59:35] Downloaded: 18414
+[2026-08-07 19:59:35] Failed: 266
+[2026-08-07 19:59:35] Files: 46505
+[2026-08-07 19:59:35] ============================================================
+[2026-08-07 19:59:35] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/amasci.com

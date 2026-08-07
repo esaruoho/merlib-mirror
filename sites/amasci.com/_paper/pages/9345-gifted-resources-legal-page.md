@@ -1,0 +1,713 @@
+---
+title: "Gifted Resources Legal Page"
+source_domain: amasci.com
+source_path: ~user/zlegal.html
+order: 9345
+reachable_from_entry: false
+images: 7
+internal_links: 1
+extracted: 2026-08-07T17:17:23Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Gifted Resources Legal Page
+
+*Source page: `~user/zlegal.html`*
+
+# Gifted Resources Legal Info
+
+Special Education rules and requirements vary by country and state. Some information is available for those areas listed below. Individual communities may also have local rules.
+
+## Dr. Frances Karnes
+
+Dr. Frances Karnes is an expert on gifted legal and leadership issues. She is interested in any court cases regarding gifted children and their placement and is a resource for parent who want information in this area. The following are two books on the subject:
+
+Karnes, F. A., & Marquardt, R. G. (1991). \_Gifted children and the law: Mediation, due process and court cases.\_ Dayton, OH: Ohio Psychology Press.
+
+Karnes, F. A., & Marquardt, R. G. (1991). \_Gifted children and educational issues: Parents' stories of hope.\_ Dayton, OH: Ohio Psychology Press.
+
+Dr. Karnes is also organizing a network of state legal contacts across the US.
+
+         Dr. Frances A. Karnes, Director
+         Center for Gifted Studies
+         University of Southern Mississippi
+         PO Box 8207
+         Hattiesburg, MS 39406-8207
+         fax: 601-266-4978
+         phone: 601-266-5246 or 601-266-5236
+
+         or contact: Joan D. Lewis
+         email: jdlewis@whale.st.usm.edu
+
+Dr. Karnes is also a strong advocate for leadership training of youth and provides programs for students in grades 7 through 12: a week-long residential summer program in June, and a one-day leadership competition, usually held on a Saturday in March (rules and registration information are available in the fall). Participants come from all over the country for the former, and mostly from contiguous states for the latter. The Competitions provide a unique opportunity for youth to demonstrate leadership skills in a variety of areas, including speeches, essays, art, and plans for leadership. Information can be obtained from the Center for Gifted Studies address and phone. Two useful books on leadership in youth :
+
+Karnes, F. A., & Bean, S. M. (1993). \_ Girls and young women leading the way.\_ Minneapolis, MN: Free Spirit.
+
+Karnes, F. A., & Bean, S. M. (1995). \_Leadership for students: A practical guide.\_ Waco, TX: Prufrock Press.
+
+## USA Gifted Education Contact Addresses
+
+- **Alabama**\
+  Programs for the Gifted\
+  Alabama State Dept Education\
+  868 State Office Building\
+  Montgomery, AL 36130-3903\
+  Phone: 205-261-5099\
+  \
+  \
+  Linda Evans\
+  Educational Specialist\
+  Special Education Services\
+  33466 Gordon Persons Building\
+  50 North Ripley Street\
+  Montgomery, AL 36130-3901\
+  \
+  \
+
+- **Alaska**\
+  Office for Exceptional Services\
+  Alaska Dept Education\
+  PO Box F\
+  Juneau, AK 99811\
+  Phone: 907-465-2970\
+  \
+  \
+  Richard Smiley\
+  Program Manager\
+  Office of Special Services\
+  Suite 200\
+  801 West 10th Street\
+  Juneau, AK 99801-1894\
+  \
+  \
+
+- **Arizona**\
+  Gifted Programs\
+  Arizona Dept Education\
+  1535 West Jefferson\
+  Phoenix, AZ 85007\
+  Phone: 602-255-5031\
+  \
+  \
+
+- **Arkansas**\
+  Programs for Gifted/Talented\
+  Room 105C Education Building\
+  4 Capitol Mall\
+  Little Rock, AR 72201\
+  Phone: 501-371-5437\
+  \
+  \
+
+- **California**\
+  Gifted and Talented Education\
+  California Dept Education\
+  PO Box 944272\
+  Sacramento, CA 95814\
+  Phone: 916-323-4781\
+  \
+  \
+  Cathy Barkett\
+  Manager Gifted and Talented\
+  Suite 570\
+  560 J Street\
+  Sacramento, CA 95814\
+  \
+  \
+
+- **Colorado**\
+  Gifted and Talented Student Programs\
+  Colorado Dept Education\
+  201 E. Colfax\
+  Denver, CO 80204\
+  Phone: 303-866-6765\
+  \
+  \
+
+- **Connecticut**\
+  Gifted and Talented Programs\
+  Connecticut Dept Education\
+  165 Capitol Avenue\
+  Hartford, CT 06145\
+  Phone: 203-566-3695\
+  \
+  \
+  Alan White\
+  Consultant Gifted and Talented\
+  Connecticut Dept Education\
+  SCDE, 25 Industrial Park Road\
+  Middletown, CT 06457\
+  \
+  \
+  [The Connecticut state policy on homeschooling.](http://pages.prodigy.com/ct_homeschool/ctregs.html)\
+  \
+
+- **Delaware**\
+  Programs for Gifted and Talented\
+  PO Box 1402\
+  Dover, DE 19903\
+  Phone: 302-736-4667\
+  \
+  \
+
+- **District of Columbia**\
+  Gifted and Talented Education\
+  13th and Independence Ave SE\
+  Washington, DC 20003\
+  Phone: 202-724-3894\
+  \
+  \
+  Thirza G. Neal\
+  Director Gifted and Talented\
+  Nalle School Annex\
+  50th and C Street, SE\
+  Washington, DC 20019\
+  \
+  \
+
+- **Florida**\
+  Bureau of Education of Exceptional Children\
+  KnottBuilding\
+  Florida Dept Education\
+  Tallahassee, FL 32399\
+  Phone: 904-488-3103\
+  \
+  \
+  Mary F. Toll\
+  Gifted Program Specialist\
+  Bureau of Exceptional Children\
+  654 Education Centre\
+  Tallahassee, FL 32399-0400\
+  \
+  \
+  [Florida State University and Florida Dept Education joint project](http://sy2000.cet.fsu.edu:70/0/WWW/TREE/default.html) on Varying Exceptionalities in Florida's schools.\
+  \
+
+- **Georgia**\
+  Gifted Programs\
+  Georgia Dept Education\
+  Twin Towers East Suite 1970\
+  Atlanta, GA 30334\
+  Phone: 404-656-6317\
+  \
+  \
+
+- **Hawaii**\
+  Gifted and Talented Programs\
+  189 Lunalilo Homo Road\
+  Honolulu, HI 96425\
+  Phone: 808-395-9590\
+  \
+  \
+
+- **Idaho**\
+  Idaho Dept Education\
+  650 West State\
+  Boise, ID 83720\
+  Phone: 208-334-3940\
+  \
+  \
+
+- **Illinois**\
+  Educational Innovation N-242\
+  Illinois Dept Education\
+  100 North First Street\
+  Springfield, IL 62777\
+  Phone: 217-782-2826\
+  \
+  \
+  Susie Morrison\
+  Consultant\
+  Curriculum Improvement N-245\
+  100 North First Street\
+  Springfield, IL 62777\
+  \
+  \
+
+- **Indiana**\
+  Gifted and Talented Programs\
+  Indiana Dept Education\
+  299 State House\
+  Indianapolis, IN 46204\
+  Phone: 317-269-9663\
+  \
+  \
+
+- **Iowa**\
+  Gifted Education\
+  Iowa Dept Public Instruction\
+  Grimes State Office Building\
+  Des Moines, IA 50319-0146\
+  Phone: 515-281-3198\
+  \
+  \
+
+- **Kansas**\
+  Gifted Education\
+  sas Dept Education\
+  120 East 10th\
+  Topeka, KS 66612\
+  Phone: 913-296-3743\
+  \
+  \
+
+- **Kentucky**\
+  Gifted and Talented Programs\
+  Kentucky Dept Education\
+  1831 Capitol Plaza Tower\
+  Frankfort, KY 40601\
+  Phone: 502-564-2672\
+  \
+  \
+
+- **Louisiana**\
+  Gifted and Talented Programs\
+  Louisiana Dept Education\
+  PO Box 94604\
+  Baton Rouge, LA 70804-9064\
+  Phone: 504-342-3635\
+  \
+  \
+
+- **Maine**\
+  Gifted and Talented Programs\
+  Maine Dept Education\
+  State House Station \#23\
+  Augusta, ME 04333\
+  Phone: 207-289-5952\
+  \
+  \
+
+- **Maryland**\
+  Learning Improvement\
+  Maryland Dept Education\
+  200 West Baltimore St\
+  Baltimore, MD 21201\
+  Phone: 301-333-2357\
+  \
+  \
+  See also the [Maryland report on gifted education](http://www.jhu.edu/~gifted/pubres/toc.html) which is hosted on Johns Hopkins University's web.\
+  \
+
+- **Massachusetts**\
+  Office of Gifted and Talented Programs\
+  350 Main Street\
+  Malden, MA 02148-5023\
+  Phone: 617-388-3300\
+  [Massachusetts DOE also has a web site.](http://info.doe.mass.edu)\
+  \
+
+- **Michigan**\
+  Gifted and Talented Programs\
+  Michigan Dept Education\
+  PO Box 30008\
+  Lansing, MI 48909\
+  Phone: 517-373-3279\
+  \
+  [Michigan Dept of Education web pages](http://www.mde.state.mi.us/)\
+  [Michigan Dept of Education gopher](gopher://gopher.mde.state.mi.us/)\
+  \
+
+- **Minnesota**\
+  Gifted Education\
+  Minnesota Dept Education\
+  641 Capitol Square\
+  St. Paul, MN 55101\
+  Phone: 612-296-4072\
+  \
+  \
+  Beth Aune\
+  Gifted and Talented Programs\
+  680 Capitol Square Building\
+  550 Cedar Street\
+  St. Paul, MN 55101\
+  \
+  \
+
+- **Mississippi**\
+  Conrad Castle or Cathy Parker\
+  Gifted and Talented Programs\
+  Mississippi Dept Education\
+  PO Box 771, Suite 306\
+  Jackson, MS 39205-0771\
+  Fax: 601-359-3667 or 601-359-2326\
+  Phone: 601-359-3501\
+  \
+  \
+
+- **Missouri**\
+  Gifted Education\
+  Missouri Dept Education\
+  PO Box 480\
+  Jefferson City, MO 65102\
+  Phone: 314-751-2453\
+  \
+  \
+
+- **Montana**\
+  Gifted and Talented Programs\
+  Montana Dept Education\
+  Helena, MT 59620\
+  Phone: 406-444-4422\
+  \
+  \
+
+- **Nebraska**\
+  Gifted and Talented Programs\
+  Nebraska Dept Education\
+  PO Box 94987\
+  Lincoln, NE 68509\
+  Phone: 402-471-4337\
+  \
+  \
+
+- **Nevada**\
+  Gifted and Talented Programs\
+  Nevada Dept Education\
+  400 West King St\
+  Carson City, NV 89710\
+  Phone: 702-885-3140\
+  \
+  \
+
+- **New Hampshire**\
+  Gifted and Talented Programs\
+  New Hampshire Dept Education\
+  State Office Park South\
+  101 Pleasant St\
+  Concord, NH 03301\
+  Phone: 603-271-3452\
+  \
+  \
+
+- **New Jersey**\
+  Gifted and Talented Programs\
+  New Jersey Dept Education\
+  225 West State Street CN 500\
+  Trenton, NJ 08625-0500\
+  Phone: 609-633-7180\
+  \
+  \
+
+- **New Mexico**\
+  Gifted and Talented Programs\
+  New Mexico Dept Education\
+  Education Building\
+  Santa Fe, NM 87501-2786\
+  Phone: 505-827-6541\
+  \
+  \
+
+- **New York**\
+  Gifted and Talented Programs\
+  New York Dept Education\
+  Room 314-B EB\
+  Albany, NY 12234\
+  Phone: 518-474-5966\
+  \
+  \
+  David Irvine\
+  Coordinator Gifted Education\
+  New York Dept Education\
+  Room 212 EB\
+  Albany, NY 12234\
+  \
+  \
+
+- **North Carolina**\
+  Gifted and Talented Programs\
+  North Carolina Dept Education\
+  Raleigh, NC 27611\
+  Phone: 919-733-3004\
+  \
+  \
+  Sylvia Lewis\
+  Gifted Education Consultant\
+  116 West Edenton Street\
+  Raleigh, NC 27603-1712\
+  \
+  \
+
+- **North Dakota**\
+  Gifted and Talented Programs\
+  North Dakota Dept Education\
+  State Capitol\
+  Bismark, ND 58505\
+  Phone: 701-224-2277\
+  \
+  \
+  Ann Clapper\
+  Gifted and Talented Office\
+  600 East Boulevard Avenue, 10th Floor\
+  Bismark, ND 58505-0440\
+  \
+  \
+
+- **Ohio**\
+  Gifted Programs\
+  Division of Special Education\
+  933 High Street\
+  Worthington, OH 43085\
+  Phone: 614-466-2650\
+  \
+  \
+
+- **Oklahoma**\
+  Gifted and Talented Programs\
+  Oklahoma Dept Education\
+  2500 North Lincoln Blvd\
+  Oklahoma City, OK 73105\
+  Phone: 405-521-4287\
+  \
+  \
+
+- **Oregon**\
+  Gifted and Talented Programs\
+  Oregon Dept Education\
+  700 Pringle Parkway SE\
+  Salem, OR 97219\
+  Phone: 503-378-4765\
+  \
+  Oregon passed a TAG Mandate in 1987 requiring schools to identify and serve children with appropriate instruction for their assessed level of learning and rate of learning in the areas of academic and intellectual giftedness. The other areas of giftedness are optional. Approximately 8.6% of the population is identified as gifted in the state. In additon to basic school support of approximately \$4900, gifted students were estimated to cost approximately \$250 per year more than "regular" students. It was speculated that this was due to testing and recordkeeping requirements. Special education students were estimated to cost approximately 2 times that of "regular" students.
+
+  Thank you for this sharing of information about Oregon's TAG Mandate. I think that there is a great deal that I and others in the state have learned about this "great experiment". I'd love to be credited, so that perhaps others can find out the positive and negative lesson from our political actions.
+
+  Susann M. Kaltwasser\
+  TAG Parent Network\
+  rkaltwas@teleport.com\
+  \
+
+- **Pennsylvania**\
+  Gifted and Talented Programs\
+  Pennsylvania Dept Education\
+  333 Market Street\
+  Harrisburg, PA 17126-0333\
+  Phone: 717-783-6913\
+  Some Pennsylvania Dept of Education material is availble through the [Pennsylvania Association for Gifted Education (PAGE) web page.](http://www.eskimo.com/~user/penngift.html)\
+  \
+  \
+
+- **Rhode Island**\
+  Gifted and Talented Programs\
+  Rhode Island Dept Education\
+  22 Hayes Street\
+  Providence, RI 02908\
+  Phone: 401-227-6523\
+  \
+  \
+
+- **South Carolina**\
+  Gifted and Talented Programs\
+  South Carolina Dept Education\
+  Rutledge Building \#802\
+  1429 Senate Street\
+  Columbia, SC 29201\
+  Phone: 803-734-8385\
+  \
+  \
+
+- **South Dakota**\
+  Gifted and Talented Programs\
+  South Dakota Dept Education\
+  700 North Illinois Street\
+  Pierre, SD 57501\
+  Phone: 605-773-3678\
+  \
+  \
+  Shirlie Moysis\
+  Director Gifted and Talented Programs\
+  700 Governors Drive\
+  Pierre, SD 57501-2291\
+  \
+  \
+
+- **Tennessee**\
+  Gifted and Talented Programs\
+  Tennessee Dept Education\
+  132-A Cordell Hull Building\
+  Nashville, TN 37219\
+  Phone: 615-741-0662\
+  \
+  \
+
+- **Texas**\
+  Gifted and Talented Programs\
+  Texas Education Agency\
+  1701 Congress Ave\
+  Austin, TX 78701\
+  Phone: 512-463-9455\
+  \
+  \
+
+- **Utah**\
+  Gifted and Talented Programs\
+  Utah Dept Education\
+  250 E 5th\
+  Salt Lake City, UT 84111\
+  Phone: 801-533-5572\
+  \
+  \
+
+- **Vermont**\
+  Gifted and Arts Programs\
+  Vermont Dept Education\
+  Montpelier, VT 05602\
+  Phone: 802-828-3111\
+  \
+  \
+
+- **Virginia**\
+  Gifted and Talented Programs\
+  Virginia Dept Education\
+  PO Box 6Q\
+  Richmond, VA 23216-2060\
+  Phone: 804-255-2070\
+  \
+  \
+
+- **Washington**\
+  Gifted and Talented Programs\
+  Washington Dept Education\
+  Old Capitol Building FG-11\
+  Olympia, WA 98504\
+  Phone: 206-753-2858\
+  \
+  \
+  Gayle Pawley\
+  Supervisor of Gifted Education\
+  PO Box 47200\
+  Olympia, WA 98504-7200\
+  \
+  \
+  Also of note: [The Office of Superintendent of Public Instruction](http://www.ospi.wednet.edu) for the state of Washington has a web page.\
+  \
+
+- **West Virginia**\
+  Gifted and Talented Programs\
+  West Virginia Dept Education\
+  357 B Capitol Complex\
+  Charleston, WV 25305\
+  Phone: 304-348-2696\
+  \
+  \
+  Virginia Simmons\
+  Gifted Programs Coordinator\
+  WUDE-OSEPA\
+  Capitol Building 6, Room 304\
+  Charleston, WV 25305\
+  \
+  \
+
+- **Wisconsin**\
+  School Improvement Office\
+  PO Box 7841\
+  Madison, WI 53707\
+  Phone: 608-267-2063\
+  \
+  \
+
+- **Wyoming**\
+  Gifted and Talented Programs\
+  Wyoming Dept Education\
+  Hathaway Building\
+  Cheyenne, WY 82002\
+  Phone: 307-777-6226\
+  \
+  \
+
+- **Other**\
+  Lui Tuitele\
+  Gifted and Talented Education\
+  Pago Pago, AS 96799\
+  \
+  \
+  Harou Kuartei\
+  Federal Programs Coordinator\
+  Trust Territory Coordinator\
+  PO Box 1370 CK\
+  Saipan, CM 96950\
+  \
+  \
+  Cheri Stock, SPC\
+  GATE, Guam Dept of Education\
+  PO Box DE\
+  Agana, GU 96910\
+  \
+  \
+  Primitivo Medina Cross\
+  Consultant Gifted Education\
+  Puerto Rico Dept of Education\
+  Hato Rey, PR 99024\
+  \
+  \
+  Mary Harley\
+  Coordinator Gifted and Talented\
+  St. Thomas and St. John\
+  \#44-46 Kongens Grade\
+  St. Thomas, VI 00802\
+  \
+  \
+  \
+  \
+
+## [USA City Link](http://www.neosoft.com/citylink)
+
+USA City link contains refrences to state government home pages for most of the US. In some states, education information and legal background can be found through these services.
+
+## Australia Gifted Education Contact Addresses
+
+For general inquiries in Queensland:\
+QLD Dept of Education\
+30 Mary St\
+Brisbane, Australia 4000\
+Phone: (07) 2370111\
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+[![\[HOME\] ](home.gif)](kids.html) [Return to Gifted Resources Main Page](kids.html)
+
+------------------------------------------------------------------------
+
+If your browser supports mailto, you can click here to send me a comment. [Send mail to user@eskimo.com](mailto:user@eskimo.com)
+
+Otherwise, please send your comments by email to: *user@eskimo.com*
+
+------------------------------------------------------------------------
+
+This page updated by automatic build: 23-May-2000 (build 53) -- [Gifted Resources Home Page](http://www.eskimo.com/~user/kids.html)
+
+------------------------------------------------------------------------
+
+2000 Bruce User. All Rights Reserved. Information in this document is subject to change without notice.
+
+------------------------------------------------------------------------
+
+<a href="http://ad-adex7.flycast.com/server/click/ComprehensiveGiftedResourcesSite/runofsite/123456" target="_top"><img src="http://ad-adex7.flycast.com/server/img/ComprehensiveGiftedResourcesSite/runofsite/123456" data-border="0" width="468" height="60" /></a>
+
+------------------------------------------------------------------------
+
+Have you tried
+
+[Shopping](http://valet.flycast.com/valet/cpcinfo/ca0433/?123456)
+
+at Valet?
+
+<img src="shopping.gif" width="144" height="49" alt="shopping" />
+
+------------------------------------------------------------------------
+
+Or you can search the web: <img src="http://service.bfast.com/bfast/serve?bfmid=27253343&amp;siteid=27885524&amp;bfpage=horizontal" data-border="0" data-nosave="" width="1" height="1" />
+
+|  |
+|----|
+| <img src="http://www.google.com/images/cleardot.gif" data-border="0" height="1" alt="Google" /> |
+| <img src="http://www.google.com/affiliates/affiliate_logo.gif" data-border="0" data-align="center" alt="Google" /> |
+| <img src="http://www.google.com/images/cleardot.gif" data-border="0" height="1" alt="Google" /> |
+
+------------------------------------------------------------------------
+
+[![\[HOME\] ](home.gif)](kids.html) [Return to Gifted Resources Main Page](kids.html)
+
+------------------------------------------------------------------------

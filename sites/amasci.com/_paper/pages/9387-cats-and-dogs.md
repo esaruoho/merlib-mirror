@@ -1,0 +1,1857 @@
+---
+title: "Cats and Dogs"
+source_domain: amasci.com
+source_path: ~vecna/catsdogs.html
+order: 9387
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:17:27Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Cats and Dogs
+
+*Source page: `~vecna/catsdogs.html`*
+
+# Cats and Dogs
+
+## by Christine Morgan
+
+<vecna@eskimo.com>
+
+------------------------------------------------------------------------
+
+    Author's Note: the characters of Gargoyles are the property of Disney and are
+    used here without their creators' knowledge or consent. Special thanks to Dean
+    Koontz, whose "Twilight Eyes" and "The Funhouse" provided some inspiration
+    and research ; )
+
+    This story is for mature readers only due to sexual content, profanity, and violence.
+
+    (Cordelia St. John, voice over) Previously, on Gargoyles ...
+
+    From "Ice Queen" --
+            "Didn't you hear me? Big Country Midway Attractions is the fourth
+    largest carnival in America. I own three grab-joints, the equestrian show, and
+    two kiddie rides. I'm also Madame Cassandra. Card readings, palm readings,
+    fifteen bucks a pop for five minutes' work. Caleb is only twenty-three, and he
+    owns the Amazing Oddities exhibit free and clear. We don't need your money, or
+    his, or anybody's. Got it?"
+            "Fortune telling and a freak show," Cordelia sniffed. "I have to give you
+    credit, Cassandra; I would have thought you ran away to become a kootch
+    dancer."
+            Vivid red burst into Cassandra's sunken cheeks, but she managed to say,
+    with strange dignity, "I gave that up after Corrinne was born."
+
+            The woman in the long coat and hat drew plenty of looks as she walked
+    along the midway.
+            It was late summer in southwestern Illinois and the fairgrounds were hot
+    and dusty. The afternoon crowds were only a fraction of the numbers of fair-
+    goers that would swell the midway as the evening cool set in and the lights on
+    the rides and attractions set the night afire.
+            Most of those present, carny and mark alike, were dressed to beat the
+    heat in shorts, T-shirts, tank tops, sandals. Sunburned or farmer-tanned, freckled,
+    good wholesome Midwest stock, lots of sunbleached blond hair, lots of callused
+    hardworking hands.
+            And among them, this one woman in her long coat, the collar turned up
+    to nearly meet the brim of her hat.
+            The marks assumed she was one of the carnies on a late lunch break,
+    not wanting to be recognized. No free shows.
+            The carnies eyed her with speculation. Not one of them, no, not now.
+    Once, maybe. There was something about her that set her apart from the typical
+    mark.
+            She drew plenty of looks, yes, but not much more than that. It was a
+    carnival, after all. There was an abundance of things to look at, things to do.
+    There were rides to be ridden, exhibits to view, midway games to be suckered
+    into, junk food to be eaten, prizes to be won.
+            None of them had any idea there was a killer in their midst.
+            The woman smiled to herself, wondering what would happen if she
+    suddenly threw off her coat and went on a rampage. Slashing, cutting, leaving a
+    trail of bleeding bodies in her wake as she mowed her way through the throng.
+    The thought of the screams sent a pleasant tingle through her. It would be nearly
+    as good as a nice rough roll in the hay.
+            When you were horny and couldn't get laid, she mused, violence was a
+    good way to let off some steam.
+            She reminded herself that she wasn't here to get either laid or violent. At
+    least, not right away. First things first. She was on a scouting mission that could
+    turn into a rescue mission if what she'd heard was true. After that, well, anything
+    goes! Ya pays your money and ya takes your chances.
+            "Hey! You the tattooed lady under there?" a brat of a kid, maybe eleven
+    years old, yelled at her. He was a porky little sonofabitch, face smeared with
+    what looked like a combination of mustard, ice cream, and pink flecks of cotton
+    candy. He had a cheap stuffed animal in one hand, an inflatable baseball bat in
+    the other, and a pair of grinning doofuses (or was that doofi?) watching him.
+            She turned toward Porky.
+            Bravado puffed him up like a toad. "Maybe it's Alli-Gertie, the alligator
+    girl from the freak show!"
+            The woman moved closer. "Little boy, you just made a big mistake."
+            He opened his sloppy mouth to unleash another pre-teen witticism, then
+    the sunlight slanted beneath the brim of her hat and gleamed on planes of golden
+    metal that extended down her cheeks. He froze, gaping.
+            She withdrew a gloved hand from her pocket and pointed at him with
+    two fingers. Fast as a striking snake, two razor-sharp quills extended and
+    retracted.
+            "I hear your momma calling," Hyena sneered.
+            Porky slowly looked right and left. His inflatable baseball bat was
+    deflating like a giant drooping prick, and his stuffed animal had a gouged third
+    eye smack through its head.
+            The kid's buddies stared, not sure what they'd seen. But when Porky
+    squealed like a piggy and took to his heels, they were right behind him.
+            Laughing, Hyena continued on her way in higher spirits than before.
+    Every so often, she would see that baseball bat in her mind's eye and be
+    overcome with a fresh spurt of the snickers.
+            Big Country was one of the few remaining traveling carnivals that had a
+    by-God girlie show, but in an age of lap dances, the hula-hula kootchie-kootchie
+    girls were more a quaint amusement than anything else. They all looked so damn
+    wholesome, waggling their grass skirts and coconut bras on the stage in front of
+    the tent. Apparently, or so the sign and the barker boasted, there was much more
+    to be seen inside.
+            Hyena shook her head and continued on. The combination of the
+    ridiculous bobbing phallic baseball bat (going limp with a dismayed whistle) and
+    the idea of exotic dancers made her think of her brother.
+            The continued humiliation and defeat by the gargoyles, now allied with
+    their one-time leader Fox and her rich husband, had been much tougher on
+    Jackal than herself. Something had snapped. A short circuit in his cybernetics,
+    maybe. Who knew? But he'd gone and given up after his last stint in prison.
+    Declared his crimefighting days at an end.
+            "And just what do you think you're going to do?" Hyena had demanded
+    through the glass when he'd come to visit her after his release. "Most places
+    won't even hire someone with a nose ring, cyber-boy!"
+            "I'll think of something," he'd growled.
+            And lo and behold, he had. She had just about croaked when she read
+    his first letter detailing his new job at Club Victoria. My brother, the stripper.
+    Tacky. Just plain tacky.
+            She'd known about his "upgrade;" hell, she had some downstairs
+    modifications of her own. But the idea of him putting it on display, bumping and
+    grinding for the benefit of lonely women ... she'd laughed so hard she blew a fuse
+    and had to have the prison maintenance people call in a specialist from
+    Cyberbiotics before all of her functions would work again.
+            It hadn't lasted, of course. Poor Jackal! Gargoyles again. And Fox, too.
+    Pity he hadn't strangled the bitch when he had the chance. Left with a stub (well,
+    okay, it was a 12-incher of a stub, but compared to the segmented few yards he'd
+    had before ...). Cyberbiotics either couldn't or wouldn't tackle that project, and
+    Xanatos' people refused to have any further dealings with their one-time
+    masterpieces.
+            He'd lost it. Of that, she was sure. The sadistic spark that had been just
+    one more similarity between twins had gone out. It had started in Egypt, after he
+    briefly had the power of a god and then had it stolen from him. He'd gotten lazy
+    and self-indulgent after that, and their subsequent trouncings had only made him
+    worse.
+            It was sad, in a way. Except for prison time, they hadn't ever been apart
+    for long. But in another way, it had been kind of nice not having him around all
+    the time, making smartass remarks about any guy she happened to find
+    appealing. She still stung over how he'd zapped Coyote. Robot or not, she'd
+    really had a thing for the big gold war-machine. It was so hard to find guys who
+    shared her interests.
+            She passed another tent, this one deep purple sewn with swirls and
+    spirals of silvery thread. The flaps were open but cordoned off by a velvet rope.
+    Within, she could see rows of folding chairs facing a small stage with a single
+    chair upon it. The stage was backdropped by a canvas painted to look like a
+    magical castle floating against a starry sky.
+            The sign propped in front of the velvet rope read "La Petite Morgana --
+    Seer and Mystic. Witness her Clairvoyant Powers at Work! Unravel the Secrets
+    of the Ancients! Two shows nightly, 7:00 PM and 9:00 PM. Admission -- $4.00
+    adults, $2.50 children and seniors. Prepare to be Astonished!!!"
+            Hyena snorted scoffingly, knowing that the suckers would file in, pony
+    up the bucks, just to watch some bimbo in a slinky dress "guess" what objects
+    her assistant borrowed from members of the audience.
+            Up ahead, she caught a glimpse of her old pal Porky and his friends.
+    They were hanging back a ways from a very large structure. At first, she thought
+    it was the funhouse, but as she edged closer, she saw that it was the very place
+    she'd been seeking.
+            "Amazing Oddities," the banner declared.
+            The freak show.
+            She knew there weren't many true freak shows left these days. Most had
+    gone into static displays of jars containing malformed animal fetuses and the
+    occasional live barnyard blooper such as a six-legged sheep or a pig with a
+    forked snout. The days of the old-fashioned "ten-in-one" were passing. This one,
+    Amazing Oddities, was one of the largest remaining. And, as the sign proudly
+    proclaimed, "The Most Shocking, Appalling Exhibit in America!!!"
+            It seemed Porky and his pals were trying to work up the cojones to go
+    in. Boasting to each other about how scared they weren't, pretending that it was
+    insufficient funds making them pause to consider.
+            The barker noticed the trio of boys just as Hyena noticed the barker. A
+    low revving hum came from her internal servomotors. Ooh, baby! Here was her
+    kind of guy!
+            He was tall, not overly buff but well put-together. He was dressed like a
+    traditional carnival barker, which was something of a turn-off, but the snug black
+    pants did a good job of showing off his long legs and his tight, high butt. He had
+    dispensed with the top hat, at least, and his thick dark-blond hair was slicked
+    back into a widow's peak. His features were sharp but his mouth was full, that of
+    a born sensualist. Lips made to savor.
+            Those lips were what really caught Hyena's attention. Those lips, and
+    his eyes. Jade-green, and even from here, she could see that they glinted with a
+    cruelty to rival her own.
+            His sensuous mouth curled into a harsh sneer as he watched the boys
+    debating and daring each other. Was it just her, or did his teeth actually look
+    sharp, predatory? It was the first time in a long time that she'd seen a man who
+    wore such a palpable aura of danger.
+            Yum.
+            Just then, a fourth boy wandered past, alone. He was about Porky's age,
+    the sort of kid that would instantly be tagged as a "wuss" and possibly a
+    "queerboy" into the bargain by taunting peers. The sort of kid for whom recess
+    was a living hell. Teacher's pet in the classroom, everybody's punching bag in the
+    playyard.
+            It was to this boy that the barker directed his spiel. Hyena watched with
+    growing admiration as the barker tried to lure the kid in, holding him spellbound
+    even though the kid began to look sincerely unhappy. He didn't want to go, he
+    was afraid to go, and the barker began to whittle at him, chip at him, cut him to
+    pieces with his vicious tongue.
+            The kid didn't have enough money. The barker lowered the price.
+            The kid had to meet his mom. The barker insisted it would only take a
+    few minutes.
+            The kid began to tremble, to glance around for someone to bail him out,
+    but the only people around were Porky and company. Their response was to hoot
+    and jeer and call him a sissy, a chicken.
+            Tears welled up in the sissy's eyes. The barker whapped the side of his
+    podium with a riding crop (Ooh, baby, Hyena's mind whispered, I could show
+    you some games to play with that!) and the kid jumped and squeaked and
+    damn near wet his pants.
+            "I don't have all day, young man," the barker said. "Are you going to be
+    brave and see these grotesque mishaps of nature, or are you going to run crying
+    to your mommy?"
+            Now the kid's lip was quivering like crazy, and the tears overspilled. He
+    broke into loud, braying bawls and fled. Porky stuck out a foot and the kid
+    tripped, not quite losing his balance but knocking over a white plastic garbage
+    can beside a grab-joint specializing in corn dogs and curly fries. He skidded
+    through a greasy scattering of half-eaten food and discarded wrappers, bumped
+    into the corner of the grab-joint, and was gone.
+            Porky and his friends just about busted a gut. Funniest thing they'd ever
+    seen.
+            "I guess he was chicken after all," the barker said to them. "Not like
+    you."
+            Hyena's grin widened. She hadn't missed the hidden wink the little
+    blond kid had given to the barker, and knew a set-up when she saw one.
+            "Step right up and prove me right," the barker invited. As he gestured
+    extravagantly, she noticed a heavy gold ring on his left hand, and her expression
+    soured until she realized it was on the middle, not the third finger. "Only three
+    dollars apiece. And what do you get for those three dollars, my friends? You'll
+    see with your own eyes some of the most monstrous creatures ever to draw
+    breath, but that's only the beginning. You'll be able to leave here knowing that
+    you were brave enough to face nature at her worst, and live to tell the tale!"
+            No way were Porky and the others about to make themselves wusses
+    like the other kid. They shelled out their money and proceeded into the building.
+    Where, judging by the billowing canvas paintings along the front wall, they
+    would see a dozen shocking deformities. Including Alli-Gertie herself, the
+    alligator-girl to whom Porky had earlier referred. Along with such notables as
+    the World's Fattest Man, the Two-Headed Dwarf, the Tattooed Lady, Mr.
+    Starfish, the Bat out of Hell, and others.
+            But not the one Hyena was looking for. She scowled. If she'd come
+    all this way for nothing, she was going to be seriously pissed.
+            She knew she'd have to check out the interior, but decided to wait until
+    later when the crowds were thicker, the lighting was stranger, and the chances of
+    someone noticing that she didn't have all her original parts decreased.
+            The barker glanced her way, and as much as she would have liked to
+    meet that jade gaze with her own smoldering reply, she turned and made for the
+    grab-joint. So named, she recalled, because there weren't any seats provided, so
+    you grabbed your chow and ate it on the go.
+            Moments later, with a crisp, greasy corndog (and she successfully
+    resisted the urge to turn back to the barker and take a big old suggestive chomp
+    out of it), Hyena did her best to melt into the growing crowd.
+            Pitchmen called to passing marks, exhorting them to try their luck, test
+    their skill, win a prize for the lady, step right up, three darts for two dollars, ten
+    rings for a dollar, ring the bell and win. The good prizes prominently displayed
+    and the signs telling how many wins were actually needed written in small
+    letters; one win usually netted the mark something junky.
+            Nostalgia made Hyena smile. Or maybe it was the combination of thrills
+    and risk inherent in the carnival atmosphere. The marks poured in knowing they
+    were going to be suckered, knowing there was a chance that the Tilt-O-Whirl or
+    the Bungee Tower would be improperly maintained. The rodeo or the stock car
+    race might erupt into sudden terror and injury. That defiant risk-love ran as a
+    heady undercurrent beneath the jangling chaos of lights and noise.
+            It almost made her a kid again. Even at a young age, she'd thrived on
+    danger. Been addicted to it. Realized the power that came from the ability to
+    inflict fear and pain.
+            She lingered as the evening's long shadows trailed across the midway
+    and the lights outlining every ride blazed into brightness. A breeze sprang up and
+    whisked away the dust that had been hanging steady in the air. For one shared
+    moment, everyone in the fairgrounds seemed to pause and take a renewing
+    breath, and then the activity began at a more frenzied pace than before.
+            It was ten till seven when she passed the purple-and-silver tent again,
+    where a stream of marks were hurrying in to catch the first act of La Petite
+    Morgana. Thinking it would be a way to pass a little time before going back to
+    Amazing Oddities, Hyena peeled off a few bucks and went in.
+            She took a seat in the back row, and stretched out her legs. Built-in gold
+    icepick heels were what she'd always wanted, and while she could no longer
+    bitch about sore feet, they did leave her with aching ankles and calves after a
+    long day of walking.
+            Some jerk in a tuxedo got up in front of the crowd, prattled on for a
+    while about the Mysteries of the Orient, did a few card tricks and produced a few
+    doves. Warm-up act. He lured a giggling redhead onto the stage and pulled a
+    knotted string of scarves from her blouse, with a lacy bra at the end, surprise,
+    surprise. All part of the show.
+            Hyena grumbled and pulled her hat low. If the rest of the act was this
+    bad, she might as well catch a nap, recharge a little, and wave farewell to four
+    wasted bucks.
+            She almost was dozing when the main attraction was announced.
+            "Fifteen hundred years ago," the jerk in the tuxedo said, "in the time of
+    King Arthur, there was one name that struck awe and fear into the hearts of all.
+    That name was Morgan Le Fay, Morgan of the Fairies, the greatest sorceress the
+    world has ever known. Her fate remains a mystery, but this one thing I can tell
+    you -- wherever she went, she left behind her magical legacy! Mother to
+    daughter, this bloodline has stretched uninterrupted down through the centuries.
+    Some say that the soul of Morgan is reborn every few generations into the body
+    of one of her descendants. And so, my friends, I give you ... La Petite Morgana!"
+            Oh, Christ, it's just a kid, Hyena thought sourly. Reincarnation and
+    fairies, my butt.
+            La Petite Morgana couldn't have been more than seven years old. Soft
+    brown hair hung to her waist, her face was cherubic and serene, and her eyes
+    were wide and milky-green. Sightless eyes, an alert posture that spoke of keen
+    hearing.
+            Blind or not, they still covered her eyes when she got to the part of her
+    act where she would supposedly use her clairvoyant powers to divine objects
+    possessed by members of the audience. But rather than have her assistant go
+    through the crowd, coaching with his words just what it was he was holding, La
+    Petite Morgana in her soft yet carrying voice started describing individuals.
+            "There is a man in a blue shirt," she said. "A blue shirt and a belt with a
+    racecar on the buckle. In his wallet, behind a picture of his mother, is a piece of
+    paper with a phone number on it ..."
+            And so on. By the reactions of the audience, she was eerily accurate.
+    And there were too many "volunteers" for them all to be shills.
+            "There is a woman in a long coat," La Petite Morgana began, and
+    frowned. "She ... she ... is like a robot --"
+            Those words gave Hyena a nasty little start, and she realized she better
+    make herself scarce. Quick. But she couldn't just get up and walk out, not
+    without getting the attention of every loser in the audience. They were already
+    looking around for this "robot-woman."
+            The guy next to her, luckily, was a big halfwit farmboy who didn't seem
+    to know what was going on. She sidled sideways, worked her legs past him (at
+    this, he gave her a goofy grin like he thought she was coming on to him, but the
+    last thing on her mind was getting into his overalls), and eased behind her chair.
+            Maestro Mysterioso was heading for the back of the room, squinting
+    into the dimness. Hyena moved fast, slipping under the wall of the tent and
+    letting it fall back into place behind her.
+            "Shit," she muttered, hurrying down the alley between tents. "That was
+    weird."
+            Unnerved, she decided the best thing to do would be forget about it and
+    come back later tonight. She was too jittery now to stage any sort of break-out
+    from a freak show, thanks to that spooky-ass little girl.
+
+                    *               *
+
+            The twin peridot gemstones winked mellow green fire from the eyes of
+    the leopard-head ring on his left hand as Caleb St. John handed the cash box
+    over to Elliot Graves, the bookkeeper/lawyer he and his mother shared.
+            "Not bad for a Thursday," he said.
+            "The weekend will be a good 'un," Elliot replied, patting the cash box
+    affectionately. "They're forecasting sunny, but not too hot."
+            Elliot was loyal, honest (at least to other carnies), and was hopelessly in
+    love with Cassandra St. John. He even believed that he was Morgana's father, a
+    belief that none of the St. Johns had either encouraged or shot down. Let him
+    think what he would.
+            The same went for Devon Chase, otherwise known as Maestro
+    Mysterioso. Cassandra had been involved with them both at about the same time,
+    and less than a year later, Morgana had been born. Devon was particularly
+    fervent about his role in Morgana's parentage. She had, he swore, inherited not
+    only her mother's incredible psychic gifts but his own incomparable magic
+    powers.
+            Caleb always had to struggle not to laugh when Devon went off on one
+    of those rolls. His mother, he knew, had all the psychic gifts of a schoolmarm.
+    Her expertise came solely from years of experience in conning and manipulating
+    the marks. Her kids were the gifted ones, each of them in their own strange ways,
+    but Cassandra herself wasn't.
+            At least, that was what he'd thought before Cassandra got her crystal
+    ball. All of a sudden, she'd gone mystical on him, claiming the ball that she'd
+    gotten only as a prop to lend her act some verisimilitude, really was enchanted.
+    Gave her visions.
+            His personal response to that was the same one he had for Elliot and
+    Devon. Let her think what she would. It had added a spark to her act, that much
+    was true. Madame Cassandra had never been hotter as a psychic advisor.
+            Mother dear was currently off in New York, mending fences or burning
+    bridges with her estranged rich-snob relatives. Caleb himself didn't give a damn
+    one way or the other. His real family was here, the people he'd grown up with,
+    the mentors who had taught him and raised him in the carny life. Not that they
+    meant a whole lot to him either, but he felt more comfortable around them than
+    he would in the white-bread world of so-called society. Only here, only among
+    carnies, would the ... peculiarities ... of himself and his siblings be overlooked or
+    accepted.
+            Elliot was right. Tomorrow would be even better. Payday, the weekend,
+    hoards of marks willing and eager to be parted from their hard-earned cash. And
+    the dirty truth was, although they might go on about how horrible and demeaning
+    and disgusting it was to have a freak show in this day and age, they would be
+    burning hot to gawk at his employees.
+            The marks had gone home, jostling their cars in line to get out of the
+    wide field put into use as a parking lot. The carnies were tidying up, getting
+    ready for the next day. All Caleb had left to do was make sure everyone was
+    settled for the night, and check in on his newest acquisition. See if he was
+    adapting yet, ready to talk reason.
+            As he approached the row of trailers, he mentally ticked through his
+    roster.
+            Gordan Applebee would be home, maneuvering his massive bulk
+    around his specially-built, reinforced trailer with extreme care. He'd taken a bad
+    fall three years ago, just before Caleb bought the show, and it had taken six
+    roustabouts to get him on his feet again.
+            Targo would be home too, of course. Dwarves were common enough
+    that they didn't make for much of a draw in a freak show, but Targo was blessed
+    or cursed with an additional twist -- God had meant for him to have a twin, but
+    they'd never separated properly. A bulbous eyeless knob of a second head
+    protruded from high on Targo's chest and a three-fingered extra arm grew from
+    his ribcage. Targo's wife Leila was a perfectly-proportioned midget, and of their
+    three sons, the two oldest were of normal stature and the youngest had taken
+    after his mother.
+            Rainbow's trailer was dark. Unsurprising. She had been going with the
+    carnival boss' right-hand-man lately, who evidently enjoyed tracing her tattoos.
+    A man could lose himself for hours following the gaily colored ribbons of ink
+    that wound around firm flesh like a close cocoon.
+            As he approached the next trailer, he saw a tall, spindly form appear out
+    of the shadows. Elasto started, then nodded at Caleb with pathetic eager greeting.
+            "Good night, Mr. St. John," the old man fawned. He had a grocery bag
+    in one hand and a milkshake in the other.
+            "Good night, Elasto," Caleb said indifferently.
+            He turned away, not missing the despairing look that came over the old
+    man's face. Elasto knew his stint on the road was nearly over. It was well past
+    retirement time for the Rubber Man. He could barely manage his contortions
+    anymore. Maybe not this summer, but soon. Next year, perhaps. The carnival
+    would move on and Elasto would remain in Gibtown, an active performer no
+    longer.
+            Caleb knew it too, but no sympathy warmed his heart. Carnies looked
+    after their own, but when someone got too old to keep drawing the marks, they
+    had to step aside and let the young take over. That was the lesson Balthazar had
+    ingrained in him from an early age.
+            Balthazar, one-time owner of Amazing Oddities as well as star of the
+    show, was himself retired now. Caleb missed his dry cynical wit, missed his
+    guidance. Balthazar had been the closest he'd ever known to a father. Stepfather,
+    according to carny tradition. He and Cassandra had married by riding the
+    carousel together, about six months before Corrinne was born.
+            From the time Caleb was four, he'd been fascinated by the misshapen
+    souls who worked for the ten-in-one. His mother, who had been struggling to get
+    by as a dancer at the time, hadn't minded that her young son spent all his spare
+    time hanging out at the freak show. Odd jobs when he got a little older,
+    eventually as an apprentice, then partner, then successor. They had retained their
+    close relationship even after Balthazar and Cassandra's divorce.
+            He passed the trailer where Li and Tao were arguing with each other.
+    Their real names weren't Li and Tao, of course, but somehow nobody was going
+    to want to pay good money to see so-called "Siamese" twins named Herman and
+    Wilbur Potter. The topic of their argument was, as usual, women. Li fancied
+    himself a ladies' man; Tao preferred working on his model railroad. The railroad
+    took up most of another trailer and was damn near a wonder of the modern
+    world; Caleb sometimes thought they could bring in an extra few grand a night
+    charging admission to that miniature countryscape.
+            The next trailer belonged to a demure young woman with the evocative
+    name of Katerina Wyrmischlass, better known as Drei Augen for the third eye
+    that peered just slightly off-center from her forehead. It was as blue and guileless
+    as its lower siblings, mostly concealed by Katerina's ink-black bangs until she
+    parted that glossy curtain of hair to give the marks what they paid for. Parted
+    them with her feet, for in addition to her ocular irregularity, Katerina had been
+    born without arms. She was more adept with her toes than many people were
+    with a full complement of hands and fingers.
+            Mrs. Dandridge was still up, taking in the wash. She regarded Caleb
+    with a wary, weary expression that told him he was still, in her opinion, not
+    filling Balthazar's shoes. Mrs. D. was quite possibly the hardest-working carny
+    with Big Country, though she ran no concessions and starred in no shows. She
+    had her hands more than full looking after her middle-aged daughter Mary Ellen,
+    who, as Giganta the Giant Woman, was one of Caleb's star attractions.
+            Giganta was nine feet tall, gormy and gawky as a giraffe. Thin as she
+    was, her long legs still could not support the weight of her body for more than a
+    few steps at a time. She got to and fro in a custom-built motorized wheelchair.
+    Her mother took care of her, serving as a combination housekeeper, cook, nurse,
+    and all-around attendant.
+            Caleb nodded at Mrs. D. and continued on. There was only one trailer
+    left to check, the trailer with fake windows over reinforced steel, with thick and
+    soundproofed walls, with more locks and bars on the door than a paranoid's
+    apartment.
+            This was where he kept the ones he thought of uncharitably as "the real
+    freaks," defined as the ones who didn't or weren't able to cooperate. Who didn't
+    appreciate the good money and fortune that could be theirs. Who would escape,
+    if they were able or allowed.
+            "Hey! Big brother!"
+            He paused at the bottom of the fold-down steps, his keys in hand.
+    "There you are, Chris. Good job tonight!"
+            His brother came up, the grin he wore now completely different from
+    the terrified/tearful expression he used when shaming bigger kids into braving
+    Amazing Oddities. Chris was twelve but could have (and had on occasion)
+    passed for as young as eight.
+            "Mr. Zwick says the inspectors are coming by tomorrow morning,"
+    Chris said. "Around seven."
+            Caleb groaned and looked at his watch, which read 2:13. "Seven?
+    Bastards."
+            "One of them's a social worker or something," Chris went on, his voice
+    hard-edged and disdainful. "Wants to make sure the 'differently abled' are being
+    treated with the dignity and compassion they deserve."
+            "Ah, for the good old days when we could call a freak a freak," Caleb
+    sighed. "It's the politically-correct Pollyannas like that who make me ill, little
+    brother. They'd rather see people like my staff rotting away in a care home
+    someplace, getting forty bucks a month spending green and not bothering
+    anybody. Being 'taken care of' and safely out of sight. God forbid they should be
+    proud of their freakhood, making more money a year than the average mark will
+    see in ten."
+            "Singing to the choir, big brother." Chris balled up a fist and thumped
+    on the trailer door. From within, a muffled and barely-audible enraged voice
+    answered him. "I'll be here at six-thirty, okay?"
+            Caleb looked at his watch again. "Four hours of sleep. Joy. Well, I
+    guess my charges can wait that long. I'll check them in the morning."
+            "Hey," Chris said, turning around. "Did you hear something?"
+            "No."
+            "Weird. Sounded like ... like a windup toy."
+            Caleb pointed to a discarded pinwheel, cheap painted foil on a plastic
+    stick. It was stuck in the diamond-shapes of the chain link fence that separated
+    the trailer lot from a wild, brambly field. "There's your windup toy, little brother.
+    Some mark's kid is out two bucks."
+            Chris went over and pulled the pinwheel out of the fence, giving it an
+    experimental spin. "No ... it wasn't this ... it was more like a vacuum cord being
+    retracted."
+            "Since when do you know about vacuums?" Caleb chuckled.
+            "Somebody's got to keep our place clean while Mom's away," Chris
+    protested defensively. "It's not like Morgana can do it."
+            "It's not like Mom does it either. I thought Sonia was taking care of
+    that."
+            "Sonia doesn't like us," Chris said sullenly. "Without Mom here, she
+    hasn't done shit."
+            "Language, little brother."
+            "Shit-shit-shit," Chris chanted viciously. "She hates Mom. How come
+    Mom doesn't see it? Morgana knows, and I do too."
+            "Maybe Mom just doesn't care. What's Sonia going to do? So what if
+    Mom took over the fortune-telling gig from Sonia's aunt? It's not like _she_
+    could do it. She couldn't make a mark believe the sun was going to rise in the
+    east."
+            Caleb knew there was more to the story, much more, but kept silent
+    about it. No need for Chris to know that there had been a time when Sonia and
+    Cassandra had been hot for Balthazar, back when they'd both been dancing in the
+    hootchie-kootchie show.
+            That rivalry (which Cassandra had won) combined with Sonia's fury
+    that her aunt, crazy old Madame Zena, had snubbed her niece in favor of an
+    apprentice who hadn't even been a carny until she was almost sixteen, had ended
+    any and all chance at friendship between the two.
+            Now untalented Sonia, too old and dowdy to dance, too peevish and
+    sour to marry, had to make her living as Big Country's all-purpose domestic.
+    Worst of all, she'd ended up working for the woman she'd always been in
+    competition with.
+            "I'll talk to her," he promised Chris now. "Just because Mom's away
+    doesn't mean she can shirk her duties."
+            "I'm old enough to take care of myself," Chris said.
+            Caleb clapped a hand on his shoulder. "I know. But you shouldn't have
+    to be cleaning up if someone else is being paid to do it. That's all Sonia's good
+    for anyway. Now scoot, and get some sleep. Six-thirty's going to come awful
+    quick."
+
+                    *               *
+
+            Crouched in the bramble-bushes, ignoring the thorns, Hyena tucked her
+    extendable ear-cup back into the socket. She winced at the loud, grating click it
+    always made when it was firmly set in place, a click that seemed to reverberate
+    through her skull and down her spine.
+            So, inspectors were coming tomorrow morning, hmm? And there was
+    something the stud with the cruel jade-green eyes didn't want them to see in that
+    big ugly trailer.
+            Hyena was no fool. She could tell just by a quick scan that the trailer
+    was a facade, made to look normal but really a tank on wheels. Probably strong
+    enough to hold a whole clan of gargoyles. If he couldn't break out, she might not
+    be able to break in.
+            She might be able to cut her way in, or sear through the door with a
+    laser, but that sort of noisy lightshow would attract every carny in the lot.
+            He had to be there. It was the only likely place.
+            She'd followed Green Eyes on his rambling tour, getting a free peek at
+    some of his employees through the windows of their trailers. Poor saps.
+            "Dingo should see this," she'd murmured at one point. He got all over
+    their asses about how she, Jackal, and Wolf had gotten themselves remade. At
+    least they had been able to choose and dictate exactly what they'd wanted.
+    Self-made freaks, rather than being at the whim of that all-time champeen bitch,
+    Mother Nature.
+            Still, that didn't give Green Eyes the right to buy and sell them like
+    property. Giving up one's essential humanity didn't mean giving up one's human
+    rights.
+            She nearly laughed out loud. What the hell kind of a thought was
+    that, coming out of her head? She could just see herself and her Pack-mates
+    marching, picketing, demonstrating. Cyborgs Are People Too. Mutates Against
+    Discrimination.
+            Never mind.
+            How was she going to get into the damn trailer?
+            Disguise herself as an inspector? Never work.
+            Apply for a job? Yeah, right.
+            Steal a truck, hook the whole thing up, and tow it away? That had
+    possibilities ...
+            But first, before she started making any plans, she knew she better pay
+    her admission, check out the freaks, and make sure the one she was looking for
+    actually was here.
+
+                    *               *
+
+            She was making the noise again.
+            A low, mournful, glottal cry.
+            Fang crouched at the back of his cage, clenching his fists, telling
+    himself that he wasn't going to yell at her this time. It didn't do any good anyway.
+    She would just keep on, only louder and sadder.
+            From the cage on his left, a low voice snarled. "What the fuck is
+    wrong with her?" That voice was nearly unintelligible, filtered as it was
+    through a mouth no longer approximating human shape, filled with overlarge
+    teeth that made speaking chancy at best.
+            "She's miserable, okay, what's it to you?" Fang shot back, all the more
+    pissed because now he was suddenly in the position of defending her instead of
+    telling her to shut up, which he dearly wanted to do.
+            On the other side of the trailer, in the opposite row of cages, the scaled
+    woman rustled in the straw and kept on with her terrible moaning wail. They
+    called her Alli-Gertie, Fang knew. A silly, cheery, almost chirpy name for one
+    pathetic wretch of a woman.
+            He could see her just fine in the dimness. His pupils were fully dilated,
+    taking in every bit of light from the single bulb at the far end, next to the
+    partition leading to the storage area. She was sprawled on her belly, arms and
+    legs moving sluggishly as if she imagined herself creeping through the bayou.
+            "What's it to me?" his neighbor growled. "She's keeping me awake,
+    that's what."
+            "You got an appointment with your stockbroker in the morning or
+    something?" Fang sneered.
+            "I'll give you an appointment with the undertaker, asswipe!"
+            A rank, furry body slammed against the bars, but these cages were
+    designed so the unlucky inhabitants couldn't get at each other. There was
+    sufficient space between them to prevent even unnaturally long arms from
+    making contact. Still, the smell enough was almost enough to knock Fang
+    unconscious.
+            "You and what army, dickhead?"
+            He almost regretted his bravado as his neighbor raised his shaggy head,
+    eyes gleaming yellow-green in the gloom, fangs shining with frothy saliva.
+            "Me and this army." He thrust a vaguely humanoid hand through the
+    bars and flashed his claws. They weren't hideously long, but they looked like
+    they could get the job done. He ended the gesture by saluting Fang with the
+    middle one.
+            "Screw you, Wolfman," Fang said, tempted to zap the s.o.b. hard
+    enough to leave him looking like a cartoon character who just French-kissed an
+    electrical outlet. But he knew from painful experience that his cage was
+    constructed to shunt the energy back at him.
+            "It's Wolf!" he insisted, spit flying from his jaws.
+            A standard witticism from Fang's high-school days popped out. "Say it,
+    don't spray it; we want the news, not the weather."
+            To this, Wolf only replied with an inarticulate bellow of rage, throwing
+    himself against the bars until he finally slumped, battered and exhausted. The
+    only effect it had was to make Alli-Gertie fall silent in frightened shock, and to
+    wake Mr. Starfish, who could normally sleep through anything.
+            "Yeah, yeah, yeah," Fang said, unimpressed. "Another badass makes
+    the scene."
+            Wolf only glared, his head hanging low between his hunched shoulders.
+    Fang wondered what the hell St. John had been thinking. Wolf belonged in a
+    zoo, not a freakshow. Or, better yet, Wolf belonged in a shallow grave after a
+    midnight execution.
+            The marks were going to get the holy piss scared out of them if St. John
+    ever put his "Wolf Man of Madagascar" on display. That, combined with Wolf's
+    utter refusal to cooperate, had delayed his debut week after week. Now Fang was
+    beginning to think they never would add him to the roster.
+            "Fifty thousand smackers down the tube," Fang murmured to himself,
+    having overheard the final price when Caleb was gloating to his sister.
+            He said it not without some bitterness, aware that he himself had been
+    purchased for less than half that amount. It was a stupid thing to be insulted over,
+    but then outlaws used to get tweaked when the price on their heads was less than
+    they felt it oughtta be.
+            It had been a long, strange road from his cell in the Labyrinth below
+    Manhattan to his mobile cell in the carnival. Imprisoned by damn-him-to-eternity
+    Talon, freed by a pair of gargoyles, given a brief taste of revenge, and then swept
+    away on a tidal flood of water, sewage, and the wretched refuse population of the
+    Labyrinth. He'd washed up on one of those lovely New York beaches that was
+    always picked when the news crews wanted to show medical wastes littering the
+    sand.
+            From there, he'd made his wounded, half-drowned and miserable way to
+    the trainyards, seeking shelter. He'd found it with a bunch of stewbums so
+    plastered they would have offered the Devil a place at their trashcan fire and a
+    swig from a brown paper bag without twitching an eyelid.
+            He'd hung out with them for a few weeks, entertaining thoughts of
+    becoming their leader and making a proper gang out of them. But then his luck
+    had taken another spectacular turn for the worse. Raiding a boxcar for food,
+    they'd been interrupted by a bunch of stick-wielding thugs. Fang's "gang" had
+    scattered in a display of self-serving cowardice, leaving him to face the music.
+            Despite zapping half of them and pounding the others good, someone
+    got in a lucky crack with a stick and put him down for the count. When he'd
+    revived, he'd been wrapped in chains up to his neck, in a rattling swaying old
+    train car.
+            Turns out that the bastard who'd conked him knew someone who knew
+    someone who knew this freak show operator who paid good hard cash for
+    "oddities."
+            He'd tried to reason with them, bargain with them, but he'd never been
+    known for his people skills. Plus, the fact that he'd first tried to break out and
+    beat the crap out of them might have put a negative spin on his subsequent
+    negotiations.
+            So, here he was. Months later and lots richer, because it turned out that
+    St. John believed in giving all his freaks a share of their earnings. Once he'd
+    begun putting Fang in the show, billing him as the "Bat out of Hell, yes, ladies
+    and gentlemen, a Genuine Demon conjured from the Fiery Pit," he'd been
+    bringing in the bucks.
+            There was a catch, of course. In order to get the cash, he had to come
+    around. Had to sign on, join the team. He'd get a snazzy trailer like the others,
+    could hire somebody to shop for him and bring him the things he wanted.
+            But it had to be sincere. Once he'd heard the deal, he'd instantly
+    pretended to go along with it, privately thinking that he would snap St. John's
+    slavetrading neck the minute he was out and be over the hills and far away.
+            Why shouldn't they have believed him? He'd always been a convincing
+    liar. But all it took was that creepy little girl called Morgana turning her big
+    blind eyes toward him. Damn, had that given him a chill! Like she'd been
+    running her fingers over the surface of his brain, reading it with Braille telepathy.
+            She'd known. Known as plainly as if he'd said it out loud. So she'd
+    turned to her brother and told him in that soft yet carrying voice that he was
+    lying, and Fang, so shaken by the naked and exposed feeling, hadn't even been
+    able to muster a token indignant objection.
+            Months later, he was coming to realize that maybe they had the right
+    idea after all. He was making more, for doing less, than he'd ever done in his life.
+    He was in a place where he didn't have to hide in the sewers and put up with
+    Talon's self-righteous attitudes. In the Labyrinth, he'd been a nobody, a jailbird,
+    an outcast. Here, he could be a star.
+            He wasn't like Alli-Gertie and Mr. Starfish. He could take care of
+    himself. Didn't need to be fed, bathed, cleaned up after. Wasn't about to take a
+    high dive if left to his own devices.
+            Yeah, maybe it wouldn't be so bad. His anger had gotten him nowhere.
+    So he was in a cell. Big-goddam-whoopee. He'd been in a cell before Sevarius
+    came along with his offer -- early release if you'll consent to this experimental
+    treatment, just sign here -- and he'd been in a cell after, imprisoned and set apart
+    by his new mutate body even before getting locked up by King Talon. By now he
+    should be used to it.
+            He roused himself from his musings to notice that Alli-Gertie had
+    finally fallen asleep. Which meant her hideous moaning was replaced by her
+    thick chuckly snore, almost as bad. Mr. Starfish rustled in his crib, turning his
+    head to peer up at the pictures tacked to his wall. Pictures gleaned from National
+    Geographic or something, vistas of exotic beaches and mountains, places he'd
+    never visit.
+            Depressing. De-friggin-pressing.
+            In the next cage over, Wolf sat slouched against the back wall. Just
+    looking at him was enough to give Fang a case of the jim-jams. He was no expert
+    on genetics, despite trying to read up on the subject back when he'd first agreed
+    to this happy lifestyle change (and most of what he'd tried to read was written by
+    Sevarius himself, his style so florid and self-congratulatory that Fang would have
+    just about liked to puke), but even he could tell that there was some weird stuff
+    going on with Wolf.
+            Fang knew about unstable mutation. He'd experienced it himself along
+    with the rest of his so-called "clan" when their tails gradually receded or their
+    ears and facial features changed. But that had ended years ago, stabilized. Wolf
+    looked like a bad experiment run amok.
+            His face had pushed out into a muzzle so crowded with curving teeth
+    that he couldn't close his mouth all the way. His eyes were sunken, cunning
+    sparks of yellow beneath a heavy brow. And his bod ... to Fang he looked like a
+    kids' drawing of the monster in the closet. Yet for all his misshapenness, he
+    looked damned fast. Strong, too.
+            Fast and strong, whoopee-dink, didn't matter when the expensive Wolf
+    Man of Madagascar was locked up tighter than a virgin's box.
+            Fang yawned and went to his cot, which was on the far side of his cage
+    from Wolf. Just how he liked it. He stretched out, wrapped his wings around
+    himself, and went to sleep.
+
+                    *               *
+
+            Hyena waited patiently as the sun rose. Dawn of a midwest day. How
+    poetic.
+            The fairgrounds looked magical and strange as the light grew and a
+    hanging mist that wasn't quite fog softened the angular spokes of the Ferris
+    Wheel. All was silent except for the twittering of birds. Somewhere, faint and
+    distant, a rooster crowed.
+            As if that was some cue, a ripple of stirring life went through the
+    sleeping lot. Here a door opened and closed, there a child cried. Someone's clock
+    radio buzzed its alarm. A tall, husky man emerged from the roustabouts' tent,
+    shirtless, and Hyena watched appreciatively as he stretched, then looked away as
+    he scratched his armpit with one hand and his crotch with the other.
+            Then there was a new noise, an engine. A chocolate-brown sedan
+    appeared, the only moving thing on a road that would later be crammed with
+    cars. The inspectors. And right on time.
+            She stayed in her hiding place, concealed but with a perfect view of the
+    fortress-on-wheels where she believed Wolf was being kept.
+            Wolf. What a laugh! Of all the places she'd expected to find him ...
+            A plump man in a canary-yellow suit and cowboy boots went out to
+    meet the official-looking types getting out of the sedan. Probably Zwick, she
+    thought. The carnival boss. Time to give them the tour, reassure them that the
+    rides were safe and the girlie show was clean, that no E. coli was breeding in the
+    grab joints. Time, also, to slip them a bribe of free passes. Just a friendly gesture
+    of goodwill. Yeah, she knew how the game was played.
+            Closer, she saw Green Eyes emerge from his trailer. He moved like a
+    cat as he crossed the lot, now wearing tan pants and a cream-colored shirt. The
+    kid, Chris, she remembered, came to meet him. They were too far away for her
+    to hear without extending her ear cable, but she could guess.
+            The brothers disappeared inside the big blocky trailer for a few minutes,
+    then came back out. The kid sat on the steps, looking very small and neat in
+    jeans and a T-shirt, while his big brother went to wait for the inspectors. Neither
+    of them seemed horribly happy at being awake so early.
+            Although she had only slept three hours, Hyena wasn't the least bit
+    tired. Her microspheres were efficient at refreshing and recharging her body. Her
+    metabolism ran at a different speed now. She didn't need much sleep. Probably
+    could have gotten by without any at all, but old habits died hard.
+            She was hungry, though. Still needed fuel, lots of it. She could now
+    digest things that would have killed her before, but she preferred a nice big plate
+    of ham and eggs to scrounging a breakfast of dew-damp grass and brambles from
+    the field.
+            That could wait. Time enough later to go into town.
+            She waited and watched as the inspectors made their rounds and asked
+    their questions. Eventually, they came to the section where the freaks lived.
+    Hyena noticed that Chris sat up straighter, and screwed his face into an
+    expression of concentration like a kid trying to solve a complicated math
+    problem.
+            Green Eyes made a big show of introducing the uptight-looking social
+    worker guy to the pathetic female giant as she sat in her wheelchair outside with
+    her long homely horsy face hanging out. Then on to Munchkinland, meeting the
+    dwarf and his tiny wife.
+            Hyena started to glance toward Chris, then changed her mind. There
+    was nothing to see over there. No reason to look that way.
+            What the hell?
+            She turned her head that way again, then changed her mind again.
+    Nothing to see. Better things to see anyplace but there.
+            Her neck began to ache and she realized she was trying to force herself
+    to look at the trailer, but at the same time was trying just as hard to force herself
+    not to.
+            The inspectors weren't looking that way either. She focused on them
+    instead, and saw right away that there was something truly bizarre going on.
+    Every time one of them swept his or her gaze in a natural way that would and
+    should have encompassed the trailer, that person would look away. As if
+    distracted, as if bothered by grit in the eye, something. Or their gazes would do a
+    funny little skip.
+            Apparently satisfied, the inspectors shook hands all around and headed
+    back for their car. The carnies lingered a while longer talking among themselves.
+            As the sedan started up and drove away, Hyena tried again to look at
+    the trailer.
+            There it was. No neck ache, no weird feeling of aversion, nothing. Just
+    the trailer, with the kid sitting on the steps. Now instead of that concentrating
+    frown, he was pale and weary and breathing like he'd just sprinted a mile.
+            The kid ...
+
+                    *               *
+
+            Caleb St. John put a hand on his brother's shoulder. "You okay, Chris?"
+            "Yeah, just tired."
+            "You did great, as always."
+            "Thanks." He offered a wan smile.
+            "Go on and get some sleep," Caleb ordered, helping him up.
+            Chris staggered, righted himself. "How come Morgana makes it look so
+    easy?"
+            "She's different," Caleb explained. "Just as we all are. She only _sees_.
+    She can't broadcast like you do."
+            "I guess." Too worn out to argue, Chris let himself be led back to the
+    trailer that he and Morgana shared with their mother.
+            The youngest of the St. Johns was still curled in her bed. Nothing eerie
+    or mystic about Morgana now, Caleb thought. Not while she slept. Not while
+    those other-seeing eyes were closed and she walked in dreams like any other
+    little girl.
+            Chris was asleep almost as soon as his head hit the pillow. Caleb
+    removed the boy's shoes and drew a blanket over him.
+            Rather than return to his own place, he settled down on the couch for a
+    nap. His mother's trailer was one of the largest and most comfortable in the
+    carnival. Only Mr. Zwick's was fancier. Cassandra's had a small bedroom at each
+    end, one for herself and one for Chris and Morgana, with a spacious living area
+    in the middle.
+            Of course, tired as he was, he couldn't sleep. The energy from the
+    inspectors was still running through him, giving him a mild morning buzz. It was
+    nothing compared to the steady flow he got during the evening shows, but the
+    restless thrill prevented him from nodding off.
+            Instead, he just leaned back and closed his eyes to savor the energy the
+    way someone else might savor his first cup of coffee.
+            The inspectors had tried to mask their emotions with polite efficient
+    concern. Not at all like the marks, who might hide their true feelings behind
+    jeering and mockery. Either way, it didn't matter. He could sense it, could draw
+    on it, no matter what outward face they presented. Their fear and horror fed the
+    restless beast that was his soul.
+            At some point, the energy must have worn off and let him descend into
+    sleep, because the next thing he knew, Morgana was gently shaking him,
+    reminding him that the fairgrounds would open for business soon.
+
+                    *               *
+
+            Wolf prowled his cage, a low snarl rumbling at the back of his throat.
+            He hated it when they left him alone like this. Alone, locked up in this
+    dungeon. Without even that bigmouthed bastard Fang for company.
+            He hadn't been out of the trailer since getting turned over to this
+    traveling zoo. Barely had enough room to pace, let alone exercise. He was
+    getting flabby and out of shape. He wanted to run wild and free through the
+    night, the pale moon riding the sky overhead. Wanted to hunt, God, how he
+    wanted to hunt! The alluring scent of terrified prey. Flesh tearing. Hot blood
+    spurting.
+            His memories had gotten patchy. The last thing he remembered clearly
+    was the island. There had been prey then, damn straight! That had been the last,
+    best hunt. All the men, so secure in their store-bought gear until they ran into real
+    danger. Even the ones who were supposedly trained soldiers, not wanna-be's like
+    the rest, had gone down under his jaws.
+            Then there had been the woman. Dark hair, tawny skin, an exciting
+    body. Feisty. Fighting him. But just when he thought he'd won, that he'd
+    overpowered her, the old gargoyle had gotten in the way. After that, his
+    memories came apart into a confusion of falling, flames, and turbulent water.
+            One clear instance stood out, of being hauled in a net aboard a fishing
+    trawler. The crew had all been Oriental, jabbering excitedly in a way that made
+    him think of Godzilla movies.
+            Had he gotten loose? He recalled a stormy rainswept night, slick decks
+    beneath his feet, screams and blood.
+            Somehow, he'd gotten from there to here. And apparently more than a
+    year had passed. Time was so tricky now, tricky and slippery. He could never
+    keep track of what day it was anymore. It seemed to be too much trouble to
+    bother. Now was all that mattered.
+            But now was stuck in this goddam cage. Being fed instead of hunting
+    down his own fresh meat. Soon they meant to put him on display. People staring
+    at him. Pointing.
+            Let them try. First thing he was going to do was rip out a few throats.
+    They'd see it was useless to keep him. They'd let him go.
+            Or kill him.
+            He growled at the thought. If he was going to die, he was not going
+    to do it in a cage. He would take some of them with him. Especially the man who
+    thought he could cage and own Wolf. Death would be worth it if the last sight he
+    saw was that asshole staggering around screaming while his guts spilled in loops
+    and coils down his legs.
+            The image made him hungry, so he nosed around in his dish and found
+    a scrap of meat he'd overlooked. Down it went.
+            The door opened. Not the door in the side of the trailer where the norms
+    came and went, but the sliding garage-style door at the end. Showtime was done,
+    now the freaks went beddie-bye.
+            Two roustabouts led Fang in. The winged mutate joshed and joked with
+    them. Tame. Weak. Loser. He let them uncuff him without even a hint of fighting
+    back, went along with it as they ushered him into his cage and locked the door.
+    Wolf saw at least six openings where Fang could have taken them down and
+    escaped.
+            "Man, what a night!" Fang said. "Must've been four hundred marks
+    come through. You'll see, Wolfman."
+            "Shut up," Wolf said. He barely recognized his own voice these days,
+    and it was getting harder and harder to make his mouth form regular speech.
+            The roustabouts brought in Alli-Gertie next, and she went obediently
+    into her cage just like Fang had. Not that she could have gotten away even if
+    she'd tried; she was a scrawny thing and she didn't have any useful claws or
+    teeth. Just those scales, plated over every visible inch of skin. Wolf figured she
+    wouldn't feel a cigarette stubbed out on her, though he doubted she was
+    bulletproof.
+            "Hey, maybe next week," Fang went on jovially. "Mellow out and it
+    could be your big debut! You should see the poster they've got for you. Wolf
+    Man of Madagascar. Cracks me up. Full moon in the background, and you get to
+    carry a babe in a torn dress. Just like something off of a monster movie ad!"
+            "I said shut up. Shut the fuck up. Got it?"
+            "Your conversation tonight lacks a certain je ne sais quoi." Fang
+    laughed. "As my brother used to say. Or, to put it my way, up yours."
+            Mr. Starfish was brought in next, in a contraption that looked like an
+    oversized baby buggy made out of an orange crate. He crept over the side and
+    into his crib, reaching and pulling with the flat tapering paddle-like appendages
+    that replaced his arms and legs.
+            Now they were all locked in, the jolly foursome of them. Alone with
+    just each other for company. Alli-Gertie crawled into a corner of her cage, her
+    scales rasping against the floorboards. Mr. Starfish slithered around until he was
+    as comfortable as he could be.
+            Fang had brought a snack, a giant drippy hamburger and a paper dish of
+    half-raw, all-grease curly fries. He kicked back on his bunk and started scarfing
+    it down.
+            Wolf nearly gagged, partly from the stench of the charred meat and
+    onions, partly from his neighbor's table manners. And they said he was a
+    sloppy eater. He aired his opinion on the subject. to which Fang responded by
+    turning toward him and gaping his mouth wide to show a mass of chewed food.
+            The side door inched open and a shadow slipped inside.
+            Wolf was about to unleash another obscene remark to Fang, but Fang
+    abruptly lost all interest in their exchange and his dinner. His voice dropped to a
+    conspiratorial hiss.
+            "Hey, Wolfman, can it and watch this action!"
+            He caught the scent then, and forgot whatever he'd been going to say.
+            Female.
+            Young, healthy female.
+            She lit a single candle and placed it on the floor at the end of the trailer
+    where a litter of cardboard boxes, crates, and other assorted junk was piled.
+            The woman revealed in the candlelight couldn't have been more than
+    twenty. Face of a pouting child angel, body of a slut. Wavy blond hair fell just
+    past her shoulders. As she turned to regard the cages, Wolf saw unsettling eyes,
+    as dark and shadowed as a secret forest glen.
+            She removed a mini boom box from one of the crates and turned it on.
+    Wolf's keen ears detected slow, jazzy music. If he'd been more into weird
+    intellectual television, he might have recognized it as the soundtrack to a show
+    from the 80's called Twin Peaks.
+            "Who is she?" he hissed out of the corner of his mouth like a con in a
+    prison movie.
+            "Corrinne St. John," Fang replied in kind, wiping his mouth with one
+    furry forearm. "The boss's sister. Ain't she a piece?"
+            "What the hell's she doing?"
+            "Watch and see." Fang grinned.
+            Corrinne began to undress, swaying to the music. She unbuttoned her
+    top, exposing perfect milky breasts lifted by a plum-colored satin bra.
+            "What is this, some kind of joke?" Wolf demanded.
+            Fang waved irritably at him to be quiet. Corrinne ignored him and
+    started peeling off her faded jeans. Matching satin undies. Too sleazy to be
+    anything but Frederick's.
+            "She gets off on giving us a show," Fang whispered. "Shut up and enjoy
+    it; it gets better!"
+            There was a folded canvas director's chair leaning against the wall.
+    Corrinne set it up, then sprawled gracefully in it. Her fingertips traced circles
+    over her breasts and moved lower, skimming the waistband of her panties. The
+    tip of her tongue flicked out and wet her full lips. Wolf could smell her arousal,
+    her heat.
+            "Talk about cruel and unusual punishment, huh?" Fang's greedy gaze
+    was fixed firmly on the woman, bopping his head along with the music. He
+    wasn't quite drooling, but it was close. "One more reason why I haven't signed on
+    and got my own trailer. I'd miss this!"
+            "You're sick," Wolf opined, but he, too, couldn't look away.
+            If Corrinne was listening, she gave no sign. She was wrapped up in
+    herself and her performance. She slung one leg over the wooden arm of the
+    chair, a move which drew the fabric of her panties tight against her crotch. Her
+    hips rolled as she rubbed herself in lazy motions.
+            "I'd love to get a bite of that," Wolf heard himself say.
+            "Oh, yeah!" Fang agreed enthusiastically.
+            She sucked her fingers and then held them out to show the glisten of her
+    saliva before sliding them under the waistband. Her face was flushed, her chest
+    rising and falling, bulging against the confining bra cups.
+            Wolf grabbed the bars and shook them. No good. If they hadn't given
+    way when he was at his most enraged, he knew they weren't going to give now
+    just because he was horny enough to take a jab at the crack of dawn.
+            Corrinne smiled smugly. Wolf knew Fang was right; she was getting off
+    on it. Tormenting the freaks. She was one disturbed bitch, all right, and he
+    wanted to flip her over and do her until she begged for mercy.
+            She took off her panties without getting out of the chair, somehow
+    making it look easy. The bush between her legs was dark gold and neatly
+    trimmed.
+            "Let's see some pink!" Fang called ribaldly.
+            "Got a dollar bill to wave at her?" Wolf snapped sarcastically.
+            She obliged, hooking both legs over the arms of the chair this time and
+    opening herself wide, her fingers working busily. She reached down and brought
+    up something he hadn't noticed before, a length of wood sanded smooth and
+    polished to a dark walnut sheen.
+            Wolf felt dampness on his chest and only then realized that a pendulum
+    of drool was dripping from his jaws.
+            Corrinne moaned as she slowly pushed the length of wood into herself
+    and began pumping it in and out. Within moments, the unmistakable shudders of
+    a climax seized her.
+            Fang had quit his remarks, just staring so intently that his eyes nearly
+    blazed. His fists were clenched around the bars as tight as Wolf's own were.
+            Barely pausing, Corrinne moved around so she was kneeling with her
+    head to the floor and her ass in the air, giving them a different view as she
+    continued to masturbate herself with the wood. She brought herself off again and
+    then withdrew it, leaving it indifferently on the seat of the chair as she rose and
+    moved closer to the cages.
+            Wolf's fingers twitched. If she came close enough ...
+            But no, she knew just where the limit was, and stayed an inch beyond
+    his longest reach as she passed. He noticed Alli-Gertie huddled in a ball, hands
+    over her ears, wracked with those strange glottal sobs, but Corrinne didn't even
+    glance that way. Instead, she proceeded, naked except for her bra, to the straw-
+    filled crib that housed Mr. Starfish.
+            "This chick could teach Hyena a few things about kinky," Wolf
+    muttered.
+            Mr. Starfish whimpered feebly. He was cataclysmically retarded as well
+    as horribly deformed, so he had no idea what was happening to him as Corrinne
+    started pleasuring herself with the appendages that passed for his limbs.
+            "Hey!" Fang called good-naturedly. "Hey, you want some of this?"
+            Wolf grimaced. "Put your peanut-dick away, dumbshit! Nobody wants
+    to see it!"
+            "Over here!" He waggled it at Corrinne. "Come and get it while it's hot,
+    baby!"
+            Wolf snatched up his water dish and chucked it at Fang. It rebounded
+    off the bars just in front of his nose with a sound like a dinner bell.
+            Corrinne, startled, jumped away from Mr. Starfish. Her foot caught on
+    the leg of his crib, upending it. Mr. Starfish pitched headlong into the straw.
+    Corrinne didn't fall but stumbled toward Wolf's cage.
+            His gnarled claws shot out and seized her by the hair. "Gotcha, bitch!"
+            No scream, just an indrawn rasp of breath, and he realized she hadn't
+    said word one. Mute, maybe. A shame. Screaming and begging had turned him
+    on even before his upgrade.
+            Goddamn bars!
+            He pulled Corrinne's lush body tight against them, the smell of her
+    maddening in his nostrils, his spit raining on her upthrust tits. Their faces were
+    only inches apart, her dark green eyes staring up into his feral yellow ones.
+            The terror and pleading he wanted to see weren't there. She snapped her
+    teeth at him playfully, and stuck her hand between the bars to unerringly find the
+    furry sheath between his legs, and the slick column of red flesh poking out of it.
+            Her touch took Wolf so by surprise that he let go. Even as he realized
+    the mistake, she whirled away from him with a mocking smirk.
+            She stood a few feet away and bent over, facing away from him,
+    thrusting her butt toward the cage. Mooning him, squirming her hips, reaching
+    back to spread her cheeks. Her taunting eyes told him that all she had to do was
+    back up, jut a couple of steps, and she could be pressing that firm ass against the
+    bars, letting him get into her from behind. Just the way he liked it.
+            Wolf howled in fury and threw himself against the cage.
+            His hard-on slammed straight into one of the bars.
+            His howl turned into a strangled yelp as he recoiled, crumpling to the
+    floor with his hands clamped firmly over his crotch. He hurled his supper and
+    writhed painfully in the mess.
+            "I've seen people stub their toes before," Fang observed with malicious
+    good humor, "but I've never seen anybody stub his dick. Smooth move,
+    Wolfman!"
+            Corrinne's laughter was a breathy silent chuffing that made her breasts
+    dance. She waved one finger at Wolf -- naughty, naughty. Even Alli-Gertie had
+    raised her head enough to see what was going on, her pebbled lips stretched into
+    a wide grin.
+            "That's it," Wolf said when the pain subsided enough to make speech
+    possible. "There's gonna be blood. If it's the last thing I do, asswipe, I'm going to
+    garrotte you with your own intestine."
+            "Me?" Fang feigned innocence, badly. "What'd I do?"
+            "And you." Wolf pointed at Corrinne with one wavering claw. "You ...
+    you ..." he couldn't come up with a vile enough threat.
+            She pursed her lips and blew a big Marilyn-Monroe-type kiss at him
+    while she dressed, still laughing silently, and left Wolf to stew in his rage and
+    humiliation.
+
+                    *               *
+            
+            Hyena was getting mighty damn tired of sleeping in the field.
+            She'd braved the freak show earlier tonight, doing her best to remain
+    inconspicuous. Which was a joke; even as a kid, she'd thrived on attention be it
+    good or bad, so trying not to be noticed was a new, unpleasant experience.
+            The hat and the coat were just too out of the ordinary, so she'd made do
+    with jeans and a long-sleeved flannel shirt -- tres hick -- and a mask from one of
+    the concessions booths. Cheap ripoffs and Disney imitations. She was now the
+    proud owner of a rubber full-head mask made to look like a cartoon hyena with a
+    lolling warty tongue. It had done the trick, though, concealing the metal sheen on
+    her face and neck. All she'd had to do was keep her hands in her pockets as much
+    as possible.
+            Since she'd gotten something of a peek at the freaks last night, she
+    hadn't been all that surprised by what she found inside. Fat dude, tall chick, short
+    dude, tattooed chick ... the alligator woman and the gross thing billed as Mr.
+    Starfish were by far the worst of the lot.
+            And the furry winged demon, that had been a shock. On closer
+    inspection, she'd understood that it wasn't one of those pesky gargoyles, but if he
+    was a natural freak, she would eat her mask, warts and all. She remembered
+    some of the video clips and brochures Coyote had shown them and figured this
+    was another creation of the "hard-working men and women of Xanatos
+    Enterprises."
+            Thinking of Coyote bummed her out. He'd seemed like the perfect guy.
+    Except for his distressing tendency to keep getting blown up, dismantled, or
+    turned to rust.
+            She put it out of her mind and concentrated on the freak show. No
+    Wolf. Her source had seemed reliable, not likely to mistake a cat-mutate for a
+    wolf-mutate, but if so, where was he?
+            Wolf was her last shot. Jackal had wimped out on her, Dingo had gone
+    legit, and Fox had thrown everything away in favor of the wife-and-mommy gig.
+    She hated working alone, and her experiences trying to sign on with someone
+    else had so far been unsuccessful. She still owed Tony Dracon a kick in the
+    groin; nobody but nobody called her "sugarbuns."
+            A string of failed attempts to get in good with other criminal gangs had
+    left her nearly broke. Holding up liquor stores and quickie-marts was getting old.
+    Wolf would be company as well as brawn. So she'd endured a gruellingly long
+    bus ride (commercial airlines were out of the question; the idea of trying to pass
+    through a metal detector ...). She wasn't going back without making absolutely
+    sure it was a dead end.
+            She supposed she could have gone into town and found a motel room,
+    but she'd planned to try and sneak into that trailer after everyone went to bed.
+    Just when she'd been about to make her move, some blonde babe had sauntered
+    inside, and Hyena didn't want to risk getting caught.
+            It was Saturday morning. The gates opened at noon today, so there was
+    already activity on the fairgrounds. Hyena was just about to go scrounge up
+    some breakfast when she saw Green Eyes with the babe from last night.
+            A little dagger of hateful envy sank into her when she saw how close
+    and companionable they walked. It dulled a little as she noted the resemblance
+    and realized they were brother and sister, then sharpened as she thought of
+    Jackal. That, she knew, was the real reason he never had anything good to say
+    about the men she dated. Jealousy.
+            Some stiff in a suit, a mark or townie by the look of him, came to meet
+    them. Their location, hidden from all but her prying eyes, and the furtive way the
+    suit-clad man glanced around, piqued Hyena's larcenous interests. Something
+    dicey was going on here.
+            A fat envelope changed hands. Cash, lots of it. The suit was nervous but
+    eager, probably sweaty-handed with anticipation. Buying drugs? Renting the
+    blonde slut for a night?
+            Nothing else was exchanged except a handshake. Green Eyes tucked the
+    envelope into his pocket and they parted ways, Suit heading for the exit, the
+    other two going into the trailer.
+            She took a chance and crept closer, until she was crouched behind the
+    thick metal wall. Even with her ear pressed right up against it, she could only
+    barely make out the murmur of voices. A normal trailer, she would have been
+    able to hear a flea fart.
+            "Hey! You! What are you doing there, girl?"
+            Hyena whirled. A beer-bellied but tough-looking roustabout stood
+    there, hands at his belt as if he'd been about to tap a kidney when he noticed her.
+    The sight of her exposed face froze him with shock.
+            No time to screw around. She pronged her fingers at him and the index
+    and middle ones extended, just as she'd done at Porky. Instead of going one to
+    either side of his head, she nailed him in the face. She'd been going for the eyes,
+    but he jerked his head and her quills wound up punching through his brow and
+    into his brain.
+            "Frontal lobotomy," she said, and hissed a malicious chuckle. "Betcha
+    needed that like you needed a hole in the head!"
+            He fell, not dead yet but quaking all over, blood bubbling up and
+    streaming down the sides of his skull. One of his flailing hands whumped the
+    side of the trailer.
+            Hyena curled her pinkie like she was making an ASL letter "j", the
+    razor-sharp quill carving a paper-thin and backbone-deep line across his throat
+    just below the adams' apple. An amazing flow of scarlet poured out that thin
+    gash. His heels drummed one last time, and then he went limp all over.
+            She pressed her ear to the side again. That flailing hand hadn't made
+    barely a sound, but she couldn't take chances. Not now that the killing had
+    begun.
+            No signs of anyone being disturbed.
+            "Hmm." She regarded the roustabout. Broad daylight, the fairgrounds
+    due to open in less than an hour, and here she was with a warm corpse. She
+    shoved him under the trailer, then scuffed dirt and dead grass over the stain.
+            Under the trailer.
+            She slithered under and was just about to insert her ear cup through a
+    narrow opening when something roared overhead. A heavy impact whammed the
+    floor. Dirt and dried flakes of oil showered down on her.
+            She knew that roar, muffled though it had been. Wolf was here, and
+    he wasn't happy. She hastily worked her ear cup through.
+            Above, Green Eyes laughed. "Have a fit if you like. It won't do any
+    good. My sister tells me you're uncooperative, so I doubt you'd make a good
+    employee. Still, I have to make my money back somehow."
+            Another male began to chant merrily. "Thun-der-dome! Thun-der-
+    dome!"
+            "How the fuck does she know?" Wolf snarled. His voice had gotten
+    more gravelly than ever, barely understandable.
+            "Corrinne has a ... way with animals," Green Eyes said. "She can tell
+    whether one is tameable or not just by looking. Some, like Fang here, can be
+    domesticated. Others can't."
+            "Hey!" the Thunderdome-chanter interrupted himself, insulted.
+            "I'd rather fight for my life than live in a cage!" Wolf said.
+            "Glad to hear it. The Brock Association will be, too. They look forward
+    to their entertainment. And they always tip very well, not that it will matter to
+    you."
+            The Brock Association. Hyena knew about that bunch. Chicago
+    businessmen, wealthy and jaded, for whom normal thrills didn't do the trick
+    anymore. They got their jollies watching weird spectacles, exercising their power
+    over others by making them perform degrading or deadly things for money.
+    Their leader, Danforth Brock, wore a public face of benevolence and charity, but
+    behind the scenes he would have been right at home belly up to the rail at some
+    Roman gladiatorial bout.
+            Hyena could understand the attraction. Her own tastes tended to run
+    that way. Her favorite TV programs these days were the ones focusing on actual
+    video footage of gory events. When Housepets Attack, or World's Messiest
+    Disasters.
+            "Two freaks enter, one freak leaves!" the chanter resumed. "Hey, who's
+    the lucky opponent?"
+            "How about you, Fang?" Green Eyes said.
+            "Whoa! Hey! Hold on a minute, Caleb!"
+            "All right!!!" Hyena heard Wolf's powerful fist smack into his palm.
+    "Now you're talking!"
+            "The carnival moves on tomorrow," Green Eyes -- Caleb -- said. "We'll
+    make a little side trip, just the three of us."
+            "Why me?!" Fang demanded. "I don't want to fight this bozo!"
+            "Where else am I going to find a suitable challenge? The Brock
+    Association want a real show, not an instant kill. Besides, Fang, I'm sorry to have
+    to tell you this, but we might not be able to keep you on as a member of the
+    Amazing Oddities family."
+            Hyena smothered a snort of mirth. Family!
+            "What? Why not? Hey, I've been good!"
+            "I know, I know," Caleb soothed. "There's a ... legal complication."
+            "What are you talking about?"
+            "According to my lawyer, a landmark decision has just been made in
+    New York. You've been patented."
+            "Huh?"
+            "You're the legal property of some outfit called Gen-U-Tech. Just our
+    luck, someone related to a high muckety-muck in that firm saw you at a show a
+    couple weeks ago and reported it. They want you back."
+            "Hey, screw that!" Fang protested, anger and fear jostling for place.
+    "They can't do that! Can they?"
+            "They can and they have, and they're not willing to sell. Something
+    about you being the only subject left, and more tests."
+            A cougar's hissing snarl filled Hyena's ear cup with static. By the
+    sounds of it, Fang was having a conniption. He spat curses and slammed his fists
+    against the wall hard enough to sift more dirt and oil flecks on her.
+            "So here's the deal," Caleb continued. "Double or nothing. You and the
+    Wolf Man --"
+            "Wolf!"
+            "-- face off for the Brock people. You win, and you're out of here. On
+    your own. With everything I've been holding in trust for you and an extra
+    hundred grand to sweeten the pot."
+            "Yeah, but I lose and --"
+            "You're mine," Wolf said with great satisfaction.
+
+                    *               *
+
+            As they left the trailer, Corrinne paused and scented the air.
+            "Something wrong?" Caleb asked.
+            She ignored him, closing her eyes and opening her mouth to catch more
+    of the scent on her tongue.
+            Blood.
+            Recently spilled blood. So much that it could only mean death.
+            Had she ... done something?
+            She couldn't remember.
+            If she investigated now and found something, Caleb would see. He
+    would know. She'd promised him that she wouldn't do it any more. No more
+    deaths. Not on site. Not among carnies and friends.
+            He would be disappointed in her.
+            If she'd done something, wouldn't she remember? All of the other times
+    were clear in her memory. Townie roadhouses, truck stops. Letting herself get
+    picked up by men looking for a little quick action, men who got much more than
+    they bargained for.
+            But then, how would she know if she remembered them all?
+            She tried to keep her urges under control by having her fun, like last
+    night. Toying with them, tormenting them, was almost as satisfying as her other
+    favorite pastime.
+            It couldn't have been her.
+            She didn't want to chance Caleb finding out, so she forced it out of her
+    mind though the alluring scent tickled in her nose. She shook her head at him,
+    smiled, gave him a teasing look to let him know how much she'd appreciated his
+    lies.
+            "Made him mad, didn't it?" he said smugly. "Scared, too. He didn't want
+    to show it, but I could feel it coming off him like sparks. When those two fight
+    ..." he trailed off, contemplating it.
+            She plucked at his sleeve and put on her poutiest pouty-angel
+    expression.
+            "You want to come along and watch?" His grin was hard and savage.
+    "I'm sure Brock wouldn't mind. You put on a hell of a show for them last year.
+    They'd be glad to see you again, I bet."
+            Corrinne smiled, and relaxed as an eddy of breeze carried the odor of
+    blood away from her.
+
+                    *               *
+
+            "Well, hell," Hyena muttered to herself (or to the corpse she still shared
+    her hideaway with, but she doubted he was listening). "Now what?"
+            On the one hand, it would be kind of cool to tag along, sneak in, and
+    watch Wolf and Fang duke it out. Wolf would win, she was sure. Fang, who had
+    to be the winged fuzzball from the freak show, might look fierce but he sure
+    came across as a sniveling chickenshit.
+            On the other hand, though, she didn't know if she could risk it. Wolf
+    might get himself killed, and all her trouble would have been for nothing.
+    Besides, even if Wolf won, he hadn't been offered the same deal. He'd be back in
+    his cage, back in the trailer.
+            Be easier, she mused, to wait until the rest of the carnies moved on. But
+    if Green Eyes was confident enough to handle both mutates by himself, he must
+    have a trick or two up his sleeve. And the more she was around him and his
+    creepy family, the less she wanted to tangle with them without knowing all the
+    particulars.
+            There was some weird stuff going on here. Magic or something. She
+    hated having to deal with magic.
+            Take the gargoyles, for instance. Bad enough on their own. Okay. Fine.
+    She'd gotten used to the fact that they existed. Turned to stone during the day.
+    No good explanation for that, but okay. Then, along come those Incas or Mayans
+    or whatever they were, with their magic amulet.
+            Or Anubis -- talk about weird! She still shivered when she thought of
+    how her impulsive idiot brother had siphoned up the spirit of a death-god and
+    turned her into a baby. She was lucky her cybernetics had shrunk too, or else she
+    would have been sliced and diced from the inside out.
+            No, she was in no hurry to go up against unspecified magic or psychic
+    powers. Just thinking about it made her skin creep like someone was watching
+    her.
+            That meant busting Wolf out before his side-trip to Chicago. And
+    _that_ meant doing it tonight while the carnival was going on, because she knew
+    that once the last mark was out the gates with his kewpie dolls, the carnies would
+    start tearing the place down. Slough night. Tomorrow, they'd hit the road.
+            In the meantime, she had to get rid of the corpse. Would not do to have
+    things complicated by an ongoing murder investigation. Missing was fine, no big
+    deal. Having someone stumble over a stiff was bad news indeed.
+            
+                    *               *
+
+            "What do you know?" Caleb said softly. "Morgana was right."
+            "Isn't she always?" Chris murmured.
+            "That's the thing about oracles and seers. No one ever believes
+    beforehand. Ah, well, chalk it up to hindsight being 20/20."
+            Neither of them had paid much attention Thursday night when Morgana
+    was talking about what her other-seeing eyes had found during her show, but
+    when she told Caleb that she'd "seen" the same woman hiding under the trailer,
+    next to Andy Wilcox's dead body, they had been inclined to check it out.
+            And sure enough, there she was. The brothers watched from
+    concealment as the "robot lady" slunk along the side of the trailer.
+            Caleb recognized her right away. She'd been hanging around the
+    carnival, had even visited his tent. Her mask might have hidden her face, but he
+    was sure to remember anyone who walked around in a cloud of that much
+    directionless anger.
+            Tasty.
+            He'd gotten Elliot to play barker for the night, which would mean a dip
+    in admissions since despite being a lawyer, Elliot didn't have the sharklike
+    instincts and loathing of humanity that Caleb did. He couldn't shame marks into
+    buying a ticket. But it freed him up to investigate this little matter, and with what
+    he would make tomorrow from Brock, he could afford a slow night of ticket
+    sales.
+            "What are we going to do?" Chris asked. "What if she's got ... weapons
+    and stuff?"
+            "I'm sure she does." Caleb savored the nervousness coming off of Chris.
+    "But we can't let her mess with our exhibits, now, can we? And if we can
+    capture her ..."
+            "Could we even hold her?"
+            "That's why we're going to wait and see, little brother. If she can bust in,
+    we'll know. We'll know what she wants, we'll know what she can do. We'll be
+    ready." He patted the modified rifle lying beside his leg. "We'll be ready."
+
+                    *               *
+
+            Hyena examined the locks. These guys were taking no chances.
+            She'd been given the upgrade option of having a "Lock Gun" installed
+    in her left thumb, similar to what the cops used. But, regarding it as too subtle
+    and a waste of her time, she'd opted instead for something a little flashier.
+            A blue-white laser erupted from a raised barrel in the back of her hand.
+    She used it to cut effortlessly through the locks. So what if they'd notice the
+    damage. They'd tip to the fact that something was up the minute they noticed
+    their Wolf Man gone anyway.
+            All she had to do was hope nobody saw the beam and resulting shower
+    of sparks and smoke. As an extra precaution, she unfolded the short glider-type
+    wings built into her back, hoping they would shield some of the glow.
+            In a matter of seconds, the locks were so much molten slag. She opened
+    the door, did a fast infrared scan to make sure Wolf was the only warm body
+    around, and darted inside.
+            "What the -- Hyena!?!"
+            "Surprise," she said dryly, popping twin hooded bulbs out of her
+    shoulders and training their light on his cage.
+            He shrank back, squinting.
+            She stared. "When did you grow a tail?"
+            Wolf's hunched shoulders shrugged unevenly. The white ponytail she
+    remembered was gone; in its place was a manelike straggle of ivory hair from
+    which triangular ears poked up alertly. His face had changed so much that even
+    his former Pack-mate could hardly see the man he'd been. The way he was
+    shaped now made him look like he would be more comfortable on all fours, like
+    a bear that could rise to its hind legs on occasion.
+            "Never mind," she said. "Come on. I'm busting you out of here."
+            "Where's Jackal?"
+            It was her turn to shrug. "Working at Jiffy-Lube, how should I know?
+    Back off, I've got to cut through the bars."
+            "Hurry up! These crazy fuckers want to --"
+            "I know. Like a cockfight, only uglier." She powered up to an intense
+    red-violet laser and melted a huge hole in the bars.
+            Wolf squeezed through. "I owe you one."
+            "Later," she said. "Let's get out of here; these people are nuts."
+            Wolf stopped just outside to take a deep chest-expanding breath of the
+    cool air of freedom. Hyena nudged him sharply.
+            "Move it, wouldja?"
+            "That's far enough," Caleb St. John said, moving into view. He was
+    holding a souped-up rifle like he knew how to use it, aiming right at them.
+            Hyena laughed. "I knew I liked you, Green Eyes. Too bad it had to turn
+    out like this."
+            "You!" Wolf's fur bristled. "I've been waiting for this!"
+            "Oh, knock it off!" Hyena thumped him in the head. "We're leaving!"
+            "Not without a little ... action," Wolf said, crouching to spring.
+            "I don't have the time," Caleb said as if bored.
+            Wolf leaped. Caleb fired.
+            fwhut!
+            A long skinny cylinder struck Wolf in the meaty part of the thigh.
+    Hyena reacted a fraction of a second too late, slicing at it and only succeeding in
+    shearing through glass. The tuft of feathers that had been on the end of the dart
+    fell at her feet like a dead parakeet. Thick yellowish fluid dripped from her
+    razor-claws.
+            Wolf roared and plucked the needle from his leg.
+            Hyena karate-chopped her left hand at Green Eyes and quills flew in a
+    widening spray. One caromed off the barrel of the rifle with a metallic squeal,
+    one pierced his sleeve, one hit him in the ribs, and the last etched a shallow cut
+    along the side of his neck.
+            He fell back a step and she sprang down the stairs, half-dragging and
+    half-shoving Wolf with her. The stuff in the dart had been fast-acting, but most
+    of it had ended up on the ground instead of in Wolf, so he was only logy and not
+    flat on his ass.
+            St. John fired again, a clean miss this time. Their little spat hadn't gone
+    unnoticed; already a bunch of roustabouts were headed this way. Unlike most
+    folks, carnies tended to hurry toward the source of the disturbance instead of
+    away. They were chummy, had to look after their own because society as a
+    whole saw them as outcasts.
+            One had the bad luck to round a corner and come face to face with
+    Wolf and Hyena. She swung at him reflexively. The angle was awkward and her
+    claws only grazed him, but they were still wet with the sedative, and the dose
+    meant for Wolf dropped the man instantly.
+            So much for any chance at doing this quietly. Her forearm laser cannon
+    popped up and she sent a series of short pulses gunning at the carnies. They
+    scattered, yelling in alarm.
+            Wolf reeled dazedly.
+            "Run, dammit!" Hyena extended a prong like a tuning fork from the
+    base of her palm and goosed Wolf. There was a snap and sizzle, the reek of
+    singed hair. Wolf jumped and yelped, that dopey look left his eyes.
+            Where was the fence? Over the fence and into the field, and they would
+    be home free.
+            Where was the fence? It should be ...
+            No, don't go that way.
+            Bad idea.
+            Nothing to see over there.
+            "Son of a whore!" she shouted, realizing what was going on. "You little
+    bastard, quit it! It's there and I will find it!"
+            fwhut!
+            The needle went through Wolf's ear, sticking clean through so the
+    sedative squirted down his muzzle. He yanked at it, ripping his ear into notched
+    flaps.
+            "This way!" Hyena cornered and raced between two trailers, pulling
+    Wolf. He was too heavy for her to lift, or else she would have triggered her jets
+    and blown this popcorn stand.
+            His legs went noodly on him and he stumbled. Even as Hyena turned,
+    he was back up and charging after her.
+            A ghost flapped at her out of the shadows, and she blurted a brief
+    scream before seeing that it was just a sheet, belling outward in the breeze.
+    Someone had hung out their wash on a few rows of ropes stretched between a
+    trailer and the fence.
+            She hacked one down, hinged her back to speed-limbo under the next,
+    and heard Wolf cry, "Glurk!" as he was quite literally clotheslined. His feet flew
+    up, his head jerked back, and he landed with a big enough thud to jar her to her
+    knees. The line snapped and laundry heaped atop the struggling Wolf.
+            Spitting curses, Hyena crouched and started flinging clothes, trying to
+    unbury him.
+            "I've got her!" an old man's voice called excitedly, and skinny, wiry
+    arms grabbed her from behind.
+            She whirled in his grasp and before he knew what happened, had him in
+    a headlock. But to her surprise, he only laughed and wiggled free with amazing
+    dexterity. He yanked her arms behind her back.
+            "Careful, Elasto!" St. John called from the other side of the trailer.
+            "Elasto," Hyena echoed, smirking. "Of course, the rubber man! Hey,
+    rubber man, can you do this?"
+            She swiveled her hip joint until she could tap him on the shoulder with
+    her spiked heel. When he gasped, she bent her elbows backward, locked her
+    hands behind his back, and flipped completely over. They made a pretzel-shape
+    to the tune of cracking bones and then Hyena was standing with one foot braced
+    on either side of Elasto as the old fool crawdaddied and whined in the dirt.
+            Wolf had struggled to a more or less upright position, but he was all
+    wrapped up in a colossal floral-print dress. By the size of the garments strewn
+    about, Hyena knew they had blundered into the Giant Woman's laundry.
+            "Over here!" More voices, converging.
+            Wolf swore and snarled and flailed about until his muzzle poked out the
+    collar. One arm was caught in a sleeve, the other bound to his side.
+            The absurdity made Hyena scream with laughter. "Why, Gramma!
+    What a big --"
+            fwhut!
+            Sudden sharp pain. She looked down and saw the feathery end of a dart
+    jutting out of her middle, just below the bottom tip of the breastbone.
+            "Oh, shi ..."
+            Blotto.
+
+                    *               *
+
+            "We're very much looking forward to tonight's entertainment, Mr. St.
+    John."
+            "I'm sure you'll enjoy it, Mr. Brock."
+            "What do you have for us tonight?" Brock's gaze flicked quickly but
+    lasciviously to Corrinne, who was standing beside Caleb in a clinging leopard-
+    print catsuit and a rhinestone cat's-eye mask.
+            "A battle to the death," Caleb replied.
+            "Oh, not this enchanting creature, I hope!" Brock clasped Corrinne's
+    hand in both of his own. "To lose you, my dear, would be a genuine shame."
+            She smiled up at him but, of course, said nothing.
+            "Corrinne won't be performing tonight," Caleb said.
+            "In that case, I would be delighted if you would sit with me." He tucked
+    her arm through his and, beaming, led them from the ornate marble foyer.
+            Caleb grinned. Last year, Brock had seen with his own eyes just what
+    sort of "creature" Corrinne really was. He'd watched her take on two hulking
+    Neanderthal bikers busted on trumped-up drug charges and seen her lick the
+    blood from her hands when it was all over. Yet he still wanted her. Caleb
+    supposed that in many ways, to a man like Brock, his sister was the perfect
+    woman. One-third his age, jump-back gorgeous, uninhibited, and mute so she
+    couldn't talk back or complain. Never mind that she was in her own way just as
+    much a freak as the rest of Caleb's staff.
+            Freaks, all of them. Her, Chris, Morgana, even Caleb himself. Which
+    just goes to show you, sometimes it's what's inside that counts.
+            But, speaking of freaks ...
+            "If you'll excuse me, Mr. Brock, I should go check on the stars of
+    tonight's show."
+            Brock glanced around as if he'd forgotten Caleb was there. His desire
+    was rolling off of him like sweat. Caleb could sense it, cloying and nauseating,
+    the empathic equivalent of eating Crisco with a spoon. It would have been
+    different if Brock just wanted to nail Corrinne, use her hard and fast and
+    selfishly. But the older man had romantic notions all mixed in, making his
+    passion something useless to Caleb.
+            "Of course," Brock said. He patted Corrinne's arm possessively. "We'll
+    be fine, won't we, dear?"
+            Beyond them, Caleb could see the plush interior of the Brock
+    Association Coliseum. A grand name for a round room the size of a miniplex
+    movie theater, with rows of cushy leather seats rising in tiered ranks around a
+    clear sand-filled space. This space was shielded by a thick, clear, glasslike
+    substance to make sure none of the members got splattered or attacked or in any
+    other way interfered with by the evenings' lineup of thrills.
+            Many of the seats were already occupied. The dark side of Chicago's
+    elite was here. Men who by day were wealthy, respected, touted for their great
+    generosity and humanitarianism. By night, they gathered here with brandy and
+    cigars to wallow in vicarious sex, death, and depravity.
+            There were a few women also present, perhaps one in ten, and it had
+    been Caleb's experience that these society matrons and businesswomen made up
+    for their minority status by being even more inventfully bloodthirsty than the
+    men.
+            He passed others who lingered in the library or hall, all of them finely-
+    dressed and chatting as if they were waiting for an opera to begin. The Brock
+    Association was housed in one of those fine old homes that looked so stately and
+    reserved behind ivy-covered wrought-iron gates. He couldn't help but wonder
+    how many of them housed similar or even worse practices.
+            His stars were waiting below, in a chamber beneath the Coliseum. Like
+    gladiators of old, they would enter through arched doorways that would bring
+    them to their place in the sand.
+            The Wolf Man and the Bat Demon were sullen and silent, each of them
+    having exhausted their supply of profanity and threats on the way up. The "robot
+    lady" was still out, a necessity because every time they'd let her come around,
+    she'd demonstrated yet another mechanical marvel and damn near escaped.
+            "Fantastic," he said, shaking his head admiringly. And he'd thought
+    Rainbow, with her reproductions of many great works of art permanently tinting
+    her flesh, was the ultimate devotee of self-made freakism. Rainbow's living
+    museum, though, couldn't hold a candle to this.
+            She groaned and opened her eyes. Puzzlement swiftly turned to fury,
+    and that turned to incensed rage as she realized she was clamped to a metal
+    device reminiscent of the one that had once imprisoned Anthony Hopkins in his
+    role as murderer extraordinaire, Hannibal Lecter.
+            Caleb welcomed her anger, so fresh and vivid. It revived him, erasing
+    the weariness that had settled into his bones during the long drive.
+            She opened her mouth and said something so vehement and disgusting
+    that he was struck speechless. Out of the corner of his eye, he saw both the caged
+    mutates gape in shock.
+            "Nice!" Caleb finally said. He felt like a teetotaller who'd just been
+    given a shot of 180-proof. It hit him like a meteor, rocking him from head to
+    heels. "You are going to give us one hell of a show! What's your name?"
+            "Hyena," she said, following it up with an insult that blistered the
+    wallpaper.
+            "Why," he said, regaining his mental footing, "I got the impression
+    earlier that you liked me."
+            "I don't like men who chain me up!" she snarled. "I prefer it the other
+    way around!"
+            "Maybe the problem, then, is that we're too much alike." Caleb smiled.
+    "You'd hate it if I took you like this, wouldn't you? Chained, helpless. I could do
+    anything I wanted, and you couldn't stop me."
+            She said something about his mother that would have aged Cassandra
+    St. John twenty years, had she been here to hear it.
+            "I could bring anybody in, let them have you. Too bad my sister killed
+    those bikers from last year; they'd be perfect."
+            "Go on and try it, then!" She thrust her hips challengingly at him, as far
+    as she could move. From somewhere in her pelvis came a muffled noise --
+    kshuunk! "But tell me, Green Eyes, you familiar with the phrase 'do not back up,
+    severe tire damage'?"
+            His grin widened even as he winced. "What a hellion! Oh, but there's
+    fear in you now. Can't hide it from me. You've been victimized before, haven't
+    you?"
+            "I don't know what the fuck you're talking about!"
+            "Interesting choice of words."
+            She tore at her prison, tried to use her lasers, and went berserk in horror
+    when she found out they didn't work.
+            "One of the Association knows a thing or two about cybernetics," Caleb
+    informed her. "Just enough to disable your weapons."
+            "I don't need lasers to fry your ass!"
+            "I could offer you as prize to those two," he said thoughtfully. "Winner
+    take all?"
+            "No thanks!" his Bat Demon cut in hastily.
+            "Hyena? Are you kidding?" The Wolf Man snorted. "Not if you paid
+    me."
+            Hyena told them, at length and in great detail, what they could do to
+    each other.
+            "As fun as this is," Caleb said when she'd finished her tirade, "we have
+    a show to put on."
+
+                    *               *
+
+            "Ladies and gentlemen!" For the occasion, he'd worn an old-fashioned
+    ringmaster's getup -- shiny black knee-boots, breeches, red coat, top hat, whip,
+    pistol. The spotlight shone down harshly upon him, kicking up sparkles from the
+    sand that covered the floor. "Tonight we bring you a Battle to the Death!!!"
+            They ate it up, not cheering yet but sitting eagerly forward with
+    glittering eyes. Their bloodlust baked at him like heat.
+            "Not just one, not just two, but _three_ of the world's most Amazing
+    Oddities!" Caleb went on. "Here for your viewing pleasure in an apocalyptic
+    fight to the finish! Yes, ladies and gentlemen, these three will be pitted against
+    each other in a contest for the ultimate prize -- Life! Only one of these
+    combatants will leave the ring alive!"
+            Hotter now, the fevered urge. Sex was good, but Sex could be bought or
+    downloaded just about anyplace. Death, though, and Her handmaidens Pain,
+    Mutilation and Terror, those were the whores these people couldn't easily
+    purchase.
+            "With no further ado, I give you ..." a drum roll swelled from the
+    hidden speakers and Caleb swept his arms in a flourish. "The Wolf Man of
+    Madagascar! The Bat out of Hell! And seen here for the first ... and possibly last!
+    ... time ever, the Robot Woman from Mars!"
+            Applause thundered. Six men, all wearing black bodysuits and cowls
+    wheeled in the cages on wooden ramps laid over the sand. Brock and his cohorts
+    murmured in greedy approval at the sight of the creatures contained within.
+            Wolf in his fury was spitting and frothing and throwing himself against
+    the bars. Fang, a true ham, made a few mock-fierce lunges, then clasped his
+    hands and shook them above his head before flashing the crowd Nixon's double-
+    V-for-Victory. Hyena thrashed in her device, shouting vile threats at the top of
+    her lungs.
+            Caleb turned up the volume on his microphone to drown her out. "I'll
+    have you know, ladies and gentlemen, that there was a time when the Wolf Man
+    and the Robot Woman were partners! They might be thinking they could team up
+    against the Bat out of Hell --" here Fang gnashed his teeth in legitimate
+    annoyance, because he knew they would. "But let me assure you, even partners
+    will become relentless killing machines in this Arena of Doom! How, you
+    wonder? Let me show you."
+            He gestured, and the unseen controller in the booth threw a switch.
+    Sand shifted and ran as a metal grid rose from beneath it.
+            "This grid carries an electrical charge. At the moment, the charge is
+    nil." He tapped it with his foot to prove it. "But it can be dialed up to anything
+    ranging from a painful shock to a lethal volt. Our combatants, should they refuse
+    to fight, will all suffer the consequences! So they'll have a choice -- do their
+    best to kill one another, or die together in shared agony!"
+            Now there were cheers, vicious and hungry. Caleb strode from the
+    arena, his boots hardly seeming to touch the floor, so abuzz was he with the
+    focused emotions.
+            "Seal the Pit!" Caleb took his seat beside Brock. Corrinne, on Brock's
+    other side, leaned forward to smile at him.
+            Overhead in the control room, more switches were thrown. Thick steel
+    doors slid closed and magnetically locked. A clear dome came down and fitted
+    along the top of the shielding wall. The barrier looked flimsy, but Caleb had seen
+    it withstand terrible punishment without cracking.
+            "The Pit is sealed!" the controller replied, his magnified voice like that
+    of God.
+            "Release them!" Caleb ordered.
+            The cages fell open. Hyena's bonds snapped loose. All three were free.
+    The tension among them was palpable.
+            Caleb sat back and lowered his mental defenses. His job was done. It
+    was feeding time. With his defenses down, the negative energies now exploded
+    into him, flowed through him. Better than any drug. Better than orgasm. He
+    feasted on the cruel delight from those around him, on the hatred and fear from
+    the combatants.
+            The usual run of horror and revulsion he got each night from the marks
+    in the freak show tent was satisfying in a meat-and-potatoes manner. This was a
+    banquet, a Roman orgy to go along with the gladiatorial contest. There was more
+    here than he could ever use, but he gorged anyway.
+            Fang made the first move, knowing that his life was the cheapest one in
+    the ring. He unleashed twin sizzling bolts of blue-white, sending the others
+    catapulting back. Hyena jerked like someone having an epileptic seizure as the
+    current raced through her circuits, but she retaliated with a flick of her wrist that
+    turned her fingers into bladed nightmares. Fang dodged, saving his skin but
+    forfeiting several clumps of hair that had been shaved off close as a Gillette
+    commercial.
+            Wolf recovered from the burst and charged, coming in low on all fours.
+    His powerful hind legs propelled him upward. His hunched shoulders slammed
+    into Fang's gut and drove him wings-first against the shield hard enough to shake
+    the room.
+            Hyena slashed again. Fang saw it coming and tried to put Wolf's body
+    between himself and her claws, and was only partly successful. Both males
+    bellowed in pain and their blood rained to the sand from long, deep cuts.
+            Wolf's jaws stretched wide, going for the throat. Fang got an arm up
+    just in time. Wolf shook his head roughly side to side like a dog with a rag.
+            Fang pistoned a foot into Wolf's midsection, losing more hunks of meat
+    from his arm as Wolf flew backward. Wolf's head bonged briskly into Hyena and
+    they both went down. Cradling his mangled limb to his chest, Fang used his
+    other hand to launch another zap. His laughter sounded more like an insane
+    scream.
+            Hyena sprang up and the bolt fused sand into brown smeary glass. It
+    also struck part of the metal grid. A *pow* like a backfire echoed through the
+    room. All three of them jumped as they got a strong shock. The lights flickered.
+    The grid went dead.
+            Wolf bounded partway up the wall and from there onto Fang's back,
+    driving him face-first into the sand. His teeth sank into Fang's wing with a
+    hideous gristle-popping noise. They rolled in a gnashing, pummeling tangle.
+            In an almost-dainty motion, Hyena extended first one foot and then the
+    other, like a woman donning nylons. But the purpose was made clear as long
+    barbed blades clicked out of her toes. She took two big strides, her hip dislocated
+    out on its axle, and she wheeled her whole leg in a spinning windmill than ended
+    in a solid kick to Fang's ribs. The blade tore a gaping hole along his side and
+    under his arm.
+            The blood drenching his face made Wolf crazy. He shoved his muzzle
+    into that hole, biting in a frenzy. Fang's shriek was high as a young girl's. He
+    struck Wolf in the head and shrieked again as Wolf reeled back with shreds of
+    inner organs hanging from his jaws.
+            Fang's grasping hands found Hyena almost by accident. He lifted,
+    sparks dancing down his arms and along her body. She kicked again, one-two, a
+    short sharp blow to each leg. His femoral arteries laid wide open, Fang hurled
+    her against the Hannibal-Lecter device that had bound her. A protruding spur of
+    metal punched into her skull, pinning her.
+            "Kill him! Kill him!" the wild crowd, on their feet now, demanded as
+    Wolf approached the weakened, terribly wounded Fang.
+            They got something even better as Wolf instead fell upon Fang and
+    began devouring him alive, ripping off pieces of flesh while Fang struggled
+    feebly.
+            Hyena levered herself off of the device, tottered, almost fell. Her left
+    arm flopped uselessly, her left leg seemed stiff and locked. There was an ugly
+    bulge of gouged flesh on the right side of her head where the spur had gone in.
+    Oily red-black fluid leaked from the wound.
+            She looked at Wolf, an easy target as he concentrated on his meal. Then
+    she turned to look at the audience.
+            "Kill! Kill!" they chanted.
+            Her eyes found those of Caleb. Her dark and twisted lusts had
+    interesting flavor. No mushy-gushy romantic ideations. Raw lust, lust and hate,
+    intermingled.
+            Rather than attack Wolf, she moved with a speed that took them all by
+    surprise. Her hand folded down off her wrist, revealing a dark hollow stump
+    from which emerged something that looked like a chisel-tipped jackhammer. She
+    threw herself at the shielding wall and that jackhammer became a blur.
+            The supposedly-indestructible wall gave way like a sheet of spun sugar.
+            Hyena was in the audience, right in front of Caleb and Brock.
+            "I still have a few tricks up my sleeve!" she screeched. Her shoulder
+    extended, a slit opened in her forearm, and a whirling circular saw blade
+    emerged. She swept it at Brock, who happened to be closest, and before anyone
+    had fully come to grips with what was happening, the leader of the Association's
+    severed head landed in Corrinne's lap.
+            The flaring nova of sadistic glee in the room was instantly engulfed by a
+    Big Bang of panic. For Caleb, who still had his defenses down, it was like a
+    shotgun blast to the head. He actually flipped backward in his chair from the
+    spasming influx of negative emotion. That saved his life, for Hyena's next swipe
+    sheared off the legs of his upended chair rather than decapitating him.
+            Wolf leapt through the broken shield wall, drawn by the screaming,
+    stampeding prey. They were bottlenecked at the door, beating and clawing at
+    each other in their frenzy.
+            Hyena tossed Caleb's chair aside and stood over him, gloating as well as
+    she could with half her face paralyzed. He, still numbed and dazed by the assault
+    on his empathic senses, remembered his gun but couldn't make his body work in
+    concert with his mind.
+            She gloated just a second too long. A sleek, furry form hurtled into
+    Hyena and they crashed through ranks of chairs.
+            "Corrinne!" Caleb shouted, his voice lost in the din. He rolled onto his
+    side and groped for the pistol.
+            His sister had transformed. Her leopard-print catsuit had torn away as
+    her body changed, but leopard-print fur sprouted from her skin to replace it.
+            Hyena twisted and saw her attacker, saw the gleaming green eyes with
+    their vertically-slit pupils, the mouthful of sharp teeth. She yelled and tried to use
+    her sawblade on Corrinne, but the leopard-woman braced her now-tripled weight
+    on Hyena's arm.
+            A ringing roar of challenge heralded Wolf's leap. He tackled Corrinne,
+    knocking her off of Hyena. But Wolf's intent wasn't fighting. He bore Corrinne
+    to the floor and attempted to mount her.
+            Caleb found the pistol and drew it.
+            "I don't think so!" Hyena threw herself on him. A six-inch spike sprang
+    from her kneecap and as she landed, she brought it up in a hard thrust.
+            Caleb was able to move just enough to prevent the spike from impaling
+    his scrotum. It skidded along his thigh. Hyena was on top of him now. He caught
+    her arm with both of his, losing the pistol in the process, and sweat broke out on
+    his brow as he fought to keep the whirring, spinning sawblade away from his
+    face.
+            Corrinne's caterwaul announced Wolf's triumph. He battered into her,
+    his furry body humping frantically. Corrinne crouched low, her ears flat against
+    her head, her haunches driving back to meet him.
+            Hyena slammed that knee-spike into Caleb's thigh again. Her rage
+    hammered his senses. The breeze from the blade made his eyes water as she
+    forced it down.
+            He pushed with all his strength, then let go and dodged to the side.
+    Hyena's sawblade dug into the floor, momentarily holding her in place. Caleb
+    grabbed the pistol and shot her in the head. As she fell, twitching like a
+    marionette with tangled strings, he scrambled away from her and took aim at
+    Wolf.
+            The gun and Wolf went off at the same time. His climactic howl was cut
+    short as the bullet plunged into his heart. The death throes added to his
+    convulsive thrusting and made Corrinne shriek in savage pleasure.
+            Caleb collapsed, aware now of the gored and bleeding agony that was
+    his leg. He dropped the gun. His sister crawled out from under Wolf's slumped,
+    lifeless body. She crept to him, nuzzling him worriedly.
+            He patted her to reassure her, and then slid down a frictionless inclined
+    plane into darkness.
+
+                    *               *
+
+            "I'm getting damn tired of visiting hospitals," Cassandra St. John said,
+    her tough whiskey-and-cigarettes voice not quite able to conceal the relief she
+    felt at the sight of her oldest son.
+            Caleb grinned. "Hi, Mom. How was your visit?"
+            One pale, thin, be-ringed hand fluttered dismissively. "I'm more
+    concerned about what you've been up to while I was off putting up with my
+    prissy sissy."
+            "It's okay."
+            "Okay? Danforth Brock and seven of his associates dead, you in the
+    hospital, the papers screaming about werewolves and monsters attacking a
+    gentlemen's club, and you tell me it's okay?"
+            "Lucky for all of us, the rest of the Association were just as eager as I
+    was to keep the real story out of the news."
+            "Lucky you got paid in advance," she added. "You did, didn't you?"
+            He nodded. "More than enough to cover our losses and my hospital
+    bills. Kind of a shame about Fang --"
+            "The Bat Demon?"
+            "Yeah. But I never could have trusted him, and it only would have been
+    a matter of time before he escaped. The trailer just wasn't built to hold anybody
+    with that kind of power."
+            "When do they let you out?"
+            "The stitches come out tomorrow, and then I'm free. And about time,
+    too. Devon's been going nuts trying to look after Chris and Morgana. Not to
+    mention the havoc Elliot's playing with my profits. He may be a good lawyer, but
+    he's a rotten barker."
+            "How's Corrinne?" Cassandra asked, frowning. "Is she ...?"
+            "The test results haven't come back yet. But don't worry, Mom. We'll
+    take care of it."
+            She sighed. "Yes, I know. We're carnies. We look after our own."
+
+                    *               *
+
+            *click*
+            *whirrr*
+            "Did you hear something?" the coroner asked his assistant.
+            "Sorry, what?"
+            "Never mind."
+            His arm was still in a sling, his face still partly covered with a bandage,
+    but he was the only one who could handle this.
+            Something had to be done with the bodies, though he hated even
+    touching them. The memories were too vivid. The wolf-thing had gone over him
+    while chasing someone else, and he counted himself fortunate to have suffered
+    only minor injuries.
+            He zipped up the thick plastic, closing the wolf-thing's ghastly frozen
+    snarl from the light forever. "Okay, he's bagged. Is the other one done yet?"
+            His assistant peered into the hellfire blaze of the incinerator's window.
+    "Looks like."
+            "Help me load this one in. Then we'll start on --"
+            *click-click-click*
+            " ... what was that?" he finished.
+            "What was what?"
+            "You are deaf as a post, Billy," the coroner complained. They wheeled
+    the gurney over and dumped the plastic-wrapped corpse down the chute.
+            "One more. Wow, that must have really been a show," Billy, the
+    assistant, said wistfully. He knew about the Association, because these weren't
+    the first bodies he'd helped dispose of, but they were by far the weirdest. In time,
+    he knew he might even be allowed to attend.
+            The coroner shuddered. "I --"
+            *whirrrrrrrrrrrrr*
+            "I do hear something!" Billy leaned over the robot-woman, just as
+    her eyes snapped open.
+            "Pretty sucky last words," she said, her words slow and draggy like a
+    record played on the wrong speed. Her gold-tinted hand shot up and clenched
+    tight around his throat.
+            "Nuh-nuh-nuh ..." the coroner babbled, backing away.
+            "Glahh!" Billy said urgently.
+            Hyena sat up jerkily. Caleb's bullet had struck her upgraded skull,
+    skimmed around under the scalp, and exited on the other side near the spongy
+    mess where she'd run into the metal spur. Self-repairing or not, it had taken a
+    while for her systems to overcome that damage.
+            She squeezed.
+            "Glik!" Billy got out before his windpipe collapsed. She let go, and he
+    strutted around the room like a headless chicken, scratching at his neck, his face
+    going plum-colored.
+            Hyena swung her legs over the side. They both worked now, though the
+    left was still sluggish and her knee didn't want to bend.
+            The coroner yammered with fear as she got up from the stark metal
+    table. She extended her hands as if inviting him to admire her nail polish.
+            *tssszzziiiiiiiip!*
+            A spreading stain soaked the front of his pants, and at first he thought
+    he'd pissed himself. Then he felt something heavy and sodden splat onto his
+    shoe, and looked down. Down at the surgically-neat incision that opened him
+    from sternum to groin.
+            "Please --" he said, and died.
+            "As last words go," Hyena said, her voice approaching normal, "that
+    one's a little better."
+
+                    *               *
+
+    The End
+
+    Page copyright 1998 Christine Morgan (vecna@eskimo.com)

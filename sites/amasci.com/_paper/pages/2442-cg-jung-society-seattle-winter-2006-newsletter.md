@@ -1,0 +1,65 @@
+---
+title: "C.G. Jung Society, Seattle: Winter 2006 Newsletter"
+source_domain: amasci.com
+source_path: ~dcs/w06/w06Mcne.html
+order: 2442
+reachable_from_entry: false
+images: 2
+internal_links: 2
+extracted: 2026-08-07T17:08:52Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# C.G. Jung Society, Seattle: Winter 2006 Newsletter
+
+*Source page: `~dcs/w06/w06Mcne.html`*
+
+# <img src="../testlogo.jpeg" data-align="top" width="75" height="74" /> C.G. Jung Society, Seattle
+
+------------------------------------------------------------------------
+
+## ***Shirley McNeil, Ph.D.***
+
+------------------------------------------------------------------------
+
+## Psyche in the Garden: The Mythic Power of Place
+
+***Lecture: Friday, March 3, 7 to 9 p.m.\**
+Good Shepherd Center, Room 202, 4649 Sunnyside Ave. N., Seattle\
+\$10 members, \$15 nonmembers*\
+*2 CEUs*
+
+<img src="MCNEIL1.jpg" data-align="left" width="69" height="95" alt="Stein photo" /> Once the world was alive. Every spring contained a nymph or a water spirit; caverns housed images of magical beasts; and gods and goddesses inhabited mountain peaks. In Man and His Symbols , Jung observed that as "scientific understanding has grown, so our world has became dehumanized," resulting in humans who feel acutely isolated in the cosmos. "(Their) contact with nature has gone, and with it has gone the profound emotional energy that this symbolic connection supplied."
+
+The lecture will examine Jung's own rediscovery of the mythic power of place on his journeys to Africa and America, confirming his intuition that a symbiotic relationship between a culture's mythology and its landscape is essential to sustain a meaningful existence. We will explore the depth process that converts a physical location into a "place," the meaning of *genius* *loci* or the spirit of concept of topophilia, the human attachment and love of place, through the lens of Jung's psychological involvement with his home at Bollingen.
+
+**Recommended Readings** : Jung, C.G. *Memories, Dreams, Reflections* and Jung, C.G. *The Earth Has a Soul: The Nature Writings of C.G. Jung*, edited by Meredith Sabini.
+
+***Class: Wednesdays, March 8, 15, 22, & 29, 7 p.m. to 9 p.m.\**
+Good Shepherd Center, Room 221, 4649 Sunnyside Ave. N., Seattle\
+\$80 members, \$90 nonmembers\
+8 CEUs*
+
+[Preregister](../preform.html) by the Friday lecture (March 3). Please attend the lecture on Friday if you intend to take part in the class.
+
+> *As scientific understanding has grown, so our world has become dehumanized. Man feels himself isolated in the cosmos, because he is no longer involved in nature \[...\] No river contains a spirit, no tree is the life principle of man \[...\] No voices now speak to man from stones, plants, and animals \[...\] His contact with nature has gone, and with it has gone the profound emotional energy that this symbolic connection supplied.*
+>
+> —C.G. Jung, *Man and His Symbols*, p. 95
+
+Influenced by his childhood experiences in nature, Jung was particularly observant about habitat and habitus, where one lives and how one practices a habit of being. His travels to Kenya, North Africa, and the U.S. confirmed his intuition that a symbiotic relationship between a culture's mythology and its landscape is essential to sustain a meaningful existence.
+
+This course will explore the mythic imagination of landscape and the psychological connection between where we live and how we live. Unlike the traditional Pueblo or the Australian aboriginal peoples, most Americans consider themselves "free individuals" who are not bound in place but may move about quickly and freely. Yet, we are powerfully influenced by landscape just as our ancestors were. The ancients knew that each god and goddess inhabited a particular landscape, later known as the *genius* *loci*, the spirit of place. We will examine several mythological landscapes from different traditions including Greek, Irish, Australian aboriginal peoples, Pueblo, and Navajo. In addition we will look at the mythological origins of the Garden of Eden and the development of the garden from farmyard to personalized paradise.
+
+Jung paid close attention to the details of landscape in dream analysis for clues to the emotional condition of the analysand. We'll discuss dreamscapes as the topography of the soul that tell us much about our inner development. Using the metaphor of the garden, we will further inquire into the symbolic representation of gardens as sanctuaries, places of renewal and healing, and as transitional terrain separating wilderness from domestic hearth.
+
+**Shirley Frances McNeil, Ph.D.** , has an undergraduate degree in philosophy and religion from Reed College, and a doctorate in mythological studies with an emphasis in depth psychology from Pacifica Graduate Institute. Her dissertation, *The Memory of an Emotion: Travel and Reverie, an interpretive study of travel, place and mythic imagination*, draws on twenty years' experience in the travel industry. She is a traveler, a writer, currently revising her dissertation for publication, and a workshop leader, concentrating on cultural mythology in current events and personal myth.
+
+*This program has been approved for 10 CEU's by the Washington Chapter, National Association of Social Workers (NASW) for Licensed Social Workers, Licensed Marriage & Family Therapists and Licensed Mental Health Counselors. Provider number is \#1975-157. The cost to receive a certificate is as follows: 10 units for lecture and class \$15; 2 units for the Friday lecture \$10; 8 units for attending all four Wednesday class sessions \$10.*
+
+------------------------------------------------------------------------
+
+[C.G. Jung Society, Seattle home page](../index1.html)
+
+Updated: 7 January, 2006\
+\
+<webmaster@jungseattle.org>

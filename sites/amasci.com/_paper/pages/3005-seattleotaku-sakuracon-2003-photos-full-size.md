@@ -1,18 +1,18 @@
 ---
 title: "SeattleOtaku: SakuraCon 2003 Photos (Full-Size)"
 source_domain: amasci.com
-source_path: ~ericj/cons/sakura2003/detail012.htm
+source_path: ~ericj/cons/sakura2003/detail004.htm
 order: 3005
 reachable_from_entry: false
 images: 6
-internal_links: 1
-extracted: 2026-08-07T05:56:29Z
+internal_links: 2
+extracted: 2026-08-07T17:09:35Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # SeattleOtaku: SakuraCon 2003 Photos (Full-Size)
 
-*Source page: `~ericj/cons/sakura2003/detail012.htm`*
+*Source page: `~ericj/cons/sakura2003/detail004.htm`*
 
 ![SeattleOtaku](http://seattleotaku.com/img/seattleotaku.jpg)\
 **[Home](http://seattleotaku.com/)**   **[Reviews](http://seattleotaku.com/reviews/)**   **[Seiyuu/Actors](http://seattleotaku.com/seiyuu/)**   **[Clubs](http://seattleotaku.com/clubs/)**   **[Conventions](http://seattleotaku.com/cons/)**   **[Shopping](http://seattleotaku.com/shopping/)**   **[LiveJournal](http://www.livejournal.com/users/seattleotaku/)**   **[About Me](http://www.eskimo.com/~ericj/personal/)**
@@ -26,16 +26,17 @@ extractor: site_to_paper.py (pandoc)
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align: left;"><a href="detail011.htm">&lt;-- Previous</a></td>
-<td style="text-align: right;"><a href="detail013.htm">Next --&gt;</a></td>
+<td style="text-align: left;"><a href="detail003.htm">&lt;-- Previous</a></td>
+<td style="text-align: right;"><a href="detail005.htm">Next --&gt;</a></td>
 </tr>
 <tr>
-<td colspan="2" style="text-align: center;"><img src="photos/kimonos.jpg" width="640" height="480" alt="kimonos.jpg" /><br />
-&#10;<p>Both female and male kimonos were demonstrated by Karin Zaugg with the help of a couple eager volunteers.</p></td>
+<td colspan="2" style="text-align: center;"><img src="photos/roshikimono.jpg" width="640" height="480" alt="roshikimono.jpg" /><br />
+&#10;<p>In a guest demonstration panel about kimonos, Karin Zaugg showed how it's a lot easier for men to get ready with only<br />
+a few pieces, a few minutes, and the help of a volunteer (Master Roshi from <strong>Dragon Ball</strong>).</p></td>
 </tr>
 <tr>
-<td style="text-align: left;"><a href="detail011.htm">&lt;-- Previous</a></td>
-<td style="text-align: right;"><a href="detail013.htm">Next --&gt;</a></td>
+<td style="text-align: left;"><a href="detail003.htm">&lt;-- Previous</a></td>
+<td style="text-align: right;"><a href="detail005.htm">Next --&gt;</a></td>
 </tr>
 </tbody>
 </table>

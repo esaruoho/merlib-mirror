@@ -1,0 +1,158 @@
+---
+title: "Titan Test Norms"
+source_domain: amasci.com
+source_path: ~miyaguch/titanorm.html
+order: 5174
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-08-07T17:12:10Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Titan Test Norms
+
+*Source page: `~miyaguch/titanorm.html`*
+
+Titan Test Norms
+
+Maintained by [Darryl Miyaguchi\
+](mailto:miyaguch@usa.net)Last updated: November 1, 1997
+
+ 
+
+The following table shows raw scores on the Titan Test and the corresponding I.Q. scores, using 16 I.Q. points per standard deviation. These I.Q. assignments are the results of Ronald Hoeflin's first norming of the Titan Test.
+
+|  |  |  |  |
+|----|----|----|----|
+| **Raw Score** | **I.Q.** | **Percentile** | **High-I.Q. Society minimum cut-off** |
+| 1 | 120 | 90 | . |
+| 2 | 123 | 92 | . |
+| 3 | 126 | 94 | . |
+| 4 | 128 | 95 | . |
+| 5 | 130 | 96 | . |
+| 6 | 132 | 97 | . |
+| 7 | 134 | 98 | Mensa<sup>1</sup>, Camelopard<sup>1</sup> |
+| 8 | 135 | 98.6 | . |
+| 9 | 136 | 98.8 | . |
+| 10 | 137 | 99.0 | TOPS<sup>2</sup>, Intertel<sup>1</sup> |
+| 11 | 138 | 99.2 | . |
+| 12 | 139 | 99.3 | . |
+| 13 | 140 | 99.4 | . |
+| 14 | 141 | 99.5 | . |
+| 15 | 142 | 99.57 | . |
+| 16 | 143 | 99.6 | . |
+| 17 | 143 | 99.67 | . |
+| 18 | 144 | 99.7 | . |
+| 19 | 145 | 99.75 | . |
+| 20 | 146 | 99.8 | . |
+| 21 | 147 | 99.84 | . |
+| 22 | 148 | 99.87 | . |
+| 23 | 149 | 99.89 | . |
+| 24 | 150 | 99.9 | OATH<sup>2</sup>, TNS<sup>1</sup>, ISPE, IQuadrivium<sup>2</sup>, Glia<sup>2</sup> |
+| 25 | 151 | 99.92 | . |
+| 26 | 152 | 99.94 | . |
+| 27 | 153 | 99.95 | . |
+| 28 | 154 | 99.97 | . |
+| 29 | 156 | 99.975 | . |
+| 30 | 157 | 99.98 | . |
+| 31 | 158 | 99.986 | . |
+| 32 | 159 | 99.989 | . |
+| 33 | 160 | 99.99 | . |
+| 34 | 162 | 99.994 | . |
+| 35 | 163 | 99.996 | . |
+| 36 | 164 | 99.997 | Prometheus<sup>2</sup> |
+| 37 | 165 | 99.998 | . |
+| 38 | 166 | 99.9987 | . |
+| 39 | 168 | 99.999 | . |
+| 40 | 170 | 99.9994 | . |
+| 41 | 172 | 99.9997 | . |
+| 42 | 174 | 99.9998 | . |
+| 43 | 176 | 99.9999 | Mega<sup>2</sup> |
+| 44 | 180 | 99.99997 | . |
+| 45 | 183 | 99.99999 | . |
+| 46 | 186 | 99.999997 | . |
+| 47 | 190 | 99.999999 | . |
+| 48 | 190+ | 99.999999+ | .. |
+
+<sup>1</sup> Does not accept scores from unsupervised tests such as the Titan as qualifying for admission.\
+<sup>2</sup> Accepts Titan Test scores as qualifying for admission.
+
+ 
+
+The graph below shows the distribution of scores for 391 *Omni* participants on the Titan Test between April 1 and September 1, 1990, excluding 54 pre-*Omni* and non-*Omni* participants. The median score is 8 right (I.Q. = 135).
+
+Titan Test Score Distribution
+
+<img src="http://www.eskimo.com/~miyaguch/hoeflin/titndist.gif" width="503" height="287" />
+
+ 
+
+Titan-Mega Score Pairs<sup>4</sup>
+
+The table below shows 114 pairs of scores for those who had taken both the Titan and Mega tests (as of September 1, 1990), including pre-*Omni* and non-*Omni* as well as *Omni* participants. Scores in parentheses were on a preliminary version of the Titan Test that was almost identical to the final version in *Omni*.
+
+|            |             |            |     |            |             |            |
+|------------|-------------|------------|-----|------------|-------------|------------|
+| Person No. | Titan Score | Mega Score |     | Person No. | Titan Score | Mega Score |
+| 1          | 7           | 10         |     | 58         | 12          | 25         |
+| 2          | 23          | 23         |     | 59         | 11          | 27         |
+| 3          | 17          | 19         |     | 60         | 33          | 35         |
+| 4          | 31          | 34         |     | 61         | 6           | 8          |
+| 5          | 35          | 23         |     | 62         | 28          | 28         |
+| 6          | 1           | 5          |     | 63         | 36          | 35         |
+| 7          | 24          | 21         |     | 64         | 48          | 47         |
+| 8          | \(2\)       | 11         |     | 65         | 19          | 33         |
+| 9          | \(9\)       | 18         |     | 66         | 31          | 32         |
+| 10         | \(16\)      | 26         |     | 67         | 10          | 15         |
+| 11         | 13          | 14         |     | 68         | 39          | 30         |
+| 12         | \(15\)      | 23         |     | 69         | 6           | 13         |
+| 13         | \(13\)      | 23         |     | 70         | 13          | 22         |
+| 14         | 29          | 33         |     | 71         | 22          | 33         |
+| 15         | 20          | 15         |     | 72         | 34          | 29         |
+| 16         | 8           | 5          |     | 73         | 16          | 23         |
+| 17         | 2           | 4          |     | 74         | 40          | 36         |
+| 18         | 24          | 13         |     | 75         | 7           | 9          |
+| 19         | 8           | 16         |     | 76         | 12          | 16         |
+| 20         | 25          | 32         |     | 77         | 38          | 41         |
+| 21         | 41          | 35         |     | 78         | 15          | 15         |
+| 22         | 19          | 24         |     | 79         | 23          | 33         |
+| 23         | 33          | 28         |     | 80         | 4           | 8          |
+| 24         | 27          | 27         |     | 81         | 29          | 27         |
+| 25         | 31          | 23         |     | 82         | 41          | 42         |
+| 26         | 28          | 20         |     | 83         | 40          | 29         |
+| 27         | 18          | 20         |     | 84         | 30          | 33         |
+| 28         | 5           | 4          |     | 85         | 27          | 26         |
+| 29         | 28          | 23         |     | 86         | 7           | 9          |
+| 30         | 24          | 28         |     | 87         | 39          | 21         |
+| 31         | 7           | 15         |     | 88         | 18          | 20         |
+| 32         | 29          | 11         |     | 89         | 14          | 11         |
+| 33         | 26          | 19         |     | 90         | 4           | 13         |
+| 34         | 12          | 18         |     | 91         | 25          | 31         |
+| 35         | 14          | 20         |     | 92         | 39          | 40         |
+| 36         | 32          | 29         |     | 93         | 31          | 26         |
+| 37         | 29          | 19         |     | 94         | 24          | 20         |
+| 38         | 19          | 21         |     | 95         | 19          | 23         |
+| 39         | 27          | 25         |     | 96         | 32          | 38         |
+| 40         | 16          | 16         |     | 97         | 9           | 12         |
+| 41         | 23          | 24         |     | 98         | 17          | 29         |
+| 42         | 22          | 15         |     | 99         | 8           | 20         |
+| 43         | 3           | 6          |     | 100        | 35          | 36         |
+| 44         | \(12\)      | 17         |     | 101        | 29          | 31         |
+| 45         | 9           | 17         |     | 102        | 14          | 11         |
+| 46         | \(5\)       | 4          |     | 103        | 23          | 29         |
+| 47         | 13          | 24         |     | 104        | 3           | 12         |
+| 48         | 36          | 44         |     | 105        | 8           | 15         |
+| 49         | 4           | 24         |     | 106        | 39          | 39         |
+| 50         | 11          | 14         |     | 107        | 5           | 12         |
+| 51         | 39          | 35         |     | 108        | 9           | 11         |
+| 52         | 20          | 24         |     | 109        | 18          | 30         |
+| 53         | 24          | 23         |     | 110        | 6           | 12         |
+| 54         | 23          | 19         |     | 111        | 12          | 19         |
+| 55         | 1           | 6          |     | 112        | 23          | 24         |
+| 56         | 22          | 26         |     | 113        | 35          | 40         |
+| 57         | 5           | 11         |     | 114        | 19          | 32         |
+
+<sup>4</sup> The person who scored 47 on the Mega had done so with a second, or subsequent attempt. I assume that Ron was not aware of this yet, since he has indicated elsewhere that he bases his norms on first-attempt data. I don't know whether that person's Titan score of 48 is a first or second attempt (DTM).
+
+Return to the [Uncommonly Difficult I.Q. Tests](http://www.eskimo.com/~miyaguch/hoeflin.html) page.

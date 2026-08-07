@@ -1,0 +1,252 @@
+---
+title: "SMALLnet post370"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post370.html
+order: 8230
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:55Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post370
+
+*Source page: `~smallnet/Archive/post370.html`*
+
+## SMALLnet Posting post370
+
+------------------------------------------------------------------------
+
+**Date: Fri, 12 Jan 2001 02:57:18 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+Dereck Woodward \< <woodwadd@erols.com> \> leads off this time:
+
+George Penniket asked about the Firebird. These are shifting in great numbers down here! The Hobby Shop I hang around has one they fly out in the front parking lot after closing time! They all have a go; it's supposedly as close to foolproof as a flying device is going to get. BTW -- have seen a red one for sale in a "Sharper Image" store hereabouts. Same thing, about same price. Sharper Image is a catalogue of fairly useless things for sale to "consumers" with far more money than sense - the catalogue blurb about their "Firebird" suggests that it would be a good IMAC or FAI competition model, for one!
+
+Bernard Cawley and Andy Woitowicz discussed a Taylorcraft scale model that didn't respond well to aileron control.
+
+"Aileron Differential" is a fact of life for high wingers with ailywagglers! Even my marginally-high-winged "Pandora" electric aerobatic ship needed around 2/3rds up / 1/3rd down, and my shoulder wingers - Little Special, Holi and Cheap Jeep, with everything on the thrust line, also needed about that much. Even some low wing aerobatic types will benefit from a little.
+
+Why a scale model would be designed with smaller-than-scale tail surfaces boggles the mind! You can get away with fairly little - -my 54" Chilton DW1 had an elliptical tailplane so small I stopped trying to calculate / guesstimate its area when the best I could do was 15%! Vertical tails are usually fine on most scale models, though there was a "Citabria" in England a while back that was done to true scale by a modeller who really knew what he was at with scale competition models. The durn thing was close to dangerous, had little directional stability and was soon "retired".
+
+Dick Schwieren asked for performance data on electric-powered models.
+
+The best place to get information on these is probably the E Zone discussion area; there's one specifically for slow fliers on there - \< <http://www.ezonemag.com> \>.
+
+As a Speed 400 is no ball of fire in any circumstances, the best application for a geared one is around a 36 - 40" model for ambling around. Lighter the better is good here. While some folk have used the likes of 2.4:1 geared 7.2V S400 Graupners on 10 cells, the usual is around 6 - 8 cells, a 6V motor, and around 2.5:1 ratio.
+
+Regard 10A as the maximum current for any kind of happy motor life -- these really are cheap and nasty little things!
+
+What I have done with these small motors hardly scratches the surface, but if you buy the Graupner 2.38:1 gearbox and fit it with a 6V motor on 7 cells, running around a 9 x 6 prop -- APC now make these in lightweight electric versions and their "Slow fly" props will take life at S400 level well -- you have a replacement for a throttled 049 (minus the irritating whining noise, the lack of throttle-ability (for most of us anyway) and the oil sprayed all over your model.
+
+The biggest performance upgrade you can make to a "400" class model is to build it lighter! Some of the smaller models can even go as well or better without a gearbox! The efficiency of the larger prop is close to being wiped out by the weight and losses of the 'box itself. A plus for not having a gearbox -- if you really have a noise-sensitive site, this is as close to silent flight as you can get without flying a glider!
+
+Pat Tritle flies the biggest Speed 400 craft around -- he's flown a 60" semiscale on 7 cells, and uses the ancient (though still worthy) "Mini-Olympus" gearbox, which is around after some 20 years on the market. Pat's models are like huge rubber scale models!
+
+Regards, Dereck Woodward
+
+Chuck Kriete \< <dotchuck@epix.net> \> wrote:
+
+Dick Schweiren asked about Speed 400 gearing. I have had excellent luck on an MATech LeParquewatt, which came in a little heavy at 23 ounces, using the HL Mini-Olympus gears with a 9x4 HL Slim Prop and 7 500 mAh cells. 8 cells will do better, but are heavier. These gears are plastic, and they will deform easily if the prop is still running when it is caught on something (like weeds), so you need to fly it with an Electronic Speed Control.
+
+Have also used Lithium grease to lube the gears and they seem to do well on it.
+
+Chuck Kriete
+
+Charlie Fries \< <c.s.fries@juno.com> \> writes in answer to all those Electric newcomers who are mystified about where to start in selecting equipment:
+
+<span id="97">Source: Articles: "Speed 400 Power Systems", MAN 1/99\
+</span> <span id="98">Source: Articles: "Fuel Tanks for Electrics". MAN 1/99\
+</span> Refer to Model Airplane News of January 1999. Read Bernard Cawley Jr.'s article on page 54: "Speed 400 Power Systems". Then, read Larry Marshall's article on page 128, Fuel Tanks for Electrics". Both are tops. They should get you "up to speed quickly" (no pun).
+
+Glenn Bolick \< <rgb8@juno.com> \> amplifies:
+
+Dick Schwieren asked for information on S400 size models. Well, I am not the expert, but have several and will share what information I've developed. You can consider the S400 motor with straight drive as a somewhat sport .049 glow engine with similar capabilities.
+
+Normally I use a 6 X 3 propeller, although for smaller speed-type planes a 5 X 5 will prove to be the most useful. Use 6- or 7-cell 500 or 600 mAh nicads for power. More cells will often "fry" these motors.
+
+On gear drives (Olympus and Metal of 1.7 and 2.3 to 1 ratios) S400 combinations act more like a sport .10 engine when used with 8 X 6 to 9 X 6 props and 7- to 8-cell packs.
+
+"Belly floppers" (no landing gear planes) are especially recommended if you want maximum fun from small ships. Use a folding prop, as when landed on a grass field the fixed props tend to become tangled in the grass, and you may require a new prop after only one flight -- and that's guaranteed after several.
+
+Here is data from my Speed 400 fleet, with the data listed in the following order: Model; Gearbox; Weight in ounces; Wing Area; Wing Loading; and Comments:
+
+    Homebrew - Olympus - 24 - 288 - 12.0 -  Flies slow and easy
+
+    HL Skimmer - None - 24 - 342 - 10.1 - Climbs and glides well
+
+    Griggs Rocket - None - 18 - 142 - 18.0 - Fast and hot!
+
+    Homebrew - None - 18 - 225  - 11.5 - Climbs, loops, and glides
+
+    Homebrew - None - 17.5 - 210 - 12.0 - Medium flying ability
+
+    Homebrew - None - 19.5 - 192 - 14.6 - Mediocre flying
+
+    Super Cub - Olympus - 312 - 23.0 - 10.6 - Takes off, steady flier
+
+    Blue Foamie - None - 16.0 - 201 - 11.5 - Flies OK
+
+    Herr Cherokee - Olympus - 26.0 - 293 - 12.8 - Marginal flier
+
+    Homebrew Biplane - None - 18 - 264 - 10.8 - Flies well
+
+    L. Shrike - None - 16.5 - 162 - 14.7 - Hot flier
+
+    Homebrew - Olympus - 20 - 372 - 7.7 - Great flying fun plane
+
+As you will note, the square inches of wing area (assuming a reasonable configuration) and the wing loading seem to be the keys to good flying in the Speed 400 powered planes. They are a lot of fun in every configuration!
+
+Glenn Bolick
+
+Affonso Arantes \< <bacuri@uol.com.br> \> adds:
+
+Dick Schwieren requested information on gearboxes for Speed 400 electric motors. I can pass along some of my experience on the subject. I have been using for many years the British Mini- Olympus 2.3:1 sold thru Hobby-Lobby -- both with the Speed 400 6V and 7.2 V motors. I use from 6 to 8 cells from 500 mAh AR to 1500 mAh AUL; and for propellers the most efficient I have tested are the Graupner's "Slimprop" 8x4", 9x5" and the 8x4.5" folder.
+
+My planes are all around 48" to 52" wingspan and weigh from 22 to 28 ounces. In the January issue of RCM magazine, pages 127 and 129, there is a photo and technical information of the "Bacuri"-- a model the uses that type of equipment. Affonso
+
+Howell H. Gwin \< <Gwinhh@aol.com> \> reveals:
+
+Just in case anyone out there doesn't recognize the name, Dave Robelen is the designer of the "Playmate", which Bill Winter said was "the finest 3-channel airplane ever designed." I won't argue with that!
+
+I think the Playmate was a forerunner of the ubiquitous BEE's because of their slow speed, maneuverability, and small size fun. Everyone ought to have one!!!
+
+In addition to the Playmate, Dave did the Parakeet, a Biplane with a swept top wing; 3-channel, .25-size which was ALMOST as good. Lately he's done some good small electrics for MA or MAN (senior moment).
+
+Jim Kitchen of R/C Reports is a big Playmate booster also...
+
+Thanks, Dave...
+
+Al Lidberg \< <AALmps@aol.com> \> submitted:
+
+Sam Brauer mentioned the HY50B motor. I have found that the Hobby Club Puma 050N offers just about the same power as the V-L HY50B -- and may be easier to obtain. (Are there still difficulties in contacting/ordering from Hank Fasola/Mr. V-L ?)
+
+The V-L and the Puma work well in my 30" mini-XL old timers, with one exception: the Puma is a bit bulkier, having an external set of gears. (V-L has a very nice tiny planetary, in-line gearbox and, if you want the prop in the same place, requires a mount plate about 1" farther back.
+
+Hobby Club shipped the Puma with a large, strangely flat-pitched prop, which worked OK, but it is quite fragile. The Tern Aero 6" rubber prop works well on either motor. I'm running 8 X 120 mAh nicad cells from the 9V rechargeable Sanyo -- with BEC and ESC.
+
+Oh yes -- the Puma is about \$25 vs \$18 for the V-L. (Both prices are without shipping costs), and I don't sell either motor.
+
+Al Lidberg - see the Lancer and Skylark kits at \< <http://members.aol.com/aalmps> \>
+
+Ron Fikes \< <srfikes@earthlink.net> \> contributed:
+
+Improved the performance on another LiteStik on Saturday. I substituted a \#HCAQ3001 "SkyRunner" prop (from Hobbico) for the standard orange one. Smaller diameter, heavier pitch. Fits right on, no modifications needed. They come 3 to a package for \$5.99.
+
+Here's a modification for those who have lost Moffett Field as an indoor flying site. One of my planes was designed with a small geared motor for indoors. It is a little underpowered for outside, so, if you have plans for my "WINGlite", or have built one, remove the Dymond "Max 1" geared motor and put a direct drive Graupner 280 (not a Mig) in its place. Put on a 5" x 2" Graupner prop, and strap on a 270 mAh 7-cell NiMH (or 7-cell 110 mAh NiCad) pack. Leave the balance point the same, and go at it OUTSIDE! Shorter run with this motor combination, but faster!
+
+Ron Fikes, Palo Alto, California
+
+\< <William.P.Adams@mii.com> \> reports:
+
+In a recent Posting I reported troubles I was having in the plumbing for a 1-ounce clunk tank. Viton tubing from Small Parts does the trick -- it is JUST flexible enough, and is extremely resistant to chemical attack. It is expensive -- hey! I must have used 60 cents worth of tubing! I also bought some polyurethane transparent line that holds the promise of not hardening up like vinyl.
+
+I had got vinyl and latex line from Small Parts in the past, but just overlooked these two newer alternatives. They also have a good range of silicone rubber tubes. Small Parts have an excellent informative catalog and commendable service.
+
+Bill Lee \< <Bill@WRLee.com> \> also uses Viton tubing:
+
+I use Viton tubing in my team racers for the line from the fuel valve to the exhaust prime, since it is very heat resistant. However, I have discovered that Viton has very little stretch capability. If you put it over a piece of metal tubing much larger than the Viton tubing ID itself, it will eventually split right there -- usually when you are in the middle of a race (or out in the field for the SMALL folks! :-).
+
+I use the 1/32" ID tubing since I want as small a volume in the tubing as I can get, and I have had to turn all of the fittings that it attaches to down to about .040" - .050" OD. A fitting made of 1/16" tubing will cause the 1/32" ID Viton to split. Bill
+
+Ken Park \< <k.d.park@sympatico.ca> \> announces:
+
+<span id="272">Source: Kits, Cassutt\
+</span> The Cassutt project cost is \$70.00 (Canadian) or about \$45.50 (US) plus shipping if you live outside the Ottawa area. Mark Winstanley is taking the orders at his home website. Mark accepts Master Card, Canadian Money Order or Canadian Cash. His snailmail address is:
+
+Mark Winstanley\
+974 Como Cres\
+Orleans, Ontario K4A 3Z6\
+
+The web site is at \< www.kam.on.ca \>. Use the order form available and write "CASSUTT" after your name. It's that easy! Sign up quickly and keep the ball rolling!! Ken
+
+Ian L. McQueen \< <imcqueen@nbnet.nb.ca> \> informs us:
+
+MVVS AND MODELA DIESELS
+
+Regarding MVVS and Modela engines, I may be able to provide some information. The 1.5 and 2 cc engines (.09 and .12) were made by MVVS for Modela. Modela sold a wide variety of modelling products.
+
+With the end of communist rule in Czechoslovakia, Modela came to an end. Production of the 1.5 and 2 cc diesels ended, and the die for the 2 cc was modified substantially for twin ball bearings and a circular exhaust instead of the rectangular one of the Modela engine. The present .12 engine is made as an ABC glow engine only.
+
+I asked Robert Kozak, the MVVS distributor in the USA, regarding the smaller engines. He asked the MVVS people in the Czech Republic about obtaining 1.5's and 2's and drew a blank. He told me that he owns the dies, so he would know if any more motors were being made.
+
+Any Modela engines available are from the days of the ancien regime. (I have a couple for sale, and Ed Carlson used to sell them.)
+
+I used to sell MVVS engines in Japan, but I didn't have time to run the .15 diesel. I did spend time with the glow version in a Kress 709 ducted fan unit. It spent well over an hour turning 25,900 using 80-20 FAI fuel and was in fine shape afterward. And this was on one hot-type glow plug!
+
+The diesel is mechanically much the same as the glow version. The diesel has ferrous construction. I'm not sure about the present glow engine. My glow engine was also of ferrous (iron-steel) construction, for I can remember giving at short runs at increasing speeds totalling an hour while breaking it in .
+
+Maximum power for the MVVS diesel is quoted at 24,000 rpm if I recall correctly. It is not designed to be a lugger, so propping it for 12,000 rpm on a 9-4 may indicate too much prop for it.
+
+Ian M
+
+David Felin \< <dfelin@emh1.otc.cc.mo.us> \> wrote:
+
+Went flying with my friend Mike Gillihan today and witnessed several flights of the production prototype for his upcoming Biplane! kit. Regular readers of SMALLnet will remember Mike as the guy who's issuing his own 1/2A biplane kit.
+
+Before the flight, I told Mike the airframe would probably absorb a lot more power than the Norvel .061 he's using. After watching it fly, I said not to change a thing. Loops, rolls, snaps, spins, hammerheads, Immelmans; you name it -- it did them all on 1 cc of engine and with authority.
+
+This one's a winner. Kinda pretty too. I'll be first in the queue for a kit. Dave Felin -- Springfield, Missouri
+
+Ron Stanfield \< <StanfieldR@aol.com> \> announces:
+
+The dates for SMALL 01 are June 1, 2, and 3. Location is the same except for the indoor session. I am still trying to nail down an indoor location, and I think I have a good lead within about five miles of the motels and flying site.
+
+Motels:\
+Comfort Suites - 501-851-8444\
+Super 8 Motel - 501-851-3500\
+DaysInn - 501-851-DAYS\
+
+I plan to have a flyer ready to mail about March 1. Anyone that has attended SMALL any of the last three years is on the mailing list. Anyone else that would like to have a flyer, please send me an email with your snail mail address.
+
+Ron Stanfield
+
+...Make a note of that, SMALLsters! Less than 6 months to go! Time FLIES by -- let's get cracking NOW on our models. (This means YOU -- and me....) \[JW\]
+
+Larry Davidson \< <Samffchamp@aol.com> \> reveals:
+
+There IS an All-Dakota fun-fly event scheduled for the 2001 Nationals. See you there. Larry
+
+Tommy Wilson \< <jawa@ies.net> \> wrote:
+
+Mark Garvey asked if anyone had built a Prairie Bird 50. I had one about 10 years ago, originally powered with a PAW 1.5 R/C diesel, which I flew year-round from sports fields & frozen lakes.
+
+Subsequently it was powered by a Thunder Tiger 15 R/C, a Fuji 15 R/C, Oliver Tiger 2.5 R/C diesel, OS 10 FSR R/C, & finally with a Thunder Tiger 20 R/C. The model met its demise when the Transmitter batteries went dead! The radio was an old Cox 3-channel, now about 20 years old, which still works when it has decent batteries in it........!
+
+The PB50 is a super model to fly, actually flies itself most of the time. A workmate built one as his first-ever model, powered with a Thunder Tiger 10 R/C, which he managed to land in one piece at the end of his first flight. The airplane is capable of simple aerobatics - loops, stall turns, barrel rolls, Immelmans etc. I even had it inverted a few times (intentionally!).
+
+I would recommend it as a first model to anyone, as it is a sure flyer. I still have the plan, as I intend to build another one. It would make a nice model for flying from small places, as it is quite docile when throttled back. With the Fuji it climbed out at about 30 degrees from takeoff, so any low-powered 15 should be suitable.
+
+As an experiment, my son & I converted it to a biplane using a 72" glider wing (HOB 2x6) on the top & the original PB50 wing mounted on an inverted saddle on the bottom of the fuselage.
+
+The glider wing had tip dihedral also, so it did not look out of place. From takeoff it climbed at about 45 degrees, probably due to the lower wing loading. At the end of the engine run it did not want to come down!
+
+We had as much fun with that model as any other -- except maybe for a S/C Nomad. Tommy Wilson
+
+Adam Bryant \< <adamdb@juno.com> \> has a bright idea:
+
+I was winterproofing my house this weekend using those shrink wrap plastic window films. Has anyone tried using this film to cover a small model? It attaches to your window with double- sided tape, and shrinks with a hair dryer. It seems fairly strong, seems lighter than most R/C iron-on coverings, and at approximately \$2.50 for a 3' x 5' sheet, is quite a bargain.
+
+Adam Bryant
+
+Dave Segal \< <DDavesegal@cs.com> \> has the last word on S400's:
+
+John Pond's Plan Service is still operating, as I have just received the catalog I ordered a month ago.
+
+Dick Schwieren asked about gearboxes that work with Speed 400 motors. Electri-Calc is an excellent electric power analysis program that will let you figure out the performance of any combination of power systems. Easy to use, and costs only \$38 from New Creations RC.
+
+Dave Segal
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

@@ -1,0 +1,167 @@
+---
+title: "Just Another War Story? - BODY"
+source_domain: amasci.com
+source_path: ~cmkinc/uncensored/snipbody.htm
+order: 2014
+reachable_from_entry: false
+images: 2
+internal_links: 1
+extracted: 2026-08-07T17:08:27Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Just Another War Story? - BODY
+
+*Source page: `~cmkinc/uncensored/snipbody.htm`*
+
+`The Uncensored Papers (1989)`
+
+# Just Another War Story?
+
+"Killing is my business...And business is good." -- <a href="http://www.megadeth.com" target="_top">MegaDeth</a>
+
+<img src="../graphics/blackbar.gif" width="550" height="13" />
+
+\
+
+***i.*** (a hard spot)
+
+The process of healing scars left on America following Vietnam has been slow and painful. For The Sniper, it has been especially so.
+
+The things he told me that night are things he cannot even tell his own kids. His oldest, who not surprisingly has taken an active interest in target-shooting, looks to his dad for support and encouragement. He does his best to teach responsibility and safety, and he's certainly about the best marksmanship instructor that a son could hope for. But Sniper doesn't shoot anymore, hasn't spent a round since the war. "Just don't have it in me," he says. Vietnam stole many things from the Sniper, not the least of which was his love of and uncanny skill in shooting.
+
+His story hit me like a bombshell, totally unexpected and out of the blue. We had been shooting 8-ball; he was catching a nifty buzz and I'm a lousy pool player, so we were about even. Later, while we were sitting at the bar, Sniper got a familiar, far-away look on his face which suggested that he had something important to discuss. We'd become engaged in often-heated geopolitical discussions in the past, so I knew he had something on his mind. I began formulating arguments in my head, even though he hadn't even said anything yet.
+
+He stared down into his beer schooner and then shot up suddenly from his bar stool, startling me. He lifted up his shirt part way and turned with his back facing me. Reaching around, he pointed to a spot on his lower back near his kidney.
+
+"Feel there," he said.
+
+"What?" I replied, not knowing what to think.
+
+"There," he said as he squeezed in on the spot. "Feel right there."
+
+"Okay. . ." It was a strange request, but something in the tone of his voice suggested that this was not the time to argue. I felt around his lower back, near the spot he had been pointing at. "What am I feeling *for?*" I asked.
+
+"Squeeze a little harder," he said, "You'll feel it."
+
+"Feel wha -" I stopped short as I applied a bit more pressure. There *was* something there! It felt hard, like a bone, but I knew that was anatomically impossible. "What in the hell?.." I mused as I squeezed around this odd, hard spot embedded in his flab.
+
+He let out a slight groan. "Oh, man, I'm sorry. But what is that?"
+
+"A bullet."
+
+"*What?*" I exclaimed. Sniper was the last guy I'd expect to have a bullet in him. "How the hell did that happen?"
+
+He bowed his head and responded solemnly, "Over in 'Nam."
+
+Before that moment, I had no idea that Sniper was a war veteran.
+
+------------------------------------------------------------------------
+
+***ii.*** (obligation)
+
+Although I've never served in the military (nor do I intend to), I have known and encountered many people who have. It's just the unavoidable consequence of living in a community with such a strong military presence for most of my life. Consequently, I've heard countless war stories and tales from the high seas.
+
+I always felt that young people such as myself had a certain, innate responsibility to at least *try* to understand what hell those guys went through in the name of freedom, or their torment in the discovery that they had been used as pawns in someone else's chess-game. Many war veterans, I think, just need somebody to listen.
+
+You can see in their eyes that the images they resurrect are painful and sad. Things they'd like to forget, but just can't. Wars have a way of creating powerful, dangerous emotions in men: Fear, Loathing, and Hatred in the extreme. So, in that sense, I can relate with the emotions, if not the circumstances. I know what the insanity and misery are like, having fought my own secret war with alcohol.
+
+Sniper's war story was fundamentally different, however. I didn't listen to him with the intensity I did out of any moral obligation or respectful courtesy. I listened simply because his story was so fucking sick that I couldn't believe my ears.
+
+The Sniper fought in a war which technically never happened. His wasn't the war being broadcast home each night on the 6:00 news. His wasn't the war that would be made into an Oliver Stone blockbuster twenty years later. His wasn't the war of valiant grunts firing M-16s set on full auto blindly across burning rice-paddies.
+
+No, The Sniper needed just one bullet to do his dirty work, his duty to God and Country. One heavy-grained, high-calibre cartridge to hit one, specific, pre-determined target. His job took him to the wrong side of the DMZ, in North Vietnam.
+
+Sniper fought our side of the covert, illegal war in Southeast Asia.
+
+------------------------------------------------------------------------
+
+***iii.*** (call to arms)
+
+Sniper was an excellent marksman in high school. At one point he was ranked number one in the State of Illinois and fourth in the whole United States. Shooting was his life, that one thing he was good at. But those were the innocent days of boyhood, when shooting was a sport and the targets were paper or clay.
+
+After graduating high school, he enlisted in the Navy to avoid being drafted into an Army infantry unit. He requested submarine service, and the Navy was more than willing to oblige -- on one condition.
+
+The Navy wanted him to make use of his uncanny skill with a rifle, to Be the Best He Could Be. The first year of his enlistment, after he had completed boot camp, he was automatically promoted and indoctrinated into the ranks of the elite Navy Snipers.
+
+By the time the Vietnamese conflict came to be, America had honed the art of covert intelligence gathering to fine perfection. Presumably through these efforts, certain influential civilian figures were identified throughout North and South Vietnam, Cambodia, and Laos. Rallying support and morale for the communist war effort, these people were viewed as potential threats and identified as "targets." It was Sniper's mission to "surgically extract" these targets.
+
+Immediately after being dropped behind enemy lines, the Sniper Team went to work. The process was always swift, silent, and precise, having been pre-planned down to the most minute detail. Surprise, as well as the confusion and panic created following the "hit" were the team's greatest allies.
+
+The team consisted of a primary and secondary sniper, and they alone knew the "target list," and the order of importance for hitting each one. They were accompanied by a group of Sea-Air-Land commandos (SEALs), whose sole purpose was to get the snipers in range and ensure that they lived at least long enough to perform their mission. Death, however, was preferable to being captured, for the snipers' mission was unofficial and Top Secret. If capture seemed inevitable, the snipers knew that the SEALs had orders to kill them.
+
+The Sniper used some sort of long range hunting rifle, far more powerful than the .22 calibre M-16 machine gun which was standard issue among the field grunts. "It's like throwing a fucking brick 300 miles per hour through a window," he said as he turned and gestured toward the large, plate window behind us.
+
+"We'd usually hit during some sort of rally or gathering at the village," he continued. "I'd try to get in a clear position for an unobstructed head-shot."
+
+"How far off were you, usually?" I asked with a growing sense of morbid fascination.
+
+"Oh -- three or four hundred yards, I guess," he said.
+
+"*No fucking way!*" I gasped, although I knew he wasn't lying. "You could hit a *head* from that far away?"
+
+"Oh yeah -- easy," he replied. "We had powerful scopes, of course. I could watch it hit, although I couldn't hear it from that distance. The head just kinda -- well, it kinda disappeared."
+
+"I'll bet it did," I mused. I could handle this sort of talk, which put the Sniper visibly at ease, but I wondered how I'd handle seeing (and *doing*) such things for real. "Well, I mean it was such a big bullet and all..."
+
+"Like a brick," he repeated. "Can ya picture someone getting nailed upside the head with a zinging brick?"
+
+I pondered his question a second. "I don't know. Would the head just disintegrate, or would it cave in massively? It's hard to picture..."
+
+"It's like an exploding mellon," he said. "Little chunks, and the bluish-gray mixture of blood and brains. It's not just red blood, like you would think. Then it's just -- just gone and the body slumps over dead."
+
+"Meanwhile," he continued, "the other guy's trying to spot other targets for you to hit, or he's picking off secondary targets. Once the prime target was hit, anything else was like a bonus. We couldn't hit innocent civilians, though. At least, we tried not to."
+
+He took a long draw off of his beer, draining the schooner, and motioned Piper (our lovely bartender) for a refill.
+
+"So then how'd you get out?" I queried. "The villagers caught on as soon as their leader's head exploded, didn't they?"
+
+"Going out was different. Basically, we just ran like hell! We'd come to a place in the jungle where helicopters hovered just above the treetops. They dropped down lines and waited just a few minutes. If you didn't grab one, that was tough shit. They couldn't wait around all day."
+
+Finally, I had to ask him. "What about the bullet?"
+
+A pained look crossed his face, exaggerated by a full day's growth of scraggly beard. "On my last mission, something went haywire. Those bastards were tipped off or something because by the time we made our way through the jungle and had the village in sight, no one was there. They managed to circle around and flank our wedge formation, surprising us from our vulnerable side. I caught a stray bullet in the back as we turned and beat feet the hell out of there. We were damn lucky they didn't quite manage to surround us, or I wouldn't be sitting here talking to you right now."
+
+His voice trailed off and he stared out across the bar, but he seemed relaxed.
+
+"You didn't really want to hear this stuff, did you?" he finally asked without turning his head.
+
+"Honestly, no," I responded, "but I'm glad you told me anyway. I'm touched that you trust me enough to share these experiences with me, though I don't quite understand why. I really doubt that I would ever have the courage to trust anybody at all with such knowledge. Most people wouldn't take it very well, I think."
+
+"No," he said quietly, "they haven't."
+
+"Can I ask you something?"
+
+"Sure," he said. "*Shoot.*"
+
+"What does it feel like to murder, in cold blood? To kill? I've read things, mostly written by psychologists and that sort of shit, that suggest it's a very addicting rush."
+
+"Oh, yeah," he replied quickly, with just a hint of sarcasm in his voice. "It's the most incredible feeling, the second you pull that trigger. You control everything. But the second after, you realize what you've done. Even though you've done it many times before, it's always just as bad. I felt really -- really dirty."
+
+"When we got back," he continued, "they'd keep us separate from the other guys. They got us drunk. They'd bring in girls, Vietnamese whores. They'd wait on us hand and foot, telling us what a great job we did."
+
+"So basically, they..." I started.
+
+"They lied to me!" He completed the sentence about the same way that I would've. "They told me that I was *elite,* that I was something special. That I was the fucking best I could be." His intensifying voice softened, as if on the verge of tears. "They made me into a monster."
+
+The Sniper stopped there as Piper cried out for last call. It was well after one in the morning and I hadn't even realized it! We bid each other an uneasy farewell after settling up with the bartender, and as I headed out of the bar into the chill night air, the tale of the Sniper still echoed madly in my head.
+
+A bitter lesson, indeed; one which my history books conveniently overlooked.
+
+------------------------------------------------------------------------
+
+***iv.*** (epilogue)
+
+The paradox of killing in battle versus political assassination, "legal" warfare as opposed to "illegal," is one which I will not even attempt to solve. The notion that killing in one instance is moral and acceptable, while it is unthinkable in another, seems absurd on its face. Unfortunately, society tends to ignore the absurd rather than confront it.
+
+"Sniper," of course, is not his real name, but he is a very real person. His actions over a period of seven months in Southeast Asia have had a very profound, permanent effect on his psychological landscape. Through counseling, he has managed to learn to live with what he did. But not forget. He does not deny that in America, we put to death those people who do what he did, repeatedly, in Vietnam. But he was only following orders.
+
+And I do not deny that this is not my story. It happened before I was old enough to walk, let alone be aware of what was happening on a steamy slice of jungle thousands of miles away.But in learning, in talking to people like the Sniper I've found out that, even now, *nobody* really knows what was going on there. Least of all the ones who were there fighting, killing, and being killed. It would seem that, rather than trying to make sense of it all, we should be working to ensure that it never, **EVER** happens again.
+
+Sniper's war story stuck in my head because it was so antithetic to the stated morality of our nation. He did not kill in battle or even kill to save his own life. He was simply a murderer in uniform, paid to carry out the twisted plans of those on high. He knew this all along; the brainwashing didn't work in his case. If the bullet in his back hadn't sent him stateside with a Purple Heart, Sniper honestly believes that completing his Vietnamese tour would've sent him over the brink of sanity, never to return.
+
+Yet in spite of all he's gone through, Sniper makes a good living now, using the knowledge of submarines he gained in the Navy following Vietnam. It seems either ironic or fitting that his job involves ensuring that Trident missiles -- the *ultimate* sniper's bullet -- can arrive, right on target, upon command.
+
+<img src="../graphics/blackbar.gif" width="550" height="13" />
+
+****\[ <a href="../index.htm" target="_top">Home</a> \]****

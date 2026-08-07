@@ -1,0 +1,512 @@
+---
+title: "Bloggity-Blog-Blog-Blog Archive 19 Jun 2005 to 25 Jun 2005"
+source_domain: amasci.com
+source_path: ~tegan/blog/20050619-20050625.html
+order: 8822
+reachable_from_entry: false
+images: 66
+internal_links: 11
+extracted: 2026-08-07T17:16:43Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Bloggity-Blog-Blog-Blog Archive 19 Jun 2005 to 25 Jun 2005
+
+*Source page: `~tegan/blog/20050619-20050625.html`*
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="100%" data-bgcolor="#ffffff"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="13" /></td>
+</tr>
+<tr>
+<td class="title" width="100%" data-bgcolor="#9e98cc" data-valign="top">Bloggity-Blog-Blog-Blog Archive<br />
+Laura "Tegan" Gjovaag</td>
+</tr>
+<tr>
+<td width="100%" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td class="body" data-valign="top" width="74%"><p>Saturday, June 25, 2005 <span id="111976270605763671"></span></p>
+<strong>Only One More Sketch...</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+...And I don't feel like posting it tonight, so I'll hold it off until I do feel like posting it.<br />
+<br />
+In the meantime, I've caught up on my regular comic book capsule reviews, and now I'm working on some free stuff folks have sent me. The latest books I've gotten, but haven't read yet (I'm working on it, really!), are:
+<ul>
+<li>"The Black Diamond Onramp/Smoke and Guns/Five Fists of Science" preview book from <a href="http://www.ait-planetlar.com/">AiT/Planet Lar</a>, which looks like a fantastic way to see which books I'm likely to enjoy;</li>
+<li>"Drive" from <a href="http://www.frequencypress.com/">Frequency Press</a>, by Nate Southard and Shawn Richter;</li>
+<li>"Johnny Public #9: Entering Bridgewater" from <a href="http://www.hulacatcomics.com/">Hula Cat Comics</a>;</li>
+<li>and "Zombie Tales" from <a href="http://boom-studios.com/">Boom! Studios</a> which has a release date of June 29th.</li>
+</ul>
+<p>I don't plan on reviewing that Star Wars movie that just came out, since so many others already have said all there needs to be said about it. I do plan on writing a bit about Howl's Moving Castle and the new Doctor Who (that's a really hard one for me to write, oddly enough). I also intend to write a bit about the latest Manga I've read, particularly Shojo Beat. And I also plan on keeping up with Entourage for the Aquaman jokes. So watch this space.</p>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+by Tegan at <a href="#111976270605763671">9:52 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/06/only-one-more-sketch.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111976270605763671&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111976270605763671" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111976270605763671&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111976139549997387"></span>
+<strong>Rapid Reviews - 22 June 2005 - Part II</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+<strong>Noble Causes #11</strong>: Well, hey, why not twist <em>everything</em> around. This issue is more like a roller coaster ride than anything else. While Frost chooses to help in his normal manner and gets misunderstood... as usual... the rest of the family goes on a mission, and the cliffhanger makes me want the next issue <em>now</em>. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0035.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>Oddly Normal #3</strong>: This was delayed at my shop, unfortunately, but I've got it now. Oddly continues to deal with her situation by simply going forward, but she's learning more about her past as well. There are some neat secrets set up in this one, and I have my doubts that this can be concluded in one last issue... and even if it is concluded, I hope we get to see more of Oddly and her friends in the future. A great ride, check it out. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0040.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+<br />
+<strong>Legion of Super-Heroes #7</strong>: What's the worst possible fate for a native of Colu? Well, that's what happens. This is a Brainiac 5 story in all respects. He's the victim and the agressor. And his backstory is getting more interesting by the minute. Not an amazing cliffhanger, but certainly an intriguing one. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Astro City: The Dark Age #1</strong>: "Thicker Than Water": Two brothers... one a cop and one a criminal. The criminal tells his story of the city on the verge of a massive change in attitudes. This is pretty standard Astro City, so if you've read and enjoyed previous issues, this one is worth looking into as well. If not... well, then, not. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0035.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>Neil Gaiman's Neverwhere #1</strong>: "Chapter One": This is my first exposure to Neverwhere, as I haven't read the book or seen the video, and I only have the vaguest idea of what it's about. I love the cover... with the blur and the focus on what seems to be the most important aspect of the tale. I thought the set-up was very good, and I think I'm going to enjoy this book. It's almost enough to make me go out and grab the novel, but I don't want to spoil the comic. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Supreme Power #17</strong>: "True Faces": While Mark learns a lesson about pain, The Aquarian and ol' what's-his-name meet "Wonder Woman" and have a little altercation. I like that this book has deviated a lot from the script, but I really wish it would head toward some recognizable destination a little faster. Yeah, yeah... I'm just being impatient, but we've had an awful lot of character development so far without a lot of real interaction. And now I have to decide if I'm going to pick up the minis being solicited... I'm not sure I want to, but at least one of them is being written by JMS, so it's possible. But then, do I really want <em>more</em> of this? <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+by Tegan at <a href="#111976139549997387">9:49 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/06/rapid-reviews-22-june-2005-part-ii.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111976139549997387&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111976139549997387" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111976139549997387&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Friday, June 24, 2005 <span id="111967611847416055"></span></p>
+<strong>Rapid Reviews - 22 June 2005 - Part I</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+<strong>Teen Titans #25</strong>: "The Insiders Part III": Well, this seems like it was setup a long time ago, and is finally coming to a conclusion. Good. I'm not really enjoying this storyarc now, and I plan on dumping this book very soon, so it's a good thing the crossovers are ending. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0020.jpg" data-border="0" width="75" height="15" alt="2 starfish" /></a><br />
+<br />
+<strong>New Avengers #6</strong>: "Breakout!" part six: This is the final issue in the formation of the new Avengers team... which is kinda pathetic as we've already seen the team in action in Amazing Spider-Man. Seems it had a but of a delay. And this one makes as much sense as most superhero comics lately. Which is to say it's not horrible, but it's not very great either. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Conan #17</strong>: "The City of Thieves": Another great adventure in the life of Conan. This one shows his first big adventure in the big city, as he's hanging out in Zamora and learning to be a serious thief. This one has all the usual action, and some nice plot elements that just make it all the better. If you like Conan, get this book. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Phantom #7</strong>: "The Aviatrix" part one of two: This is a MASSIVE improvement over the last couple of issues. The difference is night and day. This issue is GREAT. There's a bit of Phantom's history, a bit of his family, a decent little fight, and a strong plot in both senses of the word. Well worth checking out. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0035.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+by Tegan at <a href="#111967611847416055">10:08 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/06/rapid-reviews-22-june-2005-part-i.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111967611847416055&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111967611847416055" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111967611847416055&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111963502885889110"></span>
+<strong>Rapid Reviews - 15 June 2005</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+<strong>GI Joe #0</strong>: "The Newest War": I bought this because it was only 25 cents. I don't usually follow the characters, although I watched the cartoon when I was a little kid, so some of them are familiar. It's not the best story I've ever read, but it's not bad for a GI Joe story. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Battle Hymn #3</strong>: This book continues to intrigue. I was a little sickened by the method used to execute one of the team members as I had a person nearly kill me by the same method once (I was injured, but luckily not seriously). The rest of the plot is moving along, and I'm impatient to see what happens next. This is a nice solid WWII superhero book. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Usagi Yojimbo #84</strong>: "The Treasure of The Mother of Mountains": Two plot threads being worked in this one, the first being the betrayal of Tomoe by Lord Horikawa, the second being the real adventure starring Usagi. As usual, the quality of this book is consistently high. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0035.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+Unrelated to this issue in particular, but of possible interest, is the <a href="http://usagiyojimbo.com/">Usagi Yojimbo Dojo</a> has sent out a call for letters for the letter column. Says Stan: <em>"I guess one of the drawbacks of frequenting the various message boards is a drop off of letters to the comic. Asst Editor Katie said we only had two letters from the last issue, hardly enough to fill a letters page. If you feel up to it, write a letter of comment, or send in a b/w drawing (we still run those when we can). Thank you."</em><br />
+<br />
+<strong>Powers #11</strong>: Yow. Deena has crossed the line. Admittedly, she was pushed, but she definitely crossed the line. Yow. There's nothing else to say. This book is amazing. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Conan and the Jewels of Gwahlur #3</strong>: Conan shows his strengths in this one. I love the artwork, but then it's P Craig Russell, so how could it not be good? And the twists are all classic Conan. I think this one is a keeper. If you like Conan, get the mini. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Birds of Prey #83</strong>: "A Fighter By His Trade": The whole OMAC thing is boring the heck out of me. I just want this part of the crossover to be over and done with. As it is, I'm just not enjoying this title at all right now, and it's on the "possible drop" list despite the fact that I like both Oracle and Canary. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0015.jpg" data-border="0" width="75" height="15" alt="1 1/2 starfish" /></a><br />
+<br />
+<strong>Day of Vengeance #3</strong>: "A Hot Night In Budapest": The Big Red Cheese is on the rampage. So how does this tie in with JSA? I find myself less and less interested in this story as it goes on. I just find the thought of the Spectre being fooled by Eclipso increasingly unlikely. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0020.jpg" data-border="0" width="75" height="15" alt="2 starfish" /></a><br />
+<br />
+<strong>Wonder Woman #216</strong>: "The Bronze Doors Part Two": Ok, Wonder Woman is apparently still blind, and Ares looks different depending on who he talks to. I think. And we learn more about Cassie. Sort of. And this one just reeks of mythology, twisted to fit the DC Universe. Not bad, but I'm a little underwhelmed by it. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Detective Comics #807</strong>: "City of Crime": Jumping into the story, it looks like Bruce has gone undercover to find out ... something. The issue works as a story to an extent, but a new reader doesn't get any answers at all to what's going on in the book. The backup story features Alfred in his pre-butler days. I kind of wish I could read the first part, as well. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>JLA Classified #8</strong>: "The Super Buddies In... That Moron Looks Just Like Me!": Ok... so they are in an alternate universe. All I want to know is, will we see other "heroes" or just the alternates of the characters in the book? <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Seven Soldiers: Klarion #2</strong>: "Badde": Why am I getting this book? I don't really like Klarion as a character, and this issue just reinforces that opinion. I guess I'm getting it so I'll understand the whole Seven Soldiers storyline... and I notice that this one references Guardian and possibly Zatanna. Eh, whatever. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Hero Camp #2</strong>: "All By Myself": You would think that the other kids would all have figured out that Eric has no powers. But then, the folks that figure it out tend to want to let him suffer. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Oz: The Manga #1</strong>: "The Cyclone": I find myself wishing for color, but it's still good. Very good. Nice character designs, and a very Manga-ish look. I'm not going into any detail about the story itself, as it's just more Oz, and I've read a lot of interpretations of Oz since I got married. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0035.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+by Tegan at <a href="#111963502885889110">10:43 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/06/rapid-reviews-15-june-2005.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111963502885889110&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111963502885889110" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111963502885889110&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Thursday, June 23, 2005 <span id="111959137329961850"></span></p>
+<strong>Rapid Reviews - 8 June 2005</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+<strong>Nodwick #28</strong>: "Clue By Four": One of my favorite expressions, turned into the subject for a comic book! If you like fantasy gaming and you aren't reading Nodwick you are missing out on a great book. Go snag a copy and check it out. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0040.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+<br />
+<strong>Stardust Kid #1</strong>: I expected something... better. Oh, it's not that it's bad, per se, just that I had higher expectations for this one. It didn't really deliver. But then, this is just the first issue, and we haven't gotten into the really fantastical stuff, so it's hard to judge. We'll give it a few more issues, but for the moment I'm not overwhelmed. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Futurama #20</strong>: "Bender Breaks Out": Bender bends the comic book and tears a hole in the space-time continuum. There isn't much else to say about this one. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Supernatural Law #1</strong>: I see why this book is popular among a certain crowd. This is the law firm in <em>Angel</em> only working for the good guys (and I'm certain it predates the show as well). I think getting the trades would be a good idea, and there's a collection of the first few issues "Tales of Supernatural Law" coming out soon. A fun horror book. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0035.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>Green Arrow #51</strong>: "Anarky in the USA": I don't remember the whole Anarky story, although I remember the character. This guest appearance made for a very nice one-shot however. The art isn't as bad as I would expect from Eric Battle, either. He's improved considerably since his run on Aquaman. To be honest, this is pretty good. I never would have expected it. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>JLA #115</strong>: "Crisis of Conscience" Part One: More fallout from Identity Crisis. I guess I don't really have all that much to say about this story. I'm not super interested in the Superheroes at the moment, but this is a somewhat compelling story compared to some of the more recent crossover efforts. At least it didn't just happen and then magically not matter anymore. I'm mildly curious about how this will turn out, but not so much so that I'm dying for the next issue. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Rann/Thanagar War #2</strong>: "Dark Resurrection": So there's a war on Rann, and Green Lantern is wandering around stopping another war, and other folks are planning on double-crossing the Thanagarians, and the Earth-based Hawks are fighting for Rann, and... my head hurts. I want a simple story. Give me Owly any day. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0020.jpg" data-border="0" width="75" height="15" alt="2 starfish" /></a><br />
+<br />
+<strong>Batman Strikes! #10</strong>: "Illumination": Definitely dropping this book soon. The storytelling in this one was a bit weak. Flashbacks are usually better accomplished when there is some way for the reader to figure out what is happening now and what is a flashback. This one has the order so messed up I'm still not positive what happened when. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0020.jpg" data-border="0" width="75" height="15" alt="2 starfish" /></a><br />
+<br />
+<strong>Age of Bronze #20</strong>: "Betrayal 1": Oops. Achilles makes a mistake, but that was only to be expected considering how the guy runs into battle like a kid after an ice cream truck. As usual, Shanower gives us an amazing piece of the story in amazing detail. The chaos of battle is shown, and the reason for the mistake is clear. This is one beautiful book. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0040.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+<br />
+<strong>Action Philosophers All Sex Special</strong>: This book is great. It covers Thomas Jefferson, in all his contradictory glory along with Ayn Rand and Saint Augustine. The stories I'm reading in here are not familiar to me, so I feel like I'm getting good and educated as well as entertained. Definitely a recommended book. I need to seek out the other issues, too. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0040.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+by Tegan at <a href="#111959137329961850">10:35 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/06/rapid-reviews-8-june-2005.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111959137329961850&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111959137329961850" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111959137329961850&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111958919798674948"></span>
+<strong>Rapid Reviews - 2 June 2005 - Part II</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+<strong>Incredible Hulk #82</strong>: "Dear Tricia...": After last week's incomprehensible ending, this was a nice short one-off that made sense in a super-hero-universe sort of way. I like the actions of the Hulk in this one, and I like Tricia. So, overall, a pretty solid tale for a superhero book. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Thieves &amp; Kings #46</strong>: I really think I would enjoy this book much more if I only got the collections. Not that it's a bad book, quite the contrary, it's just that it's been so long since I read the last issue that I can hardly remember what happened in it. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0020.jpg" data-border="0" width="75" height="15" alt="2 starfish" /></a><br />
+<br />
+<strong>Noble Causes #10</strong>: The truth comes out about Doc, and plots are woven nicely together as a result. I have a lot of confidence in this book, that things that at first appear to be plot holes will get resolved in later issues. And while this issue didn't surprise me much, there are always small twists and turns that delight. This is by far the best of the soap opera style superhero books I read. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0035.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>Pact #2</strong>: Four kids with super powers, fighting to save the Earth and get pizza that hasn't been soaked in a battle with a supervillian! What I like about this book is that it contrasts the lives of four children in the superhero biz without turning them into the Teen Titans hanging out in their groovy clubhouse. These kids have problems. And I'm enjoying this series. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Strange #6</strong>: "Beginnings and Endings Conclusion": One big fight scene followed by some temporal strangeness. Overall, not bad, but not wonderful either. Maybe a little worse than the average superhero book. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0020.jpg" data-border="0" width="75" height="15" alt="2 starfish" /></a><br />
+<br />
+<strong>Dorothy #3</strong>: "How Sharper Than A Serpent's Tooth...": This book continues to amaze me. The artwork is amazing, with it's combination of photos and art. And it's not keeping to the standard Oz script, which is nice. The book surprises and entertains, and what more do you want from a comic? <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0035.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+<strong>Phantom #6</strong>: "Damnation Game" part 2 of 2: The story continues to be mostly incomprehensible and scattered, but eventually pulls together enough to at least figure out what was supposed to have happened. I'm not liking the artwork much... some scenes of the Phantom in particular make him look very grotesque, and in not a good way. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0015.jpg" data-border="0" width="75" height="15" alt="1 1/2 starfish" /></a><br />
+<br />
+<strong>Beowulf #2</strong>: "Gods and Monsters": Wulf's actions don't make a lot of sense to me yet, but I think we'll understand more once we get further in. There are some references to the first issue, which is nice, as the first issue appeared originally to be just a set-up issue. Still intriguing. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>JSA #74</strong>: "Black Vengeance part 2": This whole story is quite a mess. I think I would enjoy it more if I really liked the whole Day of Vengeance thing, but I'm finding that it soured in my mind pretty quickly. Having the Spectre so easily controlled seems silly. Moreso than usual. And I still don't get the whole hawk-creatures thing with Black Adam. Eh. It's just your run-of-the-mill superhero book. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0020.jpg" data-border="0" width="75" height="15" alt="2 starfish" /></a><br />
+<br />
+<strong>Seven Soldiers: Zatanna #2</strong>: "A Book in the Beginning": I want to like this, as I like Zatanna, but I'm just not sure what to make of it. Morrison really lays it on thick, doesn't he? This is definitely a mini that will make most sense when it's over. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Villains United #2</strong>: "A Fire in the Steppes": It can't be just me who is having trouble figuring out how six second-stringers are supposed to go up against the combined might of DC's villains. I guess the writers anticipated that issue, though, as the end of this book is not a big surprise. In fact, the only surprise is that there is a third issue. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Justice League Unlimited #10</strong>: "Madness... Madness... They Call It Madness!": A pretty funny Batman/Creeper team-up in which Creeper out-detectives the Detective. I think Batman would have figured it out, if he hadn't been so busy being thrown off-balance by the Creeper's antics. Um. Yeah. Another standard superhero book. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Shanna the She Devil #5</strong>: "The Killing Season Part Five": More pretty Cho artwork, more Shanna kicking dino-butt. What more is there to say? <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+by Tegan at <a href="#111958919798674948">9:59 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/06/rapid-reviews-2-june-2005-part-ii.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111958919798674948&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111958919798674948" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111958919798674948&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Wednesday, June 22, 2005 <span id="111950557905697218"></span></p>
+<strong>Thoughts</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+The Dorothy folks <a href="http://www.livejournal.com/users/dorothy_of_oz/63716.html">hit Newsarama</a>.<br />
+<br />
+Warren Ellis <a href="http://www.warrenellis.com/index.php?p=916">on Global Frequency</a> on bittorrent.<br />
+<br />
+Is it just me, or do <a href="http://www.boingboing.net/2005/06/22/bollywood_album_cove.html">Superman and Spider-Girl</a> not go that well together?<br />
+<br />
+<a href="http://www.variousandsundry.com/index.php?p=2770">Various and Sundry</a> dumps some links, including this great <a href="http://gregbrian.tripod.com/hidden/hidindx.html">Guide to Hidden Looney Tunes Gags</a>.<br />
+<br />
+The <a href="http://news.bbc.co.uk/go/rss/-/2/hi/science/nature/4110912.stm">test Solar Sail</a> may not have made it into space. Ooops.<br />
+<br />
+Memorial for <a href="http://www.livejournal.com/users/filkertom/187458.html">The Sloganator</a>.<br />
+<br />
+Fold a piece of paper 12 times, <a href="http://www.metafilter.com/mefi/42977">she did</a>.<br />
+<br />
+<a href="http://www.metafilter.com/mefi/42963">This</a> would make a great movie.<br />
+<br />
+Even robots have to <a href="http://antwrp.gsfc.nasa.gov/apod/ap050620.html">stop and watch the sunset</a> now and then.<br />
+<br />
+<a href="http://www.boingboing.net/2005/06/20/selfgaming_video.html">Self-referential video</a>.<br />
+<br />
+<a href="http://www.boingboing.net/2005/06/22/vintage_telephone_ad.html">Vintage Phone Ads</a>.<br />
+<br />
+I pledge allegiance: <a href="http://www.boingboing.net/2005/06/21/star_trek_pledge_of_.html">or not</a>.<br />
+<br />
+Hmmm... time to <a href="http://www.boingboing.net/2005/06/21/anesthetics_spur_sex.html">go to the dentist</a>.<br />
+<br />
+Need a <a href="http://www.boingboing.net/2005/06/21/how_long_before_peri.html">handy list</a> of when perishables perish?<br />
+<br />
+<a href="http://www.boingboing.net/2005/06/22/dear_kansas_why_stop.html">A good response</a> to Intelligent Design.
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+by Tegan at <a href="#111950557905697218">10:45 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/06/thoughts.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111950557905697218&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111950557905697218" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111950557905697218&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111950483264915487"></span>
+<strong>The BBBB Breast Cancer 3-Day Benefit Drawing</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+Not much time left...<br />
+<br />
+&#10;<ul>
+<li>This will be a basic drawing. I will put the names in a hat and get a friend to draw them out.<br />
+</li>
+<li>For every $15 that you <a href="http://www.the3day.org/faf/r.asp?t=4&amp;i=61814&amp;u=61814-63361410">donate to the Seattle Breast Cancer 3-Day for me</a> I'll give you one entry.<br />
+</li>
+<li>Online donations must be made by July 7th.<br />
+</li>
+<li>In addition to your donation, you <em>must</em> <a href="mailto:tegan@eskimo.com?subject=3-Day%20Drawing">E-Mail me</a> (tegan@eskimo.com) with a subject line of "3-Day Drawing" and indicate that you want to be included in the drawing.<br />
+</li>
+<li>There will be multiple prize packages, which haven't been set in stone yet.<br />
+</li>
+<li>You can win multiple times (up to three times per person).<br />
+</li>
+<li>I will be paying for all shipping charges within the United States. If you do not live in the US, please contact me before entering.<br />
+</li>
+<li>The drawing will be held AFTER the 3-Day walk, probably on July 31st, to give me time to recover from The Walk.<br />
+</li>
+<li>The decisions of the judge (me) are final and cannot be disputed.</li>
+</ul>
+<p>Prizes so far (will be combined into prize packages):<br />
+</p>
+<ul>
+<li>Street Angel 1-5, including an autographed copy of the mini-comic<br />
+</li>
+<li>Egg Story<br />
+</li>
+<li>Ninety Candles (thank you Erin!)<br />
+</li>
+<li>Abadazad 1-3 Set<br />
+</li>
+<li>Bricktop A1 Special<br />
+</li>
+<li>The Dave Johnson Sketchbook<br />
+</li>
+<li>Codeflesh<br />
+</li>
+<li>Last of the Independents<br />
+</li>
+<li>The Couriers 02: Dirtbike Manifesto<br />
+</li>
+<li>Channel Zero: Jennie One<br />
+</li>
+<li>The Annotated Mantooth<br />
+</li>
+<li>Filler<br />
+</li>
+<li>Brath 7-13<br />
+</li>
+<li>Doctor Who #1 (Oct-84) and some other Doctor Who goodies<br />
+</li>
+<li>Some Superman books<br />
+</li>
+<li>A variety of Heroclix</li>
+</ul>
+<p>The goal of this project is to get enough donations that I can participate in the <a href="http://www.the3day.org/faf/r.asp?t=4&amp;i=61814&amp;u=61814-63361410">Seattle Breast Cancer 3-Day Walk</a>. I will still do the drawing even if I do not get enough contributions, but I'll certainly be happier about it if I do make my goal.<br />
+<br />
+Please feel free to promote this drawing elsewhere, on blogs or message boards (as long as it's on-topic, darnit. No spamming!). The more donations I get, obviously the more happy I'll be.</p>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+by Tegan at <a href="#111950483264915487">10:32 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/06/bbbb-breast-cancer-3-day-benefit_22.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111950483264915487&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111950483264915487" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111950483264915487&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111945268621822005"></span>
+<strong>Happy Birthday Bill!</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+Happy day to you and Inger and Bea.
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+by Tegan at <a href="#111945268621822005">8:04 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/06/happy-birthday-bill.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111945268621822005&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111945268621822005" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111945268621822005&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Tuesday, June 21, 2005 <span id="111937883823259429"></span></p>
+<strong>The Library of Graphic Novelists</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+The Rosen Publishing Group recently published six books in "The Library of Graphic Novelists". I checked out the five of them that my library system had purchased (and made a complaint that they hadn't purchased all six). Here's my thoughts on the books.<br />
+<br />
+The format is fairly simple. Each book covers the life of a comic book creator in a style clearly meant for young or middle readers. There's a solid glossary, index, and bibliography in each book, as well as a list of selected works and awards and lists of where to go to find more information. I particularly liked seeing a nicely used method of citing from websites (website name, article name/date/author, retrieval date, URL in parenthesis). Each book also has a table of contents.<br />
+<br />
+Most of the books were written in a loose style that tended to repeat itself over chapters. You could pick up the book and open it to any chapter and get a full report on the life of that creator during the covered time period. Reading the books straight through, as I did, made the sections seem a little repetitive at times.<br />
+<br />
+The format of the books is stylish and simple. Hopefully it'll turn out to be timeless as well. The covers are very nice photos of the subjects, usually with comic book panels in greyscale filling in the background.<br />
+<br />
+The six creators they chose for the first run of the library are, to me, fascinating. Will Eisner and Art Spiegelman both seemed to be absolute obvious choices. Neil Gaiman a little less so, because he's known for so much more than just graphic novels. Joe Sacco was an interesting choice to me because I knew a couple of his works thanks to Steve Lieber's <a href="http://www.tangognat.com/eleven.htm">Eleven List</a>, although I'd heard of him before then. The same goes for Bryan Talbot, who I <em>only</em> know from the Eleven List. Colleen Doran seemed to come out of the blue for me, and my curiousity about why she was chosen in the context of the series has not been satisfied yet, because her volume was the one the library system didn't have.<br />
+<br />
+I started out with Art Speigelman's volume, and enjoyed it overall. I was not inspired to read any more of Speigelman's work after reading it, but I felt like I came out knowing a lot more about him.<br />
+<br />
+Joe Sacco was next, and his volume inspired me to look up Sacco's earlier work, including Notes From A Defeatist and War Junkie. After reading those two books I realized I probably wouldn't have read his later books if I'd seen those first, which means I would have missed out on some really good books. If you want to try Sacco's work, I recommend starting with Safe Area Gorazde.<br />
+<br />
+I then read the Bryan Talbot volume, which amazed me because the writer took a look at comic books from an entirely different viewpoint. The first two were somewhat america-centric, while this volume tackled comics from the Brit side. I felt my brain stretching a bit as I read it. Although I wasn't inspired to seek out more of Talbot's work, I definitely felt like I learned a lot from the book.<br />
+<br />
+Will Eisner was my fourth read, and it was a very difficult book to get through, but only because it was written right before his death and therefore the book talked about his current projects. Robert Greenberger wrote this volume, and it was a wonderful tribute to a living man. I found myself wanting to hunt down and read every issue of the Spirit after reading the volume.<br />
+<br />
+I finished off the series with Neil Gaiman, whose book certainly focuses on his work on Sandman. But it also hits other high points, some of which I didn't know about, like Black Orchid and Violent Cases. I definitely want to read more of Gaiman's comic book work after reading this, which is slightly ironic, as I'm a comic book fan but most of Gaiman's work I've read is his prose.<br />
+<br />
+Until the Colleen Doran book arrives from interlibrary loan, I'm afraid I won't be able to tackle that one.<br />
+<br />
+As a series, this is a great set of books. I think every library ought to have a copy, and I strongly encourage folks to check them out. These books were clearly meant for library use. I hope kids in the future will stumble over these and get a chance to read them and be inspired to check out the works mentioned in the books.
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+by Tegan at <a href="#111937883823259429">11:33 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/06/library-of-graphic-novelists.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111937883823259429&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111937883823259429" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111937883823259429&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Monday, June 20, 2005 <span id="111932620280144562"></span></p>
+<strong>Randomish Thoughts</strong>
+<p><span class="rss:item"></span></p>
+<div style="clear:both;">
+&#10;</div>
+I tried to write reviews, but I'm just not in a reviewy sort of mood at the moment.<br />
+<br />
+<a href="http://www.silverbulletcomicbooks.com/rage/111915431153595.htm">All The Rage</a> has some items of interest this week, including some bits about the leaked Global Frequency pilot, which has gotten a LOT of <a href="http://www.boingboing.net/2005/06/20/screenwriter_of_canc.html">attention</a>. There are some interesting comments about the new paradigm that bittorrent <em>could</em> allow, if studios would wake up and take full advantage.<br />
+<br />
+<a href="http://www.comicbookresources.com/news/newsitem.cgi?id=5436">Sales chart for May</a>, <a href="http://www.comicbookresources.com/news/newsitem.cgi?id=5447">DC solicits for September</a>.<br />
+<br />
+Dark Horse has an <a href="http://www.darkhorse.com/zones/wotw/wotw_popup.php?p=0">on-line Wars of the Worlds</a>.<br />
+<br />
+Tom Peyer lets us know about <a href="http://superfrankenstein.blogspot.com/2005/06/holy-jesus.html">Bibleman</a>.<br />
+<br />
+Have you been keeping up with <a href="http://www.girlgeniusonline.com/">Girl Genius</a>?<br />
+<br />
+<a href="http://blogs.msdn.com/larryosterman/archive/2005/06/17/430215.aspx">Larry Osterman</a> talks about Nathan's Laws of Software: 1) "Software is a Gas!" - Software will grow to fit the container, thus the proliferation of bloatware. 2) "Software grows until it becomes limited by Moore's Law" - If you don't know what Moore's Law is, go look it up. 3) "Software growth makes Moore's Law possible" - Software's expansion drives hardware's performance improvements. Makes sense. And lastly, 4) "Software is only limited by human ambition and expectation."<br />
+<br />
+<a href="http://www.variousandsundry.com/index.php?p=2765">Various and Sundry</a> directs us to color code charts on-line. Very useful for web design.<br />
+<br />
+<a href="http://www.metafilter.com/mefi/42877">Metafilter</a> links to some great on-line documents. Including the Constitution.<br />
+<br />
+<a href="http://www.azcentral.com/business/articles/0616brazil16-ON.html">Interesting article</a> about Brazil's escape from gasoline dependency. I recently read somewhere else that the environmental impact from using ethanol is worse than the impact of using fossil fuels, but I'm wondering if the writer took into account the fact that ethanol is a renewable resource? I'd be interested in seeing a real study on it.<br />
+<br />
+<a href="http://www.whatdoesthatmean.com/">What Does That Mean?</a> is a wiki of English idioms. A bit limited at the moment, but sure to grow.<br />
+<br />
+Boing Boing links to a <a href="http://www.boingboing.net/2005/06/19/roy_lichtensteins_so.html">Roy Lichenstein page</a> that shows the original comic art next to the Lichenstein copy.<br />
+<br />
+One puppy, <a href="http://www.boingboing.net/2005/06/20/one_puppy_six_legs_t.html">six legs</a>.<br />
+<br />
+My husband won't doubt <a href="http://www.boingboing.net/2005/06/20/orgasms_turn_off_par.html">this report</a>.<br />
+<br />
+The Starbucks logo was <a href="http://www.boingboing.net/2005/06/20/starbucks_mermaid_fr.html">originally dirty 15th Century engraving</a>. Follow the links to <a href="http://www.thesneeze.com/mt-archives/000273.php">an interview</a> with the FedEx logo creator, as well.
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+by Tegan at <a href="#111932620280144562">8:55 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/06/randomish-thoughts.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111932620280144562&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111932620280144562" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111932620280144562&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111931428056196570"></span>
+<strong>Entourage</strong>
+<p><span class="rss:item">Entourage episode two includes the agent, Ari, reading the script of Aquaman to Vince... "Fade in: Arthur Curry, AKA Aquaman, the heir to the throne of Poseidon is being placed gently on a barrier reef by his father...[other dialogue] <a href="http://www.imdb.com/name/nm0001825/">Andrew Kevin Walker</a> wrote it... [other dialogue] As Arthur's father stares into his son's eyes, he pours the Serum X..."</span></p>
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/entourage02_01.jpg" width="300" height="250" />
+<p>In episode three, Vince is getting convinced, particularly as he needs to buy a home. When Vince goes into the interview with Warner execs, he explains that he doesn't want to play a superhero, to which they respond: "We're not talking about making a comic book fluff movie here" "No, we want this to be a darker, grittier film" "Remember, this is the studio that did Batman." *giggle*<br />
+<br />
+Then they bring in the Aquaman suit.</p>
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/entourage03_01.jpg" width="250" height="310" />
+<p>Vince's response? "No way am I going to be on a 70 foot screen looking like an underwater Elton John!" Um, I am totally in agreement with Vince on that one. That is one ugly suit. I wouldn't wear anything like it, and I'm an Aquaman fan. But then, Vince doesn't actually fit the role of Aquaman, either...</p>
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/entourage03_02.jpg" width="300" height="225" />
+<p>Interestingly, at the end of the episode, Vince admits he liked the script. And then Ari drops the bomb on him: Warners really liked him, and they want to do back-to-back Aquaman movies, for a lot of money. Enough to get the dream home Vince and his entourage want. So Vince asks "Can you get me suit approval?" And then he agrees.<br />
+<br />
+<a href="http://realtegan.blogspot.com/2005/06/entourage.html">Episode One</a>.</p>
+by Tegan at <a href="#111931428056196570">5:34 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/06/entourage_20.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111931428056196570&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111931428056196570" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111931428056196570&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<span id="111929412868603070"></span>
+<strong>DC Solicits</strong>
+<p><span class="rss:item">Solicits are up, at least in one place, and the new Aquaman solicit once again makes me cringe and hope the story isn't as bad as the solicit makes it sound. I'm just not holding out any hope, though.</span></p>
+<a href="http://www.dccomics.com/comics/?cm=4143"><img src="http://www.eskimo.com/~tegan/aqua/pics/cvr2003/cvra434.jpg" data-border="0" width="200" height="300" /></a>
+<p>Where's Will Pfeifer when you need him? Come back Will! We miss you!<br />
+<br />
+The rest of the solicits should show up at the <a href="http://www.dccomics.com/comics/?dat=20050901">DC Website</a> later today.<br />
+<br />
+Update: Clicking on the cover will now take you to the solicit on DC's site.</p>
+by Tegan at <a href="#111929412868603070">11:55 AM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/06/dc-solicits.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111929412868603070&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111929412868603070" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111929412868603070&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr />
+<p>Sunday, June 19, 2005 <span id="111924068391914957"></span></p>
+<strong>3-Day Check-In</strong>
+<p><span class="rss:item">I just finished checking in for the 3-Day. I have until four weeks after the event to finish my fundraising, otherwise my poor abused credit card will have to handle the remaining $260 I have left to raise. I have some hope that folks will pull through and donate that remaining bit so I can rest easy, but I'm now completely committed to The Walk. I'm doing it. July 22nd through 24th, I'll be walking. And it's all because of you. Thanks for coming through for me, guys. And if you feel like making me even happier, please help with that last $260.</span></p>
+<a href="http://www.the3day.org/faf/r.asp?t=4&amp;i=61814&amp;u=61814-63361410"><img src="http://www.eskimo.com/~tegan/blog/blogpics/3daylogo.gif" title="Please Donate" data-border="0" width="176" height="192" alt="Please Donate" /></a>
+by Tegan at <a href="#111924068391914957">9:08 PM</a> Seattle time <a href="http://realtegan.blogspot.com/2005/06/3-day-check-in.html">- Permalink</a> <a href="javascript:HaloScan(&#39;111924068391914957&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=111924068391914957" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=111924068391914957&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span>
+<hr /></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td data-valign="top" width="25%"><table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td data-bgcolor="#b6b8fc">current</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://realtegan.blogspot.com/">Bloggity-Blog-Blog-Blog</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">archives</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="20050612-20050618.html">06/12/2005 - 06/18/2005</a><br />
+06/19/2005 - 06/25/2005<br />
+<a href="20050626-20050702.html">06/26/2005 - 07/02/2005</a><br />
+<br />
+<a href="2002Archive.html">2002 Archive</a><br />
+<a href="2003Archive.html">2003 Archive</a><br />
+<a href="2004Archive.html">2004 Archive</a><br />
+<a href="2005Archive.html">2005 Archive</a><br />
+</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#b6b8fc">other</td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td class="links"><a href="http://www.eskimo.com/~tegan/aqua/">My Aquaman Website</a><br />
+<a href="20021124-20021130.html#85318589">Why Aquaman?</a><br />
+<a href="sketch/index.html">Aquaman Sketchbook</a><br />
+<br />
+<a href="shop.html">Bookshop</a><br />
+<a href="supportsites.html">Support This Site</a><br />
+<br />
+<a href="rapidreviews.html">Rapid Reviews Index</a></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#B6B8FC"></td>
+</tr>
+<tr>
+<td data-bgcolor="#000000"><img src="bloggertemplate59_cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table></td>
+<td rowspan="2" width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td rowspan="2" data-bgcolor="#036303"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+<tr>
+<td data-bgcolor="#008000"><img src="blogpics/cleardot.gif" width="1" height="10" /></td>
+<td></td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,1617 @@
+---
+title: "Spring Break"
+source_domain: amasci.com
+source_path: ~vecna/spr_break.html
+order: 9545
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:17:42Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Spring Break
+
+*Source page: `~vecna/spr_break.html`*
+
+# Spring Break
+
+## by [Christine Morgan](mailto:vecna@eskimo.com)
+
+------------------------------------------------------------------------
+
+\
+Author's Note: Pandathaway was borrowed from "Guardians of the Flame."\
+For Tim, Christmas 1999.\
+
+------------------------------------------------------------------------
+
+\
+ 
+
+     He was going to study this time. Honestly.\
+     The curtains were drawn, casting the room into dimness relieved only by the\
+single glow of the enchanted lamp on his desk. His books were laid out neatly, his notes\
+were in order, and there would be no distractions.\
+     Even if his roommate returned to the suite they shared, which he wasnt supposed\
+to do until late, Harry had posted a sign on his bedroom door instructing that he not be\
+disturbed for anything short of Cataclysm.\
+*     Diplomacy in the Modern Era.* Fully three inches thick and heavy enough that\
+should he drop it on his feet, hed never need snowshoes again. Not that he needed\
+snowshoes now, here in temperate Pandathaway. Three solid inches of diplomacy.\
+*Volume I.*\
+     Dorian wept, Harry muttered, opening the tome to the marked page. He began\
+reading about shifting alliances and disputes in the provinces of Kyrios Entys within the\
+last hundred years.\
+     He was doing all right, some of the information actually sinking in, the direction\
+that his theme paper might go beginning to formulate in his head, when he turned a page\
+and found himself staring at a depiction of the Treaty of Ordropolis, which had involved a\
+double marriage, the son and daughter of one monarch to the daughter and son of another.\
+     The two brides were shown in traditional Entysan garb, which veiled them from\
+khol-outlined eyes to chin, but left their breasts bare. Their skirts hung very low on their\
+sweetly-rounded hips, and were of a sheer material that revealed their legs and even\
+hinted that they were wearing nothing beneath.\
+     The artist had captured the scene in exquisite detail. Lingering, some might note,\
+too much on the nubile girls (fourteen and sixteen, the caption read) and far less so on the\
+more elaborate outfits of their grooms and fathers.\
+     Looking at the inked images, Harry could practically smell their lotus blossom\
+perfume, hear the soft jangle of the bells on their earrings. He ran a finger down the page\
+and instead of vellum, imagined that he felt the satiny warmth of olive-toned skin.\
+     A prominent discomfort had arisen beneath the desk.\
+     *Study,* he reminded himself.\
+     His glance fell upon one of the grooms, whose dark hair fell over his forehead in a\
+wavy lock, whose foxlike features were not all that different from those Harry saw in the\
+mirror every day. Easy to picture himself in that mans place, lucky recipient of a lush\
+young bride. There was a suggestion of a glint in the mans eyes, a suggestion that the\
+artist had caught him thinking not of the holy vows he was supposedly swearing but of\
+the delights that would be awaiting him in his marital chamber.\
+     Harry slid into a daydream so vivid that he could detect the smoky tang of\
+incense, the strumming of sitars. In a marble-columned room, a round bed draped with an\
+Entysan tigerskin beckoned ... his hands unfastened a veil and showed him the lush lips of\
+his new wife, crimsoned and parted and beckoning ...\
+     Someone knocked on the door to the outer suite, jarring Harry from his daydream.\
+    He jumped and almost blushed, before realizing that he was safe and alone in his room\
+and not in class ... not like last time ...\
+     Another knock, louder. Harry shook his head briskly and turned to the next page.\
+Trade negotiations. Good. Dull as dirt. Just the thing to get his mind back on his studies.\
+     The outer door opened.\
+     Crays not here! Harry called, exasperated.\
+     Avast ye, Harry-me-lad! a rolling voice returned merrily. Where are ye\
+hiding?\
+     Howie? He shoved his chair back, caught the rear legs on the edge of the carpet\
+and almost went over, then hurried to his door. Howie, by the gods!\
+     They stared at each other across the sitting room, and burst out laughing in unison.\
+     You look --\
+     Ye look --\
+     Whats come of ye, cuz, yere dressed like a jester!\
+     Whats come of me? Look at *you*!\
+     Howie wore buff-colored pants, big black boots with downturned cuffs, and a\
+maroon greatcoat over a white ruffled shirt. His hair, black as Harrys but not nearly so\
+well-groomed, was tied back with a colorful scarf of red and gold, his face was half-\
+covered with a curly beard, and a silver hoop was seated firmly in one earlobe.\
+     Nice legs, Howie remarked snidely.\
+     Harry looked down and grimaced at the royal blue tights and goldenrod-hued\
+tunic, complete with crown-wearing dragon stitched on the left breast. All right, all right,\
+maybe I do look like a jester. But its the school uniform.\
+     Aye, I canna scarce believe it! To find ye here ... tis a sorry shame, cuz.\
+     Tell me about it! Harry beckoned, and they retreated into his room. Where, with\
+the door not only closed but locked this time, he dared to lift a floorboard and retrieve a\
+flagon of wine from the space beneath. If Id known you were coming, Id have gotten\
+some rum.\
+     Nay, Ive had rum aplenty to suit me, Howie laughed. For a while, betimes. So\
+what are ye doin here? When Id heard yed gone to a prep school, I thought mears be\
+deceivin me!\
+     Theyre still trying to convince me the Academy is right for me, Harry said,\
+pouring them each wine in blue ceramic mugs with the school logo on the side in gold\
+paint. My fathers still got it in his head that Ill follow in his footsteps.\
+     Arr, whens the man goin to learn? Is he thinkin that yer magical talentll just\
+sprout like chest hair as ye get older?\
+     Maybe, I dont know. All I know is Im stuck here, and its driving me mad,\
+Howie, it really is.\
+     Ye should have come to sea with me. In fact, why dont ye? Strap on yer sword,\
+grab yer money, and lets go! The *Pursuivant*s a fine ship. He puffed up and hooked his\
+thumbs behind the lapels of his greatcoat. And yere lookin at her second mate.\
+     Thats great news! Second mate, already!\
+     Aye, while yere whilin away yer days in this monks cell!\
+     Monks cell is right! I swear, Howie ... thats whats the worst about it! Do you\
+remember my birthday?\
+     When I took ye to the brothel? Aye, that I do.\
+     Ever since, its all I can think about.\
+     The brothel or the wench?\
+     Women. Girls. Romps in the sheets. Cant keep my mind on anything else. He\
+chuckled ruefully. Its gotten so bad that I sometimes wonder if Diana put a lust spell on\
+me as a prank last time I was home!\
+     Ahhh, Diana! Howie caressed the name. Shes growin up right comely, that\
+lass!\
+     Dont get your hopes up, or anything else for that matter, cuz. Shed just as soon\
+lightning bolt you as look at you.\
+     That may be. But yer sister dinna seem the type to cast that sort of spell on ye or\
+anyone. He drank deeply, then added, Mores the pity!\
+     I dont know whether Im lucky or damned that they keep us separate for classes.\
+Its bad enough seeing them on the campus and at meals; if they were right in the\
+classrooms, my grades would be even worse than they are. As it is, I start listening to the\
+teachers and the next thing you know, my minds a thousand miles away in a Symbyan\
+harem!\
+     Be that why yeve the window shut on such a bonny spring day?\
+     Howie pulled back the curtain and looked down on the triangular yard. Harrys\
+dorm was on one point, the other boys dorm was another, and the girls dorm was the\
+third. Each was on a hill, with paths sloping down to meet at Student Square in the center.\
+Student Square, a large ivy-covered brick building with white shutters and trim, housed\
+the dining hall, bookstore, a few shops, and the lounge.\
+     The day was bright and sunny, still weeks away from the sweltering summer yet\
+to come, and as the afternoon waned, the yard was full of students on their way back from\
+classes. Royal blue and goldenrod as far as the eye could see, the females in blouses and\
+mid-shin skirts instead of tunic and tights.\
+     I thought it would help me keep my mind on my books. For all the good it did.\
+Harry flipped back to the Entysan picture and Howie whistled appreciatively.\
+     It gets worse and worse, Harry continued. The other day, I was in economics\
+class --\
+     Howie interrupted with a noise of disgust. Economics! Gods save ye, cuz!\
+     -- and I was looking out the window, not really paying attention, and then the\
+Headmistress of Girls went by ... oh, Howie, you should see her ... she must be over\
+thirty, and she dresses as demure as can be, hair in a bun, spectacles, spinster-clothes with\
+their high collars and all ...but I was watching her cross the yard, and it was really windy,\
+and a gust caught her skirt and threw it clear to her waist.\
+     Aye? Howie grinned.\
+     Aye, and she had on stocking-belts as red as a succubus nipples and no knickers\
+at all, a pert and trimmed little bush between the most luscious pair of thighs youve ever\
+clapped an eye to ... I nearly burst right out of these damn tights! Thank the gods that they\
+make us wear such long tunics, or I never would have made it back to my room!\
+     Gilwans mighty horn! Why dont ye go out and get a piece, lad? Yere not six\
+blocks from Madame Delorrias!\
+     I know! From the library cupola, you can see Madame Delorrias! But we have to\
+get a permission pass to leave campus, and have it stamped when we get back, and the\
+bastards Truthsay us to find out where we went!\
+     Bollocks!\
+     They do!\
+     And ye put up with this? Sneak out some night!\
+     Oh, it gets better, my friend, it gets better. When we enroll, each of us gets a tidy\
+little tracking spell put on, that will alert them if we try to leave without a pass.\
+     Howie groaned. If Id known, Idve smuggled ye in a wench or two! And I\
+suppose theyve got ye Geased sos ye canna boff any o those bits o crumpet yonder.\
+He jerked his head toward the girls dorm.\
+     No, actually, they havent done that. But were not allowed to have visitors of the\
+opposite sex in our rooms, and theres precious few other places to go. Harry scowled\
+bitterly. And the rules are stricter for some than for others. My roommate, Cray -- short\
+for Crayton -- has girls in his room whenever he pleases, and no one says a word about it.\
+They turn a blind eye because hes the schools star grassball player --\
+     Howie made that noise of disgust again. Arse-grabbin snots, the lot o them!\
+     But me? The times Ive tried, Ive no sooner gotten a hand even close to Dorians\
+Garden when the Headmaster will have one of his inspections. Now all the girls know\
+theyre dogging me, and steer clear to save themselves the demerits.\
+     Doggin ye? Dinna get paranoid on me, Harry ... mayhap yeve just had a run o\
+bad luck.\
+     Or mayhap the fact that my grandmother is on the Board of Directors has\
+something to do with it.\
+     Och, blood-spattered hell! Howie spat. And the old bats still bound to keep ye\
+well under her thumb, is that it?\
+     Bad enough that Im a disappointment as a mage, but gods forbid I should do\
+something to tarnish the Ethelbald name!\
+     Yeve got to take the wheel o yer own life! Yere never goin to be what they\
+want to make ye, so all yere doin is makin yerself crazy tryin to please. When its plain\
+they dinna give a tinkers shit about ye.\
+     I know, I know. He drained his wine and poured another. But I keep hoping\
+that if I stick it out long enough, maybe this diplomat thing will work out. And then Id be\
+able to get away. Able to travel, see the world, meet kings and emperors and sultans --\
+     And their daughters.\
+     And their daughters, Harry agreed. Id be free.\
+     Ye could do that now. All ye have to do is get yerself one o those passes, tell\
+them yere going to run some errands in the marketplace, and neglect to mention that the\
+marketplace is in Dalanar or Ellia or Rakvi! A ship and the open sea, what more dye\
+need?\
+     Harry sighed. But it wouldnt be the same, going as a common sailor or even a\
+ships captain, as it would be going as the Pandathan Ambassador. If Im ever going to be\
+that, I cant afford to burn my family bridges. And if I left school, if I ran away, my\
+grandmother would make me wish Id gotten *Calaan* mad at me.\
+     Here be my prescriptions. First off, yeve got to get a good fuck or two. Clears\
+the mind. Then yeve got to decide which is more important to ye. Yer freedom and self-\
+respect, or playing kissy-bum with yer grandmother for the rest o yer bleedin life!\
+     Good advice. Wish I could take it. But I told you. Every girl on campus knows\
+that the Headmaster is keeping a close eye on me.\
+     Though yer spring break was comin up. Yell just have to spend it with me.\
+Well tour the brothels and taverns until yer balls are so drained that yell not be able to\
+get it up until Yuletide!\
+     Oh, gods, I wish! Harry said fervently. But Ive already got plans.\
+     And by the sour tone o yer voice, Ill warrant theyre not plans o yer own\
+devisin.\
+     No. One of my aunt Pigeons old friends has invited the family out to spend two\
+weeks at her estate. Dad cant go because of the Council, but Mom is taking me and\
+Diana. Two weeks with my uncle Charles, the most boring man in the world, and the sons\
+vying to dethrone him! Ill probably hear more about economics on my break than I did in\
+the entire last semester of classes.\
+     Yere doomed, lad. Still, maybe itll take yer mind off women. Howie paused,\
+thinking. Or ye could have yer frolics with the servant girls. Yeve done that before.\
+     My luck, theyll all be white-haired Dalnari grannies and crones with noses like\
+baling hooks.\
+     Ye know what they say about cats at night.\
+     Im not that desperate.\
+     Ye will be, if ye keep dating yer hand.\
+     And having to listen to Cray rattle his headboard with one beauty after another.\
+Its a wonder he has the strength left to play grassball!\
+     Howd ye get roomed with the likes o him?\
+     Lunari only knows. Harry rolled his eyes. Grandmother probably arranged it on\
+purpose just to get me.\
+     A floorboard creaked stealthily in the outer room, but before either of them could\
+react, Harrys door was flung open and the Headmaster stood there, glowering at them\
+with his pinched yellow-brown eyes.\
+     Mister Ethelbald! *Duh-rinking*!\
+     Harry belatedly tried to shove the flagon behind his back. Howie snatched it from\
+him and turned belligerently to face the old man.\
+     This be mine, and Ill thank ye to knock! Pah! A school, yed think people could\
+learn some bloody manners!\
+     Howie, dont! Harry winced.\
+     Yours, is it? I doubt that. I doubt it most strenuously.\
+     Headmaster --\
+     Is this the sort of guest your family would approve of, Mister Ethelbald?\
+     He is family, Harry pointed out. My cousin.\
+     Oh is that so? A black sheep and a blacker sheep. Most interesting. He rubbed\
+his hands together with a sound like lizard skin. Well, this *cousin* of yours needs to be\
+on his way now, else Ill be forced to take steps.\
+     Howie looked ready to take steps of his own, but Harry waved him down. Of\
+course, Headmaster. Howie, youd better go.\
+     Yere beaten, then, cuz. His expression of saddened disappointment cut Harry\
+to the quick. Theyve got ye for sure, and yell be suckin their bilgewater forever. But if\
+ye change yer mind, ye know where Ill be. He bit his forefinger insolently at the\
+blustering Headmaster and strolled out past him, the flagon of wine tucked under his arm.\
+     Harry wistfully watched him go, then took a deep breath and waited for his\
+demerits.
+
+\*  \*  \*  \*  \*
+
+     The supper hour had come and gone, but Harry hadnt noticed. Now, as he finally\
+pushed himself away from his desk, with the actual contents of the entire four chapters\
+hed been supposed to read burning in his memory, he was ready to write his paper.\
+     And starved.\
+     But it only took a glimpse down the hill to show him that the lights were off in the\
+dining hall. The lounge was open; he could even hear the music and see the shadows of\
+dancers moving past the windows. There, he could at least get a bowl of stew, but it\
+would also mean being surrounded by distracting girls. If he was going to get his paper\
+done, hed better just stay put.\
+     Luckily, he was prepared for such an eventuality. He went home for the weekend\
+twice a month, and his mother always sent him back with a care package. It was getting\
+down to the dregs now, but he was still able to scrounge up a quick meal of not-quite-\
+stale bread, cheese, and meat so thoroughly preserved that it would probably outlast him.\
+     Two more demerits. He didnt want to think about what his total was, but he\
+consoled himself with the knowledge that at the end of the semester, only a few days\
+away, his slate would be wiped clean and he could come back and start fresh after spring\
+break. He was still a few demerits away from more severe disciplinary action.\
+     He finished his meal, washed up, and stretched the kinks and knots out of his\
+back. Then he did a few practice lunges and ripostes, reflecting that even if he was getting\
+nothing else out of school, his fencing was already improved. Too bad there wasnt a\
+prosperous living to be made as a duelist.\
+     Fed, limbered, and more relaxed, Harry sat back down and started working. He\
+whispered to himself as he did; talking came so much more naturally than writing! If only\
+he were allowed to present his homework orally!\
+     He was on the third page and just getting warmed up when he heard a key rattle in\
+the outer door.\
+     Oh, perfect.\
+     Cray was back early, probably sneaking in another girl. He could look forward to\
+another concert of giggles and moans, the Creaking Bed Duet.\
+     Hello?\
+     Even though it was barely above a conspirators whisper, Harry recognized the\
+voice. Sherla, Crays most recent conquest. He summoned up a vision of her -- rich\
+golden hair, heart-shaped face, lovely legs.\
+     It would be rude not to answer, even though she sure wasnt looking for him.\
+Harry opened his bedroom door.\
+     Hello, Sherla ... Crays not home.\
+     The moment he saw her, he knew something was wrong. She was too tense, even\
+for a girl whod just snuck into one of the boys dorms alone. And her big blue eyes were\
+puffy, red-rimmed.\
+     Plus, as he spoke, she jumped and guilt screamed across her features.\
+     I ... I ... didnt think anybody was here, Sherla said, inching back out the door.\
+     Harry frowned. I thought you and Cray were going to the new illusion-show over\
+at the Academy tonight.\
+     Emotion brought a pink tinge to her cheeks. He stood me up.\
+     He gaped at her. Why? Cray, miss a date?\
+     Oh, Im sure he kept his other date. She bit off the words sharply.\
+     Uh-oh. Hed always expected this would happen sooner or later. At any given\
+time, Cray had from three to six girls on the string, and each of them thought she was his\
+one-and-only. Amazing, the things a fellow could get away with when he had bronzed\
+good looks and a build like a marble statue.\
+     He could have covered it up. Could have convinced her. Cray would have owed\
+him one.\
+     But why? Cray was a strutting self-important bastard of the purest ray serene, and\
+would never acknowledge, let alone repay, any debt to Harry.\
+     In that case ...\
+     Oh, thats right, Harry said easily, with a wide winning smile. Tonight was\
+Loresa!\
+     *Loresa*! I knew it! That rotten no-good --\
+     Shh! He motioned at the open door. The Headmasters already been at me once\
+today; if he finds you in here, hell bite my head off and spit it into the harbor.\
+     Sherla shrugged angrily. I passed him in the hall. He knew I was coming to\
+Crays room. It didnt matter.\
+     Of course. His mouth went sour as curdled milk.\
+     Loresa. What does he see in *her*?\
+     Harry made it look like he was in the know but choosing not to say.\
+     What? You have to tell me, Harry!\
+     Sherla, hes my roommate, I dont want to get involved. I mean, sure, I hear\
+things from time to time, and hes always talking about his various girlfriends -- He\
+widened his eyes at what sounded like a slip.\
+     She closed the door behind her and came toward him. Various girlfriends. What\
+kind of things does he say?\
+     I ... Ive said too much already. He backed toward his room.\
+     Please! I have to know!\
+     Well ...\
+     Please!\
+     About Loresa, at least ... He cast about in his mind ... what was it about Loresa?\
+She was another blonde, Cray was limited in his tastes, but ... Shes kind of got a\
+reputation. I guess Cray thinks there are things shell do that ... that you wont.\
+     Like what? she demanded.\
+     All the nights hed listened to them through the walls ... but there had been\
+something, hadnt there? He distinctly remembered ...\
+     Something he always begs you to do.\
+     Her mouth dropped open and she covered it with one hand. And Loresa does?\
+Oh! Oh, that slut, that tramp, that trollop!\
+     Now Harry was really wondering! All hed heard were Crays whining pleas of\
+come on, Sherla, just once, we can stop if you dont like it.\
+     Plus, he ventured onward, remembering another difference between the girls.\
+Shes ... no, never mind.\
+     Shes what? What? Please, you have to tell me!\
+     Why? Sherla, Im sorry he stood you up, but what good does it do to get wound\
+up about it? Its just the way he is. None of his other girls are upset.\
+     How many does he have?\
+     Gods, I am really making a mess of this! Harry feigned being distraught, ran a\
+hand through his hair. I just figured all of you knew, and none of you minded. I had no\
+idea --\
+     How many?\
+     Four, I think.\
+     Four! She held onto the back of a chair for support. Four! But he told me ... he\
+gave me his spare key! Held up beseechingly.\
+     His brothers a locksmith, Harry said. Hes got a drawerful of spare keys.\
+     Her fist curled around it so hard he bet shed be seeing the reddened imprint there\
+tomorrow, then she hurled it against the wall to Crays room. That snake! He lied to me!\
+Well, its for the last time! I am *through* with him!\
+     Im really sorry. He hung his head and looked miserable. I always thought you\
+were the prettiest one. Smartest. Nicest. Too good for him. A shame he couldnt see how\
+special you were. That hed let you get away just because of a set of --\
+     A set of what?\
+     He couldnt meet her eyes, abashedly motioned toward her bosom. Saw the\
+realization dawn on her just what feature Loresa had that was superior to hers.\
+     But shes *huge*! Freakishly so! She looks like a great big milk cow! And the way\
+she wears her blouses ... she tailors them to be too tight, you know!\
+     Oh, he knew, every male on campus knew.\
+     So thats it, Sherla fumed. A pair of melons and a ready mouth and hell go\
+arunning!\
+     *Aha,* Harry thought. *Thats what he was begging for.*\
+     But if you suspected he was out with someone else, he ventured, why did you\
+come looking for him?\
+     That scream of guilt crossed her face again, and she pulled a short-bladed knife\
+and a paint-pen from her skirt pocket. I was going to ...\
+     Trash his room? Harrys eyebrows climbed in astonishment.\
+     She nodded.\
+     Getting back at him like that wont help.\
+     Why not?\
+     Hell laugh. Hell say, look how upset I got her. Ive seen it before, he\
+admitted. Theres got to be a better way. How he did love a good gamble ... now it was\
+time to see if this one would pay off.\
+     Sherla bowed her head, then looked up at him, and in his mind Harry heard the\
+tumble of gold coins -- jackpot! Do you think Loresas are better than mine?\
+     He laughed with a hint of embarrassment. I ... I wouldnt know. I mean, hers are\
+right out there for all the world to see, but otherwise, those blouses they give you girls\
+kind of leave everything to the imagination.\
+     Oh. She slipped the top button, and Harry stared in an incredulity that was only\
+partly feigned. Another button. And another. Now the upper swells of her breasts were\
+visible, and the beginning of her cleavage.\
+     Um, Sherla ...?\
+     I asked you a question, Harry. A fourth, then a fifth, and she paused to untuck\
+the hem of her blouse from her waistband. The fabric yawed open as she moved, giving\
+him an eyeful of luscious flesh nestled within a pale blue silken chemise.\
+     He cleared his throat. I ... I can see enough now to be sure of one thing. Theyre\
+beautiful. *Youre* beautiful.\
+     She let the blouse fall from her shoulders. Her eyes were blue and cold, the eyes\
+of revenge, exactly as hed hoped.\
+     Better than Loresas?\
+     Like you said, hers are too big. But, um ... you really shouldnt be ... um ... doing\
+that.\
+     Why not?\
+     I may not be known as a campus cocksman like Cray, but I am only human. He\
+coughed and averted his gaze, tugged at his tunic as if trying to cover the swelling there,\
+drawing her attention to it precisely as planned. I cant help ... reacting.\
+     Are you scared of me, Harry?\
+     No, scared, nah, not me. He produced a shaky laugh.\
+     Are you my friend?\
+     Of course I am!\
+     Then youll help me?\
+     Help you what? Trash Crays room? No, I cant, I --\
+     No, youre right. That wont do. But I still need help. He made me feel so bad, so\
+terrible, worthless. I need to know if Im pretty.\
+     You are, he assured her in complete honesty.\
+     She stepped toward him, reaching for the ties that held her chemise closed in\
+front. I need to feel good about myself.\
+     He stammered, watching avidly as she bared herself to the waist. He hadnt been\
+lying, her breasts were beautiful. This was going better than his wildest hopes, but how\
+far did he dare to push it? A single misstep would be catastrophic.\
+     Id like to help, he said, swallowing so that his throat clicked audibly. But what\
+... what can I do?\
+     Touch me, she invited, almost pleaded. Make me feel pretty.\
+     Harry started to oblige, then stopped as if struck by a sudden thought. Youre not\
+using me to get revenge on Cray, are you?\
+     Certainly not! she lied, and he inwardly smiled in satisfaction.\
+     Because I wouldnt want to do that to him, he said. We may not be the best of\
+friends, but he is my roommate. I ... I wouldnt want you to feel like you were getting\
+back at him through me. Or even ... doing anything you dont want to because it might\
+hurt him.\
+     He saw the light rise in her eyes, but she said, This isnt about Cray. She took\
+his wrists and pulled him toward her.\
+     Ah, Dorian, he murmured, letting himself be pulled, letting her guide his hands\
+to cup the twin globes of her breasts.\
+     Her back arched and she uttered a little gasping sigh as he gently brushed his\
+thumbs across her nipples. He let the reluctant-adolescent act fall away and sought her\
+lips in a compelling kiss.\
+     Sherlas mouth opened in surprise and he thrust his tongue into it before she could\
+voice a protest. One of his hands stole around to the small of her back to hold her against\
+him, the other massaged her breasts more urgently. Hers fluttered by his elbows as if she\
+wasnt sure what to do with them.\
+     He sensed her startled indecision, her sudden worry that she had gone too far and\
+gotten more than she bargained for, but then her body shivered and she pressed herself to\
+him with a low moan. The previously undecided hands encircled his neck.\
+     Their kiss broke and he moved to her jawline, her earlobe, finding the sensitive\
+spots and nibbling at them.\
+     Oh ... oh ... Harry, what ...?\
+     So beautiful, he whispered, inching down to her collarbone, then further.\
+     Her fingers curled in his hair, tightening, as if to stop his progress, but\
+halfheartedly. When he reached the tip of her breast and drew it gently into his mouth,\
+even that token protest stopped and she held his head as if she might never let go.\
+     The uniform skirt was secured by a series of small clasps. Harry undid them so\
+deftly and without ceasing any of his other activities that Sherla didnt notice what was\
+happening until the skirt puddled to the floor and left her in knickers, stockings, and belt.\
+No succubus-red here; the school colors of blue and gold continued even to these\
+garments.\
+     Harry knelt with fencers grace, sinking slowly so that his lips could kiss a path\
+from breasts to navel -- a dart of his tongue there made her giggle through her moans -- to\
+the upper edge of her knickers. They were pale blue and sheer, fitting snug against her\
+hips and lower belly, puffing out over a mound cushioned by a lush patch of dark blonde\
+hair.\
+     This, he could tell, was something she hadnt counted on. Fully prepared to do\
+what she must to avenge the slights dished up by Cray, but she hadnt considered the\
+prospect of her own arousal. He read it in the rosy flush on her pale skin, the taut points\
+of her nipples, the sweet perfume of her musk.\
+     The complexity of womens underclothes could confound many a man, but Harry\
+divested her of them with ease.\
+     Sit down, he urged.\
+     She did so, moving like one in a dream, on the narrow couch. Her eyes, meeting\
+his, were swimming with surprised longing.\
+     You ... I never thought you would ...\
+     Shh. He parted her knees and knelt between them, running his tongue along her\
+inner thigh.\
+     What are you doing? she breathed.\
+     He paused and raised his gaze back to hers. Didnt Cray ever ...?\
+     Ever what?\
+     Kiss you here. His hand settled lightly on her mound, the hair crisp and soft\
+beneath his palm.\
+     She shook her head slowly. Ive heard some of the other girls talk about that, but\
+I never believed them. But he ... he wanted me to ...\
+     Let me kiss you here. Please. You dont have to do anything for me unless you\
+want to, just let me do this for you.\
+     Youre ... so different now!\
+     His fingers moved lower, finding damp heat. Will you let me?\
+     By way of answer, she let her head fall against the back of the couch and her legs\
+relax apart. He bent and breathed of her scent, then opened her folds with his thumbs and\
+brought his tongue to her tender center.\
+     She exhaled in a long sighing, Ooohhhhhh, that contained a world of wonder.\
+    He kept on, gently lapping as he inserted two fingers deep into her channel to probe and\
+explore.\
+     Soon Sherlas fingernails were scratching convulsively at the cushion, her breath\
+heaved and her hips writhed, but the few cries she made were the low and muffled ones\
+of a girl accustomed to the risk of being caught.\
+     When the final treasure of Dorians Gift was finally hers, she trembled all over\
+and her inner flesh clasped at his fingers in a way that made his heartbeat race even faster.\
+     He pillowed his head on her thigh and waited with a smile -- a rather smug smile,\
+he had to admit -- as she rode out the waves.\
+     Oh by the gods, she panted. That was ... oh!\
+     Thank you for letting me, he said. Did it help?\
+     Help? She blinked, then remembered. Yes. Very much. Ive never felt\
+prettier.\
+     Youve never been prettier.\
+     It was the truth, nothing was lovelier than a woman in the afterglow of rapture,\
+unless maybe it was a woman on the very fringe of reaching it.\
+     He made sure she saw the passion warming his eyes. Now was when she should --\
+     But what about you? That cant have done much for you.\
+     On the contrary, it gave me a great deal of satisfaction.\
+     Dont you want more?\
+     He chuckled self-deprecatingly. I wouldnt refuse, but I dont want you to feel as\
+if I expect it.\
+     I want to, she declared as if she had just convinced herself of it. Let me return\
+the favor, Harry, please.\
+     He let some of his confidence fall away, replacing it with a bit more of the unsure\
+youth routine. You mean ... you cant mean ...?\
+     I do mean that.\
+     If youre sure ...\
+     I am. She unlaced the collar of his tunic. But youll have to help me take this\
+silly thing off; Ive never been able to do it very well.\
+     Happy to oblige! He shed the tunic as she slid onto the floor beside him.\
+     I never noticed before how nicely made you are, she said, skimming her hands\
+over his chest and stomach.\
+     He refrained from remarking about how girls like her were too busy swooning\
+over the behemoth-sized grassball players to pay any attention to other sports, only\
+shrugged as if he was a little embarrassed and enjoyed her caress. The bulge in his tights\
+was straining its outline unmistakably against the thin fabric.\
+     No, I never did notice, Sherla murmured as she ran one fingertip along the rigid\
+length. Lay back, Harry, let me get you out of these tights before you split them.\
+     He complied most readily, stretched out on the rug as she knelt over him with her\
+hair swinging in golden waves around her breasts. She rolled the tights down and off.\
+     His rod, freed from confinement, sprang up stiffly from its thick black nest. Sherla\
+took hold of it, and began to rub with excruciatingly pleasurable skill. Cray might have\
+found her lacking in some respects, but Harryd often heard him boasting that what she\
+could do with her hands alone would put a high-priced whore to shame.\
+     The sensations swirled through him and he had to struggle not to give in to them.\
+    So long since anyone but himself had touched him there, and his body was in a frenzy,\
+but he didnt want it over too soon. Wanted to savor it, make it last, because gods knew\
+when hed get another chance!\
+     Sherla bent down with her face twisted into a little grimace, as if braced for\
+something foul but determined, for her revenge, to carry it out. Her lips brushed the tip,\
+her tongue flicked out for a quick sampling taste. Then a longer one. He groaned\
+helplessly as smooth, warm, wet pressure slid over-under-around the head.\
+     He saw it in her eyes. Her new awareness of two things -- that it wasnt at all what\
+shed expected, and that he was utterly in her power. Then a cunning glint that told him\
+she was going to apply herself to this task as shed never applied herself to anything\
+before, that she was going to do her all to make it something that Harry would never\
+forget ... and by extension, strike back at Cray because he would never experience it\
+himself.\
+     Oh, and she did. The practiced expertise of her hands was quickly adapted, and\
+Harry nearly had to put a pillow over his face to stifle his cries as Sherla proceeded to\
+give him the best mouthplay of his life.\
+     Not even thinking of economics could forestall the inevitable for long. He held\
+onto her head as it bobbed up and down, his muscles tensing, his jaw clenched, a ribbon\
+of fire winding through his body to collect in his loins ...\
+     A key in the lock.\
+     What hed subconsciously been waiting for this entire time. They could have gone\
+to his room, he could have coaxed her to, but he hadnt. A daredevil trait, some might say\
+suicidal, because he *wanted* Cray to catch them in this act of all acts.\
+     The door opened and Cray was there, one arm looped around Loresa so that his\
+fingers were hidden inside her gaping blouse. They were both drunken and laughing and\
+shushing each other, and just as their expressions were blasted into shock, Harry quit\
+trying to hold back.\
+     Sherla hadnt heard, hadnt seen. She started as the first jet of his fluid filled her\
+mouth, then redoubled her efforts, throat working smoothly as she drained him of what\
+felt like a years worth of pent-up passion.\
+     Harry couldnt keep from crying out this time, so he made sure it was not loud but\
+incredibly intense, the sort of soul-wrenching end-of-the-world cry that would make any\
+red-blooded male wonder what in the name of the gods a woman could do to make a man\
+sound like that, like he was dying from sheer ecstasy and was happy to go.\
+     In that instant as his limbs were slowly melting to quaking masses of jelly and\
+sparks seemed to race along every nerve, Harry figured that this was worth the beating he\
+was probably about to get. Take that, Crayton Oakwood IV, you stone-brained son of a\
+bitch!\
+     Sherla raised her head and ran her tongue across her lips, power and pride and\
+accomplishment all shining from her like rays of light.\
+     Cray made a noise, somewhere between a rooster getting its neck wrung and a\
+teakettle reaching the boiling point. His face was so clogged with blood that Harry\
+wouldnt have been surprised to see his head explode.\
+     Hearing that noise, Sherla turned, and saw, and froze.\
+     Harry sat up. All he really wanted to do was lay there a while longer basking in\
+the relief and contentment of the moment, but he reasoned that his skull being about the\
+same size as a grassball and conveniently there on the floor might make Cray try to kick it\
+through the window for a home-team goal.\
+     Loresa, no fool, ducked out from under Crays arm and sidled down the hall. Cray\
+didnt even notice her leaving, his gaze fixed in disbelieving rage on Sherla.\
+     Somehow, Harry thought, I doubt this is quite how Dorian intends for us to make\
+use of her Gift ...\
+ 
+
+\*  \*  \*  \*  \*
+
+     Fighting with your roommate, eh? Harold Ethelbald Senior said, arching his\
+iron-grey brows as he studied the sheet of parchment.\
+     Is that all it says? Harry reached, but his grandfather whisked the sheet away\
+with a quickness that belied his age.\
+     What else might it say?\
+     Nothing about ... girls?\
+     You had girls in your room?\
+     Let me see that! Come on, Grandfather, please!\
+     This time the older man relented, and Harry read over what the Headmaster had\
+written. No mention of Sherla or Loresa or the reason that he and Cray had managed to\
+turn their entire fourth-floor suite into a shambles and land themselves in the campus\
+infirmary.\
+     That ratty old whoreson, Harry grumbled. Wasnt about to get Cray in any\
+more trouble.\
+     Why dont you tell me what really happened? The steel in Harold Seniors eyes\
+made it not really a request.\
+     Are you going to tell Grandmother?\
+     Pfffff, boy! Do you think Ill need to? This nonsense -- he thwacked the\
+parchment with a limber finger, -- might go in your records, but you can bet your\
+backside that shell have even more details than you give to me, all that before we get\
+home.\
+     But if this is the official report, Harry said, then I only earned ten demerits.\
+     Only, he says.\
+     Rather than the fifteen it would have been for having a girl in the room. Which\
+means I wont get expelled from school.\
+     The way youre carrying on, my boy, it looks to me like youre trying for it!\
+     Harry chewed the ball of his thumb. Not intentionally ...\
+     No, but youve got a self-destructive streak in you. He snorted. Must be one of\
+those things that skips a generation; your fathers as straight an arrow as they come.\
+Which means your sons will be too, but youd better watch out for your grandsons!\
+     But could you blame me? I have never liked it here. Look at me, Grandfather.\
+You know Im not Academy material. Ill never sit on the Council like they want. Dianas\
+got the talent, so why do they keep after me?\
+     Maybe you should ask them.\
+     I have, he said glumly. I dont even think they know. But if they let me out of\
+their sight for a single minute, they think Ill wind up the most notorious scoundrel in all\
+of Andur.\
+     That youll take after me, in other words, the old man laughed. Chin up, boy.\
+Youll have to eat a plateful of grief for todays escapades, but like you said, you didnt\
+get expelled. So you havent thoroughly disgraced the family. They wont be too hard on\
+you. Besides, you look like youve been run over by an ale wagon, so they might even\
+take pity on you.\
+     Harry just looked at him, knowing full well that his grandmother didnt take pity\
+on a living thing. She didnt go out of her way to kick starving orphans, but by now they\
+knew enough to scramble out of her path when they saw her coming.\
+     Hows the other fellow look? Harold Senior asked. Has he got a shiner to\
+match yours?\
+     Two, Harry said proudly. Cray may be fast on the grassball field, but his idea\
+of a punch is a roundhouse that makes the air whistle. All I had to do was step aside and\
+hed pull himself halfway around in a circle. Then Id pop him. He called them sissy\
+punches, until I broke his nose.\
+     Thats my boy! he cheered, then hushed as the school nurse -- a dour old\
+drayhorse whose lumpy potato figure and gargoyle face had instantly squashed any\
+budding daydreams Harry might have harbored about attentive bedside care -- scowled\
+menacingly at him. Now, then, howd you get into it with him anyway?\
+     Harry sighed and fessed up, doing his best to make it sound like what it appeared\
+to be: Crays jilted girlfriend seeking to get back at him by throwing herself at his all-too-\
+human roommate. He didnt go into detail, either about precisely what Cray walked in on\
+or how he had manipu -- no, *encouraged*, subtly encouraged, that was a better term --\
+Sherla into anything.\
+     And hed been right; in the end, their encounter had been more than worth it. Hed\
+soon forget the crunch of Crays fist when his one lucky blow had connected, but the\
+memory of her mouth would follow him the rest of his days.\
+     Damn me, but I wish I were young again, his grandfather chuckled. Not that\
+Id trade my life with my family for anything, you understand.\
+     Harry didnt understand; the man sitting before him had been married to Charlotte\
+Ethelbald (nee Sinclair) for better than fifty years, and there were probably men\
+condemned to a life sentence in the deepest prison pit in Pandathaway who, given a full\
+explanation and a chance to meet the lady in question, wouldnt trade with him.\
+     How come you came instead of Grandmother? he asked.\
+     I was home when the message got there. Harold Senior shrugged. Down in my\
+workshop, you know. She was off at one of those charity suppers, to raise money for\
+something or another. Involved with a lot of causes, is your grandma. Thought Id better\
+take care of this myself, because if they pulled her away from it or your father away from\
+his enchantings, youd be in even hotter water than you already are.\
+     Thanks, Grandfather.\
+     But you tell them that I scolded you so fierce that you think youre going to have\
+blisters, have you got that? Probably wont make them be any easier on you, but miracles\
+happen now and again.\
+     He can go now, the nurse informed Harold Senior. Poultices and some\
+willowbark are in this bag; heres a list of local chemists, herbalists, and alchemists if he\
+needs anything stronger.\
+     What, no healing spells?\
+     She sniffed. Our policy is to reserve magical healing for serious injuries.\
+     In other words, Harry said, they think I deserve it and theyre going to let me\
+suffer. I bet Crays not getting a bagful of poultices and being showed the door. Big game\
+this tenthday, after all.\
+     The nurse chilled him with a look, then turned to his grandfather. If you wish to\
+pursue further treatment on your own, thats up to you.\
+     Might just, Harold Senior said. Come along, boy. You didnt get expelled but\
+you did earn yourself a three-day suspension, so that means the semesters over.\
+     What? Harry grabbed the parchment again, read the rest, and with a\
+monumental effort of will was able to avoid cursing his heart out. When that battle\
+passed, he shook his head wearily (the motion causing a hitherto unsuspected herd of tiny\
+pains to stampede over him) and sighed. Well, I guess I dont have to worry about\
+finishing that paper.\
+     His grandfather eyed him craftily. Think so?\
+     He thought about it and grudgingly admitted, No. Suspended or not, theyll want\
+me to hand in all my assignments.\
+     Harold Senior slapped his own knees and stood up. Come on, then. Lets get\
+your things together and see you home.
+
+\*  \*  \*  \*  \*
+
+     The next two weeks seemed stretched out before Harry like a prisoner on a torture\
+rack.\
+     He began the holiday squashed into a coach with his mother and sister, aunt and\
+uncle, and one of their sons (the other son, Aeric, being the youngest, had to ride up with\
+the driver).\
+     Squashed into a coach, his cousin Chas' elbow digging into his ribs, the swaying\
+motion making his lunch churn gruesomely in his stomach, sweltering despite the cooling\
+spell the driver had cast.\
+     And it was only going to get worse from here.\
+     This will be so nice, Joanna Ethelbald said, smiling at her children. Its been\
+too long since weve visited the country.\
+     Diana glanced up from her book and returned the smile. Yes, Mother.\
+     Dont you agree, Harry? she hinted.\
+     Yes, Mother. His reply was far more hollow than Dianas.\
+     It will be good to see Rheda again, Aunt Pigeon said. And so good of her\
+husband to welcome us!\
+     How long have they been married now? Joanna asked.\
+     Harry looked out the window and listened with half an ear to their discussion of\
+Anson Byrtwold, the Southern Barony horse breeder. Man was said to have one of the\
+finest stables in western Andur, but he attributed his success to the fact that his estate was\
+located several miles from the nearest town with all of its distractions.\
+     Harry could ride, but it was something he saw more as a necessary transportation\
+evil than something to be pursued for fun.\
+     He already knew how it was going to go. His mother and aunt and his aunts old\
+chum would cloister themselves in the tea room and get tiddly on apricot cordial,\
+munching petite triangular sandwiches, talking about old times and new gossip and the\
+latest developments in Pandathaways famous chapter-plays. Lord Byrtwold and Uncle\
+Charles would fall naturally into discussions of business, with the cousins joining in,\
+because while both of them might be younger than Harry, theyd been born as old misers.\
+     That would leave Harry with only Diana for company, and anyone who took\
+*Theoretical Applications of Enchantment Magics* to read on the trip was not going to be\
+lively company.\
+     When theyd been younger, his little sister had been a pesky nuisance always\
+wanting to tag along and tattle when he and Howie were up to mischief. Recently, as their\
+father realized that Harry was showing no signs of turning into a dedicated mage, hed\
+devoted more of his attention to Diana, and she in turn had seen that there was one area in\
+which she could outshine her big brother.\
+     He wouldnt even have his own schoolwork to help pass the time. Under\
+Grandmothers eagle-eyes, he had completed his paper, taken three tests, and delivered a\
+presentation. All was in order for him to return to classes at the end of the break, albeit in\
+a different room. And wasnt it so terribly convenient that the only other room open in the\
+entire dorm was the one just two doors down from the Headmasters own quarters?\
+     Trapped. Howie was right. Oh, sure, in his own way Howie was just as bad as the\
+rest of the family, trying to push Harry into being and doing what he wanted Harry to be\
+and do; in that respect, Howie wasnt all that unlike Grandmother. But at least the things\
+Howie suggested were exciting, adventuresome. Things suited for a hot-blooded young\
+man.\
+     He smothered a sigh. Here they were in the Southern Barony, where if the tales\
+were true the young women pranced along the beaches in skintight knickers and a grin,\
+their tanned bodies glistening beneath a coating of sun-oil. But he wouldnt be seeing any\
+of that, oh, gods no, perish the thought!\
+     Mother and Aunt Pigeon were still talking about the wedding. What Harry\
+recalled most clearly about that big stuffy affair were itchy clothes, a droning ceremony,\
+sharp pinches on his arm whenever he fidgeted or was on the verge of falling asleep, and\
+getting bullied by the grooms son from his first marriage.\
+     And of course Othelia will be there, Aunt Pigeon said. Do you remember her,\
+Diana? Oh, you two were so darling in your matching flower girl dresses!\
+     Harry hid a yawn behind his hand and tried to think. Othelia? Ah, yes, the brides\
+daughter from her first marriage. Dianas age. Wasnt that a treat? Even Diana, the\
+bookworm, would have someone to talk to. Or maybe if Harrys luck was really in, the\
+Byrtwold boy would be there too, ready to give Harry another orc-burn.\
+     No, that was all in the past. Drefan Byrtwold was a couple of years older than\
+Harry, which meant that anyplace in Andur except for civilized Pandathaway, hed be\
+considered an adult. Harry considered himself a fairly good observer of behavior, and\
+could not think of a single instance in which hed seen one grown man give another an\
+orc-burn.\
+     They stayed at an inn that night, and either the dinner of chicken-in-cream sauce\
+or the way Mother and Aunt Pigeon gushed over how charming the place was made\
+Harrys already unsettled stomach cramp up on him mercilessly.\
+     He retired to the room he had to share with his cousins without even a backward\
+glance at the serving girls, even though one of them had been well worth a second or third\
+look.\
+     The next day was better, bringing a smoother road and a cool wind washing in\
+from the ocean. Harrys appetite improved, though his spirits remained low.\
+     Soon the road left the beach and curved up into the higher country, a land of\
+grassy plateaus and stands of cottonwood trees. Weathered old posts and the remains of\
+rambling stone walls rose among wildflowers like remnants from some fabulous,\
+forgotten society. The hint of seaspray on the air was weaker, elusive.\
+     Byrtwolds estate was unimaginatively named The Cottonwoods. It was set far\
+back at the end of a long meadow, the road running straight up the center to the covered\
+porch. Fences lined the road, and dozens of horses tossed their maned heads curiously,\
+nickering to their brethren pulling the coach as they went by.\
+     Arent they lovely! Diana gasped. Like many girls of her station, shed gone\
+through a phase in which shed been fascinated with horses, but never so severely as\
+some of her silly young friends.\
+     The house was spacious and unpretentious. It lacked the columns and fountains so\
+popular in Pandathan architecture. The walls were thick to keep out the heat and the\
+windows were wide to catch the breeze.\
+     To one side of the house, a massive tree stood alone and covered with blossoms\
+just beginning to give way to fruit. A swing suitable for two people hung from one of its\
+sturdy lower branches, and Harry spotted a brindle cat sprawled across the seat.\
+     The coach creaked to a halt, and the Ethelbalds clambered gratefully out. The\
+front doors -- two of them, painted white and inset with ovals of stained glass that showed\
+a rising sun and a crescent moon -- opened and a host of servants came out. They\
+swarmed around the coach, unloading the trunks and baggage strapped to the top.\
+     Ludmilla! a womans voice called.\
+     It took Harry a moment to remember that Ludmilla was his aunts given name;\
+hed never heard Uncle Charles call her anything but Pigeon.\
+     Rheda! his aunt responded, hurrying toward the steps as the woman came down.\
+     Harry knew he was staring, but no one was looking at him, so that was all right.\
+     Hed assumed that a friend of his aunt and mother would look like his aunt and\
+mother, the same small dumpling-plumpish matronly type. Reading spectacles suspended\
+by a beaded chain, prone to fancy chocolates and chapter-plays and needlepoint, that sort\
+of thing.\
+     Rheda Byrtwold was worlds away from that. Hed seen her once before at her\
+wedding, but his only impression then of the bride had been someone dressed up as a\
+giant pastry, with sleeves poofed out to here and a skirt that four people could hide\
+beneath, the whole ensemble topped with layers and layers of cloudy veil.\
+     Now he could see, and he liked what he saw.\
+     Her hour-glass figure was sheathed in apple-green silk dotted with white silk\
+flowers. The neckline plunged dangerously low but modesty was given a nod by way of a\
+lace-trimmed flounce. The dress was sleeveless, her arms bare and tanned from shoulder\
+to the dainty white lace gloves. Her hair was light brown feathered with grey, swept up in\
+a lace snood in the back.\
+     She wore the broadest-brimmed hat Harry had ever seen, which not only shaded\
+her face but cast an eclipsing shadow on the ground. It was held side-slanted on her head\
+with a ribbon. and burdened with fake fruit -- green apples for the most part -- and doves\
+so lifelike they seemed about to chirp and flap their wings.\
+     He recovered from his momentary stunned state as their striking hostess moved to\
+greet first his mother, then Uncle Charles.\
+     In every case, her greeting was the same: catching up both hands in those dainty\
+gloves, leaning forward to peck the cheek, and a dazzling smile and, Welcome to The\
+Cottonwoods!\
+     Goodness me, is this little Diana? Where does the time go? Such a fine young\
+lady! And ... Joanna, this *cant* be your son! Why, it seems like only yesterday that he was\
+playing tin soldiers on the staircase! Come here, Harry, let me have a look at you!\
+     Her eyes were as apple-green as her gown, and twinkling with exuberance. Harry\
+returned her smile as warmly as he could.\
+     Thank you for inviting us, madam, he said as she grasped his hands.\
+     A handsome, well-spoken gentleman; Joanna, you must be very proud! She\
+leaned forward to kiss his cheek, but as the brim of her hat obscured their faces from the\
+rest, planted it on his mouth instead. A quick but searing-hot kiss, finishing with a flick of\
+her tongue against his lower lip.\
+     She stepped back, and Harry was astounded but didnt show it, bowed to her and\
+watched intently as she moved on to his cousins. Neither of them got such a reception,\
+and when she turned away from them, he thought that her gaze shifted back to him for too\
+long a moment.\
+     Rheda went back to his mother and aunt, and started telling them all about the\
+house as she ushered them up the steps and through the front doors. The rest trailed after.\
+Harry brought up the rear, alternately wishing hed worn looser trousers and speculating\
+that these two weeks might be much more interesting than hed first expected.
+
+\*  \*  \*  \*  \*
+
+     The pace of life was slower here in the Southern Barony. During the hottest part\
+of the afternoon, activity slowed to a crawl and the day fell silent but for the sleepy drone\
+of bees.\
+     Harry spent that first afternoon on the porch, with a tall glass of lemonade close at\
+hand and a book open but unread on his lap. Even reading seemed like too much of an\
+effort. It was nicer just to sit in the shade while the heat-shimmers made quicksilver\
+patterns on the horizon, and the horses drifted across the meadow like mirages.\
+     The book also helped conceal his erection. There was one part of his body that\
+didnt care about relaxing in the drowsy heat. That part wanted to do something much\
+more energetic.\
+     A few yards from him, Rheda and his mother, aunt, and sister were seated around\
+a white wicker table with lemonade glasses of their own. The three older women were\
+trying lackadaisically to teach Diana a card game. Harry was too far away to hear the\
+rules, but close enough to admire the curve of Rhedas neck as she fanned herself.\
+     She knew he was watching her. He was certain of it. The sly sidelong glances she\
+kept tossing his way, the pink tip of her tongue coming out to wet her lips, the way shed\
+turn her body to make her abundant breasts press against the silk of her gown and outline\
+them so clearly she might as well have been wearing nothing but a sheen of apple-green\
+paint.\
+     He didnt know what to make of it. She was old enough to be his mother, for\
+Dorians sake, far older than the girls dorm Headmistress whose stocking-belts had so\
+captivated him, but that didnt seem to matter. On the contrary. It intrigued him all the\
+more. What might a woman of her age and experience be able to teach him?\
+     The very thought made a nerve that seemed to run through the core of his body\
+thrum like a lute string. His forehead was shiny with sweat that couldnt all be attributed\
+to the weather.\
+     A beautiful, voluptuous older woman flirting with him. He certainly wasnt\
+complaining, but he was wondering like mad. Why? Was she genuinely interested, or\
+merely having fun teasing him, or was there some more sinister aspect? Had she, for\
+instance, been put up to it by his grandmother as a test?\
+     Whichever it was, he wasnt about to make a fool of himself by acting on his\
+impulses. It was her game; hed be more than happy to play along until he figured out\
+what the rules were.\
+     As the sun dropped toward the sea, it turned to a scarlet ball and streaks spread\
+across the sky. Blood of the gods.\
+     Once the fiery orb slipped from sight, the air cooled and the wind stirred and the\
+land seemed to come to life again. A ripple of renewed energy swept through the house.\
+The servants bustled about, the horses capered in the fields and ran with their necks\
+arched and tails streaming behind them like flags.\
+     Dinner was served as a buffet, few hot dishes but a marvelous selection of cold\
+cuts, salads, and chilled desserts. A thin and reedy girl sang in a thin and reedy voice,\
+accompanied by a piper and a harpist.\
+     Uncle Charles and his sons appeared from the depths of the house, arguing over\
+ledgers. Chas was supposed to be a partner in the family business soon, Aeric felt that he\
+should be one as well despite his lack of years, and just listening to them was almost\
+enough to put Harry right to sleep.\
+     Midway through the meal, Anson Byrtwold and his son arrived. The horse-lord, as\
+he liked to be called, was a blocky, bow-legged man who looked as if he would be far\
+more at home in a saddle than walking the earth. He was jovial and loud, prone to\
+slapping people heartily on the back without realizing that his work-hardened strength\
+made them stagger.\
+     Drefan, a slope-browed troglodyte as a boy, had only changed in that hed gained\
+six inches in height and was now a slope-browed troglodyte of a man, sullen and\
+unhandsome, communicating rarely and then only in grunts or monosyllabic replies when\
+asked a direct question. The only one of the guests he seemed inclined to pay any\
+attention to was Diana, following her every move with his piggy eyes.\
+     Anson and Rheda brimmed with lively conversation, and soon even got Uncle\
+Charles and the cousins talking about something besides his business. Harry was bemused\
+and astonished, and found himself thinking about what his grandfather had said. Straight\
+arrows, skipping a generation? Obviously, Harold Senior didnt spend much time around\
+his other grandsons!\
+     When everyone had finished eating, Anson led them all into his pride and joy, the\
+game room. Harry had never heard that the Southern Barony people were such\
+inexhaustible card-sharks, or known that there were so many games to be played.\
+     He had trouble concentrating on his cards when they all took seats at the big table,\
+though, because Rheda had contrived to be seated next to him. Apple blossom perfume,\
+her throaty giggle, the occasional touch of her foot against his as she shifted in her chair\
+... good thing this wasnt a glass-topped table, because he had no book to put over his lap\
+this time!\
+     Good thing indeed ... four rounds later, as Drefan was ploddingly but with great\
+burning concentration dealing out the cards, Harry felt Rhedas palm settle onto his leg.\
+     He didnt jump, didnt bleat in surprise, didnt betray his reaction in any way\
+except for a virtually unnoticeable quaver in his voice as he was regaling Mother and\
+Aunt Pigeon with a funny anecdote from the Thespians Club at school.\
+     Her hand rested where it was for a moment, then squeezed gently. He glanced\
+casually in her direction but she seemed to be listening intently to his story, smiling\
+merrily.\
+     Harry kept talking, elaborating, drawing it out, making them laugh. As he did,\
+Rheda slid her hand up his thigh, then curled down and in until her fingertips were at the\
+inseam of his trousers.\
+     By now, Harry had completely forgotten what had actually happened at the\
+Thespian Club that day and was making up his story out of whole cloth. As he was the\
+center of attention and using both of his hands to gesticulate and emphasize, there was no\
+way he could subtly get one of his down there to either move hers away (was he insane?)\
+or move it where he so throbbingly wished it to be.\
+     The pressure lifted and he inwardly groaned in mixed disappointment and relief.\
+But then, balancing on pearl-enameled fingernails, her hand walked like a small animal\
+up and up, treading lightly over the buttons of his fly.\
+     He paused for a much-needed gulp of icy lemonade and continued his story,\
+which was winding toward its climax ... now there was a word ...\
+     Tap ... tap ... tap ... on his buttons ... like harpsichord keys or a little girl playing\
+hopscotch. Not unfastening, just pushing down briefly on each one as if counting them.\
+Then with a suddenness that made him pinch the side of his tongue between his teeth so\
+as not to gasp, she gripped his rod firmly through the cloth.\
+     He concluded his story, which by now bore no resemblance to anything that his\
+friends in the Thespian Club would recognize, and everyone laughed. Mother and Aunt\
+Pigeon started applauding, and Harry could have screamed because if they all did, Rheda\
+would have to as well, which would mean shed need to take her hand away, and he\
+didnt want her to do that, not ever! Unless it was only to replace it with something else,\
+with her fabulously pouting mouth, perhaps.\
+     But she didnt, and the applause died off quickly as Drefan passed out the last of\
+the cards and the focus returned to the game.\
+     Harry picked up his cards and tried not to let his hands tremble. He looked blankly\
+at them, unable to tell the suits apart, conscious only of her fondling him, slowly and\
+somehow thoughtfully, as if she was attempting to measure the length and girth and shape\
+of him by touch alone.\
+     Then, agonizingly, damnably, it was her turn to bet. She let go of him and went on\
+with the game. Harry lost quite badly that round.\
+     He recovered his wits enough to do better in subsequent rounds, and by the time\
+they were done, he had subsided to a half-hard state, which, thanks to the flickering\
+gaslamps the Byrtwolds used instead of steady and unforgiving Continual Lights, would\
+be easy enough to conceal long enough to get to his room.\
+     They all said their goodnights, made plans for a more formal dinner the next\
+evening to celebrate Rhedas daughter Othelias return from her paternal grandparents\
+house, and parted ways to their rooms.\
+     Harry closed his door but did not throw the bolt. Each of the guest rooms had two\
+beds, and he wasnt sure whether it was luck or someones purposeful planning that he\
+had ended up in a room by himself. He was hoping for purposeful planning, but hed\
+settle for luck; either way, he was in here alone and would it be out of the question to\
+think that maybe, just maybe, he might be visited in the night?\
+     The moment he let himself imagine, his erection came back full-force and raging.\
+He didnt want to seek his own relief, because what if she did come in and he wasnt\
+ready? But suppose she *didnt* come in; gods help him, hed never get to sleep!\
+     He stripped and washed and contemplated putting on the long shirt and loose\
+pants that were his usual night attire, then decided against it. The night was too warm,\
+even with the breeze blowing in the open window.\
+     Nude, he lay down and pulled the sheet over himself. Below his waist was a\
+protrubance that, covered in the pristine white cotton, looked like a tree branch buried in\
+a snowbank. The soft fabric was woven with a texture that chafed enticingly.\
+     He rolled over, but that was no good; now the source of his distraction was pinned\
+beneath his body and the bed, and if he rocked just a little, thrusting against the mattress,\
+and envisioned someone beneath him ...\
+     He rolled again, this time onto his side with his face toward the window. There.\
+     *Now sleep.*\
+*     She had groped him right there in the game room.*\
+     He buried a strangled groan in the pillow.\
+     *Think about something else!*\
+*     She had kissed him on the mouth, darted her tongue against his lips --*\
+*     Something besides that!*\
+     He saw her in his mind as vividly as he had that afternoon, fanning herself, tiny\
+beads of perspiration rolling down her neck and into the dark valley of her cleavage ...\
+     Scent of apple blossoms ... breathing it in, fragrant and intoxicating ...\
+     The click of the doorlatch lifting sounded loud as a whipcrack.\
+     Harrys breath caught in his lungs. He lay with his eyes wide open and staring at\
+the window, listening to the faint creak of hinges, the thump of a door being carefully\
+closed, the brush of feet on the rug crossing the room.\
+     *If its Mother coming to say goodnight, I will lose my mind,* Harry thought.\
+     But the scent of apple blossoms was stronger now, and he knew it wasnt from the\
+tree outside.\
+     Dear gods, he couldnt move! His body was locked, frozen.\
+     He sensed someone leaning over him, and then warm air blew in his ear, a breath\
+that carried the shape of his name in a whisper.\
+     Harry.\
+     *Say something!*\
+     His glibness had deserted him; Mmm? was all he could manage.\
+     The sheet was raised, letting in a draft. Then the draft was gone and Rhedas\
+satiny plush curves were pressed against him. She pulled the sheet up to cover them both,\
+snuggling against him so that her breasts were plumply crushed against his back and his\
+buttocks were up against her hips and mound. Her legs molded themselves along his and\
+they lay together nestled like spoons.\
+     You are a very handsome and desirable young man, Harry, she murmured in his\
+ear, working her arm between his arm and body so that she could twine her fingers\
+through the hair of his chest. Are you a very experienced young man?\
+     Ive been with a few girls, he said, keeping his voice low.\
+     Id like for you to fuck me.\
+     The coarse word from a friend of his aunt and mother was joltingly arousing. His\
+rod lurched like a stallion at the reins.\
+     Id like that too -- understatement of the Age! -- but ... your husband?\
+     What Anson doesnt know wont hurt him, but if you dont want to risk it, I\
+understand.\
+     He took hold of her wrist and brought her hand down. Ill risk damned near\
+anything!\
+     Her fingers wrapped around him unobstructed by cloth. He was already seeping\
+droplets of clear liquid, making the head of his member slick, moistening the slow firm\
+pumping of her hand as it moved persuasively.\
+     The moment I saw you, I knew I had to have this, she purred, emphasizing with\
+a squeeze. I knew you were just the man Ive been looking for.\
+     When I saw you ... it was a chore to form coherent words, ... I ... you ...\
+     I wasnt what you expected? she giggled, and lapped her tongue along the rim\
+of his ear.\
+     Not at all what I expected.\
+     You thought Id be just like your aunt.\
+     Uh-huh.\
+     Arent you glad to be wrong?\
+     Uh-huh!\
+     Be on your back for me, my darling young Harry.\
+     He turned and she crawled atop him, and they kissed with hungry open mouths\
+and fencing tongues. He stroked the sleek line of her back from shoulderblades to full\
+firm bottom, thinking ramblingly of silk and apple blossoms and balmy southern\
+evenings.\
+     She shifted, and the tip of his rod was surrounded in heat.\
+     Now, she sighed. Inside me. I want you inside me.\
+     Her hips lowered as his rose urgently, one deep stroke immersing him fully. She\
+was already well-oiled by her own passion and moaned rapturously. Harry clutched her\
+buttocks and pulled her down as she rocked, soon finding that she liked it best when he\
+timed short hard thrusts to match her downward movements.\
+     Release came in a sudden and overpowering frenzy. There was no chance of\
+delaying his pleasure this time; Rheda rode him relentlessly as her inner flesh contracted\
+around him, milking his seed, wringing from him such a shattering climax that his eyes\
+seemed to bulge in their sockets and a thunderous rush drowned his ears and for several\
+moments he lost all sense of himself and floated in a close and enveloping darkness.\
+     He wasnt sure how long he was lost, but soon sensation returned and he gradually\
+realized that they were still locked together, his softening length still buried within her,\
+their bodies and the bedclothes soaked.\
+     Rheda raised her head from his shoulder and kissed him lingeringly. He returned\
+it as best he was able, which was rather weakly, and smiled up at her.\
+     I wish I could curl up beside you and sleep in your arms, she whispered.\
+     Thatd be nice. His voice reminded him of a falling leaf, seesawing lazily down\
+through the air.\
+     And wake you in the morning to go again, she added, licking her lips.\
+     Mmmmm!\
+     But tomorrow, I may have another request for you.\
+     I will be happy to be of service, he said. Any service you might require.\
+     Good. Youll be perfect for the task I have in mind.\
+     She kissed him again, and tucked the sheet back around him as she left the bed.\
+There was a crumpled robe on the floor and she put it on, not that it concealed much, as it\
+looked to be spun of moonlight and mist.\
+     Harry watched as long as he was able, until she slipped out the door and vanished\
+like a ghost. Then, with a silent message of thanks to the gods, he plummeted into a\
+dreamless sleep.
+
+\*  \*  \*  \*  \*
+
+     When he went downstairs the next morning, he was half-convinced that everyone\
+would know, they would just see it all over him no matter how carefully composed he\
+kept his features.\
+     Theyd be horrified, disgusted, his mother would weep and wail and wonder how\
+on earth she had raised such a vile and despicable son. Maybe Anson Byrtwold would call\
+him out, or, more likely, the horse-lord would take after him with an axe.\
+     He walked into the sunlit dining room with some trepidation, and found only\
+cheery greetings from Mother and Aunt Pigeon. They were the only ones in attendance,\
+poring over a book of dressmakers designs.\
+     Good morning, sleepy-head! his mother trilled. We werent sure if wed see\
+you before lunch.\
+     Nothing like the country for a good nights rest, Aunt Pigeon said. Here,\
+Joanna, what do you think of this one? With a three-quarter sleeve, maybe, and a fuller\
+skirt?\
+     Did I miss breakfast? Where is everyone?\
+     There are some muffins and fruit on the sideboard, dear. I think, Pidge, that I like\
+this one better, though Id do away with that ghastly collar.\
+     Anson took Charles and the boys out to the foremans office, on the west end of\
+the ranch, Pigeon said. Rheda is showing Diana around the gallery; Diana was\
+interested in her collection of Glantrian ceramics.\
+     And what are you two lovely ladies up to? He selected a chocolate-swirl muffin\
+and leaned over to look at the design book.\
+     Rhedas seamstress is coming tomorrow to measure Othelia for some summer\
+frocks, his mother explained. We thought it might be fun to have some Southern\
+Barony styles to take back to the city.\
+     This one would be very flattering on you, Mother, Harry said, tapping one of the\
+pictures. In a nice soft pink, nothing too bright, and the trim in cream. It would be\
+perfect with that shawl you have, the one sewn with the tulips.\
+     Hes right, Joanna!\
+     Harrys always had an eye for fashion, his mother proudly replied. Oh, it\
+makes his father tear his hair out sometimes, the money this boy would spend on clothes\
+if he could get away with it, but I have to admit, he dresses much more nicely than any of\
+his friends.\
+     If only I could get my two to care about how they dress! Theyre as bad as\
+Charles, I swear; they get out of bed and put on the first things they see in the wardrobe\
+whether they match or not. Their minds are always on business.\
+     So Othelias coming back today? Harry started to sit, found a binder of fabric\
+swatches on the chair, and moved it. I know I must have met her at the wedding, but I\
+can hardly remember what she looked like.\
+     I remember, his mother said dolefully. The poor child! I almost didnt let\
+Diana be a flower girl, because I was so worried shed outshine little Othelia.\
+     Yes, she was a bundle of sticks, wasnt she? Aunt Pigeon clucked as she shook\
+her head. And that hair, my word!\
+     Mother nodded. Like shed been struck by lightning. Theyd tried to control it\
+with a bow, but all through the ceremony, strands would keep coming loose. Still, a very\
+sweet girl.\
+     Very sweet, Pigeon agreed.\
+     Was she the one that knocked over the punchbowl? Harry asked, a fragment of\
+memory coming back to him.\
+     Id forgotten that! His mother rolled her eyes skyward. And it couldnt be just\
+any punchbowl; it was one of the magical ones theyd rented. Why it wasnt\
+Shatterproofed, Ill never know.\
+     Aunt Pigeon took the binder of swatches and began flipping through. How about\
+this blue?\
+     Too greenish, Harry said promptly. It wouldnt work with your skin tone at all.\
+Youd want something with a richer shade ... more like this one.\
+     Oh, Harry, I dont know, its awfully bold.\
+     For a whole gown, maybe, he allowed, sliding the design book over. But if you\
+had something like this, you could use the blue for the panels here and here, and these\
+parts in another fabric. A subdued flower print, maybe, or one of the new patterned silks.\
+     She considered it, and tittered as she turned to his mother. Joanna, youre\
+wasting this boy having him trained for the Academy; you should get him his own shop!\
+The richest women in Andur would be flocking to him!\
+     They both laughed then, and Harry half-heartedly joined in, because it was such a\
+rollickingly good joke, an Ethelbald in the clothiers business? Unforgivable!\
+Inexcusable! Wouldnt matter if he was a merchant-baron and a Guildmaster, with a\
+thousand employees and a fortune so vast it would make the Emperor blanch. He would\
+still be -- gasp! -- a *craftsman*!\
+     He finished his muffin, dabbed his lips with a napkin, and stood. I think Ill go\
+see what Dianas up to. Glantrian ceramics? Sounds interesting.\
+     Its just a light lunch on the back terrace today, his mother reminded him.\
+    Dinner will be early, and Rhedas promised us entertainment after.\
+     Harry hid a grin, last nights entertainment still very fresh in his mind. Thank\
+you, Mother.\
+     He left them with their design books, though it seemed likely that they were both\
+going to take his suggestions. Maybe his tastes did occasionally run to the extravagant --\
+he would give his eyeteeth for a cloak of purple estincloth, say, or a dragonsuede jacket,\
+but he knew that if he dared broach either matter with his father, Harold the Second\
+would age twenty years right in front of him.\
+     The gallery was a long room on the second floor, overlooking a narrow balcony\
+over the porch. Its floor was gleaming hardwood in an intricate herringbone, the walls\
+covered in understated tan flocked paper. The shelves and glass-fronted caged were of\
+rosewood, and contained Glantrian pieces ranging from antique cosmetic pots to\
+painstakingly detailed sculptures and figurines.\
+     Diana and Rheda were at the far end, in front of a shelf holding a dozen or more\
+jars. Each was about a handspan in height and painted with colorful coats-of-arms; the\
+lids were carved from semi-precious stones into the shapes of people or animals.\
+     They heard him come in. Rheda, in a lemon-yellow dress with off-the-shoulder\
+puffed sleeves, turned and smiled at him. And heres your brother! Sleep well, Harry?\
+     Marvelously.\
+     Harry, come and look! Diana beckoned. These are actual Glantrian death-jars!\
+     Death jars? he echoed, wrinkling his nose.\
+     Lady Byrtwold was just telling me how theyre used ... each Glantrian household\
+has one, and when a member of the family dies, before theyre entombed, the closest\
+relative severs the right forefinger of the corpse! Her eyes were wide with morbid\
+fascination. Then they wrap it in twine and keep it over the fireplace for ten days, right\
+there in the house, Harry, can you imagine? And then, when its dried, they put it in the\
+jar with the others, and keep using the same jar until there are ten fingers inside!\
+     Thats positively ... Claani, Harry said.\
+     No it isnt, Diana said seriously. Its not like the use the fingers to summon up\
+the spirits of their relatives, or as if the fingers creep about at night to strangle people.\
+Honestly, Harry!\
+     Its gruesome. If one of our parents died, would you want to do that?\
+     Were not Glantrian, she said as if that was that.\
+     Rheda picked up one of the jars and objects clattered inside. Harry could all-too-\
+easily envision the dry brown twiglike contents. He saw that the lid was sealed in place\
+with a thick coating of wax. She held it so he could see the back, where the names and\
+dates of the deceased were listed neatly.\
+     The ones we have are all over a hundred years old, she said. This one is the\
+oldest; it dates back almost four centuries.\
+     Isnt it incredible? Diana reached, then hesitated. May I?\
+     Help yourself, just dont open them. She winked. Some say that the last thing\
+they do after sealing the jar is put a curse on it!\
+     Serious, studious Diana wasnt impressed. Im not detecting any enchantments.\
+     Harry had given up trying to spook her with ghost stories years ago, but he added\
+with a sly grin, There are more kinds of magic than can be explained in Pandathaway,\
+sister dear.\
+     Nothing cannot be explained.\
+     The stories from Krudanga --\
+     Oh, stop it, Harry, next youll be telling me about Grandfather and the Bee\
+People.\
+     Rheda laughed, and it was smoky and deep and sent a pleasant tingle down\
+Harrys spine. It was nothing at all like the girlish giggles of his mother and aunt. I dont\
+think your brother much cares for this part of the collection. Ill show him our prize. This\
+way, Harry, Ill introduce you to King Calvin.\
+     I didnt think Glantri had ever been a kingdom, Harry said, accompanying her to\
+the other end of the room. Just independent principalities that have been at war with\
+each other since they discovered they had neighbors.\
+     Diana remained where she was, carefully taking down one jar after another to read\
+the writing on the back. It disturbed Harry a little, made him wonder if his innocent-\
+looking sister was leaning toward a degree in necromancy. He could just see her as one of\
+Master Aravans terrified and overworked apprentices.\
+     Quite true, Rheda said, coming to a halt before the crowning glory of the\
+collection. It was on a marble pillar draped with black velvet, and cordoned off with\
+brass-topped posts and heavy gold bellpull ropes. This is King Calvin the First, Unifier\
+of Glantri.\
+     The statue had been broken on an angle, so Calvin was missing his right arm --\
+the set of his shoulder suggested that it had been upraised, possibly with the short cavalry\
+saber so popular in Glantri -- and his chest and belly were split at a diagonal. But his\
+upper torso, left arm to the elbow (this one made Harry surmise that it had been\
+outstretched to hold reins), and his head were all intact.\
+     Never heard of him, Harry said.\
+     Id be more surprised if you had.\
+     He twitched as she idly reached behind him and patted his rear. With a small,\
+impish smile, she left her hand where it was as she spoke.\
+     Calvin here was the prince of House Chimera. He had a large army and larger\
+dreams, and set out to conquer all of his neighbors. Her voice dropped to a whisper. Do\
+you remember agreeing to do a favor for me?\
+     Her hand was still on his backside. Across the room, Diana was engrossed with\
+the death-jars, and Harry realized that Rheda had positioned them so that the pillar\
+blocked them from the waist down so that her actions would be hidden even if Diana\
+turned.\
+     I remember, he murmured.\
+     He was remarkably successful, she continued loudly. So much so, in fact, that\
+soon he had taken over all but one principality. Whispering again: Your grandmother\
+warned me about you.\
+     What did she say? He almost forgot to keep his voice low, so added in a more\
+normal speaking tone, What happened then?\
+     It was winter, and Glantri gets very muddy in the winter. To pass the time,\
+Calvin started making arrangements for his coronation. He commissioned his crown, his\
+new castle, and of course several statues of himself in heroic poses. Whisper: She told\
+me you were a lecherous young rakehell, overly charming, and the only course of study\
+that really interested you was the bedroom arts.\
+     He huffed disparagingly, which applied to both Calvins presumptive pride and\
+Grandmothers fairly accurate assessment.\
+     Then Calvin led his armies onto the field ... She paused, or would seem to from\
+a distance as she whispered, She wanted to warn me so that I could protect my servant\
+girls.\
+     And he lost? Harry asked, adding, Ill just bet she did.\
+     Oh, he lost. He was trounced, chased halfway to the sea, and then cut down.\
+With Calvin dead, the conquered princes or their heirs demanded that everything hed left\
+behind be destroyed. His flags were burned, his statues smashed.\
+     Diana stepped out onto the balcony, and Harry dared speak normally.\
+     She never lets up. But ... if she told you all that ... why ...?\
+     Because, dear Harry, it was the best news I could have heard! Your\
+grandmothers error was the same as yours -- she assumed that I would be just like Joanna\
+and Pigeon. A fussy, slightly daffy middle-aged lady.\
+     Ive never been more glad to be proved wrong, Harry said.\
+     Yes, it was wonderful news. Anson is an excellent provider, but his appetite has\
+diminished while mine has increased. A healthy, lusty young man paying me a visit ...\
+how could I resist such a gift? And I thought it might also provide the solution to another\
+problem. Thats the favor Id like to ask of you, Harry.\
+     What is it? Im at your service, completely.\
+     Its my daughter.\
+     Othelia?\
+     Yes, Othelia. Shes nearly Dianas age, and Im worried about her. When a girl is\
+a little girl, no one pays her any mind. But when she starts to become a woman, things\
+change.\
+     And as shes returning today, with Grandmothers warning well in mind -- he\
+began sourly.\
+     Simply put, I want you to bed her.\
+     His brows rose sharply. Excuse me?\
+     Its only a matter of time before someone does. Id much rather have Othelia\
+taken into womanhood enjoyably than rudely poked by a rancher or one of the servants,\
+or even, gods help us, that slackjawed stepson of mine.\
+     It wasnt often that Harry was struck speechless, and on the few occasions he was,\
+it never lasted long. Gods, am I hearing this?\
+     Youre young, handsome, experienced, and the sample I had last night tells me\
+that youll be an instructive and considerate lover to my Othelia. You wont be using her\
+for your own selfish pleasure.\
+     But ... sorry, this is all a little strange! Being asked to stay away from someones\
+daughter, that I could understand!\
+     Think of it as a good deed. In olden days, the Dorianites used to make sure that\
+all virgins were properly initiated, but times have changed and now we just have to make\
+do.\
+      Harry stared into the white marble orbs of King Calvin the First, but the long-\
+dead Glantrians expression of purposefully regal arrogance wasnt helpful.\
+     His thoughts flashed back to what his mother and Aunt Pigeon had been saying.\
+Now he could call up a mental image of Othelia as shed been at that wedding, a homely,\
+scrawny, gamin-faced child with an uncontrollable mass of hair so tightly curled it looked\
+kinked and frizzed. All knees and elbows and lines and angles, nary a curve to be seen.\
+     Hed always prided himself on seeing beauty in many different types of women.\
+His tastes were not limited to a certain sort, not like Crays consuming interest in only\
+blondes. He had acquaintances who were drawn irresistibly to specific features like legs\
+or breasts or bottoms, but Harry himself couldnt be classified by those means. Simply\
+put, he liked beauty, in all its myriad forms.\
+     His memory of Othelia, therefore, didnt much encourage him. He opened his\
+mouth to suggest that her mother might be worrying needlessly, then closed it partly out\
+of politeness and partly out of his knowledge that some men wouldnt care whether a\
+woman were plain or homely or downright revolting so long as there was a receptacle\
+they could fill. Drefan Byrtwold was probably one of those.\
+     Rheda was watching him with impatience-tinged amusement. If its taking you\
+this long to make up your mind, perhaps your grandmother was wrong about you after all.\
+I didnt think Id have to talk you into it.\
+     How could he tell her that it wasnt any moral reservation that had him stumped,\
+but the worry over whether or not hed be able to go through with it once he got a look at\
+her? Howies adage about cats at night clanged in his brain like a bell. With the lights out,\
+did it matter? An offer like this surely didnt come along often in a mans life. Turn down\
+the chance to bed a virgin with her mothers full knowledge and permission? Hed be\
+crazy to refuse!\
+     Id be honored to do this favor for you, he said as modestly as he could manage.\
+     She leaned close to kiss him, brushing her breasts against his chest. Thank you.\
+     Though Im not sure how I should go about it, he admitted. Flirting with her in\
+front of my family --\
+     Oh, goodness, Harry, theres no need for that. You dont have to seduce her!\
+Leave all the arrangements to me.\
+     He goggled at her. I dont think Im following ...\
+     Ill explain everything to Othelia. Then, when the time is right ... one of Ansons\
+mares is due to foal soon and he and Drefan usually spend the night in the stable when\
+that happens ... Ill bring you to her room.\
+     You mean ... just go to her, no romancing, no courting, just go to her in the night\
+and ... and ...\
+     And fuck her, Rheda said bluntly. If it would make you more comfortable, I\
+could stay.\
+     Ah ... no ... I dont think that would help, honestly. Its going to be odd enough\
+without having her mother sitting there watching! For Othelia as well as for me. Well\
+muddle through somehow.\
+     Youre such a darling, Harry! Just promise me youll be as kind and gentle as\
+you can.\
+     You have my word.
+
+\*  \*  \*  \*  \*
+
+     *What have I gotten myself into?* Harry wondered bleakly as he stood on the porch\
+with the others and watched the coach rolling up the road leaving a plume of dust rising\
+in its wake.\
+     Was it his imagination, or was Diana giving him a suspicious look? Shed been\
+out on the balcony during most of his conversation with Rheda, so she couldnt have\
+heard. Could she? He supposed it was even within the range of possibility that his\
+intelligent little sister had made use of one of her handy spells. There were a host of them\
+that dealt with such things, werent there?\
+     If she did know something, Diana wasnt saying.\
+     The coach came to a stop, and the same swarm of servants rushed out to begin\
+unloading six months worth of luggage. Like the Entysan goddess of the underworld, she\
+spent half of the year with her mother and the other half elsewhere, not the Abyss in this\
+case but at the home of her fathers parents. According to Rheda, the lady and gentleman\
+were of advanced years and doted on their only living grandchild. In the interest of\
+securing a tidy inheritance for her daughter by keeping in their good graces, Rheda was\
+quite agreeable to the arrangement.\
+     The footman opened the door and Othelia emerged, blinking, into the daylight.\
+     Harry breathed a silent sigh of relief. No raving beauty, perhaps, but she wasnt\
+the walking scarecrow that hed privately been dreading to meet.\
+     Othelia was as tanned as the beach-prancing girls of Harrys fond daydreams, but\
+there the resemblance ended. Slim, almost boyishly so, she moved with an energetic\
+awkwardness that reminded him of broken punchbowls.\
+     Her wild ash-brown hair had been ruthlessly tamed into a thick braid that fell to\
+the small of her back, though several snaky tendrils had come free to blow around her\
+face. She brushed them back with quick birdlike flicks of her fingers; the hair would\
+cooperate and then rebel the instant she forgot about it.\
+     The elder Ethelbald women rustled disapprovingly as they took in Othelias outfit.\
+Close-fitting cotton trousers of faded blue-grey showed every inch of her long coltish\
+legs, and when she embraced her mother, Harry noted that the trousers clung sweetly to\
+her narrow hips and small but shapely bottom. Her white blouse was knotted above her\
+navel, exposing the indent of her midriff.\
+     Introductions were made, and when Rheda brought her to meet him, Harry found\
+himself looking into a pair of clear and alert but rather naive dark brown eyes. Her voice\
+was very soft, low, the sort that would infuriate schoolteachers no end and have them\
+always asking her to speak *up*, please!\
+     He smiled, trying to let his interest be known to her while not making it obvious\
+to anyone else, and she returned a tentative grin that was quick as a lightning-flash, there\
+and gone but while it was there, just for the briefest of instants, it brought about an\
+amazing shift in her features that turned her moderate prettiness into something much\
+more.\
+     Harry was beginning to feel considerably better about this whole thing. Also a\
+little bit like a selfish cad -- Rheda thought he was doing her a favor, when he suspected\
+that it would turn out to be the opposite -- but who was he to correct a lady? That would\
+be rude.\
+     They all went into the house, Rheda talking Othelias ear off and confirming for\
+the bemused Harry how come the girl never seemed to speak above that low-pitched\
+murmur.\
+     Dinner was a large and festive gathering. In addition to their houseguests, Anson\
+Byrtwold had also invited the ranch foreman and his wife, the local healer and her\
+husband, and two other couples from neighboring houses (though here in the high country\
+of the Southern Barony, a neighbor was anyone whose chimney-smoke could be seen\
+from the property, as opposed to densely crowded Pandathaway.\
+     Throughout the meal, Harry observed Othelia as surreptitiously as possible. It\
+gave him a peculiarly thrilling sense of power to know, not just wonder or hope or wish,\
+but *know* that although they were strangers to each other, he would be in bed with her,\
+possibly before the week was out. On the heels of that came another rush of power, this\
+one stemming from the slinking and lewd business of bedding both mother and daughter\
+within the same span of days.\
+     She hadnt quite outgrown her childhood clumsiness. Her posture was one of\
+always awaiting the next crash of shattering glass, her movements a conflict like that of\
+someone trying to control a frisky horse that didnt mean any harm but just couldnt\
+control it.\
+     The promised after-dinner entertainment turned out to be a comedic troupe,\
+including a juggler, a clownish tumbler, and a pair of men performing skits and telling\
+jokes just off-color enough to send the ladies into scarlet-faced fits of laughter.\
+     At one point, Harry spotted Rheda leading Othelia from the room. They were gone\
+a goodly while, and when they came back, the girl was wide-eyed and stunned. When she\
+saw Harry looking at her, she jerked and her elbow struck a vase; it tottered and almost\
+plunged to the floor but she saw it and averted the mishap.\
+     When the entertainment was over, Anson suggested they return to the dining room\
+for dessert, and following that, anyone bold enough could join him in the game room for\
+a few rounds of cards.\
+     Othelia slipped outside, and on impulse Harry decided to follow. If he was going\
+to rid the girl of her virginity, he reasoned, it might not be a bad idea to at least talk to her\
+first.\
+     He found her by letting his ears guide him to the squeaking ropes of the swing.\
+She coasted back and forth in shallow arcs, in and out of the trees spreading shadow.\
+     She saw him and pushed her feet against the ground, stopping the swing. By the\
+set of her body, he suspected she was inches away from bolting like a skittish pony.\
+     Hi, he said as mildly as he could.\
+     Hi, she murmured in that low voice, and it occurred to him how well-suited\
+such a voice would be for pillow-talk.\
+     Would you mind if I sat down?\
+     She scooted over as far as the arm of the swing allowed, and he settled onto the\
+other end, allowing that distance in the middle.\
+     There was no point in dithering about. Your mother told you, didnt she?\
+     Othelia swallowed hard and nodded.\
+     Do you ... I mean ... if you dont want to, we dont have to. Id certainly\
+understand. We only met today, we dont know anything about each other. Your mother\
+believes she has your best interests in mind, but its really up to you.\
+     She explained it all. He had to strain to hear her. She knows whats best.\
+     What about you? What do you want?\
+     One shoulder hopped in an endearing shrug. It does have to happen sooner or\
+later. Might as well be planned out. Some places, people are married to someone they\
+havent ever met, with no say in it.\
+     Harry slid closer. No, Othelia, thats just it ... you *do* have a say.\
+     So did you, and you didnt refuse. Her eyes met his directly for the first time\
+since their introduction.\
+     He chuckled a little. Not many men would. Were a self-centered breed. The\
+chance at being with a pretty girl isnt something we could easily turn down. But because\
+I agreed when your mother asked me doesnt mean anything if you dont want to. I would\
+never do anything against your will.\
+     She sighed. I suppose Ill go along. I know she cares, thinks shes doing whats\
+right, and she probably is. You seem nice enough. Im just nervous. Ive been kissed by a\
+couple of boys, but thats all.\
+     Thats a good place to start. He slid all the way over to her, and as she turned to\
+look at him, he cupped her face between his palms. He could feel tension shaking through\
+her, but she closed her eyes and didnt try to draw away as he lowered his lips to hers.\
+     He made sure that first kiss was everything it needed to be -- tender enough not to\
+frighten her, passionate enough to let her know he desired her, long enough to let her\
+overcome her initial surprise, short enough to leave her wanting more.\
+     Ill go back to the house now, he said, and left her sitting breathlessly on the\
+swing.
+
+\*  \*  \*  \*  \*
+
+     On the surface, a pool might look placid and peaceful, while strong or even\
+dangerous currents are coiling in the depths.\
+     That was how the next five days at The Cottonwoods passed. Outwardly, a\
+relaxing time of lazy spring days and evenings in the game room. But to Harry, immersed\
+as he was, the currents pulled with irresistible force.\
+     It was nothing like the maddening urge that hed mentioned to Howie. There was\
+no element of frustration to it, only a building anticipation between himself and Othelia.\
+     Every time they were in the same room, he felt it become stronger, more electric,\
+like the heat lightning that flashed on the horizon at the end of humid afternoons.\
+    Whenever their eyes met, a spark jumped, and on the infrequent occasions that they had\
+reason to touch, a miniature thunderbolt seemed to leap between their skins.\
+     Not even Rhedas late-night visits to his room could affect that anticipation. She\
+was a tremendously skilled and knowledgeable lover, secure enough in herself to pursue\
+her own pleasure with a vigor that dizzied him.\
+     One night, she bade him sit still on a chair at the end of the bed and watch as she\
+caressed herself to a quaking climax. He nearly dug fingermarks into the arms of the chair\
+to keep himself from leaping at her. Then she switched places with him and it was her\
+turn to watch. It was nothing like when he did the same thing in his bed at school; having\
+an audience was first hotly embarrassing and then wildly erotic.\
+     Several times, he sat down to begin a letter to Howie, but those attempts always\
+wound up crumpled and cast into the kitchen stove. Howie wouldnt believe a word of it.\
+Harry sometimes wasnt sure he believed it himself and he was living it!\
+     No one else seemed to have any idea, except possibly Diana. He never quite had\
+the nerve to approach her and ask, but he was sure she suspected something.\
+     The seamstress and a bevy of assistants arrived, and the house became a\
+whirlwind of measurements and cloth and pinning up hems and cutting and stitching. The\
+foreman and Uncle Charles came up with several ways to improve the running of the\
+ranch, and spent many an hour cloistered with Anson Byrtwold. Chas developed an\
+obsession with playing darts and the thunk of his throws could be heard from the game\
+room at all hours of the day. Aeric struck up a friendship with the foremans son and was\
+venturing out into what he called the wilderness for the first time in his life.\
+     The time passed quickly, and one evening as they were partaking of another buffet\
+on the terrace -- the shrimp salad surpassed any Pandathan restaurant -- one of the ranch\
+hands hurried in to announce to Anson that his prize mare, Phantom, was ready to drop\
+her foal.\
+     Harry looked at Rheda, whose eyes were sparkling as she gave him a barely-\
+perceptible nod. Othelia sensed the change in the room and knocked over Dianas glass of\
+lemonade, then spilled a dish of olives as she tried to mop it up.\
+     At last, dinner was over. There were no card games, not with Anson and Drefan\
+off in the stables. Diana retired to a quiet corner of the parlor to study, everyone else\
+found quiet pursuits to occupy them until bedtime.\
+     Harry feigned great weariness, though he had never felt less like sleeping in his\
+life. He went to his room and began the long wait, horribly sure that the foal would be\
+born in record time and Anson would come back, thereby ruining all the plans.\
+     Much later, when he was beginning to think that the entire household, Rheda and\
+Othelia included, had fallen asleep, he heard a soft step in the hall outside.\
+     Rheda was there, wrapped in her moon-mist robe, but instead of coming in and\
+bolting the door behind her, she summoned him with a gesture.\
+     Are you sure about this? he asked in a hush as she led him into the hall.\
+     I am, and she is. Arent you?\
+     Of course.\
+     She likes you. That will make it easier for her. Remember your promise.\
+     I wouldnt forget.\
+     Now he knew how she had gotten to and from his room so many unnoticed times.\
+His door was directly across from a swiveling panel.\
+     Formerly the housekeepers stair, she informed him in a whisper.\
+     They emerged in the upstairs hall. Rheda, holding his hand as if he were a little\
+boy needing to be crossed on the streetcorner, walked him to a closed door. She tapped\
+softly, then opened it. Harry followed her inside.\
+     The room was that of a child on the cusp of young adulthood. A few toys,\
+treasured ones, were arrayed on a bench in front of the window.\
+     Othelia was standing in the middle of the room, hands folded demurely before her.\
+In her thin sleeveless nightgown and bare feet, she looked even younger than she was.\
+Her hair was unbraided and surrounded her in a crinkly nimbus.\
+     My little girl, Rheda said lovingly, kissing the girl on the cheek. After tonight,\
+youll be all grown up. Harry will take such good care of you, my darling.\
+     They embraced, then Rheda hurried from the room in a billow of sheer cloth and\
+was gone. The door clicked shut.\
+     Harry threw the bolt and turned to Othelia. She had her head shyly down, but he\
+could see that she was sneaking glances at him. The robe he wore was indigo cotton as\
+thin as her nightgown and far shorter, ending just above his knees. The belt was loosely\
+tied, leaving most of his chest bare.\
+     A long moment passed in which he openly looked at her and she kept sneaking\
+those glances. He moved closer.\
+     Othelia.\
+     Do we kiss first?\
+     Id like that.\
+     She raised her head and he took her carefully into his arms, letting their bodies\
+press together as he kissed her. He could feel the nubs of her breasts against his chest,\
+small and sweet like a pair of nestled doves.\
+     Her hands crept up to his shoulders, curious but tentative, as if she feared that he\
+was going to push her away. He did not, of course, and they rested lightly there while he\
+continued to kiss her, coaxing her lips apart that he might delve his tongue into her\
+mouth. She tasted of peppermint and cool breezes.\
+     Othelia backed up with a puzzled expression, and peeked down. Harry realized\
+that an urgent part of him was protruding from the overlapping flaps of the robe, and she\
+had felt its prod against her belly.\
+     Its all right, he said, bringing her hand down to touch it. This beast is easily\
+tamed; he only wishes to bring you pleasure.\
+     She stroked him as she might stroke the nose of a foal. Your skin here is so soft,\
+she murmured.\
+     As is yours ... especially here. He pulled a string and the bodice of her\
+nightgown came unlaced, letting him slip his hand inside to cradle a breast.\
+     She gasped and her grip tightened instinctively, eliciting a groan from him. As she\
+worriedly started to let go, he shook his head.\
+     You didnt hurt me. Dont worry about that. It felt good.\
+     That ... that feels good too. What youre doing.\
+     Im glad.\
+     Her nightgown fell from her shoulders and bunched around her waist, and Harry\
+cupped both breasts while bending to kiss her again. Her caress along his rod became\
+bolder, making him swell and stiffen with greater arousal.\
+     The bed, he said against her mouth. Lets lie down.\
+     As she headed for the bed, he stopped her long enough to free the cloth caught\
+around her hips. It crumpled to the floor. She sat on the edge, then leaned back until she\
+was fully reclined. Some of her nervousness had returned, causing her to curl one arm\
+across her breasts and drape the other over the fine silken hair between her legs.\
+     Harry stretched out on his side, half-raised on one elbow. He covered her with\
+kisses, lips and cheeks and eyelids and chin and the tip of her nose, then lower still,\
+teasing the sensitive spot beneath her ear, the side of her neck, the base of her throat,\
+lower and lower until her arm fell away and gave him access to her bosom. He nuzzled\
+and suckled, attending to each side with loving thoroughness.\
+     Do you like that? he asked.\
+     She hitched in a breath and nodded.\
+     If I should do something that you dont like, tell me. Or if theres something Im\
+not doing that you want me to, tell me that as well.\
+     Her cheeks were blushed pink, but she nodded again.\
+     He bent to her breasts again, and caressed her ribs, her stomach, the mild flare of\
+her hip. She was much more relaxed, her legs no longer held protectively together.\
+     Im going to put my hand here now, he told her, and did so, just resting it there,\
+his palm molded to the contour of the mild rise of her mound.\
+     That feels nice, she whispered.\
+     It can feel even nicer. Part your legs a bit more.\
+     She did, and he pushed his fingers through the silky hair to rub with aching\
+gentleness along her furrow, kissing her at the same time and muffling her low moan with\
+his mouth. She shifted her hips and he felt the firm little bud, the nubbin of Dorians\
+Jewel; Othelia moaned again as it came into contact with his hand.\
+     He went very carefully there, not wanting to be too direct with his touch and send\
+her over the line into discomfort. He spread his first and second fingers so that they were\
+to either side of the bud, and rubbed even more slowly. His fingertips found her opening,\
+explored gingerly.\
+     It will hurt, wont it? she asked between shuddering breaths.\
+     It might, but Ill try to make it as painless as possible. He moved down the bed\
+and started kissing and nibbling at the delicate flesh of her inner thighs. First, though,\
+Im going to put my mouth here, where my fingers were. That wont hurt at all.\
+     Her brows knit as if she doubted him, until he began running his tongue over her\
+cleft in long licks and swirls. Her hips bucked helplessly and the sound that came from\
+her throat was the loudest hed yet heard her utter. Hed been able to put his own burning\
+desire aside to focus on her, but the noises of her cresting pleasure nearly did him in.\
+     Othelia ... its time.\
+     She was panting, making feeble clutching gestures with her hands. Harry took that\
+as a sign of agreement and positioned himself, the tip of his rod poised at the opening to\
+her channel. She was wet with his saliva and her own secretions, easing his passage as he\
+drove slowly into her.\
+     The tightness was overwhelming, close and hot, surrounding him, seeming to pull\
+and suck hungrily at his stiffness. Othelia gasped and mewled, clinging to him, and he\
+wanted to plunge all the way in, but there was the barrier, blocking his way.\
+     Be brave, Othelia, be brave for me, and itll be over in an instant, just a brief hurt\
+and then sweetness, only sweetness, I promise.\
+     Im ready.\
+     He drew back a little and then thrust hard, sealing her lips with a kiss as she cried\
+out, and then he was buried fully within her, holding still, absolutely still but for the\
+involuntary throbs and flexes of his rod, every ounce of willpower he possessed going\
+toward holding still and not moving, not moving no matter how much he might wish to,\
+how he yearned to withdraw and then sink back into her, that re-entry that was so\
+unbelievably fine, but he didnt, he held still, kissing her, kissing the sudden tears that\
+had sprung to the corners of her eyes, kissing her until she started to move beneath him,\
+hips rising and falling like the tide, so he did withdraw, and sank back in, and it was ... it\
+was ...\
+     They cried out together this time but with no pain, only pleasure, and Harry\
+rushed headlong toward the precipice and over, pouring himself into her dark and secret\
+chambers, and her eyes flew wide open as she called out, Oh! Oh! *Oh*! and convulsed\
+in his arms with her first climax thundering through her veins and then she was sobbing\
+joyously and had ahold of him by the sides of the head so she could rain kisses all over\
+his face, sobbing and laughing.\
+     Eventually, reluctantly, Harry disentangled himself from her and lay down beside\
+her, and wondered briefly if they had wakened the whole house, but the only one whose\
+room was close enough to hear was her mother, and Rheda would be anything but\
+outraged if she had heard her daughters passionate outbursts.\
+     Othelia rolled her head on the pillow and smiled at him; already, her eyelids were\
+drooping sleepily. Harry leaned over and kissed her on the lips, smiling in return.\
+     It seemed like far too much effort to get up and find his way back to his room. He\
+pulled the sheet over them, and drifted off with his arm laying across her waist.\
+     His last thought before sleep claimed him with its velvety blackness was that if\
+this was what getting suspended from school could do for him, hed pick fights with his\
+roommate any day.
+
+\*  \*  \*  \*  \*
+
+The End\
+
+------------------------------------------------------------------------
+
+\
+*Copyright 1999 by Christine Morgan*\

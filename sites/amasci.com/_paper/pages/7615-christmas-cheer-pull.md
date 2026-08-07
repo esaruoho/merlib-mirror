@@ -1,0 +1,340 @@
+---
+title: "Christmas Cheer Pull"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/9596/pull39.htm
+order: 7615
+reachable_from_entry: false
+images: 0
+internal_links: 4
+extracted: 2026-08-07T17:15:13Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Christmas Cheer Pull
+
+*Source page: `~samoyed/iwpa/9596/pull39.htm`*
+
+Pull 39, First day of event (Sat)
+
+Christmas Cheer Pull
+
+Post Falls, ID
+
+Organizer(s): Jerry Sheldon
+
+Region: 2
+
+Track: Hard packed wet gravel
+
+Date: 12/02/95
+
+Weather: Cool and Windy
+
+Dog's Name
+
+Reg
+
+Pulled
+
+Time
+
+Weight
+
+%
+
+Handler
+
+Breed
+
+35 Class
+
+Chelsea
+
+2
+
+580
+
+12.92
+
+25
+
+23.20
+
+Susie Malcolm
+
+Cocker Spaniel
+
+Misty
+
+2
+
+580
+
+17.59
+
+35
+
+16.57
+
+Mike Holmes
+
+Brittany
+
+Savannah
+
+2
+
+420
+
+17.87
+
+22
+
+19.09
+
+Susie Malcolm
+
+Cocker Spaniel
+
+60 Class
+
+Icey
+
+2
+
+660
+
+8.39
+
+60
+
+11.00
+
+Jerry Sheldon
+
+Alaskan Malamut
+
+80 Class
+
+Babouska
+
+2
+
+1620
+
+13.13
+
+80
+
+20.25
+
+Rodney Caudill
+
+Alaskan Malamut
+
+Pyka
+
+2
+
+1260
+
+7.69
+
+70
+
+18.00
+
+Mile Holmes
+
+Alaskan Malamut
+
+Isiscolde
+
+2
+
+1140
+
+20.20
+
+69
+
+16.52
+
+Rodney Caudill
+
+Alaskan Malamut
+
+Ladyhawk
+
+2
+
+1140
+
+59.22
+
+75
+
+15.20
+
+Allen Shallbetter
+
+Alaskan Malamut
+
+Chief
+
+2
+
+1020
+
+11.09
+
+63
+
+16.19
+
+Sharon Schmidt
+
+Siberian Husky
+
+Kodiak
+
+P
+
+540
+
+7.51
+
+77
+
+7.01
+
+Bryan Gordon
+
+100 Class
+
+\* Breezy
+
+2
+
+2260
+
+19.26
+
+90
+
+25.11
+
+Susie Malcolm
+
+Alaskan Malamut
+
+Kachiri
+
+2
+
+2260
+
+35.25
+
+96
+
+23.54
+
+Rodney Caudill
+
+Alaskan Malamut
+
+\* Trapper
+
+2
+
+2100
+
+28.29
+
+93
+
+22.58
+
+Susie Malcolm
+
+Alaskan Malamut
+
+Shalla's Nuka
+
+2
+
+1780
+
+21.93
+
+90
+
+19.78
+
+Allen Shallbetter
+
+Alaskan Malamut
+
+Ice Crystal
+
+2
+
+1780
+
+25.39
+
+85
+
+20.94
+
+Rodney Caudill
+
+Alaskan Malamut
+
+Pudge
+
+2
+
+1460
+
+36.49
+
+86
+
+16.98
+
+Sharon Holmes
+
+Alaskan Malamut
+
+Ruby
+
+2
+
+820
+
+14.10
+
+86
+
+9.53
+
+Jerry Sheldon
+
+Alaskan Malamut
+
+\* - Personal best
+
+------------------------------------------------------------------------
+
+[Next day](pull40.htm)\
+[Earlier region 2 pull](pull35.htm)\
+[Later region 2 pull](pull42.htm)\
+[Previous IWPA Pull](pull37.htm)\
+[Next IWPA Pull](pull41.htm)\
+
+[Pull Index](pulllist.htm)
+
+[Wheels Standings](wheels.htm)\
+[Snow Standings](snow.htm)

@@ -1,0 +1,70 @@
+---
+title: "Washington State NOW President's Message"
+source_domain: amasci.com
+source_path: ~feminist/pres.msg.html
+order: 3152
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-08-07T17:09:47Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Washington State NOW President's Message
+
+*Source page: `~feminist/pres.msg.html`*
+
+<img src="now.gif" data-align="left" data-hspace="10" data-vspace="10" alt="N O W" />
+
+Washington State chapter
+
+National Organization for Women
+
+Message from the President
+
+\
+
+------------------------------------------------------------------------
+
+Link to the [Washington State NOW Home Page](http://www.wanow.org/)
+
+------------------------------------------------------------------------
+
+# Message from the President
+
+Sisters!
+
+I am writing this article as a born-again NOW member. In the last three months I have attended three now conferences - state, regional, and national; a "Presidents training" at the National office and our own state board meeting - and I FEEL GREAT. What a fabulous organization we belong to!
+
+As you know, for the past two years NOW has going through a "visioning" process. This process has focused both on who we are and who we wish to become. Having participated in three visioning sessions (State, Regional, and National) I learned that NOW possesses many qualities that set it apart from other organizations. It is these very qualities that the members value most. These are the reasons we pay our dues every year:\
+
+- \* NOW is a multi-issue organization. We deal with a full range of equality and justice issues.
+- \* NOW is a grass-roots organization - 38% of our membership dues are returned to the state and local chapters.
+- \* NOW pushes the envelope, we are willing to take stands on controversial issues.
+- \* NOW uses multiple approaches to advocacy - direct action, legal, electoral, legislative, etc.
+- \* NOW is broad based and works in coalition with other like-minded organizations.
+- \* NOW is an effective organization with clear positive results.
+- \* NOW has a long history of effectiveness.
+
+\
+If you did not have the opportunity to participate in the visioning process, take a moment now to reflect on why you are a NOW member. It might be your commitment to your local chapter and community; it might be because you want to make sure that women's voices are heard in the state legislature and national congress. You might support the legal work that NOW does and the important judicial decisions that we have been able to win.
+
+Hopefully you support all of the above. But you know what I have found out? That one of the main reasons folks are NOW members is for the sake of community. Being a member of NOW allows us the security of knowing that there are thousands of people out there that feel the same way we do about the equality of women and the fight for social justice. Whether we take advantage of it or not, we know the opportunity is there to get together with like minded people whether it be to chat, foment rebellion, or take to the streets. We know that when we become outraged by injustice there is a place for us to go. We know that little by little, step by step, we are changing the world.
+
+What is your vision of a feminist future? Think about this before you answer because whatever your answer, you must own the responsibility for making it happen. Feminism isn't something that happens "out there", that someone else will take care of. It is a personal responsibility that we all share. So when you think of the future, don't think about what NOW should do, or what Gloria Steinem should do, think of what you can do and what we can accomplish together.
+
+\
+
+Mary Clogston
+
+President, Washington State NOW
+
+\
+
+Call 206-783-5760 for a contact person in your local community.
+
+------------------------------------------------------------------------
+
+Link to the [Washington State NOW Home Page](http://www.wanow.org/)\
+Washington State NOW President's Message ("pres.msg.html")\
+Last updated: March 20, 2003\

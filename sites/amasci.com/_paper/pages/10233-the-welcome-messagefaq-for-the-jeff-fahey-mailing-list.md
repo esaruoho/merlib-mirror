@@ -1,0 +1,143 @@
+---
+title: "The Welcome Message/FAQ for the Jeff Fahey Mailing List"
+source_domain: amasci.com
+source_path: ~whtrose/jffaq.html
+order: 10233
+reachable_from_entry: false
+images: 4
+internal_links: 0
+extracted: 2026-08-07T17:18:31Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Welcome Message/FAQ for the Jeff Fahey Mailing List
+
+*Source page: `~whtrose/jffaq.html`*
+
+The Welcome Message/FAQ for the Jeff Fahey Mailing List
+
+## The Welcome Message/FAQ for the Jeff Fahey Mailing List
+
+<a href="http://stats.superstats.com/c.cgi?u=whtrose" target="_top"><img src="http://stats.superstats.com/b.cgi?u=whtrose&amp;z=1" data-border="0" /></a>
+
+## Plan on surfing for hours from this site or other sites? Why Not Make Some Money While You're At It? AllAdvantage.com pays .50 an hour you surf, (and .10 for every hour your referrals surf) go here to find out more!:
+
+\
+[<img src="logo.gif" data-border="0" alt="Join AllAdvantage.com" />](http://www.alladvantage.com/go.asp?refid=FYJ555)\
+\
+\
+IMPORTANT MESSAGES!!!!! (5/1/96) -\
+1. This list is for fans of ACTOR JEFF FAHEY, if you didn't want to be on this list but found yourself on it or subscribed by mistake, please unsubscribe by the methods shown below or email me and I'll take you off.\
+2. This is a DISCUSSION LIST, if you don't want lots of mail on the Subject of JEFF FAHEY, please unsubscribe by the methods shown below or email me and I'll take you off.\
+The FAQ has important information you will need to know, please keep this FAQ for future reference.\
+\
+\
+What is in this FAQ:\
+[Introduction](#introduction)\
+[a. Intro](#intro)\
+[b. How to unsubscribe](#how)\
+[c. List Traffic](#traffic)\
+[d. A Closed List.](#closed)\
+[e. Digest Available](#digest)\
+[f. If You Need to Leave For Any Length of Time/Postponing your mail](#leave)\
+[2. Address relevant to the list](#address)\
+[3. Acceptable and Non-Acceptable Topics For Discussion](#topics)\
+[4. The Jeff Fahey Web Pages](#web)\
+[9. The Jeff Fahey Mini-Bio](#bio)\
+[14. Personal Message](#message)\
+\
+<span id="introduction">1. Introduction:</span>\
+<span id="intro">a. Intro: Hi, my name is Sonja Marie and I am the owner of the Jeff Fahey Mailing List, and Co-President of the Jeff Fahey Internet Fan Club. The other 2 Presidents are Gina Gorne, and Cynthia Paroski.</span>\
+\
+<span id="how">b. How to Unsubscribe: If you ever wish to unsubscribe from this list at any time, send a message to listproc@eskimo.com that says "unsubscribe jeff_fahey Your Name or Address that you joined the list under" (it will only work this way).</span>\
+\
+<span id="traffic">c. List Traffic: This traffic on this list is medium - heavy, which means there can be 0 to 6 to 10 posts a day, and more on some days.</span>\
+\
+<span id="closed">d. This list is also closed, which means all addresses that want to subscribe to the list go to me for approval, I had to do this because of a recent bout of spamming of phoney addresses to me. (If you are one of those people who join the list after reading the FAQ, please make sure you address is the correct one, and the one you want to be put on the list as.)</span>\
+\
+<span id="digest">e. Digest Availble: This list is available in digest form. When you join the list, you will be put automatically on the real time list, so to switch to the digest version send a message to listproc@eskimo.com that says: " set jeff_fahey mode digest" or have me set it for you, you can do this by emailing me.</span>\
+\
+<span id="leave">f. If You Need to Leave For Any Length of Time/Postponing your maiPlease if you stop having a access to the mailing list, i.e. you stop using a internet provider, otherwise your address will bounce error messages to me along with the email, and this can get very annoying. Also if you going to be gone from your email for a long length of time please set your mail to postpone, to do so send a message to listproc@eskimo.com that says "set jeff_fahey mail postpone" or email me to set it to postpone for you.\
+\
+This FAQ will change as time goes by and will be reposted to the list at various times, especially when something new is added to it.</span>\
+\
+<span id="address">2. The addresses applicable to the list are:\
+\
+a. jeff_fahey@eskimo.com (post messages to the list) (note: only the address you subscribe to the list will be able to post items to the list, mail from different addresses will bounce to me.)\
+\
+b. listproc@eskimo.com (send commands, for ex. unsubscribe, and help)\
+\
+c. whtrose@eskimo.com (my personal e-mail address. Remember I am not on all the time, so if there is something you need me to do for you concerning the list, it might take me awhile, depending when I can get on and take care of list business.)</span>\
+\
+<span id="topics">3. Acceptable topics for discussion:\
+\
+a. Jeff Fahey, of course :), and anything concerning him, such as his shows and movies, his appearance, what he wears, and so forth. :)\
+\
+b. You may discuss selling and trading videos or other items that concern Jeff.\
+\
+3a.Not Acceptable:\
+\
+a. Flaming of other members of the list.\
+\
+b. Topics that have nothing to do with Jeff Fahey or his works. But ongoing tangents that started about Jeff Fahey or any of his other work is allowed as long as I don't mind :)\
+\
+c. People joining the list to flame true fans of Jeff and his work, if anyone is caught doing this, they will be taken off the list with out warning.\
+\
+d. Spam, which means advertisements for items that have nothing to do with Jeff and or his body of work, chain letters, unsolicited .JPG's, .GIF's and so on. Anyone doing this will be taken off without warning.\
+\
+e. "Me to" posts: Alot of people have to pay to download their mail, and so therefore do not like receiving alot of short messages requesting something someone has offered, or agreeing with something someone has said, without adding something to the conversation. Since this is a regular occurence everyone will be on the honour system to avoid doing this.\
+\
+f. Sending UNSUBSCRIBE Messages to the list, not only is this rude to the other members, but annoying as well. Unsubscribe by the directions shown above or email me and I will take you off.\
+\
+MY LIST, MY RULES!!! :D\
+\
+</span><span id="web">4. The Jeff Fahey Web Pages:</span>\
+\
+a. The Jeff Fahey Internet Fan Club Home Page\
+\
+
+http://www.eskimo.com/~whtrose/fahey.html
+
+\
+\
+e. Jeff Fahey Pictures\
+\
+Download pictures of Jeff at:\
+\
+
+http://www.eskimo.com/~whtrose/gallery
+
+\
+\
+\
+\
+<span id="bio">9.The Jeff Fahey Mini Bio:</span>\
+Written By Sonja Marie\
+Co-President of the Jeff Fahey Internet Fan Club\
+With Help By Laureen a.k.a PaddyMB and Mike Fokker\
+Jeff Fahey is an incredible diversified actor with over 45 films to his name, which include such popular films such as "The Lawnmower Man", "Silverado", and "Wyatt Earp". When he was starring in his own hit TV show "The Marshal", Mr. Fahey reached more people and made more fans then all his movies combined.. Jeff Fahey was born on November 29, 1956 in Olean, New York to a Irish-American family. He is the 6th son of 13 children. Fahey left home at 17 after being kicked out of high school his senior year. He hitchhiked to Alaska, then back-packed around Europe, worked on a kibbutz in Israel, and celebrated his 19th birthday in India. After trekking in the Himalayas and Afghanistan, he returned to the United States. To support himself, he sold vacuum cleaners, shoes and encyclopaedias, and taught ballroom dancing. He also took up studying acting in N.Y, and received a 1 year scholarship with the Joiffrey Ballet, with which he danced with for 3 years. Fahey appeared in a few Broadway shows such as the revival of "Brigadoon", toured with "Oklahoma" and followed with "West Side Story" on the Paris stage. He also starred in "Orphans" with Albert Finney in London. In the early eighties he starred on the soap opera "One Life To Live". His big break didn't come till 1984 when he got the role of "Tyree" in Lawrence Kasdan's "Silverado", followed by ABC's critically acclaimed live teleplay, "The Execution of Raymond Graham", for which he was nominated for a Gemini Award. Fahey has been working on a fairly regular basis since 1984 in such varied films as "Sketch Artist I and II", "Impulse", "Body Parts", and in what is considered his best picture to date "White Hunter, Black Heart". He starred in the role of writer Peter Vierrill, opposite Clint Eastwood, playing John Wilson, during the filming of the classic, "The African Queen". The role of Verrill was surely Fahey's most complex character to date, and an international audience and critics caught this incredible performance when the film was screened at the Cannes Film Festival in 1990. In 1994 the pilot of Fahey's new TV series "The Marshal" was put on TV as a midseason replacement and was greeted with praise by many critics, and hailed as one of the best new cop shows on TV. Despite horrible time slots, and a moving around on different nights, "The Marshal" returned in the fall of 1995 with a full slate of episodes. But unfortunately the show was cancelled in Nov. of 95, due to a lack of interest on ABC's part to promote it, and so only 12 of the 13 planned shows were shot, with the last episode being shown on Dec. 25th. Fahey played Winston MacBride, a Deputy U.S Marshal, whose character was an intelligent man who rather talk someone out of doing something wrong, then use his gun. Fahey brought to the role a humour, and quirkiness hard to find on TV today. During his busy schedule shooting "The Marshal", Fahey also continued to do movies, some under his own production company's banner Tyree Productions, which he is partners in with his 5 brothers. He is also a partner in a construction company and a film grips group, "Black Sheep Grips". He his also the co-founder of the American Road Production Workshop Series at the Raft Theatre in New York, and participates in Writers' & Directors' Workshops. Jeff Fahey is most definitely a busy man.\
+\
+<span id="message">14. Personal Message:</span>\
+\
+Hi all,\
+\
+I'd like to introduce myself to all you that have just joined my list for Mr. Fahey.\
+\
+My name is Sonja Marie, and I am your 22 yr old list owner, and the Co-President of the Jeff Fahey Internet Fan Club. I've been a major fan of Jeff's since "The Marshal" started in 94. I've seen most of his movies, and plan to see even more once I can get my hands on them :)\
+\
+I started this list after coming across old posts to on the WWW about Jeff in Sept. of last year. Since there was no mailing list set up for him yet, or one in the works, I'd figure I would start one, and so I did. I know that AOL has a huge contingency of Fahey Fans, but now we have a way connecting that group with other fans that are not usually on AOL, such as me. So far this list has been lots of fun, and I hope it continues to grow.\
+\
+I'd like to thank Gina a.k.a JustGee, and one of my co-presidents for encouraging me to start this list and letting others on AOL know about it.\
+\
+Feel free to introduce yourself to the group when you join. Enjoy the list, and post lots of stuff :) With your help and posts we can make this a fun mailing list to read and post to :)\
+Sonja Marie - The White Rose @--\>----\
+\
+<img src="fahey.gif" data-hspace="15" data-vspace="10" data-border="1" width="50" height="60" />
+
+Return to the Jeff Fahey Internet Fan Club Page
+
+\
+\
+Created by The White Rose Inc. (a.k.a Sonja Marie) 1996\
+<img src="rosewht.gif" data-align="right" data-border="1" />\
+Last Update 5/14/96 (Previous Change 5/12/96)\

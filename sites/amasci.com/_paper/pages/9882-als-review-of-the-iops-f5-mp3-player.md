@@ -1,0 +1,210 @@
+---
+title: "Al's Review of the IOPS F5 MP3 Player"
+source_domain: amasci.com
+source_path: ~webguy/service/iops-f5-mp3-player.html
+order: 9882
+reachable_from_entry: false
+images: 1
+internal_links: 4
+extracted: 2026-08-07T17:18:13Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Al's Review of the IOPS F5 MP3 Player
+
+*Source page: `~webguy/service/iops-f5-mp3-player.html`*
+
+<table width="80%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><h1 id="iops-f5-mp3-player">IOPS F5 MP3 Player</h1>
+a review by<br />
+<a href="../writings/reply.html">Al Wong</a>
+<hr />
+<table id="adtable" data-align="right">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><a href="../writings/egold.html"><strong>Making Money on the Internet</strong></a><br />
+I discovered a way to make money on-line that is not a scam!</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><a href="#introduction">Introduction</a></li>
+<li><a href="#features">Using the Features</a></li>
+<li><a href="#mp3player">MP3 Player</a></li>
+<li><a href="#fmradio">FM Radio</a></li>
+<li><a href="#voicerecorder">Voice Recorder</a></li>
+<li><a href="#movieplayer">Movie Player</a></li>
+<li><a href="#imagealbum">Image Album</a></li>
+<li><a href="#textviewer">Text Viewer</a></li>
+<li><a href="#usability">Usability Issues</a></li>
+<li><a href="#firmwarebugs">Firmware Bugs</a></li>
+<li><a href="#techsupport">No Tech Support</a></li>
+<li><a href="#conclusion">Conclusion</a></li>
+<li><a href="#relatedlinks">Related Links</a></li>
+</ul>
+<hr />
+<p>February 4, 2006 <span id="introduction"></span></p>
+<h2 id="introduction">Introduction</h2>
+I had bought the <a href="iops-mp3-player.html">IOPS F325</a> about a year and a half ago and was very happy with it. However, while 256MB of flash memory is adequate, I soon discovered I needed more memory for my MP3 songs. When I heard that IOPS had released several new MP3 player models back in November 2005, including the F5, I was excited to get one. The problem was these new models were not being currently sold in the USA and IOPS was not saying if or when they will be selling in the USA. I ended up buying the F5 from an on-line store. I can safely say I am the first on my block to own an F5 and probably the first in my city(!)
+<p>Since I previously own the <a href="iops-mp3-player.html">F325 model,</a> I will be making comparisons between the two models (The F5 and the F325) to see just how far IOPS has advanced with the F5.</p>
+<img src="images/f5-front.jpg" width="500" height="216" alt="F5 Front" /><br />
+The F5 MP3 player
+<p>I chose the <a href="http://www.iops.co.kr/enghome/iops_f5.htm">IOPS F5 MP3 player</a> because I wanted something small and light (it's roughly the size of a pack of chewing gum) with no moving parts. Since I have used the F325 before, I knew the F5 was better because it had more memory (I got the 2GB model), a multi-color OLED display and a USB 2.0 port. It's not clear how many colors the OLED display is capable of displaying. The IOPS website claims it has 64K colors while the user manual claims a more conservative 4K colors. It also would be nice to have the clock feature. Also, I pretty much knew how the controls worked (or so I thought) since both products are from the same company, IOPS.</p>
+<p>The F5 model is also known as the <strong>Gyuk</strong> model in Korean.</p>
+<p>You have to charge the MP3 player first as it comes with it's own in-built Lithium Polymer battery. It recharges from the USB port from a computer or from an AC adaptor that supports a USB connector. The first recharge took about 1.5 hours as my player seemed to already have a partial charge out-of-the-box. Please see the <a href="#usability">Usability Issues</a> Section below..</p>
+<p><span id="features"></span></p>
+<h2 id="using-the-features">Using the Features</h2>
+<span id="mp3player"></span>
+<h2 id="mp3-player">MP3 Player</h2>
+Downloading MP3 files into the F5 player was pretty straightforward. You just turn it ON and plug it in a USB port. In Windows XP, the player looks like a regular USB drive and you just drag and drop music files into the MUSIC folder.
+<p>The USB 2.0 connection was faster than before. Transferring 256MB of files to the F5 took about a minute rather than 7 minutes with the F325. While this is a vast improvement, it wasn't a blazing 40 times faster as was advertised (which should theoretically take about 10 seconds to transfer these files). Perhaps the bottleneck now is how fast the flash memory on the player can store this information. (If you are using Windows 98SE, you need to install drivers from the included CD so your machine can recognize the USB player. If you are using Windows 98 or below, you are out of luck as the player won't be recognized.)</p>
+<p>The player supports MP3, WMA and OGG audio files.</p>
+<p>The included earphones produced music from the player that was very adequate for me. I was quite satisfied with the sound. I did notice the F5 earphone wires had a weird, tacky rubbery texture that didn't exist with the F325 earphones. The F325 earphones felt better to me.</p>
+<p>I should mention in the F5 <strong>listing display,</strong> only 3 song titles are listed now rather than 4 song titles (in the F325). It seems they cut back one line in the display. This may not sound like much but it means you have to scroll through <strong>more</strong> little listing screens to search for the song you want. What IOPS should do is reduce the font size and have more lines listed.</p>
+<p>The F325 had 4 song titles listed in it's listing display.</p>
+<p><span id="fmradio"></span></p>
+<h2 id="fm-radio">FM Radio</h2>
+Reception to major radio stations was crystal clear with the F5. This was an improvement over the F325 which had a light static even when tuned to strong radio stations.
+<p>Presetting channels was made easier too. You no longer have to jump to and from different modes to set a channel.</p>
+<p>You get up to 24 presets for the radio. <span id="voicerecorder"></span></p>
+<h2 id="voice-recorder">Voice Recorder</h2>
+This is also very straightforward. You go into Voice mode. You press the <strong>REC</strong> button to toggle between recording and stop recording. The quality of the recording is very clear. The built-in microphone is very sensitive. The output file is in WMA format.
+<p>You may also record from the FM radio or from a wired audio connection but I will probably never use these functions.</p>
+<p><span id="movieplayer"></span></p>
+<h2 id="movie-player">Movie Player</h2>
+During my pre-buy research, I was wondering if this feature existed at all. The IOPS website mentions this but the downloaded PDF user manual for the F5 player did not mention movie playing at all. It was confusing. Also, since this model is not currently on sale in the USA, I could not get one in my hands to look at it. I was finally able to confirm this feature via email with an on-line store.
+<p>A new feature with the F5 player is being able to play movies on the player. All I can say is this feature does exist, it does work and it is kind of cool. Of course, the screen is really too small to stare at for real movie length shows and you lose a lot of the detail in the picture.</p>
+<p>You have to convert any MPEG-1, WMV, ASF, or AVI movie file you want to see through the included transcoder software which produces an IMV file. You transfer this IMV file into the player's MPEG4 folder. Then you can view the IMV file from the player. You cannot run the MPEG movie files directly from the player. I believe the transcoder software has several bugs in it because movie files run through it do not always play on the player. Please see the <a href="#usability">Usability Issues</a> Section below.</p>
+<p>I have also noticed a synch problem between the video and audio in some of the resulting IMV files. Sometimes the audio comes before the video can match it and sometimes after. This synch problem can be a fraction of a second to a few seconds off. I think this is a conversion problem with the transcoder software. Perhaps the conversion algorithm needs improvement.</p>
+<p>Movie files are played just like the music files, one right after another. This could mean you could line up a video programming of sorts. You can also jump forward to the next movie or backwards to the previous movie.</p>
+<p><span id="imagealbum"></span></p>
+<h2 id="image-album">Image Album</h2>
+Image Album is a new feature that comes with this player. You can display images files on the OLED display. Presumably, this is for viewing one's photographs once you transfer them to the player. This feature is barely usable and not well thought out. <strong>It is strange to see a product that plays movies so well yet paradoxically displays images so badly.</strong> Please see the <a href="#usability">Usability Issues</a> Section below.
+<p>It looks like this feature was added at the last minute. The user manual describes how the feature works but <strong>it does not tell you where to put the image files</strong> on the player. This should be basic information.</p>
+<p>After fiddling with the player, I figured out the image files should be placed in the MPEG4 folder to view them. <span id="textviewer"></span></p>
+<h2 id="text-viewer">Text Viewer</h2>
+Text Viewer is a new feature that comes with this player. You can read plain text files on the OLED display.
+<p>The text viewer is very primitive. You only have up and down scrolling. The screen width appears to be only 13 characters wide and the display software enforces this by hacking words into pieces to fit the screen. So the result is kind of awkward to read. This is not very usable. Please see the <a href="#usability">Usability Issues</a> Section below.</p>
+<p>It looks like this feature was added at the last minute. The user manual describes how the feature works but <strong>it does not tell you where to put the text files</strong> on the player. This should be basic information.</p>
+<p>After fiddling with the player, I figured out the text files should also be placed in the MPEG4 folder to view them.</p>
+<p><span id="usability"></span></p>
+<h2 id="usability-issues">Usability Issues</h2>
+There are several usability issues with the F5 player and half of them deal with the new features that come with the player. A lot of these issues should never have been inflicted upon the user in the first place.
+<p><strong>IOPS really should do some usability studies before releasing any new features.</strong> Just give a few average users a chance to use the new player and see what problems occur in a few days. The new features were good in concept but the implementations are primitive and barely usable, if at all.</p>
+<p>Here are listed some usability issues in no particular order:</p>
+<ol>
+<li><p><strong>No idiot light</strong> for recharging. Charging the player is the very first thing you have to do when you get it out of the box so making sure the player is charging is crucial.</p>
+<p>It's not clear if the unit is charging when plugged into the computer while turned OFF. And there's no way to tell if the unit has <strong>finished</strong> charging (if it is charging in the first place).</p>
+<p>According to the F5's user manual, you have to turn the unit ON and then plug it into the computer to see if it's charging. If the unit is ON, there is a charging "worm" in the OLED display that tells you how far it's charged.</p>
+<p>I discovered later the charging "worm" does not always give an accurate indication of the charging status either. Sometimes the "worm" indicates the player is charging when in fact, the player is fully charged.</p>
+<p>So what happens if the player is absolutely dead and you can't turn it ON? Will the player charge while OFF? The user manual is silent about this.</p>
+<p>The F325 had a blue LED idiot light for this. The LED lit up when the player was charging and went OFF when the player was fully charged. This is actually an important usability feature.</p></li>
+<li><p><strong>Keeps rebooting when you disconnect the player from the computer.</strong> The player powers down and then reboots itself for some reason. At first I thought this was an error, perhaps due to static electricity but this rebooting is consistent and appears to be normal behaviour.</p>
+<p>The F325 does not reboot when disconnected from the computer.</p>
+<p>Also, the F5 boot time is significantly longer than for the F325. Why is that?</p></li>
+<li><p><strong>Playing Movies</strong> is a new feature that comes with this player. To play movies, you have to run the movie files through the included transcoder software and convert them to an IMV file. The player will not play MPEG or WMV movies directly.</p>
+<p>You also cannot play QuickTime or Flash files directly either. The transcoder software will not convert these files to IMV format. It would have been nice to be able to convert these formats to IMV format.</p>
+<p>Another thing I noticed is there is no way to tell how far you are into the video when watching it. I suggest they take the bottom-most pixel line and use that as an indicator "worm" so you can tell how far the movie has run.</p></li>
+<li><p><strong>The transcoder software has bugs in it.</strong> Not all MPEG movie files were converted correctly to IMV format all the time! Some files needed to be run through twice before the transcoder would work correctly. Very strange behaviour. This greatly affected the <a href="#firmwarebugs">F5 firmware</a> discussed later.</p>
+<p>I tried to convert a 35 minute ASF file and the transcoder software just froze without any warning. I first thought there must be some maximum time limit in the file conversion until I converted a 36 minute WMV file with no problems. This is a bug.</p>
+<p>I have also noticed a synch problem between the video and audio in some of the resulting IMV files. Sometimes the audio comes before the video can match it and sometimes after. This synch problem can be a fraction of a second to a few seconds off. Also, sometimes, the video gets cut off a few seconds early at the end. I think this is a conversion problem with the transcoder software. Perhaps the conversion algorithm needs improvement.</p>
+<p>Resulting IMV files sometimes display pixellation in them that was not in the original MPEG file. Also, the transcoder software sometimes does an illegal memory reference and then crashes right in the middle of a file conversion. Did I mention the transcoder software has bugs in it?</p></li>
+<li><p><strong>The person who designed the MUSIC Display Screen has no sense of color and contrast.</strong> It looks awful and is hard to read. Why are they using a Microsoft blue background? Who said that was the standard color scheme for MP3 players? How is bright yellow text on a bright blue background readable? How is bright red text on a bright blue background readable? Why are you using five different fonts in three different sizes?</p>
+<p>What happened to the percentage of the song that was played? That was much more interesting to see than just a <strong>loading worm.</strong></p>
+<p>This is a perfect example of where <strong>less is more.</strong> Let the luminous OLED pixels stand out on their own on a dark background. <strong>You do not have to turn ON every single pixel!</strong> In fact, give the user the option to decide what color scheme he wants in the display. It would also be nice to let the user decide what icons he wants in the display too. Having the folder icon is useless. The musical note icon is useless too.</p>
+<p>The two color display on my F325 is very easy to read in comparison. It seems having less colors to choose from forces you to be inventive.</p></li>
+<li><p>The user manual is still that smallish user handbook (3.5" X 4") size but it's a little better than the F325's user manual (not by much though). Again, the manual is incomplete and does not explain all the functions of the player. The user manual looks like it was written by some high school student who was just doing the bare minimum to get by. Rather than spend a few more minutes trying to make the manual more useful to the user, he would rather go home early and play video games.</p>
+<p>Here are some examples:</p>
+<ul>
+<li>The user manual says you can display a user logo but it does not say <strong>where</strong> the logo file should be located, <strong>what</strong> the filename should be, <strong>what size</strong> it should be, <strong>what format</strong> it should be, etc.</li>
+<li>The user manual saids you can display images but does not tell you what folder to put the images in. Similarly with text files, where do you put them? The pictures in the manual are misleading. There is no folder called <strong>Sample Pictures</strong> on the player.</li>
+<li>What is the significance of the Image Converter and MediaSync software in relation to the player? It's not clear. There is no explanation. There are no examples on how to use the software.</li>
+</ul></li>
+<li><p><strong>Image Album</strong> is a new feature that comes with this player. You can display images files on the OLED display. Presumably, this is for viewing one's photographs once you transfer them to the player. <strong>I was not expecting much from this feature given the small display but it was much worse than I thought.</strong></p>
+<p>Displaying images was a pain in the ass. <strong>Loading</strong> an image took forever. God knows why the player is reloading the image since the image file is already stored in flash memory! Every time you zoom into the picture, this causes a tedious <strong>reload</strong> of the image. And you can only zoom in at a maximum of 5X the initial screen size. So if your image has more resolution than that, it's lost.</p>
+<p>Also, when you want to go back to the Image Album directory after zooming in, the player annoyingly reloads the current image file one last time. Why???</p>
+<p><strong>It is strange to see a product that plays movies so well yet paradoxically displays images so badly.</strong> 7MB movie files load instantaneously yet it takes several seconds to load a 50KB image file. It's like night and day.</p>
+<p>It would have been better to load the image once (it's still not clear why the image needs to be "loaded" at all) at full resolution and scroll that image rather than incrementally zooming in.</p></li>
+<li><p><strong>Text Viewer</strong> is a new feature that comes with this player. You can read plain text files on the OLED display.</p>
+<p>The text viewer is very primitive. You only have up and down scrolling. The screen width appears to be only 13 characters wide and the display software enforces this by hacking words into pieces to fit the screen. So the result is kind of awkward to read. This is not very usable.</p>
+<p>The text font is pretty big. They should have made the font size at least one half the size or give that as an option for the user. Then you could fit in more characters per line and it would still be readable. It would be nice if the file formatting was preserved and if you were able to scroll left and right too.</p></li>
+<li><p>The <strong>date and time clock</strong> is a nice thing to have except there is no way to immediately call it up if you need to see the date and time.</p>
+<p>This information is put into a screen saver which means you have to wait for the screen saver to display to see the date and time. This is not too useful.</p>
+<p><strong>It would be more useful to be able to see the date and time immediately at the press of a button when you need to see it.</strong></p>
+<p>Also, the format of the date and time is weird. No one writes the time as <strong>AM 1:15</strong>. It's written as <strong>1:15 AM</strong>. Similarly, no one writes the date as <strong>02.03 Thu</strong>. It's written as <strong>Thu 02/03/06</strong>.</p></li>
+<li>This is a nitpicking thing but still slightly annoying. The labeling text for the top control buttons is <strong>upside down!</strong> If you're looking at the OLED display then turn the player 90 degrees towards you to see the buttons on top, the labeling text is upside down. It should be a little thing to flip the text and the buttons so you can read them. It's funny how the buttons are ergonomically placed but the text is not!</li>
+</ol>
+<span id="techsupport"></span>
+<h2 id="no-tech-support">No Tech Support</h2>
+Tech support is non-existent. No one at <strong>sales@iops.co.kr</strong> has responded to any of my emails. They either do not check their email or cannot read English. I have also tried contacting:
+<ul>
+<li><strong>mulder@iops.co.kr</strong></li>
+<li><strong>andy@iops.co.kr</strong></li>
+<li><strong>dennisa@iops.co.kr</strong></li>
+</ul>
+<p><strong>and get no reply</strong> from these email addresses as well.</p>
+<p>There are no standard on-line support functions one would expect for a product like this. There is no FAQ, no BBS and no firmware downloads. So there is no on-line tech support.</p>
+<p><strong>December 23, 2006 Update</strong> - I finally did get some technical support but I had to call IOPS directly at their office in Korea (Their phone number is +8231 777 9222, x6401, talk to Mr. Andy Kim). I had a few extra dollars in my Skype account and decided to call IOPS in Korea just to see what would happen.</p>
+<p>I recently bought an X5 player at a discount at Ebay but it was not working properly. I first thought it was a firmware problem and wanted to get the latest version from IOPS. After installing the latest firmware version (received directly from IOPS), my X5 player still was not working properly so the problem had to be with the player itself. <strong>Mr. Andy Kim at IOPS very graciously had my X5 player repaired and promptly shipped it back to me. Thank you, Mr. Kim!</strong></p>
+<p>So one CAN get support from IOPS but it seems you must call them first and be persistent. I got great support once I was able to reach Mr. Kim. Please be patient with them as they are not too fluent in English and their email server appears not to be too reliable.</p>
+<p>By the way, do <strong>NOT</strong> buy anything from Ebay seller, <strong>mstation_mp3,</strong> from Australia. This seller is a major ripoff artist! <span id="firmwarebugs"></span></p>
+<h2 id="firmware-bugs">Firmware Bugs</h2>
+The firmware is the software that is running inside the mp3 player.
+<p>I was kind of disappointed to see the websites supporting the F325 go down without any new firmware updates. It seems my <a href="iops-mp3-player.html">F325 review</a> had fallen on deaf ears. <strong>Why sell a firmware enabled product if you do not intend on releasing any firmware updates?</strong></p>
+<p>I also notice there are no websites with firmware updates for the F5. Now it could be because the F5 model is still <strong>new</strong> but, given the lack of firmware updates for the F325, I do not expect any updates for the F5 either.</p>
+<p>I put this section in to get the attention of the IOPS firmware programmers and tech support. This is my attempt to get these bugs corrected and encourage them to produce firmware updates. It nothing else, perhaps this will help other F5 owners who encounter the same problems.</p>
+<ol>
+<li><p><strong>Movie Bug</strong></p>
+<p>I was playing a video which froze the player right at the end of the video. None of the regular buttons responded. I push the reset button at the back of the player and the player turns OFF. Now, when I try to turn the player back ON, it goes into this infinite loop on bootup! The boot won't finish. It just turns itself OFF and tries to boot again, turns itself OFF, boot again, turn OFF, etc. This goes on for a good part of an hour.</p>
+<p>I should mention here that while the player is going through this infinite boot loop, all the regular buttons on the player do not respond at all. There's no way to shut it down other than a reset. A really irritating situation.</p>
+<p>While I'm playing with it while it's trying to boot up, I suddenly get a prompt to go into <strong>safe mode.</strong> As I am looking at it in surprise, the damn prompt disappears (the wait is only a few seconds) and it goes into infinite boot mode again.</p>
+<p>It turns out if you hold the joystick to the lower right (or upper right) while it's booting, it will ask you to go into <strong>safe mode</strong> again. (You have to contact either the top right or bottom right toggles) So I select YES for safe mode. While in <strong>safe mode</strong> you can <strong>Initialize</strong> or <strong>Format</strong>. I choose initialize. It boots up again and now I'm in MUSIC mode! Cool! I go to the MPEG4 folder and try to play a movie file. Infinite boot mode again!?</p>
+<p>I initialize again, back into music mode, I play another movie file and this one plays with no problem! AHA!!! This must mean the first movie file is bad.</p>
+<p>This is what I'm guessing the F5 is doing. It played a <strong>bad movie file</strong> derived from the transcoder software. The player froze playing the movie. I reset the player and turned it back ON. The player boots up and attempts access the last file where it left off. Since the last file was a bad movie file, the access fails. Then the player reboots itself again, tries to access the last file it opened, fails, reboots, etc.</p>
+<p>The only way out of this infinite loop is to somehow reinitialize the file pointer to some known location so no error would occur. Logically, this should have been done with the <strong>reset</strong> button but it was not!</p>
+<p>It turns out the way to do this was hidden in some <strong>safe mode</strong> and <strong>initialize</strong> command.</p>
+<p>So the problems reside in <strong>both</strong> with the buggy transcoder software which created bad movie files, and the F5 player which doesn't know what to do when it encounters a bad movie file. It goes into infinite boot mode after a reset.</p>
+<p>I have only converted 8 MPEG files to IMV using the transcoder software. Of those 8 IMV files, 2 of them were "bad". When I ran the problem 2 MPEG files through the transcoder again, the resulting IMV files were now playable(?!) It seems there's a random element in the transcoder conversion algorithm. Most of the time, the resulting IMV files are playable but sometimes they are not.</p>
+<p>If I had not stumbled upon this <strong>safe mode</strong> I certainly would have either exchanged the F5 or returned it for a refund. Note this <strong>safe mode is not documented</strong> in the user manual.</p>
+<p>(I've since discovered there's a similar <strong>safe mode</strong> for the F325 but it only allows you to format the player.)</p></li>
+<li><p><strong>Music Bug</strong></p>
+<p>Songs from one particular CD seem to freeze the player randomly. The only way to get out of the freeze is by pushing the reset button on the back of the player.</p>
+<p>These same song files (WMA) play without problem in the Windows Media Player.</p>
+<p>I'm still looking into this.</p></li>
+</ol>
+<span id="conclusion"></span>
+<h2 id="conclusion">Conclusion</h2>
+Overall, I decided to keep this F5 player. It certainly has more improved features than the F325 including more memory (2GB), a multi-color OLED display and a USB 2.0 connection. I like the date and time clock feature although it would be better if you could push a button to display it when you need to see it. The movie playing feature works and is kind of cool although you are limited to playing MPEG files. And even then, you need to convert them to the IMV format first.
+<p>The new features like the Image Album and Text Display are not very usable. The OLED display color scheme is not very good either and should have been left as another user option. Who likes Microsoft blue anyway? Also, there were a number of usability issues and firmware bugs to overcome, the user manual is still crap and incomplete, and the tech support is non-responsive/non-existent. Considering the past history of IOPS and their MP3 players, I doubt there will be any firmware updates for the F5. This means the player will not be improved and you are stuck with the existing problems as previously described.</p>
+<p>Given the above, especially considering the lack of on-line support, I think this will be the <strong>last</strong> IOPS MP3 player I will buy for now. It was just too much of a struggle to get around the bugs/problems this second time around.</p>
+<p><strong>December 23, 2006 Update</strong> - I finally did get some technical support. Please read the <strong>No Tech Support</strong> section above to learn how I did it.</p>
+<p>I received the latest F5 firmware (version 2.00) directly from IOPS but have not installed it yet. The reason is, if the firmware fails to work, I have no earlier backup firmware to fall back upon.</p>
+<p>Explanation: Earlier, I had received the latest firmware for the X5 player (another IOPS model) also directly from IOPS and this new firmware did <strong>not</strong> boot after it was installed!? Fortunately, I had working firmware files from an earlier version and was able to install that to revive my X5.</p>
+<p>Since I have no backup firmware files for the F5, I'm wary about installing the new 2.00 firmware. Right now, my F5 is running firmware version 1.05 and it's working perfectly. I wish there was a way to extract the firmware from the player so I would have a backup.</p>
+<p>If anyone has successfully installed the new version 2.00 firmware on their F5 or has a working earlier version of the firmware files, please <a href="../writings/reply.html">contact me.</a></p>
+<p><span id="relatedlinks"></span></p>
+<h2 id="related-links">Related Links</h2>
+<ul>
+<li><a href="http://www.iops.co.kr/enghome/iops_f5.htm">http://www.iops.co.kr/enghome/iops_f5.htm</a><br />
+This is the propaganda page for the IOPS F5. There is no tech support contact and no firmware downloads. I get no response from the email address given on the website, sales@iops.co.kr. The only thing you can do is download the PDF user manual which I have already stated is incomplete.</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+\
+
+|                                          |
+|------------------------------------------|
+| [My Writings](../writings/writings.html) |
+
+Last updated : December 23, 2006\
+Copyright 2006 Al Wong, Los Angeles, California, USA

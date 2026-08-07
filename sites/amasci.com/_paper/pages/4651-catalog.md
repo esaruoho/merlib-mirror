@@ -1,0 +1,216 @@
+---
+title: "Catalog"
+source_domain: amasci.com
+source_path: ~lisa/catalog.html
+order: 4651
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:11:32Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Catalog
+
+*Source page: `~lisa/catalog.html`*
+
+## Music for Ballet class
+
+### Title Descriptions
+
+------------------------------------------------------------------------
+
+### <span id="favorite12">My Favorite Ballet Class Volume One and Two</span>
+
+My Favorite Ballet Class Volume 1 & 2 is now available on one CD. Lisa has picked the very best 43 cuts from the two previous cassettes, and now you have a great CD with long playing bands, and many choices to inspire your class. There a six different jumps for petit allegro and four grand allegro, so everyone can get back in shape.
+
+"The music is well played and interesting" -Dance Magazine.
+
+Compact disc - \$25
+
+------------------------------------------------------------------------
+
+### <span id="vol2">My Favorite Ballet Class Volume Two</span>
+
+28 repeated bands of music for class. Elegant graceful music for ballet, or pointe class. Selections include "I Got Rhythm, Tea for Two, Skylark". A wide range of rhythms, time signatures, and original compositions.
+
+"Thank you for sharing your wonderful talent with us." -Mrs. Desi Arnaz Jr.
+
+Available on casette - \$15
+
+------------------------------------------------------------------------
+
+<span id="piano"></span>
+
+### Solo Piano
+
+36 repeated bands of music available on compact disc and cassette. Lisa has her own refreshing interpretation to the familiar songs beautifully adapted for ballet. The recording includes songs for ballet and center work, and suggested exercise and meter. Songs include: "My Romance, Don't Cry for me Argentina, Tears in Heaven."
+
+"It's a breath of fresh for dancer's to hear these songs." -Sterling Kekoa, dancer.
+
+Compact Disc \$25\
+Cassette \$15\
+[Sound samples available](sample.html#piano)
+
+------------------------------------------------------------------------
+
+<span id="variation"></span>
+
+### Variations
+
+39 bands of music available on compact disc and cassette. A fresh approach to class, giving new inspiration through the unique selections of music. "Stairway to Heaven, Whiter Shade of Pale, The Rose", plus Lisa's favorite ballet tunes.
+
+"Thank you for our wonderful comraderie." -Stephanie Saland, dancer.
+
+Compact Disc \$25\
+Cassette \$15\
+[Sound sample available](sample.html#var)
+
+------------------------------------------------------------------------
+
+<span id="pas"></span>
+
+### Pas de Chat
+
+50 bands of music to give the teacher a wide variety of songs to choose from. Mozart, Tchaikovsky, Sting, Lloyd Weber, Mendelssohn, Gershwin, etc. Recorded while on the staff of the Pacific Northwest Ballet Company and School.
+
+"Lisa Harris plays for ballerina's as they pirouette to her classical, jazz, and rock-n-roll renditions. Although she follows the traditional ballet class, she plays a wide variety of music, in order to fit what's happening in the studio.
+
+Lisa Harris has played for royalty and ballet stars ranging from Princess Caroline of Monaco, to Rudolf Nureyev and Natalia Makarova. From Switzerland, London, Madrid, and Hamburg, to New York and Seattle, and many places in between, this unusual musician has found gigs in the top ballet companies of Europe and the U.S." -Sterling Kekoa, dancer
+
+Compact Disc \$25\
+[Sound samples available](sample.html#pas)
+
+------------------------------------------------------------------------
+
+<span id="apres"></span>
+
+### Après le Plié
+
+54 bands of music (Lisa had more but the CD wouldn't hold it all). During this recording Lisa was on the staff of [The Compañia Nacional de Danza](http://wwwinaem.mcu.es/danza.htm) in Madrid under the artistic direction of Nacho Duato, Spain's foremost choregrapher.
+
+"This contract has given me the opportunity to be in a great atmosphere of dancer's, at the leading edge of what's happening to the future of dance. Every ballet company want's Mr. Duato's work, and I can see why. There is soul, and technique and dignity to what he is doing. A visionary approach to keeping dance exciting and moving forward, while still keeping a link to the past." -Lisa Harris
+
+This recording contains a full wide range of exercises, clearly marked from Pliés to Reverence.\
+
+Compact Disc \$25\
+Cassette \$15\
+[Sound sample available](sample.html#apres)
+
+------------------------------------------------------------------------
+
+<span id="sync"></span>
+
+### In Sync
+
+"*I love playing the piano.*
+
+My music has taken me all around the world and I am constantly amazed that as I write this, dancers in classes from New York to Tokyo are practicing their technique to my recordings.
+
+For the last 2 years I have had the pleasure of playing for Nacho Duato and the Compañia Nacional de Danza in Spain. The experience and what I have learned there will stay with me forever, but now I have decided to return to my home in Seattle to my himalayan cats, and release my 7th recording....IN SYNC.. Inspiration for it has been definitely made possible with the fantastic support of my friends in Australia, Spain, Japan, England, France and all across the USA.
+
+Enjoy, dance and stay IN SYNC."\
+-- Lisa Harris
+
+Compact Disc \$25\
+
+------------------------------------------------------------------------
+
+<span id="micky"></span>
+
+### Micky's Kiss
+
+There once was a cat named Micky.\
+He was quite familiar with my music.\
+He often slept on the piano with his brother Jagger, as I practiced.\
+Of all my cats. Micky was special.\
+He loved to sip hot water out of the tub, having his tea you know ...\
+Micky passed a few weeks ago. He would always give me little kisses which were so inspiring.\
+That's why I've named my new album, **Micky's Kiss**.
+
+Be inspired. Love to dance.
+
+Compact Disc \$25\
+Cassette \$15
+
+------------------------------------------------------------------------
+
+<span id="magicwand"></span>
+
+### The Magic Wand
+
+Lisa's new release for the pre-ballet class. This recording is full of songs that inspire little ones to dance. Songs like "I've been working on the railroad", "I'm a little teapot", "Eetsy Beetsy Spider", and songs from kids musicals "Annie", "Beauty and the Beast", and "The Lion King". Long bands so the kids can keep practicing, in a way only Lisa can play and inspire.
+
+I've always felt children who have an opportunity to express themselves creatively, through music, dance and art, go on to have more rewarding and fulfilled lives.
+
+Compact Disc \$25
+
+------------------------------------------------------------------------
+
+<span id="xmas"></span>
+
+### Christmas Dance
+
+53 bands of music for over an hour playing time, Christmas Songs for ballet class
+
+"One rainy October night in the Northwest Lisa found her way into the recording studio. The air outside was filled with the first hint of change of season and the mood was just right to create the **Christmas Dance"**
+
+Compact Disc \$25\
+Cassette \$15\
+\
+[Sound samples available](sample.html#xmas)
+
+------------------------------------------------------------------------
+
+<span id="etudes"></span>
+
+### Etudes
+
+This new CD is inspired by Brahms, Mozart, Joplin, Bach, Sousa, Chopin, and some Classical variations from the Ballets: Giselle, Stars and Stripes, Sylvia, Midsummer Night's Dream, Swan Lake and Le Corsaire. The big waltz is from Man of La Mancha. The barre exercises are repeated, to make it easier. The center has nice waltz combinations, and fun jump music.
+
+Compact Disc \$25\
+
+------------------------------------------------------------------------
+
+<span id="impressions"></span>
+
+### Impressions
+
+This CD is inspired by the classical composers' beautiful themes. Lisa chose Mozart, Beethoven, Prokovfiev, Pucchini, Chopin, Grieg, and of course some Tchaikovsky. She also chose music from the ballets: Romeo and Juliet, Giselle, Sleeping Beauty, Stars and Stripes, Serenade, Le Corsaire, Nutcracker and Don Quoixote. There are 50 tracks available for Barre and Center and the CD is recorded on a 7 foot Yamaha Grand, so there is a beautiful tone. Lisa hopes you enjoy this new collection for ballet class.
+
+Compact Disc \$25\
+
+------------------------------------------------------------------------
+
+<span id="alma"></span>
+
+### For Alma
+
+I chose my favorite 46 pieces, to give you over an hour's worth of music.
+
+When Lisa decides on which songs to put on a recording, it is usually oriented towards dancers and their teachers and in her mind she is thinking of the structure of the many classes she has played for...
+
+One day while visiting friends on the island of Ibiza, a thought occurred, to release a record that would have no real structure other than for pure listening and relaxing.
+
+A L M A Classic Choices was born.....
+
+Simply a compilation of some of Lisa's favorite pieces all on one CD..... The word A L M A in spanish means the soul and the spirit. Listen to this album as a way to relax and help bring you in touch with the day.
+
+Compact Disc \$25\
+Cassette \$15
+
+------------------------------------------------------------------------
+
+<span id="waterdance"></span>
+
+### Water Dance - Adagio
+
+This CD is along the lines of Alma for those who enjoy the adagio songs. This CD is excellent for stretching, Pas de Deux, Yoga, or just relaxing in the car while driving. There are 34 tracks, lots of Gershwin, classical themes from Beethoven, Mozart, Chopin, Liszt, as well as popular songs, jazz standards, and some well known songs from the opera. It is beautiful recorded on a 7 foot Yamaha grand, and I think you will enjoy this one.
+
+Compact Disc \$25\
+
+------------------------------------------------------------------------
+
+**[\[How to Order\]](https://commerce.eskimo.com/~lisa/orderform.html) [\[Sound Samples\]](sample.html) [\[Main Page\]](index.html) [\[Lisa's Life\]](cv.html) [\[Favorite Links\]](favorites.html)**
+
+\

@@ -1,20 +1,20 @@
 ---
-title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists... Daily Bleed: On this day, November 30: anarchists Abbie Hoffman, Soledad Gustavo, Pi y Margall, Oscar Wilde, Henri Beylie, Anselmo Lorenzo"
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
 source_domain: amasci.com
-source_path: ~recall/bleed/1130.htm
+source_path: ~recall/bleed/0125.htm
 order: 6786
 reachable_from_entry: false
-images: 30
+images: 21
 internal_links: 0
-extracted: 2026-08-07T05:59:35Z
+extracted: 2026-08-07T17:14:11Z
 extractor: site_to_paper.py (pandoc)
 ---
 
-# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists... Daily Bleed: On this day, November 30: anarchists Abbie Hoffman, Soledad Gustavo, Pi y Margall, Oscar Wilde, Henri Beylie, Anselmo Lorenzo
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
 
-*Source page: `~recall/bleed/1130.htm`*
+*Source page: `~recall/bleed/0125.htm`*
 
-> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a.gif" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="95" height="175" alt="Cat Has Had the Time of His Life" />
 > >
 > > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
 > >
@@ -23,614 +23,409 @@ extractor: site_to_paper.py (pandoc)
 > > \
 
 \
---
+-- <img src="http://www.recollectionbooks.com/bleed/images/pixel.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="75" height="210" alt="?" />
 
-Daily Bleed: On this day, November 30: anarchists Abbie Hoffman, Soledad Gustavo, Pi y Margall, Oscar Wilde, Henri Beylie, Anselmo Lorenzo
+**     As a child, fresh out of the hospital\
+     with tape covering the left side\
+     of my face, I began to count birds.\
+     At age fifty the sum total is precise\
+     & astonishing, my only secret.**
 
-> **In the ventless room,\
-> Over the beds at the hour of rising,\
-> Hangs now the smother & stench of the crude flesh;\
-> & at the grimed sink\
-> We fill the basin of our mutual use,\
-> Where our forty faces, rinsed daily,\
-> Leaves each its common trace...**
->
->        *William Everson (Brother Antoninus)*,\
-> excerpt, "Hospice Of The Word"
-
+               *Jim Harrison,* "Counting Birds"\
 []()\
 []()\
 \
 --
 
-**NOVEMBER 30**
+**JANUARY 25**
 
-ABBIE HOFFMAN\
-Steal this Calendar!\
+GERARD DE NERVAL
+
+
+
+Walked his pet lobster on a blue ribbon\
+through the streets of Paris,\
+*"because it does not bark \
+& it knows the secrets of the sea."*\
+Visionary, great poet, suicide.\
 
 
-> 
->
-> > > "Revolution is not something fixed in ideology, nor is it something fashioned to a particular decade. It is a perpetual process embedded in the human spirit."
-> > >
-> > >        Abbie Hoffman, Soon to be a Major Motion Picture
->
-> > []()\
+> > 
 > >
-> > > 
-> > >
-> > > ------------------------------------------------------------------------
-> > >
-> > > INDEPENDENCE DAY - Barbados.
-> > >
-> > > NATIONAL DAY - People's Republic of Benin.
-> > >
-> > > JUDGE A BOOK BY ITS COVER DAY.
-> > >
-> > > ------------------------------------------------------------------------
+> > ------------------------------------------------------------------------
+> >
+> > FESTIVAL OF CONSTRUCTIVE EMERGENCY.
+> >
+> > FEAST DAY OF ST. DWYNDEN. Welsh patron saint of troubled lovers. Men with amorous difficulties go around in a state of dishevelledness. Duh.
+> >
+> > DINNER PARTY DAY.
+> >
+> > DIES MALA (Egyptian Day): considered unlucky in the Middle Ages. 
+> >
+> > WEATHER SIGNS DAY: "Sun means a good year, rain or snow foretells indifferent weather, a mist means want, while thunder predicts 12 months of winds & death" - Shepherds Almanack, 1676.
+> >
+> > ------------------------------------------------------------------------
+>
+> []()\
+>
+> []()\
+> \
+> 1640 -- Robert Burton, author of The Anatomy of Melancholy, dies at 62, in Oxford, near the date he had predicted by casting his own horoscope. []()\
+> []()\
+> \
+> <img src="http://www.eskimo.com/~recall/bleed/images/oldbook.gif" data-vspace="0" data-hspace="5" data-align="left" data-="" width="50" height="30" alt="old book" />\
+> 1759 -- Bard of Caledonia, Scottish poet Robert Burns lives at Alloway in Ayrshire. In 1859, at a centenary dinner in Boston, Ralph Waldo Emerson affirms that "The Confession of Augsburg, The Declaration of Independence, the French Rights of Man, & the 'Marseillaise' are not more weighty documents in the history of freedom than the songs of Burns." 
+>
+> > It is for his songs that Burns is famous. More than any other one factor, they have sustained the cultural consciousness of Scotland. 
+> >
+> > Burns gathered fragmentary songgs & legends & transmuted them into something more wonderful & more socially powerful than the originals. As the revolutionary nationalist MacDiarmid also notes, Burns took folksongs of Scottish nationalism, of Stuart legitimism, & subtly altered them into something quite different. Jacobite becomes Jacobin. 
+> >
+> > The songs of partisans filtered through Burns become battle songs of freedom, hymns to the integrity & independence of the individual...
+> >
+> > See Kenneth Rexroth, More Classics Revisited.
+>
+> <http://history.hanover.edu/early/burns.htm>\
+> <http://history.hanover.edu/19th/emerson.htm>\
+> \
+> 1787 -- US: Shay's Rebellion, begun in August, opposed the imprisonment of Massachusetts farmers for debts. Daniel Shays & 800 followers march to Springfield to seize the Federal arsenal, but were repulsed & put down by the Massachusetts State militia.
+>
+> > A few of Shay's militia were tried, convicted & hung for treason. Shay himself fled to Vermont & was later pardoned. Even so, the concern of landowners was evident. General Henry Knox, a veteran of Washington's army founded an organization of veterans, the Order of Cincinnati, possibly to resist radicalism wherever it might surface.
+> >
+> > The American Revolution is celebrated as an heroic liberation from from colonial rule. But a major impetus for adopting the US Constitution, a compromise between slaveholding interests of the South & moneyed interests of the North, was a fear of the common people & to prevent further rebellions such as Shay's.
+> >
+> > As Howard Zinn notes, "The Constitution was set up for the big government. It was set up to protect the slave owners, bankers, land prospectors & merchants. We've been living with a big government since 1787."
 > >
 > > 
 > >
-> > []()\
-> > \
-> > 30 -- \[BC\] Cleopatra, Egyptian queen, commits suicide.\
-> > []()\
-> > []()\
-> > \
-> > <img src="http://recollectionbooks.com/bleed/images/film/raycom1.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="80" height="130" alt="Actor Raymond Burr, from &#39;Ironsides&#39;" />\
-> > 1016 -- Edmund II, Ironsides, King of Saxons, dies at 27. []()\
-> > []()\
-> > \
-> > 1216 -- Pope Innocent III orders Jews to wear a special badge.\
-> > []()\
-> > []()\
-> > \
-> > <img src="http://www.eskimo.com/~recall/bleed/images/animfire.gif" data-vspace="0" data-hspace="5" data-align="left" width="30" height="50" alt="Ooops..." />\
-> > 1554 -- Roman Catholicism briefly restored to England under the reign of Mary Tudor. "Bloody Mary" had Thomas Cranmer, Hugh Latimer, Nicholas Ridley & nearly 300 other Protestant leaders burned at the stake. []()\
-> > []()\
-> > \
-> > 1624 -- New World: Foul? Richard Cornish executed for violating Virginia's anti-sodomy law. []()\
-> > []()\
-> > \
-> > 1631 -- Rabbi Samuel Eliezer ben Judah ha-levi Edels dies. []()\
-> > []()\
-> > \
-> > 1667 -- Jonathan Swift, critic, lives, Dublin, Ireland. Reads the Book of Job aloud on his birthday, perhaps because his Gulliver's Travels is the only work for which he ever receives payment: 200 pounds. \
-> > See [Kenneth Rexroth](http://www.bopsecrets.org/rexroth/index.htm), More Classics Revisited.
+> > - See "Shay's Rebellion" by Howard Zinn
+> > - See also William M. Brinton's An Abridged History of the United States,\
+> >   <http://www.us-history.com/nonf/chap_2.html>\
+> >   
 > >
-> > <http://www.mala.bc.ca/~mcneil/swift.htm>\
-> > <http://www.english.upenn.edu/~jlynch/Frank/People/swift.html>\
-> > <http://www.kirjasto.sci.fi/jswift.htm>\
-> > \
-> > 1782 -- Treaty of Paris ends the American War of Independence. []()\
-> > []()\
-> > \
-> > <img src="http://net.unl.edu/~swi/arts/images/talkback.gif" data-factoid="" data-hspace="5" data-vspace="40" data-align="LEFT" width="70" height="35" alt="US" />\
-> > 1812 -- US: Twice, General "Apocalypse" Smythe orders his troops to cross the Niagara River to invade Canada, & twice his courage failed & he called off the attack. As the soldiers clambered from their boats the second time, they turned their weapons upon their commander's tent; Smythe turned tail & fled to Virginia. []()\
-> > []()\
-> > \
-> > 1817 -- Theodor Mommsen lives. German classical scholar/historian, won the Nobel Prize for Literature in 1903. Wrote the three volume The History of Rome.\
-> > <http://www.kirjasto.sci.fi/mommsen.htm>\
-> > []()\
-> > \
-> > 1830 -- England: Agricultural laborers riot at Shaftesbury, Dorset, to secure the release of five imprisoned comrades. Simultaneously, in Banwell, Somerset, paupers riot at the poorhouse, then follow up with an attack on the lock-up & release its prisoners.\
-> > Source: 'Calendar Riots' []()\
-> > []()\
-> > \
-> > 1835 -- American humorist & radical social critic Mark Twain (Samuel Langhorne Clemens) lives, Florida, Missouri (sic). Author of [The War Prayer](http://www.lone-star.net/mall/literature/warpray.htm). 
+> > <http://shaysnet.com/dshays.html>\
+>
+> <http://www.servtech.com/~grugyn/bk2a-3wl.htm>\
+> \
+> 1851 -- US: Sojourner Truth joins first Black Women's Rights group, Akron, Ohio. []()\
+> []()\
+> \
+> <img src="http://www.eskimo.com/~tiktok/pics/hanging.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="left" data-="" width="105" height="239" alt="hanging out? " />\
+> 1855 -- Gerard de Nerval, hangs himself in the streets of Paris, France.\
+> <http://www.eskimo.com/~tiktok/#hanging>\
+> <http://www.odyssee.net/pcbcr/nerval.html>\
+> \
+> []()\
+> \
+> <img src="http://www.eskimo.com/~recall/bleed/images/oldbook.gif" data-vspace="0" data-hspace="5" data-align="left" data-="" width="50" height="30" alt="old book" />\
+> 1855 -- Dorothy Wordsworth, dies in Rydal, Cumberland, leaving Grasmere Journals unpublished. []()\
+> []()\
+> \
+> 1871 -- Emile Roger lives, France. Ardennes anarchist, member of "Les desherities" & "Les libertaires de Nouzon". Correspondent for the newspaper "La guerre sociale", died in 1917 during the war.\
+> <http://perso.club-internet.fr/ytak/janvier4.html#25>\
+> []()\
+> \
+> 1874 -- William Somerset Maugham lives in bondage, in Paris at the British Embassy.\
+>
+> > Then he added a note of cautionary advice: *"Do not become a cheap writer. Keep up your standards. It is better to be read by 800 readers & be a good writer than be read by all the world and be Somerset Maugham."*
 > >
-> > > Rudyard Kipling, a fan, thinks *"Cervantes was a relation of his"*; another big fan, Bill Faulkner calls him *"a hack writer who would not have been considered fourth rate in Europe".*
-> > >
-> > > Better is [Kenneth Rexroth](http://www.bopsecrets.org/rexroth/index.htm); see, for example, Classics Revisited or Assays.
-> > >
-> > > MARK TWAIN\
-> > > Attributed his long life & good health to whiskey, cigars, & pocket billards. Jubilee Calendar Saint 1999\
+> >        James Laughlin, publisher, New Directions
 > >
-> > 
-> >
-> > > Mark was separated at birth from his evil twin brother, Mindy, by their mother who vows, *"Never the twains shall meet!"*
-> > >
-> > > <http://www.kirjasto.sci.fi/mtwain.htm>\
-> >
-> >  []()\
-> > \
-> > 1854 -- US: "Fighting Mary" Eliza McDowell lives. A social worker, she helped organize the first women's local union of the Amalgamated Meat Cutters in 1902. Comprised mostly of women workers, the Local grew to more than 1,000 members. []()\
-> > []()\
-> > \
-> > <img src="http://recollectionbooks.com/bleed/images/anarchist/rainbow-cat-wave8.gif" data-hspace="10" data-vspace="10" data-align="LEFT" width="60" height="100" alt="Emma Goldman, Anarchist Feminist" />\
-> > 1865 -- Spain: Soledad Gustavo (Teresa Ma) lives, Villanova. Very cultivated, she was one of the first lay teachers in Spain.
-> >
-> > > Catalan anarchist free thinker, she met [Joan Montseny](http://recollectionbooks.com/bleed/08ref.htm#19/1864) (aka Federico Urales) at a conference she had sponsored (with Anselmo Lorenzo). She & Montseny founded the publication "Revista Blanca" in 1898. They were the parents of [Federica Montseny](%3Ca) (12 February 1905), a famed & controversial figure in the history of Spanish labor & anarchism.
-> > >
-> > > Gustavo wrote El sindicalismo y la anarquia. She died in Perpignan February 2, 1939.
-> > >
-> > > "Towards the end of the 19th century, Soledad Gustavo & Federico Urales were the founders, first, of "Tierra y Libertad" & of the "Revista Blanca". The latter achieved a print-run of 12,000 copies."
-> > >
-> > > []()\
-> > > <http://flag.blackened.net/revolt/spain/pam_intro.html>\
-> >
-> > []()\
-> > \
-> > 1870 -- France: Henri Beylie lives, Paris. Militant anarchist, antimilitarist & naturalist. 
-> >
-> > > Henri Beylie helped found the Ligue antimilitariste, which became a part of the Association Internationale Antimilitariste. He participated in the antimilitarist congress of 1904, in Amsterdam, then in that of August 1907 which followed on the heels of the International Anarchist Congress, in which he also assisted. 
-> > >
-> > > Beylie helped rebuild the anarchist movement foloowing WWI & helped publish & direct "Libertaire". 
-> > >
-> > > \
-> > > [\[Details, click here\]](http://recollectionbooks.com/bleed/11ref.htm#30/1870)
-> >
-> >  []()\
-> > []()\
-> > \
-> > 1874 -- Winston Spencer Churchill lives, at the family seat of Blenheim, near Woodstock, Oxfordshire.
-> >
-> > > In 1953 he gets the Nobel Prize for Literature for his six volume history, The Second World War: 
-> > >
-> > > "Writing a book is an adventure. To begin with it is a toy & an amusement. Then it becomes a mistress, then it becomes a master, then it becomes a tyrant. The last phase is that just as you are about to be reconciled to your servitude, you kill the monster & fling him to the public."
-> > >
-> > > <http://www.winstonchurchill.org/>\
-> > > <http://www.kirjasto.sci.fi/churchil.htm>
-> >
-> > []()\
-> > \
-> > 1874 -- Lucy Maud Montgomery lives. Canadian writer, famous for her juvenile books, especially Anne of Green Gables (rejected by several publishers) published in 1908, & followed by six sequels.\
-> > <http://www.kirjasto.sci.fi/lmmontg.htm>\
-> > []()\
-> > \
-> > 1894 -- American humorist, actor, playwright, Academy Award-winning screenwriter, Donald Stewart, lives, Columbus, Ohio. Best remembered for his screenplay adaptation of The Philadelphia Story (1940), & his membership in the Algonquin Round Table, the literary circle famous for the witty repartee of Dorothy Parker Robert Benchley & others. []()\
-> > []()\
-> > \
-> > <img src="http://www.oscariana.net/osctitle.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="167" height="260" alt=" ? " />\
-> > 1900 -- Irish wit, playwright, anarchist & gay pioneer Oscar Wilde 46, dies in Paris, France. Dying in an apartment, Oscar takes one last look at the world he is leaving behind & declares,
-> >
-> > *"This wallpaper is killing me; one of us has got to go."* 
-> >
-> > A witty death is as sublime as a birth.
-> >
-> > > Born in Dublin on October 16, 1854. Poet, writer, gay wit, publishes in 1890 [The Soul of Man Under Socialism](http://flag.blackened.net/revolt/hist_texts/wilde_soul.html), which is characterized by its libertarian nonconformism. In 1895, he is condemned to two years hard labor for his homosexuality. 
-> > >
-> > > Wrote "De profundis" there, exalting revolutionary action & political agitation. This small book was not published in its entirety until 44 years later. 
-> >
-> > "All authority is quite degrading. \
-> > It degrades those who exercise it, & degrades those over whom it is exercised."
-> >
-> > <http://flag.blackened.net/revolt/ws98/ws53_wilde.html>\
-> > <http://www.oscariana.net/1A.html>\
-> >
-> > []()\
-> >
-> > > Wilde had been charged three times with indecency, specifically "the seduction & corruption of young men". Evidence admitted against him included testimony about the fecal stains on his sheets.
-> > >
-> > > <img src="http://www.oscariana.net/agonies.jpg" data-border="1" data-hspace="0" data-vspace="0" width="200" height="258" alt="Agonies" />
-> > >
-> > > "I was a man who stood in symbolic relations to the art & culture of my age...The gods had given me almost everything. I had genius, a distinguished name, high social position, brilliancy, intellectual daring; I made art a philosophy, & philosophy an art: I altered the minds of men & the colour of things: there was nothing I said or did that did not make people wonder...I treated Art as the supreme reality, & life as a mere mode of fiction: I awoke the imagination of my century so that it created myth & legend around me: I summed up all systems in a phrase, & all existence in an epigram."
-
-[]()\
-\
-1901 -- Spain: Catalan federalist Pi y Margall dies. President of the first Republic in 1873, with the fall of King Amde of Savoy (hastened by Andalusian anarchist agitation of workers & peasants). Translated the works of [P.-J. Proudhon](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Proudhon), & wrote La reacin y la revolucin. Sought a federal republic, separate from the church & redistribution of land to the peasants. In Andalusia & in several cities in the Southeast, a libertarian federalism emerged, but the Monarchist reactionaries defeated all revolutionary aspirations & Pi i Margall resigned.
-
-***"(...) notre principe est la souveraineté absolue de l'individu; notre but final est la destruction absolue du pouvoir et son remplacement par le contrat; notre moyen est la décentralisation et la transformationcontinue des pouvoirs existants"\
-***in La reación y la revolución (1854)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[]()\
-<http://flag.blackened.net/revolt/spain/pam_intro.html>\
-\
-1906 -- John Dickson Carr lives. Pseudonyms Carr Dickson, Carter Dickson, Roger Fairbairn. American born writer of detective fiction, whose specialty was "locked-room puzzles, which he developed to its limits. Published about 80 mysteries. Fifty of them featured one of his three detectives - Henri Bencolin, Dr. Gideon Fell, & Sir Henry Merrivale.\
-<http://www.kirjasto.sci.fi/jdcarr.htm>\
-<http://www.thrillingdetective.com/eyes.html>\
-\
-<img src="http://www.windermere-wallstreet.com/images/wallst_pike.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="191" height="217" alt="?" />\
-1907 -- US: Pike Place Market dedicated in Seattle, Washington. Current home of Left Bank Books, a collectively owned & operated anarchist bookstore still going after 25 years. Next to the flower shop at the beginning of the market, you can just see the bookstore sign. Auntie Dave worked in this collective from 1978-1995, helping found their Books-to-Prisoners project, Left Bank Distribution & Publishing, & aka Used Books.
-
-<http://www.leftbankbooks.com/>\
-\
-[]()\
-\
-1912 -- Gordon Parks, film director/writer (The Learning Tree) lives. Photographer for Life magazine, director of "The Learning Tree" & "Shaft", called a "Twentieth Century Renaissance man" by the NAACP, who awarded him its Spingarn Medal in 1972. []()\
-[]()\
-\
-<img src="http://www.angelfire.com/images/animate/pow.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="50" height="50" alt=" ? " />\
-1914 -- George Tilyou, amusement park inventor, dies.\
-GEORGE TILYOU 1997 SAINT\
-Very amusing guy.\
-[]()\
-[]()\
-\
-1914 -- Anselmo Lorenzo, Spanish anarchist, dies. []()\
-[]()\
-\
-1915 -- Brownie McGhee lives. Blues Performer, Singer/Guitarist, Pianist, Kazoo, Songwriter, of Brownie McGhee & Sonny Terry.\
-<http://www.island.net/~blues/brownie.html>\
-<http://www.bluesaccess.com/No_26/brownie.html>\
-<http://www.io.com/~tbone1/blues/ECblz/bromcg.html>\
-\
-<img src="http://www.badge714.com/images/webbcvrsm.jpg" data-border="1" data-hspace="10" data-vspace="10" data-="" width="150" height="263" alt=" ? " />\
-1924 -- First photo facsimile transmitted across Atlantic by radio; it was an ad featuring Jack Webb captioned, *"Just the fax, ma'am".* []()\
-[]()\
-\
-1929 -- Italy: Sandro Pertini viene condannato dal tribunale speciale a 11 anni di carcere per avere diffamato il regime all'estero.\
-[\[Source: Crimini e Misfatti\]](http://recollectionbooks.com/bleed/sources.htm#Basta) []()\
-[]()\
-\
-1930 -- US: Rabble-rouser, labor activist Mother Jones dies, age 100, Silver Spring, Maryland.
-
-> "One of the boys said I was looking well. Of course I am. There is going to be a racket & I am going to be in it!"
+> > <http://www.kirjasto.sci.fi/maugham.htm>\
+>
+> []()\
+> \
+> 1882 -- Virginia Woolf (1882-1941) lives. British author who made an original contribution to the form of the novel -- also a distinguished feminist essayist, critic in "The Times Literary Supplement", & a central figure of Bloomsbury group. Her books were published by Hogarth Press, which she ran in her living room with hubby, critic & writer Leonard. After mental illness & shock when her house was destroyed by a bomb, she put rocks in her pockets & waded into the River Ouse near her home on March 28, 1941.\
+> <http://www.kirjasto.sci.fi/vwoolf.htm>\
+> []()\
+> \
+> 1885 -- Japanese poet Hakushu Kitahara lives, Fukuoka. A major influence in modern Japanese poetry with his aesthetic & symbolic style, His first collection of poems, Jashumon (1909), depicts Christian missionaries in 16th-century Japan. []()\
+> []()\
+> \
+> 1890 -- Nellie Bly (Elizabeth Cochrane) completes 72-day trip around the world. Daily Bleed Saint, Jan 27.\
+> <http://www.ozemail.com.au/~mghslib/projects/stwh01.html>\
+> []()\
+> \
+> 1890 -- US: United Mine Workers (UMW) forms.
 >
 > 
 >
->        Mary Harris "Mother" Jones, 1910
+> > I do not like the bosses & the bosses don't like me.
+> >
+> >  Aunt Molly Jackson
+> >
+> >  <http://www.fortunecity.com/tinpan/parton/2/jackson.html#top>\
 >
-> <http://www.johnshepler.com/articles/mojo.html>\
+> []()\
+> \
+> <img src="http://www.torget.se/users/c/Chilli/chili.gif" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="35" height="22" alt="Emma Goldman, Anarchist Feminist" />\
+> 1899 -- US: Emma Goldman begins a nine-month lecture tour of 11 states, beginning in Barre, Vt., where she is hosted by Salvatore Palavicini. She delivers several lectures in Barre, including "The New Woman" & "The Corrupting Influence of Politics on Man"--the first anarchist lectures in English ever presented there.
+>
+> While in Barre, Goldman meets Luigi Galleani, editor of the anarchist journal Cronaca Sovversiva.\
+> <http://members.aol.com/artgrrrrl/emma.html>\
+> []()\
+> \
+> 1901 --
+>
+> 
+>
+> 
+>
+> <img src="http://perso.club-internet.fr/ytak/images/tamponcommune_low.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="100" alt="?" />Hyppolyte Prosper Olivier Lissagaray (1838-1901) dies.
+>
+> A socialist who sided with no party, whose sympathies lay with Blanquistes, anticlericals, anarchists & his friend Amilcare Cipriani. 
+>
+> He joined the Paris Commune in 1871, & fought on the barricades during the "Bloody Week". 
+>
+> Lissagaray wrote Huit journes de mai derrire les barricades, published in Brussels where he had taken refuge, before being exiled in England. He returned to Paris in the amnesty of 1880, & founded the newspaper "La bataille". He is best known as author of the remarkable Histoire de la Commune de 1871, published in 1876, & immediately banned in France. 
+>
+> > "La dernire barricade des journes de mai est rue Ramponneau. Pendant un quart d'heure, un seul fdr la dfend. Trois fois il casse la hampe du drapeau versaillais arbor sur la barricade de la rue de Paris. Pour prix de son courage, le dernier soldat de la Commune russit s'chapper."
 
-> Mary Harris "Mother" Jones, a founder of the Industrial Workers of the World (IWW) & a militant leader of miners & other union workers, dies at the age of 100. She is buried in the Mount Olive, Illinois cemetery.
->
-> Jones was an organizer or "walking delegate" for the United Mine Workers (UMW), traveling from town to town, living in the homes of miners who sometimes risked their jobs to shelter her. Stories of her bravado are legendary. When she & 3,000 women were released by a militia after being held all night in McAdoo, Pennsylvania, they marched straight to the hotel housing the soldiers & ate their breakfast.
->
-> Into her 90s, Mother Jones still roamed through the hills of West Virginia, encouraging miners to organize. When a monument is dedicated to her in 1936, some 50,000 miners attended the ceremony. 
-
+<http://perso.club-internet.fr/ytak/janvier4.html#25>\
+<a href="http://www.chez.com/durru/lmichel/lacommune.htm#Plan" data-de="" data-la="" data-commune="">http://www.chez.com/durru/lmichel/lacommune.htm#Plan de la commune</a>\
+<http://pages.pratique.fr/~abachell/savoir.html>\
 []()\
 \
-1933 -- Sam Gilliam lives, Tupelo, Mississippi. Artist known for unique manipulation of materials resulting in painted sculpture or suspended paintings. His work was in the exhibit African-American Artists 1880-1987.
+1908 -- Andre Mournier ("The Agronomist") flees to Switzerland. Two anti-militarist articles by the French anarchist & member of the Colony of Aiglemont (founded by Fortun Henry), got him in hot water with the government for "insulting the army". Sentenced in absentia, he returned to France in 1910 & the charges were dropped in 1911.
 
-[]()\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/Encyclopedia/HoffmanAbbie/abbie2.jpg" data-border="0" data-hspace="10" data-vspace="10" data-="" width="314" height="500" alt="Abiie Hoffman reading" />\
-1936 -- US: "Yippie" leader Abbot (Abbie) Hoffman, aka "Free," lives, Worcester, Massachusetts. Wrote the philosophical Steal This Book, & the anarchist dance classic, Square Dancing in the Ice Age. Consummate joiner (Chicago 7, Viet Nam War protester, etc.)
+See the Anarchist Encyclopedia,\
+<http://recollectionbooks.com/bleed/sinners/MournierAndre.htm>
 
-> "Confusion is mightier than the sword."
->
->        Abbie Hoffman
-
-Steal this Website, <http://www.hayduke.com/>\
-[]()\
-
-> "Sacred cows make the best hamburger."
->
->  Abbie Hoffman
->
->  []()\
-> \
-> 1939 -- USSR invades Finland over a border dispute.
->
-> []()\
-> []()\
-> \
-> 1948 -- US: Baseball's Negro National League disbands. []()\
-> []()\
-> \
-> <img src="http://recollectionbooks.com/bleed/images/humor/slimPickens.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="150" height="196" alt="?" />\
-> 1950 -- US: President Truman threatens China with atom bomb. []()\
-> []()\
-> \
-> 1950 -- Indian Fellowship of Reconciliation founded. []()\
-> []()\
-> \
-> 1951 -- US: Convicted "trunk murderess" Winnie Ruth Judd is recaptured after escaping from the Arizona State Insane Hospital for the fourth time (see 16 October).\
-> <http://jeff.scott.tripod.com/judd.html>\
-> []()\
-> []()\
-> \
-> 1953 -- US: Albert Michael Espy lives, Yazoo City, Mississippi. In 1987, he is sworn in as the state's first African-American congressman since John Lynch more than 100 years before.
->
-> []()\
-> []()\
-> \
-> <img src="http://www.meteorite.com/meteor_logo.gif" data-border="0" data-hspace="10" data-vspace="10" data-="" width="600" height="22" alt=" ? " />\
-> 1954 -- First meteorite (8 lb) known to strike a woman (Liz Hodges-Sylacauga).
->
-> []()\
-> []()\
-> \
-> 1959 -- US: Billboard reports the payola scandal *"will substantially damage the careers of at least twenty-five DJs."* Alan Freed is quoted as saying that his career has gone *"down the drain."* []()\
-> []()\
-> \
-> 1961 -- US: Obese teenager Lowell Andrews, the "Nicest Boy in Woolcott, Kansas" who shot his parents & sister so he could inherit the family farm to finance his dream career of hired gun in Chicago, hanged, Leavenworth, Kansas. []()\
-> []()\
-> \
-> <img src="http://lists.village.virginia.edu/sixties/Graphics/Buttons/mccarthy_ribbon.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="100" alt="?" />\
-> 1967 -- US: Eugene McCarthy (Senator from Minnesota) officially enters the race for the Democratic presidential nomination, running on an antiwar platform, opposing the Vietnam War. (this the start of the People's Party?)\
-> <http://www.geocities.com/Athens/Delphi/1553/c68chron.html>\
-> []()\
-> \
-> 1969 -- US: 600 Native Americans occupying Alcatraz. []()\
-> []()\
-> \
-> <img src="http://europe.cnn.com/ALLPOLITICS/1998/06/04/rfk.crowley/rfk.4.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="200" height="138" alt=" ? " />\
-> 1969 -- Simon & Garfunkel's first TV special airs. Sponsor AT&T backs out when they learn that the duo plan to show footage of Bobby Kennedy's funeral march & clips of the Vietnam War, so they called. []()\
-> []()\
-> \
-> 1971 -- High Seas: Tanker breaks in half off Japan, spilling 6,258,000 gallons of oil. []()\
-> []()\
-> \
-> <img src="http://recollectionbooks.com/bleed/images/humor/fallout.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="130" alt="?" />\
-> 1973 -- US: Duck'n'Cover? Frozen mallards begin falling on Stuttgart, Arkansas.\
-> []()\
-> []()\
-> \
-> 1979 -- Zeppo Marx dies at 78. []()\
-> []()\
-> \
-> 1979 -- US: Old Shoe? Ted Koppel becomes anchor of ABC-TVs nightly "news", milking the tit of the Iranian Hostages.
+alt; Andr Mounier
 
 []()\
 []()\
 \
-<img src="http://www.catholicworker.org/Dorothyday/dd_old_med.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="108" height="140" alt=" ? " />\
-1980 -- US: Death of Dorothy Day, anarchist, pacifist, co-founder of Catholic Worker movement, New York City.
-
-> DOROTHY DAY 1997 SAINT 8 November\
-> Oddly, Roman Catholic church will never name her a saint, so we've stepped up to the plate (sic).
->
-> 
->
-> **"The greatest challenge of the day\
-> is how to bring about a revolution of the heart\
-> a revolution which has to start with each one of us."\**
->
-> 
->
-> Dorothy Day
->
-> 
+<img src="http://www.iww.org/graphics/badge.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="96" alt="IWW Bug" />\
+1911 -- At a meeting of the Superior Trades & Labor Assembly in northern Wisconsin, Louis Olson shows up wearing an Industrial Workers of the World (IWW) button. A motion is made & seconded that Olson discard the button or lose his seat. The motion is defeated.\
 
 
 
-<http://www.catholicworker.org/>\
+*Button Up?*\
+
 
-> Poet William Everson (Brother Antoninus) lived at Maurin House in Oakland, California in 1950 before going off from the Catholic Worker to the Dominican order.
+
+
+<img src="http://a1644.g.akamaitech.net/7/1644/33/2ee17943766920/images.citysearch.com/profile/c7/e6/11352933p1.jpg" data-shirtwaist="" data-makers="" data-hspace="10" data-vspace="10" data-align="LEFT" width="479" height="262" alt="Philadelphia" />
+
+> Numerous IWW organizers are reporting no success in trying to organize Wisconsin labor. Indifference toward the union is due partially to influential Milwaukee Socialist Victor Berger, who sees the group as a threat to the Socialist Party. 
 >
-> He greatly admired Day, whom he referred to in one dedication as the "mother of us all", & noted of his experience at Maurin House:
+> Controlled by Berger's party, the Milwaukee Federated Trades Council & the Wisconsin State Federation of Labor actively block IWW efforts to organize Milwaukee workers.
+
+[]()\
+
+> *"Whether the IWW increases in power or is crushed out of existence, the spirit that animates it is the spirit that must animate the labor movement if it is to have a revolutionary function."*
 >
-> "What surprised me was that the whole thing worked the way Dorothy Day said it would each day people would bring produce to us, so all we ever had to buy for the soup was the stock, & even that was often donated by butchersThe things we needed just seemed to show up.
->
-> In 1957, after [Kenneth Rexroth](http://recollectionbooks.com/bleed/Encyclopedia/RexrothKenneth.htm)'s "San Francisco Letter" appeared in the Evergreen Review, Everson was regarded as one of the San Francisco Renaissance poets (the Beats) & he was tagged with the name of "the Beat friar".\
-> <http://salt.claretianpubs.org/issues/DorothyDay/legacy.html>\
+>        Helen Keller, February 1918\
+> <http://iww.org/>\
 > 
 
 []()\
 \
-<img src="http://www.cyberboxingzone.com/images/stranc2.gif" data-border="0" data-hspace="10" data-vspace="10" data-="" width="318" height="202" alt=" ? " />\
-1980 -- At the Top Rank club in Wales, Elvis Costello & Squeeze perform a benefit concert for the family of late Welsh boxer Johnny Owen, killed recently by head injuries suffered in an American match.
+<img src="http://www.eskimo.com/~recall/bleed/images/bullet.gif" data-hspace="5" data-vspace="0" data-align="left" data-="" width="18" height="18" alt="Ooopsie!" />\
+1923 -- Argentina: Kurt Wilkens (Gustav Wilckens) assassinates the "Killer of Patagonia" in Buenos Aires.
+
+<img src="http://perso.club-internet.fr/ytak/images/wilkens_low.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="59" height="78" alt="?" />An anarchist pacifist emigrant in Argentina, Wilkens killed Colonel Varela, who was responsible for the massacre & torture of more than 1500 workers in Patagonia a year earlier.
+
+When arrested he declared:
+
+
+
+**"He will not kill anyone again. I have avenged my brothers."**
+
+Condemned to life in prison, he was killed in his cell, June 15, 1923, by the rightwing nationalist, Perez Millan, while sleeping. Millan was in turn killed on November 9, 1925, by the Russian anarchist German Boris Vladimirovitch.\
+
+
+See on this subject [Osvaldo Bayer](http://www.eskimo.com/~recall/bleed/sinners/BayerOsvaldo.htm), "Les anarchistes expropriateurs".
+
+
 
 []()\
 []()\
 \
-1984 -- Australia: Eliot V Elliott (1902-1984) dies, in Sydney. 
+1926 -- US: Passaic Strike -- 16,000 textile workers strike in Passaic, N.J.
 
-> 
+> "You are the ones who can say the word Solidarity. & call each other comrades. The oppressor can claim nothing but his greed."
 >
-> We walked six abreast, two city blocks long; the family, hearse, & SUA officials led the procession; the Unionbanner & the Merchant Navy flag preceded....
+>        Mother Jones
+
+[]()\
+[]()\
+\
+<img src="http://www.torget.se/users/c/Chilli/chili.gif" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="Emma Goldman, Anarchist Feminist" />\
+1926 -- France: Emma Goldman in Nice for most of the month, finishing a prospectus for "Foremost Russian Dramatists," a book based on her lectures, for which she hopes to receive an advance from Doubleday, Page & Company, leaves for Paris. Alexander Berkman is also in Nice, helping Isadora Duncan edit her autobiography.
+
+anarchist
+
+[]()\
+[]()\
+\
+1931 -- Paavo Haavikko (1931-) lives. Prominent Finnish poet, dramatist, & fiction writer, winner of Neudstadt International Prize for Literature in 1984.
+
+> *"I have seen quite a few things in my time. I don't recall that a single one of them seemed reasonable."* 
+
+
+
+<img src="http://www.isomedia.com/homes/harpo/gallery/9195/images/fn002.jpg" data-border="1" data-hspace="10" data-vspace="10" width="279" height="360" alt="fn002" />\
+<span class="small">Collage by SaintMeister James Koehnline</span>
+
+<http://www.kirjasto.sci.fi/haavikko.htm>\
+
+\
+[]()\
+\
+1932 -- England: Dartmoor Prison riot.\
+'Calendar Riots' []()\
+[]()\
+\
+<img src="http://orpheus-1.ucsd.edu/csj/posters/repros.jpeg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="137" height="200" alt="?" />\
+1937 -- Spain: The Consell d'Economa de Cataluyna (Catalan Economic Council) launches a campaign called the Batalla de l'Ou (Battle of the Egg), designed to alleviate the scarcity of eggs in the region. 
+
+> As the Spanish Civil War progressed, the campaign proved foolhardy. A paradoxical situation developed as families that had the money to pay for hens (at highly elevated prices) found a grain shortage prevented them from providing for their animals, & ultimately, forced them to eat their chickens.
 >
-> [\[Details, click here\]](http://recollectionbooks.com/bleed/11ref.htm#30/1984)
+> <http://orpheus-1.ucsd.edu/csj/posters/26.html>\
+
+\
+[]()\
+\
+1938 -- England: Perhaps due to intense sunspot activity, the aurora borealis is observed throughout Northern Europe & as far south as London's West End\
+'Calendar Riots' []()\
+[]()\
+\
+1947 -- US: Chicago gangster Al Capone, making quite a racket, dies of syphilis at 48. []()\
+[]()\
+\
+1950 -- US: 73F (23C) highest temperature ever recorded in Cleveland, Ohio in January. []()\
+[]()\
+\
+<img src="http://www.takver.com/history/gifs/chummy1.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="100" height="184" alt="?" />\
+1950 -- Austrialian anarchist John "Chummy" Fleming dies, age 86.
+
+> '... Every Sunday until his death... he took his stand under a tree at the Yarra Bank & summoned a few cronies with a tattered cow-bell. 
+>
+> Draped on the branches of the tree above were two faded red flags with 'Anarchy' & 'Freedom' worked on white. 
+>
+> The little man with his trousers rolled at the cuffs would preach in a quavering voice at the inequities of government & religion. With his milky eyes fixed beyond his listeners he would tell of the coming reign of earthly happiness & brotherly love.'
+>
+> <http://www.takver.com/history/edwards.htm>\
+
+[]()\
+\
+1961 -- El Salvador: Military coup deposes leadership. []()\
+[]()\
+\
+1968 -- Czechoslovakia: Alexander Dubcek ascends to power in & launches the "Prague Spring" of liberalization. []()\
+[]()\
+\
+1969 -- Czechoslovakia: 500,000 attend funeral of Jan Palach, Prague.\
+<http://www.radio.cz/palach99/eng/>\
+[]()\
+\
+1971 -- Charles Manson (36), Susan Atkins (22), Patricia Krenwinkel (23), & Leslie Van Houten (21) convicted of the brutal "Manson Family" "cult" murders of Sharon Tate, four of her friends, & a Los Angeles businessman & his wife. Norman Mailer later called Manson "the robber bridegroom of American dream life."
+
+> Charles Manson & three female members of his "family" are found guilty of one count of conspiracy to commit murder & seven counts of murder in the first degree & are sentenced to life imprisonment. During one of the most sensational trials in history, it was revealed that Manson regarded the Beatles as angels who communicated to him through their music. In particular, "Helter Skelter," "Piggies," "Revolution 9" & other songs on the "The White Album." 
+
+[]()\
+[]()\
+\
+<img src="http://www.pathfinder.com/Life/rocknroll/classic/slick.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="315" height="263" alt=" ? " />\
+1971 -- Grace Slick & Paul Kantner of the Jefferson Airplane become the proud parents of a baby girl, which the they originally wanted to name God, but settled on China.
+
+> (*"She's a neat little person," boasts Grace. "She has a funny vocabulary 'cause she's around rock 'n' roll musicians all the time."*)
+
+[]()\
+\
+
+[]()\
+\
+<img src="http://www.smalltime.com/dada/andada.gif" data-border="1" data-hspace="10" data-vspace="10" data-="" width="310" height="130" alt=" ? " />\
+1971 -- Uganda: Military coup under General Idi Amin Dada.\
+<http://www.smalltime.com/dada/>\
+
+\
+[]()\
+\
+<img src="http://www.iisg.nl/exhibitions/affiche/met/e12-369.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="242" height="350" alt=" ? " />\
+1981 -- China: Mao's widow Jiang Qing sentenced to death. Apparently belonged to a motorcycle gang with three others, her sentence was later commuted to life. []()\
+[]()\
+\
+1982 -- US: Steam-generator pipe breaks at Rochester Gas & Electric Company's Ginna plant near Rochester, New York. Small amounts of radioactive steam escaped into the air. []()\
+[]()\
+\
+1982 -- Germany: Berlin Appeal for European-wide nuclear-free zone. []()\
+[]()\
+\
+1983 -- US: Court of Appeals affirms rights of six Chippewa bands to hunt, fish & cut timber on lands ceded to the US. []()\
+[]()\
+\
+1984 -- Yoko Ono makes \$375,000 donation to Strawberry Fields, an old folk's home that inspired the John Lennon song of the same name. []()\
+[]()\
+\
+1984 -- US: INFACT (Infant Formula Action Coalition) wins settlement with Nestle Corporation after a seven year boycott.
+
+> The earth is not dying,\
+>       it is being killed,\
+> & the people who are killing it\
+>       have names & addresses....
 
 []()\
 []()\
 \
-1987 -- James Baldwin dies. African American novelist, dramatist, essayist, Civil Rights activist, gay. []()\
+1988 -- Mexico: An electrical short-circuit sparks an explosion & fire in a coal mine near Las Esperanzas, killing 41 miners. []()\
 []()\
 \
-1987 -- "Weird Al" Yankovic records first of his "Even Worse" LP: "Melanie" & "Stuck In A Closet With Vanna White". []()\
-[]()\
-\
-1988 -- LL Cool J performs the first rap concert held in Africa. []()\
-[]()\
-\
-<img src="http://newdeal.feri.org/timeline/images/i34m.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="256" height="191" alt=" ? " />\
-1991 -- US: 93 cars & 11 truck accident near Frisco, California during a dust storm, 17 die.\
+<img src="http://www.brieftales.com/xundies/valhrtf.jpeg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="144" height="131" alt=" ? " />\
+1994 -- Singer Markey Mark is sued by a Portland, Oregon woman who said she was trampled during one of his shows. She said he invited the crowd to rush the stage after he stripped down to his underwear.\
 []()\
 []()\
 \
-<img src="http://recollectionbooks.com/bleed/Encyclopedia/DebordGuy/debord20.jpg" data-border="0" data-hspace="10" data-vspace="10" data-="" width="200" height="335" alt="Old photo of Debord" />\
-1994 -- **Guy Debord dies, Champot, Upper Loire, France.**
-
-------------------------------------------------------------------------
-
-Member of the Situationist International, writer, filmmaker, critic of Spectacular, Too-Late Capitalism, best known for his book The Society of the Spectacle, popularized with the May Uprising of 1968. His ashes are scattered on the point of ile de la Cite, Paris.
-
-
-
-> In the decor of the spectacle, the eye meets only things & their prices.\
->  [graffiti, May 1968](http://www.bopsecrets.org/CF/graffiti.htm)
-
-
-
-<img src="http://www.toysatellite.org/doods/img/strip2.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="70" height="300" alt="?" />'In a society where modern conditions of production prevail, all of life presents itself as an immense accumulation of spectacles.
-
-Everything that was directly lived has moved away into a representation."
-
-\
-
-
-
-<img src="http://www.eskimo.com/~recall/bleed/images/readingline.gif" width="1" height="250" />
-
-
-
-\
-
-
-
-*"The world at once present & absent which the spectacle makes visible is the world of the commodity dominating all that is lived. The world of the commodity is thus shown for what it is, because its movement is identical to the estrangement of men among themselves & in relation to their global product."* [http://www.nothingness.org/SI/debord/](http://www.nothingness.org/SI/debord.html)\
-
-\
-
-
-\
-
-
-
-------------------------------------------------------------------------
-
-
-
-> <img src="http://www.tao.ca/images/jpg/situ_sm.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="114" height="120" alt=" ? " />The spectacle is ideology par excellence, because it exposes & manifests in its fullness the essence of all ideological systems: the impoverishment, servitude & negation of real life.
->
->        Guy Debord, La socit du spectacle
-
-<http://www.bopsecrets.org>\
-\
-
-
-**<http://members.optusnet.com.au/~rkeehan/>\
-<http://library.nothingness.org/articles/SI/>\
-<http://perso.wanadoo.fr/marxiens/politic/situs.htm>\
-<http://www.mital-u.ch/Dada/index.html>\
-<http://www.geocities.com/CapitolHill/6824/debord.htm>\
-<http://burn.ucsd.edu/paris.htm>\
-<http://www.disinfo.com/pages/dossier/id112/pg1.html>\
-\**
-
-
-
-> We are all undesirables. 
->
->  [graffiti, May 1968](http://www.bopsecrets.org/CF/graffiti.htm)
-
-
-
-Then appeared for the first time the disquieting figures of the Situationist International. How many are there? Where do they come from? No one knows.
-
-Le Rpublicain Lorra
-
+1995 -- Soldiers' Mothers Committee begins 56 mile march between Nazran & Grozny, Chechnya. []()\
 []()\
 \
-1996 -- US: Tiny Tim (Herbert Buckingham Khaury), singer with falsetto warble & ukulele ("Tiptoe Through the Tulips"), dies. Reported about 64 at death, he was born April 12, 1923, so he was 73. []()\
-[]()\
-\
-<img src="http://recollectionbooks.com/siml/images/Images/wto/NEWSWTO.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="120" height="183" alt="Tall on profits, short on Wages" />\
-1999 -- US: WTO (World Trade Organization) meets in Seattle, Washington amid massive ongoing protests, cab strikes. The Emperor wears no clothes.
-
-> "Our problems stem from our acceptance of this filthy, rotten system."
->
-> 
->
-> Dorothy Day
->
-> The masters, whether they be priests or kings or capitalists, when they want to exploit you, the first thing they have to do is demoralize you, & they demoralize you very simply by kicking you in the nuts."
->
-> 
->
-> [Kenneth Rexroth](http://recollectionbooks.com/bleed/Encyclopedia/RexrothKenneth.htm)
->
-> 
->
-> "There are no limits to creativity. There is no end to subversion."
->
-> 
->
-> Raoul Vaneigem , The Revolution of Everyday Life
->
-> \
->
-> anarchist
->
-> 
->
-> <img src="http://recollectionbooks.com/bleed/Encyclopedia/wto/protest05.jpg" data-border="0" data-hspace="10" data-vspace="10" width="320" height="240" alt="cops gassing protestors" />\
-> \
-> 
->
-> 
->
-> November 30th, '99\
-> history walkin' on a tightrope line\
-> big money pullin on invisible strings\
-> gettin into everything\
-> so deep, its hard to believe\
-> its in the food & the water & the air you breathe\
-> & the chemistry, the bio-tech\
-> the banker with the bottomless check\
-> the corporations & the CEOs\
-> & the bottom line is, the profit grows\
-> the money talks, you dont talk back\
-> they dont like it when you act like that\
-> *but didnt we\
-> shut it down\
-> didnt we*
->
-> \
-> Jim Page, Seattle songster, **"Didnt We"**
->
-> <http://www.flyingdisk.com/didn't_we.htm>
-
-
-
-WTO image archive at the Stan Iverson memorial Library,\
-<http://recollectionbooks.com/siml/images/Images/wto/>
-
-Video online, Showdown in Seattle: 5 Days That Shook the WTO,\
-<http://www.workingtv.com/real/real174.html>\
-<http://www.foodfirst.org/progs/global/trade/wto2001/links.html>\
-<http://www.zmag.org/wto-seattle.htm>\
-<http://recollectionbooks.com/bleed/wto.htm>\
-<http://EatTheState.org/04-06/WTOOverview.htm>\
-<http://www.notbored.org/seattle.html>\
-
-[]()\
-\
-<img src="http://recollectionbooks.com/siml/images/Images/wto/no2wtoIWWW.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="215" height="190" alt="?" />\
-1999 -- US: In Morgantown, WV, 20 people from the Morgantown Anarchist Group, the West Virginia University branch of the Sierra Club, & others gathered to protest against the WTO. []()\
-<http://www.zmag.org/wto-seattle.htm>\
-
->  []()\
-> \
-> 2000 -- US:
->
-> > Florida...
-> >
-> > <img src="http://graphics.theonion.com/pics_3641/head_bush_executes_3641.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="455" height="51" alt="?" />
-
-\
-<http://www.theonion.com/onion3641/bush_executes_democrats.html>\
-
-[]()\
-[]()\
-\
-2001 -- US: THE PEOPLE'S HOLIDAY - In A Celebration of Art and Action - 3pm-11pm; Second Anniversary of the 1999 WTO Ministerial in Seattle.\
-<http://www.seattle.indymedia.org:8081/N30/>\
+1996 -- Germany: The former 'Bundeswehr' general Jorg Schonbohm becomes Berlin's Interior Minister & declares that all squats will be evicted.\
+<http://www.eskimo.com/~recall/bleed/1003b.htm#1990>\
 
 []()\
 \
 3000 --
 
-Often in winter the end of the day is like the final metaphor in a poem celebrating death:
+
 
-there is no way out.
-
-Agustin Gomez-Arcos, A Bird Burned Alive, 1988
-
-\
-
-<img src="http://dmoz.org/img/moz/blkflg.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="108" height="145" alt=" ? " />
+<img src="http://www.isomedia.com/homes/harpo/gallery/8690/images/em001.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="176" height="260" alt="em001" />
 
 
 
-> > []()\
-> > []()\
-> > \
-> > <img src="http://machno.hdm-stuttgart.de/~hk/si/WHY_MARC.GIF" data-border="1" data-hspace="10" data-vspace="10" data-align="right" data-="" width="124" height="174" alt=" ? " />\
-> > 4500 -- <http://machno.hdm-stuttgart.de/~hk/si/>\
-> > []()\
-> >
-> > ------------------------------------------------------------------------
-> >
-> > anti-CopyRite 2000-3000, more or less\
-> > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
-> > or send questions, suggestions, additions, corrections to:\
-> > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
-> >
-> > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
-> >
-> > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
-> >
-> > anarchist, labor, radical books
-> >
-> > See also: Anarchist Encyclopedia\
-> > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
-> > Stan Iverson Memorial Library\
-> > http://recollectionbooks.com/siml/\
-> > Anarchist Time Line / Chronology\
-> > http://recollectionbooks.com/bleed/indexTimeline.htm
+<sub>Collage by SaintMeister James Koehnline</sub>
+
+
+
+> 
+>
+> Direct Action . . . implies that the working class subscribes to notions of freedom & autonomy instead of genuflecting before the principle of authority. Now, it is thanks to this authority principle, the pivot of the modern world democracy being its latest incarnation that the human being, tied down by a thousand ropes, moral as well as material, is bereft of any opportunity to display will & initiative.
+>
+> 
+>
+>  Emile Pouget, DIRECT ACTION
+
+> <http://flag.blackened.net/huelga/texts/da.htm>\
+>
+> []()\
+>
+> ------------------------------------------------------------------------
+>
+> anti-CopyRite 2000-3000, more or less\
+> Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> or send questions, suggestions, additions, corrections to:\
+> [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+>
+> Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+>
+> The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+>
+> anarchist, labor, radical books
+>
+> See also: Anarchist Encyclopedia\
+> http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> Stan Iverson Memorial Library\
+> http://recollectionbooks.com/siml/\
+> Anarchist Time Line / Chronology\
+> http://recollectionbooks.com/bleed/indexTimeline.htm

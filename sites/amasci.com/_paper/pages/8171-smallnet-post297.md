@@ -1,0 +1,189 @@
+---
+title: "SMALLnet post297"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post297.html
+order: 8171
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:49Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post297
+
+*Source page: `~smallnet/Archive/post297.html`*
+
+## SMALLnet Posting post297
+
+------------------------------------------------------------------------
+
+**Date: Sun, 12 Mar 2000 00:24:07 -0600**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>.
+
+Larry Marshall \< <larrym2@earthlink.net> \> comments on the topic of computer-produced decals:
+
+Carlo Godel wrote that he preferred Corel to Adobe Photoshop. But he's comparing apples and oranges. Adobe Illustrator is the Adobe drawing program and it supports vector drawing better than most. Photoshop is for working with raster photos, so I wouldn't expect it to do very well at vectoring. Neither can beat old versions of Corel from eBay on price, however.
+
+Cheers --- Larry
+
+Joe Ross \< <w5bsa@earthlink.net> \> adds to that:
+
+I really like Paint Shop Pro by JASC. You can download a shareware version at their website: \< <http://www.jasc.com> \>. I agree with the comment on vector-based graphics. That's one of the attributes of Paint Shop Pro: you can select raster-based imaging, or vector-based. You can also use the "layers" feature to use both, and then merge the final image for some neat techniques.
+
+One of the things I like to do is use my scanner and scan an image from a book or other publication. Scan in at 200 per cent at 150 dpi resolution. (I recently did a Swastika this way from a photo of the tail of an ME-109.) Use the scanned photo as your template.
+
+All of the inexpensive flat-bed scanners will scan directly into Paint Shop Pro. (Use the "acquire" feature. Now create a new layer. Use the drawing tool to draw your new image right over your scanned image. This technique makes anyone look like a great artist. Really comes in handy on complicated nose art. It's a lot easier than it sounds.
+
+I am experimenting using the Epson T-shirt transfer material to transfer the printed image directly to Silkspan. Will know more this weekend. Paint Shop Pro, version 6.0 is the current version. If you decide you like it after the 90-day evaluation period, it is \$100 with free upgrades as they become available. As far as I know, it is available only for PC computers; no Macs as yet.
+
+I had a great time last evening at Mike's Hobby Shop in Dallas, Texas. Mike was flying his Piccolo mini-electric helicopter inside the store. It is fantastic, although a bit pricey.
+
+Hope everyone is getting ready for Maumelle. I am definitely making it this year.
+
+Regards, Joe Ross
+
+Wally \< <WJZDAD@aol.com> \> submitted:
+
+About re-cycling nicads: I charge my new pack for at least 14 hours. I then check it out on my expanded scale voltmeter. If it passes that simple test, I re-cycle it immediately; recharge it again; then re- cycle it again. I do this three times. Then I use the pack to fly my airplanes.
+
+I also re-cycle about every three months. I've been doing this since 1964; that's when I got into R/C. I've had great success doing it this way. I also change my batteries every four years.
+
+I do an awful lot of flying, with very few battery problems. Hope this helps you out. Wally
+
+Charlie Fries \< <c.s.fries@juno.com> \> received different advice:
+
+I had asked if anyone knew what time should elapse between charging and re-cycling a battery pack. Ed Baumgartner E-Mailed me a suggestion to go to "Red" Scholefield's web site at \< <http://gnv.fdt.net/~redscho/> \>. I did, and there was the answer I was looking for:
+
+Fully charge and cycle. Note capacity. Fully charge again and let the pack rest for 5 to 7 days. Cycle again. If the pack has lost more than 15% over that period, it is at risk. If a pack loses 10% overnight, use it as ballast only. (Paraphrased from Red's site.)
+
+I would encourage any SMALLster to visit the site and refresh their memory of battery basics.
+
+Charlie Fries
+
+....Good advice, Charlie. Red is THE old master of nicad technique, and has helped a great many modelers with his answers to their questions. \[JW\]
+
+Mark Garvey \< <Lazybee45@aol.com> \> wrote:
+
+LeRoy wondered whether anybody's done a Demoiselle as a park flyer. There is a nice peanut scale plan of the Demoiselle by Bill Warner. Intended for rubber power of course, but bumping it up on your local friendly Copyworks or Kinko machines shouldn't be too difficult.
+
+The thing is pretty simple, I believe. There are some really simple small aircraft out there too. Some of the ultralights are quite interesting.
+
+By the way, should you be interested in foam for cutting, I got some yellow foam the other day simply by inquiring about foam at one of my deliveries. They (a lumber yard) had yellow, not pink or blue, and had a few pieces they had cut off from a job.
+
+I also make deliveries to "Job sites" occasionally and could have scored several pieces of pink from another delivery. I have enough to cut several models now. Most interesting. The amounts of material that we use in our small machines are insignificant. Why purchase a sheet for \$20 or more when you can inquire and possibly spend a few dollars or even be offered material for free? Mark
+
+Peter Hudson \< <peter@compositemodelworks.com> \> announced:
+
+<span id="117">Source: Models, Spyder Moth\
+</span> If you haven't seen it already, check out the Spyder Moth at \< <http://www.compositemodelworks.com> \>. It's a 5-ounce electric flying wing slow-flyer/ park-flyer.
+
+Peter Hudson Composite Model Works
+
+Glenn Bolick \< <rgb8@juno.com> \> inquires:
+
+I have a question which perhaps some of the electric flyers can answer. I purchased an Astro Flight 217D controller probably a year and half ago, and just got around to placing it in use. The unit is not a BEC one, but in my application: Speed 500 Race motor, seven 1500 mAH cells, it seems to act as one.
+
+When the motor is started, all runs fine up to about 2/3rds and then it shuts off. Bring transmitter stick back to stop, and it starts over again with the same results. Unfortunately I did not do a complete run-up before the first flight of my Apache, and just as it took off I advanced the throttle. You know the rest of the story.
+
+At least only the landing gear was ripped out. I have been unable to figure out why this is happening, as it behaves this way on the bench with the transmitter and receiver side by side. I even changed receivers and transmitters with same results. Thanks for any help, since the unit is out of warranty at this late date.
+
+Glenn Bolick
+
+Jim Anderson \< <rcanders@stny.lrun.com> \> reports:
+
+Received my Flyline plans of the Megowcoupe from Aerodyne, and they are perfect! I have a friend that needs plans for a J. Roberts Model Mfg. Co. C/L Corsair AU-1. This is kit \# JRS - 2 1495 from about 1960. I haven't been able to find it listed with Aerodyne on their site. Anybody have any ideas or possibly a set? A card sent to the address on the box was returned "addressee unknown".
+
+On another matter, my Herr P-51 has the retracts installed. They work nicely. I didn't want to use a wheel that would fit completely into the wing, as I only have grass runways available, so I went with 2" Great Planes Lite wheels. They don't go far enough in to put gear doors on, but should look all right in the air.
+
+The model is just about ready for the Norvel .074, which is still on backorder. Boy, do I hate waiting, especially when I've heard so many good things about that engine!
+
+As far as the Zagi 400 goes, it's really popular here in New York. Seems like everyone is picking one up. They really fly nicely, and are very acrobatic -- but will just float along when you want to. They're virtually indestructible. We do find that if you use the Castle Creations speed controller rather than the FMA Direct, performance seems to be a little better. I am not well versed in the electric thing, so I don't know why -- maybe less resistance?
+
+Fly high and land soft, Jim Anderson
+
+Malcolm Logan \< <rcav8r@loxinfo.co.th> \> remarks:
+
+Although pure gliders qualify as SMALL I believe, it's very seldom we see any reference to them on this forum. I imagine that's because most SMALL subscribers are more inclined towards powered models.
+
+Anyway, I have a ZAGI and I've flown 2 others belonging to OFB's. But, as you may already know, there are ZAGI's and ZAGI's -- and then there are other ZAGI's too - and even powered ZAGI's !
+
+Mine is the ZAGI-LE slope combat version with EPP foam LE, and weighing in at 22 ounces. The kit is by Trick R/C from somewhere in California. I had some problems understanding their instructions regarding the parcel taping of the foam structure (as it was contradictory) and the CG location -- so I e-mailed them.
+
+But the responses from Jerry Teisan were less than helpful. Eventually, I did it my way. They have a website, and there's a ZAGI forum -- just punch in ZAGI and you'll get there OK -- where you'll find several different ZAGI types. There are also clones (or copies ?) from Europe and New Zealand that I've flown.
+
+If you've never experienced all-foam construction covered in fiberglass parcel tape before, be ready for some interesting experiences !
+
+How does mine fly ? Disappointingly -- but that's undoubtedly because I bought the wrong ZAGI -- and that's because I didn't know there were different models to choose from at the time.
+
+Our slopes are very poor here (Bangkok is in the centre of an alluvial flood plain) so I really needed the ZAGI-THL, which is more of a floater, at half the finished weight of the LE version.
+
+At present, the 'slope' we use is in fact a very deep pit ! There, the ZAGI-LE only starts working when the wind is over 10 knots. Below that wind speed, only the floaters stay up. The kit box label says the ZAGI-LE's wind range is 6 - 40 mph.
+
+Have fun ! And let's hear more from you. Malcolm Logan
+
+Dave Segal \< <DDavesegal@cs.com> \> submitted:
+
+<span id="219">Source: Wheels, Retainers\
+</span> Here are some more suggestions for wheel retainers for 1/16" axles:
+
+Sig makes tiny coiled wire retainers that are invisible from a few feet away. The product is \# SH-121, 1/2A Wheel Retainers; package of 4 for \$0.65.
+
+Hayes has a 100-piece assortment of small plastic hardware which includes 13 push-on collars for 1/16" wire. Tower's catalog number is HAYQ1100, 100-Accessory Assortment, for \$3.79
+
+I have just used Airspan for the first time on a Speed 400 powered model. It looks nice, but flying from a stubbly field is producing too many little punctures. Does anyone have recommendations for tougher coverings? Years ago I tried Oracover Light, which did not stick very well, and looked like the cellophane wrap on a basket of gift fruit.
+
+Dave Segal
+
+Francis S. Person \< <persof@webcombo.net> \> notified us that his e-mail address was posted wrongly last time. It's right THIS time! \[JW\]
+
+Harry Stewart \< <hstewart@jps.net> \> wrote:
+
+Far be it for me to disagree with such a distinguished and esteemed engine authority as George Aldrich, (in \#295), but having used both the Tarno Carb and the HiScott throttle/muffler assembly that was available at about the same time, I believe that the HiScott was far and away the superior way to throttle a Cox TD. Unfortunately neither one is still available.
+
+I've also got a Norvel Revlite .061 which I have run a few times. Using an old Cox 6x3 gray prop, (which doesn't load the engine nearly as much as the current 6X3 gray), and Norvel 25% fuel, I'm getting over 18,000 rpm with an idle between 5000 and 5500 rpm -- and it's still so tight that it sticks at TDC when you turn it over by hand.
+
+I hope the idle improves as it gets more time on it. Anybody else out there with experience with the Revlite .061? Harry Stewart
+
+Patrick LeRay \< <PLeray@aol.com> \> wonders:
+
+If the goal is a stable (i.e. not aerobatic or twitchy) biplane, with good stall resistance, what would be the best incidence set-up for the wings?
+
+1.  +2 to +3 degrees for top wing, 0 degrees for bottom?
+2.  0 degrees top, -2 to -3 for bottom?
+3.  0 degrees top, +2 to +3 for bottom?
+4.  Other combination?
+
+I realize that more enters into the equation than just that, but assume a tail moment arm of 2-1/2 to 3 x chord, with ample stabilizer area. I'm working from the plans for the Golden Oldie in one of the recent magazines, but a set-up that the designer considers nice may be twitchy for me, so I'm working at stabilizing it out a bit.
+
+The only other bipe I've built/flown is a CO2 free-flight Rumpler C-5, which the plans show as having 0 top, +1 bottom. Flies stable as a rock, but that's without Mr. Dumb-Thumbs on the stick! BTW, this will be a rudder/elevator plane, whereas the "Oldie" employs ailerons.
+
+Thanks for any input. Patrick LeRay
+
+....Patrick, I've done my share of model biplane design: FF, C/L, and R/C -- and as you say, "more enters into the equation..."
+
+First comes "stagger". If both wings are the same distance from the nose, there's no point in their having different incidence angles. In fact, my experience has been that if the wings have only a slight amount of "stagger", setting them at different incidences probably makes no difference.
+
+What DOES make a difference is the CG position. That, plus the stabilizer area, is what REALLY influences longitudinal stability.
+
+I remember an offbeat incidence setup in a near-scale Sopwith "Dolphin" (a negatively-staggered biplane) by Jim Noonan. The Dolphin is such a short-nosed design, Jim chose the arrangement of using a symmetrical airfoil set at zero incidence for the bottom wing. In effect that made the lower wing a "dummy", and allowed Jim to balance his model just as if it had been a parasol-wing monoplane.
+
+For free flight biplanes with noticeable positive stagger, the usual procedure is to set the lower (aft) wing at about 2 degrees less incidence than the upper wing. The idea is that if the top wing stalls, the bottom wing will still be lifting strongly -- and that will tend to restore level flight.
+
+Some modelers believe that there's a "downwash" from the top wing that reduces the actual angle of attack of the lower wing a degree or two. These fellows set the lower wing at a HIGHER angle of incidence than the top. And their models fly just fine that way.
+
+The fact is, that with the CG in the right place and ample horizontal tail area, a biplane can be made to fly stably with any of the incidence arrangements listed. The biggest variation involved between these is the vertical location of the center of drag.
+
+That's located highest above the thrustline for a positive-stagger biplane with its top wing set at a greater angle of incidence than the bottom. Such a design will have a strong nose-up tendency at high power... \[JW\]
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

@@ -1,448 +1,0 @@
----
-title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
-source_domain: amasci.com
-source_path: ~recall/bleed/0322.htm
-order: 6695
-reachable_from_entry: false
-images: 29
-internal_links: 0
-extracted: 2026-08-07T05:59:28Z
-extractor: site_to_paper.py (pandoc)
----
-
-# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
-
-*Source page: `~recall/bleed/0322.htm`*
-
-> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
-> >
-> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
-> >
-> >   Our Daily Bleed...
-> >
-> > \
-
-\
---
-
-> > **<img src="http://recollectionbooks.com/bleed/images/misc/ampersand.gif" data-border="0" data-hspace="1" data-vspace="0" data-align="LEFT" width="100" height="100" alt="?" />in a house of many doors, such as the city, the distinction, inside to out, may be difficult, an habitual mystery.**
-> >
-> >        *Janet Kauffman,* "The Blue Door Of Detroit"
->
-> []()\
-> []()\
-> \
-> --
->
-> **MARCH 22**
->
-> STEPHEN PEARL ANDREWS\
-> "The Pantarch," founder of anarchist utopia "Modern Times," on Long Island, New York. Inventor of a universal language ("alwat"). Philosopher of "universology." Early New York boho free-love radical.\
-> 
->
-> > 
-> >
-> > ------------------------------------------------------------------------
-> >
-> > FEAST OF IMMORTALITY.
-> >
-> > <img src="http://recollectionbooks.com/bleed/Encyclopedia/BruceLenny/LennyGrave.jpg" data-border="1" data-hspace="10" data-vspace="10" width="534" height="408" alt="Lenny Bruce Gravesite" />\
-> > <span class="small">*Lenny Bruce displays his grave concern.\*
-> > </span>
-> >
-> > "Now lemme hip you to something. Lemme tell you something. If you believe that there is a god, a god that made your body, & yet you think that you can do anything with that body that's dirty, then the fault lies with the manufacturer."
-> >
-> > --- Emmis
-> >
-> > ------------------------------------------------------------------------
-> >
-> > []()\
-> >
-> > []()\
-> > \
-> > 1492 -- Columbus & Alonzo Pietro set sail for the Indies. []()\
-> > []()\
-> > \
-> > 1519 -- Mexico: Cortez brings a sample of Western Civilization to the New World in the name of his King & Catholic faith: looting, killing, subjugating, raping & massacres in his *"March of Death."* []()\
-> > []()\
-> > \
-> > 1526 -- New World: First North American slave revolt. []()\
-> > []()\
-> > \
-> > 1621 -- New World: Massasoit & Pilgrims agree on league of friendship. This treaty is made by Plymouth Colony with the Indians , & is kept, by both sides, for 50 years []()\
-> > []()\
-> > \
-> > 1622 -- New World: First Indian massacre of Europeans, Jamestown (Virginia); 347 slain. []()\
-> > []()\
-> > \
-> > <img src="http://www.users.wineasy.se/ludde/pics/214.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="left" width="100" height="100" alt="?" />\
-> > 1765 -- New World: Stamp Act imposed upon American colonies by Great Britain.\
-> > []()\
-> > []()\
-> > \
-> > <img src="http://recollectionbooks.com/bleed/Encyclopedia/AndrewsStephenPearl/spandrews.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="125" height="173" alt="Stephen Pearl Andrews" />\
-> > 1812 -- US: Modern Times founder Stephen Pearl Andrews (1812-1886) lives, Templeton, Massachusetts. Lawyer, anarchist, free-love advocate.
-> >
-> > 
-> >
-> > > "Stephen Pearl Andrews once offered, as an image of anarchist society, the dinner party, in which all structure of authority dissolves in conviviality & celebration..."
-> > >
-> > >        Hakim Bey, Pirate Utopias
-> > >
-> > > 
-> >
-> > - 
-> >
-> > - See Joseph McCabe's A Biographical Dictionary of ... Freethinkers; also cited by [Kropotkin](http://recollectionbooks.com/bleed/Encyclopedia/KropotkinPeter.htm) in the famed 1910 edition of [Encyclopaedia Britannica](http://recollectionbooks.com/siml/library/anarchismEncyBrit.htm).
-> >
-> >   [\[Details, click here\]](http://recollectionbooks.com/bleed/03ref.htm#22/1812)
-> >
-> > \
-> > []()\
-> > []()\
-> > \
-> > <img src="http://recollectionbooks.com/bleed/images/dingbats/bullet.gif" data-hspace="10" data-vspace="5" data-align="left" width="38" height="38" alt="bullet hole" />\
-> > 1820 -- Legendary naval hero Stephen Decatur (see 16 February) mortally wounded in a duel with a fellow officer.\
-> > []()\
-> > []()\
-> > \
-> > <img src="http://www.amber-net.de/img/dvd/cover/blackrain.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" data-="" width="100" height="180" alt=" ? " />\
-> > 1828 --
-> >
-> > 
-> >
-> > Strange Stuff:
-
-
-
-> Black Rain falls again (!) in the Clyde Valley.
->
-> ... A correspondent to Knowledge, 5-190, writes of a black rain that fell in the Clyde Valley, March 1, 1884: of anotherblack rain that fell two days later. According to the correspondent, a black rain had fallen in theClyde Valley, March 20, 1828: then again today, March 22, 1828. []()\
-> <http://www.sacred-texts.com/fort/damned/damn03.htm>\
-
-[]()\
-\
-1832 -- Goethe dies, age 82, in Weimar, with last words: "More Light!" Poet/playwright/novelist/philosopher.\
-
-> *Nothing is more revolting than the majority; for it consists of few vigorous predecessors, of knaves who accomodate themselves, of weak people who assimilate themselves, & the mass that toddles after them without knowing the least what it wants.*
->
->  Goethe
-
-
-
-[]()\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/Encyclopedia/WarrenJosiah/hs589.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="100" height="130" alt="Josiah Warren, anarchist" />\
-1842 -- US: Anarchist / publisher / abolitionist Josiah Warren (1798-1874) opens 2nd Time Store in New Harmony.
-
-Warren founded several equity stores, founded three utopian colonies, & wrote True Civilization.\
-See Josiah Warren Archive, <http://dwardmac.pitzer.edu/Anarchist_Archives/bright/warren/warren.html>\
-Biographical article on Warren with references, links at,<http://faculty.evansville.edu/ck6/bstud/warren.html>\
-[]()\
-\
-1846 -- Artist Randolph Caldecott, book illustrator & Punch lives, Chester, England. The Caldecott Medal for excellence in children's book illustration is named for him. []()\
-[]()\
-\
-1873 -- Puerto Rico: The Spanish National Assembly finally abolishes slavery in Puerto Rico. The owners are compensated with 35 million pesetas per slave, & slaves are required to continue working for three more years. []()\
-[]()\
-\
-1882 -- US: The Edmunds Act is passed by Congress, making polygamy a felony offense, disenfranchising polygamists & barring them from public office. Apparently the only US law to deprive citizens of their civil rights without trial. []()\
-[]()\
-\
-1893 -- France: Kleber Claux, French-Australian anarchist, naturalist, lives, Mogneville.\
-<http://recollectionbooks.com/bleed/gallery/galleryindex.htm#CLAUX>\
-[]()\
-\
-1895 -- Lumiere brothers first project films onto a screen in public.
-
-[]()\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/Encyclopedia/JacobMarius/jacobPhoto.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="100" height="150" alt="Marius Jacob" />\
-1905 -- France: Trial of Alexander Marius Jacob concludes at Amiens. [Alexandre Jacob](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Jacob) was a burglar, & member of anarchist "Les travailleurs de la nuit" (Workers of the Night) gang, credited with 150 burglings. Marius Jacob & Felix Bour received life in prison, 14 others got sentences ranging from 5 to 20 years, while another seven were freed.<img src="http://membres.lycos.fr/bernadac/IMG.BIBLIO/biblArsLupin3.JPG" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="68" height="124" alt="?" />
-
-> Jacob (1879-1954) is the original "Arsene Lupin" in the French detective novels of Maurice Leblanc, with only slight exagerations which made him a sensational "fictional" character.
->
-> As I see things, I am not a robber. In creating man, Nature gave him the right to live & man has the duty to exercise that right in full. So if society fails to provide him with thewherewithal to survive, the human being is entitled to seize what he needs from wherever there is plenty.
-
-\
-
-
-> > <img src="http://recollectionbooks.com/bleed/Encyclopedia/JacobMarius/jacobMed.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="150" height="340" alt="?" />
-> >
-> > [Alexandre Jacob](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Jacob) serves as the model of anarcho-banditry: from a 13-year-old serving on a pirate ship in the Indian Ocean, he went on to become a well-known manufacturer of explosives at the age of 16. By the time he was 20, he was successfully robbing the homes & churches of the ruling class. 
-> >
-> > After escaping from prison, he decided that his previous crimes had not been enough, & he formed a criminal gang with some of his anarchist comrades. Calling themselves "les Travaillers de la Nuit" (the Night Workers), they formed a vast network of safe-houses, tool cooperatives, fences, so that as many as 100 people joined the gang & its satellites.
-> >
-> >  Of course, they helped anarchist causes as much as they helped themselves.
-> >
-> >  []()\
-> > <http://membres.lycos.fr/jacob/>\
-
-\
-
-> > > []()\
-> > > \
-> > > 1908 -- Louis L'Amour (1908-1988) lives. American writer of western fiction. After the 1950s L'Amour published, at the peak of his career, several westerns a year. Best known is Hondo.\
-> > > <http://www.kirjasto.sci.fi/lamour.htm>\
-> > > []()\
-> > > \
-> > > 1910 -- Nicholas Monsarrat, novelist (The Cruel Sea), lives, Liverpool, England. []()\
-> > > []()\
-> > > \
-> > > <img src="http://recollectionbooks.com/bleed/images/sofa-opt.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="170" alt="?" />\
-> > > 1911 -- Bienvenido N. Santos (1911-1996) lives. "One of the giants of Filipino American literature."\
-> > >
-> > > > <img src="http://dwardmac.pitzer.edu/Anarchist_Archives/bright/reclus/graphics/ishills209.jpg" data-border="0" data-hspace="3" data-vspace="0" data-align="LEFT" width="60" height="60" alt="?" />antos also wrote The Volcano. In 1980, the University of Washington Press published Scent of Apples, his first & only book of short stories to appear in the United States. The next year it won the American Book Award from the Before Columbus Foundation.
-> > > >
-> > > > Scent of Apples, is a masterful account of Filipino refugees living in America during WWII. Examines the racism these Filipinos faced, the class issues that they negotiated, & the attempts to survive in a country away from home.
-> > > >
-> > > > []()\
-> > > > <http://www.dlsu.edu.ph/research/centers/bnscreative/bns.html>
-> > >
-> > > []()\
-> > > \
-> > > 1927 -- Mexico: Passport regulations done away with for those who wish to enter its territory -- a declaration since revoked.\
-> > > Source: 'Calendar Riots' []()\
-> > > []()\
-> > > \
-> > > 1942 -- Norway: Manifesto against Nazi control of education read in most churches. []()\
-> > > []()\
-> > > \
-> > > 1947 -- US: Beloved & Respected Comrade Leader President Truman issues an order calling for strict FBI check-ups into the loyalty of all prospective Federal employees. The order results in the creation of the "Attorney General's List" of subversive organizations.
-> > >
-> > > > The order requires more than two million people to swear they never directly or indirectly associated with any of 78 subversive organizations listed by Attorney General Tom Clark. Employees are invited to speak "freely" -- with absolute discretion -- about any "deviant" acquaintance. Not even those named will learn who snitched (unable to confront their accusers). The first person convicted under the order is Rhodes scholar & publisher Carl Marzani, who was sentenced to three years in prison for perjury.
-> > > >
-> > > > The last organized resistance to the loyalty oaths will be a 1949 lawsuit by 26 postal workers. Several hundred federal employees are fired under the program, & 438 people will resign rather than sign. Thousands more remain under suspicion for years.
-> > >
-> > > []()\
-> > > []()\
-> > > \
-> > > <img src="http://www.eskimo.com/~recall/bleed/images/smiley2.gif" data-border="0" data-hspace="5" data-vspace="1" data-align="left" width="18" height="18" alt="Hey, hey!" />\
-> > > 1954 -- US: Admiral Arthur W. Radford, Chairman of the Joint Chiefs of Staff, announces that "the French are going to win" in Indochina. []()\
-> > > []()\
-> > > \
-> > > 1956 -- Carl Perkins injured in a car accident enroute to New York City for an appearance on the Ed Sullivan show. He spent several months in the hospital. Before he recovers, Elvis Presley covers his hit, "Blue Suede Shoes", & Perkins' career never recovered.\
-> > > <http://www.hotshotdigital.com/OldRock/CarlPerkins.Images/carl.ra>\
-> > > []()\
-> > > \
-> > > 1958 -- South Africa: Women demonstrate against pass laws. []()\
-> > > []()\
-> > > \
-> > > <img src="http://digilander.libero.it/anarcos/bonoimmg.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="125" alt="Ettore Bonometti" />\
-> > > 1961 -- Ettore Bonometti (1872-1961), Italian anarchist militant, dies in Brescia.
-> > >
-> > > > Bonometti first went to prison in March 1892 where, to the delight of many & the consternation of certain others he regaled everyone with his anarchist songs & anti-monarchist views.
-> > > >
-> > > > Obviously he won the adoration of his jailors, as they insisted on encores numerous times, & he again graced Italy's jails in August 1892, November 1893, February 1894, & April 1895. 
-> > > >
-> > > > They sought to have him back many other times over the years, forcing him into exile in France, England & Switzerland. He did make a prison debut in Italy during WWII, but was eventually allowed to live under "house arrest" during which time he used his home for clandestine anti-fascist activities & the recruitment of fighters for the underground partisan movement.
-> > > >
-> > > > See the Anarchist Encyclopedia page,\
-> > > > <http://recollectionbooks.com/bleed/Encyclopedia/BonomettiEttore.htm>\
-> > >
-> > > []()\
-> > > \
-> > > 1963 -- EMI-Parlophone releases the Beatles' first album, "Please Please Me" in the U.K. []()\
-> > > []()\
-> > > \
-> > > 1966 -- Sopwith Camel appears at the Matrix in the Marina District in Frisco.
-> > >
-> > > - [History of Sopwith Camel](http://www.generictype.com/sopwith/history.html)
-> > >
-> > >  []()\
-> > > []()\
-> > > \
-> > > 1966 -- Italy: L'(in)giustizia di stato condanna a sei mesi di reclusione per pubblicazione oscena la scrittrice Milena Milani e il responsabile dellla Longanesi Mario Monti rispettivamente autrice ed editore del romanzo "La ragazza di nome Giulio".\
-> > > [\[Source: Crimini e Misfatti\]](http://recollectionbooks.com/bleed/sources.htm#Basta)
-> >
-> > []()\
-> > []()\
-> > \
-> > <img src="http://www.mital-u.ch/Dada/images/dany_cb.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="225" height="263" alt="?" />\
-> > 1968 -- France: Students occupy the school at Nanterre & the March 22nd Movement emerges an organization with no hierarchy & no ideological program. Includes members of various groups & also unorganized students. 
-> >
-> > > Dany Cohn-Bendit soon established himself as a principal spokesman; describing himself as *'a megaphone for the movement & an anarchist by the negation of authoritarian hierarchies as communism & capitalism'.*
-> > >
-> > > Cohn-Bendit & the Situationists wanted central coordinated worker/student-councils, who act together but preserve their autonomy. The Sorbonne was transformed from an institutionalized bureaucracy to *'a volcano of revolutionary ideas'*. Day & night in every lecture hall were passionate discussions. *The spirit of the Paris Commune was back ...*
-> >
-> > > 'People who talk about revolution & class struggle without referring explicitly to everyday life, without understanding what is subversive about love & what is positive in the refusal or constraints, such people have a corpse in their mouth.'
-> > >
-> > >        Raoul Vaneigem, The Revolution of Everyday Life
-> >
-> > >  []()\
-> > >
-> > > - 
-> > > - [http://membres.lycos.fr/mai68/\>](http://membres.lycos.fr/mai68/)
-> > > - Daniel Cohn-Bendit's Biographical Info links [dwardmac.pitzer.edu/Anarchist_Archives/bright/Bendit/benditbio.html](http://dwardmac.pitzer.edu/Anarchist_Archives/bright/Bendit/benditbio.html)\
-> > >   
-> > > - In German, see Hannah Arendt's interview with Cohn-Bendit,<http://www.uni-trier.de/uni/fb4/soziologie/apo/brinkmann/sose00/abendit.htm>
-> > > - Cohn-Bendit page, <http://www.cohn-bendit.de/>\
-> > > - Situationists, see <http://www.mital-u.ch/Dada/index.html>
-> >
-> > \
-> >
-> > > <http://www.stuve.uni-muenchen.de/68/france68.html>\
-> > > \
-> > > <img src="http://www.cablecarclassics.com/customers/hinojapan.goldengate.9901030102.jpg" data-border="1" data-hspace="10" data-vspace="10" data-="" width="412" height="148" alt=" ? " />\
-> > > 1968 -- US: President's daughter, Lynda Bird Johnson, ordered off cable car for eating ice cream cone in Frisco.
-> > >
-> > > \
-> > > <http://www.cablecarclassics.com/gg.html>\
-> > > []()\
-> > > \
-> > > 1968 -- US: March 22-23: A MOBE conference in Lake Villa, Illinois brings together MOBE, Students for a Democratic Society (SDS), & Yippie activists to plan the Convention demonstrations.\
-> > > <http://www.geocities.com/Athens/Delphi/1553/c68chron.html>\
-> > > []()\
-> > > \
-> > > 1968 -- Czechoslovakia: Antonin Novotny resigns the Czech presidency setting off alarm bells in Moscow. The next day leaders of five Warsaw Pact countries meet in Dresden, East Germany to discuss the crisis.\
-> > > \
-> > > [\[Source: WholeWorld is Watching\]](http://recollectionbooks.com/bleed/sources.htm#WholeWorld) []()\
-> > > []()\
-> > > \
-> > > <img src="http://recollectionbooks.com/bleed/Encyclopedia/GarciaMiguel/Miguel_Garcia4.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="150" alt="Miguel Garcia" />\
-> > > 1969 -- Spain: Miguel Garcia released from prison. 
-> > >
-> > > > Former Portuguese diplomat, Antonio de Figueredo, despairing of attempts at ameliorating the dictatorship of Dr Salazar, persuades local anti-fascists to unite with Iberian dissidents, including ETA & the anarchist militants such as Garcia.
-> > > >
-> > > > [\[Details, click here\]](http://recollectionbooks.com/bleed/03ref.htm#22/1969) []()\
-> > >
-> > > \
-> > > []()\
-> > > \
-> > > <img src="http://www.isomedia.com/homes/harpo/gallery/9600/images/uncsam.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="152" height="220" alt="?" />\
-> > > 1972 -- Furry Freak Brothers?: 13-member National Commission on Marijuana & Drug Abuse recommends legalization of marijuana.\
-> > > <span class="small">*[Collage by SaintMeister James Koehnline](http://www.isomedia.com/homes/harpo/)\*
-> > > </span> <http://hempfest.org/>\
-> > > \
-> > > []()\
-> > > \
-> > > 1972 -- US: Congress approves Equal Rights Amendment (never ratified).
-> > >
-> > > > []()\
-> > > > []()\
-> > > > \
-> > > > 1974 -- US: First & founding CLUW (Coalition of Labor Union Women) Convention March 22-24, 1974.
-> > > >
-> > > > > <img src="http://www.cluw.org/images/cluw8.gif" data-border="0" data-hspace="10" data-vspace="10" width="89" height="88" alt="?" />
-> > > > >
-> > > > > We didn't come here to swap recipes...
-> > > > >
-> > > > > <http://www.cluw.org/>\
-> > > >
-> > > > []()\
-> > > > \
-> > > > <img src="http://www.eskimo.com/~recall/bleed/images/animfire.gif" data-vspace="5" data-hspace="10" data-align="left" width="30" height="60" />\
-> > > > 1975 -- US: A technician checking for air leaks with a lighted candle causes a \$100 million fire at the Brown's Ferry reactor in Decatur, Alabama. The fire burns out electrical controls, lowering the cooling water to dangerous levels. Musta been a leak.
-> >
-> > []()\
-> > []()\
-> > \
-> > 1976 -- US: Presidential candidate Beloved & Respected Comrade Leader Jimmy Carter tells audience at the National Association of Record Merchandisers' Scholarship Foundation Dinner that Bob Dylan, the Grateful Dead, Led Zeppelin & other bands inspired him while working late nights as Governor of Georgia. To prove he would never lie to them, he quotes lines from the Beatles' "Yesterday" & Dylan's "Blowin' in the Wind." []()\
-> > []()\
-> > \
-> > <img src="http://recollectionbooks.com/bleed/images/war/noWarNoFollowers.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="150" height="134" alt="?" />\
-> > 1977 -- Iran: To alleviate a chronic power shortage (caused by anti-regime strikes & sabotage) the Shah of Iran institutes a 1 hour daylight saving time. Public outrage against this measure becomes a symbol of opposition protests & result in the collapse of the regime soon after. CIA, once again, was apparently in the dark all the while.\
-> > [\[Source: Calendar Riots\]](http://recollectionbooks.com/bleed/sources.htm#Riots)\
-> >  []()\
-> > []()\
-> > \
-> > 1978 -- Puerto Rico: Karl Wallenda dies while crossing a wire between two hotels in San Juan, he is knocked off balance by a gust of wind & fell to his death ten stories below. []()\
-> > []()\
-> > \
-> > 1980 -- US: 30,000 march against conscription, Washington, D.C. []()\
-> > []()\
-> > \
-> > 1983 -- US: Midnight Special? 16 arrested in four-day cross-country demonstration against shipments of nuclear warheads by train. []()\
-> > []()\
-> > \
-> > <img src="http://www.astc.org/exhibitions/rotten/sitrash1.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="165" height="250" alt=" ? " />\
-> > 1987 -- US: The 'Mobro 4,000', piled with 3,168 tons of NY garbage, begins a 162-day, 6,000-mile search for a port willing to take its' load. As the boat barges its way into the media spotlight a surreal symbol of man's inability to clean up his own mess it's rebuffed by 6 states & 3 countries before NY City agrees to burn the trash.\
-> > <http://www.astc.org/exhibitions/rotten/rtintro.htm>\
-> > <http://www.garbage.org/events.htm> \
-> > []()\
-> > \
-> > <img src="http://perso.club-internet.fr/ytak/images/relgis_low.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="81" height="89" alt="?" />\
-> > 1987 -- Uruguay: Eugen Relgis (1895-1987), Rumanian poet, antimilitarist & prolific anarchist author, dies, Montevideo. Wrote Cosmometapolis (1950); La letteratura, l'arte ela guerra (1968); Principi umanitaristi: Umanitarismo e socialismo (1969), the biography, Han Ryner (1971), among others.
-> >
-> > alt sp; Eugenio RELGIS
-> >
-> > \
-> > [\[Details, click here\]](http://recollectionbooks.com/bleed/03ref.htm#22/1987)\
-> > []()\
-> > []()\
-> > \
-> > 1990 -- England: Death of Geoffrey Ostergaard, gentle anarchist/pacifist. Wrote on workers' control, & also similarities of Sarvodaya in India & anarchism.\
-> > 
-> >
-> > > 'In \[the ideal state\] every one is his own ruler. He rules himself in such a manner that he is never a hindrance to his neighbor. In \[such a state\], therefore, there is no political power because there is no State.' 
-> > >
-> > > Gandhi
-> > >
-> > > <http://www.stanford.edu/~piber/nonviolence/ideology/anarchism.html>\
-
-[]()\
-\
-<img src="http://www.nkvdrecords.com/trbfist.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="100" height="50" alt="?" />\
-2001 -- England: Tom Robinson & Lee Griffiths: THE DOGS BOLLOCKS TOUR 2001 UK.\
-<http://www.tomrobinson.com/>\
-\
-[]()\
-\
-<img src="http://www.shaftagents.com/flagmoney.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="300" height="200" alt="?" />\
-2003 -- Iraq: An American soldier raises an American flag above the Iraqi flag, a symbolic sign of occupation. 
-
-> Meanwhile hundreds of thousands continue daily protests against the Bush Cabal pursues it's goal of killing Beloved & Respected Comrade Saddam. 
->
-> The father of one American soldier killed in Iraq voices his continued opposition to the war & sends a message to Beloved & Respected Comrade Leader Bush, noting that
-
-
-
-"Now every Thanksgiving there will be an empty chair at our table". []()\
-\
-[]()\
-\
-2228 -- Captain James T. Kirk of the Starship Enterprise lives (1931: William Shatner lives.)  []()\
-
-[]()\
-\
-<img src="http://my.execpc.com/~lungfish/warning.gif" data-border="0" data-hspace="10" data-vspace="10" data-="" width="382" height="200" alt="?" />\
-3000 --\
-
-
-<img src="http://recollectionbooks.com/bleed/images/humor/stormtrooper.gif" data-border="0" data-hspace="10" data-vspace="10" width="157" height="71" alt="Stormroopers" />
-
-\
-[]()\
-[]()\
-\
-3000 --
-
-"We are upping our standards ... so up yours."
-
-       Pat Paulsen for President, 1988, cited in Mike Harding's collection of stupid quotes, The Armchair Anarchist's Almanac
-
-> <http://www.ttinet.com/pjf/fortunes.txt>\
->
-> []()\
->
-> ------------------------------------------------------------------------
->
-> anti-CopyRite 1997-3000, more or less\
-> Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
-> or send questions, suggestions, additions, corrections to:\
-> [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
->
-> Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
->
-> The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
->
-> anarchist, labor, radical books
->
-> See also: Anarchist Encyclopedia\
-> http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
-> Stan Iverson Memorial Library\
-> http://recollectionbooks.com/siml/\
-> Anarchist Time Line / Chronology\
-> http://recollectionbooks.com/bleed/indexTimeline.htm

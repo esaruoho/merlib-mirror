@@ -1,0 +1,240 @@
+---
+title: "Running Creek Primitive Baptist Church Cemetery Records, Stanly County, NC"
+source_domain: amasci.com
+source_path: ~lcsims/running-creek.html
+order: 4558
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:11:23Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Running Creek Primitive Baptist Church Cemetery Records, Stanly County, NC
+
+*Source page: `~lcsims/running-creek.html`*
+
+Running Creek Primitive Baptist Church Cemetery Records, Stanly County, NC
+
+\
+
+    My family has begun transcribing the Running Creek Primitive Baptist Church
+    in Stanly County.  It's a little better than 50 % complete. 
+
+    Submitted by : Vicky Timmer timmer@hci.net
+
+    First Name Middle Name Last Name Date of birth Date of death Comments     
+
+    David C Allmon 12-28-1919 4-2-1964      
+    Gertie Eudy Allmon 9-12-1917  Wife of David Allmon     
+    Christina  Almond 7-2-1873 9-16-1935      
+    James  D Almond 8-6-1929 2-2-1998      
+    Clyde W Almond 3-17-1927 1-6-1964 Inscripted:  "Brothers, James D, Clifford M, 
+    Willie R     
+    Daniel M Almond 5-20-1901 2-21-1990      
+    Myrtle L Almond 9-14-1903 12-13-1974 Wife of Daniel Almond     
+    John  L Almond 12-25-1859 5-18-1939      
+    Louisa Lambert Almond 3-23-1855 4-5-1915 Wife of John L Almond     
+    John R Almond 9-18-1894 4-28-1931      
+    Alice L Almond 7-18-1896 9-9-1974 Wife of John R Almond     
+    Wilson M Almond 9-18-1857 2-8-1945      
+    Millie S. Herrin Almond 1-22-1857 1-21-1910 Wife of Wilson Almond     
+    Fred J Almond 3-31-1913 6-29-1954      
+    Frannie E. Efird Almond 12-13-1912  Wife of Fred Almond     
+    Thomas  Almond 9-17-1883 2-8-1945      
+    Nancy K. Eudy Almond 7-16-1878 8-16-1966 Wife of Thomas Almond     
+    Marvin J Almond 7-22-1915 5-22-1976      
+    Vista  Almond 1-22-1918 1-6-1962 Wife of Marvin Almond     
+    Vernon J Barbee 10-23-1912 7-3-1961      
+    Dollie M. Burris Barbee 2-28-1904 11-7-1987 Wife of Vernon J. Barbee     
+    Martin B Barbee 4-7-1872 2-23-1951      
+    Omi E. Harward Barbee 7-18-1874 4-12-1976 Wife of Martin Barbee     
+    Martin  A Barnhardt 5-26-1915       
+    Evelyn W Barnhardt 7-24-1923 12-10-1990 Wife of Martin A Barnhardt     
+    Frank L Barnhardt 11-26-1912       
+    Flora  P Barnhardt 7-24-1912  Wife of Frank Barnhardt     
+    L C Blackwelder 1-3-1876 4-2-1939      
+    Denona Honeycutt Blackwelder 3-1-1871 5-29-1952 Wife of LC Blackwelder     
+    Mary Ruth Blackwelder 1-16-1900 4-2-1986      
+    Dallie  Cleona Blackwelder 9-10-1902 6-1-1982      
+    John  F Blackwelder 3-10-1906 8-26-1935      
+    Mary Margaret Eudy Blackwelder 7-4-1875 8-17-1951 Wife of Adam Blackwelder     
+    Adam J Blackwelder 2-3-1878 7-12-1934      
+    William  Blackwelder 3-26-1909 10-11-1926 Son of AJ and Maggie Blackwelder     
+    Rutha J Blackwelder 3-3-1844 9-23-1928      
+    Eliza  Lambert Blackwelder 6-18-1839 7-25-1923 Wife of John Blackwelder     
+    John  M Blackwelder 6-28-1844 4-17-1927      
+    Phylas  L Burris 8-31-1898 5-28-1928      
+    Ellen L Burris 2-19-1899 11-19-1984 Wife of Phylas Burris     
+    Joseph T Burris 12-8-1873 1-24-1922      
+    Sylvia R. Lambert Burris 3-18-1878 6-21-1961 Wife of Joseph Burris     
+    Deborah  Jane  Cooper 4-15-1963 3-16-1995      
+    Carl  B Efird 6-23-1921 6-2-1968      
+    Anne L Efird 6-3-1917  Wife of Carl Efird     
+    Thomas J Eudy 11-18-1880 5-14-1937      Bobby K, Annie Lee, Carrie, Gayhelle, 
+    Frances"
+    Nancy Almond Eudy 10-3-1886 2-3-1968 Wife of Thomas Almond     
+    Martha  Eudy 2-19-1838 6-29-1923 Wife of LA Lambert     
+    James Paul Eudy 8-17-1924 4-21-1998      
+    Zula Lambert Eudy 10-15-1924  Wife of James Eudy     
+    Leo W Eudy 6-19-1929       
+    Helen L Eudy 8-31-1930 5-13-1990 Wife of Leo Eudy     
+    Grover Cleveland Eudy 3-16-1896 2-23-1960      
+    Lectie Honeycutt Eudy 4-26-1900 7-17-1998 Wife of Grover Eudy     
+    John  D Eudy 8-12-1905 8-24-1951      
+    Ranna L Eudy 11-10-1908 4-14-1988 Wife of John D Eudy     
+    Roy Lee Eudy 3-31-1929 3-30-1977 Son of John and Ranna Eudy     
+    Doyle  J Furr 4-18-1930 7-24-1994      
+    J. Henry Furr 8-7-1898 7-30-1959      
+    S. Cleonia B Furr 4-28-1902 5-15-1990 Wife of J Henry Almond     
+    Alfred  Ray Furr 11-26-1949 11-27-1949 Son of Floyd and Grace C. Furr     
+    Leonard R Furr 12-30-1924       
+    Elizabeth E. Furr 6-6-1928  Wife of Leonard     
+    Clarence  Pete Gorman 8-19-1914 6-2-1997      
+    Eva F Harward 3-5-1873 5-25-1966 Wife of Lemuel     
+    Emsley B Harwood 9-24-1868 8-8-1919      
+    Grace  Melinda Hinson Hatchcock 4-26-1916 7-28-1970 Wife of Reece Hathcock     
+    Reece Burrin Hathcock 2-27-1914 5-12-1981      
+    Virginia M Hatley 11-12-1928  Virginia, Odessa and Fred     
+    Odessa  H Hatley 1-1-1912  all share one headstone     
+    Fred  Lee Hatley 5-6-1910 10-12-1978 unk. relationship     
+    Elmond M Hatley 5-26-1870 4-7-1938      
+    Josephine  Hatley 7-14-1865 11-19-1941 Wife of Elmond Hatley     
+    Reuben  Hatley 1894 1965      
+    Purlie  Hatley 1-22-1857 1-21-1910 Wife of Reuben     
+    Ellis M Hatley 7-11-1921 3-10-1982      
+    Estelle S Hatley 5-11-1922       
+    Walter  C Helms 4-29-1902 2-10-1964      
+    Inah  E Helms 6-30-1903 5-29-1998 Wife of Walter Helms     
+    Elder WR Helms 4-10-1858 5-22-1926      
+    Millie M. Byrum Helms 10-4-1852 12-7-1954 Wife of Elder Helms     
+    Sara Lambert Honeycutt 10-14-1885 10-28-1916 Wife of JD Honeycutt     
+    Corriler Kimmer Honeycutt 5-10-1874 2-7-1927 Corriler, Joseph and Nester     
+    Joseph Limmie Honeycutt 4-5-1874 11-30-1928 share the same headstone,     
+    Nester Lambert Honeycutt 3-4-1879 1-11-1914 relationship not noted     
+    W. Dolph Honeycutt 8-21-1887 3-15-1951      
+    Rhoda Hatley Honeycutt 7-31-1886 11-17-1967 Wife of W. Dolph Honeycutt     
+    Lula  Honeycutt 7-9-1917 12-3-1987 Daughter of WD and Rhoda Honeycutt     
+    John Geter Kimmer 3-15-1917 12-27-1937 Son of HW and Jane Kimmer     
+    Marvin  Lambert 3-1-1919 8-11-1980      
+    Sue H Lambert 5-10-1922  Wife of Marvin, married 3-23-1940     
+    Nora  Lisa Lambert 1908 1998      
+    Lonnie  Lee Lambert 2-20-1922 7-21-1995      
+    Mary Ashe Lambert 2-15-1927  Wife of Lonnie Lambert     
+    Buford A Lambert 1911 1973      
+    Ruby B Lambert 2-15-1927  Wife of Buford     
+    Cranford  E Lambert 3-3-1915 4-27-1994      
+    Connie A Lambert 6-30-1917  Wife of Cranford Lambert     
+    Leonard Deberry Lambert 12-28-1980 6-10-1964      
+    Scena Almond Lambert 2-18-1896 10-26-1975 Wife of Leonard Lambert     
+    Virgil J Lambert 1-22-1903 12-29-1975      
+    Cora W. Lambert 11-30-1903 3-18-1988 Wife of Virgil Lambert, married 4-4-1928   
+
+    Horace  Roy Lambert 3-31-1926 1-13-1995      
+    Betty Dry Lambert 3-22-1931 11-11-1995 Wife of Horace Lambert     
+    John  Filmore Lambert 7-4-1900 8-25-1965      
+    S. Rosetta Hinson Lambert 10-15-1899 9-29-1987 Wife of John Lambert     
+    Martha  Lambert 12-11-1942 8-3-1965 Wife of Earnest S. Benfield(that's what it 
+    says)     
+    Alfred  W Lambert 6-22-1892 1-13-1958      
+    Essie M. Barbee Lambert 2-14-1894 5-23-1983 Wife of Alfred Lambert     
+    Buell D Lambert 12-15-1935 4-17-1997 Son of Alfred and Essie Lambert     
+    E. Vance Lambert 3-21-1911 3-13-1979      
+    Lillie T Lambert 2-26-1914  Wife of E. Vance Lambert     
+    Lonnie A Lambert 3-2-1918       
+    Lucille W Lambert 6-21-1916 11-16-1988 Wife of Lonnie A     
+    Virgil J. Jr. Lambert 10-23-1931 12-31-1974      
+    Loretta W Lambert 8-15-1932  Wife of Virgil Lambert, Jr.     
+    Theodore J. Lambert 5-1-1914 7-20-1991      
+    Frankie  W Lambert 7-6-1909 9-12-1987 Wife of Theo. Lambert, married 12-22-1937 
+
+    Clarence J Lambert 6-1-1890 4-29-1955      
+    Arabelle  Lambert 1-6-1888 10-11-1965 Wife of Clarence J Lambert     
+    James  Floyd Lambert 1-31-1916 3-21-1916 Son of Clarence and Arabelle Lambert   
+
+    Caleb Wiley Lambert 4-14-1880 8-25-1924      
+    Elizabeth Herrin Lambert 6-10-1859 2-22-1927 Wife of JW Lambert     
+    J William Lambert 6-19-1855 10-27-1916      
+    Adam Leander Lambert 4-23-1923 12-19-1989      
+    Nathan R Lambert 8-17-1848 3-16-1916      
+    Ellen Herrin Lambert 6-20-1873 8-17-1945 Wife of Nathan R Lambert     
+    John  L Lambert 7-3-1842 7-7-1921      
+    Sylvia S Lambert 5-1-1844 2-21-1916 Wife of John L Lambert     
+    Caleb Wiley Lambert 1-18-1846 1-21-1913      
+    Jonah  Lambert 11-11-1870 3-22-1917      
+    Minnie Stella Lambert 12-1-1893 9-30-1953      
+    Reece D Lambert 1-15-1914 2-10-1916 Son ofLevi and Rettie  Lambert     
+    Levi R Lambert 5-28-1885 4-28-1965      
+    Rettie A Lambert 2-21-1879 4-24-1953 Wife of Levi Lambert     
+    Calvin B Lambert 1-3-1924 8-27-1993      
+    Richard E Lambert 12-6-1972 12-30-1979 Shared headstone with     
+    Rachel R Lambert 12-14-1922 9-1998 Rachel and Richard Lambert     
+    Hubert L Lemmond 1907 1961      
+    Brenda J Lowder 1944 1960 Shared headstone with Brenda     
+    Zelphur M Lowder 1920  and Zelphur     
+    Sherry  Lowder 5-21-1919 5-22-1919      
+    Lessie M Lemmond Mann 1911 1968 Wife of Hubert Lemmond and Glenn Mann     
+    R. Glenn Mann 1906 1984      
+    Donald Frank McGee 9-24-1943 1-25-1948 Son of Frank and Elizabeth McGee     
+    Frank  McGee 1-5-1890 8-27-1975      
+    Elizabeth B McGee 10-4-1911 12-25-1970 Wife of Frank McGee     
+    Randy Claude McLaurin 8-5-1976 8-5-1976 Shares headstone with Claude and Nellie 
+
+    Ira Junior McLester 3-10-1926 9-10-1995      
+    Rannelle Herrin McLester 6-23-1925  Wife of Ira McLester     
+    Dessie A McLester 3-20-1918  Wife of Arthur McLester     
+    Arthur J McLester 3-24-1910 6-18-1973      
+    Ira  Ephraim McLester 3-2-1903 7-9-1982      
+    Dora Almond McLester 10-2-1906 12-17-1981 Wife of Ira McLester     
+    Henry  W. Morgan 5-21-1908 12-28-1994      
+    Geneva  P Morgan 9-24-1920  Wife of Henry Morgan     
+    Claude  Moyle 5-3-1910 7-27-1976      
+    Nellie Estelle Almond Moyle 8-23-1917 6-10-1977 Wife of Claude     
+    Ayer Whitley Ritchie 12-8-1916 2-3-1990      
+    Bertie L Ritchie 12-4-1919  Wife of Ayer Ritchie     
+    Hubert  Ray Samples 10-22-1914 6-12-1996      
+    Willis  Scott 4-12-1918 10-20-1918 Son of WM and AE Scott     
+    Dollie  Scott 9-30-1909 2-24-1916 Daughter of Wm and AE Scott     
+    Truly Mae Scott 5-12-1923 2-10-1924 Daughter of Wm and AE Scott     
+    Joe  Scott 10-10-1920 10-29-1926 Son of Wm and AE Scott     
+    George  Scott 10-20-1912 7-3-1961      
+    Louise Dry Scott 3-31-1919 9-12-1987 Wife of George Scott     
+    William M Scott 7-28-1886 4-8-1968      
+    Ellen A Scott 8-18-1880 12-27-1957 Wife of William Scott     
+    Ralph James Scott 12-28-1937 12-23-1996      
+    Infant Daughter Scott 9-9-1960 9-9-1960 Daughter of Ralph Scott     
+    Clifford A., Sr. Shoe 4-6-1923 11-4-1991      
+    Infant  Shoe 4-24-1948 4-24-1948 Child of Minnie and Clifford Shoe, Sr.     
+    Minnie L Shoe 10-18-1923  Wife of Clifford Shoe, Sr.     
+    Victor James  Smith 8-14-1945 2-14-1946 Son of M&M Albert S. Smith     
+    Albert S Smith 2-9-1917 2-27-1977      
+    Eunice B Smith 2-10-1914 10-29-1995 Wife of Albert Smith     
+    Tamie Elaine Smith 7-11-1963 11-5-1964      
+    Eledorage W Smith 7-6-1909 7-6-1980      
+    Vernie L Smith 8-10-1911 12-18-1982      
+    Talbot  Stevens 8-18-1895 8-28-1964      
+    Irene Crisco Fortner Stevens 6-11-1909 8-24-1995 Wife of Talbot Stevens     
+    Cora  J Talbert 10-25-1917 1-26-1963 Cora, Curly and Mary     
+    Curly  W Talbert 3-31-1911 6-8-1994 All share the same     
+    Mary  B Talbert 9-5-1918 10-5-1989 headstone, relationship not noted     
+    Craven C Tucker 5-6-1916 3-2-1996      
+    Martha M. Whitley Tucker 2-4-1916  Wife of Craven Tucker     
+    Dan S Tucker 1881 1964      
+    Lottie J Tucker 1886 1954 Wife of Dan Tucker     
+    Willie  James Tucker 9-25-1924 3-29-1989      
+    Joyce Harvell Tucker 8-31-1937  Wife of Willie Tucker     
+    J. Duncan Tucker 8-5-1900 1-9-1948      
+    Emma J. Hinson Tucker 5-15-1901 3-9-1988 Wife of J tucker     
+    Annie Yow Tucker 1-26-1900 12-20-1957 Wife of Oscar Tucker     
+    Oscar F Tucker 1-13-1906 2-6-1982      
+    L Hose Whitley 8-10-1873 3-5-1873 Full name is Lemuel Hose Whitley     
+    F A Whitley 12-18-1897 1-6-1916 Dau. of Lemuel and Eva, full name, Flora Ann    
+
+    Theodore  Whitley 1-24-1908 6-9-1930 Son of Lemuel and Eva     
+    Floyd L  Whitley 4-7-1919 7-2-1996      
+    Rosie  B Whitley 1-22-1920  Wife of Floyd Whitley     
+    Brenda Kay Whitley 10-7-1942 8-15-1989 Daughter of Floyd and Rosie Whitley     
+    L. Elizabeth Whitley 11-7-1907 1-16-1984      
+    Nathaniel G Whitley 11-4-1884 9-19-1961      
+    Angeline  Whitley 2-12-1884 7-19-1968 Wife of Nathaniel Whitley     
+    Laura B. Whitley 9-13-1913 1-19-1997 Daughter of Nathaniel and Angeline Whitley

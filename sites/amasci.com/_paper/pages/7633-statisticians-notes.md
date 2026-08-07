@@ -1,0 +1,197 @@
+---
+title: "Statisticians Notes"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/9899/Notes1-15.htm
+order: 7633
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:15:15Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Statisticians Notes
+
+*Source page: `~samoyed/iwpa/9899/Notes1-15.htm`*
+
+Statisticians Notes
+
+This season, we have started off with two Individual Memberships having family members handling dogs at a pull. These family members are not IWPA members, so any handling is considered provisional.
+
+****
+
+To count for points, the dog must be owned by an IWPA member and handled by an IWPA member; not necessarily the same people.
+
+The membership of each must be current at the time of the event. It is permissible to join at the event. If either joins after the event, that pull will be marked provisional, but future pulls will count.
+
+ 
+
+Scoring changed this season. The extra point now only applies to dogs placing 4<sup>th</sup> or beyond.\
+\
+Last season I had coded it as such assuming it was meant to be a consolation prize for the last place dog that successfully pulled, but would get no points if he placed 4<sup>th</sup> or beyond. I had to correct my coding as it was worded to cover any placement.\
+\
+The May 1998 Board concurred with my assumption it was meant to be a consolation prize and reworded the rule accordingly.
+
+ 
+
+Please use the same name for your dog at every pull. Nicknames are not always obvious (e.g. Cory for Encore Encore). And using only part of a long name can be overlooked since I am searching alphabetically (e.g., Bear when he was previously called Wild Bear W is another 200 dogs down the list).
+
+(Pulls 01 thru 15)\
+
+15 November, 1998
+
+These are all the pull I have received as of 15 November. Last membership update was 21 October.
+
+****
+
+Errors and Corrections on My End
+
+I forgot about the point rule change and the 1<sup>st</sup> seven pulls published last month were with the old scoring. It has been corrected.
+
+****
+
+Requested Changes
+
+Cedric owned by <u>Cory Van Winkle</u> in region 2. Changed ownership to Paul Goon as of this season. His pulls marks provisional are now OK.
+
+****
+
+E R R O R S
+
+Pulls 8 & 9, Walshville, IL
+
+Region numbers of participants were not listed on the Finish Report. Its true that I go by what is in the database and dont need the column on the Finish Report; but I use it as a double-check. Any discrepancy alerts me to a possible error and I proceed to resolve the difference.
+
+Pull 9, Walshville, IL
+
+35# class was listed in the wrong order. The lineup may be different than you were told at the pull.
+
+Pull 12, Leavenworth, WA
+
+Karen Hirschkorn (new) showed as provisional on the finish report, but as a member on the financial report. I assumed a recording error and assumed provisional.
+
+Jeff Parsons was listed as provisional on the finish report, but he organized the pull and has a Family Membership current at that time.
+
+Pull 13, Leavenworth, WA
+
+Tim McElravy and **Steve Gentry** were listed as region 2 on the finish report, but provisional on the financial report. I assumed a recording error and marked them provisional.
+
+James Charles was listed as region 2 on the finish report, but neither member nor provisional on the financial. I assumed a recording error and marked him provisional.
+
+Paul Goon, according to a note, "passed twice then no pull". If he hooked up and the dog pulled, then he should be in the lineup. If he withdrew without ever going on-deck, then we are into the gray area we discussed last year and I dont remember the decision of when they count. I assumed the dog was Cedric and placed him in the line-up. If he never went on-deck, let me know. We may then not include him in the lineup. (*Result: typical No-Pull. He contributes points*)
+
+****
+
+New Dogs
+
+I dont plan to list all new dogs, yet. Just those in question.
+
+The following dogs were entered as new dogs.
+
+Renee Region 5, Diane Geitzenauer, Samoyed\
+
+Not sure of the spelling. Had trouble reading the entry
+
+Assumptions
+
+Cedric Region 2, handled by Paul Goon at Luxton & Leavenworth. I assumed this is the same Cedric owned last season by Cory Van Winkle. Since Cory does not show as a member, I counted Cedric as provisional.\
+\
+Let me know if this is a different dog, or Cedric is now owned by Paul.\
+\
+*Resolution: Cedric is now owned by Paul Goon*)
+
+St. **Lawrence** Ed and Mary Jane have apparently moved to region 7 from 6. We only have a verbal confirmation at this time; but I went ahead and moved them before generating The Standings. They can easily be moved back.
+
+MEMBERSHIP ISSUES
+
+Instead of just assuming memberships, I am carrying this as a reminder that we have some issues to resolve. If you are on this as a "membership not assumed", besides not acquiring pull points, you are probably not getting the newsletter either
+
+****
+
+New Issues
+
+Memberships Not Assumed
+
+The following were marked as members on the organizer's report. Membership has no record and the individuals are assumed Provisional until confirmation. Their pulls will become valid if membership records their join date as on or before the pulls in question.
+
+Robert Belt (spelling?) Shown as member at Silverfrost Pull 26-27 Sep; but no record of membership nor sign of joining at the pull.
+
+Sara LaFountaine Assume family member of Dave LaFountaine, but Dave has an individual membership. Contact Terry Reed if you paid for a family membership. Otherwise, if Sara is to handle, you need to upgrade to a Family Membership. The Leavenworth pull will still remain provisional, but pulls after the upgrade would count for points.
+
+Coleman Dave & Stephanie (new this season) were listed as already members on the Corapeake pull of 5-6 Sep. Membership did not have them as of 21 Oct. They were marked provisional.\
+\
+
+Todd Pederson claims the Colemans check and 3 others were sent to him in August & he forwarded to Terry.
+
+Phyllis Smuland (past member) was listed as already a member on the Corapeake pull of 5-6 Sep. Membership did not have her as of 21 Oct. She was marked provisional.
+
+Nella Johnson -- Assume family member of Charlie Johnson, but Charlie has an individual membership. Contact Terry Reed if you paid for a family membership. Otherwise, if Nella is to handle, you need to upgrade to a Family Membership. The Corapeake pull will still remain provisional, but pulls after the upgrade would count for points.
+
+ 
+
+**
+
+Memberships Assumed
+
+The following individuals apparently joined at a pull (shows in the organizers financial report). Their membership was assumed with the date of the pull, but is still being watched until the membership chair has received the paperwork.
+
+Bonacorsi Family membership at Silverfrost Farm pull on 26 Sep. 98
+
+Sean Mackin Individual membership at Silverfrost Farm pull on 26 Sep. 98
+
+Sterling -- Family membership at Silverfrost Farm pull on 27 Sep. 98\
+\
+
+Still no sign of these 3 by 26 Oct.
+
+Resolved
+
+Unassumed that were Confirmed as Members
+
+Todd Allen On membership as joining Family on 29 September, but attended Toledo pull on 26-27 Sept. I will double-check with membership. I assume this is just a posting issue.\
+
+Confirmed with date of 16 Aug.
+
+ 
+
+**
+
+Assumed Members Confirmed
+
+Donna Libbey (Libby on pull report) On membership as Family joining 08 Oct. Shows as joining at the Toledo pull 26 Sep. I am assuming the September date.
+
+Everett Stephenson -- On membership as Family joining 08 Oct. Shows as joining at the Toledo pull 26 Sep. I am assuming the September date.
+
+Michael Sprague -- On membership as Individual joining 08 Oct. Shows as joining at the Toledo pull 27 Sep. I am assuming the September date.
+
+Pat McCann On membership as joining (family) after the Corapeake pull, but shows on the Corapeake financial sheet as joining at the pull. Assuming member pending resolution.\
+
+9/18
+
+Shirley Webber Apparently joined (family) at the Parkhill pull.\
+
+8/26
+
+Shannon Shoemaker -- Apparently joined (family) at the Parkhill pull.\
+
+9/12
+
+Diane Krupski -- Apparently joined (family) at the Parkhill pull.\
+
+9/12
+
+Jamie Levesque -- Apparently joined (family) at the Parkhill pull.\
+
+9/12
+
+Sandy Osborne Apparently joined (individual) at Luxtons Fair.\
+
+9/19
+
+Ryan Wood -- Apparently joined (individual) at Luxtons Fair.\
+
+9/19
+
+Karl Welle -- Apparently joined (family) at Luxtons Fair.\
+
+9/19

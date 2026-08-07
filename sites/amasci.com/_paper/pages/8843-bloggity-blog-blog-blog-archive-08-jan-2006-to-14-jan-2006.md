@@ -1,0 +1,656 @@
+---
+title: "Bloggity-Blog-Blog-Blog Archive 08 Jan 2006 to 14 Jan 2006"
+source_domain: amasci.com
+source_path: ~tegan/blog/20060108-20060114.html
+order: 8843
+reachable_from_entry: false
+images: 50
+internal_links: 9
+extracted: 2026-08-07T17:16:46Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Bloggity-Blog-Blog-Blog Archive 08 Jan 2006 to 14 Jan 2006
+
+*Source page: `~tegan/blog/20060108-20060114.html`*
+
+<div id="head">
+
+Bloggity-Blog-Blog-Blog Archive
+
+Laura "Tegan" Gjovaag
+
+</div>
+
+<table data-border="0" data-cellspacing="0" data-cellpadding="0" width="100%">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td class="body" data-valign="top" width="74%"><div class="date">
+Saturday, January 14, 2006
+</div>
+<br />
+<span id="113730121870203182"></span>
+<div class="post-title">
+Firefly
+</div>
+<br />
+&#10;<div class="entries">
+<div style="clear:both;">
+&#10;</div>
+Joss Whedon is my master, now.<br />
+<br />
+<em>Thank you for lending us the DVDs Lisa, and David, I need the last two SOON.</em>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+</div>
+<br />
+&#10;<div class="author">
+<a href="#113730121870203182">-</a>by Tegan at 8:59 PM Seattle time <a href="http://realtegan.blogspot.com/2006/01/firefly_14.html">- Permalink</a> <a href="javascript:HaloScan(&#39;113730121870203182&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=113730121870203182" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=113730121870203182&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span><br />
+&#10;</div>
+<hr />
+<br />
+<br />
+<span id="113728561245116582"></span>
+<div class="post-title">
+FINALLY! The Seahawks Win a Playoff Game...
+</div>
+<br />
+&#10;<div class="entries">
+<div style="clear:both;">
+&#10;</div>
+I'm a Seattle sports fan. I had to wait until the clock was entirely run out before I could post about this one. It's been awhile since our football team won a playoff game. I can't even remember the last time the Seahawks won a playoff game.<br />
+<br />
+So, hubby-Eric and I have a longstanding bet. If the Seahawks go to the Superbowl and win, Eric buys me a meal at the Space Needle. If the Seahawks go to the Superbowl and lose, I owe Eric a meal at the Space Needle.<br />
+<br />
+I hope they go, and win.
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+</div>
+<br />
+&#10;<div class="author">
+<a href="#113728561245116582">-</a>by Tegan at 4:37 PM Seattle time <a href="http://realtegan.blogspot.com/2006/01/finally-seahawks-win-playoff-game.html">- Permalink</a> <a href="javascript:HaloScan(&#39;113728561245116582&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=113728561245116582" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=113728561245116582&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span><br />
+&#10;</div>
+<hr />
+<br />
+<br />
+<span id="113728228839027569"></span>
+<div class="post-title">
+Random Thoughts
+</div>
+<br />
+&#10;<div class="entries">
+<div style="clear:both;">
+&#10;</div>
+Tom Beland in <a href="http://www.comicbookresources.com/news/newsitem.cgi?id=6444">a chat</a>. Tom does <em>True Story, Swear To God</em> which is one of the best comics currently coming out, and DEFINITELY, the best romance comic I've ever read.<br />
+<br />
+More from <a href="http://bgb.malibulist.com/archives/2006/01/week_one.html">Bob Greenberger</a>.<br />
+<br />
+<a href="http://www.pvponline.com/justin">Truth, Justin and the American Way Website</a>. Yes, we did order it. Unlike everyone else in the world, the art doesn't impress me. Maybe I'll like it better when I see more of it.<br />
+<br />
+Johnny B's <a href="http://johnnybacardi.blogspot.com/2006/01/hey-its-time-for-johnny-bs-fearless.html">NFL Picks</a>.<br />
+<br />
+<a href="http://www.technicat.com/writing/mit.html">What I Learned @ MIT</a>. A list of practical advice for folks working in software engineering. I particularly like the "Smart People Are A Dime A Dozen" item.<br />
+<br />
+<a href="http://www.museumofhoaxes.com/hoax/weblog/amputees_used_in_war_games/">Amputees Used in War Games</a>.<br />
+<br />
+<a href="http://slithytoves.sytes.net/~dave/wordpress">Dave links to a good article</a>.<br />
+<br />
+This year's <a href="http://www.boingboing.net/2006/01/13/the_one_true_hooters.html">Hooters Calendar</a>. Go on, it's perfectly work safe.<br />
+<br />
+<a href="http://www.livejournal.com/users/himynameisjamie/345568.html">Fan Art of Batgirl</a>. I haven't even started to explore this one, but WOW.<br />
+<br />
+<a href="http://www.metafilter.com/mefi/48105">Best UFO pictures ever</a>. And if you can't get enough of that, here's the <a href="http://www.thespacereview.com/article/531/1">Area 51/Skylab incident</a>.
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+</div>
+<br />
+&#10;<div class="author">
+<a href="#113728228839027569">-</a>by Tegan at 3:44 PM Seattle time <a href="http://realtegan.blogspot.com/2006/01/random-thoughts_14.html">- Permalink</a> <a href="javascript:HaloScan(&#39;113728228839027569&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=113728228839027569" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=113728228839027569&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span><br />
+&#10;</div>
+<hr />
+<br />
+&#10;<div class="date">
+Friday, January 13, 2006
+</div>
+<br />
+<span id="113718864109207383"></span>
+<div class="post-title">
+Linkdump
+</div>
+<br />
+&#10;<div class="entries">
+<div style="clear:both;">
+&#10;</div>
+Aaron Williams <a href="http://www.livejournal.com/users/ps238principal/23587.html">lets us know</a> that PS238 #14 will be in stores soon.<br />
+<br />
+Mike Sterling gets <a href="http://progressiveruin.com/archives/2006_01_08_archive.html#113713853870734946">poetic feedback ratings</a> on eBay.<br />
+<br />
+<a href="http://burningbronte.blogspot.com/2006/01/refrigerator-culture-and-privilege.html">This post</a> may well be one of the best about the culture of harrassment in comic books.<br />
+<br />
+Heidi Meeley about the <a href="http://comicsfairplay.blogspot.com/2006/01/rock-star-mentality-in-comics.html">rock-star mentality</a> related to some comic book creators, despite their inability to meet deadlines.<br />
+<br />
+Go <a href="http://www.webamused.com/milkbreath/archives/002699.html">read Rachel</a>.<br />
+<br />
+The <a href="http://listencomics.blogspot.com/2006/01/types-of-bloggers.html">Types of Bloggers</a>. I think I must be a mix of #5 and #6, myself. Not that I'm happy about it.<br />
+<br />
+An outpouring of support for <a href="http://bgb.malibulist.com/archives/2006/01/the_other_shoe.html">Bob Greenberger</a>, who was fired from DC.<br />
+<br />
+I agree with <a href="http://elayneriggs.blogspot.com/2006/01/triskaideka-who-kaths-happy.html">Elayne</a> about Doctor Who. I wish they'd show them all.<br />
+<br />
+A <a href="http://www.livejournal.com/community/221b_bakerst/187198.html">Holmesian version</a> of the Llama Song, unfortunately just an animated GIF with lyrics, but still fitting into the <a href="http://www.livejournal.com/community/filk/87609.html">Llama Song theme</a>.<br />
+<br />
+Boing Boing Links:
+<ul>
+<li><a href="http://www.boingboing.net/2006/01/09/fiveyearold_gets_dru.html">5-Year-Old gets drunk at Applebee's</a></li>
+<li><a href="http://www.boingboing.net/2006/01/08/pledge_to_boycott_dr.html">Pledge to Boycott DRM CDs</a></li>
+<li><a href="http://www.boingboing.net/2006/01/09/drm_keeps_spielbergs.html">Spielberg Screwed by DRM</a></li>
+<li><a href="http://www.boingboing.net/2006/01/09/facebook_prank_on_po.html">Prank the Police</a></li>
+<li><a href="http://www.boingboing.net/2006/01/10/chumbawamba_why_we_d.html">Chumbawamba Explains Why They Don't Use DRM</a></li>
+<li><a href="http://www.boingboing.net/2006/01/10/not_mentioned_in_tod.html">The GeigerPod</a></li>
+<li><a href="http://www.boingboing.net/2006/01/11/1956_comics_on_dr_ma.html">Comic about MLK</a></li>
+</ul>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+</div>
+<br />
+&#10;<div class="author">
+<a href="#113718864109207383">-</a>by Tegan at 1:43 PM Seattle time <a href="http://realtegan.blogspot.com/2006/01/linkdump_13.html">- Permalink</a> <a href="javascript:HaloScan(&#39;113718864109207383&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=113718864109207383" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=113718864109207383&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span><br />
+&#10;</div>
+<hr />
+<br />
+<br />
+<span id="113717092832914324"></span>
+<div class="post-title">
+Happy Friday The Thirteenth!
+</div>
+<br />
+&#10;<div class="entries">
+<div style="clear:both;">
+&#10;</div>
+May today be your luckiest Friday the 13th ever.
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+</div>
+<br />
+&#10;<div class="author">
+<a href="#113717092832914324">-</a>by Tegan at 8:48 AM Seattle time <a href="http://realtegan.blogspot.com/2006/01/happy-friday-thirteenth.html">- Permalink</a> <a href="javascript:HaloScan(&#39;113717092832914324&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=113717092832914324" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=113717092832914324&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span><br />
+&#10;</div>
+<hr />
+<br />
+&#10;<div class="date">
+Thursday, January 12, 2006
+</div>
+<br />
+<span id="113711853640082011"></span>
+<div class="post-title">
+Doctor Who In The United States At Last!
+</div>
+<br />
+&#10;<div class="entries">
+<div style="clear:both;">
+&#10;</div>
+<a href="http://www.gallifreyone.com/news.php">Outpost Gallifrey</a> reports that, yes, the Sci-Fi Channel will start showing Doctor Who in March (probably March 17th), which had the effect of delaying the DVD release as well.<br />
+<br />
+It's about time!
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+</div>
+<br />
+&#10;<div class="author">
+<a href="#113711853640082011">-</a>by Tegan at 6:14 PM Seattle time <a href="http://realtegan.blogspot.com/2006/01/doctor-who-in-united-states-at-last.html">- Permalink</a> <a href="javascript:HaloScan(&#39;113711853640082011&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=113711853640082011" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=113711853640082011&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span><br />
+&#10;</div>
+<hr />
+<br />
+&#10;<div class="date">
+Wednesday, January 11, 2006
+</div>
+<br />
+<span id="113702243546237456"></span>
+<div class="post-title">
+Flipping Through Previews...
+</div>
+<br />
+&#10;<div class="entries">
+<div style="clear:both;">
+&#10;</div>
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/Aaaaagh.jpg" title="AAAAAUUUGGGGGHHHHH!!!!" data-align="right" width="100" height="75" alt="AAAAAUUUGGGGGHHHHH!!!!" />Yes, it's that time again... time for "Things in Previews That Look Interesting But I Can't Afford To Get (with a list of things I am getting just for contrast)". I'm going to start with the bulk of the book, and then come back and cover the "big four" at the end. Please remember, I'm listing what looks interesting. My actual purchase list is going to be much smaller. The numbers after each title are usually the page number in <a href="http://previews.diamondcomics.com/">Previews Magazine</a>, so you can follow along at home.<br />
+<br />
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/p200601_BlueBeetle.jpg" data-align="left" width="100" height="150" />Let's start with the covers. Both covers seem a bit stylish to me. The Blue Beetle cover is great, and I'm almost tempted to get it just from the cover alone. Call me curious, but that's a great look. The Conan cover is also powerful. Thoth... I know what Thoth is, I think. And for some strange reason the name "Kurt Busiek" is likely to make me happy right now. Neither cover is embarrassing. No naked women or badly drawn robots on this one. Makes for a nice change.<br />
+<br />
+Moving on, let's hit the Splash Page (8-9). Nothing jumps out at me except maybe the continued promotion for <em>A Nightmare Before Christmas</em>, which I thought was a good movie, with great music, but not so wonderful that it justifies more merchandise years later.<br />
+<br />
+The big Previews Readership Survey takes up pages 12-14. I wonder if it would be worth it to write and ask them to put less T&amp;A in the book? Too bad there's not an on-line version.<br />
+<br />
+The theme for the month, seen on pages 16-17, is "Video Game Tie-In". That's just about the lamest theme I've seen yet.<br />
+<br />
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/p200601_BananaSunday.jpg" data-align="right" width="100" height="150" />Jumping ahead, we get to the "Comics &amp; Graphic Novels" section, starting with the Featured Items on pages 202-205. I'm irritated enough by <em>Hero Squared</em> that I'm not certain we'll be getting the ongoing. I'm getting less and less tolerant of series that don't have a definite end. Maybe that's why part of me really welcomes Busiek's take on Aquaman, and the idea that even superheroes can retire. A book I do find tempting is <em>Banana Sunday</em>, which I've heard really good things about.<br />
+<br />
+And into the main crowd of books we go, tra-la-la.<br />
+<br />
+The first ad that really caught my eye (in a positive way) had a quote from Entertainment Weekly: "A gorilla with a jetpack really is the second best idea in the history of comics." I giggled, then looked to see the title and who was publishing it. I should've known. It's another <a href="http://www.ait-planetlar.com/">AiT/Planet Lar</a> (215) book, called Sky Ape.<br />
+<br />
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/p200601_ChronoMech.jpg" data-align="left" width="100" height="150" /><a href="http://www.aliasenterprises.com">Alias</a> (215-218) has the next book I noticed. Chrono Mechanics looks almost up my alley. I'm not sure it will make the list, I wanted more of a preview than we got. But it does look interesting.<br />
+<br />
+A somewhat unexpected find was from the <a href="http://www.annefrank.com/2_book_books_4.htm">Anne Frank Center USA</a> (223), a graphic novel called A Family Secret which is about a boy who discovers how the Holocaust affected his family. This is certainly one to give a second look.<br />
+<br />
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/p200601_Alice.jpg" data-align="right" width="100" height="150" />Next up is <a href="http://www.antarctic-press.com/">Antarctic Press</a> (223-226). I'll be getting Alice in Wonderland #2, and will continue to hope that they do another adaptation of an Oz book. There are fourteen written by Baum...<br />
+<br />
+I've already said I'm uncertain if we'll get the Hero Squared Ongoing from <a href="http://www.boom-studios.com/">Boom! Studios</a> (236-238). I'm sure hubby-Eric and I will discuss it once we start putting the list together.<br />
+<br />
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/p200601_TrueStory.jpg" data-align="left" width="100" height="150" /><a href="http://www.tombeland.com">Clib's Boy Comics</a> (241) on the other hand, is a no-brainer. I will get True Story, Swear To God #17, and I recommend it to all of you too. I wish I had an extra copy of the trades, because I have a good friend who is from Puerto Rico, and I really want to give this to her. I've just been too lazy to get another copy so far.<br />
+<br />
+Lots of page flipping here... next up is <a href="http://www.idwpublishing.com/">IDW Publishing</a> (279-286). I'll get Angel: Old Friends #5. I decided against getting other Buffy/Angel books, and I'll probably wait for trades from here on out, at least until I've finished watching the TV show. I'll also get Fallen Angel #4, and no doubt continue to wonder what it is about the book that keeps me coming back. I was unable to buy Brian Wood's Supermarket last month, but I'll mention that the second issue is in this Previews, and Wood can be very very good. Keep your eyes open for this one.<br />
+<br />
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/p200601_Dorothy.jpg" data-align="right" width="100" height="150" /><a href="http://www.dorothyofoz.net/">Illusive Productions</a> (287) will be getting our money for Dorothy #6, as we haven't missed an issue yet, nor been disappointed. This book continues to break new ground, and the crew are a nice bunch as well. If you haven't tried this one, go wander through their website and take a look.<br />
+<br />
+My friend David doesn't want to miss any issues of The Phantom, and <a href="http://www.moonstonebooks.com/">Moonstone Books</a> (294-295) has two books this month that I'll be looking at.<br />
+<br />
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/p200601_UnHuman.jpg" data-align="left" width="100" height="150" /><a href="http://www.narwain.com/index.htm">Narwain Publishing</a> (295-298) has a couple of books that look mildly interesting. Liz has that paranormal aspect that always draws me in, but does the lead really have to be a dancer in a men's club? Un-Human also looks good, but I need a bit more to go on before I'm inclined to buy it.<br />
+<br />
+<a href="http://www.onipress.com/">Oni Press</a> (299-302) may get my money. I keep hearing about how great Banana Sunday is, and I really want to give it a read. Well, the trade is being solicited, so I may just have to get it. I don't see any new issues of Local, so that would be it.<br />
+<br />
+And that concludes the regular comic book section... Let's go to the non-comics stuff before jumping back to the rest...<br />
+<br />
+On page 379: The Manga Guide To Sudoku. I'm just about dying of laughter here. The store I work at got wiped out of Sudoku for Christmas. It was a very popular gift, apparently. And it's a fun logic puzzle. Seems only natural to combine it with Manga.<br />
+<br />
+And so it's time to head back to the beginning of the book. Time for the big four, and the bulk of my regular order. Let's start with Image this month...<br />
+<br />
+<img src="http://www.eskimo.com/~tegan/blog/blogpics/p200601_Lions.jpg" data-align="right" width="100" height="150" /><a href="http://www.imagecomics.com/">Image Comics</a> (133-173). Let's see, Lions, Tigers &amp; Bears vol 2 #1 is tempting. Might get on our list. Truth, Justin, and the American Way involves Aaron Williams, one of my favorite creators, but the art does nothing for me. I'll have to discuss this one with hubby-Eric. And that's it for Image this month.<br />
+<br />
+<a href="http://marvelcomics.com/">Marvel Comics</a> (180). I know my husband is interested in both Amazing Spider-Man and Friendly Neighborhood Spider-Man, but I'm not sure about either of them. We'll probably get Powers.<br />
+<br />
+<a href="http://darkhorse.com/">Dark Horse</a> (21-56). Ug. Another Conan mini. On the other hand, it's by Busiek... I'm not sure about it, but I'll probably get Conan: Book or Thoth. I'll also get Conan #26. What can I say? I like heroic fantasy. I wish somebody would do a Jirel of Joiry series. Red Sonja is a poser. *ahem* Let's see, I'll also be getting Usagi Yojimbo, and we might get the next Star Wars: Clone War Adventures book as well.<br />
+<br />
+And finally, we get to <a href="http://www.dccomics.com/">DC Comics</a>. Is anyone else as totally grossed out by the American Virgin cover, so much so that you don't even want to look at the DC previews because of it? Maybe it's just hitting some primal "ick" node in me, but I actively HATE that image.<br />
+<br />
+Batman (61-70): Nothing for myself.<br />
+<br />
+Superman (71-75): Nothing for myself.<br />
+<br />
+<a href="http://www.eskimo.com/~tegan/aqua/"><img src="http://www.eskimo.com/~tegan/aqua/pics/cvr2003/cvra440.jpg" data-align="right" width="200" height="300" /></a>DC Universe (76-95): Well, I can't help but get <a href="http://www.dccomics.com/comics/?cm=4952">Infinite Crisis #6</a>, as it would be silly to stop now. And I've already made it abundantly clear that I love the idea behind <a href="http://www.dccomics.com/comics/?cm=4956">Aquaman: Sword of Atlantis #40</a>, so that's on the list.<br />
+<br />
+Kind of funny, JLA has been cancelled, right, but there's still Classified, and there are two issues this month, <a href="http://www.dccomics.com/comics/?cm=4973">JLA: Classified #18</a> and <a href="http://www.dccomics.com/comics/?cm=4974">JLA: Classified #19</a>. We'll still get <a href="http://www.dccomics.com/comics/?cm=4975">JSA #83</a>, and <a href="http://www.dccomics.com/comics/?cm=4976">JSA: Classified #10</a>.<br />
+<br />
+I'm glad Simone is staying on <a href="http://www.dccomics.com/comics/?cm=4957">Birds of Prey #92</a>, and I'm happy to see my friend Robin Riggs on the book, too. <a href="http://www.dccomics.com/comics/?cm=4966">Green Lantern #10</a> will make the list.<br />
+<br />
+I'm not sure we'll stick with the Legion now that it's <a href="http://www.dccomics.com/comics/?cm=4978">Supergirl and the Legion of Super-Heroes #16</a>. Then again, it's still Mark Waid, so it's not like it'll be bad or anything. It's just adding a character I don't have an interest in.<br />
+<br />
+And lastly, will we or won't we get <a href="http://www.dccomics.com/comics/?cm=4963">Blue Beetle #1</a>? We'll just have to see once we get the list going.<br />
+<br />
+Johnny DC/DC Library/CMX (96-103): <a href="http://www.dccomics.com/comics/?cm=4990">Justice League Unlimited #19</a> looks like a Western. Fun fun fun.<br />
+<br />
+Wildstorm (104-112): Nothing this month.<br />
+<br />
+Vertigo (113-123): Just <a href="http://www.dccomics.com/comics/?cm=5050">Neil Gaiman's Neverwhere #7</a>.<br />
+<br />
+DC Direct (124-132): Nothing, thank goodness, but I almost hope they do a Kingdom Come Aquaman.<br />
+<br />
+And there it is... all of Previews. I'm finally all the way through. Huzzah. So that's it for this month's "Things in Previews That Look Interesting But I Can't Afford To Get (with a list of things I am getting just for contrast)". Comments? Questions? Did I miss any really cool books that you know about and would like to point out? Do you disagree with something I wrote, and want to correct me? There's the comments, right below. Post something. And, yes, I accept review copies. I'm willing to give almost anything a try.<br />
+<br />
+<em>Note: I've posted a mostly <a href="http://blogofoz.blogspot.com/2006/01/flipping-through-previews-oz-edition.html">Oz-focused version</a> of this at <a href="http://blogofoz.blogspot.com/">The Wonderful Blog of Oz.</a></em><br />
+<br />
+Previous Flipping Through Previews:
+<ul>
+<li><a href="http://realtegan.blogspot.com/2005/12/flipping-through-previews.html">Dec 2005/Feb 2006</a><br />
+</li>
+<li><a href="http://realtegan.blogspot.com/2005/11/flipping-through-previews.html">Nov 2005/Jan 2006</a><br />
+</li>
+<li><a href="http://realtegan.blogspot.com/2005/10/flipping-through-previews.html">Oct/Dec 2005</a><br />
+</li>
+<li><a href="http://realtegan.blogspot.com/2005/09/flipping-through-previews.html">Sep/Nov 2005</a><br />
+</li>
+<li><a href="http://realtegan.blogspot.com/2005/08/flipping-through-previews.html">Aug/Oct 2005</a><br />
+</li>
+<li><a href="http://www.eskimo.com/~tegan/blog/rapidreviews.html">Rapid Reviews Index</a></li>
+</ul>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+</div>
+<br />
+&#10;<div class="author">
+<a href="#113702243546237456">-</a>by Tegan at 3:24 PM Seattle time <a href="http://realtegan.blogspot.com/2006/01/flipping-through-previews.html">- Permalink</a> <a href="javascript:HaloScan(&#39;113702243546237456&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=113702243546237456" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=113702243546237456&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span><br />
+&#10;</div>
+<hr />
+<br />
+&#10;<div class="date">
+Tuesday, January 10, 2006
+</div>
+<br />
+<span id="113693720042347766"></span>
+<div class="post-title">
+Linkdump and Random Thoughts
+</div>
+<br />
+&#10;<div class="entries">
+<div style="clear:both;">
+&#10;</div>
+Because I've been posting about it so much on my <a href="http://www.eskimo.com/~tegan/aqua/">Aquaman website</a>, I've neglected to mention it much here. The lead in the Aquaman TV show has been cast: actor/model Will Toale as Arthur Curry. He has enough experience as an actor that I suspect he'll be better than Ritchson, but not enough to judge if he'll be any good. <a href="http://aquamantv.com/">AquamanTV.com</a> has the low-down on the guy, along with a whole lotta <a href="http://aquamantv.com/willgallery5.htm">pretty pictures</a> from his modeling work.<br />
+<br />
+I will point out that <a href="http://www.eskimo.com/~tegan/aqua/blog/2006/01/aquaman-cast.html">this</a> may be the first and last time I ever scoop anyone on the Aquaman TV show, as I picked up the rumor and ran with it three days before it was officially confirmed. Color me amused.<br />
+<br />
+<a href="http://www.bafsoft.com/~catalyst/ultimateshowdown.swf">The Ultimate Showdown</a>. Via <a href="http://www.livejournal.com/users/querldox/111250.html">Querldox</a>.<br />
+<br />
+<a href="http://en.wikipedia.org/wiki/Friends_of_Lulu">Friends of Lulu</a> on Wikipedia.<br />
+<br />
+<a href="http://www.livejournal.com/users/divalea/273080.html">Be the Change</a> and <a href="http://www.thegreatcurve.net/2005/03/divalea-hurt-comics.html">Hurt Comics</a>.<br />
+<br />
+<a href="http://www.whiterose.org/howlingcurmudgeons/archives/009254.html">What Greg says</a>.<br />
+<br />
+The Beat has <a href="http://www.comicon.com/thebeat/2006/01/what_it_feels_like_for_a_girl.html">some thoughts</a> on the whole situation for consideration. I'm not sure I quite agree with everything there, but it did calm me down quite a bit.<br />
+<br />
+<a href="http://www.livejournal.com/users/divalea/274746.html">Lea Hernandez</a> links to concrete ideas on how to improve the comic book industry. These are from a business standpoint, and they make so much sense I don't know why everyone isn't paying attention.<br />
+<br />
+Maybe go read <a href="http://www.girlamatic.com/">GirlAMatic</a>.<br />
+<br />
+<a href="http://wiki.playagaingames.com/tiki-index.php?page=MonopolyHomeRules">A list of Monopoly House Rules</a>. I recall playing with the Free Parking Jackpot, but most of the rest are new to me.<br />
+<br />
+Warren Ellis has named the coming flu pandemic for us: <a href="http://www.warrenellis.com/?p=1689">Flupocalypse</a>. So far there is no evidence that the flu strain is going from person to person, but as soon as it does, we're all in trouble.<br />
+<br />
+<a href="http://www.livejournal.com/users/atalantapendrag/163152.html">Things I Am Not Allowed To Do At Hogwarts</a>.<br />
+<br />
+Paul Cornell is on a quest for <a href="http://paulcornell.blogspot.com/2006/01/quest-for-bbc-space-themes.html">BBC Space Themes</a>.<br />
+<br />
+Dave <a href="http://slithytoves.sytes.net/~dave/wordpress/?p=1193">reviews some board games</a> and finds some winners in the bunch...<br />
+<br />
+The LEGO <a href="http://www.reasonablyclever.com/lego/fsm/index.htm">Church of the Flying Spaghetti Monster</a>. If you build it, they will come? via <a href="http://www.livejournal.com/users/filkertom/301523.html">FilkerTom</a>.<br />
+<br />
+I like today's <a href="http://antwrp.gsfc.nasa.gov/apod/ap060110.html">Astronomy Picture of the Day</a>. It's an animated GIF.<br />
+<br />
+Why you should <a href="http://www.metafilter.com/mefi/48156">never accept a diamond</a> as a gift or anything else. Diamonds aren't worth much, in reality, and only cost a lot because of a stupid monopoly on them. I'd rather have a pretty gemstone, anyway, myself, than one that says "I'm a sucker!"<br />
+<br />
+This strange article about <a href="http://www.guardian.co.uk/international/story/0,3604,869273,00.html">Jesus using cannabis</a> is worth reading only for the concluding thought. Via <a href="http://elayneriggs.blogspot.com/2006/01/healed-andor-high-never-mind-debate-on.html">Elayne</a>.<br />
+<br />
+I don't like podcasts. I just don't like 'em. I don't listen to them, even if they are playing. I'm a visual learner, and I'm very poor at listening. Podcasts do nothing at all for me. I'd much, much rather read it than hear it. So I don't like podcasts. Just thought I'd mention that.
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+</div>
+<br />
+&#10;<div class="author">
+<a href="#113693720042347766">-</a>by Tegan at 3:52 PM Seattle time <a href="http://realtegan.blogspot.com/2006/01/linkdump-and-random-thoughts.html">- Permalink</a> <a href="javascript:HaloScan(&#39;113693720042347766&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=113693720042347766" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=113693720042347766&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span><br />
+&#10;</div>
+<hr />
+<br />
+&#10;<div class="date">
+Monday, January 09, 2006
+</div>
+<br />
+<span id="113684389696356259"></span>
+<div class="post-title">
+Incredibly Long Rant
+</div>
+<br />
+&#10;<div class="entries">
+<div style="clear:both;">
+&#10;</div>
+...about women in comics, superheroes, and quitting comics.<br />
+<br />
+Women being harrassed in comics: <a href="http://www.buzzscope.com/features.php?id=1250">It's worse than you thought</a>. Seriously, this makes me want to dump comics completely. I feel a simmering rage that this is happening at all. And for it to happen in the industry I consider my hobby makes me ill. I wish I knew who the "old soldiers" were, so I could avoid their works in the future.<br />
+<br />
+As I was reading the interview I read this: "I was so happy to have been invited, too, I felt like I was special. I was all dressed up, even, and that grope and smirk ruined the whole evening. I can still see him smirking." It reminded me of the poem <a href="http://www.duboislc.org/ShadesOfBlack/CounteeCullen.html">"Incident"</a> by Countee Cullen. One bad moment can ruin a whole trip, and turn into the only thing you remember about it. I don't know if some folks realize just how much something like this can hurt.<br />
+<br />
+It makes me sick. It makes me want to throw my collection into the trash. It <em>hurts</em>. I can't abide supporting people who are so ... primitive. And yet I feel sure, that sick feeling in my gut, that some of the books I want are no doubt partly created by the guilty.<br />
+<br />
+But then, aren't I guilty too? I mean, I don't harrass, and I certainly have never abused someone as told in these memories. But I like to read about scantily clad men running around saving the world. I'm well aware that most superheroes are simply nudes with clothes colored in. But I enjoy them anyway. Doesn't my acceptance and enjoyment of such puerile entertainment make me at least partly guilty for its continuance?<br />
+<br />
+I'm not a deep thinker. If you've read what passes for reviews on this blog, you know I have simple tastes. I'm not sophisticated, and I don't want to be. As a music student I learned that the more you know about how music fits together, the worse most music sounds to you. I'd rather sing along happily than worry about whether or not I'm in key. But this isn't about simple tastes. It isn't about the construction of a chord. It's about the way people treat each other. Is my enjoyment of superhero comic books going to hurt people? If I continue to buy Aquaman and Green Lantern, are women going to keep being abused? Can I live with myself if the answer is "yes", knowing that I'm not likely to drop those books?<br />
+<br />
+I say that I wish I knew who the scumbags are so I can stop supporting them, but the whole industry is geared towards a certain type of mind. I <em>like</em> superheroes. But superheroes, as a genre, emphasize physical prowess over intellect. From that little seed sprouts all kinds of attitudes, most of them unpleasant. That's not why I read the superheroes. I have to think this out... I read superheroes for the conflict...<br />
+<br />
+One of the many reasons I like Aquaman is because of the inner conflict of the character. While the ability to live underwater is his first and strongest appeal to me, I find the emotional waves he rides to be almost as fascinating. This is a guy who gained everything he ever wanted, and lost it all. It's not beating up bad-guys that I love to read about, it's about defeating inner demons and understanding himself and his life better. But, as Kurt Busiek recently pointed out, there can never be any resolution.<br />
+<br />
+A superhero story is built on conflict, just like any other story. But with superheroes, there is never, ever, a permanent solution. The fight is endless. There are no happy endings. There can't be, because as soon as you give a character peace, the character is instantly boring. Superheroes are created to have miserable lives.<br />
+<br />
+So we are left with an endless physical fight. A never-ending series of battles that, depending on how well-written and drawn they are, may appeal to a wide-audience or only to adolescent-level minds. Too much is the latter. And, while superheroes aren't the only genre in comics, they are the face of comics to the vast majority of the people in the United States.<br />
+<br />
+And what do people see when they look at superhero comics? Adolescent fantasies. Breathtakingly immature garbage. The same "drooling fanboy" stuff that has made the industry a joke for too many years.<br />
+<br />
+There is fine work being produced in comic books. Even a few fine superhero books. But, oddly enough, the good stuff is ghetto-ized. As <a href="http://www.haloscan.com/comments/tegan/113659813632454086/#210242">Rachel Hartman</a> put it in my comments: "...one could do superior-to-everything work, like Finder, and still be barely in the black. That the avenues out of the ghetto were barricaded -- we had to wait for people to come in to us, we could not, somehow, get out to them. I banged my head against it as hard as I could bring myself to (not being as hard-headed as some, alas), with the only result being severe burnout, anger, and a 3-year (and counting) hiatus."<br />
+<br />
+I like superheroes, but I like other stuff too! Superheroes are only one small genre in a limitless medium, but they've taken over the shelf space and devoured the competition. And in the States, at least, they've also become the dominant mental state. Conquer by physical force.<br />
+<br />
+Conquer by physical force. Pretty much sums up the kind of scum that harrass and abuse.<br />
+<br />
+That's not all superheroes are. That's not all they can be. I refuse to believe that. I refuse to accept that. I like superheroes. There's got to be more to it than that. And there would be, if they weren't the majority of what people buy and what people see when they look at comics.<br />
+<br />
+Superheroes are constrained by their own success. And it's a dubious success at that. As long as superheroes dominate the market, the stories will continue to pander to the fanboys... the lowest common denominator of the fanboys. They will continue to be the kind of stories that embarrass the casual reader and drive people away. And they will continue to be the type of stories that reinforce the twisted notions of power and physical control. And sales will continue to fall.<br />
+<br />
+And women will continue to be harrassed.<br />
+<br />
+Is it the fault of the genre? No, of course not. It's the fault of the feedback loop that the genre's strange success has created. Anytime you get a group in control of an ever-shrinking pond, they will do anything to keep control or the illusion of control. And they will resent anyone who has escaped the pond and yet still managed to have success. It's that sort of environment that breeds a willingness to break societies rules, and become an abuser. The belief in your own false power.<br />
+<br />
+What can we do to break the loop? Is it even possible? I agree with <a href="http://ragnell.blogspot.com/">Ragnell</a> that the industry needs a very public housecleaning. But would that even be enough? And even if we do manage to break the loop, will that get rid of the underlying problems, or will we still have scumbags fondling women at conventions? Is Lea right? Do we need to <a href="http://www.thegreatcurve.net/2005/03/divalea-hurt-comics.html">Hurt Comics</a>?<br />
+<br />
+I just don't have any answers. I don't have any concrete suggestions. I'm just not a deep thinker.<br />
+<br />
+I do know that something has to change. Having been the victim of an attack in a comic/hobby shop, many many years ago, I have no tolerance for it at all. And there is a very deep, very strong rage in me when I read the memories of these women. This has brought up memories in me that I've kept buried for over a decade. You see, I've been on both sides. I've been a victim, and I've seen what a false accusation can do to a good man. And so this whole situation enrages me. It's very nearly enough to make me trash my collection and never pick up a comic book again.<br />
+<br />
+I won't. I can't. I've invested too much of me into this hobby. But something has to give. Something has to change.
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+</div>
+<br />
+&#10;<div class="author">
+<a href="#113684389696356259">-</a>by Tegan at 1:57 PM Seattle time <a href="http://realtegan.blogspot.com/2006/01/incredibly-long-rant.html">- Permalink</a> <a href="javascript:HaloScan(&#39;113684389696356259&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=113684389696356259" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=113684389696356259&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span><br />
+&#10;</div>
+<hr />
+<br />
+<br />
+<span id="113682385258504235"></span>
+<div class="post-title">
+Rapid Reviews - 5 January 2006
+</div>
+<br />
+&#10;<div class="entries">
+<div style="clear:both;">
+&#10;</div>
+<strong>Aquaman #38</strong>: "Kingdom Lost": Five pages in, and I was REALLY upset at Arcudi. Five pages in and I HATED this book. The poor guy has gone through abuse after abuse, and five page in he's... well, you'll have to read it. I'm not talking about Arthur. Well, besides that moment of pure "NOOOOO!!!!" this issue was very good. The flashbacks were well-done and non-intrusive. The art... notice that Mera, who was very sick, has gotten more and more like her old self as the issues progress. Her cheeks filled out and she started to look healthy again. Now, if only I knew why she decided to wear that stupid crown. But her progression from sick to healthy was nicely done. Yeah, despite the incident at the beginning, I liked this issue. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0035.jpg" data-border="0" width="75" height="15" alt="3 1/2 starfish" /></a><br />
+<br />
+&#10;<div class="center">
+<a href="http://www.eskimo.com/~tegan/aqua/"><img src="http://www.eskimo.com/~tegan/aqua/pics/cvr2003/cvra438.jpg" width="200" height="300" /></a>
+</div>
+<br />
+<strong>Day of Vengeance Special</strong>: "The Ninth Age of Magic": I read Aquaman first this week, then I read this. And I started to get an idea of what happened to Tempest in Atlantis. The Spectre took his magic, yes? But as Nabu kept saying, magic is about to change. The Tenth Age of Magic is about to begin in the DC Universe, will Tempest have a part in that? The last time Garth died, he was transported to a magical realm where he learned how to use his powers from Arthur's father. What if the magic has transported him again? And will the magic in the new Age take a new form? Will all the DCU magic users be affected? New powers for all of them? This book has raised lots and lots of questions, which I'm sure was the intent. I have to admit, I really like the Shadowpact team. Any team with a talking chimp is a good team. Maybe we'll be looking at the new series. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Superman #225</strong>: "To Be A Hero": This feels more like a Superman story to me, where everything is pulling together into the idea that heroes are heroes because they try to be better, not because they always are better. The bookends of this one were a bit touching, too... the Batman quote contrasted against the "What Would Superman Do?" concept. Eh, it's ok. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Superman/Shazam First Thunder #3</strong>: "Titans": A nice team-up issue with Superman and Marvel taking on Eclipso and Sabbac. I liked the main story ok, but it was what Sivana was up to that I found interesting. Not enough to love this book, but it was ok. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>JSA #81</strong>: "My Heroes": This is Stargirl's story. Very much her story. We get her history in this issue, and a sense of her style. Not too bad. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Outsiders #32</strong>: "Detour": Mostly a wierd space battle that I don't find myself very interested in. The stuff that happened on Earth was mildly intriguing, but I'm not overly impressed. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0020.jpg" data-border="0" width="75" height="15" alt="2 starfish" /></a><br />
+<br />
+<strong>Teen Titans #31</strong>: "Lost and Found": Can't Tula ever rest? I really get tired of dead characters being brought back. And Tula has been a zombie before. Ok, so it's made clear that Tula wasn't really there, just a body. But still! And what the heck was the Captain Carrot stuff about? I only bought this issue for the Tula appearance. It was a waste of money. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0020.jpg" data-border="0" width="75" height="15" alt="2 starfish" /></a><br />
+<br />
+<strong>Justice League Unlimited #17</strong>: "Let Freedom Ring": Is there any hero that we <em>won't</em> see in this series? I love the fact that the Freedom Fighters show up. I love the way this ties into the TV series, as well, with the paranoia. It may be obvious, even cliche at times, but I love this series. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Spider-Man Unlimited #13</strong>: I got this one for the Aaron Williams story, and it mostly didn't let down. The ending was a bit silly, but then the whole story was a bit silly. There were only two stories in this one, and the second one was extremely gross. All-in-all, a nice bit of Spidey fun. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Lullaby #2</strong>: I wish this story would just hurry up and get told. I don't mind the art, it's very pretty, but I just want the story to finish. I'm not that interested in a hungry handbag. Still, this issue holds together better than previous ones. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+All caught up. And it isn't even Wednesday yet. Heh.
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+</div>
+<br />
+&#10;<div class="author">
+<a href="#113682385258504235">-</a>by Tegan at 8:22 AM Seattle time <a href="http://realtegan.blogspot.com/2006/01/rapid-reviews-5-january-2006.html">- Permalink</a> <a href="javascript:HaloScan(&#39;113682385258504235&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=113682385258504235" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=113682385258504235&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span><br />
+&#10;</div>
+<hr />
+<br />
+&#10;<div class="date">
+Sunday, January 08, 2006
+</div>
+<br />
+<span id="113676585197749979"></span>
+<div class="post-title">
+Rapid Reviews - 29 December 2005
+</div>
+<br />
+&#10;<div class="entries">
+<div style="clear:both;">
+&#10;</div>
+Well, I've finally finished reviewing all of last year's books. Now it's time to get to work on this year's stuff, I guess...<br />
+<br />
+<strong>Batman #648</strong>: "All they do is watch us kill part 1": I'm still confused. The history in this one is nice, but what the heck does the Joker have to do with anything? <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Wonder Woman #224</strong>: "Marathon Part Two": I'm feeling Deja Vu. I saw what happens in this issue already... in Infinite Crisis. I think the impact of this issue would've hit a lot harder if I hadn't already seen that. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>JLA: Classified #15</strong>: "New Maps of Hell" part six: I like the idea of a horror from the distant past being outmoded technology. I just wish it hadn't taken six issues to get there. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Solo #8</strong>: "Teddy Kristiansen": Not my favorite of the Solo books. This was five depressing stories, though "The Good Book" and "Love Story" were almost uplifting in ways. I really enjoyed the first story, which was written by Neil Gaiman. But this one won't be making any of my best-of lists. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Opposite Forces Vol 2 #4</strong>: This final issue is so much better in color. I seem to recall it was difficult to follow the action in the last issue of the first version of this series, because it was a bit over-sketchy. Much better this way. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Fallen Angel #1</strong>: I never quite got sure what I thought of this series, but both I and my hubby-Eric liked it enough to give this new volume a try. I was more than a little surprised at how much time had passed since we last saw the Angel, but the story is <em>way</em> more interesting than I expected, as well. So for now this stays on the pull list. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+</div>
+<br />
+&#10;<div class="author">
+<a href="#113676585197749979">-</a>by Tegan at 4:16 PM Seattle time <a href="http://realtegan.blogspot.com/2006/01/rapid-reviews-29-december-2005.html">- Permalink</a> <a href="javascript:HaloScan(&#39;113676585197749979&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=113676585197749979" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=113676585197749979&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span><br />
+&#10;</div>
+<hr />
+<br />
+<br />
+<span id="113676399119658097"></span>
+<div class="post-title">
+Rapid Reviews - 21 December 2005
+</div>
+<br />
+&#10;<div class="entries">
+<div style="clear:both;">
+&#10;</div>
+<strong>JSA: Classified #6</strong>: "Honor Among Thieves" part 2: I was almost rooting for the bad guys, right up until they attacked Ma Hunkel. At that point I started to hate 'em again. I felt a little sorry for them at the end, but only a little. They attacked Ma Hunkel! Grrrrr. She shoulda kicked their butts. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>The Flash #229</strong>: "The Black Death": I was hoping this storyline would finish up in this issue. Unfortunately, it's still going. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0020.jpg" data-border="0" width="75" height="15" alt="2 starfish" /></a><br />
+<br />
+<strong>Birds of Prey #89</strong>: "Perfect Pitch Part Three": My very first thought on seeing the cover of this book was <em>why is Spider-Man 2099 on the cover?</em> Because it isn't Spidey, is why. It's just Spider. I like the revelation to Gordon about Babs' past. I especially like his "great and power Oz" comment. Heh. The finale of this issue is a multiple cliffhanger. Not bad at all. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Green Lantern #6</strong>: "Black Sheep": This villain, Black Hand, is boring. And the Gremlins don't do a lot to impress me either. Hector Hammond is much more scary in this version of GL than he's ever been, though. Most of this issue was a bit boring, and filled with flashbacks that disrupted whatever flow the story might have had. Not the best issue I've read, but at least the story is over. And the crack at the end about German was fun. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Green Lantern Corps: Recharge #3</strong>: "Vega": This is cosmic DCU, why am I even reading it at all? I like Soranik Natu, though I'm more than a little annoyed at how she is manipulated into accepting the ring. She's possibly the only good thing about this book. It's not really enough for me. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0020.jpg" data-border="0" width="75" height="15" alt="2 starfish" /></a><br />
+<br />
+<strong>The Flash #229</strong>: "The Black Death": I was hoping this storyline would finish up in this issue. Unfortunately, it's still going. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0020.jpg" data-border="0" width="75" height="15" alt="2 starfish" /></a><br />
+<br />
+<strong>Infinite Crisis #3</strong>: "Divine Intervention": I must confess that I really didn't expect the villian of this story. Another thing that surprises me is how well the whole DC universe, all the books, seem to be dovetailing into this story. The Aquaman book matches this one closely (though not perfectly). Most of the other books I read also link in. It's just a neat thing to see. According to some of the creators, the links aren't entirely intentional, either. But when all the writers and editors are on the same page, this is what can happen. I like it. I have a theory on Tempest, by the way, but that needs to wait until I get into January's books. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Justice #3</strong>: Slightly better than the last issue, if only because Aquaman is taking action and that action was noticed and correctly interpreted. Too bad about the result. The reveal at the end of this one was much more powerful than any similar reveals in the regular DC Universe. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>What If... Submariner</strong>: "What If Prince Namor Of Atlantis... Grew Up On Land?": I don't really have a lot to say about this one. I know how it differs from Namor's original story, and I think it's a nicely thought-out alternate. But I'm not all that impressed with Elseworlds and What Ifs in which exactly the same things happen as would have happened anyway, and this one seems to bend back to the status quo. I like it, but I don't love it. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Star Wars: Empire #38</strong>: "The Wrong Side of the War part 3": I wish the artwork on this was just a little better. I have trouble telling the characters apart, and there's a large enough cast, all wearing uniforms, that makes it crucial. I like how this one is continuing, even though it feels like it's been using every cliche in the book. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Conan #23</strong>: "The Battle of Brita's Vale": Another story of young Conan, born on the battlefield. It's a fairly icky one, too. I think I'll be happy when we get back to the regular story. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+</div>
+<br />
+&#10;<div class="author">
+<a href="#113676399119658097">-</a>by Tegan at 3:46 PM Seattle time <a href="http://realtegan.blogspot.com/2006/01/rapid-reviews-21-december-2005.html">- Permalink</a> <a href="javascript:HaloScan(&#39;113676399119658097&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=113676399119658097" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=113676399119658097&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span><br />
+&#10;</div>
+<hr />
+<br />
+<br />
+<span id="113675639834317688"></span>
+<div class="post-title">
+Rapid Reviews - 14 December 2005
+</div>
+<br />
+&#10;<div class="entries">
+<div style="clear:both;">
+&#10;</div>
+<strong>Samurai: Heaven &amp; Earth #5</strong>: AAAAARRRGGGHHH!!!!! I expected this to be the final issue of the series, and for it to wrap up and everyone to live happily ever after. If this series had come out in a timely manner, I wouldn't have minded this ending. Maybe I would have even enjoyed it. But this book was eight months late, so this ending is enough to make me want to scream. I don't know if I'll pick up another issue, even though I love the artwork and the concept. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Local #2</strong>: "Polaroid Boyfriend": Nice ending. Ambiguous. But nice. I'm still not quite used to Kelly's artwork, but I'm liking it more and more on every re-read. And I like that Megan is more in control in this issue. A nice solid read, worth checking out. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0040.jpg" data-border="0" width="75" height="15" alt="4 starfish" /></a><br />
+<br />
+<strong>Noble Causes #15</strong>: More soap opera goodness from this title. I'm intrigued to find out what will happen when all of this finally pulls together. Definitely the best soap opera book out there. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+<strong>Amelia Rules #16</strong>: "Against Unbelievable Odds": Another really touching story, this one about Amelia being rescued after her accident, and Trish fighting the darkness that threatens her. This is yet another issue of this book that nearly made me cry. Very recommended. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0045.jpg" data-border="0" width="75" height="15" alt="4 1/2 starfish" /></a><br />
+<br />
+<strong>Green Arrow #57</strong>: "Heading Into the Light Part Four: House Warming": So this book is all about the Society's effectiveness. And it ends on a cliffhanger. I want to like it more, but while I'm interested in what happens, I'm still feeling mostly blah toward this title. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>JLA #123</strong>: "Key Encounters": Isn't Green Arrow the last person who would be surprised that somebody came back from the dead? I like Aquaman's role in this one, even if it's limited. His conviction that the League is a good thing is in character. And I kind of like the way Derenick draws Aquaman, as well. The rest of the story makes more sense now that I understand who the goofy villain is... I never really liked the retcon of the Key and I like him less now, but at least I understand who he is. Not many more issues left in this run, I'm with it until the end. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Action #834</strong>: "Awake in the Dark": Neat little trip into Superman's Kryptonian history. I kind of begin to like the Queen of Fables, particularly her explanation on how she got out of the trap the Justice League set for her. Byrne's art is less irritating in this issue, but I'm still not sure what is bothering me about it. Still, not bad. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0025.jpg" data-border="0" width="75" height="15" alt="2 1/2 starfish" /></a><br />
+<br />
+<strong>Aquaman #37</strong>: "All Fall Down": I'm extremely irritated that I can't identify all the Aqua-villains on the splash page. I should know who they are, but I don't. That's irritation with myself. I'm also very irritated that the editor didn't know Cerdian's gender, a mistake that's embarrassing to say the least. On the other hand, it might be easily explicable, if you read the Jurgens/Epting run of Aquaman. From that run, you expect Garth to have a daughter at some point, as the story originally dealt with time travel, before the plug was pulled and the plot threads were left to drift. I do like Garth's willingness to stand up to The Spectre, in this one, and was gratified to see him succeed against the ghost. Even if he did have some help. Better than some issues, despite the irritation. <a href="http://realtegan.blogspot.com/2005/03/new-ratings-system.html"><img src="http://www.eskimo.com/~tegan/blog/blogpics/0030.jpg" data-border="0" width="75" height="15" alt="3 starfish" /></a><br />
+<br />
+&#10;<div class="center">
+<a href="http://www.eskimo.com/~tegan/aqua/"><img src="http://www.eskimo.com/~tegan/aqua/pics/cvr2003/cvra437.jpg" width="200" height="300" /></a>
+</div>
+<div style="clear:both; padding-bottom: 0.25em;">
+&#10;</div>
+</div>
+<br />
+&#10;<div class="author">
+<a href="#113675639834317688">-</a>by Tegan at 1:39 PM Seattle time <a href="http://realtegan.blogspot.com/2006/01/rapid-reviews-14-december-2005.html">- Permalink</a> <a href="javascript:HaloScan(&#39;113675639834317688&#39;);" target="_self"></a>
+<span class="item-action"><a href="http://www.blogger.com/email-post.g?blogID=3879027&amp;postID=113675639834317688" title="Email Post"><span class="email-post-icon"> </span></a></span><span class="item-control admin-205334437 pid-1846266249"><a href="http://www.blogger.com/post-edit.g?blogID=3879027&amp;postID=113675639834317688&amp;quickEdit=true" style="border:none;" title="Edit Post"><span class="quick-edit-icon"> </span></a></span><br />
+&#10;</div>
+<hr />
+<br />
+</td>
+<td width="1" data-bgcolor="#000000"><img src="blogpics/cleardot.gif" width="1" height="1" /></td>
+<td data-valign="top" width="25%"><div class="sidetextcenter">
+<a href="20060101-20060107.html">01/01/2006 - 01/07/2006</a><br />
+01/08/2006 - 01/14/2006<br />
+<a href="20060115-20060121.html">01/15/2006 - 01/21/2006</a><br />
+&#10;</div>
+<div class="sidehead">
+current
+</div>
+<div class="sidetextcenter">
+<a href="http://realtegan.blogspot.com/">Bloggity-Blog-Blog-Blog</a>
+</div>
+<div class="sidehead">
+archives
+</div>
+<div class="sidetextcenter">
+<a href="2002Archive.html">2002 Archive</a><br />
+<a href="2003Archive.html">2003 Archive</a><br />
+<a href="2004Archive.html">2004 Archive</a><br />
+<a href="2005Archive.html">2005 Archive</a><br />
+<a href="2006Archive.html">2006 Archive</a><br />
+&#10;</div>
+<div class="sidehead">
+other
+</div>
+<div class="sidetextcenter">
+<a href="http://www.eskimo.com/~tegan/aqua/">My Aquaman Website</a><br />
+<a href="20021124-20021130.html#85318589">Why Aquaman?</a><br />
+<a href="sketch/index.html">Aquaman Sketchbook</a><br />
+<br />
+<a href="shop.html">Bookshop</a><br />
+<a href="supportsites.html">Support This Site</a><br />
+<br />
+<a href="rapidreviews.html">Rapid Reviews Index</a>
+</div>
+<div class="sidehead">
+ &#10;</div></td>
+<td width="1" data-bgcolor="#000000"><img src="http://www.eskimo.com/~tegan/blog/blogpics/cleardot.gif" width="1" height="1" /></td>
+<td data-bgcolor="#036303"><img src="http://www.eskimo.com/~tegan/blog/blogpics/cleardot.gif" width="1" height="1" /></td>
+</tr>
+</tbody>
+</table>
+
+<div id="footer">
+
+</div>

@@ -1,0 +1,84 @@
+---
+title: "Even Goddesses Get the Blues"
+source_domain: amasci.com
+source_path: ~vecna/blue_jen.html
+order: 9381
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-07T17:17:26Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Even Goddesses Get the Blues
+
+*Source page: `~vecna/blue_jen.html`*
+
+<table data-border="0" cols="1" width="85%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td>Even Goddesses Get the Blues<br />
+For Jen, on her birthday<br />
+From Christine<br />
+ &#10;<p>"<em>Mein Gott!</em> What is this place?"</p>
+<p>The German accent was stronger than that of Gustav Sevarius, and the voice altogether different. Still, it was enough to rouse Jericho from a heavy sleep. He opened his eyes, unsure of where he was or how he'd come to be here, conscious only of a few facts. </p>
+<p>He was chained. Manacles held his wrists and ankles to a wall of stone in some unlit subterranean chamber. </p>
+<p>He was naked. The air was cool and damp on his skin. All of his skin. From the tips of his wing struts to the end of his tail, and everywhere in between. </p>
+<p>He wasn't alone. Another pair of eyes, lambent yellow, gleamed in the darkness. And a slow, steady breathing came from somewhere nearby. </p>
+<p>"Who's there?" he asked. </p>
+<p>"First tell me where we are," came the German's reply. "And why it is that I cannot use my power."</p>
+<p>"I don't know what you're talking about." His head felt so leaden, his mind so slow. Had he been drugged? </p>
+<p>He blinked, shook his head, looked around again. His eyes had adjusted to the near-total black and he saw a figure across from him. The source of both the yellow gaze and the accent. At first, seeing the tail, the pointed ears, the fangs, and the inhumanly shaped hands and feet, Jericho thought he was looking at some other gargoyle. But he could see no wings, no brow ridges and the body, while unclothed, was not nearly as naked as his own because of a covering of dense indigo fur. </p>
+<p>"You're no gargoyle," he said. </p>
+<p>"And you, <em>mein freund</em>, are no mutant. I ask you again, what is this place?"</p>
+<p>"A dungeon." Warily, not sure if this was some strange test, he offered, "I am called Jericho."</p>
+<p>"And I am known as Nightcrawler." The other chained figure executed a bow, as well as he was able. </p>
+<p>Someone coughed. Jericho heard a stirring, and a scraping sound that made him think of those first few moments at dawn when a gargoyle's transformation began. A stony sound, grating. </p>
+<p>"What happened?" a new voice asked. </p>
+<p>Jericho turned his head. The third figure was slouched in his chains, lots of long wild hair obscuring his features until he groaned and straightened up. Jericho's initial thought was that the man was sick, plague-ridden. Then he saw that what he'd mistaken for boils were stones. Embedded in his flesh. Knobby lumps a darker shade of turquoise than the pale sea-blue of the man's skin. </p>
+<p>"We seem to be prisoners," Nightcrawler said. He frowned in concentration, and Jericho didn't know what he was expecting, but nothing happened. </p>
+<p>"How? And whose?" </p>
+<p>"Your guess is as good as ours," Jericho said. "Who are you?"</p>
+<p>"Zelgadis."</p>
+<p>"If you say so." Jericho raised an inquisitive brow ridge at Nightcrawler to see if the name meant anything to the furry fellow, but a slight shake of the head was his answer. They were strangers all, and captives all. For what design and purpose, he could not begin to</p>
+<p>A door opened at the top of a flight of stairs. Warm firelight streamed down, illuminating the dungeon's stone walls and floor. The three of them winced, nearly blinded by the sudden radiance. Then a shadow blotted part of it out. The light beamed around a female shape, glinted off a half-mask that rose into a high headdress, shone through the sheer fabric that swirled around the long legs of the woman in the doorway. </p>
+<p>"Oh, no!" Jericho groaned. "Not her. By the Dragon, not her!"</p>
+<p>Zelgadis hung in his bonds, mouth agape. Nightcrawler's eyes widened appreciatively as someone all too familiar to Jericho gracefully descended the steps. The rich dark hair spilling from beneath the headdress, the sly eyes flashing from within the eyeholes of the mask, the curve of a generous mouth accentuated by a beauty mark a voluptuous body showcased in gold and gauze and spike-heeled shoes</p>
+<p>"You remember me, do you?" she purred in a throaty timbre that sent goosebumps rushing over Jericho's skin. </p>
+<p>"<em>Guten Abend, Fraulein</em>," Nightcrawler said, executing his bow again but with considerably more panache, and a sweep of the tail that on a gargoyle would have been considered a hell of a flirtation. "How fortunate for us that you have arrived. We seem to be imprisoned "</p>
+<p>"By her," Jericho broke in.</p>
+<p>"You know this lovely lady? You are a lucky man indeed!"</p>
+<p>Zelgadis nodded, still unable to tear his gaze from the woman. </p>
+<p>"Lucky?" Jericho cried. "This is the Golden One! You have no idea what she means to do to us. She she's a a siren. A succubus. She'll she'll strap you down and oil you up and use you for her own sinister pleasure."</p>
+<p>The Golden One laughed. "You <em>do</em> remember."</p>
+<p>"Let me make sure I understand," Zelgadis said. "She's captured us for her harem?"</p>
+<p>"Precisely," the Golden One said. "I've had my warriors scouring the earth for the likes of you. It's dear Jericho's fault, really, that I have such an abiding passion for sexy blue males."</p>
+<p>Nightcrawler muttered something in German that Jericho couldn't understand, but by the sound it was awed, and not at all filled with the proper dread. </p>
+<p>"Don't be swayed by her!" he said. "She's evil. She'll she'll take you, and she'll make you like it. She'll use her mouth and hands and rub her body all over yours until you can't help but but stand up for her, and then she'll ride you until you beg for mercy."</p>
+<p>"Jericho, dear," the Golden One said, "I don't think you're having quite the daunting effect on them that you intended." </p>
+<p>She looked, amused, from Nightcrawler to Zelgadis. Both, faced with the proximity of such a scantily-clad and curvaceous female as well as listening to Jericho's words, were trying with limited success to hide their growing interest. </p>
+<p>"No," Jericho implored them. "Don't give her what she wants."</p>
+<p>"I assure you, <em>Fraulein</em>, we would likely be much better company if we weren't so confined." Nightcrawler moved his wrists, rattling the chains. </p>
+<p>"You're damning yourselves! Fight her!"</p>
+<p>"Oh, Jericho," she chided, and flicked him with the tips of her fingers. "You know that you'll change your tune once it's your turn."</p>
+<p>"But why capture us?" Zelgadis asked. "Why lock us up?"</p>
+<p>She drifted over to him, hips swaying in an intoxicating manner that Jericho did his best not to watch. Nightcrawler watched enough for both of them, with a devilish grin. The Golden One ran her fingertips lightly over Zelgadis' cheek and he shivered noticeably. </p>
+<p>"Because it's fun," she said. "Hmm I see you do have those interesting little bumps all over, don't you? Three fine males. One bumpy, one furry, and one smooth as suede. All those textures, and all in blue. I hardly know where to begin."</p>
+<p>"Now, <em>liebchen</em>," Nightcrawler said silkily, "there's no need to take by force what could be yours for the asking."</p>
+<p>She directed her attention to him, much to Zelgadis' evidently conflicting relief and disappointment. The Golden One tousled the dark blue mutant's hair and teasingly pinched the point of his ear. He curled his tail suggestively around her leg, and despite himself, Jericho felt a swift pang of jealousy. How <em>dare</em> this fuzzy blue elf know about that? How <em>dare</em> he?</p>
+<p>"Adorable," she said. "Just adorable."</p>
+<p>"<em>Danke schon</em>."</p>
+<p>After caressing Nightcrawler's face, and trailing her fingers down his chest, the Golden One glanced up at the doorway. Several of her warriors waited there, in leather armor and jeweled ornaments. </p>
+<p>"Bring them up," she said. "Arrange them beside my throne. They might as well enjoy the feast before the main celebration."</p>
+<p>"But why?" Zelgadis persisted. "What's all this about?"</p>
+<p>Her smile was dazzling. "Because it's my birthday, and you three, you're my presents."</p>
+<p>"Do we get to give you a birthday spanking?" Nightcrawler asked, creeping his tail higher up her leg.</p>
+<p>"We'll see," she said, and made an imperious gesture. "We shall see."</p>
+<p>The warriors came down to unchain them, and as the moon rose over the tropical island and the torches blazed, the Golden One's birthday celebration began. </p>
+<p>**</p></td>
+</tr>
+</tbody>
+</table>

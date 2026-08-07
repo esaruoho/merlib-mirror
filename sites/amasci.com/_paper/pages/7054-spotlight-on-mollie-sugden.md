@@ -1,0 +1,31 @@
+---
+title: "Spotlight on Mollie Sugden"
+source_domain: amasci.com
+source_path: ~rkj/weekly/aa060100a.htm
+order: 7054
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:14:37Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Spotlight on Mollie Sugden
+
+*Source page: `~rkj/weekly/aa060100a.htm`*
+
+### Spotlight on Mollie Sugden
+
+Dateline: June 1, 2000
+
+Actress and comedienne Mollie Sugden is most famous for playing purple-haired Mrs. Slocombe on the PBS perennial [*Are You Being Served?*](../../msub1.htm) but she has had a long and varied career on British TV screens. Born in 1922 in Yorkshire, she first made an impact in the comedy series *Hugh and I* in 1962. She began the 1970s in the Carla Lane series *The Liver Birds*, a comedy about young women in Liverpool. In it she played Nerys Hughes mum, Mrs. Hutchinson. With her domineering style, talk show host Vanessa Feltz once described Mrs. Hutchinson as: "Hyacinth Bucket (Patricia Routledge's famous role in [*Keeping Up Appearances*](http://britcoms.com/kua/)) before her time." From 1973-74 Sugden had a bit, but pivotal, part as Nellie Harvey in the long-running soap [*Coronation Street*](http://www.coronationstreet.co.uk/).
+
+But all this was to pale to the legend she would create in the long-running sitcom *Are You Being Served?* beginning in 1972. As Mrs. Slocombe (Mrs. Mary Elizabeth 'Betty' Jennifer Rachel Yiddell Abergavenny Slocombe, to give her full name), Sugden is forever memorable for her double-entendres involving "my pussy," which of course just innocently referred to her cat. The series ran for six years on the BBC (and will forever in reruns on PBS in America), and was brought back in the 1992 sequel series as [*Grace and Favour*](http://www.hurricanetracker.net/aybs/aybsa.html) (which was called *Are You Being Served? Again* in the US).
+
+In 1978 she was also in the short-lived science fiction spoof *Come Back, Mrs. Noah* as a middle-aged housewife accidently sent into orbit. Written by Jeremy Lloyd and David Croft, the role of Mrs. Noah was written especially for Sugden. Despite only running for six episodes, it still turns up occasionally on PBS prompting Sugden to receive letters from America wondering when they'll make more!
+
+Comedy isn't her only craft, and her drama credits are solid and include *Maggie* in 1964, the 1970 production of *The Six Wives of Henry VIII*, and Mrs. Goddard in 1972 mini-series *Emma*.
+
+In 1983 she appeared in *That's My Boy*, *My Husband and I* in 1987, and in 1996 reprised her role as Mrs. Hutchinson in the revival of *The Liver Birds*. Ill health at the time somewhat diminished her on-screen impact, but Mollie Sugden is a trooper and her tremendous contributions and memorable characters guarantee her a place in the hearts of British comedy fans forever.
+
+[**Previous Features**](mpreviss.htm)

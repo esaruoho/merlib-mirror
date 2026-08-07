@@ -1,0 +1,61 @@
+---
+title: "Interview with Dan Jurgens"
+source_domain: amasci.com
+source_path: ~tegan/aqua/faq/int_jurgens.html
+order: 8658
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:16:25Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Interview with Dan Jurgens
+
+*Source page: `~tegan/aqua/faq/int_jurgens.html`*
+
+# Dan Jurgens Interview
+
+## from CBEM Issue \#250 (January 28, 2000)
+
+<http://digitalwebbing.com/cbem/>
+
+Dan Jurgens-writer of Marvel's THOR, co-storyteller (with Andy Kubert) of CAPTAIN AMERICA, writer of DC's AQUAMAN and several other current and upcoming projects-kindly agreed to take time for a quick Q&A. I want to thank Tom Brevoort for helping me get in contact with Dan and most importantly thank Dan (obviously) for taking the time out of his voluminous workload for the interview.
+
+On another note, I'd like to invite folks to e-mail CBEM (or me at tim_jen@mindspring.com) if there are any creators you'd like to see interviewed in upcoming issues. Or, hey, if you're a creator that wants to be interviewed you can e-mail your request as well, at least that way we'll find you pretty easily.-Thanks, Tim O'Shea
+
+*Note: This interview has been edited down from the full version to include only questions about or related to Aquaman. This is posted with the permission of interviewer Tim O'Shea. Many thanks to Tim and CBEM.*
+
+\* \* \*
+
+CBEM: Is it easier writing the three titles you have right now vs. the challenges/limitations inherent with trying to write one Superman book that had to be in synch with two or three other Superman titles at the same time?
+
+JURGENS: I don't know if "easy" is the right word. I enjoy doing the books I do now, just as I enjoyed doing Superman even though it was a totally different type of exercise in writing. There are different positives to find with both approaches.
+
+\* \* \*
+
+CBEM: You've previously gone on record as saying that you plan to have Aquaman interacting more in the DC Universe as well as redefining Aquaman's role in the JLA (the latter goal made obvious by the closing page of issue 65). Is the latter something that you've discussed with Mark Waid, or do you plan to only address his JLA interaction within his own title (I know that can work just as well as evidenced by Ostrander's use of the JLA in MARTIAN MANHUNTER). Are there any other DCU heroes that will be appearing in the immediate future?
+
+JURGENS: Aquaman is hard to gauge at the moment. Though I'm very happy with the book, DC doesn't seem to be very happy with it. We'll have to see.
+
+CBEM: I've also read that you hope to treat Aquaman as a family book. Where does Mera fit in this albeit dysfunctional "family"?
+
+JURGENS: As far as I'm concerned, she's queen of Atlantis. I like Mera a great deal and see Atlantis as enduring and magical to the DCU as Asgard is to Marvel. It should have almost a fairy tale sense to it...and idea that it will outlast anything. DC doesn't seem to agree with this so I haven't been able to push it as far as I wanted.
+
+As for the royal family aspect, I've always thought that as a society, we obviously take great interest in Britain's royal family. Mix aspects of that in with super heroics and a fairy tale kingdom and we should have a great springboard for adventures.
+
+CBEM: Is Arthur going to rule with an "iron hand" forever or do you hope to somehow have him regenerate a normal hand?
+
+JURGENS: Stay tuned!
+
+CBEM: It's not everyday that a writer foreshadows plot developments that run through two generations. How much of AQUAMAN do you actually have plotted out from the current issue to the point where Garth and his granddaughter, Donna, are dining on the beach. In other words, left to your own devices, how many issues could you go?
+
+JURGENS: It's been so much fun to write that I'd like very much to carry it on as long as possible. However, I also get the sense that would be pushing it way too far so I'll be stopping in when this particular story is told. One problem is that it tips the hand about the future to a great extent, and DC is very nervous about that.
+
+CBEM: Do you plan on using any of the new villains Peter David introduced into the series, such as Kordax or Demon Gate? In terms of the classic Aquaman villains, how soon before Ocean Master or Black Manta?
+
+JURGENS: No. I'll stick with the classics and create some new ones as well. This is no criticism of what Peter did, but I have the sense it's time to turn to some different approaches.
+
+------------------------------------------------------------------------
+
+[Back to Aquaman Page](../index.html)

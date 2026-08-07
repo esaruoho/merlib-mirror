@@ -1,0 +1,662 @@
+---
+title: "Pull 62 -- 2nd AnnualTiconderoga Wal-Mart IWPA Wt. Pull - #2"
+source_domain: amasci.com
+source_path: ~samoyed/iwpa/0001/Pull62.html
+order: 7479
+reachable_from_entry: false
+images: 0
+internal_links: 7
+extracted: 2026-08-07T17:15:03Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Pull 62 -- 2nd AnnualTiconderoga Wal-Mart IWPA Wt. Pull - #2
+
+*Source page: `~samoyed/iwpa/0001/Pull62.html`*
+
+2nd AnnualTiconderoga Wal-Mart IWPA Wt. Pull - \#2\
+Ticonderoga, New York
+===================================================
+
+Pull: 62
+
+Organizer(s):Daniel S. Plosila
+
+Wheels Region: 5
+
+Carpet
+
+Track:Outdoor carpet over sloped blacktop in parking lot. Pulled uphill.
+
+Date:1/21/2001
+
+Weather:
+
+25F at start. Partly sunny making for fairly comfortable conditions.
+
+60 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Tuco
+
+5
+
+1000
+
+12.31
+
+57
+
+17.54
+
+19.0
+
+Anthony Statuto
+
+Am. PitBull Terrier
+
+Shanya
+
+5
+
+900
+
+7.60
+
+56
+
+16.07
+
+16.0
+
+Gary Smith
+
+Am. PitBull Terrier
+
+Starbuck
+
+5
+
+900
+
+11.06
+
+52
+
+17.31
+
+13.0
+
+Steve Jackson
+
+Alaskan Husky
+
+Zorro
+
+5
+
+800
+
+21.35
+
+56
+
+14.29
+
+11.0
+
+Steve Jackson
+
+Siberian Husky
+
+Nova
+
+5
+
+800
+
+57.37
+
+60
+
+13.33
+
+10.0
+
+John Figart
+
+Siberian Husky
+
+Jake
+
+5
+
+700
+
+8.68
+
+56
+
+12.50
+
+9.0
+
+Wendy Leister
+
+Siberian Husky
+
+Kindr
+
+5
+
+700
+
+11.40
+
+55
+
+12.73
+
+8.0
+
+Debi Pruznick
+
+Samoyed
+
+Czar Nicholas
+
+5
+
+700
+
+19.26
+
+57
+
+12.28
+
+7.0
+
+Mary Anne Allen
+
+Samoyed
+
+Zeus
+
+5
+
+700
+
+30.31
+
+52
+
+13.46
+
+6.0
+
+Beverly Detwiler
+
+Samoyed
+
+Tundra
+
+5
+
+600
+
+47.82
+
+53
+
+11.32
+
+5.0
+
+Daniel Plosila
+
+Samoyed
+
+Sonya
+
+5
+
+500
+
+6.94
+
+40
+
+12.50
+
+4.0
+
+Carol Kinne
+
+Samoyed
+
+Owl
+
+5
+
+400
+
+6.41
+
+43
+
+9.30
+
+3.0
+
+Belva Plosila
+
+Samoyed
+
+Sierra
+
+5
+
+300
+
+14.51
+
+47
+
+6.38
+
+2.0
+
+John Figart
+
+Siberian Husky
+
+Pan
+
+5
+
+300
+
+36.09
+
+52
+
+5.77
+
+1.0
+
+Carol Kinne
+
+Samoyed
+
+Kista
+
+5
+
+No Pull
+
+52
+
+.
+
+0.0
+
+Ingelore Mc Laughlin
+
+Boxer
+
+80 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Loki
+
+5
+
+1200
+
+21.04
+
+78
+
+15.38
+
+10.0
+
+Melanie Morehouse
+
+Malamute mix
+
+Babe
+
+5
+
+1100
+
+14.01
+
+76
+
+14.47
+
+7.0
+
+Ron Poitras
+
+Am. Bull Dog
+
+Irish
+
+5
+
+1000
+
+8.11
+
+75
+
+13.33
+
+4.0
+
+Gary Smith
+
+Am. PitBull Terrier
+
+Bandit
+
+5
+
+1000
+
+39.96
+
+70
+
+14.29
+
+2.0
+
+Lee Smith
+
+Am. Bull Dog
+
+Yuengling
+
+5
+
+1000
+
+62.96
+
+72
+
+13.89
+
+1.0
+
+Steve Jackson
+
+German Shepherd
+
+Buddy-Bear
+
+5
+
+500
+
+6.38
+
+73
+
+6.85
+
+0.5
+
+Deborah Sien
+
+Malamute mix
+
+100 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Rebull Dawg
+
+5
+
+1200
+
+8.86
+
+90
+
+13.33
+
+8.0
+
+Gary Smith
+
+Am. PitBull Terrier
+
+Xena
+
+5
+
+1000
+
+12.04
+
+94
+
+10.64
+
+5.0
+
+Joan Lincoln
+
+Rottweiler
+
+Brie
+
+5
+
+1000
+
+15.59
+
+82
+
+12.20
+
+2.0
+
+Tracey Brant-Cornell
+
+Swiss Mountain Dog
+
+Blitzen
+
+5
+
+600
+
+6.84
+
+81
+
+7.41
+
+0.5
+
+Deborah Sien
+
+Alaskan Malamute
+
+120 \# Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Ox
+
+5
+
+1800
+
+17.38
+
+110
+
+16.36
+
+7.0
+
+Ron Poitras
+
+Am. Bull Dog
+
+Diablo
+
+5
+
+1000
+
+7.68
+
+102
+
+9.80
+
+4.0
+
+Lee Smith
+
+Am. Bull Dog
+
+Bandit
+
+P
+
+800
+
+4.84
+
+101
+
+7.92
+
+.
+
+Torri Potter
+
+Am. Bull Dog
+
+Unlimited Class
+
+Dog
+
+Reg
+
+Pulled
+
+Time
+
+Wt.
+
+%
+
+Score
+
+Handler
+
+Breed
+
+Lady Charm
+
+5
+
+1800
+
+18.11
+
+121
+
+14.88
+
+5.0
+
+Lee Smith
+
+English Mastiff
+
+Last Updated: 09:07:29 on 03-08-2001
+
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| [Pull Index](pulllist.htm) | [Previous Pull \#](Pull61.html) | [Next Pull \#](Pull63.html) | <a href="../index.html" target="_top">IWPA Home Page</a> |
+| Standings ==\> | [Wheels](Wheels.html) | [Snow](Snow.html) | [Upcoming Pulls](../calendar.htm) |

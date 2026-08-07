@@ -1,0 +1,59 @@
+---
+title: "jessamyn.com: barthelme: report"
+source_domain: amasci.com
+source_path: ~jessamyn/barth/report.html
+order: 3705
+reachable_from_entry: false
+images: 1
+internal_links: 1
+extracted: 2026-08-07T17:10:21Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# jessamyn.com: barthelme: report
+
+*Source page: `~jessamyn/barth/report.html`*
+
+**Report\
+by Donald Barthelme**
+
+<table width="85%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><p>     Our group is against the war. But the war goes on. I was sent to Cleveland to talk to the engineers. The engineers were meeting in Cleveland. I was supposed to persuade them not to do what they are going to do. I took United's 4:45 from LaGuardia arriving in Cleveland at 6:13. Cleveland is dark blue at that hour. I went directly to the motel, where the engineers were meeting. Hundreds of engineers attended the Cleveland meeting. I noticed many fractures among the engineers, bandages, traction. I noticed what appeared to be fracture of the carpal scaphoid in six examples. I noticed numerous fractures of the humeral shaft, of the os calcis, of the pelvic girdle. I noticed a high incidence of clay-shoveler's fracture. I could not account for these fractures. The engineers were making calculations, taking measurements, sketching on the blackboard, drinking beer, throwing bread, buttonholing employers, hurling glasses- into the fireplace. They were friendly.</p>
+<p>     They were friendly. They were full of love and information. -The chief engineer wore shades. Patella in Monk's traction, clamshell fracture by the look of it. He was standing in a slum of beer bottles and microphone cable. "Have some of this chicken la Isambard Kingdom Brunet the Great Ingineer, " he said. "And declare who you are and what we can do for you. What is your line, distinguished guest?"</p>
+<p>     "Software," I said. "In every sense. I am here representing a small group of interested parties. We are interested in your thing, which seems to be functioning. In the midst of so much dysfunction, function is interesting. Other people's things don't seem to be working. The State Department's thing doesn't seem to be working. The UN's thing doesn't seem to be working. The democratic left's thing doesn't seem to be working. Buddha's thing__'</p>
+<p>     "Ask us anything about our thing, which seems to be working, the chief engineer said. "We will open our hearts and heads to you, Software Man, because we want to be understood and loved by the great lay public, and have our marvels appreciated by that public, for which we daily unsung produce tons of new marvels each more life-enhancing than the last. Ask us anything. Do you want to know about evaporated thin-film metallurgy? Monolithic and hybrid integrated-circuit processes? The algebra of inequalities? Optimization theory? Complex high-speed microminiature closed and open loop systems? Fixed variable mathematical cost searches? Epitaxial deposition of semiconductor materials? Gross interfaced space gropes? We also have specialists in the cuckooflower,, the doctorfish, and the dumdum bullet as these relate to aspects of today's expanding technology, and they do in the damnedest ways."</p>
+<p>     I spoke to him then about the war. I said the same things people always say when they speak against the war. I said that the war was wrong. I said that large countries should not bum down small countries. I said that the government had made a series of errors. I said that these errors once small and forgivable were now immense and unforgivable. I said that the government was attempting to conceal its original errors under layers of new errors. I said that the government was sick with error, giddy with it. I said that ten thousand of our soldiers had already been killed in pursuit of the government's errors. I said that tens of thousands of the enemy's soldiers and civilians had been killed because of various errors, ours and, theirs. I said that we are responsible for errors made in our name. I said that the government should not be allowed to make additional errors.</p>
+<p>     "Yes, yes," the chief engineer said, "there is doubtless much truth in what you say, but we can't possibly <em>lose</em> the war, can we? And stopping is losing, isn't it? The war regarded as a process, stopping regarded as an abort? We don't know <em>how</em> to lose a war. That skill is not among our skills. Our array smashes their array, that is what we know. That is the process. That is what is.</p>
+<p>     "But let's not have any more of this dispiriting downbeat counterproductive talk. I have a few new marvels here I'd like to discuss with you just briefly. A few new marvels that are just about ready to be gaped at by the admiring layman. Consider for instance the area of realtime online computer-controlled wish evaporation. Wish evaporation is going to be crucial in meeting the rising expectations of the world's peoples, which are as you know rising entirely too fast."</p>
+<p>     I noticed then distributed about the room a great many transverse fractures of the ulna. 'The development of the pseudoruminant stomach for underdeveloped peoples," he went on, "is one of our interesting things you should be interested in. With the pseudo-ruminant stomach they can chew cuds, that is to say, eat grass. Blue is the most popular color worldwide and for that reason we are working with certain strains of your native Kentucky <em>Poa pratensis</em>, or bluegrass, as the staple input for the p/r stomach cycle, which would also give a shot in the arm to our balance-of -payments thing don't you know . . . I noticed about me then a great number of metatarsal fractures in banjo splints. "The kangaroo initiative . . . eight hundred thousand harvested last year . . . highest percentage of edible protein of any herbivore yet studied ..."</p>
+<p>     "Have new kangaroos been planted?"</p>
+<p>     The engineer looked at me.</p>
+<p>     "I intuit your hatred and jealousy of our thing," he said. "The ineffectual always hate our thing and speak of it as antihuman, which is not at all a meaningful way to speak of our thing. Nothing mechanical is alien to me," he said (amber spots making bursts of light in his shades), "because I am human, in a sense, and if I think it up, then 'it' is human too, whatever 'it' may be. Let me tell you, Software Man, we have been damned forbearing in the matter of this little war you declare yourself to be interested in. Function is the cry, and our thing is functioning like crazy. There are things we could do that we have not done. Steps we could take that we have not taken. These steps are, regarded in a certain light, the light of our enlightened self-interest, quite justifiable steps. We could, of course, get irritated. We could, of course, <em>lose patience</em>.</p>
+<p>     "We could, of course, release thousands upon thousands of self - powered crawling-along-the-ground. lengths of titanium wire eighteen inches long with a diameter of .0005 centimeters (that is to say, invisible) which, scenting an enemy, climb up his trouser leg and wrap themselves around his neck. We have developed those. They are within our capabilities. We could, of course, release in the arena of the upper air our new improved pufferfish toxin which precipitates an identity crisis. No special technical problems there. That is almost laughably easy. We could, of course, place up to two million maggots in their rice within twenty-four hours. The maggots are ready, massed in secret staging areas in Alabama. We have hypodermic darts capable of piebalding the enemy's pigmentation. We have rots, blights, and rusts capable of attacking his alphabet. Those are dandies. We ,have a hut-shrinking chemical which penetrates the fibers of the bamboo, causing it, the hut, to strangle its occupants. This operates only after 10 P.m., when people are sleeping. Their mathematics are at the mercy of a suppurating surd we have invented. We have a family of fishes trained to attack their fishes. We have the deadly testicle-destroying telegram. The cable companies are cooperating. We have a green substance that,- well, I'd. rather not talk about. We have a secret word that, if pronounced, produces multiple fractures in all living things in an area the size of four football fields."</p>
+<p>     "That's why --"</p>
+<p>     "Yes. Some damned foot couldn't keep his mouth shut. The point is that the whole structure of enemy life is within our power to <em>rend, vitiate, devour</em>, and <em>crush</em>. But that's not the interesting thing."</p>
+<p>     "You recount these possibilities with uncommon relish."</p>
+<p>     "Yes, I realize that there is too much relish here. But you must realize that these capabilities represent in and of themselves highly technical and complex and interesting problems and hurdles on which our boys have expended many thousands of hours of hard work and brilliance. And that the effects are often grossly exaggerated by irresponsible victims. And that the whole thing represents a fantastic series of triumphs for the multidisciplined problem-solving team concept."</p>
+<p>     "I appreciate that. "</p>
+<p>     "We <em>could</em> unleash all this technology at once. You can imagine what would happen then. But that's not the interesting thing."</p>
+<p>     "What is the interesting thing?"</p>
+<p>     "The interesting thing is that we have a <em>moral sense</em> It is on punched cards, perhaps the most advanced and sensitive moral sense the world has ever known."</p>
+<p>     "Because it is on punched cards?"</p>
+<p>     "it considers all considerations in endless and subtle detail," he said. "it even quibbles. With this great new moral tool, how can we go wrong? I confidently predict that, although we could employ all this splendid new weaponry. I've been telling you about, <em>we're not going to do it</em>."</p>
+<p>     "We're not going to do it?"</p>
+<p>     I took United's 5:44 from Cleveland arriving at Newark at 7:19. New Jersey is bright pink at that hour. Living things move about -the surface of New Jersey at that hour molesting each other only in traditional ways. I made my report to the group. I stressed the friendliness of the engineers. I said, It's all right. I said, We have a moral sense. I said, <em>We're not going to do it</em>. They didn't believe me.</p></td>
+</tr>
+</tbody>
+</table>
+
+"The Report"\
+is from *Sixty Stories*. New York: Penguin, 1983.
+
+**Copyright (c) 1996 The Estate of Donald Barthelme, reprinted with permission**
+
+[<img src="pics/barthed.jpg" data-border="0" />](index.html)

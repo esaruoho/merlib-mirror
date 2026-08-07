@@ -1,0 +1,64 @@
+---
+title: "Special Wedding Ceremony"
+source_domain: amasci.com
+source_path: ~cjh/special.html
+order: 2001
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-07T17:08:26Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Special Wedding Ceremony
+
+*Source page: `~cjh/special.html`*
+
+### Special Wedding Ceremony
+
+------------------------------------------------------------------------
+
+Friends, we are gathered here to witness and to celebrate the coming together of two separate lives. We have come to join this man, \_\_\_\_\_\_\_\_\_\_\_, and this woman, \_\_\_\_\_\_\_\_, in marriage, to be with them in the making of this important commitment. The essence of this commitment is the taking of another person in his or her entirety, as lover, companion, and friend. It is therefore a decision which is not to be entered into lightly, but rather undertaken with great consideration and respect for both the other person and oneself. Having made this decision, \_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_ may feel justly proud. As Dietrich Bonhoeffer has said:
+
+> "It is right and proper for a bride and bridegroom to welcome and celebrate their wedding day with a unique sense of triumph. When all the difficulties, obstacles, hindrances, doubts, and misgivings have been, not made light of, but honestly faced and overcome -- and it is certainly better not to take everything for granted -- then both parties have indeed achieved the most important triumph of their lives. With the "yes" that they have said to each other, they have, by their free choice, given a new direction to their lives; they have cheerfully and confidently defied all the uncertainties and hesitations with which, as they know, a lifelong partnership between two people is faced; and, by their own free and responsible action, they have conquered a new land to live in. Every wedding must be an occasion of joy that human beings can do such great things, that they have been given such immense freedom and power to take the helm in their life's journey."
+
+Marriage symbolizes the intimate sharing of two lives, yet this sharing must not diminish but enhance the individuality of each partner. A marriage that lasts is one which is continually developing and in which each person is individually developing, while growing in understanding of each other. Deep knowledge of another human being is not something that can be achieved in a short time, and real understanding of the other's feelings can develop fully only with years of intimacy. This wonderful knowledge of another person grows out of caring for the other so much that one wants to understand as completely as possible what the other is feeling. Thus, it is possible to share, not only joy and successes, but also the burden of sorrows and failures. To be known in this way is a priceless thing, because such understanding and acceptance increase life's joy and make it easier to live with all of life's problems. But again, while marriage is the intimate sharing of two lives, it can yet enhance the differences and individuality of each partner. We must give ourselves in love, but we must not give ourselves away. As Gibran wrote in The Prophet:
+
+> "You were born together, and together you shall be forevermore.\
+> You shall be together when the white wings of death scatter your days.\
+> Aye, you shall be together even in the silent memory of God.\
+> But let there be spaces in your togetherness,\
+> And let the winds of heaven dance between you.\
+>
+> Love one another, but make not a bond of love:\
+> Let it rather be a moving sea between the shores of your souls.\
+> Fill each other's cup, but drink not from one cup.\
+> Give one another of your bread, but eat not from the same loaf.\
+> Sing and dance together and be joyous, but let each one of you be alone.\
+> Even as the strings of a lute are alone though they quiver with the same music.\
+>
+> Give your hearts, but not into each other's keeping.\
+> For only the hand of Life can contain your hearts.\
+> And stand together, yet not too near together:\
+> For the pillars of the temple stand apart,\
+> And the oak tree and the cypress grow not in each other's shadow."\
+
+We are here today to give social recognition to the decision \_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_ have made to accept each other totally and permanently, and to celebrate the love which they have for each other.
+
+> "Love is patient and kind; love is not jealous or boastful; it is not arrogant or rude. Love does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrong, but rejoices in the right. Love bears all things, believes all things, hopes all things, endures all things." (I Corinthians 13)
+
+\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_ come now to be united in marriage. \_\_\_\_\_\_\_ repeat after me: I, \_\_\_\_\_\_\_\_\_, take thee \_\_\_\_\_\_\_\_\_\_, to be my lawful wedded wife, to have and to hold, from this day forth, to love, honor, and cherish, to comfort and to respect, in sorrow or in joy, in hardship or in plenty, so long as we both shall live. \_\_\_\_\_\_\_ repeat after me: I, \_\_\_\_\_\_\_\_\_, take thee \_\_\_\_\_\_\_\_\_\_, to be my lawful wedded husband, to have and to hold, from this day forth, to love, honor, and cherish, to comfort and to respect, in sorrow or in joy, in hardship or in plenty, so long as we both shall live. \_\_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_ wish to exchange rings as symbols of their vows. \_\_\_\_\_\_\_\_\_, as you place the ring on \_\_\_\_\_\_\_\_\_'s hand, repeat after me: This is my beloved and this is my friend. With this ring I thee wed and join my life with yours. \_\_\_\_\_\_\_\_\_, as you place the ring on \_\_\_\_\_\_\_\_\_'s hand, repeat after me: This is my beloved and this is my friend. With this ring I thee wed and join my life with yours.
+
+Before these loved ones and friends, \_\_\_\_\_\_\_ and \_\_\_\_\_\_\_ have pledged themselves to each other and have symbolized this by giving and receiving rings. By the authority vested in me by the State of Washington, I pronounce you husband and wife.
+
+(Kiss)
+
+\* portions of this ceremony are from the book *The New Wedding*, by Khoren Arisian, Random House, 1973.
+
+------------------------------------------------------------------------
+
+**Judge Carolyn J. Hayek, Retired ~ 102 State St. \#206 ~ Kirkland, WA 98033 ~ (425) 889-8101**
+
+------------------------------------------------------------------------
+
+[Back to Judge Hayek's wedding page.](weddings.html)

@@ -1,5 +1,5 @@
 # PDFs referenced on amasci.com but not available for download
-# Generated: 2026-08-07T04:25:48Z
+# Generated: 2026-08-07T16:59:35Z
 
 http://
 pase.uark.edu/_resources/images/the-myths-of-science.pdf
@@ -78,12 +78,10 @@ http://www.cacr.math.uwaterloo.ca/hac/about/chap9.pdf
 http://www.cdfe.org/Indictments.pdf
 http://www.cfn.ist.utl.pt/EPS2001/fin/pdf/P2.114.pdf
 http://www.colorado.edu/physics/phys3320/phys3320_sp12/AJPPapers/AJP_E&MPapers_030612/Preyer_SurfaceCharges.pdf
-http://www.colorado.edu/physics/phys3320/phys3320_sp12/AJPPapers/AJP_E&amp;MPapers_030612/Preyer_SurfaceCharges.pdf
 http://www.cryptoengines.com/~peter/06_random.pdf
 http://www.cufos.org/pdfs/sighting_report.pdf
 http://www.dccomics.com/pdfs/batman/bmcmtrailgun1.pdf
 http://www.derwentcctv.com/datasheets/safety.pdf
-http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&amp;doc=GetTRDoc.pdf&amp;AD=ADA498010
 http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA498010
 http://www.ecn.ulaval.ca/w3/recherche/cahiers/1998/9814.pdf
 http://www.ee.umanitoba.ca/programs/undergraduate/courses/coursehome/c24400/24_400/Final Reports/G7 Final Report.pdf

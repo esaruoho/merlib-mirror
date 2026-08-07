@@ -1,0 +1,228 @@
+---
+title: "SMALLnet post386"
+source_domain: amasci.com
+source_path: ~smallnet/Archive/post386.html
+order: 8245
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-08-07T17:15:56Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SMALLnet post386
+
+*Source page: `~smallnet/Archive/post386.html`*
+
+## SMALLnet Posting post386
+
+------------------------------------------------------------------------
+
+**Date: Sun, 29 Apr 2001 00:36:14 -0500**
+
+SMALLnet's Web Site address is:\
+\< <http://www.eskimo.com/~smallnet> \>
+
+...At the end of April I will be closing down the "Juno" e-mail account for SMALLnet. For some time now the Postings have been coming via my new (and SPAM-free) server, Alaweb.
+
+For those of you who've been sending in their SMALLnet submissions directly, rather than through Eskimo, our new address is: \< <SMALLnet@alaweb.com> \>. \[JW\]
+
+Roy Clough \< <royce6@juno.com> \> states:
+
+That Slat Wing control-line trainer that Hal Hodgson asked about in Posting 385 is one of my designs. It appeared in the August 1955 issue of Popular Mechanics. I do not have plans for it, but there must be a copy of the magazine around somewhere.
+
+I had a query from England a couple of years ago from somebody who wanted to use the design for a slow flight project. Unfortunately I don't have that correspondence at hand.
+
+This plane also used a propeller drag disk to limit thrust to help it fly slower -- come to think of it, this might be interesting to try on some modern slow flyers. All it was, was a disk of stiff cardboard, about 3" diameter, mounted behind the prop.
+
+Roy C.
+
+Jim Dozier \< <LeeKayD@aol.com> \> wrote:
+
+<span id="34">Source: CL Supplies\
+</span> <span id="35">Source: Venturi, Enya\
+</span> In response to Norm Dial's request for a C\L venturi for the Enya model 5224 in post \#382: Norm, try TCI Hobbies. Andy converts a lot of R\C engines for control line. If he doesn't have it, he may know who might. TCI is strictly C\L oriented, and he does trades!
+
+> TCI Hobbies\
+> 621 First Avenue\
+> Two Harbors, Minnesota 55616\
+> 1-800-606-0097\
+> \< <http://www.ucontrolmodels.com/> \>
+
+Reference the carb for that engine: if Norm still has it, I've got a home for it. The Perry carb on mine broke on the last outing -- fatigue finally got it. Engine was still running strong 'til that happened.
+
+I suspect a crack started at one of the mounting holes during an uncontrolled landing a couple months ago, and the base came apart. I'd rather have the Enya carb, anyway.
+
+Thanks for the response on the prop driver for the Cub engine. A kind gentleman saw the Posting, and sent me the address of a place that stocks them, although I seem to have misplaced it at the moment. I have GOT to clear my workbench...one of these days.
+
+Jim Dozier Channelview, Texas
+
+Bob Fritch \< <skypup50@hotmail.com> \> reports:
+
+For anyone wondering about the Dare Demoiselle, I can only give positive comments about this wonderful machine. It uses a stock GWS motor/gear drive and weighs only 7.25 ounces with an 8-cell 270 NiMH homemade pack. To my amazement I'm getting 12-minute flights with this set-up.
+
+The neatest thing is the scale-like appearance...I have a profile pilot with a red silk scarf in mine. I also built homemade spoked wheels as per the instructions in this month's issue of RC microFLIGHT. No one could believe that they weren't commercially-made. I do have a Taig lathe to machine hubs, but this is NOT required to make these really nice wheels.
+
+The plane simply mesmerizes me in flight. It is so stable, slow and yet very controllable...turns on a dime. I normally fly outdoors, but have flown in a small gym with no problems.
+
+I did a speed err...slow test this morning and during a flyby at a normal walking speed the plane was just slowly pulling ahead of me! On my first outdoor test flight I had no problems taking off from the street in front of my house, traveling down the road and turning around in a neighbor's yard -- and flying this pattern up and down the street. A few cars stopped to watch as I floated over them.
+
+I like the design well enough to have gone out and bought the DARE Quadriselle, which is a 4-winged multiplane. If you have any question, feel free to write to me. Bob Fritch
+
+Carlo Godel \< <regiaero@gj.net> \> contributed:
+
+Back in the early eighties I built a 3x Boston Cabin from my original design: the Fake. 48" span, 9" chord; flew on an O.S. .10 at an all-up weight (with empty tank) of 35 ounces -- and that with an old 12-ounce 4-channel radio.
+
+The Big Fake got its picture in Model Builder. I can recommend the use of these models for R/C. They fly just great, and can be built very lightweight for great performance.
+
+I am now working on a 1.5 X version for CO2 power and a mini 4-channel system of 1.2 ounce total weight.
+
+Things have changed for the better all around, and the prices are ridiculously low. In the early sixties a ten-channel reed R/C system went for \$400 with no servos or batteries -- and we were making no more than \$400 per month. You can now buy the whole shebang -- the equivalent of a ten-channel reed system -- for under \$200. Seems like the only things going up in price anymore are taxes. Carlo
+
+...How about gasoline, Carlo??? \[JW\]
+
+Bob O'Neil \< <mdlwon@juno.com> \> sent:
+
+I am a old time modeler and am getting back into the small models after years of absence. I remember years back I had a free flight model I belive was a Scientific kit called the Ensign. It somewhat resembled a Playboy.
+
+You old timers out there may remember it. If any one does, please give me any details that you may have, as I would like to build another one as a small free flight.
+
+Thank you all; this is a great SMALLnet.
+
+Happy Flying, Bob
+
+...Bob, in the current issue of Flying Models, in Randy's "Small Talk" column, is a small photo of the uncovered structure of a Scientific Ensign. Copies of the original kit plans are available from John Pond's Old Time Plans Service, P. O. Box 90310, San Jose, California 95109 -- (408) 292-3382. BTW, John's son, who runs the place now, is often away. It takes persistence to get through sometimes. \[JW\]
+
+Dave Hill \< <d-hill@juno.com> \> requests:
+
+I am looking for a thrust washer for an O.S. .10 glow engine. This is the plain-bearing version prior to the FP. It has no muffler, and a butterfly valve is mounted to the exhaust. The butterfly valve is linked to the carb throttle arm. The head has 5 mounting screws.
+
+I need the thrust washer and the flat shim washer that goes between the thrust washer and case. Maybe there is a SMALLnet reader out there who can help.
+
+Regards, Dave Hill
+
+Ken Park \< <k.d.park@sympatico.ca> \> sent:
+
+Have a request for anyone who has built the CASSUTT kits that have been sold this winter by the Ottawa Radio Control Club -- Mosquito Squadron Winter's Building Project.
+
+Would appreciate getting any "jpeg" on-line. or real photos via snailmail. We would like to post them on our SMALL web page for everyone to see. We might use one of the photos to put on the kit box to help sell more.
+
+We only have about 6 remaining from the original order of 30. Still \$75.60 Canadian, plus shipping -- a great deal.
+
+Pictures can be sent to email address of Ken Park at: \< <ken_park_99@yahoo.com> \> -- or snailmail:
+
+Ken Park, 66 Fieldgate Drive, Nepean, Ontario K2J 1T9 Canada
+
+Phillip Boyd \< <BuilderAir@aol.com> \> contributed:
+
+Let me tell you guys about a couple of neat model tools I found at Auto Zone while buying truck parts. The first is a 3-inch reversible screw driver by Fine Line. It has two Phillips tips and two flat tips. What is good about this is they are small enough for our small modeling screws. Cost \$1.00.
+
+Next is three sizes of squeeze clamps, ranging from 99 cents to \$3.00. I bought out the small ones and the mid-size ones at our local store. The small ones are a little strong, but I found that with a little work with a pair of needle-noses, they can be made just right..
+
+Now while I have your attention, can any one give me an e-mail or mailing address for Mr. Bob Palmer ?
+
+Phillip Boyd
+
+Tom Atwood sent in an item which somehow got garbled before I could transfer it to my word processor. But I remember what it was about: a free "Web Trial" of Air Age's Radio Control microFLIGHT. This is good only until May 7. Go to: \< <http://www.rcmicroflight.com/freetrial> \>.
+
+You'll be asked to supply your e-mail address; then Air Age will e-mail you a password so that you can sample the "subscribers only" edition of microFLIGHT. If you like it, a paid sub- scription costs about \$30... \[JW\]
+
+Affonso Arantes \< <bacuri@uol.com.br> \> sent:
+
+I have been flying my MG-1 powered mini-Rebel using 6x250 mAh Panasonic AAA nickel-cadmium cells. The motor draws 4-5 amps with a 7x4" prop.
+
+I would like to try a similar pack of NiMH AAA cells, but I am not sure if they will support the same current draw without damage. Can anyone inform me what is the maximum current I can safely draw from these cells?
+
+Affonso Arantes Sao Paulo -- Brazil
+
+Dave Segal \< <DDavesegal@cs.com> \> is unhappy:
+
+I see that the Mighty Tower no longer is selling Ultracote covering. (They also no longer sell Goldberg kits, Ace products, or Sonic-tronics.)
+
+Ultracote is my favorite covering material, and I have done a brief search of the Internet to find other sources. Goldberg Models will sell directly, but the list prices are outrageous. Quantum Models sells Ultracote, as does Hobby Lobby (but the latter lists it as Oracover).
+
+These last two have the basic colors, but not the full range of colors shown in the Goldberg catalog. Anyone have any other recommendations for sources of supply?
+
+Dave Segal
+
+Steve Morris \< <mlbco@sirius.com> \> reports:
+
+35 years ago, my first successful rubber-powered model was a Comet Cloudbuster, number 4 in the famed Beginner Series. Guillow has re-introduced the 4 models in this series, and I've just received the Fly Boy and Cloudbuster kits.
+
+The first thing you'll notice is that for reasons unknown, Guillow reversed the names of these 2 models, so that what was the Cloudbuster is now the Fly Boy, and vice-versa.
+
+The kits are very nice and have beautifully-drawn plans with plenty of detailed instructions for beginners. The ribs are laser-cut, and other fuselage pieces are cleanly die-cut from decent balsa stock. White glue and sandpaper is included.
+
+I'd recommend any of these kits for beginners and oldsters. Let's hope Guillow continues to introduce new designs with this quality.
+
+Steve Morris
+
+Bob Cory \< <knittinlady@worldnet.att.net> \> wrote:
+
+In my stash of airplane parts I've found several quite small fuel filters suitable for 1/2A size engines. Don't know how or where I got them, but it MAY have been through Tower.
+
+These are by Master-Airscrew, and one bag of these has 3 filters in it. The part number is MA4500, and they are of green plastic. The label says, "For use with .080 inch or 2 mm I.D. fuel line".
+
+I plan on stocking-up on these filters for future SMALL airplane projects. They are throw-away items and can't be unscrewed or cleaned. Nice compact filters! Robert = "RC"
+
+Andrew Donatelli \< <andrew@donatelli.net> \> contributed:
+
+For anyone interested in seeing some small models, I have uploaded pictures of most of my planes to my website. All but one of the planes on the site are small. Many of them use ACE mini foam wings and Norvel engines.
+
+The address is \< <http://www.donatelli.net> \>.
+
+Andrew Donatelli
+
+Larry Marshall \< <larrym@sympatico.ca> \> provides interesting information on the tiny Czech-made Rapier rocket motors:
+
+Guys using the L-2 size Rapier motors are finding that they fly 85-90% reductions of Jetex 50 (old version) models. I've just gotten a set of KeilKraft Panther plans, reduced to 90%.
+
+The Rapier downside (a dollar apiece cost, when imported from SAMS in England) may be reduced somewhat. There is work in progress to get them available on this continent. I'm not sure how much this would affect the price, but it may.
+
+I love Skyrays. I have enlarged the old Comet plans so I can put a small electric ducted fan in one and fly it RC :-)
+
+Check these sites for Rapier information. The first provides some guidelines while the second is a photo gallery. The Brits are doing some gorgeous work with these small engines. Model Flyer did a special issue on small jets (March 2001) and they featured the Rapier planes. That's what got me interested.
+
+\< <http://www.thestuarts.freeserve.co.uk/page4d.htm> \> \< <http://www.thestuarts.freeserve.co.uk/rapgal.htm> \>
+
+From what the guys are saying, weight is often a virtue. My MiG has a 13" span and weighs 9 grams (17.5 with motor). If anything, they tell me that this is a bit light.
+
+My understanding is that Rapiers are not humidity-sensitive, as the original Jetex fuel pellets were. The only 'problem' is that the fuel is sometimes glazed and doesn't light; so the guys recommend a small drill just to break the surface, making sure that you don't scratch the nozzle. But they talk of near absolute reliability.
+
+Cheers --- Larry
+
+... Gang, a few years ago I suddenly figured out that I'd wasted a tremendous amount of time in my modeling career, using faulty construction methods. I wasn't alone in doing that -- and to this day the majority of "scratch-building" modelers still employ the "standard technique" of cutting model parts to precise size before assembling them.
+
+OK, for some parts, such as fuselage bulkheads, you want and NEED precision pre-cutting. But where I wasted so much time was in cutting out parts such as curved sheet-balsa wingtip and tail parts -- then trying to fit those together so that they matched the plan outlines.
+
+The way I do that sort of thing now is different. It's faster, stronger, and way less frustrating. I make an oversize assembly that covers up the pieced-together outline shown on the plan. The only precision needed is at the joints -- and even those don't really need to be EXACTLY where the plans indicate.
+
+After gluing up this oversize, crudely-shaped balsa outline, I transfer onto the wood the outline shape (inside and outside) of the rudder, wingtip, or whatever -- THEN cut and sand the contours to the desired curvature.
+
+Wing ribs too can be made oversize, then sanded (with a long, straight sanding block) to their final airfoil shape after the wing panels are assembled.
+
+A good way of doing that is to make a precision "master rib" from 1/32" plywood for each end of each wing panel. Paint the edges of these, so you won't sand them out of shape while you're working on the balsa ribs in between.
+
+BTW, I make my sanding blocks with rounded edges now. I've damaged far too many model parts, sanding with "sharp- edged" blocks that catch on protruding bits of the structure -- breaking them rather than abrading them to shape. Rounded block edges eliminate THAT pesky problem.
+
+More tips: Wal Mart's sewing department sells the neatest pins for building small models that I've come across yet. They have molded-on spherical heads, are made of steel, and have nicely sharpened, well-tapered points that don't split thin balsa.
+
+I often forget that not all SMALLsters get Model Aviation magazine. My "Engine Shop" column in that includes helpful information about model motors of various kinds. For instance, I recently discovered a rapid way of loosening up model engines that have become stiff from congealed oil.
+
+Squirt 3-in-1 brand oil into the glow plug opening -- or into the exhaust for a diesel -- and into the intake as well. Turn the motor over by hand until it's possible to flip the prop.
+
+DON'T use heat! The usual cause of a sticky model engine is congealed castor oil, and heat won't soften that. It'll only harden it more.
+
+Anyway, 3-in-1 has a solvent action, and will usually attack the congealed castor within a few minutes. After you get to the "flippable prop" stage, inject more 3-in-1 into the intake, then flip the prop smartly with the engine pointing as much "downhill" as you can manage.
+
+This will cause the crankcase compression to force oil through the main bearing clearance. That will usually flush out the gelled castor, and free the engine right up -- without the need for taking it apart. Works for me! \[JW\]
+
+\* \* \* \* \* \* E N D \* \* \* \* \* \*
+
+------------------------------------------------------------------------
+
+[Back](../index.html) to the SMALLnet home page
+
+[Back](index.html) to the Posting index
+
+[Back](../Sources/SourcesIndex.html) to the Source index

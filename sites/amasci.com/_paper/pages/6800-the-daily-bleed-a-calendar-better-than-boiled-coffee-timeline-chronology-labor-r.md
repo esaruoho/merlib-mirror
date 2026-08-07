@@ -1,0 +1,340 @@
+---
+title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
+source_domain: amasci.com
+source_path: ~recall/bleed/0207.htm
+order: 6800
+reachable_from_entry: false
+images: 17
+internal_links: 0
+extracted: 2026-08-07T17:14:13Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
+
+*Source page: `~recall/bleed/0207.htm`*
+
+> > <img src="http://www.eskimo.com/~recall/images/!cat2a_tn.jpg" data-align="CENTER" width="85" height="165" alt="Cat Has Had the Time of His Life" />
+> >
+> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
+> >
+> >   Our Daily Bleed...
+> >
+> > \
+
+\
+<img src="http://recollectionbooks.com/bleed/images/transparent.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="300" alt="?" />\
+--
+
+> **The world turns softly\
+> Not to spill its lakes & rivers,\
+> The water is held in its arms\
+> & the sky is held in the water.\
+> What is water,\
+> That pours silver\
+> & can hold the sky.**
+>
+> 
+>
+>        *Hilda Conkling,* "Water"
+
+[]()\
+[]()\
+\
+--
+
+**FEBRUARY 7**
+
+CHARLES DICKENS\
+Fine, popular British novelist, social activist, humanitarian.\
+
+
+> > 
+> >
+> > ------------------------------------------------------------------------
+> >
+> > NATIONAL HANGOVER AWARENESS DAY.
+> >
+> > FESTIVAL OF HIDDEN PALINDROMES.
+> >
+> > ------------------------------------------------------------------------
+>
+> []()\
+>
+> []()\
+> \
+> 1478 -- Sir Thomas More chancellor of England, author of the satire "Utopia" lives, Milk Street, Cheapside. <http://history.hanover.edu/early/more.htm>\
+> []()\
+> \
+> 1601 -- Agents of the Earl of Essex, on the eve of his rebellion, bribe the Chamberlain's Men to give a performance of Shakespeare's "Richard III".
+>
+> > > CORRECTION: 
+> > >
+> > > Elizabeth used to think of herself as Richard II she had the same problems of no heir but many aspirants to the throne. Essex was one such aspirant at the time of his rebellion, hence the performance of the Shakespeare play in which Richard is successfully overthrown.
+> > >
+> > > Love your daily inputs. Very cheering. Like your focus on Byron every now & then.
+> > >
+> > > Bleedster Bhattacharji
+> > >
+> > > PS: IT WAS RICHARD II, NOT III
+> > >
+> > > <http://www.engl.uvic.ca/Faculty/MBHomePage/ISShakespeare/Resources/Essex/default.html>\
+> > > 
+>
+> []()\
+> []()\
+> \
+> <img src="http://www.ibiblio.org/wm/paint/auth/fuseli/witches.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="348" height="450" alt="?" />\
+> 1741 -- Phantasmagoric painter Henry Fuseli lives, Zurich, Switzerland.
+>
+> <http://www.mala.bc.ca/~mcneil/fuseli.htm>\
+> <http://www.ibiblio.org/wm/paint/auth/fuseli/>\
+> \
+> []()\
+> \
+> 1812 -- British novelist Charles Dickens lives, Portsmouth, England. 
+>
+> > >  Dickens on the media:
+> > >
+> > > "His high-spiced wares were made to sell, & they sold; & his thousands of readers could as rationally charge their delight in filth upon him, as a glutton can shift upon his cook the responsibility for his beastly excess". 
+> > >
+> > > <http://www.kirjasto.sci.fi/dickens.htm>\
+>
+> []()\
+> \
+> 1817 -- US: African-American who began life as a slave & lives to become a main figure in the U.S. abolition movement, Frederick Douglass, lives, Tuckahoe, Maryland. Most noted for his oratorical brilliance, he also wrote a moving autobiography, Life & Time of Frederick Douglass, & edit his own antislavery newspaper, the North Star. (or the 12th or 14th?) []()\
+> []()\
+> \
+> 1821 -- John Davis becomes first person known to have set foot on the continent of Antarctica. []()\
+> []()\
+> \
+> 1823 -- Ann Radcliffe, Gothic novelist ("The Mysteries of Udolpho"), dies.\
+> <http://members.aol.com/iamudolpho/radcliffe.html>\
+> []()\
+> \
+> 1837 -- Philologist/lexicographer Sir James Murray lives, Roxburghshire, Scotland. By his death (DOA) in 1915, he has finished half the Oxford English Dictionary (OED) by himself.\
+> <http://math-www.uni-paderborn.de/HTML/Dictionaries.html>\
+> \
+> []()\
+> \
+> <img src="http://dwardmac.pitzer.edu/anarchist_archives/proudhon/proudhonfrontpiece.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="150" height="244" alt="Proudhon" />\
+> 1848 -- France: First anarchist journal appears, [Proudhon](http://recollectionbooks.com/bleed/Encyclopedia/ProudhonPierre-Joseph.htm)'s Le Representant du Peuple. It affirms that the emancipation of the working class can only be achieved by the working class itself without the assistance of governments. Sells 40,000 copies.See [15 January](http://www.eskimo.com/~recall/bleed/0115.htm#Proudhon).\
+> <http://burn.ucsd.edu/~anow/ppl/rev/proudhon/>\
+> <http://perso.club-internet.fr/ytak/janvier3.html#15>\
+>  []()\
+> \
+> []()\
+> \
+> 1867 -- Laura Ingalls Wilder, author of the "Little House" children's books, lives, Pepin, Wisconsin. []()\
+> []()\
+> \
+> 1872 -- England: The first agricultural labourers' union meeting is held in Wellesbourne, near Stratford. One of the organisers, Joseph Arch, is portrayed as 'the Arch Apostle of Arson'.\
+> 'Calendar Riots' []()\
+> []()\
+> \
+> 1876 -- US: War Department authorizes Beloved & Respected Comrade Leader General Sheridan to commence operations against "hostile" Lakota, including bands of Sitting Bull & Crazy Horse. []()\
+> []()\
+> \
+> 1882 -- US: Last bare knuckle champ John L Sullivan KOs Paddy Ryan in Mississippi. []()\
+> []()\
+> \
+> <img src="http://www.pcug.org.au/~wegan/eubie.jpg" data-border="1" data-hspace="15" data-vspace="10" data-align="LEFT" data-="" width="100" height="130" alt="?" />\
+> 1883 -- American jazz great Eubie Blake lives.\
+>
+> > <img src="http://chnm.gmu.edu/courses/magic/saloon/blake.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" width="109" height="88" alt="?" />
+> >
+> > **I**f I'd known I was gonna live this long I'd have taken better care of myself. 
+> >
+> > \[Eubie Blake At Age 100\]
+> >
+> >  <http://chnm.gmu.edu/courses/magic/saloon/blake.html>\
+> > \
+> > <http://www.jass.com/sissle.html>\
+> > <http://www.pcug.org.au/~wegan/friendsandassociates.htm>
+>
+> \
+> []()\
+> \
+> 1885 -- American writer Sinclair Lewis lives. Mainly on Main street, Sauk Center, Minnesota. Self-described *"dull fellow whose virtue if there is any is to be found in his books"*, he declined the Pulitzer Prize in Letters, & was the first American awarded the Nobel Prize in Literature, in 1930.\
+> <http://www.ilstu.edu/~separry/lewis.html>\
+> <http://www.kirjasto.sci.fi/slewis.htm>\
+> \
+> 1886 -- US: More than 400 ethnic Chinese are driven from their homes in Seattle, Washington Territory, begining today. A federal state of emergency is declared Feb. 9 & Federal troops are called in to restore order.\
+> 
+>
+> > <http://www.historylink.org/welcome.htm>\
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/dingbats/archpin.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="59" height="63" alt="anarchist pin" />\
+> > 1899 -- France: Louis Louvet (1899-1971) lives, Paris. Anarchist, anarcho-trade unionist, in the Syndicat des Correcteurs d'imprimerie since 1937.
+> >
+> > > Louvet was involved in the production of many anarchist publications. Free thought, anticlericalism & neomalthusianism were seminal to his his activities.
+> > >
+> > > [\[Details, click here\]](http://recollectionbooks.com/bleed/02ref.htm#7/1899)
+> >
+> >  []()\
+> > []()\
+> > \
+> > <img src="http://recollectionbooks.com/bleed/images/dingbats/animfire.gif" data-vspace="0" data-hspace="5" data-align="left" data-="" width="30" height="50" alt="Ooops...animated fire" />\
+> > 1904 -- US: Entire business section of Baltimore destroyed by the worst conflagration to strike an American city since the "Chicago Fire" of 1871. 2,600 buildings consumed by the flames, losses estimated at \$125 million. []()\
+> > []()\
+> > \
+> > 1917 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="20" height="13" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)US: Labor's Tom Mooney convicted & sentenced to hang on May 17. [Emma Goldman](http://recollectionbooks.com/bleed/Encyclopedia/GoldmanEmma.htm) intensifies organizing efforts to prevent his execution.\
+> > []()\
+> > []()\
+> > \
+> > 1923 -- China: Strike of Peking-Hankow railroad workers & shooting of strikers by soldiers.\
+> > See Chronology in K.S. Karol, The Other Communism. []()\
+> > []()\
+> > \
+> > 1928 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="20" height="14" alt="Emma Goldman, anarchist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)Canada: In her final appearance in Toronto, [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma) lectures on two books by Judge Ben Lindsey, The Revolt of Youth & Companionate Marriage.\
+> > []()\
+> > []()\
+> > \
+> > 1939 -- [<img src="http://recollectionbooks.com/bleed/images/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="20" height="12" alt="Emma Goldman, anarchist feminist" />](http://recollectionbooks.com/bleed/sources.htm#GoldmanEmma)England: [Emma Goldman](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GoldmanEmma)'s letter protesting Zenzl Mhsam's second disappearance in the Soviet Union appears in the Manchester Guardian.\
+> > []()\
+> > []()\
+> > \
+> > 1943 -- Michael P. Lerner, socialist writer, activist, professor (indicted as a member of the Seattle 7 in the 1970s), lives.\
+> > <http://www.historylink.org/output.cfm?file_id=2131>\
+> > []()\
+> > \
+> > 1944 -- Witi Ihimaera, Maori author, lives, Gisborne, New Zealand. Writing reflects the clash between Maori & Pakeha (white, European-derived) values.\
+> > []()\
+> > []()\
+> > \
+> > <img src="http://thebluehighway.com/walkin.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="131" height="113" alt=" ? " />\
+> > 1959 -- New Orleans blues & R&B guitarist/singer Eddie "Guitar Slim" Jones, 33, dies of pneumonia in New York City. His wildly electrified guitar style influences Jimi Hendrix among others.\
+> > <http://thebluehighway.com/tbh.html>\
+> > \
+> > []()\
+> > \
+> > 1959 -- US: Cessna lands in Las Vegas after 65 days without landing (refuels in air).\
+> > Scope\
+> > []()\
+> > []()\
+> > \
+> > 1962 -- Vietnam: First U.S. Army support companies arrive in Saigon. []()\
+> > []()\
+> > \
+> > <img src="http://www.webgalleria.com/img/73aAli.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="292" height="162" alt=" ? " />\
+> > 1964 -- US: Cassius Clay becomes a Black Muslim.
+> >
+> > > "I don't put that much value on no heavyweight crown. Time was when I did, but that was before I found the religious convictions that I have. I could give up fighting & never look back."
+> > >
+> > > 
+> > >
+> > > Scope
+> >
+> >  []()\
+> > \
+> > []()\
+> > \
+> > <img src="http://www.mofa.go.jp/mofaj/gaiko/oda/story1/vol_1/image/ngo.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="200" height="140" alt=" ? " />\
+> > 1965 -- US Air force begins systematic saturation bombing & strafing of North Vietnam -- as opposed to their special "festive" bombing & strafing -- coinciding with Kosygins visit to Hanoi.\
+> > See Chronology in K.S. Karol, The Other Communism.\
+> > []()\
+> > \
+> >
+> > []()\
+> > \
+> > <img src="http://www.woodstock69.com/altman/acid.jpg" data-border="1" data-hspace="10" data-vspace="10" data-="" width="288" height="396" alt="Vietnam, Bombed out" />\
+> > 1968 -- After American & South Vietnamese air & artillery strikes level the city of Bentre, South Vietnam (pop. 50,000), a US Army major explains that 
+> >
+> > *"it became necessary to destroy the town to save it."*
+> >
+> > <http://www.namebase.org/nerve.html>\
+> >
+> > \
+> > []()\
+> > []()\
+> > \
+> > 1970 -- US: In the first major action by the Los Angeles Gay Liberation Front, more than 100 activists descend on Barney's Beanery in West Hollywood. For 30 years the bar has posted a sign, *"Faggots -- Stay Out."*
+> >
+> > > Management refused to remove the sign & even posted six additional warnings in the past few weeks. Tonight the gay contingent picket & leaflet, but the signs remain. In a few nights, when a gay group spreads out through the bar & restaurant, owner Irving Held calls the sheriff's office repeatedly. When the deputies arrive, they take Held into the kitchen for a conference. After about an hour, employees take down the signs & give them to the demonstrators.
+> > >
+> > > []()\
+> > > []()\
+> > > \
+> > > 1971 -- Switzerland: What's the Hurry?! Women get the vote. World's obviously going to hell.
+>
+> []()\
+> []()\
+> \
+> 1974 -- Grenada: A [General Strike](http://recollectionbooks.com/bleed/gallery/galleryindex.htm#GeneralStrike) forces England to recognize its independence. The peace & democracy-loving U.S. Marine & Army corps won't invade to Save American Tourism (SAT) & overthrow the legitimate Grenada government until October 25, 1983, when it launches Operation Urgent Fury.\
+> <http://www.travelfacts.com/tfacts/htm/gre/grehist.htm>\
+> <http://www.caribvillage.com/University/grenada.htm>\
+> \
+> 1976 -- US: FCC raids & shuts down pirate radios. Rupert? Ted?\
+> Scope []()\
+> []()\
+> \
+> 1980 -- Pink Floyd begins one of the more unusual coast-to-coast tours in rock history, playing the first of only 14 shows in Los Angeles. The only other city they played was New York. The stage, to promote the band's latest album "The Wall," features a 120 by 60 foot wall made of Styrofoam blocks, which gradually envelops the group as the show goes on. []()\
+> []()\
+> \
+> 1982 -- Guatemala: Founding of the National Patriotic United Front.\
+> Source: Robert Braunwart []()\
+> []()\
+> \
+> 1984 -- David (born without an immunity system), at age 12, touches his mom for first time.\
+> Scope []()\
+> []()\
+> \
+> 1986 -- <span id="1986Haiti">Haiti: After huge popular protests, Beloved & Respected Comrade Leader Playboy dictator "Baby Doc" Duvalier (President-for-Life) flees the country, ending 35 years of this U.S.-sponsored terrorist dictatorship. He was whisked to France on a US jet. Americans can be proud of the democratic values the government has upheld in Haiti; for a small sampling:</span>
+>
+> \
+> [\[Details, click here\]](http://recollectionbooks.com/bleed/02ref.htm#7/1986) []()\
+>
+> []()\
+> \
+> 1990 -- US: In raids begun a few days ago, the Secret Service busts three more computer hackers. []()\
+> []()\
+> \
+> 1991 -- Haiti: Jean-Bertrand Aristide becomes first freely elected president. []()\
+> []()\
+> \
+> 1993 -- Croatia: Women's tribunal against rape in war, Zagreb.
+>
+> []()\
+> []()\
+> \
+> 3000 --
+>
+> > "There is a crack in everything.\
+> > It's how the light gets in."
+> >
+> >  Leonard Cohen
+> >
+> > []()\
+
+[]()\
+\
+<img src="http://www.namebase.org/gifs/apple.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="349" height="203" alt=" ? " />\
+4000 --
+
+> <div align="RIGHT">
+>
+> <http://www.namebase.org/>\
+> <http://www.namebase.org/pixels.html>\
+>
+> ------------------------------------------------------------------------
+>
+> anti-CopyRite 2000-3000, more or less\
+> Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
+> or send questions, suggestions, additions, corrections to:\
+> [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
+>
+> Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
+>
+> The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
+>
+> anarchist, labor, radical books
+>
+> See also: Anarchist Encyclopedia\
+> http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
+> Stan Iverson Memorial Library\
+> http://recollectionbooks.com/siml/\
+> Anarchist Time Line / Chronology\
+> http://recollectionbooks.com/bleed/indexTimeline.htm
+>
+> </div>

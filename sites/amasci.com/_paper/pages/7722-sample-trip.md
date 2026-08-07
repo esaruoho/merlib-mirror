@@ -1,0 +1,71 @@
+---
+title: "Sample Trip"
+source_domain: amasci.com
+source_path: ~samoyed/maps/Sample_Trip.htm
+order: 7722
+reachable_from_entry: false
+images: 3
+internal_links: 0
+extracted: 2026-08-07T17:15:23Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Sample Trip
+
+*Source page: `~samoyed/maps/Sample_Trip.htm`*
+
+Sample Trip
+
+Here is a sample routing problem that shows the kind of fiddling around needed to get the program to display a trip that is acceptable to you. It is a team problem. You say when and where you want to go. The computer gives a solution. You don't like it. You refine the definition. It give another solution….. and on and on….
+
+This trip is using Automap Road Atlas and Destination Campground. Delorme's will give something similar with different tuning problems. Same for other vendors. This is not an endorsement of Automap. This is an illustration of the kinds of problems in specifying a trip that you might encounter in any vendor's product. It so happens that the Automap products are used as that is what I have.
+
+------------------------------------------------------------------------
+
+The Trip
+
+Let's say we are going from <span id="OLE_LINK1">Courtenay, BC</span> to Coulee Playland Resort RV park near the Grand Coulee Dam in Washington. In going to the Grand Coulee Dam, I displayed the area for RV parks and chose Playland; but that will not be illustrated. Courtenay, BC is on Vancouver Island in British Columbia. It requires a ferry ride to get to the mainland. Let's say we are towing a 30' trailer or 5th-wheel and don't want narrow two lane mountain roads. Let's say I set my preferred travel times as 9 AM to 5 PM. Gas mileage, etc, will not be expounded upon, but the data pointed out.
+
+For highways, let's say I set interstate as the preferred type of road with small roads and ferries as not desirable.
+
+I set up the trip with the start at Courtenay, BC(Can) at 08:00 and finish at Coulee Playland Resort, WA. I say to calculate the quickest journey and a journey that follows my highway preferences; then ask it to calculate. To save space, I will not display the map for the quickest route, nor its itinerary. But, the route is visible on the preferred journey map below. It is the gray road and differs from the preferred route in that it took a different ferry and it cuts across the mountains on SR 20 instead of I-90. From the map you can tell that SR 20 is a smaller road, but nothing would tell you if you should avoid it or not. The relief map would tell you that you are going through the mountains. This is the same problem as reading a highway map and trying to decide road conditions. There are no pass elevations, but the sites to see information on the CD might help lead you to the decide this may be a mountain road you would rather avoid.
+
+The itinerary for the quickest journey has the miles: 348, and time: 1 day 1 hr 11 min and a \$54.15 cost. The Preferred is 488 miles at 1 day 1 hr 41 min and \$76.24. Considerable distance and cost difference, but only 30 minutes in time. The time and cost figures are based on the speeds I put into the settings for different road types, and the gas mileage and price figures I configure for the vehicle.
+
+So, I decide to go with the preferred route instead of the quickest. Let's note a few things about the map. There is a green start box and a red end box. The gas pump in a round circle is where I need to gas up. The bed in a red circle is where I should spend the night because the 5 PM day end has been reached. Some little green boxes show times of the day I will be at those locations.
+
+Note that the preferred took a different ferry. You cannot see it with what I have here, but it took me nearly an hour out of my way to get on a ferry with a ½ hour shorter crossing, but I get there ½ hour later. My preferences said I did not like ferries, so it tried to avoid, and not being able to, chose the shortest. Both the ferries cost the same and, with the rig described, would add about \$60 to the cost.
+
+Now, let's go below the map and above the itinerary to note some more about the ferry.
+
+<img src="images/preferm.gif" data-align="BOTTOM" />
+
+**Preferred Journey Map**
+
+The itinerary says to check the timetable for the ferry. Their timetable varies by season and time of day and day of week. Since Automap does not have dates, there is no way it could figure times, even if it had a table. Even then, you have loading time and the chance of not catching the ferry because it fills before your turn to board. You have to make the judgment on how early you want to be there, adjust your start time so you will arrive when desired, and make the ferry terminal a stop-over for the amount of time between your arrival and the ferries' departure. Then you ask it to recalculate the trip and you will have a better estimate of the trip. Also, I would make the ferry setting more desirable, or set some road avoids so it would pick the ferry closer to my start point.
+
+You will note on the itinerary that it tells us where to gas up. This is based on my mileage estimate, how big my tank is, and how low I say to let it get. One problem with automap is you cannot decide to fill-up out of sequence and have it recompute from there. I would likely fill-up where I spent a night or had a stop-over, and I would like to tell automap these are my plans.
+
+Neglecting the tuning for the ferry, lets look at the other end of the journey. On the itinerary, you will note that we should spend the night when we are an hour and 40 minutes away from our final destination. Perhaps I should leave earlier or drive later. I could change the end of day from 5 PM to 7 PM and it would route me to my destination without an overnight stop.
+
+But, let's say I decide to stop. Note: it will not abruptly stop me in the boondocks at exactly 5 PM, but will get me to the nearest town (one user says Map-N-Go will stop you abruptly). But, it is probably not where you want to stop. And, you may notice, it does not really tell you where you are stopping (just the icon on the map).
+
+Let's look at the next map (a blow-up of the overnight area).
+
+<img src="images/preferi.gif" data-align="BOTTOM" />
+
+**Preferred Journey Itinerary**
+
+There is a KOA at Vantage, and private RV parks at Quincy and Ephrata (as well as several others further away). Clicking on the park at Quincy we get the RV Park listing from Destination Campground. It gives facilities, cost, directions.
+
+<img src="images/stopc.gif" data-align="BOTTOM" />
+
+**Overnight Region with RV Park Listing**
+
+So, if we chose this park, we would want to add it as a stop-over in our journey and recalculate to get our final journey. We may need to bump the preferred end of day beyond 5 PM to let it go beyond the current point it chose for overnight. If we had chosen a park before this point, we would have had to specify a dummy stop-over time to finish out the day.
+
+Well, I hope this illustration gives you an idea of how you need to tune your journeys with the various route planning programs, and Automap in particular.
+
+------------------------------------------------------------------------
+
+Comments to Ron Bowser at <samoyed@eskimo.com>

@@ -1,0 +1,78 @@
+---
+title: "svg2swf"
+source_domain: amasci.com
+source_path: ~robla/svg2swf/index.html
+order: 7340
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-08-07T17:14:55Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# svg2swf
+
+*Source page: `~robla/svg2swf/index.html`*
+
+# svg2swf
+
+This is a command-line Python script that will convert a (rudimentary) [SVG](http://www.w3.org/Graphics/SVG) file into a Macromedia Flash (swf) file, using SAX to do the parsing, and the [ming](http://www.opaque.net/ming) library to write the .swf file.
+
+## News/History
+
+#### July 29, 2001
+
+[Release of v0.1.3.](#download) - I've taken off the warning about this being a developer only release, because I think it's starting to get generally useful. It's still very rough around the edges, though, so use at your own risk. New features:
+
+- Improved style handling
+- Added rgb() color syntax in CSS
+- Skeleton for handling hyperlinks
+- Handle polygon, polyline and line elements
+- Added very crude hyperlink support
+
+#### July 23, 2001
+
+Release of v0.0.2. This release is the first one to render tiger.svg properly. Complete handling of the path element.
+
+#### July 11, 2001
+
+Release of v0.0.1. First release, limited handling of path element, along with rect and a couple of others I forget. <span id="download"></span>
+
+## Download
+
+- [svg2swf](svg2swf) Version 0.1.3 (July 29, 2001)
+
+## Requirements
+
+- [Python 1.5](http://www.python.org)
+- [The Python SAX parser](http://sourceforge.net/projects/pyxml) (included with Python 2.0 and later).
+- [ming 0.1.1](http://www.opaque.net/ming)
+
+------------------------------------------------------------------------
+
+## Examples
+
+The most impressive image I've tested this with is the [tiger image](http://www.levien.com/svg/tiger.svg) off of the [Gill](http://www.levien.com/svg/) page. Here's the resulting output (with a one-line cheat to center the image):\
+
+\
+The tiger is acutally comprised of very few SVG primatives, so it's not *that* impressive to have an SVG renderer handle it. Still, it looks pretty.
+
+The way I've been developing this has been by tackling testcases from the [W3C's SVG Conformance Test Suite](http://www.w3.org/Graphics/SVG/Test/). Here's a list of the tests that (I think) this passes (with caveats):
+
+- path-lines-BE-01.svg
+- path-curves-BE-02.svg
+- path-curves-BE-03.svg
+- path-curves-BE-04.svg
+- shapes-rect-BE-01.svg
+- shapes-circle-BE-03.svg
+- shapes-line-BE-04.svg
+- shapes-polygon-BE-05.svg
+- shapes-polyline-BE-06.svg
+
+Caveats: Flash doesn't allow for setting the [linecap](http://www.w3.org/TR/2001/PR-SVG-20010719/painting.html#StrokeLinecapProperty), which defaults to "round cap" in Flash. Since SVG defaults to "butt cap", and since I can't change to that value, that's a problem. Also, the hyperlink text area is a bit out of control. If it passes any others, it'd be out of luck, becuase generally speaking, if I haven't looked at it, it doesn't work.
+
+------------------------------------------------------------------------
+
+Copyright 2001 Rob Lanphier\
+
+[<img src="http://www.eskimo.com/~robla/littleho.gif" data-hspace="5" data-vspace="5" width="125" height="80" alt="Rob&#39;s Homepage" />](http://www.eskimo.com/~robla)

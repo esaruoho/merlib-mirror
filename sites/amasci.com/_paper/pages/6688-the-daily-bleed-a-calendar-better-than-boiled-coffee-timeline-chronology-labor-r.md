@@ -1,537 +1,0 @@
----
-title: "The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists..."
-source_domain: amasci.com
-source_path: ~recall/bleed/0315.htm
-order: 6688
-reachable_from_entry: false
-images: 26
-internal_links: 0
-extracted: 2026-08-07T05:59:27Z
-extractor: site_to_paper.py (pandoc)
----
-
-# The Daily Bleed: A Calendar Better Than Boiled Coffee! Timeline, Chronology, Labor, Radical, Arts, Literature, Authors, Poets, Anarchists...
-
-*Source page: `~recall/bleed/0315.htm`*
-
-> > <img src="http://www.eskimo.com/~recall/images/!cat2a.gif" data-lowsrc="http://www.eskimo.com/~recall/images/!cat2a_t.jpg" data-align="CENTER" width="95" height="175" alt="Cat Has Had the Time of His Life" />
-> >
-> > - <img src="http://www.eskimo.com/~recall/rainbow.gif" width="300" height="1" alt="thin line" />
-> >
-> >   Our Daily Bleed...
-> >
-> > \
-
-\
---
-
-> > Rather did each in his own fertile field\
-> > enspirit others than remain recluse\
-> > cowering under some convenient shield;\
-> > lovingly lilt their tones; the martial muse,\
-> > unbuckled of her armoured hate, must yield\
-> > sooner, because they lived her world to cleansing dews!\
-> > 
-> >
-> > > ROSE FLORENCE FREEMAN,
-> > >
-> > > ##### From: Ishill, Joseph. (1927). [*Élisée and Élie Reclus: In Memoriam*](http://dwardmac.pitzer.edu/Anarchist_Archives/bright/reclus/ishill/freeman.html). Compiled, ed. and printed by Joseph Ishill. Berkeley Heights, N.J.: Oriole Press.
-> > >
-> > > 
-> > >
-> > > To Elie and Elisée Reclus
-> > >
-> > > 
-> >
-> > 
-
-------------------------------------------------------------------------
-
-[]()\
-[]()\
-\
-<img src="http://melior.univ-montp3.fr/ra_forum/images/reclus1.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="176" height="226" alt="?" />\
---
-
-THE IDES OF MARCH
-
-<img src="http://dwardmac.pitzer.edu/Anarchist_Archives/bright/reclus/graphics/ishille331.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="100" height="100" alt="?" />ELISEE RECLUS\
-
-
-<img src="http://www.anarca-bolo.ch/a-rivista/254/img/reclus.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="204" height="300" alt="?" />
-
-Anarchist geographer, French Communard.
-
-alt; lise Reclus, Elisee Recluse; Reclus, Elise
-
-\
-
-> 
->
-> ------------------------------------------------------------------------
->
-> RUDE AWAKENINGS DAY.
->
-> EVERYTHING YOU THINK IS WRONG DAY.
->
-> Hinckley, Ohio: BUZZARD'S DAY.
->
-> Ancient Mesopotamia: MARDUCK'S FESTIVAL. A mock-king is selected from among condemned prisoners, feasted & executed. Masters and servants change places for five days.
->
-> INTERNATIONAL DAY AGAINST POLICE BRUTALITY.
->
-> 
->
-> ------------------------------------------------------------------------
-
-[]()\
-
-\
-
-> > []()\
-> > \
-> > 44 -- \[BC\] Roman strongman Julius Caesar assassinated. Author of Commentaries on the Gallic War.
-> >
-> > **Beware the ides of March.**
-> >
-> > Men at some time are masters of their fates:\
-> >  The fault, dear Brutus, is not in our stars,\
-> >  But in ourselves, that we are underlings.\
-> > But, for my own part, it was Greek to me.\
-> > Think you I am no stronger than my sex,\
-> >  Being so father'd and so husbanded?\
-> > These things are beyond all use,\
-> >  And I do fear them.\
-> > Cowards die many times before their deaths;\
-> >  The valiant never taste of death but once.\
-> >  Of all the wonders that I yet have heard,\
-> >  It seems to me most strange that men should fear;\
-> >  Seeing that death, a necessary end,\
-> >  Will come when it will come.
-> >
-> >  --Cs. The ides of March are come.\
-> >  Sooth. Ay, Csar; but not gone. Act iii. Sc. 1.
-> >
-> > Et tu, Brute!
-> >
-> > []()\
-> > []()\
-> > \
-> > 1649 -- England: John Milton appointed Secretary of Foreign Tongues by the new Commonwealth government.\
-> > <http://www.urich.edu/~creamer/milton.html>\
-> > []()\
-> > \
-> > 1723 -- One of the important German lyric poets of the period, Johann Christian G&uumlt;nther dies in Jena, Germany. []()\
-> > []()\
-> > \
-> > 1810 -- Aernout Drost, Dutch writer whose historical novels are the first important works of the 19th-century Romantic movement in The Netherlands, lives, Amsterdam. His first novel, Hermingard van de Eikenterpen ("Hermingard of the Oak Burial Mounds," 1832), portray the conversion of a Germanic woman to Christianity in 4th-century Holland. []()\
-> > []()\
-> > \
-> > <img src="http://recollectionbooks.com/bleed/images/luddite.jpg" data-hspace="10" data-vspace="10" data-align="LEFT" width="70" height="70" alt="Luddite!" />\
-> > 1812 -- England: Luddites attack Mr Vickerman's establishment, Taylor Hill, Huddersfield destroyed.\
-> > []()\
-> > <http://ourworld.compuserve.com/homepages/SpanSoft/labourer.txt>\
-> > \
-> > 1820 -- Plunk Your Magic Twanger, Froggie?: In his journal Lord Byron calls John Keats, "A tadpole of the Lakes."\
-> > <http://copper.ucs.indiana.edu/~dcorcora/byron.html>\
-> > []()\
-> > \
-> > <img src="http://perso.club-internet.fr/ytak/images/reclus_low.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="105" height="136" alt="Elisee Reclus" />\
-> > 1830 -- Radical geographer, anarchist, Elisee Reclus lives (1830-1905), Sainte-Fay-la-Grande, France.
-> >
-> > alt; lise Reclus, Elisee Recluse; Reclus, Elise
-> >
-> > <http://www.pitzer.edu/~dward/Anarchist_Archives/bright/reclus/reclus.html>\
-> > International bibliography for lise Reclus, <http://alor.univ-montp3.fr/RA_Forum/Reclus/Reclus.html>\
-> > []()\
-> > \
-> > 1830 -- Paul von Heyse (1830-1914) lives. German writer, who received the Nobel Prize for Literature in 1910. Head of the Munich circle of writers, who refused to portray the realistic side of life. <http://www.kirjasto.sci.fi/vonheyse.htm>\
-> > []()\
-> > \
-> > 1834 -- Happy Birthday (see 1810)?: At age 24, Aernout Drost, Dutch writer of historical novels, dies in Amsterdam. His posthumously published works include Schetsen en verhalen ("Sketches & Stories," 1835). []()\
-> > []()\
-> > \
-> > 1844 -- England: Lord Ashley introduces Ten Hours' Bill into House of Commons. []()\
-> > []()\
-> > \
-> > 1869 -- First federal women's suffrage amendment ever introduced in U.S. Congress. []()\
-> > []()\
-> > \
-> > 1873 -- The Italian Congress of the International meets, Bologna.
-> >
-> > > Originally planned for Mirandola, where Cleso & Arturo Cerretti lived. But the local section was dissolved, Cerretti arrested, & so the delegates gather today meet at a Bologna factory. 
-> > >
-> > > Tomorrow, March 16, Andrea Costa, Errico Malatesta, Alcesto Faggioli, A. Negri & other delegates are arrested, but the Congress is able to meet elsewhere, with 53 delegates representing 50 sections: these include local federations of Naples, Florence, Ravenna, Rimini, Turin, Mirandola, Modena, Ancona, Siena, Pisa, Rome; sections of Forli, Faenza, Lugo, S. Potito, Fusignano, Fermo e circondario, Menfi, Sciacca (Sicily), Osmimo & numerous smaller localities.
-> > >
-> > >  <a href="dwardmac.pitzer.edu/Anarchist_Archives/malatesta/nettlau/" data-nettlauonmalatesta.html="">dwardmac.pitzer.edu/Anarchist_Archives/malatesta/nettlau/ nettlauonmalatesta.html</a>\
-> > > []()\
-> > > \
-> > > 1874 -- France assumes 'protectorate' over Annam (Vietnam). []()\
-> > > []()\
-> > > \
-> > > 1877 -- Ben Fletcher lives. Black IWW (Industrial Workers of the World) organizer of longshore locals in Philadelphia, Pennsylvania. []()\
-> > > []()\
-> > > \
-> > > 1887 -- Painter's International Union formed. []()\
-> > > []()\
-> > > \
-> > > <img src="http://perso.club-internet.fr/ytak/images/felicanilow.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="74" height="97" alt="?" />\
-> > > 1891 -- Aldino Felicani (1891-1967) lives, Tuscany, Italy. Italian-American anarchist, typographer, editor, & publisher ("Rompez les rangs", "Libertarian Youth", "The Social Question," "The agitazione" (1920-1925), "The Lantern" (1927-1929) &, until his death, "Counter-Current".) See the Anarchist Encyclopedia, [http://www.eskimo.com/~recall/bleed/sinners/FelicaniAldino.htm](http://www.eskimo.com/~recall/bleed/sinners/FelicaniAldino.htm)\
-> > > []()\
-> > > []()\
-> > > \
-> > > 1894 -- France: Belgian anarchist Jean Pauwels dies while attempting to blow up the Madeleinechurch in Paris. His bomb exploded prematurely. Pauwels is also suspected of being responsible for the explosions of February 19 on rue Saint Jacques & rue du Faubourg Saint Martin, using bombs made Emile Henry. []()\
-> > > []()\
-> > > \
-> > > <img src="http://www.bigmtn.com/assets/images/flyfish_t.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="200" height="166" alt=" ? " />\
-> > > 1897 -- US: Fly-Trap? First indoor fly casting tournament opens, at Madison Square Garden. <http://www.bigmtn.com/html/fishing.html>\
-> > > []()\
-> > > \
-> > > <img src="http://www.torget.se/users/c/Chilli/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="?" />\
-> > > 1898 -- US: Mid-March, Emma Goldman (still on her speaking tour of Feb-June, addressing 66 meetings) delivers three lectures in Cleveland, including a well-attended meeting of the Franklin Club. (also, just weeks before his death on Mar. 31, Goldman visits the ailing Robert Reitzel in Detroit.)
-> > >
-> > > anarchist feminist
-> > >
-> > >  []()\
-> > > []()\
-> > > \
-> > > 1900 -- Writer, sociologist, & leader of the Northeastern School, Brazilian Gilberto de Mello Freyre lives, Recife. His best known work is Casa-grande e senzala (The Masters & the Slaves, 1933), depicting the relationship between Brazil's Portuguese colonizers & their African slaves. <http://www.fgf.org.br/>\
-> >
-> > []()\
-> > \
-> > <img src="http://www.iisg.nl/images/peirats74.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="185" height="227" alt="?" />\
-> > 1908 -- Spain: Jos Peirats lives (1908-1989), Vall d'Ux, Castelln. Wrote Anarchists in the Spanish Revolution & other books on Spain. <http://recollectionbooks.com/bleed/gallery/galleryindex.htm#Peirats>\
-> > <http://flag.blackened.net/revolt/spain/iron_peirats.html>\
-> > <http://www.geocities.com/Athens/Acropolis/8195/blasts/pointblank/spanishrevolution.htm>\
-> > \
-> > []()\
-> > \
-> > <img src="http://members.aol.com/bibthel/mn1936rt.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="150" height="190" alt="?" />\
-> > 1909 -- Max Nettlau, "Panarchy, A Forgotten Idea of 1860" (first published in [Gustav Landauer](http://recollectionbooks.com/bleed/saints/LandauerGustav.htm)'s Der Sozialist, 15.3.1909
-> >
-> >  In English, see the Anarchist Encyclopedia, <http://recollectionbooks.com/bleed/gallery/galleryindex.htm#n>\
-> > <http://www.ecn.org/freedom/Raven/nettlau.html>
-> >
-> > Max Nettlau, "Panarchy, A Forgotten Idea of 1860", online at\
-> > <http://www.optionality.net/panarchy/nettlau.html>\
-> >
-> > In German, see\
-> > <http://www.free.de/dada/btip002.htm>\
-> > []()\
-> > []()\
-> > \
-> > 1911 -- Russia: Skriabin's The Poem of Fire performed at the Bolshoi. []()\
-> > []()\
-> > \
-> > 1914 -- Matti Kuusi (1914-1998) lives. Finnish folklorist, writer, professor. Works include collection of poems, memoirs, studies of Kalevala, African popular tradition & other folk poetry. []()\
-> > []()\
-> > \
-> > <img src="http://www.torget.se/users/c/Chilli/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="?" />\
-> > 1914 -- US: Emma Goldman, in Yiddish, among speakers at an afternoon celebration of the ninth anniversary of the publication of Mother Earth & a commemoration of the Paris Commune; other speakers include Berkman, Elizabeth Gurley Flynn, Harry Kelly. 
-> >
-> > anarchist feminist
-> >
-> > 
-> >
-> > > Goldman also (?) delivers farewell lecture in New York City. American playwright George Middleton & actresses Fola La Follette & Mary Shaw speak on "What Drama Means to Me."
-> >
-> > []()\
-> > []()\
-> > \
-> > <img src="http://www.arts-history.mx/posada/quijo2.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="251" height="140" alt="?" />\
-> > 1916 -- US Calvary mounts it's moral high-horse once again, gallops into Mexico in pursuit of the ever-elusive Pancho Villa. "Black Jack" Pershing's Punitive Expedtion was bogged down after five weeks due to Mexican hatred for the gringo invaders, unfriendly terrain, etc.
-> >
-> > First U.S. tactical air unit in the field, the 1st Aero Squadron commanded by Capt. B. D. Foulois, beganoperations with General Pershing's expedition into Mexico.
-> >
-> > Aeronautics and Astronautics Chronology, 1915-1919\
-> > <http://www.hq.nasa.gov/office/pao/History/Timeline/1915-19.html>\
-> > \
-> > <http://www.nara.gov/publications/prologue/mpep2.html>\
-> > <http://jeff.scott.tripod.com/revolution.html>\
-> > \
-> > 1917 -- US Supreme court approves Eight-hour Act under threat of railway strike. []()\
-> > []()\
-> > \
-> > <img src="http://recollectionbooks.com/bleed/images/humor/MarxLennon_med.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="240" height="229" alt=" ? " />\
-> > 1917 -- Czar Nicholas II of Russia abdicates as revolution sweeps his country. Marxist-Lennonists will predominate over the long haul despite all opposition. <http://www.firesigntheatre.com/>\
-> > \
-> > []()\
-> > \
-> > 1918 -- Richard Ellmann, critic/biographer (James Joyce), lives, Highland Park, Michigan. []()\
-> > []()\
-> > \
-> > 1920 -- Italy: The council movement in Turin begins a strike combined with occupation of the factories & resumes production under their own control. 
-> >
-> > > By April 14 the strike is general in Piedmont; in the following days it spread through much of northern Italy, particularly among the dockers & railroad workers. The government had to use warships to land troops at Genoa to march on Turin. 
-> > >
-> > > While the councilist program was later approved by the Congress of the Italian Anarchist Union when it met at Bologna on July 1, the Socialist Party & the unions succeeded in sabotaging the strike by keeping it isolated: when Turin was besieged by 20,000 soldiers & police, the party newspaper Avanti refused to print the appeal of the Turin socialist section. 
-> > >
-> > > The strike, which would clearly have made possible a victorious insurrection in the whole country, was vanquished on April 24.
-> > >
-> > >  <http://www.slip.net/~knabb/SI/12.councils.htm>
-> > >
-> > > <http://flag.blackened.net/huelga/texts/italy.htm>\
-> > > <http://www.geocities.com/CapitolHill/Senate/5602/italfasc.html>\
-> > > \
-> > > <img src="http://www.torget.se/users/c/Chilli/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="35" height="22" alt="?" />\
-> > > 1920 -- Russia: Mid-March, Emma Goldman & Alexander Berkman return to Petrograd to secure work in support of the revolution.
-> > >
-> > > > Ninth Congress of the All-Russian Communist party is held in Moscow; militarization of labor stirs much debate.
-> > > >
-> > > > > <img src="http://flag.blackened.net/revolt/graphics/lenbeatw.gif" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" width="280" height="201" alt="?" />
-
-\
-Source: Emma Goldman Papers
-
-[]()\
-
-
-
-[]()\
-\
-1929 -- D. H. Lawrence, in Paris looking for a publisher for Lady Chatterley's Lover, meets Harry Crosby of The Black Sun Press, with whom he has corresponded for more than a year; they disagree violently about everything they discuss.\
-\
-Source: See Geoffrey Wolff, Black Sun (Random House, 1976).\
-<http://www.bibliomania.com/Fiction/dhl/index.html>\
-<http://www.banger.com/banger/crosby/bio.html>\
-\
-<img src="http://www.torget.se/users/c/Chilli/chili.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="45" height="32" alt="?" />\
-1936 -- England: Emma Goldman speaks on "The Russian Theatre" to a 1,000 members of the Coventry Repertory Circle, one of the most successful meetings she has ever had in England.
-
-<img src="http://dwardmac.pitzer.edu/Anarchist_Archives/bright/reclus/graphics/ishillwoodblock355.jpg" data-border="0" data-hspace="10" data-vspace="10" width="130" height="83" alt="?" />anarchist
-
-\
-[]()\
-[]()\
-\
-1937 -- Crackpot fantasist H.P. Lovecraft dies, Providence, Rhode Island.
-
-> "The world is indeed comic, but the joke is on mankind."
->
-> ---H.P. Lovecraft
-
-
-
-> American poet & author of macabre short novels, whose cult following, particularly in America & France, can betraced to the 60 or so 'Cthulhu Mythos' stories.
->
-> Most of his short stories appeared in the magazine Weird Tales, beginning in 1923. His best-known story is "The Call of Cthulhu" (1928), where he created his basic myth of the Elder Race, that once dominated the Earth, but largely destroyed itself, & whose members now lie sleeping somewhere under the sea or underground.
->
-> See: Lovecraft: A Biography by L. Sprague De Camp (1975); The Encyclopedia of Fantasy, edited by John Clute & John Grant (1997); Clive Barker's A-Z of Horror (1997).
->
->  <http://www.hplovecraft.com>\
-
-[]()\
-\
-1938 -- Poet Dick Higgins lives (1938-1998), Cambridge, England.
-
-anarchist
-
-> Higgins studied at Columbia University, New York(where he received a bachelors degree in English, 1960), the Manhattan School of Printing, New York, and the New School of Social Research, 1958-59, with the anarchist John Cage & Henry Cowell. He attended Cage's composition class, where he met George Brecht, Allan Kaprow, Al Hansen and other future Fluxus artists. 
->
-> In 1958 Hansen & Higgins formed the New York Audio Visual Group, which was one of the groups to develop the concept of Happenings. The following year Higgins in association with Richard Maxfield, another of Cage's students, presented Stacked Deck, one of the earliest multi-media performances. Higgins also helped Kaprow put together his first New York happening 18 Happenings in 6 Parts that same year. Moreover, he also participated in the series of performances at George Maciunas' AG Gallery in 1961.
->
-> Higgins also published the Something Else Newsletter, 1966-73 & operated the Something Else Gallery, 1966-69, which in 1966 showed the first exhibit of concrete poetry in the United States.John Cage's philosophy of integrating art & life influenced Higgins' own artistic & theoretical ideas. Higgins' important concept of "intermedia, " stated in 1965, is a direct outgrowth of Cage's ideas. Higgins identified Happenings & contemporary experiments in theatre and the visual arts as arts that "fall between media."
->
-> Unpublished Editions was a hybrid between the traditional small press & an artists' cooperative. Its members included Higgins, Knowles, Cage, Philip Corner, Geoffrey Hendricks, anarchist poet Jackson Mac Low, Pauline Oliveros, & later, Jerome Rothenberg. It was renamed Printed Editions in 1978 and discontinued in 1985.
->
-> When Higgins' financial problems became acute again in 1980, he moved from his large house in Vermont, with its indoorswimming pool, & bought & renovated a church in Barrytown, New York. Among his neighbors was George Quasha,publisher of Station Hill Press, who published, among others, Robert Kelly & Jackson Mac Low. 
->
-> <http://www.getty.edu/research/tools/special_collections/higgins_m4.html>\
-
-[]()\
-\
-<img src="http://www.isomedia.com/homes/harpo/gallery/7680/images/_ch007.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="92" height="112" alt=" ? " />\
-1939 -- Hitler occupies Bohemia. []()\
-\
-
-[]()\
-\
-1944 -- Sly Stone, guitarist/founder of Sly & the Family Stone, lives.\
-
-[]()\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/baldness.jpg" data-baldness="" data-border="0" data-hspace="10" data-vspace="10" width="260" height="400" alt="Beat" />\
-1953 -- Russia: Beloved & Respected Comrade Leader Uncle Joseph Stalin dies in his sleep, Moscow, USSR.\
-<http://www.historyguide.org/europe/lecture10.html>\
-
-[]()\
-\
-1955 -- Colonel Tom Parker becomes Elvis Presley's manager. Parker manages Presley all his life & after his death. Some people die more than others.\
-[]()\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/humor/lspeak2.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="RIGHT" data-="" width="150" height="112" alt=" ? " />\
-1964 -- US: Hot Hand? Atomic Energy Commission admits that an unplanned release of radiation from an underground nuclear test spewed fallout over Las Vegas.
-
-> During the 1950s & 1960s, more than 200 U.S. nuclear explosions have sent huge radioactive clouds into the atmosphere. Since 1962, the atmospheric tests have been replaced by underground tests like the one near Las Vegas. The National Association of Radiation Survivors estimates that victims number 886,000. A 1980 report by a U.S. House of Representatives committee finds: *"The Government's programs for monitoring the health effects of the tests was inadequate and, more disturbingly, all evidence suggesting that radiation was having harmful effects, be it on sheep or people, was not only disregarded but actually suppressed."*
-
-<http://www.publicshelter.com/main/tac.html>\
-\
-[]()\
-\
-<img src="http://recollectionbooks.com/bleed/images/anarchist/ecstatic.jpg" data-border="0" data-hspace="10" data-vspace="10" data-align="right" width="203" height="397" alt="?" />\
-1966 -- US: Teens riot. Arrest of a black high school student for throwing bricks & stones at passing cars touches off a wave of looting & burning in Watts, California. Two killed & 25 injured in the riot, the second major disturbance to break out in the Los Angeles ghetto in less than a year (see 11 August).
-
-> After a morning inspection tour (of the 1965 Watts LA riots) one investigator said that he had found the *"holiday atmosphere"* among the looters most repelling.
-
-
-
-> These rioters dont have any leaders.
-
-<http://www.slip.net/~knabb/SI/10.Watts.htm>\
-\
-[]()\
-\
-1966 -- Jean Biso (1881-1966) dies. Anarcho-syndicalist, Secretary of the Syndicat des Correcteurs in Paris, participant in support groups for Sacco & Vanzetti, Spanish Revolution of 1936. []()\
-[]()\
-\
-1966 -- US: Thomas C. Lynch, Attorney General of the State of California, condemns the use of LSD & other drugs in a statement to the State Senate Judiciary Committee in Sacramento. Except for alcohol, of course. <http://www.sfmuseum.org/hist1/rock.html>\
-<http://www.seattlehempfest.com/>\
-\
-1968 -- Diocese of Rome announces it deplores but won't prohibit "rock & roll masses" at the Church of San Lessio Falconieri. []()\
-[]()\
-\
-1968 -- England: Six protesters ejected from shipyard at launch of Britain's 4th Polaris nuclear submarine, Birkenhead. []()\
-[]()\
-\
-1968 -- US: Blood, Sweat & Tears opens at the Avalon Ballroom in Frisco. <http://www.sfmuseum.org/hist1/rock.html>\
-[]()\
-\
-1970 -- US: 78 protesters arrested during a second attempt by Native American activists to occupy Fort Lawton, demanding that Seattle give the unused facility back to Native Americans. []()\
-[]()\
-\
-1970 -- Tarjei Vesaas (1897-1970) dies, in Vinje. Norwegian novelist/short story writer. []()\
-[]()\
-\
-1971 -- Chatrooms make their debut on the Internet. []()\
-[]()\
-\
-<img src="http://www.eskimo.com/~recall/bleed/images/archpin.gif" data-border="0" data-hspace="10" data-vspace="10" data-align="LEFT" width="59" height="63" alt="?" />\
-1971 -- Louis Louvet (1899-1971) dies. Anarchist, anarcho-trade unionist, in the Syndicat des Correcteurs d'imprimerie since 1937. See 7 February. []()\
-[]()\
-\
-1972 -- Los Angeles Radio station KHJ raided by police after calls from listeners who feared there'd been a revolution at the station from 6:00 to 7:30 in the morning. DJ Robert W. Morgan had played Donny Osmond's "Puppy Love" over & over. The police left without making any arrests. []()\
-[]()\
-\
-1980 -- Penobscot Indians in Maine win major land claim. []()\
-[]()\
-\
-<img src="http://www.artbr.com.br/casa/biografias/helio/hobunner.gif" data-border="0" data-hspace="10" data-vspace="10" width="348" height="76" alt="?" />\
-1980 -- Hlio Oiticica (1937-1980) dies. Brazilian painter, performance artist, & anarchist. Grandson of the anarchist Jose Oiticica whose ideas & activities were an important influence.
-
-(alt., Helio Oiticica)
-
-
-
-Created environmental, participatory eventsamong them Parangol (1964), Tropiclia (1967) & Apocalipoptesis (1968)either in art centres or in the street. 
-
-One of the leading exhibitors in the exhibition Nova objetividade brasileira (Rio de Janeiro, 1967), which reactivated Brazil's avant-garde.
-
-See The Grove Dictionary of Art,\
-\
-<http://www.artnet.com/library/06/0633/T063335.asp>\
-<http://www-mitpress.mit.edu/e-journals/Leonardo/isast/spec.projects/osthoff/osthoffpt2.html>\
-\
-<http://www.obraprima.net/materias/html12/html12.html>\
-<http://www.artbr.com.br/casa/biografias/helio/>\
-<http://www.aestufa.com.br/canibalia/html/oiticica.html>\
-<http://art-contemporain.eu.org/base/chronologie/1550.html>\
-<http://www.comartevirtual.com.br/oiticica.htm>\
-[]()\
-\
-<img src="http://www.videoflicks.com/Coverart/102922.jpg" data-border="1" data-hspace="10" data-vspace="10" data-align="LEFT" data-="" width="144" height="260" alt=" ? " />\
-1982 -- CIA-trained & equipped forces dynamite bridges in Nicaragua. []()\
-[]()\
-\
-1983 -- Irish-born British novelist Rebecca West, 91, dies, London, England.
-
-> "I myself have never been able to find out precisely what feminism is: I only know that people call me a feminist whenever I express sentiments that differentiate me from a doormat, or a prostitute."
-
-[]()\
-[]()\
-\
-1985 -- US: Two-to-one vote against construction of new nuclear power plant, Bakersfield, California. []()\
-[]()\
-\
-1986 -- England: The most successful picket at Wapping in the News International dispute: forty yards of fence are torn down, lorries are held up for five hours and parts of the country have to do without their Murdoch Sunday papers. []()\
-[]()\
-\
-1991 -- US: Local 234 begins successful 19-strike preventing introduction of part timers. []()\
-[]()\
-\
-1993 -- United Nations "Truth Commission" concludes most of the human rights abuses in El Salvador during its civil war had been committed by the U.S.-backed Salvadoran government. []()\
-[]()\
-\
-1995 -- Jean Meckert, aka Jean or John Amila, (1910-1995) dies. Libertarian novelist & antimilitarist. 
-
-> His first novel Les coups (1941) is noticed by Andre Gide & Raymong Queneau. In 1950, at the request of Marcel Duhamel, Meckert began, under the pseudonym John Amila, detective novels, 21 titles in the 'Noire Series' between 1950 & 1985. Additionally he wrote science fiction, books for youth, of the theatre & film scripts for Yves Allgret,Andr Cayatte, Maurice Labro & George Lautner. 
->
-> Notable books are La lune d'Omaha, Noces de soufre, Piti pour les rats (1964), Le sulfureux boucher des Hurlus (1982).
->
-> In 1971, his novel La vierge et le taureau denounced military misdeeds in the South Pacific (atomic & bacteriological experiments). Jean Amila was violently attacked, possibly by government agents, & left for dead. He suffered amnesia afterwards, regaining his memory, little by little, thanks to his continued writing.
->
-> Jean Amila's books are all stamped with his antimilitarist/anarchist spirit, tackling the army, the church, the family & theState, & often include characters who are spontaneously libertarian, their anarchism deep & visceral.
->
-> 
->
-> > *" I do not know if I am an anarchist, but I know the ideas. My father was an anarchist & a deserter..."*
-> >
-> > ---"le monde libertaire," December 3, 1987
-> >
-> > <http://www.multimania.com/lanarcho/biosja.htm>\
-> > <http://www.sdm.qc.ca/txtdoc/pol/adu/AMILAJEAN.html>\
->
-> []()\
-> \
-> 1995 -- US: "New York Times" publishes 50,000th edition today.\
-> Source: Robert Braunwart []()\
-> []()\
-> \
-> 1997 -- Activists across Britain stage supermarket protests against genetically engineered foods. []()\
-> []()\
-> \
-> 1997 -- Switzerland: First International Day Against Police Brutality.
->
-> > This day of protest initiated in response to Swiss police beating two children, aged 11 & 12, by the Black Flag in Switzerland, with the help of COBP from Montreal, Quebec, Canada. Over 50 groups within 14 countries participated.
-> >
-> > "The strong arm of the State, the police, is a repressive instrument, which at every opportunity violates the very laws that it is supposed to respect. It abuses its power on a daily basis without suffering any consequences. The police spy, harass, imprison, torture, & kill. 
-> >
-> > Their primary victims are the \`\`undesirables\`\` of society; the poor, the homeless, the marginalized, immigrants, people of color, sex workers, activists, student activists, & unionized workers. In response to the general deterioration of living conditions & the ever-increasing rise of poverty, governments invest in police forces in an attempt to maintain order & social peace by any means necessary."
-> >
-> > <http://www.tao.ca/~cobp/bar.html>\
->
-> []()\
-> \
-> 3000 --
->
-> >  "We don't see things as they are, we see them as we are."
-> >
-> > 
-> >
-> > ---Anais Nin\
-> > (also attributed to the Talmud, as Bleedster Lenoard F advises us.)
-> >
-> > <http://www.geocities.com/Paris/Bistro/2187/>\
-> >
-> > []()\
-> >
-> > ------------------------------------------------------------------------
-> >
-> > anti-CopyRite 2000-3000, more or less\
-> > Subscribe to daily email updates (include the words 'subscribe bleed' in subject field),\
-> > or send questions, suggestions, additions, corrections to:\
-> > [BleedMeister David Brown](mailto:Bleed%20%3Crecall@eskimo.com%3E)
-> >
-> > Visit the complete [Daily Bleed Archives](http://www.eskimo.com/~recall/bleed/calmast.htm)
-> >
-> > The Daily Bleed is freely produced by [Recollection Used Books](http://www.recollectionbooks.com/)
-> >
-> > anarchist, labor, radical books
-> >
-> > See also: Anarchist Encyclopedia\
-> > http://recollectionbooks.com/bleed/gallery/galleryindex.htm\
-> > Stan Iverson Memorial Library\
-> > http://recollectionbooks.com/siml/\
-> > Anarchist Time Line / Chronology\
-> > http://recollectionbooks.com/bleed/indexTimeline.htm

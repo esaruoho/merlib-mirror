@@ -1,18 +1,18 @@
 ---
 title: "SeattleOtaku: SakuraCon 2003 Photos (Full-Size)"
 source_domain: amasci.com
-source_path: ~ericj/cons/sakura2003/detail010.htm
+source_path: ~ericj/cons/sakura2003/detail002.htm
 order: 3003
 reachable_from_entry: false
 images: 6
 internal_links: 2
-extracted: 2026-08-07T05:56:29Z
+extracted: 2026-08-07T17:09:35Z
 extractor: site_to_paper.py (pandoc)
 ---
 
 # SeattleOtaku: SakuraCon 2003 Photos (Full-Size)
 
-*Source page: `~ericj/cons/sakura2003/detail010.htm`*
+*Source page: `~ericj/cons/sakura2003/detail002.htm`*
 
 ![SeattleOtaku](http://seattleotaku.com/img/seattleotaku.jpg)\
 **[Home](http://seattleotaku.com/)**   **[Reviews](http://seattleotaku.com/reviews/)**   **[Seiyuu/Actors](http://seattleotaku.com/seiyuu/)**   **[Clubs](http://seattleotaku.com/clubs/)**   **[Conventions](http://seattleotaku.com/cons/)**   **[Shopping](http://seattleotaku.com/shopping/)**   **[LiveJournal](http://www.livejournal.com/users/seattleotaku/)**   **[About Me](http://www.eskimo.com/~ericj/personal/)**
@@ -26,17 +26,17 @@ extractor: site_to_paper.py (pandoc)
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align: left;"><a href="detail009.htm">&lt;-- Previous</a></td>
-<td style="text-align: right;"><a href="detail011.htm">Next --&gt;</a></td>
+<td style="text-align: left;"><a href="detail001.htm">&lt;-- Previous</a></td>
+<td style="text-align: right;"><a href="detail003.htm">Next --&gt;</a></td>
 </tr>
 <tr>
-<td colspan="2" style="text-align: center;"><img src="photos/beatuppotter.jpg" width="640" height="480" alt="beatuppotter.jpg" /><br />
-&#10;<p>Here's what happens when wizard <strong>Harry Potter</strong> wanders into an anime convention and tries to cast a few spells;<br />
-he gets pummeled by folks like Akuma (<strong>Street Fighter</strong>) and Teddy Bear (<strong>Akira</strong>).</p></td>
+<td colspan="2" style="text-align: center;"><img src="photos/fairymorgan.jpg" width="640" height="480" alt="fairymorgan.jpg" /><br />
+&#10;<p>Morgan in the fairy outfit seen in the <strong>Aa! Megami-sama</strong> (<strong>Ah! My Goddess</strong>) movie.<br />
+She seemed sad, but was she in character or tired of posing?</p></td>
 </tr>
 <tr>
-<td style="text-align: left;"><a href="detail009.htm">&lt;-- Previous</a></td>
-<td style="text-align: right;"><a href="detail011.htm">Next --&gt;</a></td>
+<td style="text-align: left;"><a href="detail001.htm">&lt;-- Previous</a></td>
+<td style="text-align: right;"><a href="detail003.htm">Next --&gt;</a></td>
 </tr>
 </tbody>
 </table>
