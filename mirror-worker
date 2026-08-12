@@ -391,8 +391,19 @@ PYEOF
 
   log "Pushed branch $branch: $domain ($file_count files, $size_human)"
 
-  # Return to main
-  git checkout main 2>/dev/null
+  # Return to main. Housekeeping — it must NOT decide this function's verdict.
+  git checkout main 2>/dev/null || log "WARNING: could not switch back to main"
+
+  # Explicit, and load-bearing. Without it the function's status was whatever the
+  # `git checkout main` above happened to exit with, and the caller now propagates
+  # that status into result.json. On 2026-08-12 the newphysics.se re-run pushed
+  # 1419 files to the branch successfully — the Bearden, Puthoff, Hyde, Bailey,
+  # JosephNewman, LaViolette, Rognerud and Persson subtrees all landed — and was
+  # still recorded as FAILED with the job moved to failed/, because of the trailing
+  # checkout. The meaning of success here is exactly one thing: the branch reached
+  # the remote. `gh pr create` failing (a PR for this branch already exists, which
+  # is the norm on a re-mirror) and the checkout failing are both survivable.
+  return 0
 }
 
 process_job_file() {
