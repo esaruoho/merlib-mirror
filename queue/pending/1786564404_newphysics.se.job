@@ -1,0 +1,10 @@
+target: http://newphysics.se
+domain: newphysics.se
+mode: live
+path_filter: 
+ts_to: 
+label: 
+offline: false
+to_syncthing: false
+submitted: 2026-08-12T19:53:24Z
+submitted_from: RayMac
