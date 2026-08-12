@@ -184,7 +184,7 @@ def _fetch_scrapling(url, timeout, retries):
     status = response.status
     content_type = response.headers.get('content-type', '')
     body = response.body if isinstance(response.body, bytes) else response.body.encode('utf-8')
-    return body, content_type, status
+    return body, content_type, status, (getattr(response, 'url', None) or url)
 
 
 def _fetch_urllib(url, timeout, retries):
@@ -201,6 +201,10 @@ def _fetch_urllib(url, timeout, retries):
 
     An HTTP *status* (404, 429) is a real answer about the resource and is NOT
     retried over http — only transport-level failures are.
+
+    Returns (body, content_type, status, final_url). `final_url` is `resp.geturl()`
+    — the URL actually served after redirects — because relative links must be
+    resolved against it, not against what we asked for. See effective_base_url().
     """
     headers = {'User-Agent': USER_AGENT}
     last_err = "Max retries exceeded"
@@ -210,7 +214,8 @@ def _fetch_urllib(url, timeout, retries):
         try:
             req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req, timeout=timeout) as resp:
-                return resp.read(), resp.headers.get('Content-Type', ''), resp.status
+                return (resp.read(), resp.headers.get('Content-Type', ''),
+                        resp.status, resp.geturl())
         except urllib.error.HTTPError as e:
             # A status is an answer; scheme-switching will not change it.
             if attempt < retries - 1 and e.code in (429, 500, 502, 503, 504):
@@ -225,7 +230,7 @@ def _fetch_urllib(url, timeout, retries):
                 continue
 
     if http_status is not None:
-        return None, '', http_status
+        return None, '', http_status, url
 
     # Transport failed every attempt. Try the same URL over http:// — reachable
     # now, because the loop breaks out instead of returning.
@@ -234,42 +239,54 @@ def _fetch_urllib(url, timeout, retries):
         try:
             req = urllib.request.Request(http_url, headers=headers)
             with urllib.request.urlopen(req, timeout=timeout) as resp:
-                return resp.read(), resp.headers.get('Content-Type', ''), resp.status
+                return (resp.read(), resp.headers.get('Content-Type', ''),
+                        resp.status, resp.geturl())
         except urllib.error.HTTPError as e:
-            return None, '', e.code
+            return None, '', e.code, http_url
         except Exception as e:
             last_err = str(e)
 
-    return None, last_err, 0
+    return None, last_err, 0, url
 
 
-def fetch_url(url, timeout=60, retries=3):
+def fetch_url(url, timeout=60, retries=3, with_final=False):
     """Fetch URL with retries + 429/503 handling.
 
     Uses Scrapling if installed (TLS fingerprint spoofing), falls back to urllib.
-    Returns (content_bytes, content_type_str, success_bool).
+    Returns (content_bytes, content_type_str, success_bool), or, with
+    `with_final=True`, (content, content_type, success, final_url) where
+    `final_url` is the URL actually served after any redirects.
+
+    The extra return value is opt-in because a dozen callers only want the body;
+    the crawl loop is the one place that MUST know the post-redirect URL, since
+    that is the base every relative link in the page resolves against.
     """
     global _current_delay
 
     if HAS_SCRAPLING:
         try:
-            body, content_type, status = _fetch_scrapling(url, timeout, retries)
+            body, content_type, status, final_url = _fetch_scrapling(url, timeout, retries)
         except Exception:
             # Scrapling failed entirely — fall back to urllib for this request
-            body, content_type, status = _fetch_urllib(url, timeout, retries)
+            body, content_type, status, final_url = _fetch_urllib(url, timeout, retries)
     else:
-        body, content_type, status = _fetch_urllib(url, timeout, retries)
+        body, content_type, status, final_url = _fetch_urllib(url, timeout, retries)
+
+    final_url = final_url or url
+
+    def _out(content, ct, ok):
+        return (content, ct, ok, final_url) if with_final else (content, ct, ok)
 
     if status in (429, 503):
         if _current_delay is not None:
             _current_delay = min(_current_delay * 2, 10.0)
-        return None, f"Rate limited ({status})", False
+        return _out(None, f"Rate limited ({status})", False)
     if isinstance(status, int) and status >= 400:
-        return None, f"HTTP {status}", False
+        return _out(None, f"HTTP {status}", False)
     if body is None:
-        return None, content_type, False
+        return _out(None, content_type, False)
 
-    return body, content_type, True
+    return _out(body, content_type, True)
 
 
 # ── 5. Content validation ───────────────────────────────────────────────────
@@ -573,6 +590,55 @@ def extract_links(html_content, base_url):
     return (extractor.links
             | _extract_meta_refresh_targets(text, base_url)
             | extract_frame_targets(text, base_url))
+
+
+_BASE_HREF_RE = re.compile(rb'<base\b[^>]*\bhref\s*=\s*["\']?([^"\'>\s]+)', re.I)
+_INDEX_OF_RE = re.compile(
+    rb'<(?:title|h1)\b[^>]*>\s*Index of\s+(/[^<\r\n]*?)\s*</(?:title|h1)>', re.I)
+
+
+def effective_base_url(content, page_url, final_url=None):
+    """The URL that relative links in `content` must be resolved against.
+
+    NOT the URL we requested. Apache/nginx 301 a bare directory path to the
+    trailing-slash form (`/a/b/free-energy` -> `/a/b/free-energy/`), urllib follows
+    the redirect silently, and the listing for `free-energy/` comes back. Resolving
+    its relative hrefs against the pre-redirect URL puts every child one directory
+    too high: `Hyde/` became `/a/b/Hyde/` (404) instead of
+    `/a/b/free-energy/Hyde/` (200). On newphysics.se that silently dropped four
+    whole subtrees — the Bearden, Puthoff, Hyde and Bailey free-energy folders —
+    while the crawl reported "complete" with 72 unexplained failures.
+
+    Three sources, most authoritative first:
+
+    1. `<base href>` — the page's own explicit declaration; always wins.
+    2. An "Index of /path" title/h1 — a server-generated directory listing states
+       its own directory. This is what rescues the CACHED branch of the crawl,
+       which re-extracts links from disk and has no response object to ask.
+    3. `final_url` from the fetch (`resp.geturl()`), else the requested URL.
+    """
+    head = content[:4096] if isinstance(content, bytes) else content[:4096].encode(
+        'utf-8', errors='replace')
+    fallback = final_url or page_url
+
+    m = _BASE_HREF_RE.search(head)
+    if m:
+        try:
+            return urllib.parse.urljoin(fallback, m.group(1).decode('utf-8', 'replace'))
+        except Exception:
+            pass
+
+    m = _INDEX_OF_RE.search(head)
+    if m:
+        listed = urllib.parse.quote(
+            m.group(1).decode('utf-8', 'replace').strip(), safe='/%')
+        if not listed.endswith('/'):
+            listed += '/'
+        p = urllib.parse.urlsplit(fallback)
+        if p.scheme and p.netloc:
+            return urllib.parse.urlunsplit((p.scheme, p.netloc, listed, '', ''))
+
+    return fallback
 
 
 def normalize_url(url):
@@ -1558,12 +1624,17 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
                     cached = f.read()
                 ct_guess = 'text/html' if local_path.endswith(('.html', '.htm')) else ''
                 content, ct, ok = cached, ct_guess, True
+                # No response to ask, so no post-redirect URL. effective_base_url()
+                # can still recover a directory listing's real base from its own
+                # "Index of /path" heading, which is the case that mattered.
+                final_url = None
             except Exception:
                 continue
             # Fall through to link extraction below
         else:
             # Download the page
-            content, ct, ok = fetch_url(page_url, timeout=30, retries=1)
+            content, ct, ok, final_url = fetch_url(page_url, timeout=30, retries=1,
+                                                   with_final=True)
             downloaded_count += 1
 
             if not ok or not content:
@@ -1577,6 +1648,12 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
 
             save_page(page_url, content)
             ok_count += 1
+
+            # A redirect means we have now also fetched `final_url`. Record it as
+            # seen so a later link to the trailing-slash form is not a second
+            # round-trip for a body we already hold.
+            if final_url and final_url != page_url:
+                seen.add(dedup_key(normalize_url(final_url)))
 
         # Determine label for logging
         under_seed = is_under_seed_path(page_url)
@@ -1596,8 +1673,9 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
             urllib.parse.urlparse(page_url).path)[1])
         if is_html:
             try:
-                found_links = extract_links(content, page_url)
-                for frame_url in extract_frame_targets(content, page_url):
+                base_url = effective_base_url(content, page_url, final_url)
+                found_links = extract_links(content, base_url)
+                for frame_url in extract_frame_targets(content, base_url):
                     if should_skip_url(frame_url, domain):
                         offsite_frames.add(frame_url)
                 new_count = 0
