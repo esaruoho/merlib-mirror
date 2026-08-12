@@ -160,6 +160,58 @@ base=            https://www.newphysics.se/archives/old-archive/free-energy/
 Unit-checked separately: `<base href>` overrides the `Index of` heading; an ordinary
 page with neither falls through to the requested URL unchanged.
 
+## Three more bugs the re-run exposed — all in mirror-worker
+
+Fixing the crawler was not enough to get the content onto GitHub. The first re-run
+fetched 1201 files, committed them, and reported SUCCESS with the *first* run's PR
+attached. Nothing had reached the remote.
+
+**A. Non-fast-forward push, guaranteed on every re-mirror.**
+`commit_and_push` does `git checkout -B "$branch" main`, recreating the branch from
+CURRENT main. A branch left by a previous run of the same domain hangs off an OLDER
+main, so the two share no tip and `git push` is rejected — every time, for every
+re-mirror of any domain. First runs work because there is no remote branch to collide
+with, which is why this stayed hidden. Verified: tip `cf1edbd` was not an ancestor of
+main. Fixed with `git fetch origin "$branch"` then `push --force-with-lease` — not
+`--force`, because the remote branch is a previous attempt at THIS job and is meant to
+be replaced, but anything else moving it must still stop us. The lease compares
+against the remote-tracking ref, so the fetch is required.
+
+**B. `write_result "success"` was unconditional.**
+`commit_and_push`'s exit status was discarded. A 3x-failed push was reported to the
+laptop as a completed mirror, and `pr_url` was then re-derived via
+`gh pr view "$branch"`, which returned the previous run's still-open PR — a green
+result pointing at a PR that did not contain the new content. Fixed: status
+propagated, stale-PR lookup skipped on failure, job moved `done/` -> `failed/` so it
+stops blocking resubmission.
+
+**C. Post-push housekeeping decided the verdict.**
+Introduced by fixing B. `commit_and_push` ended with a bare `git checkout main` and no
+explicit return, so the function's status was whatever that checkout exited with. The
+next run pushed 1419 files successfully and was still recorded as FAILED. Fixed with
+an explicit `return 0`; success means exactly one thing — the branch reached the
+remote. `gh pr create` failing (a PR for the branch already exists, the norm on any
+re-mirror) and the checkout failing are both survivable.
+
+## Result
+
+| | before | after |
+|---|---|---|
+| files on `mirror/newphysics.se` | 941 | **1450** |
+| files under `old-archive/free-energy/` | 9 (index + sort variants) | **175** |
+| `result.json` | `success` + stale PR | `success` + PR #59 at the real tip |
+
+Recovered subtrees: `free-energy/` (Bearden incl. *The Final Secret of Free Energy*,
+*Practical Overunity Electrical Device*, *Redefinition of Energy Ansatz*, *On A
+Testable*, beard12/13/14 — each with its own .TXT/.WRI/.GIF subdirectory; Hyde incl.
+HYDEPTNT.doc + FIG1-6; Puthoff; Bailey; JosephNewman 21 files; transmutation),
+`quantum-mechanics/` (incl. LaViolette .ra), `relativity/` (Rognerud's 9-section HTML
++ figures + ff.pdf, Persson), `parapsychological-effects/remote-viewing/`.
+
+**Known gap:** the two Puthoff Stockholm-1994 MP3s downloaded to Cloudcity but are NOT
+in git — `*.mp3` is in `.gitignore` under the large-media policy. Deliberate rule, but
+the audio currently exists on one disk only.
+
 ## Still open
 
 This is not newphysics-specific. **Every already-mirrored site whose server
