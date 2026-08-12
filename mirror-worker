@@ -288,10 +288,30 @@ commit_and_push() {
   # moved to done/, so NOTHING retries it. A failed push meant the branch never
   # reached GitHub and the run still reported success. Retry here, then fail
   # loudly — a mirror that is not pushed is not retained.
+  #
+  # The push MUST tolerate a diverged remote branch. `git checkout -B "$branch" main`
+  # above deliberately recreates the branch from CURRENT main, so re-mirroring a
+  # domain whose branch already exists on the remote produces a history that shares
+  # no tip with it — the old branch hangs off an older main. A plain `git push` is
+  # then rejected non-fast-forward, every time, for every re-run.
+  #
+  # That is exactly how the 2026-08-12 newphysics.se re-run was lost: the crawl
+  # fetched all 1201 files (260 more than the first run, including the whole Bearden
+  # folder the redirect fix had just recovered), committed them locally, failed the
+  # push 3x, and STILL reported success with the stale PR #59 attached. The branch on
+  # GitHub never moved off the first run's commit.
+  #
+  # --force-with-lease, not --force: the remote branch is a previous attempt at THIS
+  # job and is meant to be replaced, but if anything else moved it since our last
+  # fetch we must still stop. The lease needs an up-to-date remote-tracking ref to
+  # compare against, so fetch the branch first — without that, a stale ref makes the
+  # lease pass when it should fail.
+  git fetch -q origin "$branch" 2>/dev/null || true
   local push_ok=0
   for attempt in 1 2 3; do
-    if git push -u origin "$branch"; then push_ok=1; break; fi
+    if git push --force-with-lease -u origin "$branch"; then push_ok=1; break; fi
     log "Push attempt $attempt/3 failed for $branch — retrying in $((attempt * 30))s"
+    git fetch -q origin "$branch" 2>/dev/null || true
     sleep $((attempt * 30))
   done
   if [[ "$push_ok" -ne 1 ]]; then
@@ -645,14 +665,38 @@ process_job_file() {
   # Commit and push — unless offline mode. commit_and_push echoes the PR URL
   # to its own log; we re-derive it from the branch for the result.json.
   local pr_url=""
+  local push_status=0
   if [[ "$offline" == "true" ]]; then
     log "Offline mode — files saved locally, skipping commit and push"
   else
-    commit_and_push "mirror: $domain" "$domain" "$site_dir"
-    # Best-effort PR URL lookup — works once the PR exists.
-    if command -v gh &>/dev/null; then
+    # The return value is load-bearing. It used to be discarded, and write_result
+    # below said "success" unconditionally — so a push that failed 3x, or a stage
+    # that found nothing to commit, was reported to the laptop as a completed
+    # mirror. Worse, the PR URL was then re-derived from the branch name, which
+    # happily returned the PREVIOUS run's still-open PR: the status pane showed a
+    # green result pointing at a PR that did not contain the new content.
+    commit_and_push "mirror: $domain" "$domain" "$site_dir" || push_status=$?
+    # Best-effort PR URL lookup — works once the PR exists. Only when the push
+    # actually landed; otherwise this attaches a stale PR to a failed run.
+    if [[ "$push_status" -eq 0 ]] && command -v gh &>/dev/null; then
       pr_url="$(gh pr view "$branch" --repo "$(git -C "$REPO_DIR" remote get-url origin | sed -E 's#.*[:/]([^/]+/[^.]+)(\.git)?$#\1#')" --json url --jq .url 2>/dev/null || true)"
     fi
+  fi
+
+  # A mirror that is not pushed is not retained — so it is not a success. Move the
+  # job out of done/ and into failed/ so it stops blocking resubmission and can be
+  # retried once the push problem is fixed. (The crawled files stay on disk; a
+  # re-run is cheap because mirror.py skips anything already downloaded.)
+  if [[ "$push_status" -ne 0 ]]; then
+    log "!!! Recording $domain as FAILED: the mirror never reached GitHub."
+    mkdir -p "$FAILED_DIR"
+    mv "$DONE_DIR/$filename" "$FAILED_DIR/$filename" 2>/dev/null || true
+    write_result "failed" "$domain" "$mode" "$target" "$path_filter" "$label" \
+                 "$push_status" "$file_count" "$size_bytes" "$size_human" \
+                 "$started_at" "$completed_at" "$branch" ""
+    log "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    echo ""
+    return 0
   fi
 
   # Emit result.json to comms so the laptop status pane (and spine) sees
