@@ -1,0 +1,758 @@
+LEGEND:
+
+\text\ = italic text
+*text* = bold text
+_\text\_ = underlined italic text
+x^2 = superscript
+x_2 = subscript
+
+----------------------------------------------------------------------
+
+	*A Redefinition of the Energy Ansatz, Leading to a 
+	Fundamentally New Class of Nuclear Interactions*
+
+		   (C) T. E. Bearden (Aug 92)
+	Association of Distinguished American Scientists
+
+
+			  *ABSTRACT*
+
+Utilizing fundamentally new definitions for energy, potential, and 
+scalar potential, the mass of the atomic nucleus may be considered 
+a powerful electrostatic scalar potential, referred to as the _mass 
+potential_.  The Whittaker EM biwave structure of the scalar 
+potential then becomes a new and universal internal EM structure 
+for mass, including the atomic nucleus.  This structure can be 
+directly manipulated electromagnetically, which allows direct EM 
+alteration of the mass potential, and the nucleus itself.  This 
+totally new class of nuclear interactions is briefly explored, and 
+several hypothesized mechanisms advanced for neutralizing or 
+processing nuclear wastes.  Additional applications are 
+hypothesized for experimental falsification or verification.
+
+		*SOME NEW FUNDAMENTAL DEFINITIONS*
+
+To explain why more precise definitions are important, we quote a 
+statement by Einstein: [1] \"... the scientist makes use of a whole 
+arsenal of concepts which he imbibed practically with his mother's 
+milk; and seldom if ever is he aware of the eternally problematic 
+character of his concepts.  He uses this conceptual material, or, 
+speaking more exactly, these conceptual tools of thought, as 
+something obviously, immutably given; something having an objective 
+value of truth which is hardly ever, and in any case not seriously, 
+to be doubted.  ... in the interests of science it is necessary 
+over and over again to engage in the critique of these fundamental 
+concepts, in order that we may not unconsciously be ruled by them."\
+
+We begin with the _quantum mechanical vacuum_ (QMV), considered to 
+be composed of an intense flux of virtual particles, each of which 
+arises from nowhere and immediately returns to nowhere. [2]  We 
+hypothesize that, a priori, all macroscopic phenomena must in some 
+fashion consist of stable ensembles (forms) in equilibrium in the 
+QMV.  From this viewpoint we advance the following fundamental new 
+definitions:
+
+_Energy_ is any ordering, either static or dynamic, in the virtual 
+particle flux of vacuum. [3]  _Electromagnetic energy_ is any 
+ordering, either static or dynamic, in the virtual \photon\ flux 
+of vacuum. [4]  _Work_ is the local scattering of energy -- the 
+total disordering of the order in the virtual particle flux. [5]
+
+A _potential_ is any ordering, either static or dynamic or 
+combination thereof, in the virtual particle flux of vacuum. [6]  
+Note that this makes the new definitions of potential and energy 
+synonymous -- a potential is \pure energy\, a priori. [7]  The 
+potential also must be totally ordered \internally\, which is a 
+quite new concept for physics. [8]  Both energy and potential are 
+collections of the individual energies of a host of 
+individually-moving virtual particles.  Neither energy nor the 
+potential are directly observable, because the order is in and of 
+the virtual state.  A _scalar potential_ is any static 
+(stationary) ordering in the virtual particle flux of vacuum, 
+with respect to the external observer.  A _vector potential_ is 
+any dynamic (non-stationary) ordering in the virtual particle flux 
+of vacuum, with respect to the external observer.  \Both scalar 
+and vector potentials have totally ordered, nonlocal, Whittaker 
+hyperspatial interiors.\ [9]  Scalar potentials and vector 
+potentials are simply different subsets of the energy domain.  
+Both are stable forms in a dynamic VPF medium.  One is stationary 
+with respect to the external observer; the other is translating.  
+Both potentials are \open systems\, continually being supplied with 
+wave energy flowing in from the external universe, and continually 
+emitting wave energy flowing out to the external universe.  Both 
+kinds of potentials possess ordered internal Whittaker 
+bidirectional wave structures, flowing throughout local and 
+nonlocal space wherever the particular potential has a nonzero 
+convolution value. [10]
+
+We shall concentrate on scalar potentials.  An _electrostatic 
+scalar potential_ is any static (stationary) ordering in the 
+virtual photon flux of vacuum.  Its ordered Whittaker structure 
+is an _ordered lattice of spacetime/vacuum_ (Figure 1), and 
+consists of a Fourier expansion of harmonic transverse EM plane 
+waves, coupled to the phase conjugate of the expansion in 1:1 ratio.  
+_Scalar (potential) interferometry_ [11] between two or more scalar 
+EM potentials is just the multiple simultaneous interferometry of 
+their constituent Whittaker waves.
+
+
+	*Figure 1*.  A Whittaker-structured vacuum potential is an 
+		organized spacetime lattice.
+
+
+_"A" vacuum_ is a _spacetime_ and, to the first order, a scalar 
+potential.  _"The" ambient vacuum_ is a violently changing and 
+interfering collection of potentials from moving particles all over 
+the universe.  I.e., "the" ambient vacuum is really an incredibly 
+large number of conglomerated, interfering vacua/potentials. [12]  
+Thus the scalar potential interferometry mechanism shown by 
+Whittaker [13] applies to these ambient vacua, and \generates\ the 
+"zero-point EM fluctuation energy of the vacuum."  This is a direct 
+hyperspatial expression of Puthoff's "cosmological feedback 
+principle," [14] including its determinism.
+
+Since we are interested here primarily in EM, then to first order 
+we take vacuum/spacetime to be an electrostatic scalar potential.
+
+		*THE STATISTICAL GRAVITON CONCEPT*
+
+With respect to the electrostatic scalar potential, a conceptual 
+problem still exists.  To trap EM energy, it would seem necessary 
+to trap photons.  Since any photon in the vacuum would seem of 
+necessity to be moving at an average velocity c, one questions how 
+one could have a "stationary ordering" of these extremely fast 
+photons?  Here one must turn to quantum electrodynamics (QED), 
+where EM fields can interact with each other in ways other than 
+the linear superposition existing in classical EM theory.  In QED, 
+waves can interact, couple, etc. -- as can photons. [15]  We 
+simply argue that, in one bidirectional waveset of a Whittaker 
+structure, the antiwave is a true phase conjugate of the wave, 
+hence its true time reversal. [16]  We also argue that, if the 
+antiwave envelope is totally coordinated with the wave envelope, 
+then the antiphotons must be totally coordinated with the photons.  
+We crudely visualize the photons and antiphotons moving "through" 
+the inner space (hyperspace), coupling and uncoupling continually, 
+which they can do since one is the precise phase conjugate of the 
+other.  But when momentarily coupled, the photon/antiphoton paired 
+system has helicity 2, and is void of \resultant\ E and H fields, 
+so is temporarily devoid of the requirement for moving through 
+space at c, light velocity.  In other words, when coupled to the 
+photon/antiphoton pair forms a spin-2 _graviton_, and the graviton 
+system is stationary. [17]  Shortly the photon and antiphoton 
+decouple and each moves to couple with another partner.  So in 
+the potential there is a continual creation and annihilation of 
+ordered spin-2 gravitons, and those statistical gravitons are what 
+comprise the "electrostatic scalar potential." [18]
+
+
+	*Figure 2*.  The photon interaction is actually a graviton 
+	interaction.
+
+
+Because of the arrangement of the Whittaker pairs into a harmonic 
+series, all the EM wave sets in the entire Whittaker set are 
+phase-locked, as was shown in Figure 1.  This means that the 
+phase-locked graviton sets -- and therefore the potential whose 
+components they are -- represent an _ordered spacetime lattice_, 
+ordered in frequency, energy, space, and time.  It follows that, 
+in the photon interaction, normally what is involved is a bustup 
+(Figure 2) of the graviton, so that \two\ interactions occur as 
+follows: (1) the freed \photon\ interacts "externally", primarily 
+with the shell electrons of the atom, which reaction is contained 
+in the textbooks, and (2) the freed \antiphoton\ interacts 
+internally with the nucleus of the atom to produce Newton's third 
+law reaction force. [19]  Almost all detection/observation is 
+actually binary, [20] but half is usually ignored by 
+euphemistically lumping it under Newton's third law, which is 
+simply "evoked" out of nowhere, without a causative mechanism.  
+At best, it is evoked "to preserve symmetry".
+
+		*QUANTUM CHANGE IS ENGINEERABLE*
+
+Because of the role of the potential in the Schroedinger equation, 
+and the quantum potential in hidden variable theory, the unexpected 
+Whittaker bidirectional wave order inside the scalar potential 
+implies that quantum change (QC) is chaotic, not random.  QC is in 
+fact totally deterministic in this view, but the external 
+macroscopic observer normally has no information on the specific 
+VPF causative agents.  Viewing quantum change as chaotic, it 
+follows that it may be at least partially \engineerable\, if one 
+can input and control the fundamental hidden order.
+
+This can be done, by constructing an artificial spacetime lattice 
+via Whittaker methodology, as pointed out above.  Since the form 
+of hidden order inside the scalar Schroedinger potential is 
+simply a Whittaker structure, then artificially forming a proper 
+bidirectional phase-locked EM waveset together with its coupled 
+phase conjugate waveset produces such a potential.  The exact 
+inner content of the inner waveset can be deliberately selected 
+(specific harmonic frequencies and number utilized, low and high 
+frequency cutoffs, internal modulations on selected component 
+frequencies, etc). [21]  In this manner an _artificial potential_ 
+can be deliberately constructed so that the internal energetic 
+EM bidirectional wave content of the local vacuum (i.e., of the 
+Schroedinger potential) and spacetime is seriously altered, when 
+that artificial potential exists in a region.  In other words, 
+in that region we make "a" vacuum portion of "the" ambient vacua 
+into a single, deliberately structured, electromagnetically 
+active spacetime. [22]
+
+	*THE ACTIVATED LOCAL VACUUM AND THE VACUUM ENGINE*
+
+The locally _activated_ spacetime now becomes a sort of _vacuum 
+engine_ that interacts directly _and specifically_ with any 
+physical system existing in it. [23]  This application of the 
+Whittaker method is similar to producing a wideband 
+multifrequency radar signal, coupled to its simultaneous phase 
+conjugation.  The question now arises that, given the facility 
+to construct an artificial potential as a local vacuum engine, 
+what can be done with it to engineer the atomic nucleus?
+
+		*CONCEPT OF THE MASS POTENTIAL*
+
+As is well-known, the modern view of gravitational attraction of 
+masses is that it is due to the trapped energy of those masses.  
+To first order, we view the trapped energy in a mass as trapped 
+EM energy, where the Einstein formula E=mc^2 gives the magnitude 
+of this mass-trapped EM energy.
+
+With respect to the new definitions of potentials, a mass can now 
+be viewed as an electrostatic scalar potential.  However, its 
+magnitude is enormous, due to the presence of the c^2 term in the 
+formula E=mc^2. Hence we distinguish it because of its great 
+power, calling it the _mass potential_.
+
+Since most of the mass of the atom is in the atomic nucleus, we 
+must change the vacuum VPF exchange with that nucleus if we wish 
+to directly and deterministically manipulate the nucleus.  
+I.e., we must alter and engineer the nuclear mass potential.  
+To do this, we take advantage of the fact that the Whittaker 
+decomposition of the scalar potential applies to the mass 
+potential of the nucleus.  In other words, there is now a 
+\universal internal EM structure for mass\, and that structure 
+can be manipulated and engineered directly by Whittaker EM means.  
+By altering its internal Whittaker structure (WS), the nucleus 
+can be altered and changed.  Conceivably the trapped EM energy of 
+the mass of the nucleus can even be extracted and dispersed, 
+\dematerializing\ the nucleus.
+
+To engineer the nucleus one must alter its VPF exchange with its 
+local vacuum, changing the internal Whittaker waveset components 
+of the nucleus.  The artificial potential one applies creates 
+scalar interferometry in the immediately surrounding vacuum flux, 
+resulting in the introduction of chaotic EM energy (order) into 
+the VPF absorption by the nucleus, and so into its internal mass 
+potential.  As time passes, more and more chaotic flux has 
+entered the nucleus and been absorbed.  The Whittaker structure 
+of the mass potential thus will slowly "charge up" to a degree, 
+with the incoming altered VPF pattern.  Direct alteration of the 
+"activated" or "charged-up" nucleus will gradually occur.
+
+Inherent in this approach is the assumed primary postulate that 
+\every nuclear structure is already an equilibrium state or 
+"form" in the virtual particle flux exchange with the vacuum\.  
+In this case, the internal energetic structure of the mass of 
+the nucleus is changed slowly.  With sufficient phenomenology 
+measurements and experiments, we should be able to ascertain the 
+specific artificial potential structures necessary to activate 
+desired specific changes in the atomic nucleus. [24]  Once the 
+phenomenology is clarified in this fashion, one should be able 
+to produce specific nuclear changes as desired.
+
+		*CHAOTIC NUCLEAR FISSION*
+
+As an example, consider nuclear fission of a radioactive element.  
+The atomic nucleus is already in an unbalance energy state, but 
+in an "energy well" or trap.  However, it continually receives 
+fluctuations in the background VPF absorbed from the local 
+vacuum.  According, its energy level is continually fluctuating 
+about its "average" or nominal level, driven by the incoming 
+fluctuations.  If, for example, it receives a sufficiently 
+powerful fluctuation for a sufficient duration, its energy level 
+can change sufficiently for it to fission due to the extra 
+absorbed energy.  In this view, then, each nuclear fission is 
+entirely deterministic.  However, the external observer normally 
+has absolutely no information on the incoming energy fluctuations, 
+or the causality.  Hence he can make no predictions for fission 
+of a specific nucleus, but can only treat fission statistically 
+for large ensembles of fissionable nuclei.  In this view nuclear 
+fission is \chaotic\, with hidden order but still statistical to 
+the external observer.
+
+However, if we deliberately and controllably augment the 
+"fluctuation energy" input to selected material (nuclei) via 
+Whittaker artificial potentials, we should be able to cause 
+fission at will, by simply sending over-the-threshold energy 
+pulses directly into the fissionable nuclei. [25]  In an extreme 
+case, we could perhaps cause prompt fission of all the exposed 
+nuclei, but that would constitute a nuclear explosion.  As a 
+variation, we could send a few small "over threshold" pulses ever 
+so often, thus simply increasing the fission rate or activity in 
+little bursts.  However, we would still have to release all the 
+nuclear radiation the nuclei would normally emit in, say, the 
+next 100 years, except just quicker.  Such a simple approach might 
+be sufficient for extended treatment of low-level nuclear wastes, 
+but it would be expensive and unsuitable for the bulk of the 
+nuclear waste problem and for much longer-lived radioactive 
+isotopes.
+
+		  *NEED FOR NEUTRALIZATION*
+
+A highly desirable alternative would be the safe prompt 
+\neutralization\ of the bulk of the radioactive wastes.  As a 
+first approach, the fundamental nuclear decay chains themselves 
+could be altered.  Ideally new decay chains could be found in 
+locally asymmetrical ST conditions, with substantially reduced 
+levels of harmful nuclear radiation and byproducts.  If 
+successful, this approach would be an improvement over prompt 
+fissioning, but for longer-lived radioactive isotopes, decreasing 
+the release time still would involve appreciable emission of 
+nuclear radiation, and accumulation of undesirable radioactive 
+byproducts.
+
+		*APPLYING SCALAR INTERFEROMETRY*
+
+It would be ideal if the trapped EM energy in the mass potentials 
+of the radioactive nuclei could be extracted and converted directly 
+into nonlinear Whittaker scalar potentials -- into pure, hidden 
+EM hyperspatial energy.  Theses resulting energetic potentials 
+could be formed into beams in a Whittaker scalar interferometer, 
+to transmit the extracted EM energy through hyperspace to a 
+distant interference (discharge) zone for release harmlessly as 
+heat or electricity which radiates away. [26]  It would be highly 
+desirable to utilize a more distant scalar interference "energy 
+dump" zone, beyond the atmosphere and out in space, well away from 
+the earth.  The energy would be extracted by a scalar interferometer 
+used in an _endothermic mode_, and would be "dumped" at the distant 
+disposal site by a scalar interferometer used in an _exothermic 
+mode_.
+
+In its Whittaker internal structure, a scalar potential beam 
+contains a bidirectional flow of EM waves and energy through 
+hyperspace.  There EM waves are flowing in both directions.  
+Between separated spatial points in the flow that are at the same 
+3-space potential (magnitude), the net EM energy exchange is zero.  
+Between separated spatial points in the flow that are at differing 
+3-space potential (magnitude), a nonzero net EM energy flow exists.  
+Net "scattering" EM energy (heat) flows through hyperspace from the 
+point at higher potential to the point at lower potential.
+
+
+	*Figure 3*.  Whittaker Interferometer in Endothermic Mode 
+	for Energy Extraction From the Mass Potential of 
+	Radioactive Nuclei.
+
+
+Thus by simply biasing the electrical ground potential of the scalar 
+interferometer "transmitters", the interferometer can produce the 
+emission of heat energy in the distant interference zone (IZ), or 
+the extraction of heat energy from that IZ.  For distant heating, 
+the interferometer is said to be in the "exothermic" mode, and 
+energy must be continually fed into it, to emerge at the distant 
+IZ.  For distant cooling in the IZ, the interferometer is said to 
+be in the "endothermic" mode.  Note that, in the endothermic mode, 
+heat emerges at the transmitters themselves, and must be disposed 
+of.
+
+Figure 4 shows the conceptual use of a Whittaker interferometer 
+in the exothermic mode, for use in transferring the extracted EM 
+heat energy to a distant dump IZ.  Again, mode control is achieved 
+by relative biasing of the electrical ground of the interferometer, 
+compared to the ambient potential of the IZ.
+
+From a review of the two cited Whittaker papers, both uses of the 
+Whittaker scalar interferometer (WSI) appear feasible.  If so, 
+with a suitable deterministic Whittaker structure, an endothermic 
+WSI could be used to directly extract the EM energy from the mass 
+of the radioactive nuclei, in essence dematerializing those nuclei 
+and thereby completely neutralizing them, and producing large 
+quantities of heat.  The heat could be temporarily captured in a 
+reservoir, and used as an input to an exothermic WSI which 
+transmits the extracted EM energy through hyperspace to a spatial 
+IZ point safely beyond the earth's atmosphere, dumping the waste 
+EM energy there, so that it radiates harmlessly away into space 
+as heat and light.
+
+
+	*Figure 4*.  Whittaker Interferometer In Exothermic Mode 
+	for Energy Transmission and Dumping.
+
+
+It is strongly accented that presently these are \hypothesized\ 
+uses of Whittaker scalar interferometry, and they remain to be 
+experimentally falsified or verified.  However, they are solidly 
+based on the theoretical foundation of the Whittaker-structured 
+scalar EM potential, which has heretofore been ignored in physics.  
+Further, the basis for these hypotheses are testable.  The 
+proposed Whittaker EM is in fact more comprehensive than classical 
+EM, since all classical EM can be shown to be replaceable by 
+Whittaker scalar interferometry. [27]  We believe, therefore, that 
+we have proposed a totally new class of nuclear interactions, and 
+mechanisms which warrant experimental and theoretical 
+investigation.
+
+		*OTHER POTENTIAL APPLICATIONS*
+
+Obviously a great many other potential applications of this 
+approach suggest themselves for investigation.  We have previously 
+pointed out two successful experiments by Sweet, one for extracting 
+useful EM energy from the vacuum, and one for production of 
+unilateral forces (without Newtonian third law recoil), including 
+antigravity. [28]  We have also pointed out the implications of 
+the approach for possible testable unification of electromagnetics, 
+general relativity, and quantum mechanics. [29]  In other 
+publications we have also pointed out the implications for 
+application to neural science and to medical science, particularly 
+for development of new healing therapies for presently incurable or 
+nearly incurable major diseases. [30]  It has also been suggested 
+that earth stress lights, known in over 1200 locations in the U.S. 
+alone, may be due to natural scalar interferometry, where the 
+stressed sides of a rock fault, with stress relief in the fault, 
+piezoelectrically produce Whittaker potentials on each side of the 
+fault, resulting in distant-interfering Whittaker scalar potential 
+interferometry. [31]  It has also been suggested that ball 
+lightning is a similar Whittaker scalar potential phenomenon, due 
+to separately highly charged clouds acting as a Whittaker scalar 
+potential interferometers.  Further, it has been experimentally 
+proven that living systems accomplish limited transmutation of 
+elements, with minuscule power and signal strength. [32]  
+Whittaker scalar interferometry modification of the atomic nucleus 
+has been hypothesized as the active mechanism utilized. [33]  
+Finally, it has been hypothesized that living systems utilize the 
+inner EM for thought formations, thinking, long term memory 
+storage in mass potentials of atomic nuclei, and for deep cellular 
+control, as in the master cellular control system discovered by 
+Popp. [34]  Numerous other potential applications can readily be 
+constructed.
+
+			*CONCLUSION*
+
+In this paper we have proposed major new definitions of some 
+fundamental entities in physics, which lead to an altered 
+perspective on spacetime and matter interaction.  These 
+definitions, which amount to a redefinition of the entire energy 
+ansatz (beginning), imply a totally new class of nuclear 
+interactions, where the mass of the nucleus is considered as a 
+powerful scalar EM potential, with a directly engineerable 
+internal Whittaker bidirectional EM wave structure.  The new 
+internal, hyperspatial EM hypothetically can be utilized to 
+directly engineer the Schroedinger equation, thereby 
+deterministically engineering quantum change itself.  In addition, 
+both atomic nuclei and the vacuum/spacetime can be activated, so 
+that they become active engines, interacting preferentially with 
+local systems, which are driven by their altered virtual photon 
+flux exchange with the surrounding vacuum.
+
+The cited Whittaker theory establishes a greatly expanded but 
+engineerable EM, with external (spatial) and internal 
+(hyperspatial) subsets.  Scientists and engineers are urged to 
+seriously study the two cited Whittaker papers and their 
+implications, and to set up experiments to falsify or verify the 
+hypotheses advances.
+
+			*NOTES AND REFERENCES*
+
+[1]	Quoted from Albert Einstein, "Foreword", to Max Jammer, 
+_Concepts of Space: The History of Theories of Space in Physics_, 
+Harvard University Press, Cambridge, Massachusetts, 1969, 
+p. xi-xii.
+
+[2]	The quantum mechanical vacuum (QMV) concept in quantum 
+field theory is just the modification of the classical "empty 
+vacuum" concept to take into account the spontaneous creation and 
+annihilation of virtual particles, required by quantum mechanics 
+and the Heisenberg uncertainty principle.  The QMV is a plenum, 
+not an emptiness, and it is filled with enormous energy.  
+Cf Timothy Boyer, "The classical vacuum", _Sci. Am._, Aug. 1985, 
+p.70;  Walter Greiner and Joseph Hamilton, "Is the Vacuum Really 
+Empty?", _Am. Sci._, Mar.-Apr. 1980, p.154;  I.J.R. Aitchison, 
+"Nothing's plenty: The Vacuum in modern quantum field theory", 
+_Contempt. Phys._, 26(4), 1985, p.333-391;  Jack S. Greenberg and 
+Walter Greiner, "Search for the sparking of the vacuum", _Phys. 
+Today_, Aug. 1982, p.24-32;  Richard E. Prange and Peter Strance, 
+"The semiconducting vacuum", _Am. J. Phys._, 52(1), Jan. 1984, 
+p.19-21;  R. Jackiw and J.R. Schrieffer, "The decay of the 
+vacuum", _Nucl. Phys. B._, 190, 1981, p.944.
+
+[3]	The present definitions of energy in physics are quite 
+vague and often in error.  Energy is usually defined as the 
+"capacity to do work".  From our viewpoint, such a "definition" 
+states that "order is the disordering of order", which is 
+erroneous.  Certainly energy _\has\_ the capacity to do work, 
+because it can be scattered.  Stated in that fashion, it is just 
+a statement \about\ energy, and acceptable.  But one cannot 
+properly say that energy _\is\_ the capacity to do the work.  In 
+fact that current "definition" has no content as to the \actual 
+nature\ of energy.
+
+[4]	To define a particular field of energy, we simply select 
+the quantum particle of that field and consider just the order in 
+that particle's virtual flux in the vacuum.  In other words, we 
+select one type of potential from the conglomerate of potentials 
+that comprise the vacuum.
+
+[5]	Negative work is also possible.  E.g., by imposing a phase 
+conjugate reflection, theoretically the scattered (disordered) 
+energy used to perform work can be \retroreflected\ afterwards, 
+restoring the original order (energy), which can then again be 
+disordered (used as work).  We accent that this does \not\ violate 
+overall conservation of energy.  The system is not closed , but is 
+\open and driven\ by its seething virtual particle flux (VPF) 
+exchange with the vacuum.  Every charged particle and every atomic 
+nucleus is in such a violent VPF exchange, and is a \driven, open\ 
+system.  With a gating process (such as phase conjugate 
+retroreflection), Prigogine's thermodynamics of nonlinear system 
+away from thermodynamic equilibrium applies.  For an example of 
+phase conjugate retroreflective reordering of EM energy after it 
+has been scattered, see David M. Pepper, "Applications of optical 
+phase conjugation", _Sci. Am._, 254(1), Jan 1986, p.65.
+
+[6]	There is presently no acceptable definition of _potential_ 
+in physics.  The acceptable "definition" of the electrostatic 
+scalar potential (ESP), e.g. is simply a prescription for 
+calculating its magnitude.  It does not at all tell what the ESP 
+_\is\_. See also Note 7.
+
+[7]	See "Potential", in Robert M. Besancon, Ed., _The 
+Encyclopedia of Physics_, 2nd Edn., Van Nostrand and Reinhold, 
+New York, 1974, p.729-731.  The concept of potential has developed 
+as two fundamental notions: (1) as the "internal" storage of energy 
+in some fashion, and (2) as a scalar function whose space rate of 
+change yields a vector force.  Our comment is that the two cited 
+E.T. Whittaker papers, together with the QMV, drastically enlighten 
+both notions, extending the understanding of what a scalar 
+potential actually is (both internally and externally), and its 
+non-local, internal, hyperspatial energetic connection with the 
+rest of the universe.
+
+[8]	The ordering itself is still an equilibrium form in an open 
+system.  Due to the flux, virtual particles are continually 
+entering, leaving, or appearing and disappearing in the equilibrium 
+form.  The ordering is like a whirlpool in a river: The form or 
+ordering may be stable, but the water molecules are continually 
+passing through the stable, ordered form.  If we control or alter 
+the input and output flows, we can control and alter the equilibrium 
+form at will, even to dispersing or "dematerializing" it.
+
+[9]	The ordering structure is mathematically given by 
+E.T. Whittaker, "On the partial differential equations of 
+mathematical physics", _Math. Ann._, Vol 57, 1903, p.333-355.  
+See also E.T. Whittaker, "On an expression of the electromagnetic 
+filed due to electrons by means of two scalar potential functions", 
+_Proc. Lond. Math. Soc._, Series 2, Vol. 1, 1094, p.367-372.  More 
+recently the Whittaker structure (WS) inside potentials -- including 
+the Schroedinger potential -- has been shown by V.K. Ignatovich, "The 
+remarkable capabilities of recursive relations", _Am. J. Phys._, 
+57(10), Oct. 1989, p.873-878.  For the same in acoustics, see 
+Richard W. Ziolkowski, "Localized transmission of wave energy", 
+_Proc. SPIE, Vol. 1061, Microwave and Particle Beam Sources and 
+Directed Energy Concepts_, Jan. 1989, p.396-397.
+
+[10]	The local (spatial) aspects of the scalar potential are 
+its magnitude and gradient at a point in 3-space.  The nonlocal 
+(hyperspatial) aspects are the organized internal flows of 
+energetic waves through hyperspace, to and from that 
+"magnitude/gradient" point in 3-space and every other point 
+in 3-space.
+
+[11]	Per Whittaker, 1904, ibid.
+
+[12]	The conglomeration implication for vacuum-spacetime of 
+these definitions, or of the gist of them, has previously been 
+pointed out by W. Misner, K.S. Thorne and J.A. Wheeler, 
+_Gravitation_, 1973, p.399.  Quoting: \"... The terms 
+'gravitational field' and 'gravity' refer in vague, collective 
+sort  of way to all of these entities.  Another, equivalent term 
+for them is the 'geometry of spacetime.'"\  Our comment is as 
+follows: In other words, the notion of the geometry of spacetime 
+is also a vague, conglomerated concept, and it also must not be 
+primary, but must be composed of other field effects and 
+things -- which of course is Sakharov's hypothesis that 
+gravitation is not even a primary field of nature, but is always 
+due to interactions and effects of other fields.  
+See A.D. Sakharov, "Vacuum Quantum Fluctuations in Curved Space 
+and the Theory of Gravitation", _Sov. Phys. Dokl._, Vol. 12, 
+1968, p.1040.
+
+[13]	E.T. Whittaker, 1904, ibid.
+
+[14]	H.E. Puthoff, _Phys. Rev. D._, 35(10), May 15, 1987, 
+p.3266-3269.
+
+[15]	Indeed, in QED a photon can even interfere with itself. 
+There are still serious problems with the photon concept, however.  
+Four different major models are used.  Cf. Richard Kidd et Al, 
+"Evolution of the modern photon", _Am. J. Phys._, 57(1), Jan. 1989, 
+p.27-35.  The "energy" of a photon is not localized, but is 
+distributed over the entire volume of the field and there is, in 
+general, no use in attaching a coordinate to the photon.  A photon 
+in general cannot be described by wavefunction, but only for 
+special cases.  In geometrical optics as well as Maxwell's 
+electrodynamics, there is no room for photons.  The complex 
+one-photon wavefunction should not be identified with the EM 
+field.  For a given photon number, the electric or magnetic fields 
+at a point cannot be measured as a function of time.  For states 
+with a fixed photon number, the expectation value of the electric 
+field is zero even for a very large photon number, so that in this 
+case the correspondence principle cannot be used.  For additional 
+strong anomalies in the photon concept, see J. Strand, "Photons in 
+introductory quantum physics", _Am. J. Phys._, 54(7), July 1986, 
+p.650-652.  In his later years Einstein wrote: \"All these 50 years 
+of pondering have not brought me closer to answering the question: 
+what are light quanta?  Of course, today, every rascal thinks he 
+knows the answer, but he is mistaken"\.  (P. Speziali, Ed., _Albert 
+Einstein-Michele Besso Correspondence 1903-1955_, Hermann, Paris, 
+1972.)
+
+[16]	For proof that the phase conjugate antiwave is truly 
+time-reversed, cf. M. Ohno and K. Takagi, "Schlieren visualization 
+of acoustic phase conjugate waves generated by nonlinear 
+electroacoustic interaction in LiNbO_3", _Appl. Phys. Lett._, 
+60(1), Jan. 6, 1992, p.29-31.
+
+[17]	Note this concept represents a unification of EM and 
+gravitation.
+
+[18]	If the average coupling is spin-2, then the local vacuum/ST 
+is said to be \uncurved\.  It possesses time symmetry, charge 
+symmetry, and does not preferentially interact with locally 
+embedded systems.  If on the other hand the average coupling is 
+greater than 2 (say, 2.1), then the local vacuum/ST is \curved\.  
+It has time and charge asymmetry, and preferentially interacts with 
+systems.  Specifically, it has a surplus of coupled photons, is 
+activated and excited, and so can "decay" to serve as an \EM energy 
+source\.  If the average coupling is less than 2 (say, 1.9), then 
+the local vacuum/ST is curved in the other direction.  It has time 
+and charge asymmetry, and preferentially interacts with systems.  
+Specifically, it has a deficiency of coupled photons, is activated 
+and excited, and can serve as an \EM energy sink\.  By tailoring 
+the Whittaker structure of potentials and adding them to the local 
+vacuum, such curvature effects can be produced.
+
+[19]	In fact there is strong evidence for this.  First, the 
+Newtonian third law reaction is essentially universal.  In quantum 
+field theory, Newton's action force is generated by the exchange 
+of virtual photons.  The phase conjugate (time-reversed) third-law 
+"anti-action" force must be generated by exchange of virtual 
+_anti_photons.  Further, these antiphotons do not normally emerge 
+from the nucleus out through the electron shells and enter the 
+external circuit to be measured.  Hence they must "burrow within" 
+the atom to react with the nucleus.  The point is, there are almost 
+always two photons that interacted, not just one.  It follows that, 
+if we divert the antiphotons from going to the nucleus and instead 
+we switch them outside the atom, the Newtonian third law reaction 
+force should vanish.  _\Precisely this happens.\_  In a pumped 
+phase conjugate mirror, the mirror does not recoil when antiphotons 
+are emitted as a phase conjugate replica wave.  This provides 
+strong experimental evidence of the decoupled antiphoton's 
+generation of Newton's third law reaction, and the binary-photon 
+(graviton) interaction concept.
+
+[20]	Richard Kidd et Al, 1989, ibid, p.30.  Also see 
+E. Goldwasser, _Optics, Waves, Atoms and Nuclei_, Benjamin, 
+New York, 1965, preliminary edn., p.190-191.
+
+[21]	Indeed, one can conceivably build-in any higher dimensional 
+aspect one wishes, by nesting.  I.e., one chooses one of the 
+internal EM waves in Whittaker set.  One expresses that wave as the 
+interference of two scalar potentials, via Whittaker 1904.  Then 
+each of these two hidden scalar potentials in turn has a hidden 
+bidirectional Whittaker waveset structure, which again can be 
+deterministically tailored.  The second engineered waveset is in 
+yet a higher hyperdimension than was the first waveset.  
+Theoretically this can be repeated as many times as desired.
+
+[22]	Note that this "activation" of the local vacuum and 
+spacetime constitutes a local curvature, as discussed in Note 18 
+above.  The activated local vacuum/spacetime has now become a 
+\vacuum engine\.  We are attempting to accomplish controlled 
+vacuum engineering, in the sense referred to by Nobel Laureate 
+T.D. Lee, _Particle Physics and Introduction to Field Theory_, 
+Harwood, New York, 1981, Chapter 25: Outlook, "Possibility of 
+Vacuum Engineering", p.824-828.  As Lee points out, this has not 
+yet been tried in physics, but it may be possible to do it.  Our 
+assertion is that applying the Whittaker methodology is a major 
+way to do it deterministically and testably.
+
+[23]	A locally activated spacetime (ST) is a curved local ST, 
+where the much stronger EM force is  utilized as a curvature agent.  
+Curved local ST violates local symmetry in one fashion or another; 
+by the CPT theorem, one must only uphold overall CPT symmetry, not 
+individual symmetries.  Violation of a local symmetry usually 
+occurs in pairs; e.g., violation of local charge symmetry and local 
+time symmetry.  In this fashion a curved ST (\vacuum engine\) may 
+serve as either a source or sink for EM energy, but there will be 
+associated changes in the local time rate of flow.  We stress that 
+such local asymmetry of ST is possible only because everything is 
+a driven, open system and is not closed.  If one extends one's 
+system consideration, overall symmetry and conservation laws are 
+upheld.  For consideration of what can be done with a locally 
+asymmetrical ST, see E.B. Smetanin, "Electromagnetic field in a 
+space with curvature -- new solutions", _Sov. Phys. J._, 25(2), 
+Feb. 1982, p.107-111.
+
+[24]	E.g., we have hypothesized that living systems can much 
+more readily transmute along the isomer chain, since converting 
+a single proton to a neutron or vice versa would suffice.  Flipping 
+one quark would be all that was required in that case, which should 
+be much easier than wholesale moving of entire nucleons.  As an 
+example, chickens were shown by Kervran to be able to transmute 
+potassium into calcium, and his experiments were rigorously 
+replicated by Japanese researchers.  It is pointed out that one 
+isotope of potassium is a natural isomer for calcium, and could 
+be converted by the "single quark flip" hypothesis.  See also 
+Note 32.
+
+[25]	Note that this is precisely producing a local asymmetry 
+in the spacetime (ST) which the radioactive nucleus occupies.  
+For proof that the nuclear decay probability increases in a 
+locally asymmetrical ST, see V.I. Petukhov and I.A. Kuzin, "Weak 
+processes in the field of a gravitational wave", _Sov. Phys. J._, 
+27(12), Dec. 1984, p.1025-1029.
+
+[26]	For the theory (and proof) of scalar potential 
+interferometry, see E.T. Whittaker, 1904, ibid.
+
+[27]	For mathematical proof, see Whittaker, 1904, ibid.
+
+[28]	Floyd Sweet and T.E. Bearden, "Utilizing scalar 
+electromagnetics to tap vacuum energy", _Proceedings of the 
+26th Intersociety Energy Conversion Engineering Conference 
+(IECEC '91)_, Aug. 4-9, 1991, Boston, Massachusetts, p.370-375.
+
+[29]	T.E. Bearden and Walter Rosenthal, "On a testable 
+unification of electromagnetics, general relativity, and quantum 
+mechanics", _Proceedings of the 26th Intersociety Energy 
+Conversion Engineering Conference (IECEC '91)_, Aug. 4-9, 1991, 
+Boston, Massachusetts, p.487-492.
+
+[30]	T.E. Bearden, _Gravitobiology_, Tesla Book Co., 
+604 Date Ave., Chula Vista, CA, 91910, 1991.
+
+[31]	T.E. Bearden, _Fer-de-Lance_, Tesla Book Co., 1986.  
+For report of a rigorous scientific experiment with earth stress 
+lights, conducted by Vestigia, see T.E. Bearden, _The Excalibur 
+Briefing_, 2nd Edn., Strawberry Hill Press and Tesla Book Co., 
+1988, p.35-52.  In the book my explanation, actually written in 
+1978, was incomplete and, in light of today's understanding, it 
+was also substantially flawed.  The Vestigia experiment, however, 
+was rigorous and flawless.
+
+[32]	In 1977 Louis Kervran was nominated for a Nobel Prize for 
+having proven that living systems transmute elements to a limited 
+degree.  His work was replicated by Japanese researchers and 
+others, but is still unknown to most biologists and biophysicists.  
+See Louis Kervran, _Transmutations a Faible Energie (Naturelles et 
+Biologiques)_, Maloine S.A., Paris, 1982.
+
+[33]	T.E. Bearden, _Gravitobiology_, 1991.  E.g., the two 
+cerebral hemispheres of the brain are hypothesized to be usable as 
+an exceedingly weak scalar potential interferometer (per Whittaker 
+1904, ibid).
+
+[34]	Cf. Fritz Albert Popp, "Photon Storage in Biological 
+Systems", in Fritz Albert Popp et Al, Eds., _Electromagnetic 
+Bio-Information: Proceedings of the Symposium_, Marburg, 
+September 5, 1977, Urban & Schwarzenberg, Baltimore, 1979, 
+p.123-149; also _Biophotonen. Ein neuer weg zur Losung des 
+Krebsproblems_, Verlag fur Medizin, Heidelberg, 1976 [in German].

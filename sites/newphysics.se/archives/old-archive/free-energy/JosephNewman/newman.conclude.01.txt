@@ -1,0 +1,50 @@
+From: Stefan
+Date: Fri, 25 Feb 1994 00:40:00 +0100
+
+>2.  Can you trust investigations by the National Bureau of standards? I
+>    have to admit that this is conspiracy question, not a technical or
+>    a scientific one. I lack experiences with U.S. institutions, but I
+>    know from inventions in the energy device field here in Germany
+>    that one carefully has to include the possibility of
+>    disinformation, threatenings, prosecutions etc. Someone wrote me
+>    that "Having the Bureau of Standards conduct the tests is rather
+>    like letting the fox guard the chicken house."
+
+The test of the bureau of Standards was worthless ,cause they did not
+understand the principle...and did not measure all power outputs.
+
+
+I did a test report myself on my own rebuild Newman-machine at our
+University and got 70-130 % overall efficiency, but the whole system
+is just too complicated to use it as a free energy machine...
+
+
+>
+> 3. Putting into account that Newman's device converted DC to AC, there
+>    might be an explanation for the recharge of the batteries.
+>    According to the german computer magazine CHIP, 5. May 1993, p.
+>    302, there is a very efficient way of charging accumulators by using
+>    the so called "reflex principle". This is done by charging the
+>    accumulator with a strong DC current pulse an decharge it a little bit
+>    afterwards. Chargers using the reflex principle can reactivate
+>    accumulators which are completely exhausted and can't
+>    be recharged by normal (steady DC) means.
+
+Yes, due to the mechanical commutator and the big coil
+it is some kind of this...
+
+
+>
+>    Newman's device included inductivities, so this effect seems to be
+>    a possible explanation for the recharge effect. But: where did the
+>    energy come from which kept the device spinning for over an
+>    hour? Question No. 1 again. Seems to be a recursive problem :->.
+
+
+Well, yes, these phenomen seems to exist only with the bigger sized
+Newman machines. With my little ones, the batteries discharged every
+time. So the real interesting machines are the bigger Newman machines
+and not his toy motor design.... Seemed he did not understand the
+effect later himself, so he went into the wrong direction and did build
+smaller machines, than bigger ones...
+

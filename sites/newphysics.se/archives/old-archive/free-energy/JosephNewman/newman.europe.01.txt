@@ -1,0 +1,44 @@
+From: Jay 
+Date: Wed, 23 Feb 1994 02:22:10 GMT
+
+    I follow patent developments quite a bit, and recall the Newman's
+    case.  What happened (no references, relying on memory) is that after
+    Newman was rejected by the U.S. Patent Office (the Commish in effect
+    said "Fine, if your device can put out more energy than it takes in --
+    and assuming no storage-- then build a working model, and we'll test
+    it." Newman did this, but insisted that the U.S Bureau of Standards
+    (NBS) or NHIS, I think is their latest acronym) do a non-evasive test,
+    and that he closely supervise it.
+    
+    The NBS refused, or more likely Newman got pissed, so he hired an
+    attorney (trivia question:  this attorney ended up running for Congress
+    as a Representative, and lost to Rep. Frank Wolf) and sued in the U.S.
+    District Court.  This was his legal right--anybody can do this, so the
+    above quote is misleading.
+    
+    Anyhow, the Judge said in effect what the Commish said, and when the
+    NBS finally got around to testing the device as they wanted to (without
+    destroying it, which was Newman's main concern I believe, and the fact
+    that in essence Newman was on a publicity stunt --recall the guy is
+    from Louisianna, and he was making money charging people to see the
+    device, not to mention talk shows) the NBS found that Newman's device
+    was a "dead" battery being switched on and off, so that "peak power"
+    was being detected, while average power was close to zero.  You can
+    achieve the same effect from switching a dead transistor radio on and
+    off--even with a dead battery, you can get a few seconds of sound.
+    Physically, I believe the electrons bunch near the terminals, but I'm
+    not a physicist.  Anyhow, such a device does not violate the First or
+    Second Laws.  The claim that more energy came out than went in came
+    from comparing apples to oranges-- peak power versus average power.
+    Can't do that.
+    
+    So, the judge ruled the device was unpatentable, and Newman went away,
+    poorer but wiser (then again, he probably knew it was a hoax all
+    along).
+    
+    A side note is that Newman filed for European Patent protection, and in
+    Europe they publish all applications after a while, so I actually got a
+    hold of Newman's patent application (it was a long one) and checked out
+    the bogus "theory".  Pretty boring reading, really, unless you like
+    crackpot science.
+    [...] 

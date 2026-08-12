@@ -1,0 +1,215 @@
+Ove Tedenstig, Idungatan 37, 19551 Märsta/Sweden
+30/10-1996
+
+
+
+
+E ÄR LIKA MED MC KVADRAT
+
+             2
+Formeln E=m.c lär väl för evigt vara förknippad med Einsteins
+relativitetsteori, det är inte så mycket att göra åt.
+Däremot kan vi som är intresserade av hur saker och ting är
+försöka förstå hur man kan komma fram till detta resultat och
+man finner då snabbt att det i huvudsak är Newtons masströghets-
+lagar som ligger till grund för uttrycket.
+
+I tillägg finns därtill ett fenomen som uppträder då man accelererar
+partiklar i slutna system. Man upptäckte år 1901 genom experiment
+med katodstrålar att massan hos partikeln syns öka med ökad
+hastighet.
+
+Tvärt emot vad som ofta påstås finns det fortfarande ingen bra
+förklaring till fenomenet. Man kan gissa att det är fråga om en elektro-
+magnetisk effekt som uppstår genom partikelns växelverkan med
+det omgivande, accelererande systemet och att det sålunda inte är
+fråga om någon allmän effekt p.g.a acceleration (en rymdraktet som
+är sitt eget system är sålunda inte föremål för någon sådan massökning).
+
+                 2
+Vi härleder E=m.c  under förutsättning att massan hos en accelererad
+partikel i ett slutet elektromangetiskt system ökar med funktionen :
+
+                               2  2 -1/2
+1)                   m=mo.c.( c -v )
+
+Newtons andra lag ger allmänt:
+
+2)                   F= d/dt(m.v)
+
+som kan upplösas i termer:
+
+3)                   F= (dm/dt).v + m.(dv/dt)
+
+Vi vet, att om man förflyttar ett föremål en sträcka ds under påverkan
+av kraften F, då utvecklas (eller åtgår) en energimängd som är F.ds.
+Vi kallar denna energimängd F.ds= dE, sålunda:
+
+4)     F.ds= dE= (dm/dt).v.ds + m.(dv/dt).ds
+
+Dock vet vi, att ds/dt=v = hastighet och därför byter vi ut ds/dt i
+uttrycket ovan mot v, sålunda:
+
+                              2
+5)                    dE= dm.v + m.v.dv
+
+Vår utgångspunkt var, att partikeln accelererade i ett slutet system
+där massan hos partikeln ökar enligt funktione 1) ovan. Vi deriverar
+detta uttryck i avseende på hastigheten (dv) som ger :
+
+                          2  2 -1/2
+6)       dm/dv= d(mo.c.( c -v )    )  =
+
+                               2  2 -3/2
+                mo.c.(-1/2).( c -v )   .(-2.v)
+
+                        2  2 -3/2
+6)       dm = mo.c.v.( c -v )   .dv
+
+Insättning av 1) och 6) i formel 5) ger nu:
+
+
+                3    2   2 -3/2            2   2 -1/2
+7)    dE= mo.c.v. ( c - v )  .dv + mo.c.( c - v )  .v.dv
+
+
+Partikelns totala energi E erhålles genom att vi integrerar i
+avseende på "v". I formelsamlingar för integraler finner vi att:
+
+           3                         2
+          v .dv       2  2 1/2      c
+    I ---------- =  (c -v )   + --------           samt
+        2  2 3/2                   2  2 1/2
+      (c -v )                    (c -v )
+
+
+       v.dv           2  2 1/2
+   I ---------  =  -(c -v )
+       2  2 1/2
+     (c -v )
+
+Användning av dessa resultat i 7) ger :
+
+            !                2        v                    v
+            !   2  2 1/2    c        !     !    2  2 1/2  !
+8)   E= mo.c! (c -v )   + ------     !  +  ! -(c -v )     !    =
+            !              2  2 1/2  !     !              !
+            !            (c -v )      0                     0
+
+           3   2  2 -1/2      2        2     2
+       mo.c .(c -v )    - mo.c    = m.c -mo.c  =
+
+
+Energiökningen från 0 till v är då representerad av :
+
+
+9) =================================
+                   2
+        E= (m-mo).c
+
+   =================================
+
+Vi finner sålunda, att Einsteins energiformel kan härledas med
+utgångspunkt från Newtons andra lag som knappast har något med
+relativitetsteorin att göra (Newton lär inte i alla händelser
+har känt till denna teori).
+
+Den andra biten i pusslet är dock hur man kan förklara partikelns
+massökning. Uppenbarligen är även detta en egenskap hos materien
+som sammanhänger med massans natur, dvs ansluter till Newtons
+kraft-mass-tröghetslagar men som ännu inte har fullständigt utretts.
+Helt klart är emellertid att man inte kan förklara massöknings-
+fenomenet med Einsteins relativitetsteori, framför allt av två
+skäl 1) massan som egenskap behandlas inte i den speciella teorin
+2) massökningen är ensidig, dvs är en ökning av massan hos partikeln
+och inte hos den accelerator som accelerarar partikelns ( i
+relativitetsteorin ökar partikelacceleratorns massa mot oändligheten
+sett från partikelns sida, vilket ju är orimligt).
+
+Fenomenet måste därför betraktas som varande av "absolut natur"
+åtminstone i det system partikeln accelereras. Det är enbart den
+partikel som utsatts för hastighetsökning som ändrar sin masssa,
+dvs inte det system som utför accelerationen. Relativitetsteorin
+bortfaller därmed som förklaringsmodell.
+
+Som en spekulativ utvikning kan man tänka sig, att partikeln har en
+inre energidensitet och impuls som är balanserad med sin omgivning.
+Energidensiteten är konstant oberoende av rörelsetillståndet, vilket
+gör att den totala energin alltid fördelar sig mellan yttre energi
+i systemet och inre energi i partikeln, sålunda :
+
+                                       2
+Inre energi-densitet i vila:        q.c
+
+
+Yttre energi-densitet i rörelse:      0
+
+                                        2
+Inte energi-desnitet i rörelse:     q.vi
+
+                                        2
+Yttre energi-densitet i rörelse:    q.v
+
+
+( q är partikeln massadensitet som är konstant)
+
+Eftersom summan inre/yttre energi= konstant fås att
+
+
+                    2    2   2
+10)                c = vi +v
+
+
+Vidare gäller att partikelns inre impuls i rörelse och vila är en
+konstant, balanserad av växelverkan med det yttre systemet. Detta ger:
+
+
+11)                m.vi= mo.c
+
+
+Sammaställning 10,11) ger :
+
+                         mo.c
+12)                m= ----------
+                        2  2 1/2
+                      (c -v )
+
+OBS: "c" är här primärt inte lika med ljushastigheten i vakuum såsom
+definierad i Einsteins teori, utan en gränshastighet i materia.
+Denna hastighet överenstämmer med ljushastigheten för ljus då källa
+och observatör är i inbördes vila, i andra fall avviker de från
+varandra.
+
+Då partikeln upplöses i energi avgår dess samlade inre och yttre
+energi i form av strålning. Om en partikel som befinner sig i vila
+upplöses på detta sätt förstår ju var och en att partikeln själv
+innehåller denna energi bundet i sitt inre i form av massa (m)
+och rörelse (c).
+
+Relativitetsteorin kan vi glömma i detta sammanhang emedan fenomenet
+1) Härledes med utgångspunkt från Newtons andra lag 2) är en
+ensidig energi-massökning hos den partikeln som accelererats (det
+accelererande systemet påverkas ej) 3) har ingenting med ljusets
+hastighet i fri rymd att göra utan fastmer den inre gränshastigheten
+hos materia i materiella kroppar. Formeln gäller ej exempelvis för
+en raket som accelereras i fri rymd. Raketen är sitt eget system
+(v=0) och kan sålunda accelerera obegränsat utan restriktioner.
+
+Eftersom den inre rörelsen hos materien i partikeln avtar med ökad
+hastighet kan även "tidsdilation" motiveras. Processer i partikeln
+står i relation till den inre rörelsen, sålunda:
+
+13)                To.c = T.vi
+
+Sammanställning med ekvation 10) ger då:
+
+                             2  2 -1/2
+14)                T= To.c.(c -v )
+
+där T sålunda är ett tidsmått på den inre aktiviteten i partikeln.
+Formeln är givetvis enkelriktad gällande enbart för partikeln, ej
+omvänd även för det accelererande systemet betraktat från partikeln
+såsom i relativitetsteorin.
+
+(slut artikel)
+

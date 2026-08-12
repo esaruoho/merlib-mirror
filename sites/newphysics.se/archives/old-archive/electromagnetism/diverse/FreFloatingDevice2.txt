@@ -1,0 +1,117 @@
+
+Newsgroups: sci.physics.electromag
+Path: columba.udac.uu.se!sunic!trane.uninett.no!eunet.no!EU.net!uunet!news.crd.ge.com!crd.ge.com!mallick
+From: mallick@crd.ge.com (John Mallick)
+Subject: Re: Free-floating magnet possible?
+Message-ID: <CMv4ID.Esr@crdnns.crd.ge.com>
+Sender: mallick@proteus (John Mallick)
+Nntp-Posting-Host: proteus.crd.ge.com
+Reply-To: mallick@crd.ge.com
+Organization: GE Corp. Research And Development
+References: <2m7oeu$43l@agate.berkeley.edu> <CMszzK.5qx@cnsnews.Colorado.EDU> <CMu24F.Dwt@caracara.cdev.com>
+Date: Fri, 18 Mar 1994 13:37:25 GMT
+Lines: 101
+
+In article <CMu24F.Dwt@caracara.cdev.com>, jad@harrierx.cdev.com (James A.Dahlberg  490TX) writes:
+|> In article <CMszzK.5qx@cnsnews.Colorado.EDU> roh@spot.Colorado.EDU (ROH JOHN J) writes:
+|> >In article <2m7oeu$43l@agate.berkeley.edu>,
+|> >Amnon Silverstein <amnon@adage.Berkeley.EDU> wrote:
+|> >>   Question: Can an object be made to float with magnets in such a way that
+|> >> it is not touching anything?
+|> 
+|> I read an article in Extraordinary Science, a publication of the
+|> International Tesla Society, about a method for doing this.  The author of
+|> the article is Jeff Dunan, Advanced Scientific Applications, 1880 Dairy
+|> Ashford - suite 510, Houston, Texas 77077, ph:713-597-1111, fax
+|> 713-597-1115.  The inventor is Andrew Alcon, and he calls his invention
+|> Electro-Dynamic Magnetic Levitation (EDML).  The article is in the
+|> Oct/Nov/Dec 1993 issue.
+|> 
+|> The inventer is patenting his method, and expects to get a patent early this
+|> year.  His demonstration setup had 2 spinning conductors with a magnet
+|> floating above them, something like this: (parden the lousy circles)
+|> 
+|>                    O <----------- this is supposed to be the magnet,
+|>            /-----\    /-----\     cylindrical in shape
+|>           |       |  |       |
+|>           |   .   |  |   .   | <----- these are spinning conductors,actually
+|>           |       |  |       |        cylindrical in shape
+|>            \_____/    \_____/
+|> 
+|> I think the conductors have to spin in opposite directions, but I don't know
+|> for sure.  And they have to spin FAST.  For 2" diameter disks (cylinders),
+|> they have to turn 9000 RPMs.  For 1" diameter disks, they have to turn at
+|> 17,000 to 18,000 RPMs.
+|> 
+|> Here is a quote from the article on the underlying principles.
+|> 
+|> "The technical explanation as to why I believe the magnet is being
+|> stabilized is that it is generating an electric current, an emf, in the
+|> aluminum disc and the return flux path of the magnet cuts through the disc
+|> parallel to its axis of rotation, therby simulating an opposite magnetic
+|> polarity on both sides of the disc, relative to the magnetic polarity of the
+|> levitated magnet.
+|> 
+|> It is essential for the magnet to have its poles perpendicular to the
+|> relative motion between it and the conductor.  We have been able to measure
+|> DC mA directly off of the discs when the magnet is being levitated above the
+|> discs.
+|> 
+|> We believe that this induced emf is in some way interacting with the
+|> magnetic field of the magnet to keep it secured in its position.  The
+|> stabilizing force is so strong that if you had four discs instead of two
+|> discs and if you had them positioned so that their axis of rotation was
+|> vertical to the plane, they would suspend the magnet in the center."
+|> 
+|> End of quote.
+|> 
+|> I think the magnet is of a special construction, actually being composed of
+|> several magnets like so:
+|> 
+|> Well, I don't have time to draw it.  But the magnet is built out of several
+|> pie shaped magnets arranged with their poles alternating like so:
+|> 
+|>            s N s
+|>           N     N
+|>            s   s
+|>              N
+|> 
+|> 
+|> Potential applications envisioned by the inventer are maglev transportation,
+|> sensors, wind tunnel maglev.
+|> 
+|> +------------------------------------------------------------------+
+|> | Jim Dahlberg		         Computing Devices International   |
+|> | jad@verdin.cdev.com	            A Division of Ceridian         |
+|> | james.a.dahlberg@cdev.com                                        |
+|> +------------------------------------------------------------------+
+|> 
+
+If you spin the conducting disks fast enough (so that the transit time of the
+is less than the magnetic diffusion time of the conductor), then the material 
+will act like a "superconductor" in that it will tend to exclude the magnetic
+flux; this will generate a levitating force.  Dick Thornton of MIT used an
+aluminum disk and a tethered rare-earth magnet to demonstrate the principles of 
+electromagnetic levitation (for maglev) years ago.  The counter-rotating cylinders
+just enable the inventor to create  stabilizing field, since the magnet sits
+in the "trough" between the two cylinders.
+
+See "Electromechanical Dynamics Part II: Fields, Forces and Motion" by 
+Woodson and Melcher if you want all the gory details.
+
+Nothing magic about this as far as I can see.
+
+Cheers,
+
+John
+-- 
+.... ..     .... ..     .... ..     .... ..     .... ..     .... ..
+John A. Mallick WA1HNL                    E-mail: mallick@crd.ge.com
+GE Corporate Research and Development     Phone: (518)-387-7667 (W)
+Schenectady, NY 12301                     FAX:   (518)-387-6560 (W)
+.... ..     .... ..     .... ..     .... ..     .... ..     .... ..
+
+"Work like hell.  Tell everyone everything you know.  Close a deal
+ with a handshake.  Have fun." --- "Doc" Edgerton
+
+

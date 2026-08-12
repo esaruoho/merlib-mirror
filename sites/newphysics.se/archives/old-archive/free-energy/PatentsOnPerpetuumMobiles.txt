@@ -1,0 +1,268 @@
+From: derek@prz.tu-berlin.de (Dirk Kuhlmann)
+Subject: Re: Anyone EVER patent a Perpetual Motion Device?
+Sender: news@prz.tu-berlin.de (Newsadmin Elwood-PRZ)
+Message-ID: <1994Feb27.180808.18420@prz.tu-berlin.de>
+Date: Sun, 27 Feb 1994 18:08:08 GMT
+References: <1994Feb23.161147.25209@microplex.com> <alkotz-240294155205@mac1.atl.mmmg.com>
+Organization: PRZ TU-Berlin
+Lines: 258
+Xref: columba.udac.uu.se sci.physics:1937 alt.sci.physics.new-theories:257 sci.energy:604 alt.conspiracy:1727 alt.alien.visitors:1210
+
+In article <alkotz-240294155205@mac1.atl.mmmg.com> alkotz@mail.mmmg.com (Art Kotz) writes:
+>
+>In article <1994Feb23.161147.25209@microplex.com>, hsk@microplex.com
+>(Harjeet Kalsi) wrote:
+>> 
+>> 
+>> 
+>> Hello Everyone!
+>> 
+>> Sorry if this is a silly question, but I was just wondering if anyone
+>> has *ever* managed to get a patent on a "perpetual motion" or "free energy" 
+>> device? (even though something like that is not possible).
+>> 
+>> Regards,
+>> 
+>> Harjeet
+>> hsk@microplex.com 
+>
+>I haven't heard of any patent applications that have been granted, but I
+>know the patent office regularly gets applications - I've seen some that
+>make you think a bit to explain why they don't work.  Of course you can
+>always patently (pun not intended) say perpetual motion is impossible, but
+>to analyze the system and show the flaw in the reasoning takes some effort
+>sometimes.
+
+I don't know of any patent granted for a 'perpetual motion device', but
+there is a patent for an "ELECTROSTATIC ENERGY FIELD POWER GENERATING 
+SYSTEM". It was granted to William W. Hyde, 1685 Whitney, 
+Idaho Falls Id. 83402 on Jan. 30, 1990 under US. Pat. No. 4,897,592.
+
+Hyde does not explicitely mention he invented a perpetuum mobile, but the 
+claim seems to be 'hidden' in the patent text on page 5:
+
+   [...] since there is no net change in capacitance thereby enabling the 
+   system to convert energy with a reduced input of mechanical energy and 
+   high efficiency, as evidenced by minimal loss of charge on the 
+   electrodes. It was therefore found that working embodiments of the 
+   present invention require less than ten percent of the electrical output 
+   energy for the mechanical input.
+
+Although you need a second energy input to maintain an electical field,
+this seems to be neglectible since the field is static.
+
+I wonder whether anyone could comment on this. You can get the patent text
+and the corresponding technical drawings via ftp at
+
+	phoenix.oulu.fi (130.231.240.17) as /pub/free_energy/HYDEPTNT.ZIP
+                                    and /pub/free_energy/HYDEPTNT.doc
+
+In HYDEPTNT.doc, Stefan states about the patent:
+
+   It seems to be simular to the Methernitha machine, but I really don't know
+   if the Hyde machine works.. I never did hear any info from any witness
+   of the Hyde machine...
+
+Neither do *I* know anything specific about Hyde's device. Can anybody out
+there in the U.S. try to track down this and possibly contact the inventor
+himself? I understand that Hyde's patent claim does *not* imply a working
+model, since
+
+in article <mcirvin.762296267@husc8.harvard.edu> mcirvin@husc8.harvard.edu 
+(Matt McIrvin) writes:
+>
+>alkotz@mail.mmmg.com (Art Kotz) writes:
+>
+>>Do you need a working model of an invention for a patent?  My guess is
+>>probably not, since people are attempting to patent these kinds of things
+>>regularly.  Anyone know if this is true?
+>
+>What I heard is that the U.S. Patent Office has dropped its "working
+>model" requirement *except* in the specific case of perpetual motion
+>machines.  However, this only applies to things that are *called*
+>perpetual motion machines, so if you call the thing a "free energy device"
+>or "hypno-magnetic vacuum extractor" or what have you, it's easier to
+>get it patented. 
+
+OK, now what's about the 'Methernitha' machine mentioned by Stefan? Again,
+my sources are rather poor. I am citing from an open letter which I came
+across some weeks ago (Message-ID <94036.235726SRK106@psuvm.psu.edu>):
+
+> :The original is published in DEUTSCHE PHYSIK, No. 7.
+> 
+> DEUTSCHE PHYSIK
+> International Journal on Fundamental Physics
+> 
+> 10 October 1992
+> 
+> 
+>                                           Stefan Marinov
+>                                           East-West Publishers
+>                                           Morellenfeldgasse 16
+>                                           A-8010 Graz, Austria
+> 
+>                                           Telefon 0316/377093
+>                                           Telefax 0316/835015
+> 
+> [... lots of stuff deleted]
+> 
+> Paul Baumann (photograph on p. 8), a simple Swiss peasant, who today is
+> the spiritual head of the Christian Community METHERNITHA in the village
+> Linden, near Bern, was sentenced for 7 years by a false accusation. In
+> the prison, in the year 1978, he constructed the first functioning
+> perpetuum mobile on our planet, the machine TESTATIKA (photograph on p.
+> 9). Of this machine dozens of prototypes are built. I give in DEUTSCHE
+> PHYSIK, No. 4, the picture of the machine with diameter of the disk 2 m,
+> > which will continuously deliver 30 kW electrical power (the machine on
+> p. 9 has only one disk with diameter 20 cm and delivers some 200 W).
+> 
+> I am member of the community. In March 1989 I tested two machines
+> TESTATIKA. It is besides any doubt that TESTATIKA is a perpetuum mobile,
+> which moreover delivers a great quantity (in comparison with its size
+> and weight) of free energy. I dedicated to this machine the fifth volume
+> of my series THE THORNY WAY OF TRUTH. A half an hour video was
+> registered which everybody can receive.
+> [...]
+
+For jpeg-pictures about the devices mentioned you may try ftp at
+
+    phoenix.oulu.fi (130.231.240.17),  /pub/free_energy
+
+and have a look at
+
+	FRONT.JPG
+	GARDEN.JPG
+	MARINOV.JPG
+	NEW30KW.JPG
+	10KWWORK.JPG
+	3KWFRONT.JPG
+	3KWREAR.JPG
+
+There is also a short mpeg movie 
+
+	TESTATIK.MPG
+
+which shows some construction details of the 'Methernitha' device. Apart 
+from that the pictures and the movies don't _prove_ anything per se, I 
+can't interpret what I see there. Any comments?
+
+As for Marinov, the only thing I can say is that the guy is for real. I 
+tracked down his phone Nr. in Graz and spoke to him as well as to people who
+know him personally. He offers some information material, but it's 
+pretty expensive. Would have to quit smoking to be able to buy them ;-)
+
+>Another popular category, which the Patent Office has not seen
+>fit to restrict, is that of "space drives" like the Dean Drive which 
+>allegedly violate conservation of momentum, through some mechanical or
+>electrical means.  Since most people have heard of energy conservation
+>but don't have a good handle on the idea of momentum, these sound somewhat
+>more plausible to the average bureaucrat, I suppose-- or maybe the volume
+>isn't large enough to justify putting on the kibosh.
+>
+>Antigravity devices have also been patented in droves.  Except for
+>perpetual motion, the tendency seems to be to give a device the benefit
+>of the doubt if nobody can figure out how it's supposed to work.
+
+According to my information, at least one such device has been 
+patented in the U.S. I don't have the patent itself, but an article
+where the source is given. It's up to you, U.S. folks, to debunk it.
+
+>Date:         Thu, 8 Oct 92 19:17:00 CST
+>Reply-To:     "High Resolution Imaging in Astronomy,
+>              Discussion List" <HRI-L@HEARN>
+>Sender:       "High Resolution Imaging in Astronomy,
+>              Discussion List" <HRI-L@HEARN>
+>From:         "NAME 'Robert E. McElwaine'" <MCELWRE@UWEC>
+>Subject:      Gravity-NEUTRALIZING Spacecraft
+>  
+>  
+>  
+>                         Gravity-NEUTRALIZING Spacecraft
+>  
+>               NASA should build an experimental spacecraft based on
+>          U.S. Patent #3,626,605 [at least $1.00 per complete copy from
+>          U.S. Patent Office, 2021 Jefferson Davis Hwy., Arlington, VA
+>          22202; correct 7-digit patent number required.  Or try getting
+>          it via your local public or university library's inter-library
+>          loan dept..], titled "METHOD AND APPARATUS FOR GENERATING A
+>          SECONDARY GRAVITATIONAL FORCE FIELD", awarded to Inventor
+>          Henry W. Wallace on Dec. 14, 1971.
+>  
+>               In the patent, Figs. 7A and 7B are basically side views
+>          of a gravity-NEUTRALIZING FLYING SAUCER, or, if anchored to
+>          the ground, a ZERO-GRAVITY CHAMBER [which could have MANY
+>          possible GROUND-level applications for science, medicine,
+>          manufacturing, etc.].  Each oval diagram shows a motor
+>          spinning a central disc at a very high speed, about 28,000
+>          RPM, and also rotating two other discs sandwiched around the
+>          first disc, via gears, at a much slower speed, perhaps 2,800
+>          RPM, in the opposite direction.  The two outer discs have
+>          extensions [counter-balanced via off-center axis] that, as
+>          they rotate, alternately make contact with two wide
+>          extensions from opposite walls of the spacecraft.  The
+>          central disc should have shallow spiral-shaped grooves on
+>          both sides for air-bearings, to allow the needed very close
+>          contact with the two outer discs.
+>  
+>               I should clarify that each of the two outer discs has
+>          ONLY ONE [counter-balanced] extension, each one pointed
+>          opposite (180 degrees) the extension of the other disc.
+>  
+>               VERY CLOSE CONTACT must be made as the disc extensions
+>          slide past the wall extensions in order to conduct the
+>          "Kinemassic" Energy (term coined by the Inventor) from the
+>          discs to the walls in an ALTERNATING CIRCULATION.
+>
+>               The most important factor making it work is that the
+>          discs, extensions, and outer walls of the spacecraft MUST be
+>          made of any material(s) in which a very large majority of the
+>          atoms are of isotopes having "half integral atomic spin",
+>          such as copper (3/2).  All other parts, etc., should have a
+>          minority of such atoms.  [See the appropriate column of the
+>          table of isotopes in the latest edition of "The Handbook of
+>          Chemistry and Physics."]
+>  
+>               Experimenters should use one motor to spin the center
+>          disc, and a 2ND SEPARATE motor to rotate the two outer discs,
+>          so their relative speeds can be varied to establish the
+>          needed conditions for PROPULSION of the spacecraft via
+>          "NEGATIVE WEIGHT" (with the spacecraft's "Kinemassic" field
+>          PUSHING AGAINST the earth's gravitational field, etc.).
+>  
+>  
+>               If we have to put up a space station, establish Moon
+>          bases, go to Mars, rendezvous with comets, etc., WHY DO IT
+>          THE HARD WAY?!
+>  
+>               Your favorite university or research company could make
+>          a big name for itself by making a small model of this work.
+>  
+>  
+>               UN-altered REPRODUCTION and DISSEMINATION of this
+>          IMPORTANT Information is ENCOURAGED.
+>  
+>  
+>                                        Robert E. McElwaine
+>                                        B.S., Physics and Astronomy, UW-EC
+>
+
+
+I'd like to point out that my interest in this stuff implies neither
+belief nor disbelief in the possibility of perpetuum mobiles, anti-gravity
+etc. I'm just curious about the subject, since it has continuously been
+discussed during the time I am connected to Internet. It should be possible
+either to debunk or to confirm the claims by collecting sources
+and personal experiences and eventually carry out experiments. I think 
+this is what should finally be done.
+
+Regards				Dirk
+
+______________________________________________________________________
+  Dirk Kuhlmann 
+  Technische Universitaet Berlin   |    voice:     +49 (0)30 314-21238
+  Prozessrechnerverbundzentrale    |      fax:     +49 (0)30 314-21114
+  Sekr. MA 073                     |    email: derek@prz.tu-berlin.de
+  Strasse des 17. Juni 136         |        or derek@cs.tu-berlin.de
+  10623 Berlin 12        GERMANY   |s=derek;ou=prz;pd=tu-berlin;ad=de
+______________________________________________________________________
+

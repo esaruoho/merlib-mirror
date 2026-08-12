@@ -1,0 +1,617 @@
+Frank Znidarsic  
+
+COMMENTS: 8 PAGES ASCII TXT FILE.  NEW ENERGY PROJECT, Submitted to
+          the Canadian Journal of Physics, July 94 resubmitted Jan 95
+          Texted in the DOS editor.
+
+REPORT-NO: SPECIAL ENERGY PROJECT
+
+ABSTRACT  
+
+     Present quantum theory is very exact in its
+representation of atomic and nuclear interactions.  This
+theory represents matter as a series of superimposed zero 
+energy probability waves.  This superposition of component 
+waves is known as a Fourier addition.1   Wave propagation 
+is a fundamental property of all simple harmonic motion.  The 
+waves of matter, like all other waves, should propagate into 
+space.  According to present theory the propagation of the 
+wave states of matter is inhibited by the Fourier addition 
+of an infinite number of component waves.  2  This addition 
+of component waves localizes the wavefuctions of matter.  
+This author questions if an infinite number of states can 
+exist within a finite universe.  Louis deBroglie believed 
+that matter waves are real and as such contain energy.  
+This author also questions the reality of a zero energy 
+probability wave.
+
+     It has not been possible to reconcile gravity with
+the current model of matter.  This author has added a 
+new ingredient to the current models of matter.  This
+ingredient is force.  This author's model will show that 
+the matter waves contain energy and that this energy is 
+localized by a reflection at the potential well of matter.  
+The modified model requires no infinities, probability
+waves, or special reconciliation with gravity.  The
+fundamental postulate of the new model requires the
+production of a gravitational field. 
+                                    3
+
+
+INTRODUCTION
+
+Present theory identifies matter as a source of
+gravitational and inertial mass.  Einstein's General Theory
+of Relativity demonstrates that an applied force also
+produces a gravitational field.  Photons have no rest mass.
+According to existing theory photons do, however, have a
+gravitational mass that is proportional to their rest
+energy.   Present theory states that there are three sources
+of gravitational mass.  These sources are:
+
+1.   Matter
+2.   Force
+3.   Photons (and all other energy flows)
+
+This author will show that there is only one source of mass.
+This one source is an applied force.  It will be shown that
+at all inertial and gravitational mass is a direct result of
+an applied force.
+
+
+INERTIAL MASS
+
+An analysis will now be done that will describe
+inertial mass in terms of an applied force.  Consider a
+photon trapped in a perfectly reflecting containment. (see
+fig. #1) 
+ 
+  ----------------------
+ |              p   \   |
+ |               1    \ |
+A|                    / |B   -------> X
+ |               p  /   |       r
+ |                2     |
+  ---------------------- 
+  
+ |-------- k ----------|
+
+       FIGURE #1
+
+This photon in a containment model is a simplistic
+representation of matter.  The photon represents the matter
+wave function.  The wavelength of the photon corresponds
+with the Compton wavelength of matter.  The containment
+represents a potential well.
+This analysis considers only the momentum of the photon.
+The containment will be considered to be at rest.  The
+photon is ejected from wall "A" of the containment, its
+momentum is p  .  The photon now travels to wall "B".  It's 
+             1
+hits wall B and immediately bounces off.  Its momentum is
+p .  The photon now travels back to wall "A", immediately          
+ 2
+bounces off, its momentum is again p .  This process repeats 
+                                    1
+continuously.  If the energy in the containment is carried
+by a number of photons evenly distributed throughout the
+containment, the momentum carried by this energy will be
+distributed evenly between the forward and backward
+traveling components.  The total momentum of this system is
+given in equation #1.
+
+p  =(p /2 - p /2)                                 Eq #1          
+ t    1      2
+
+
+The momentum of a flow of energy is given by equation #2.
+
+
+p = E/c                                           Eq #2
+
+
+Substituting equation #2 into equation #1 yields equation #3.          
+
+
+E  = (E /2 -  E /2)                        Eq #3
+ t     1       2
+
+
+Given the containment is at rest.  The amount of energy in
+the containment remains fixed, the quantity of energy
+traveling in the forward direction equals the quantity of
+energy traveling in the reverse direction.  This is shown in
+equation #4.
+
+
+E  = E                                          Eq #4          
+ 1    2
+
+
+Substituting Eq. #4 into Eq. #3 yields Eq #5.
+
+
+p  = (E/2c)(1 - 1)                               Eq #5          
+ t
+
+
+     Equation #5 is the total momentum of the system at rest.
+If an external force is applied to the system its velocity 
+will change.  The forward and the reverse components of the
+energy will then doppler shift after bouncing off of the
+moving containment walls. The energy of a photon varies
+directly with its frequency.  Given that the number of
+photons in the containment is conserved, the amount of
+reflected energy will vary directly with the energy of the
+reflected photons.  This is demonstrated by equation #6.
+
+E  = E (f /f )                                   Eq. #6          
+ 2    1  f  i
+
+
+Substituting Eq. #6 into Eq #5. yields eq. #7.
+
+
+p  = (E/2c)((f /f ) - (f /f ))                      Eq #7          
+ t            f  i      f  i
+
+
+Equation #7 is the momentum of the system after all of its
+energy bounces once off of the containment walls. Equation
+#7 shows a net flow of energy in one direction.  Equation #7
+is the momentum of a moving system.  The reader may desire
+to analyze the system after successive bounces of its
+energy.  This analysis is quite involved and unnecessary.
+Momentum is always conserved.  Given that no external force
+is applied to the system after the first bounce of its
+energy, its momentum will remain constant.
+
+Relativistic doppler shift is given by equation #8.
+                           
+              2  2 .5          
+(f /f ) = (1-v /c )  /(1 +- v/c),                   Eq #8           
+  f  i
+
+                                    v = velocity with respect
+                                        to the observer
+                                    c = light speed
+
+                                f / f  = frequency RATIO 
+                                 f   i
+
+                         + or - depends on the direction of motion
+
+
+
+Substituting equation #8 into equation #7 yields equation #9
+                                        
+         _                               _
+        |     2  2  .5           2  2 .5  |   
+     E  | (1-v /c )          (1-v /c )    |          
+p =  ---| ---------   -      -----------  |           Eq #9
+     2c |  (1-v/c)            (1+v/c)     |
+        |_                               _|
+                                                         
+
+        _                                         _
+       |           2  2  .5               2  2  .5 |
+=   E  |(1+v/c)(1-v /c )       (1-v/c)(1-v /c )    |
+    -- | --------------   -   -----------------    |
+    2c |(1+v/c)(1-v/c)         (1-v/c)(1+v/c)      |
+       |_                                         -
+
+      _                          _
+     |     2  2  0.5              |
+= E  | (1-v /c )    (1+v/c-1+v/c) |
+  -- | -------------------------- | 
+  2c |         2  2               |
+     |     (1+v /c )              |
+      -                          -
+      
+               Ev
+=        ---------------
+           2    2  2  0.5
+          c (1+v /c )
+
+                                     2
+Substituting mass for energy, M = E/c
+
+           Mv
+=     ------------
+           2  2  0.5                       
+      ( 1+v /c  )                                     Eq #10
+                        
+
+The result, equation #10 is the relativistic momentum of
+moving matter.  This first analysis graphically demonstrates
+that inertial mass is produced by a containment force at the
+potential well of matter.  A fundamental change in the frame
+of reference is produced by the force of containment.  This
+contaimnment converts energy, which can only travel at light 
+speed, into mass, which can travel at any speed but light speed.  
+
+     In 1985 Nick Herbert wrote in his book Quantum Reality", 
+Pg 46 "The fact of the matter is that really knows these days  
+how an electron, or any other quantum entity, actually possesses  
+its dynamic attributes."  This author will now show that matter's
+dynamic deBrogglie wavelength results from the application of
+a force.  As stated, the original wavelength (L) of the photon 
+represents the Compton wavelength of matter.
+
+
+         L  = h/Mc                                   Eq #11
+          c
+
+
+         c = (f)(L)                                  Eq #12
+
+
+
+Substituting Eq #12 into Eq. #11  converts wavelength into
+frequency yielding the Compton frequency f  of matter.
+                                          c
+
+       2
+f  = Mc /h
+ c        c
+
+
+A doppler shifted component of the original frequency was
+produced by the reflection at the containment wall.
+Classical doppler shift is given by Eq #13.
+
+
+
+f  = f (1 +- v/c)                            Eq #13          
+ 2    1
+
+
+A beat note is formed by the mixing of the doppler shifted
+and original components.  This beat note is the de Broglie
+wave of matter.  Given both waves are in phase at the
+containment wall. The beat note extends from the wall to the
+point at which the waves again come into phase again.  
+Substituting equation #12 into equation #13 yields, equation 
+#14, the length beat note.
+
+
+sin(f +6.28n) = sin((f )(1 + v/c))              Eq. #14              
+     c                c
+     
+
+      2                      2
+sin(Mc /h + 6.28n)) = sin((Mc /h)(1+v/c))
+
+
+Taking the arcsin of Eq #14 yields Eq #15.
+
+
+  2               2
+Mc /h + 6.28n = Mc /h + Mvc/h                        Eq #15
+
+
+6.28n = Mvc/h                                        Eq #16
+
+
+The right side of Eq. #16 is the quantumized frequency of
+the beat note produced by the mixing of the original wave
+and its doppler shifted reflection.  This is the de Broglie
+frequency.  Converting this frequency back into a wavelength 
+by Substituting Eq #12 into Eq #16 yields Eq. #17
+the de Broglie wavelength L  of matter.
+                           d            4     
+                                     
+
+
+L   = h/(MV)                                    Eq #17           
+ d
+
+It has been shown that the dynamic attributes of matter 
+result from an applied force.
+
+
+GRAVITATIONAL MASS
+
+      Einstein's principle of equivalence states that
+gravitational and inertial mass are the same.
+                                             5      
+                                              
+Gravitational mass then must be generated by the same
+mechanism that produces inertial mass.  The reflection of
+the energy off of the walls of the containment must also
+generate the gravitational mass of the energy in the box.
+It is well known that the gravitational field can generate a
+force.  This the gravitational force is given by equation
+#18.
+
+
+The force of gravity = mg                 Eq #18
+
+
+      It is less well known that the application of a force also
+induces a gravitation field.  The application of a force
+must induce gravity in order to conserve a symmetrical
+relationship between the forces.  For example, a changing
+magnetic field will induce an electrical field and
+conversely a changing electrical field will induce a
+magnetic field.  Likewise the application of a force also
+               6        
+                
+induces a gravitational field.  The application of a force
+must also produce gravity in order to conserve momentum.  If
+mass is pushed into the established field of other mass time
+is required for the gravitational field of pushed matter to
+reach the other mass.  To conserve momentum during this
+interval an induced gravitational field is required.
+               
+The relationship between the induced gravitational field and
+the force of acceleration as demonstrated by General
+Relativity  is given by equation #19.                   
+          7
+
+                      2
+Field gravity = (G/(c  r))(dp/dt)*i                  Eq #19
+
+                              i = unit vector in direction of the
+                                  force of acceleration
+                              G = the grav constant
+                              r = the grav radius
+                          dp/dt = Force
+
+
+     Each time the photon strikes the wall of the containment it
+produces a gravitation field according to equation #19.  An
+exact mathematical analysis of the gravitational field produced
+by the photon in the box will now be undertaken.
+
+
+k =  The dimensions of the box
+p  = momentum
+
+t  = the time required for the photon to directly traverse
+     the box
+
+t =  k/c
+r =  The distance to point X
+
+
+The far gravitational field at point X is the vector sum of
+the field produced by the impacts on walls A and B.
+
+
+Field       = 1/r field from wall A - 1/r field from wall B              
+     (at X)
+
+        2                       2
+= (G/(c  (r+k))) dp/dt  - (G/(c  r)) dp/dt   Eq #20
+
+
+                      2              2
+simplifying   = -(G/c  )(dp/dt)(k/(r  +rk))
+
+
+Taking the limit to obtain the far field.
+
+
+          2              2              2             2
+lim -(G/c  )(dp/dt)(k/(r  +rk)) = -(G/c  )(dp/dt)(k/r  )
+ as r>>k
+
+
+Substituting for dp/dt in the box model.
+
+
+dp/dt = /\ p / /\ t = (2E/c)/(k/c) = 2E/k
+
+
+In order to remain consistent with the first argument only
+half of the energy will be considered to be impacting on
+wall "A" of the containment. The other half of the energy
+will be considered to impacting on wall "B" of the
+containment.  A factor of 1/2 is introduced as a result of
+this qualification.
+
+                     2           2
+Field       = 1/2(G/c )(2E/k)(k/r )              
+     (at X)
+
+                                    2
+Substituting mass for energy, M =E/c
+
+                   2
+Field       = -GM/r                            Eq #21              
+     (at X)
+
+
+The result, equation #21, is Newton's formula of gravity.
+                                                         8       
+                                                          
+This second analysis clearly shows that gravitational mass
+is produced by the force of containment at the potential
+well of matter.
+
+
+PHOTONIC MASS
+
+A photon has no rest rest mass therefore the source of
+the gravitation mass of a photon cannot be mass.  The source
+of the gravitational mass of a photon will now be
+demonstrated.  Hubbles' constant expresses the expansion
+space in units of 1/time.  Ordinarily, the effects resulting
+for the Hubble expansion are quite tiny.  At great distances
+and at high velocities significant effects do, however, take
+place. As a photon travels through space at the high
+velocity of light it red shifts.  This red shift may be
+considered to be the result of an applied force.  This force
+is produced by the acceleration given in equation #19.
+
+Acceleration = Hc                                 Eq #22
+
+                              H = Hubble's constant, given
+                                  in units of (1/sec)
+                              c = light speed
+
+To demonstrate the gravitational relationships of a photon
+the principle of the conservation of momentum will be
+employed.  According to this principle exploding bodies
+conserve there center of gravitational mass.  Mass M ejects
+a photon while over the pivot I. (Ref fig #2)  
+
+
+  |----S -----|------- S ----------------|
+        1               2
+mass                                  photon
+ _________________________________________
+              ^
+              I
+            PIVOT
+
+           FIGURE #2          
+               
+
+The gravitational center of mass must remain balanced over the
+pivot point I.   Mass M is propelled to the left velocity at
+v  and the photon travels to the right at velocity c.  The           
+ 1
+product of the velocity and time is the displacement S.
+
+Setting the products of the displacements S and the
+gravitational masses Mg equal yields equation #23.
+Note the gravitational mass of the photon is determined
+by force (the right side of equation #23)
+
+
+Mg S  = Mg S                          Eq #23           
+  1 1     2 2
+
+
+       2        2
+GMS /r   = (G/c  ) (force) S /r            
+      1                        2
+
+
+      2       2
+GMS /r  = (G/c  ) dp/dt S  /r            
+   1                     2
+
+
+               2
+GM(v t) = (G/c  ) dp/dt (ct)r             
+    1
+
+                                     2
+Substituting, dp/dt = Ma = MHc = (E/c  )Hc = EH/c
+
+               2
+G(Mv )t = (G/c  )(E/c)Hctr             
+    1
+
+
+Setting momentums equal 
+ 
+p  = p  = Mv  = E/c                                   
+ 1    2     1
+
+Gp t = G/cc p  Hctr
+  1          2
+
+c = Hr                         Equation #12
+            
+
+The result, equation #12, shows that the gravitational mass
+of a photon is produced by the it force it experiences as it
+accelerates through Hubble's constant.  The result is true
+only under the condition where the speed of light is equal
+to the product of Hubble's constant and the radius of the
+universe.  The gravitational radius of the photon is the
+radius of the universe.  These qualifications are
+essentially consistent with the known cosmological
+constants.
+
+
+CONCLUSION
+
+      It has been shown that the application of a force is the
+exclusive mechanism by which all inertial and gravitational
+mass is generated.   A reflection takes place at matter's
+potential well.  This force produced by this reflection
+induces the gravitational field of matter.  This reflection,
+like all reflections, is a result of a change in the product
+of a substances elasticity per unit of mass.  This author
+believes that there is an elastic limit associated with free
+space.   As this elastic limit is reached the elasticity of               
+       9
+free space changes producing reflections.  A new model of
+                                         10
+matter has been developed that shows that acceleration of
+energy at matter's potential wall is the source of the
+gravitational and inertial mass of matter.  This model is so
+simple that once it is seen it appears to be almost self
+evident.  The gravitational mass of a photon was shown to be
+produced by the acceleration of the photon through Hubble's
+constant.  This analysis shows that there is a relationship
+between the speed of light, Hubbles's constant, and the
+radius of the universe.  A profound, yet simple, model has
+been developed.  This model demonstrates the mechanism
+though which all gravitational fields are generated.  It  
+also demonstrates the mechanism underlying the dynamic 
+deBroglie wavelenght of matter.  The scope of the symmetrical 
+relationship that exists between force and gravity has been 
+exposed.  This author believes that this new understanding 
+will lead to the development of gravitational technologies.    
+                                                          11
+
+NOTES
+ 
+1.  Joseph Fourier showed that any wave can be written as a
+    sum of sin waves in the 19th Century study "La Theorie
+    analytique de la chaleur."
+
+2.  E. Schrodinger referred to such a localization as a
+    "Gaussian wave packet."
+
+3.  Gilbert N. Lewis demonstrated the relationship between
+    external radiation pressure and momentum.
+    Gilbert N. Lewis,  Philosophical Magazine, Nov. 1908
+
+4.  French aristocrat Louis de Broglie described the
+    electrons wavelength in his Ph.D. thesis in 1924.
+    De Broglie's hypothesis was verified by C. J. Davisson
+    and L. H. Germer at Bell Labs labs.  The mechanism
+    through which elementary particles can possess dynamic
+    attributes, such as the de Broglie wavelength, has been
+    a central mystery in the field of quantum physics.
+
+5.  Einstein's principle of equivalence was experimentally
+    confirmed by R.v. Eotos in the  1920's
+    R.v. Eotvos, D. Pekar, and Feteke, Ann. d. Phys 1922
+    Roll, Krotkov and Dicke followed up on the Eotvos
+    experiment and confirmed the principle of equivalence
+    to an accuracy of 10EXP in the 1960's
+    R.G. Roll, R. Krotkow & Dicke, Ann. of Physics 26, 1964
+
+6.  Danish physicist Han Christian Oersted first discovered
+    that and electric current produces a magnetic field
+    in 1820.  English scientist Michael Fariday demonstrated
+    that a changing magnetic field produces an electric
+    current in 1831.
+
+7.  A. Einstein, Ann. d. Physics 49, 1916.
+
+8.  Sir I. Newton, PHILOSOPHICA NATURALIS PRINCIPIA
+    MATHEMATICA  (1687)
+
+9.  For leptons this elastic limit is equivalent to
+             -24
+    3.42 x 10    Farads.  This author believes that
+    capacitance in a non-local phenomena.
+
+10.  Puthoff has also introduced force into a model of matter.
+     "Gravity as a zero point fluctuation force"
+     Physical review
+
+11. The discovery of the symmetrical relationship
+    between the electric and magnetic fields by Oersted and
+    Faraday is the basis of our current electro-technologys.
+
+

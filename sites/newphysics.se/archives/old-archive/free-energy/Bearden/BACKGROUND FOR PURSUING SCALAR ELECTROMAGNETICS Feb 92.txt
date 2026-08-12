@@ -1,0 +1,2374 @@
+       Copyright (c) 1992 by T.E. Bearden.
+       All Rights Reserved. 
+       ____________________________________________________________________
+
+                BACKGROUND FOR PURSUING SCALAR ELECTROMAGNETICS
+
+                                 T. E. Bearden
+                                 February 1992
+
+                                     Note
+
+       This informal  paper is  augmented and adapted from a letter to a
+       young senior in EE, who was planning to pursue his doctorate, and
+       asked for  advice in  understanding the  scalar  electromagnetics
+       area and  choosing either  physics or  EE as  a major.  The reply
+       back to  the student  enclosed several  formal background papers.
+       [1][2]  This paper is a sort of "executive summary" of scalar EM.
+       ____________________________________________________________________
+                               To Correspondent
+
+       Delighted to  see you  are interested  in the  material  and  the
+       approach; I  will try to give you some quick answers to your main
+       questions.
+
+       Best is to simply start with my latest book, Gravitobiology, from
+       the Tesla Book Co., POB 12183, Chula Vista, CA 91912, phone (619)
+       426-8213.
+       ____________________________________________________________________
+                         Two Kinds of Electromagnetics
+
+       Specifically, you must understand that there are two kinds of EM.
+       One is  flawed and in the normal textbooks, and you will study it
+       in your  education process.   The  other  kind  is  not  in  your
+       textbooks at all, but it is in some good technical papers, if you
+       know what  they are,  what to read, and how to put them together.
+       By  the   time  you   get  your   doctorate,   hopefully   scalar
+       electromagnetics will  be in  fashion  at  most  of  the  leading
+       universities.
+
+       For the  second, unknown  kind of  EM, you  should read  the  two
+       Whittaker papers  bound in as Annexes to the Gravitobiology book.
+       [3][4]  They give you the basic theory you need, for the internal
+       EM and  for scalar EM potential interferometry.  Study them until
+       the material is coming out of your ears in your sleep.
+       ____________________________________________________________________
+                 Internal EM Structure of the Scalar Potential
+
+       Briefly, Whittaker  shows you  that  a  scalar  EM  potential  is
+       comprised of  bidirectional EM  wave pairs,  where the  pairs are
+       harmonics  and   phase-locked  together.      In   each   coupled
+       wave/antiwave pair,  a true  forward-time EM wave is coupled to a
+       time-reversal of  itself __ its phase conjugate replica antiwave.
+       The two waves are spatially in phase, but temporally they are 180
+       degrees out  of phase.   That  combined energy  thus stresses the
+       "time dimension',  and in  fact alters  the local rate of flow of
+       time itself.   Please  note how  fundamental that  statement  is.
+       Everything may be said to exist in time, or "move along in time,"
+       or to "be in linear motion along the time axis."  When you stress
+       and alter  the rate  of flow  of time,  you also affect all those
+       time-present things  such as  inertia of  an object,  mass of the
+       object, its  angular momentum,  clock rates,  etc.   You directly
+       engineer local  general relativity,  and you  electromagnetically
+       curve local spacetime.
+       ____________________________________________________________________
+                  Time Reversal and the Time-Reversed EM Wave
+
+       You must  understand time-reversal  and the time-reversed EM wave
+       [5] itself,  including the  theory of  the phase conjugate mirror
+       and of the pumped phase conjugate mirror (from nonlinear optics.)
+       Yariv  [6]   Chapter  16  and  Pepper  [7][8]  are  key  to  that
+       understanding.  Study these references also until the material is
+       coming out of your ears in your sleep.
+
+       Also study Sachs' overview of time reversal in physics. [9]  Here
+       you will  find that  time-reversal still isn't well understood at
+       all, but  Sachs does  a marvelous job in presenting what is known
+       and used.  You should also realize that a time-reversed (TR) wave
+       is seen by the observer in his own "forward time."  Hence he sees
+       the wave spatially reversed.  In short, he sees the same thing as
+       he would  see if  a movie  __ of  the wave expressed as a forward
+       time wave __ were simply reversed.  So the TR wave ever-converges
+       on its  course, rather  than diverges.   Convergence is the time-
+       reversal of  divergence.   Apply similar  TR processes  to  other
+       characteristics of  a normal  wave, by letting the movie film run
+       backward in  your mind.   Notice particularly what happens to the
+       forward-time entropy  of scattered waves __ it becomes negentropy
+       when you  time-reverse the  scattered waves.    You  can  recover
+       "order" or  "energy" even after it's been scattered in performing
+       work, by  phase conjugate  reflection.   And then  you can use it
+       again.   Remember, every  system is  driven, with continual input
+       and output  of energy.   We are not violating the conservation of
+       energy of  a closed  system, because  we are  not talking about a
+       closed system.
+       ____________________________________________________________________
+                        Destroy the Mystique of Entropy
+
+       Remove in  your mind  the neo-religious  mystique built up around
+       the entropy  concept.  The two serious postulations (assumptions)
+       of entropy  are (1)  every component  is a  forward-time critter,
+       with no  time-reversed critters  allowed, and (2) random variable
+       statistics is assumed a priori.  With the Whittaker decomposition
+       of the  scalar potential  into a surprising and perfectly ordered
+       set of  harmonic biwave  pairs, you  have blown  away the  random
+       variable  statistics  assumption.    By  phase  conjugate  mirror
+       production of  time-reversed EM  waves, you  have blown  away the
+       forward-time assumption.   So  entropy isn't  what it used to be,
+       and  the   second  law  of  thermodynamics  is  not  a  mystical,
+       irrevocable law  of nature  at all.   To  believe that  it is, is
+       dogma, not  science.   Entropy can  be transformed  directly into
+       negentropy, and  negentropy can even be amplified.  Specifically,
+       the pumped phase conjugate mirror does exactly that.
+       ____________________________________________________________________
+                   Statistical Gravitons and Coupled Photons
+
+       Then consider  the Whittaker EM biwave structure of the potential
+       again, from the particle viewpoint.  The wave is made of photons,
+       and the  antiwave is  made of  antiphotons.   Since the  wave and
+       antiwave in  each set  are perfectly  correlated, so  must be the
+       photons/antiphotons.   The waves  are passing through each other,
+       so to  speak, in  the time  dimension only.   They  are perfectly
+       coordinated spatially.   Thus so are the photon/antiphoton pairs.
+       That is, the photons and antiphotons are continually coupling and
+       decoupling,  in   each  wave/antiwave   pair.     Since  all  the
+       wave/antiwave sets  are phase-locked,  then one  has the  unusual
+       feature that  this potential  in the local spacetime has formed a
+       spacetime  lattice,   perfectly  organized   both  spatially  and
+       temporally.   Further, when  a photon and antiphoton are coupled,
+       the resulting  system has  helicity-2.   This spin-2  entity is a
+       graviton.   However, it  is not  a hard  particle, because  it is
+       continually forming  and unforming.   Hence  it is  a statistical
+       graviton.     Occasionally,  more   than  two   photons   couple;
+       occasionally  the   coupling  opportunity  is  missed.    We  are
+       interested in  the average  coupling's spin  value; that  may  be
+       either  integral  or  fractional.    What  is  happening  in  the
+       Whittaker  spacetime  lattice  __  with  respect  to  the  photon
+       coupling and decoupling __ is that energy is oscillating back and
+       forth between  expression as  EM energy/order (photons decoupled)
+       and expression as gravitational energy/order (photons coupled).
+
+       The statistical  graviton process  is not  confined to helicity-2
+       gravitons, since  the spin-2  value just  represents the  average
+       coupling.   Spin-2 statistical  gravitons represent  or produce a
+       flat local  spacetime,  since  the  lattice  has  no  surplus  or
+       shortage of either photons or antiphotons.  Indeed, we may regard
+       the coupled  photons and  antiphotons as a special sort of "Dirac
+       sea," similar  to the  Dirac sea  of negative  energy  electrons.
+       Depending upon  the helicity, the spacetime may have an excess of
+       deficiency of  photons, in  which case  it is  said to be curved.
+       Also, it  can thus  serve as  a source  or a sink, depending upon
+       whether the hidden photon sea has a surplus or a deficiency.
+       ____________________________________________________________________
+                   Graviton Helicity and Spacetime Curvature
+
+       Note that  we are  often using  the term "photons" to mean either
+       photons or antiphotons.
+
+       If in the statistical graviton we increase the photon coupling to
+       __ say  __ 2.1  photons average,  then this provides gravitons of
+       spin 2.1.   In  this case the local spacetime is curved, since it
+       has an  excess EM  energy density,  as compared to normal ambient
+       vacuum.   It has  an excess of photons, so to speak, and can thus
+       serve as  a photon source (an EM energy source).  If the averaged
+       coupling is  1.9, say,  then the local spacetime is curved in the
+       opposite direction.   In  that case,  the vacuum  is deficient in
+       photons, and can act as a sink for EM energy.
+       ____________________________________________________________________
+              An Asymmetrical Vacuum Violates Local Conservation
+
+       In a  locally curved  spacetime, then,  one may  have  either  an
+       energy source  or an energy sink, depending upon how one makes or
+       engineers  this  local  vacuum/spacetime.    In  a  curved  local
+       spacetime, the  local vacuum/spacetime  interacts directly with a
+       system placed  there, and  it can  be designed  to produce either
+       extra energy  in the  system or absorb energy from the system.  A
+       curved local spacetime is a locally asymmetrical spacetime.  With
+       this violation  of symmetry, most of the conservation laws can be
+       broken locally.  One can readily have magnetic monopoles also, in
+       such a  locally curved  system. [10]  These violated laws include
+       conservation  of  energy,  electrical  charge,  magnetic  charge,
+       momentum, etc.   The  vacuum itself becomes an engine, to perform
+       work upon the system.
+       ____________________________________________________________________
+                 Using the Inner Hidden EM Order of Entropy
+
+       With the pumped phase conjugate mirror concept, you can decompose
+       negentropic EM  scattering stress energy (even heat) into ordered
+       bidirectional sets  of Whittaker waves, use these Whittaker waves
+       as  pump  waves  inputting  to  a  phase  conjugate  mirror(PCM),
+       "tickle" the  PCM with  a very small "signal" wave input, and get
+       out all  of the  entropic pump energy back in perfect order, as a
+       powerfully amplified  time-reversed phase conjugate replica (PCR)
+       of the little signal wave.
+
+       If you  look in  that fashion  at Tesla's  magnifying transmitter
+       that he  built on  Long Island,  you will  see that  he really is
+       treating the earth itself as a pumped phase conjugate mirror, and
+       he is  using his  transmitter to provide a stimulus wave into the
+       earth.   When things are done right (there's also one or two more
+       requirements),  when   so  stimulated  the  scalar  EM  potential
+       represented by  the heat  and  pressure  energy  of  the  earth's
+       interior will  partially organize  itself internally  as sets  of
+       Whittaker  pump  waves.    The  combination  of  these  Whittaker
+       bidirectional EM  waves and  the highly nonlinear material of the
+       earth  then  become  a  pumped  phase  conjugate  mirror  (PPCM).
+       Tesla's transmitter  is furnishing  the "stimulus"  wave to cause
+       internal Whittaker bidirectional self-ordering to occur (actually
+       through nonlinear harmonic and subharmonic resonance).
+
+       Now suppose  the earth has been "stimulated" in this fashion, and
+       has become a PPCM earth.  By standard, orthodox, nonlinear optics
+       theory, proved  by thousands  of experiments  and papers  in  the
+       literature, you  can then  input a  small "signal  wave"  from  a
+       distant transmitter  anywhere on  earth, at the distant locality,
+       and there  you will receive back from the PPCM earth an amplified
+       phase conjugate  replica (PCR)  wave, with  far more energy in it
+       than you  put in,  in your  signal wave.   So you can use Tesla's
+       approach to  directly organize  the enormous  heat  and  pressure
+       energy of  the  earth,  forming  them  (considered  as  a  scalar
+       potential) into  a giant  "standing Whittaker  pump wave"  in the
+       earth, and  tap that  Whittaker wave  anywhere else  in the world
+       that you  transmit in  another little signal wave.  In late April
+       to early  May of  1985, Frank  Golden detected  and measured  the
+       Soviets doing  precisely that,  on  27  pairs  of  EM  pump  wave
+       frequencies,  12   kilohertz  apart.   [11]    Almost  incredible
+       electrical power  was being  extracted from  the earth,  to power
+       enormous Soviet  directed energy  weapons as  part of the May Day
+       celebrations for  the 40th anniversary of the end of World War II
+       against the Nazis.
+       ____________________________________________________________________
+               Pumped Phase Conjugation as a Negentropic Process
+
+       In other words, you can defeat entropy disordering by this pumped
+       PCM means.  You do it by turning positive (scattering) (entropic)
+       energy of  the pump waves into negative (gathering) (negentropic)
+       energy of  the amplified  PCR wave.  Note that almost all of what
+       you were  taught about entropy assumes that all components of the
+       entropic system  are time-forward  components, and  that none  of
+       them are  time-reversed components.   It  would be  nice  if  the
+       leading thermodynamics  experts would do some real hard work with
+       Whittaker potentials,  internal EM  biwave structures  of  scalar
+       potentials,  PCMs,   pumped  PCMs,  and  time-reversed  waves  in
+       general, not  just at  optical frequencies,  and  not  just  with
+       obscure electro-optical devices.
+       ____________________________________________________________________
+                   Time Reversal and Correction of Disorder
+
+       Be sure  you  understand  Yariv's  statement  of  the  distortion
+       correction theorem.  [12]   The principle is awkwardly named, but
+       it contains the gist of engineerable negentropy.  Read it and say
+       it  over   and  over,   until  your  mind  grasps  its  fantastic
+       implications.   You can  easily make  a wave  that  will  restore
+       former order  after the  scattering of  that order.  Realize also
+       that the  time-reversed wave  is a  general solution  to the wave
+       equation.  Any kind of wave __ EM, sound, mechanical, whatever __
+       can be phase-conjugated/time-reversed in this manner.  In his New
+       York  lab,   Tesla  apparently  did  it  first,  with  mechanical
+       vibration waves,  before the turn of the century. [13]  His later
+       telegeodynamics  [14]   actually  envisioned  the  use  of  time-
+       reversed, laser-like  mechanical waves  that traveled through the
+       earth's crust  to a distant point.  He also understood the use of
+       two such  beams from separated separate transmitters, so that the
+       beams met  and crossed  at that distant point, to reproduce __ by
+       scalar interferometry  __ the  mechanical effects desired at that
+       point.  Whittaker's 1904 paper will show you that interference of
+       two such  scalar potentials  will indeed  produce ordinary  force
+       fields in  the interference zone.  You can fairly readily produce
+       force fields  at a  distance.   By calculation  of  the  form  of
+       potential needed,  you can  even produce  them in  the  geometric
+       patterns and  directions you  wish.  Ball lightning, e.g., is one
+       of   nature's   ways   of   using   distance-independent   scalar
+       interferometry to produce such stabilized geometrical forms of EM
+       energy.  Try finding any other laboratory-testable explanation of
+       ball  lightning   in  the   physics  and  electrical  engineering
+       curricula!
+       ____________________________________________________________________
+                    Whittaker and the Aharonov-Bohm Effect
+
+       You must  also understand  what the Aharonov-Bohm (AB) effect is.
+       Read carefully  the cited  AB 1959  paper. [15]   You  must  also
+       comprehend the  fact that  Whittaker's work  in 1903 and 1904 had
+       already anticipated  the AB  effect, and  drastically extended it
+       engineerably and  in  a  distance-independent  manner,  into  the
+       macroscopic world,  far beyond  the several thousand angstroms to
+       which it has now been laboriously proven by modern physicists.
+       ____________________________________________________________________
+                      A Basic Knowledge of Atomic Nuclei
+
+       You  need  to  know  a  little  something  about  atomic  nuclei,
+       isotopes, isomers,  etc.    A  variety  of  introductory  nuclear
+       physics or  nuclear engineering books have the necessary material
+       in a few chapters.
+       ____________________________________________________________________
+                    Vacuum Is a Plenum, Not an Emptiness
+
+       You need  to also  understand what  the vacuum  is.  My own later
+       work will  give you  an overall  grasp of  that, and  for  deeper
+       understanding you  can check cited references that appeal to you.
+       [16][17][18][19][20]     I  warn  you  that  we've  all  been  so
+       conditioned  to   think  of   the  vacuum  as  "nothing"  and  an
+       "emptiness," that  it takes some doing to overcome that deep-set,
+       unconscious bias in one's own thinking.
+       ____________________________________________________________________
+                The Major Physics Disciplines Are Inconsistent
+
+       You need  to be  aware  that  there  are  serious  conflicts  and
+       inconsistences    existing     between    general     relativity,
+       electromagnetics, and  quantum mechanics.  [21]   Physics is  not
+       unified, and  it is  not even  consistent.   No one, for example,
+       even knows  what a  photon really  is. [22]   It  is not  just  a
+       localized particle,  that much  is sure;  it's more  like a delta
+       appearing in the calculated constant of each frequency term in an
+       infinite Fourier  expansion series.  In fact we've got four major
+       photon models, all different, and we just plug in whichever model
+       has been  found to  give  the  right  answers  for  a  particular
+       application. [23]  As another example, the field concept is known
+       to be  fundamentally in  error, but  it  is  so  useful  that  it
+       continues to be widely utilized. [24]
+       ____________________________________________________________________
+                        Force Fields Versus Potentials
+
+       The conflict  between QM  and  EM  is  particularly  poignant  in
+       regards to  what causes  electromagnetic phenomena  in the  first
+       place.  [25]     In  classical  EM  theory  the  forcefields  are
+       considered the  primary causes,  and the potentials are just sort
+       of mathematical conveniences.  In quantum mechanics, however, you
+       have exactly  the contrary  view.   There, the potentials are the
+       primary causes,  and the  force  fields  are  secondary  effects,
+       created in the charged particle system itself by the interference
+       there of the potentials.  Vacuum is pure potential, nothing else.
+       [26]   The forcefields  do not even exist in the vacuum, but only
+       in  the  charged  particle   system  itself,   with   which   the
+       potentialized vacuum interacts.
+
+       You cannot  have the  classic EM  force field  in the  vacuum,  a
+       priori.   You can't  and don't have a force field except when you
+       introduce a charge into a potential gradient.  There's never been
+       an E-field  or a  B-field in  the vacuum as such; never has been,
+       and never will be.  The classical EM model is flat wrong on that.
+       Even Feynman  pointed out  in his  three volumes  of physics that
+       only the  potential for  the forcefield exists in the vacuum, not
+       the forcefield itself. [27]  You've got to understand this point.
+       The inclusion  of vacuum  forcefields  is  a  major  screw-up  in
+       classical EM  that prevents  real understanding  of the  vacuum's
+       potentialization and local interaction with physical systems.
+
+       Take the  definition of  an E-field:  E = F/q, where q is charged
+       mass.   If you  don't have  any charged  mass, you can't possibly
+       have any  force per  unit charged  mass, from  the  definition  a
+       priori.   Try an analogy where E is the number of fish per bucket
+       of water,  F is  the number  of fish in all the buckets of water,
+       and q  is the number of buckets of water.  If you have no buckets
+       of water  at all,  for example, you cannot possibly have any fish
+       per bucket of water, a priori.  If you have a lot of fish around,
+       but no buckets of water, however, you have the potential for fish
+       per bucket  of water,  should you  bring in some buckets of water
+       and couple the fish to them (put them in the buckets of water).
+       ____________________________________________________________________
+                         The Quantum Mechanical Vacuum
+
+       To understand  what is  in the vacuum, you need to appreciate the
+       quantum mechanical view of the vacuum.  In that view, spontaneous
+       creation and  annihilation of  particles occur  at an  incredible
+       rate.   Each particle is formed, then disappears, so quickly that
+       it cannot  be individually  observed.  But it is real while it is
+       existing, because in quantum field theory the exchange of virtual
+       particles generates  all the  forces of  nature.   We call such a
+       fleeting or  ghostly particle  a virtual particle.  Of particular
+       interest is  that enormous numbers of virtual photons continually
+       appear and  disappear in the vacuum.  The vacuum is thus a fiery,
+       seething cauldron  of incredible  EM energy, but the EM energy is
+       essentially disintegrated.   At any rate, electromagnetically the
+       quantum  mechanical   vacuum  to   first  order  consists  of  an
+       incredible flux of virtual photons. [28]
+
+       So to  be more  precise, in  the quantum mechanical vacuum you do
+       not have observable charged mass, but you do have virtual charged
+       mass.   So you can have a virtual E-field in the vacuum, which is
+       just a  potential gradient  without the  presence  of  observable
+       charged mass particles. [29]  Let's look a bit deeper:
+       ____________________________________________________________________
+                Detected EM Waves Are Electron Precession Waves
+
+       Because of  the spin  of the  electron/particle,  that  potential
+       gradient in  the vacuum __ that interacts, e.g., with an electron
+       in a  detector probe wire __ is actually oriented longitudinally,
+       at right  angles to  the present  notion of  a  transverse  wave.
+       Let's see why:  The conduction electron in the wire is relatively
+       constrained [30]  by all  the other conduction electrons ahead of
+       it pushing  back when  it tries to accelerate.  Being constrained
+       longitudinally  but  spinning,  it  acts  then  as  a  gyro,  and
+       precesses  laterally   (from  the  direction  of  the  disturbing
+       "force".   If a  vacuum potential gradient "virtual force" pushes
+       on that  spinning electron  gyro in  a wire  probe, the  spinning
+       electron must  move at  right angles  to  the  direction  of  the
+       virtual force, because its movement is mostly precession.
+
+       Conduction electrons  thus  don't  move  down  the  wire  at  the
+       "disturbing  force's"  signal  velocity;  instead,  they  precess
+       sideways, and  occasionally "slip"  forward down  the wire  a bit
+       during their  precession.   They thus "drift" along down the wire
+       at centimeters  per second  or so  __ not  even  approaching  the
+       signal velocity (i.e., the velocity of the change in potential as
+       the change  moves down  the wire).   The signal velocity down the
+       wire is  only slightly  less than  the speed  of light in vacuum,
+       which is  about 300,000,000  meters per  second.  [31][32]    The
+       lateral or  transverse EM  forcefield waves  we  measure  in  our
+       probes and  instruments __ and erroneously model in our theory as
+       existing in the vacuum __ are actually electron translation waves
+       in the  charged particle  system  (the  detector).    Since  that
+       translation is  precession, the  measured EM transverse waves are
+       actually electron  precession waves.  They are not at all what is
+       in the  vacuum.  Instead, they are what is in the electron gas in
+       the wires and circuits of our detectors and instruments.
+       ____________________________________________________________________
+                    EM Waves in the Vacuum Are Longitudinal
+
+       Since the  interacting/disturbing virtual  E-field (the  massless
+       potential gradient)  "force" in  the vacuum  must be  oriented at
+       right  angles   to  the   detected  precession  movement  of  the
+       electrons, then  the EM  waves in  vacuum are  actually "waves of
+       potential gradients"  and are  longitudinal.    It  appears  that
+       Nikola Tesla  was quite  correct on  this, you  see, and  all the
+       modern textbooks are quite wrong. [33]
+
+       So you  cannot have an observable E-field in the vacuum, contrary
+       to what  classical EM  theory and  your physics  text  prescribe,
+       because it  would require  the  presence  of  observable  charged
+       particles, none of which are there.  It would in fact require the
+       presence of  the mechanical  ether, a  notion that  was destroyed
+       before the turn of the last century.  You do have virtual charged
+       particles present  in  the  vacuum,  and  the  gradients  in  the
+       vacuum/virtual domain are longitudinal, not transverse.
+       ____________________________________________________________________
+                    Why Maxwell Assumed Transverse EM Waves
+
+       When Maxwell  wrote his theory, he used a mechanical model of the
+       ether. [34]   In  that model, thin but observable mass "fluid" is
+       assumed to  comprise and  fill the  vacuum.  Accordingly, Maxwell
+       assumed observable  forcefields and  transverse EM waves to exist
+       also, since  that is  what is measured in the electron gas in our
+       probes and  detectors.   The electron had not been predicted yet,
+       and electricity  was considered  to be  a thin material fluid, as
+       was the  "luminiferous ether."   Decades  later, the  notion of a
+       mechanical ether was destroyed experimentally, [35] but Maxwell's
+       mechanical-ether-based  EM   model  __   as  by  then  long-since
+       "interpreted" from  quaternions into  vectors, by  Heaviside  and
+       Gibbs __  was not  changed accordingly.  With respect to the form
+       of EM  waves in vacuum, the Heaviside/Gibbs vector interpretation
+       model has been in error a long time __ just as was its Maxwellian
+       quaternionic predecessor  __ and it's still in error, contrary to
+       what they taught you in your textbooks and classes.
+       ____________________________________________________________________
+                   There Is a Mechanism for the Flow of Time
+
+       Note in  passing that  the scattering interaction of the external
+       EM with  the electron shells of atoms primarily creates the basic
+       quantum changes that in turn create and control the nature of the
+       macroscopic flow  of time.  In other words, a quantum consists of
+       action, or  "energy times  time."  It carries not only a piece of
+       energy, but  also a piece of time. [36][37][38]  Keep that firmly
+       in mind for the following:
+
+       A photon is freed EM energy.  Its thing is to travel at the speed
+       of light.     Mass is  trapped EM  energy.   Its thing is to trap
+       photons and  sit there  and hold  them as  a densely  packed mass
+       potential.  (more on that later).
+
+       In the  ubiquitous photon  interaction  with  mass  __  continual
+       photon absorption  by matter  and photon  emission from it __ the
+       energy portion  in the  absorbed quantum (photon; free EM energy)
+       turns into  mass (trapped EM energy).  Simply divide the photon's
+       energy by  c-squared to  get the  amount of extra resulting mass.
+       However, absorption  of the  energy portion  of the photon leaves
+       its "time  portion" or "time tail" attached to the "excited" mass
+       that absorbed  the photon.   Thus  that (formerly)  mass __  that
+       absorbed the  energy portion  of the  photon __ is now "masstime"
+       and not mass.
+
+       Note that  mass does  not exist  in time.   Masstime  does.  Each
+       constituent particle  of the atom thus is alternately existing as
+       mass, masstime,  mass, masstime,  etc.   Or in  other words, it's
+       flipping between  atom, atom-time,  atom, atom-time, etc. states.
+       Think deeply  about that.    Things  don't  "flow  through  time"
+       continuously in  the manner  universally assumed.   To  the macro
+       observer, of  course, the flipping is so rapid that he cannot see
+       it.   So he sees the macro world as solid and continuous.  At the
+       micro level,  physical reality  is being created and annihilated,
+       quantum by quantum but at an incredible rate.
+
+       Shortly after  absorbing the  photon, photon  emission from  that
+       excited atom-time  occurs, and a bit of the atom-time's mass (the
+       trapped EM  energy) is reconverted back to a new energy part of a
+       photon (freed  EM  energy).    In  the  photon  freeing/formation
+       process, this  freed "photon  energy part" absorbs/joins the time
+       tail of  the atom-time  as part  of itself.  The emission of this
+       photon "tears  off and  carries away  the  time  tail"  from  the
+       mass/atom-time,  leaving   behind  mass/atom   again,   and   not
+       (mass/atom)-time.    So  a  mass  is  continually  changing  into
+       masstime, then  mass, then  masstime, then  mass, etc.   The mass
+       "moves through time" in little jumps, so to speak, at a very high
+       "jumping rate."
+
+       The result  is that the "time dimension" connected to the mass of
+       the observer  or instrument is not continuous, but discontinuous.
+       It's rather like a switch being repeatedly thrown back and forth,
+       between off and on states.  A mass's "passage through time" is in
+       that vein.  The "time dimension" is continually being created and
+       destroyed, for  each particle of mass in the observer/instrument,
+       by photon  interaction.  By the creation portion, things exist in
+       time, producing  causality and  a future  and a  past.    By  the
+       destruction portion, the future and the past are disconnected and
+       "lost."   That's why  you can look in a corner, and see the three
+       length (spatial)  dimensions, but try as you will, you cannot see
+       the time  dimension at right angles to them.  It doesn't exist as
+       a continuous  dimension; otherwise,  you could  see into the past
+       and into the future.
+
+       Play around  with multiple  masses and multiple time flows a bit,
+       and you'll  discover that  there are ways to "see into the future
+       and the  past," but's that's way beyond the scope of this present
+       discussion!   [Suffice it  to say that I know one physicist (PhD)
+       who has extensively experimented with that, and another scientist
+       who has  also experimented  with it,  but I  am not at liberty to
+       discuss the results.].
+       ____________________________________________________________________
+                    External and Internal Electromagnetics
+
+       But to  return.   To understand  scalar EM,  as we said, you must
+       understand that there are actually two kinds of electromagnetics.
+       One is __ so to speak __ only on the external "surface magnitude'
+       of the  vacuum potential, and the other is in the interior of the
+       vacuum potential.   The  exterior kind  is spatial in nature; the
+       interior kind is hyperspatial in nature.
+
+            (1) The  exterior kind  of  EM  is  caused  or  due  to  the
+            potential magnitudes  and their  gradients, interacting with
+            charged particles   (forcefields); that's the "normal" kind.
+            In that  kind the  theoretical EM  model's focus  is on  the
+            forcefields as  causes, with  the potentials themselves just
+            regarded  as  mathematical  conveniences.    Certainly  that
+            "normal" EM  does not  contain  any  sort  of  organized  EM
+            structure inside,  and composing,  the scalar  EM potential.
+            It just  models  the  scalar  potential  at  a  point  as  a
+            magnitude,  and  the  vector  potential  at  a  point  as  a
+            magnitude and  direction.   Notice it thus models only local
+            action; it  does not model any sort of action at a distance.
+            The  EM  action  is  considered  __  and  described  in  the
+            classical EM  model __  as existing  at a point in space and
+            time.  Further, the local spacetime itself is considered not
+            to have any direct causative EM interaction there.  In other
+            words, there are assumed to be no local vacuum engines __ no
+            Whittaker activation of mass or the local vacuum.
+
+            (2) There's  also an internal EM, normally completely inside
+            the scalar  potential, which  exists as  "infolded" harmonic
+            sets of EM antiparallel wave/antiwave pairs.  Whittaker 1903
+            describes that  kind  of  EM.    This  internal  EM  was  in
+            Maxwell's  original  quaternion  equations,  hidden  in  the
+            scalar  component   resultant   that   remained   when   the
+            directional components  of quaternions  interacted  to  form
+            directional zero resultants.  The scalar component resultant
+            of the interaction often still remained, and infolded inside
+            itself (i.e.,  it  then  consisted  of)  scalar  and  vector
+            functions  of   the  yet-present-and-interacting   component
+            vectors. [39]
+
+            Today that part of Maxwell's original theory just appears in
+            classical  EM   Heaviside/Gibbs  theory  as  a  vector  zero
+            resultant, which  is erroneously  discarded as  if it were a
+            complete absence  of EM.   It is no such thing; it is merely
+            the absence  of EM  translation of  charged particles.    It
+            indeed is  a patterned  EM-induced gravitational  stress  in
+            local spacetime,  and it is a little "vacuum engine" capable
+            of working  directly on  the atomic nucleus.  If you want to
+            know  what   all  the  fuss  about  the  difference  between
+            Maxwell's 200-odd  quaternion equations  EM theory  [40] and
+            the     Heaviside/Gibbs      four      vector      equations
+            curtailment/subset, just  look at  the difference  between a
+            zero  vector  result  and  a  quaternion  resultant,  in  an
+            interaction where  the vector  resultant  is  zero  but  the
+            scalar  component   of  the  quaternion  resultant  remains.
+            Specifically, look mathematically at the internal functional
+            nature of that remaining scalar resultant __ the part that's
+            thrown away in the present theory.
+
+            (3) Note  that the  internal EM is more than just a model of
+            conditions at a point.  In addition to that, it prescribes a
+            hyperspatial,  bidirectional  flow  of  EM  transverse  wave
+            energy at  the point,  into and out of it, into it from afar
+            and away  from it  back to  afar, on  an infinite  number of
+            phase-locked frequencies.   In  other words, the internal EM
+            energetically  connects   conditions   at   a   point   with
+            essentially all  the other points in the universe.  And when
+            we interfere  two such  scalar potentials,  we are  actually
+            interfering both  of those  sets of  an infinite  number  of
+            bidirectional EM  waves.   (See  Whittaker's  second  paper,
+            1904). [41]   It  doesn't matter where the interference zone
+            occurs; it  can be  a million  miles away,  or a  light-year
+            away.    The  interference  accomplishes  "outfolding,"  and
+            creates "normal" or "exterior" EM effects.  Specifically, it
+            creates force fields and patterns of them __ both static and
+            dynamic __  on charged  particle systems.   The  internal EM
+            thus  prescribes  and  models  action  at  a  distance,  and
+            incorporates the  "normal" exterior  EM as a special case of
+            local scalar  interferometry.   Whittaker rigorously  proved
+            this mathematically.
+       ____________________________________________________________________
+                   Zero-Translation-Vector-Resultant Systems
+
+       You must  also do  some thinking about the scalar envelope nature
+       of a  series of  finite, nonzero, interacting translation vectors
+       which result  in a  zero-vector resultant  for translation.  They
+       still form  an internally  active system, and their action cannot
+       be ignored if one is to grasp the total physics of the situation.
+       Not all  vector zeroes  are equal  __ it  is a serious fallacy of
+       vector analysis to equate them, and also to equate all of them as
+       "total absences." [42]  There's a great deal of difference in two
+       identical tanks,  one of  which is  truly empty, and one which is
+       filled  with   a  gas   under  enormous  pressure.    Neither  is
+       translating, but  which one  would you  prefer to cut into with a
+       cutting torch?   As  an example,  the  resultant  system  of  two
+       equally forceful  elephants pushing  fiercely against  each other
+       may not  translate, so  they will do no external translation work
+       on an  external system.   But  they do  struggle fiercely against
+       each other,  and put  a lot  of stress  in  there,  and  each  is
+       constantly working  furiously. The  system isn't  doing  external
+       translation work,  but it's  doing a  whale of  a lot of internal
+       work, of  one elephant  on the  other.  [That, after all, is what
+       internal stress  is __  it's a  condition of  internal work being
+       continually performed  on the parts of a system, without external
+       translation of the system.]
+       ____________________________________________________________________
+                 Internal EM Energy As Continual Internal Work
+
+       Now two  matched fleas pushing together would be the same sort of
+       "zero vector  translation" system  as the  system of  two matched
+       elephants.  But if one thinks that all vector zero resultants are
+       really equal, and really are the total absence of work and force,
+       just try  standing between  the elephants  and then  between  the
+       fleas, and  compare your  two  experiences.    I  think  you  can
+       immediately see  a great  difference in  the two systems!  I also
+       think you  can see that you really shouldn't neglect the internal
+       energy trapped  in that  zero-translation-vector  system.    Many
+       learned professors challenged with standing between two straining
+       elephants, to  test their notion that the zero vector system is a
+       "total absence  of force"  type of  zero  and  is  to  be  simply
+       discarded, just  don't seem  to see the humor in the issue posed.
+       Instead, they  are quite  apt to  become rather  furious  at  the
+       suggestion  of   putting  the  issue  to  such  a  practical  and
+       definitive test.   Ah,  me!   They really  will not  submit their
+       pronouncements to  scientific verification  or  validation  by  a
+       simple experiment!   [I  am particularly  fond of challenging the
+       ones who  call me  all the  dirty names,  to test it with the two
+       elephants.]
+
+       But in a physical system, you might ask, how can the system, just
+       sitting there doing nothing externally, be continually performing
+       internal work,  which requires  continual  scattering  of  energy
+       inside itself?   Simple.  All systems are open, driven systems __
+       driven by  the VPF  of vacuum.   Such a system, in equilibrium in
+       its  driving  flux  exchange  flows,  can  easily  be  constantly
+       performing  internal   work.     Again,  it's   like  sticking  a
+       paddlewheel in  a river,  without connecting any external load to
+       the shaft.   The  system will  just sit  there and continually do
+       internal work,  but it will not be doing any external translation
+       work.   Nontranslating systems  are just  "idling" systems, so to
+       speak, driven by the VPF exchange with the vacuum.  The vacuum is
+       driving everything, everywhere, anyway.
+       ____________________________________________________________________
+                       What Electrical Charge Really Is
+
+       Nowhere in  classical EM  does it tell you what electrical charge
+       is or  what causes  it.   For that question, you will have to dig
+       the answer  out of  quantum mechanics  and quantum  field theory.
+       Briefly, the  electrical charge  of a  mass is really its violent
+       exchange of virtual photons with the vacuum.  The charged mass of
+       the particle  is continually  absorbing virtual  photons from the
+       surrounding vacuum,  and re-emitting  them back  to  the  vacuum.
+       Actually, the  magnitude of  the electrical  charge is  simply  a
+       measure of  the volumetric  intensity of this virtual photon flux
+       (VPF) exchange.   Also,  it is  fixed only for a fixed vacuum VPF
+       intensity, in  which it  is embedded.   It's really discrete, not
+       quantized.  If you change the local vacuum VPF flux intensity (by
+       simply adding,  e.g., a positive or negative electrostatic scalar
+       potential), you  create a  "locally excited  vacuum," a  "locally
+       curved spacetime,"  and an  altered magnitude  of the charge on a
+       fundamental   charged    particle   located   in   that   excited
+       (potentialized) vacuum.   If  you want to get a Nobel prize, then
+       perform some experiments along this line, to demonstrate that the
+       electrical charge  of a  particle is discretized as a function of
+       local vacuum VPF intensity, but it is not quantized, and write it
+       up and publish it in a leading journal.  Of course if you do your
+       experiments in an unexcited (i.e., normal ambient) vacuum, you'll
+       get the  same answer  everyone  else  has  before  you.    Tesla,
+       however, certainly held a very different view, and considered the
+       electron as  having a  variable charge.  [43]  A lot of things in
+       your EE book were simply assumed, back there at the beginning.
+       ____________________________________________________________________
+             What Unorthodox Researchers Mean By "Free Energy"
+
+       Regarding your  present "free  energy is  impossible"  education,
+       don't believe  a lot  of what you were told.  If they didn't even
+       get the  definition of  energy correct __ and they didn't __ then
+       you might  suspect they really are not too sure just what kind of
+       energy is free for the taking and what kind is not.  Many of them
+       certainly don't seem to recognize that there's absolutely no such
+       thing as  a closed  system, anywhere in the universe.  Everything
+       is open  to a virtual particle flux exchange with the vacuum, and
+       every system  is driven  by that  flux and  its energy.   Indeed,
+       every system  is just  a complex order in equilibrium in that VPF
+       of vacuum,  with violent  input and  output continually.   All we
+       mean by  "free energy  device" is a device that incorporates some
+       sort of  "gating mechanism" to gate out a bit of that violent VPF
+       energy circulation  in and  out of  the system.   We just wish to
+       gate some  of the  vacuum energy  that runs  in to the nucleus __
+       catch it  there before it runs back out to the vacuum, and "gate"
+       it out  to the external circuit and the load before it is allowed
+       to scatter  and run  back permanently  to the  vacuum.   It's  no
+       different than  wishing to  put a  paddlewheel in a river, with a
+       sluice-box arrangement to divert some of the river's water to the
+       load (the  paddles) and  get shaft  power from the rushing water,
+       before the  water is  allowed to spill off the paddles and return
+       permanently back to the river.
+       ____________________________________________________________________
+            Local Energy Conservation Can Be Legitimately Violated
+
+       "Conservation of  energy" ruthlessly  depends upon time symmetry;
+       if    time     stress    is     made    asymmetrical    (as    in
+       potentialization/curvature  of  the  local  vacuum/spacetime  and
+       deliberately  altering   its  Whittaker  structure),  then  local
+       conservation of  energy is  violated, and  the local  vacuum will
+       serve as  a sink  or a  source, depending  upon  which  way  it's
+       potentialized.   You can  easily violate  local  conservation  of
+       energy by  curving local spacetime, if you understand Whittaker's
+       two papers.  [44]  He already shows you that, in the potential at
+       a point, you've got bidirectional EM wave flows of energy, in and
+       out, from  all the  rest of  the vacuum  in the  universe.   That
+       exchange of  the vacuum  is mostly  with the nucleus of the atom,
+       for that's  where most of the mass potential is.  If you "gate" a
+       little bit  of the  inflowing EM Whittaker wave energy out to the
+       external circuits of a device, you will extract and use EM energy
+       directly from the vacuum source.  As I showed in the Sweet vacuum
+       triode write-up,  there's at  least one  major way  of doing just
+       that sort of gating __ and the device proves it.
+       ____________________________________________________________________
+                   On Self-Powered Permanent Magnet Devices
+
+       And they told you a magnet won't turn itself, didn't they?  Well,
+       that's  not   always  true.    They  never  heard  of  a  kinetic
+       (activated) magnet, which by definition traps-in a special vacuum
+       engine function  to drive  it.  Floyd Sweet activates the magnets
+       in his  vacuum triode  by a  special proprietary  process,  after
+       which it can gate energy out of the vacuum into the external load
+       circuit.     Until  the  nuclei  are  activated  to  function  as
+       controlled vacuum  engines, the  device is  just an  inert, solid
+       state pattern  of materials,  and quite  useless as  a generator.
+       Also, check  the Einstein-de  Haas effect  for rigorous  proof of
+       additional considerations in a magnet other than magnetic forces.
+       [45]   In the  standard Einstein-de Haas experiment using a coil,
+       substitute the  linear field region between two permanent magnets
+       for the  coil's field  region, and you will see what I mean.  The
+       Einstein-de Haas  effect is  only a  little bitty white crow, but
+       it's quite sufficient to prove that not all crows are black.  But
+       what if you could make the crow grow?
+
+       Further, Howard Johnson goes after a self-powered permanent motor
+       in a slightly different fashion.  Imagine a "rotary wheel" motor,
+       where one  permanent bar  magnet is  used on the rotor and one on
+       the stator.   Suppose the stator magnet has its north pole facing
+       the rotor,  and the  rotor  magnet  has  its  south  pole  facing
+       outward.   As the rotor magnet's south pole approaches the stator
+       magnet's north pole, it is magnetically attracted and accelerates
+       toward  it,  producing  forceful  torque  and  shaft  horsepower.
+       During the  approach phase,  energy is  stored in the flywheel as
+       mechanical energy.   Now  just as  the magnetic south pole on the
+       rotor is  passing the  stator's  north  pole,  suppose  you  have
+       cleverly produced or "activated" a little region of time-reversal
+       on the  back side  of the  stator's "north"  pole.   In the time-
+       reversed region, the north pole of the stator functions precisely
+       as if it were a south pole, to an external observer (to the just-
+       departing rotor  south pole,  for example.).   Consequently,  the
+       rotor finds itself repelled on away from the stator, accelerating
+       yet again  in the  same rotational  direction as  before.    This
+       stores additional  energy in  the flywheel.   As can be seen, you
+       are now  in an  "over-unity" condition,  and  you  can  power  an
+       external load continually.
+
+       In a  real-world device,  you may  not get total time-reversal at
+       the backside  of the stator magnet's north pole, but only partial
+       time reversal.   So  to the  departing south  pole of  the  rotor
+       magnet, the  north pole backside of the stator magnet will appear
+       to be  a much-weakened  north pole.   It  will still extract back
+       some of the shaft energy previously stored in the flywheel during
+       the approach phase, but not all of it.  Hence the device is still
+       in an "over-unity" condition, and energy __ though not as much as
+       before __  can be  continually extracted  from  it  to  power  an
+       external load.
+
+       In both  cases, using  time-reversal we  have created a region of
+       local time  asymmetry, so  we can locally violate conservation of
+       energy.   In this fashion, you can legitimately build a permanent
+       magnet motor  that appears  to be  "self-powered."    The  entire
+       secret is  how you  achieve the  time asymmetry  in  the  exactly
+       needed place.   But  even with this over-unity condition, you are
+       not violating  overall conservation  of the  universe as a whole.
+       Remember, all  systems are  driven.   This self-powered permanent
+       magnet motor  is actually  extracting and  gating energy from the
+       local now-asymmetrical  flux exchange  of the atoms/nuclei of the
+       magnet material  with the  vacuum.   It's still a special sort of
+       paddlewheel in a special sort of river.  Time asymmetry, achieved
+       by using  a time-reversing  material and  process, furnishes  the
+       stream __ and standard techniques will furnish the "paddlewheel."
+
+       Remember the principle: Conservation of energy ruthlessly depends
+       upon  time   symmetry.    If  you're  going  to  locally  violate
+       conservation of  energy, you  must establish  and utilize a local
+       time asymmetry.   And  that can be done; at our present elemental
+       level of  knowledge of vacuum engineering, it's quite tricky, and
+       everything must  be precisely  so and  highly nonlinear __ but it
+       can be  done.   And it's  really no  more mystical than putting a
+       sluice-box arrangement in a flowing stream, diverting some of the
+       water to a waterwheel, and extracting shaft horsepower.
+
+       We emphasize,  however, that  you cannot,  cannot, cannot  make a
+       self-powered permanent  magnet motor  with "ordinary" magnets and
+       an "ordinary"  time-symmetrical vacuum,  no matter how strong the
+       magnets, or  what exotic  form you twist them into.  You can make
+       one with  activated magnets  and  an  extraordinary  asymmetrical
+       vacuum, which have locked-in time asymmetry regions.
+       ____________________________________________________________________
+                      Vacuum, Spacetime, Frame, and All That
+
+       You also  have to make the notion of "spacetime" less mysterious.
+       It's just  vacuum, by  the way,  and potential, and energy.  It's
+       also used  in two  different senses:   (1)  In  general,  when  a
+       specific frame  has not  been imposed  or selected,  and  (2)  in
+       specific, when a specific frame has been imposed and selected.
+
+       When the  specific frame  is imposed, you've already assumed that
+       you know  the conditions and ordering of the vacuum for the whole
+       universe, that  the distance  between every  two points  (and the
+       time between  them) has  been rigorously  measured and determined
+       and fixed, etc.  You've already assumed the fundamental operation
+       of the  entire universe,  its physics,  everything!  So beware of
+       thinking just in a fixed frame.  In that sort of thinking, you've
+       got a  lot of  built-in, sweeping,  global assumptions  that will
+       elude your  recognition unless  you're careful.   Many scientists
+       don't realize  this.  They think in one frame at a time, and then
+       make  grand   pronouncements  about  the  entire  nature  of  the
+       universe, not  realizing that  they already assumed those answers
+       in the first place.
+
+       So  watch   out  for  the  trap  of  assuming  that  "space"  and
+       "spacetime" and  "vacuum" are  all synonymous  with  "frame"  and
+       "spacetime frame."   They're not.  Vacuum per se doesn't have any
+       fixed length  and time;  the observer's  mass reaction  with  the
+       vacuum potential determines and makes those quantities.
+       ____________________________________________________________________
+                The Speed of Light Is Not a Universal Constant
+
+       The speed  of light  in vacuum  is also not a universal constant.
+       [46]   Sorry about that.  The speed of light in a given, specific
+       vacuum of specific potential magnitude is constant.  Note that to
+       first order the vacuum is just electrostatic scalar potential and
+       therefore just virtual photon flux.  The intensity of VPF flux is
+       the electrical charge density.  So the speed of light in a given,
+       specific vacuum  of specific  electrical charge is constant.  But
+       if you  change the  vacuum's ambient electrical charge density __
+       i.e., change  the value  of that  vacuum potential's magnitude __
+       you can make light passing through go faster or slower, depending
+       upon  whether  you  decreased  or  increased  the  vacuum  charge
+       density. [47]
+
+       In fact,  you can  make local time go much faster or much slower,
+       if  you   take  the  time  to  substantially  activate  the  mass
+       potential, because  the VPF  exchange  between  vacuum  and  mass
+       (nucleus) is  far greater in the mass potential than in any other
+       kind  of  potential.    I  was  once  involved  in  an  unplanned
+       experiment where,  after several hours of Frank Golden's charging
+       the area  with two  powerful scalar EM wave generators, we messed
+       up all  the clocks in the area __ grandfather mechanical pendulum
+       clocks, electric watches and clocks, mechanical windup clocks and
+       watches,  battery-operated   clocks,  everything  __  because  we
+       altered the  ambient "mass potential" of the area.  We charged up
+       or activated  all the  local mass, and in doing so we made a zone
+       in which  time flowed  at a  somewhat different rate.  There were
+       other phenomena  which I  am not  at  liberty  to  discuss.    It
+       required four days for the activation to discharge, and things to
+       return to normal.
+       ____________________________________________________________________
+                  The Multiple Nature of "the" Ambient Vacuum
+
+       Another problem  is  that  "the"  ambient  laboratory  vacuum  we
+       normally have  or consider  is really  jillions and  jillions  of
+       vacua,  simultaneously,   in  interference   with   each   other.
+       Spacetime, to  the first  order you  see, is  just  electrostatic
+       scalar potential.   (It's  just scalar  potential, to  nth order,
+       without restriction  to  considering  just  virtual  photons  and
+       electromagnetics.).     Since  that  potential  isn't  adequately
+       defined in  physics or  EE either,  I'm sending  some papers with
+       proper definitions.
+
+       Actually, scalar  potentials (Vacua!   Spacetimes!)  from charged
+       particles __ both static and dynamic __ all over the universe are
+       continually  interfering  in  each  differential  volume  of  the
+       observer's spacetime.   Whittaker's  first paper tells us how the
+       hidden EM energy flows between any point and every other point in
+       the universe, right through each of these potentials from distant
+       sources.  By Whittaker's 2nd paper (1904), the local interference
+       of  these   potentials  generates   continual  scalar   potential
+       gradients __  EM forcefields,  if you  will,  when  you  stick  a
+       measuring charge  in the  gradient to  provide observable charged
+       particle translation [which is what the E-field, e.g., is defined
+       in terms  of].   The rapidity  of the  interfering changes in the
+       local vacuum  potentials is  phenomenal, but  the interference is
+       totally deterministic.  However, all the fine-grained information
+       is totally  lost to  the observer.  Hence it appears to him to be
+       statistical.
+       ____________________________________________________________________
+                      Generation of Zero-Point EM Fluctuations
+
+       Note that,  in the differential of local spacetime vacuum that we
+       are examining,  "the"  vacuum/potential  is  actually  incredible
+       numbers of  dynamically changing vacua/potentials, all in violent
+       interferometry a  la Whittaker's  second paper.   In other words,
+       "the" ambient  vacuum is  really not  just "a" single vacuum, but
+       many,  many,   many  dynamic  vacua  all  at  once,  and  all  in
+       interference.   By Whittaker  1904, their interference (as scalar
+       potentials) is  what deterministically  produces the local highly
+       noisy virtual  EM field  gradients __ the zero-point EM energy of
+       the quantum mechanical vacuum.
+       ____________________________________________________________________
+                   Puthoff's Cosmological Feedback Principle
+
+       Puthoff  referred   to  this  vacuum  situation  of  individually
+       deterministic but  conglomerated statistical local EM fluctuation
+       effects, from  the potential  energies  of  the  distant  charged
+       particles of  the universe, as a cosmological feedback principle.
+       You should  also read  Puthoff's articles, as cited in my papers,
+       and perhaps  some of  his references  dealing with  the exploding
+       field of  stochastic electrodynamics  (SED).   The  only  present
+       problem  with   SED  is  that  its  practitioners  have  not  yet
+       discovered Whittaker's  two papers (1903 and 1904), and therefore
+       do   not   incorporate   nature's   highly   organized   internal
+       electromagnetics.
+       ____________________________________________________________________
+                 Adding a Potential to "the" Vacuum Potential
+
+       When   you    make   "a"   potential,   you   make   "a   single"
+       spacetime/vacuum.   That's sitting  on  top  of  (adding  to  the
+       magnitude of), or lowered into (decreasing the magnitude of), the
+       conglomerated "ambient  vacuum potential"  that  is  the  "normal
+       vacuum."   That  added  scalar  EM  potential  is  a  beautifully
+       organized,  EM,  spatiotemporal  lattice,  per  Whittaker's  1903
+       paper.   It's filled  with  organized,  phase-locked,  EM  energy
+       waves; it  is not  a random mishmash at all.  You must understand
+       that.   You can organize and engineer local spacetime itself, and
+       even do it at a distance.
+       ____________________________________________________________________
+              Solution to the Missing Chaos of Quantum Mechanics
+
+       In fact,  when you  add a potential to the ambient vacuum (to the
+       ambient vacuum  potential), you  add something  that is perfectly
+       ordered to  the statistical "ambient vacua."  Thus you have added
+       hidden order into the local statistics.  That's the missing chaos
+       in quantum  mechanics __  the hidden  order that  everyone's been
+       desperately looking for.
+       ____________________________________________________________________
+                             Spacetime Is Energy
+
+       At any  rate, the ambient vacuum is "spacetime," and is (to first
+       order) a  conglomerated scalar  EM potential, of very high value.
+       Please read  that statement  again.  Then read the definitions of
+       energy, scalar  potential, and  electrostatic  scalar  potential,
+       that we  have included  in a footnote to this paper.  Notice that
+       vacuum/spacetime is  pure energy  __ and  to first order, pure EM
+       energy.   So we  are like  a bird  on an electrical high line; we
+       live directly  in an  extremely high  potential,  but  not  in  a
+       potential gradient.   That's  a flat  spacetime; it  has the same
+       ambient "potential"  magnitude everywhere.   If  you  change  the
+       ambient potential  of the local vacuum from point to point in the
+       neighborhood, that's  a  curved  local  spacetime.    Imagine  ST
+       curvature as  a change  in the  "virtual ambient pressure" of the
+       local vacuum.   That  "ambient  pressure"  can  be  increased  or
+       decreased, hence  the two "curvatures."  Simple as that.  You can
+       curve it in two ways: (1) increase the local ambient value of the
+       vacuum potential,  or (2) decrease the local ambient value of the
+       vacuum potential.   So  local ST  curvature really  isn't any big
+       deal.  And you can do it on the lab bench.
+       ____________________________________________________________________
+                 Trapped EM Energy Is Gravitational Potential
+
+       As is  well-known in general relativity, it is the trapped energy
+       in mass  that is  responsible for  its  exhibiting  gravitational
+       attraction.  Again, Einstein's E = mc(exp2) is a prescription for
+       the amount of electromagnetic energy that is trapped in a mass m.
+       An electrostatic scalar potential is just one where the EM energy
+       is trapped  (see the first Whittaker paper, 1903, for the EM wave
+       form  in  which  it  is  trapped).    So  if  trapped  energy  is
+       gravitational in  mass, it  is gravitational  in the potential as
+       well.   In GR,  all potentials  are therefore  gravitational.  In
+       fact, there  is no  such separate  thing as  "the"  gravitational
+       potential; "the" G-potential is made from a conglomerate of other
+       fields/field effects,  which is  Sakharov's hypothesis  [48].  To
+       first order,  the G-potential  is a function of the trapped local
+       EM energy density of the vacuum.
+       ____________________________________________________________________
+                  The Quantum Potential: Action At a Distance
+
+       You must also at least get acquainted with the quantum potential,
+       and its  place in  hidden variable quantum mechanics theory.  The
+       quantum potential  (QP) is  a potential added to the Schroedinger
+       potential.   It  provides  an  instantaneous  connection  between
+       separated components,  even over great distances.  The QP appears
+       to have  no point  source, in  sharp contrast  to  the  classical
+       potential.   The QP field is not radiated in the classical sense.
+       In general  the QP  between two particles (or two components of a
+       system exhibiting  a macroscopic QP) does not produce a vanishing
+       interaction  between  the  particles  (or  components)  as  their
+       spatial separation  becomes very  large.    The  QP  contains  an
+       instantaneous connection  between  separated  components  of  the
+       system, rather  than the  retarded  connection  provided  by  the
+       classical potential.   Thus  with  a  QP,  two  widely  separated
+       components of  a physical  system may  be strongly  and  directly
+       connected.   The QP  of a  system depends on the quantum state of
+       the system as a whole, even when its parts are greatly separated.
+       In  the   case  of  a  QP  established  by  separated  electronic
+       equipments, the  QP depends on the "structured graviton" state of
+       all the  radiative components,  circuits, devices,  transmitters,
+       etc. [49][50]
+       ____________________________________________________________________
+          As Trapped EM Energy, Mass Is a Special Scalar EM Potential
+
+       Since (see definitions in the footnotes to this paper) trapped EM
+       energy is  also a  scalar EM  potential, then it follows that the
+       mass (of  the nucleus  or a fundamental particle) can be regarded
+       as, and  is, a  special kind  of very,  very  intense  scalar  EM
+       potential.   I call  it the  mass potential  to differentiate  it
+       because of  its  fantastic  strength.    Not  only  is  the  mass
+       potential a  scalar EM  potential, but it is also a gravitational
+       potential.   Note that  the concept  of the  mass potential  is a
+       unifying field concept, for unifying gravity and EM fields.
+
+       The beauty  of the  mass potential  concept is fourfold: (1)  Now
+       mass has  a universal  kind of  organized EM  internal structure,
+       given by  Whittaker's 1903  paper, that comprises the mass in the
+       first place,  (2) the  hidden internal  EM structure  of the mass
+       potential   can    be   changed    and   engineered    at   will,
+       electromagnetically, by  external means  and directly, (3) we now
+       have direct  electrogravitation, opening up the vista of directly
+       engineering antigravity  (as Sweet  has  already  proven  in  his
+       vacuum triode device) [51], and (4) the internal structure of the
+       nuclear  mass   potential  can   be  deliberately  altered  in  a
+       nonequilibrium manner  vis a  vis its  virtual photon  flux (VPF)
+       exchange with  its local  vacuum, as  can be the VPF of the local
+       vacuum itself.   In  that case,  you have  created a local vacuum
+       engine in  the altered  Whittaker vacuum/potential,  and you have
+       also created  an activated  interacting  engine  of  the  altered
+       atomic nucleus  (its mass  potential), fed  by vacuum energy, and
+       gating the energy out of the atom to do marvelous things __ to do
+       whatever you've  been clever  enough to  design it  to do  in the
+       first  place!    You  can  transmute  elements,  materialize  and
+       dematerialize matter,  alter and  change a  radioactive nucleus's
+       energy balance and characteristics so that it is inert, etc.
+       ____________________________________________________________________
+                   Gravitational Energy Is Negative Energy
+
+       Finally, you  must be aware that gravitational energy is negative
+       energy, since  it is  "withdrawn" from  the EM  scattering energy
+       domain, and scattering EM energy has been designated as positive.
+       You can  understand that  G-energy is  negative, in this fashion,
+       after Nahin  [52]:   If two  like electrical  charges are brought
+       together, energy  is required to overcome the repulsion, and this
+       energy "goes into the field" to give a positive energy density of
+       space.   Two positive  masses, however,  attract each  other;  it
+       takes the exertion of energy to keep them apart.  In other words,
+       the field energy is negative in this case. [53]  Maxwell was much
+       perplexed by  this problem,  as was Heaviside __ and as have been
+       many other physicists.
+       ____________________________________________________________________
+                     Engineering Physical Reality Itself
+
+       In summary  of this  scalar EM  approach, there  are literally no
+       limits that  cannot be  overcome.   It just  requires us  to  now
+       explore and  develop the  phenomenology, advance  the theory  and
+       approach, learn  how to  design and  implement what  we wish  the
+       activated mass  and activated  vacuum to  do, etc.  We can change
+       the so-called  "laws of  nature" in  an area  __ or  even for the
+       whole earth  __ as  we wish,  using this  approach.   It  doesn't
+       matter whether  we're ready  for it  or not;  the Creator has now
+       laid in  our hands  the power  to  alter  and  engineer  physical
+       reality itself, as we may wish.
+       ____________________________________________________________________
+                             Nonlinear Oscillation
+
+       One also  needs to  be aware of nonlinear oscillator theory. [54]
+       One  will  encounter  in  scalar  EM  the  effects  of  nonlinear
+       oscillation,  including  harmonic  and  subharmonic  oscillation,
+       self-oscillation, etc.   The  organized graviton  structure of  a
+       scalar potential is organized (and in fact phase-locked) in terms
+       of both harmonic and subharmonic oscillation.
+       ____________________________________________________________________
+                    Mind and Matter and Their Interaction
+
+       Without further  amplification, we  will also  state  that  mind,
+       matter,  thought,  and  the  deepest  living  biological  control
+       functions also  utilize the  Whittaker internal electromagnetics,
+       and have  done so  since the  beginning.   We now  know where the
+       software is,  how it is filed, and how to go about engineering it
+       directly.   We have  already advanced  the precise  mechanism for
+       Sheldrake's morphogenetic field, and explained how it generates a
+       change in  a species in a complete evolutionary "jump."  We state
+       without further  elaboration that  specific, testable  mechanisms
+       for parapsychology  can also  be extracted  from  the  scalar  EM
+       approach.  What is involved here is not only a unification of the
+       branches of  physics, but  also  a  unification  of  physics  and
+       metaphysics.
+       ____________________________________________________________________
+                Biological Effects of EM Fields and Radiation
+
+       As is  well-known, the  question of  whether or not EM fields and
+       radiation may contribute to incidences of leukemia, brain tumors,
+       and other health changes is unresolved.  Four decades of the best
+       technical efforts  of many  able researchers,  together with  the
+       entire body  of experimental  data they  have gathered,  has been
+       unable to  technically and  decisively resolve  the issue.    The
+       studies and  experiments have  continued to  be contradictory and
+       inconsistent, and  replication of  results has  continued  to  be
+       difficult and  often impossible.   What  the experimental results
+       actually show  is that  there are  uncontrolled  and  unknown  EM
+       variables in  the experiments,  hence in  the experimental  model
+       being applied  __ either  consciously or  unconsciously __ by the
+       experimenters.
+
+       The  standard   experimental  model   (SEM)  that   EM/bioeffects
+       researchers apply,  either wittingly or unwittingly, rests on two
+       major postulates,  that: (1)  the present  theoretical  model  of
+       electromagnetics is  correct  and  complete,  and  sufficient  to
+       characterize both  the EM  stimulus to  the biological system and
+       the causative mechanism for biological effects, and (2) the gross
+       EM dosage/response  model __  energy  deposition,  or  "heat"  by
+       another  name   __  used   in  the   measurement  instrumentation
+       adequately characterizes  EM stimulus/bioresponse,  for measuring
+       and interpreting the factors and results of the experiments.
+
+       Both fundamental  postulates are  seriously  in  error,  and  the
+       standard  experimental  model  is  therefore  seriously  invalid.
+       Using the SEM by rote for four and a half decades has resulted in
+       the present  state of  confusion, inconclusiveness, conflict, and
+       indeterminacy in  the field.   Mostly what the experimenters have
+       really shown to date is that: (1) their own experimental model is
+       hopelessly flawed, (2) their instruments and instrumental methods
+       are inadequate,  and (3)  the classical  EM theoretical  model is
+       inadequate for their experimental tasks.
+
+       Living systems  have long  used the internal EM Whittaker channel
+       for deep  cellular control of the organism.  By manipulating this
+       channel, Kaznacheyev  [55] showed  EM induction of cellular death
+       and disease  into environmentally  protected cell  cultures. [56]
+       Priore [57]  demonstrated __  under rigorous  scientific controls
+       [58] __  absolute cures  of  terminal  tumors  and  leukemias  in
+       laboratory  animals.    Popp  [59]  also  discovered  the  master
+       cellular control  system, including  its virtual  photon  storage
+       characteristics,  without   knowing  of  the  internal  Whittaker
+       storage channel and mechanism.
+
+       Quantum mechanically  it has  been known  since 1959  that the EM
+       potentials are  the primary  causes of electromagnetic phenomena,
+       [60] and  the force  fields  are  only  secondary  __  the  exact
+       opposite of  what has  been assumed  in the  classical EM  theory
+       utilized by  present  experimenters  in  the  SEM.    Whittaker's
+       fundamental decomposition  of the  scalar EM  potential  into  an
+       internal harmonic  set of  paired bidirectional  planar EM  waves
+       provides  a   rich  set   of  experimentally   and  theoretically
+       unaccounted and  uncontrolled hidden EM variables involved in all
+       EM bioeffects experiments to date.  The scalar EM potential is an
+       organized spacetime  lattice  of  perfectly  ordered  EM  energy,
+       passing through it in a Whittaker wave structure.  Living systems
+       alter this  internal EM Whittaker channel (this spacetime lattice
+       structure)  and   communicate  through   it  for  mind,  thought,
+       personality, long-term  memory, and  deep control of cellular and
+       body functions.   All  the deepest biological control systems are
+       in  the   Whittaker  channel.   To  understand   environmental-EM
+       bioeffects, you've  got to understand how the local environmental
+       EM (both  internal and external) affects and alters the Whittaker
+       channel, and hence the deep biocontrol systems utilizing it.
+
+       These hidden  Whittaker EM  variables are  real; that is testable
+       and unassailable.    The  unknown  Whittaker  EM  variables  also
+       account for most if not all the serious deficiencies and problems
+       of the  entire experimental field to date.  Scalar interferometry
+       of Whittaker  potentials alone,  e.g., can  reproduce any kind of
+       normal EM,  [61] and  the potentials  can pass deep into the body
+       before  that   interference  occurs.     So  Whittaker  potential
+       interferometry can produce much deeper EM fields in the body than
+       present field  theory and  dosimetry would indicate.  Even worse,
+       the Whittaker  potentials interact  in the nuclear mass potential
+       of the  body __  and that  is where the signals and functions for
+       deep cellular  control, immune  system control, etc. are located.
+       Interfering EM  signals (multiphoton  effects)  in  the  external
+       environment create  sporadic Whittaker  potentials, with  "noisy"
+       and  often  abnormally  strong  EM  hidden  variable  structures.
+       Repetitious noise  patterns in  the Whittaker  channel  gradually
+       "activate" or  "charge up" the Whittaker channel of the organism.
+       Thus a sort of long-term "electronic jamming" of the deep control
+       systems of  the body  can result.   Gradual  degradation  of  the
+       immune system  and of  the cellular  control system  can  result.
+       Thus there  does exist  a  mechanism  for  long-term,  cumulative
+       damage to  the biological  system..  The basic probability of the
+       multiphoton mechanism  occurring for long-term effects cumulation
+       and slow  bio-degradation is  primarily a  function of the signal
+       density in  the specific  environment, regardless  of  individual
+       signal strength  or frequency.   This "electronic smog" effect is
+       presently unknown  in biophysics,  and it  has not been accounted
+       for at  all in  the present  experiments and  studies in  the  EM
+       bioeffects field.   Long-term presence of specific multifrequency
+       mixtures then  can produce more specific short-term, medium-term,
+       and long-term  effects, in  addition to  the general  degradation
+       cumulating from sheer local environmental signal densities.
+
+       Submitted for  consideration to a major 1992 scientific symposium
+       is a  paper pointing  out the  fundamental difficulties  with the
+       standard experimental  model, and  the exact  Whittaker nature of
+       the uncontrolled  hidden variables  responsible for negating over
+       four decades  of painstaking  scientific experiments.   Also  the
+       paper points  out the  precise things  that have  to be  done  to
+       correct the  SEM, the  instrumentation, and  the  EM  theoretical
+       model, so  that future  experiments will be decisive, consistent,
+       and replicable.
+
+       If the  paper is accepted, then in August 1992 we will place into
+       the scientific  literature precisely  what is  wrong with  the EM
+       bioeffects field  to date, and will attempt to correct the entire
+       field by  stimulating it  to account for and measure the internal
+       EM  Whittaker   variables   that   are   presently   hidden   and
+       uncontrolled.   With such  correction, hopefully we can avoid yet
+       another   four    decades   of    indeterminate,    inconclusive,
+       inconsistent, and  contradictory experimental  effort,  and  also
+       remove much of the present researcher frustration.
+       ____________________________________________________________________
+            Aristotelian Logic and Excessive Worship of Mathematics
+
+       One will  also  desperately  need  to  change  one's  mindset  on
+       Aristotelian logic __ which nature often violates __ and one must
+       get  rid   of  the   false  notion   that  "mathematics  contains
+       fundamental truth,  a priori."   Mathematics is just a game and a
+       model __  though a  very, very useful one __ based on assumptions
+       (postulates) which  we ourselves  formulate and  build-in to  it.
+       The only real "truth content" of the mathematics is judged by the
+       validity of  the postulates.   Mathematics  is no better or worse
+       than the  concepts assumed as its basis.  If there's any truth in
+       it, it's  only what  we ourselves  have put  into it.  That's the
+       reason for  the experimental  method in  science; the  only way a
+       theory  can   be  falsified   or  validated  is  by  experimental
+       examination and test.
+
+       So get  rid of  the artificial mystique of "mathematics is truth,
+       and the  purest activity  of the  human mind."   That's dogma and
+       religion, not  science.   It is a must to read Morris Kline. [62]
+       Also read  about G. Spencer Brown's extension of logic to include
+       complex numbers.  [63]    Then read my own fundamental correction
+       to Aristotelian  logic  by  addition  of  a  fourth  law  and  an
+       applications rule. [64]  With this background, one should be free
+       from the  "Aristotelian trap"  and the  unwarranted  "worship  of
+       mathematics" trap.  We need the mathematics as a useful tool; but
+       we  must   not  think  that  to  be  highly  mathematical  is  to
+       necessarily have  an advanced  grip on  the truth.    In  physics
+       today, too  often one  loses the real physics because of the over
+       attachment to the beauty of the mathematics.
+
+       The physics  of a  theory is embodied in the fundamental concepts
+       associated with the mathematical symbols, not in the mathematical
+       manipulation  of  those  symbols.    The  mathematics  isn't  the
+       physics; the math is just the manipulation of the physics.  Don't
+       confuse the  fundamental physics of a theory with the mathematics
+       of the  theory. The  mathematics can  be great,  and the  physics
+       still quite wrong.
+       ____________________________________________________________________
+                         Background For a New Paradigm
+
+       The above  "blast" should  give you  a feel  for my work, and the
+       background for  the area.   In your normal studies, you will also
+       get a course in special relativity, certainly by the time you get
+       your master's  degree.   If you  major in  physics, you will also
+       take one  or more courses in general relativity in the curriculum
+       for the doctorate.  For either the master's or doctorate degrees,
+       you will  probably have  at  least  one  introductory  course  in
+       quantum mechanics,  or perhaps more.  That's quite sufficient for
+       understanding in  this area and working in it.  To assist a shift
+       in mindset,  however, one  also needs  to read __ particularly at
+       the beginning  __ a  lot of  popularized Scientific American type
+       articles on  quantum mechanics,  the vacuum, zero-point energy of
+       vacuum, etc.  Also read the popularized books by Heinz Pagels and
+       Nick Herbert's  Quantum Reality.  Read them at least two or three
+       times.  Read Paul Davies' books; even though popularized, he is a
+       master craftsman, and able to clearly state the gist of the broad
+       array of  present physics.   In all of your reading, it's just as
+       important to notice what is wrong, awkward, assumed, or imperfect
+       as it  is to notice what is known correctly.  If you haven't read
+       a good  book on foundations of physics, at least read Lindsay and
+       Margenau. [65]
+       ____________________________________________________________________
+                                Personals
+
+       As far as your career plans, it would be best to either seek your
+       Doctorate in  EE as you plan to, with a minor in physics, or else
+       major in physics with a minor in something else such as EE.  Just
+       keep your  mind open and not brainwashed, in either case.  If you
+       stay open-minded,  most of  your learning is going to occur after
+       your doctorate anyway.
+
+       Thanks for  your interest, and the best of luck to you.  And yes,
+       more and more youngsters,   grad  students,  post-docs,  and even
+       a few  senior professors are turning to this scalar potential EM,
+       and I'm  absolutely delighted.   As  they  digest  the  Whittaker
+       papers and  the other papers, gradually they'll start to work and
+       change physics.   That's  the only  way we're  going to get a new
+       science.  As Max Planck pointed out, essentially the only way you
+       get a  new physics  is when  the old  physicists who so adamantly
+       oppose and  block it  die off.   The future will be determined by
+       the young.
+       ____________________________________________________________________
+                             NOTES AND REFERENCES
+
+       1.   E.g., T.  E. Bearden  and Walter  Rosenthal, "On  a testable
+            unification of  electromagnetics,  general  relativity,  and
+            quantum mechanics,  Proceedings  of  the  26th  Intersociety
+            Energy Conversion  Engineering Conference  (IECEC '91), Aug.
+            4-9, 1991, Boston, Massachusetts, p. 487-492.
+
+       2.   E.g., Floyd  Sweet and  T.  E.  Bearden,  "Utilizing  scalar
+            electromagnetics to  tap vacuum  energy," Proceedings of the
+            26th Intersociety  Energy Conversion  Engineering Conference
+            (IECEC '91),  Aug. 4-9, 1991, Boston, Massachusetts, p. 370-
+            375.
+
+       3.   E. T.  Whittaker, "On  the partial differential equations of
+            mathematical physics," Mathematische Annalen, Vol. 57, 1903,
+            p. 333-355.   In this paper Whittaker proved that all scalar
+            EM potentials  have an internal, organized, bidirectional EM
+            plane-wave structure.  Thus there exists an electromagnetics
+            that is  totally internal to the scalar EM potential.  Since
+            vacuum/spacetime is  scalar potential, then this internal EM
+            is  in   fact  "internal"   to   the   local   potentialized
+            vacuum/spacetime.    For  discovery  of  the  Whittaker-type
+            structure in  sonic potentials,  see Richard  W. Ziolkowski,
+            "Localized transmission  of wave  energy," Proc.  SPIE  Vol.
+            1061, Microwave  and  Particle  Beam  Sources  and  Directed
+            Energy Concepts,  Jan. 1989,  p. 396-397.   For a mention of
+            this same  type of bidirectional EM wave Whittaker structure
+            in the  potential connected  with the Schroedinger equation,
+            see  V.K.   Ignatovich,  "The   remarkable  capabilities  of
+            recursive relations,"  American Journal  of Physics, 57(10),
+            Oct. 1989,  p. 873-878.   So  far, American  physicists have
+            shown by  their nonreaction  to Ignatovich's paper that they
+            have not  yet  realized  that  this  is  a  methodology  for
+            directly engineering  quantum  change,  and  hence  physical
+            reality itself.
+
+       4.   E. T.  Whittaker, "On  an expression  of the electromagnetic
+            field due  to electrons  by means  of two  scalar  potential
+            functions," Proceedings  of the London Mathematical Society,
+            Series 2, Vol. 1, 1904, p. 367-372.  In this paper Whittaker
+            showed  that  all  the  classical  electromagnetics  can  be
+            replaced by  scalar potential  interferometry.  This ignored
+            paper anticipated the Aharonov-Bohm (AB) effect by 55 years,
+            and drastically  extended it as well.  Indeed, it prescribes
+            a  macroscopic   AB  effect  that  is  distance-independent,
+            providing a direct and engineerable mechanism for action-at-
+            a-distance.   It also  provides a  testable  hidden-variable
+            theory that predicts drastically new and novel effects.
+
+       5.   See Carl  Barus, "A  curious inversion in the wave mechanism
+            of the electromagnetic theory of light," American Journal of
+            Science, Vol.  5, Fourth Series, May 1898, p. 343-348.  Even
+            though Barus  actually discovered  the  "backward-traveling"
+            Maxwellian  EM  wave  in  1898,  modern  Western  scientists
+            essentially ignored  his work,  and did  not rediscover  the
+            time-reversed EM  wave until  it appeared in the open Soviet
+            literature.   See also  Robert A. Fisher, Ed., Optical Phase
+            Conjugation, Academic Press, New York, 1983, p. xv.  In 1972
+            two  Soviet  scientists,  from  the  P.N.  Lebedev  Physical
+            Institute in  Moscow, visited  Lawrence  Livermore  National
+            Laboratory and  mentioned to  U.S.  scientists  Dr.  B.  Ya.
+            Zel'dovich's observation of an extremely curious "distortion
+            undoing" property of the stimulated Brillouin backscattering
+            process in  a CS2-filled  waveguide.   This  of  course  was
+            nonlinear optical  phase conjugation and its production of a
+            time-reversed  EM   wave,  the  strange  new  EM  wave  that
+            "reversed disorder  and restored  order."   Thereafter, U.S.
+            scientists  gradually   began  working   in  optical   phase
+            conjugation.   Most of  them, however, still have difficulty
+            with the  fact that the phase conjugate wave is a true time-
+            reversed wave.    Many  do  not  understand  the  difference
+            between true  time reversal  (true  phase  conjugation)  and
+            pseudo-phase-conjugation.
+
+       6.   Amnon Yariv,  Optical Electronics,  3rd edn., Holt, Rinehart
+            and Winston,  New York,  1985.  See particularly Chapter 16:
+            "Phase Conjugate Optics __ Theory and Applications."
+
+       7.   David M.  Pepper,  "Nonlinear  optical  phase  conjugation,"
+            Optical Engineering,  21(2), March/April  1982, p.  156-183.
+            On  p.   156,  Pepper   specifically  notes  that  "...these
+            processing techniques  can, in  principle,  be  extended  to
+            other  portions   of  the  EM  spectrum  (e.g.,  rt,  radio,
+            microwave, radars,  UV, etc.);  and can  also involve  other
+            fields (e.g.,  acoustic waves),  given the  proper nonlinear
+            medium."   In other  words, phase conjugation is a universal
+            nonlinear phenomenon,  unknown  until  recently.    Pepper's
+            paper   is presently  the best  all-around  introduction  to
+            nonlinear optical phase conjugation in the English language.
+
+       8.   See also  David M.  Pepper, "Applications  of optical  phase
+            conjugation," Scientific American, 254(1), Jan. 1986, p. 74-
+            83.       See   particularly   the   striking   photographic
+            demonstration of time reversal of disorder on p. 75.
+
+       9.   Robert G. Sachs, The Physics of Time Reversal, University of
+            Chicago Press, Chicago, Illinois, 1987.
+
+       10.  For   the    theoretical   proof,    see   E.V.    Smetanin,
+            "Electromagnetic field  in a  space with  curvature  __  new
+            solutions," Soviet  Physics Journal,  25(2), Feb.  1982,  p.
+            107-111.   A classical  particle can  have both  a  magnetic
+            moment and  a nonzero  magnetic charge  density in  a curved
+            spacetime.
+
+       11.  There is  a good reason for using two frequencies.  To first
+            (rough) order, the earth may be approximated as an isotropic
+            nonlinear material.   In  that case, a sine-wave transmitted
+            into  the   earth  will   simply  break   up,  due   to  the
+            nonlinearities.    However,  if  two  sine  waves  separated
+            somewhat in  frequency are  input into  the earth,  but  one
+            pretends  that  one  transmitted  the  difference  frequency
+            between them,  the difference  frequency will  act as  if it
+            were a sign wave transmitted through a linear, nondistorting
+            medium __  even though  the individual  two waves suffer all
+            sorts of  distortion, breakdown,  etc.   This is  a  way  of
+            "linearizing"  a   nonlinear  situation   if  it  isn't  too
+            nonlinear.
+
+       12.  Yariv, ibid., p. 500-501.  Go back also and take a relook at
+            the photo  on p.  75 of Pepper, Scientific American, 254(1),
+            Jan. 1986.   Do  you see  that, if a heat source scatters EM
+            energy into  a surrounding  phase conjugate mirror, you will
+            get some  of the scattered energy re-ordered and returned to
+            the source?
+
+       13.  An amusing  lay description  of Tesla's  experiment with the
+            accidental build-up  of "earthquake-like"  resonance in  the
+            buildings and area surrounding his New York laboratory, from
+            induction  by   a  tiny   electromechanical  oscillator,  is
+            contained in  Margaret  Cheney,  Tesla:  Man  Out  of  Time,
+            Prentice-Hall, Inc.,  Englewood Cliffs, New Jersey, 1981, p.
+            115-116.   Slightly more  light is  shed on  the incident by
+            John J.  O'Neill, Prodigal Genius: The Life of Nikola Tesla,
+            Angriff Press, Hollywood, California, 1981, New Printing, p.
+            155-165.
+
+       14.  See John  J. O'Neill,  Prodigal Genius,  p. 164-165.   Tesla
+            stated that his telegeodynamic oscillator, so small it could
+            be slipped  into a  pocket, could be attached to any part of
+            the Empire  State Building  and in  12 to  13 minutes  would
+            bring the  building  to  full  resonance,  and  destroy  it.
+            O'Neill could  not make  out the decimal point in his notes,
+            so could  not be  sure Tesla stated it would require 0.25 HP
+            or 2.5  HP.   We point out that it must have been 0.25 if it
+            was to  be slipped  into a  rather large  pocket.   A 2.5 HP
+            electric motor  of the  time would rather definitely not fit
+            in one's  pocket!   See also Cheney, Tesla: Man Out of Time,
+            p. 116-117, 275.
+
+            Tesla  indicated  that  his  telegeodynamics  could  project
+            enormous energy through the earth, essentially without loss.
+            In other  references he  indicated  that  the  energy  would
+            travel in  beams to  distant points  on the earth, producing
+            desired effects  there.   He  also  indicated  that  he  was
+            utilizing  a   unique  form   of  resonance   not  presently
+            understood by  science.   Suppose we  assume that  Tesla had
+            discovered the  mechanical analogue of the nonlinear optical
+            pumped  phase  conjugate  mirror.    Then  his  "oscillator"
+            actually  involved   mechanically   pumping   (by   opposing
+            mechanical waves  or blows)  a suitable nonlinear mechanical
+            phase conjugation mirror material.  If timed at a mechanical
+            resonance frequency  of the  material,  and  attached  to  a
+            building, an interesting phenomenon would occur.  The scalar
+            EM potential  base  waves  for  rhythmic  scalar  mechanical
+            stress waves  have an  affinity for  traveling  through  the
+            atomic nucleus  and its immediately adjacent vacuum.  Recall
+            that, in QM, all mechanical forces are generated by exchange
+            of virtual  photons, so  opposing  forces  in  a  mechanical
+            stress are caused by bidirectional virtual photon exchanges.
+            It is  "scalar electromagnetic"  at base.   As the scalar EM
+            stress potential  wave  travels  through  its  vacuum/nuclei
+            medium, the  normal electron  orbital vibrations  (including
+            those  caused   from  covalent   bond  vibrations,   lattice
+            vibrations, and  temperature vibrations)  constitute "signal
+            wave inputs,"  causing the  gating  and  emission  of  phase
+            conjugate replica  waves from the pumped nuclei out into the
+            material lattices.   If the stress pumping is at a resonance
+            frequency  of   the  material/nuclei,   or  a   harmonic  or
+            subharmonic  of   it,  then   nonlinear  oscillation  theory
+            together  with   E.T.  Whittaker's   bidirectional  EM  wave
+            composition of  the scalar stress potential will result in a
+            phase-locked buildup or accumulation of the gated PCR energy
+            from  the   activated  vacuum/nuclei   internal  medium   by
+            constructive interference  of the  continually-gated PCR  EM
+            energy into  the material lattice at its resonant frequency.
+            In that  case a  "forced resonance"  condition occurs in the
+            building,  surrounding   earth,  etc.,   and   this   scalar
+            mechanical stress  resonance spreads and builds, to enormous
+            power __  even to  the destruction  of the building or to an
+            earthquake.
+
+            But since the oscillator itself has certainly not input such
+            a large  amount of  energy, from  whence does  all the extra
+            energy come?   The answer is contained in Sweet and Bearden,
+            "Utilizing scalar  electromagnetics to  tap vacuum  energy,"
+            IECEC '91,  ibid.   The activated nuclei, in this mechanical
+            scalar oscillator  case,  actually  involve  an  oscillation
+            modulated upon  the virtual photon flux exchange between the
+            activated local  vacuum and  each activated nucleus, similar
+            to the  type of  oscillation that  Sweet traps in the barium
+            nuclei of  his vacuum  triode.  This scalar oscillation onto
+            the activated  nucleus converts  that nucleus  to  a  pumped
+            phase conjugate  mirror (PPCM).   Covalent bond oscillations
+            and material  lattice  vibrations  introduce  "signal  wave"
+            inputs into  the pumped nucleus through the EM coupling with
+            its electron  shells.   Amplified  phase  conjugate  replica
+            (PCR) waves  are thus  emitted  by  these  PPCM  nuclei,  in
+            response to  the signal  wave inputs.  According to standard
+            PPCM theory,  these amplified  PCR waves will thus leave the
+            nucleus and  travel out through the electron shells into the
+            material lattice,  being  scattered  there.    This  process
+            effectively  gates   energy  from   the  vacuum/nucleus  VPF
+            exchange into  the PCR  waves, which  "backtrack" the signal
+            wave input  path, back  out into the material lattices, etc.
+            If the  pumping is  at the  fundamental, a  harmonic,  or  a
+            subharmonic of  the resonance  frequency of  the  materials,
+            then the scattered energy will accumulate "in phase" and the
+            materials and  building will  be  in  increasing  resonance.
+            Thus the building and the local earth will begin to build up
+            increasing, rumbling  oscillations, as  the  increasing  PCR
+            waves from  the PPCM  nuclei scatter  increasing energy into
+            their constituent  materials.   The enormous energy involved
+            is actually  organized and  gated  from  the  excited  local
+            vacuum itself.
+
+            As to  Tesla's telegeodynamics  and making  mechanical waves
+            that are  laser-like and  travel through the earth, one need
+            only apply  the known  principle of  the  forward-going  PCR
+            wave.   In other  words, one  deliberately inputs,  say, two
+            small signal  waves.   The PPCM material acts as if a single
+            signal wave had been input, as a vector resultant wave.  The
+            resulting  amplified   PCR  wave   thus   "backtracks"   the
+            resultant.   If the  resultant signal  wave input is a sharp
+            laser-like incoming  beam, then the responding amplified PCR
+            wave  will  be  a  sharp  laser-like  beam  in  the  reverse
+            direction.     In  such   manner,  a  laser-like  mechanical
+            oscillation beam  can be  launched through  the earth.   The
+            laser-like portion is based on a laser-like scalar potential
+            beam that  travels through  the vacuum  and atomic nuclei as
+            its natural  medium.   Such a beam should travel through the
+            earth or  through the ocean with ease, since the scalar wave
+            is gravitational,  and not  affected by the ionized electron
+            shells of seawater, e.g.  Note that, by slightly varying the
+            signal wave  input resultant,  one can  "steer" the PCR wave
+            through its  medium (the  vacuum/atomic nuclei),  much as  a
+            phased array  radar steers  its  beam  through  space.    It
+            strongly suggests  that one  can make  an underwater  scalar
+            radar or  a "through the intervening earth" scalar radar, as
+            well.
+
+       15.  Y. Aharonov  and D.  Bohm, "Significance  of Electromagnetic
+            Potentials in  the Quantum  Theory," Physical Review, Second
+            Series, 115(3),  Aug. 1, 1959, p. 458-491.  For an extensive
+            discussion of the Aharonov-Bohm effect and an extensive list
+            of references,  see S.  Olariu and  I. Iovitzu Popescu, "The
+            quantum  effects  of  electromagnetic  fluxes,"  Reviews  of
+            Modern Physics, 57(2), Apr. 1985.  For confirmation that the
+            AB effect  has been  proven to  all but  the most diehard of
+            skeptics, see  Bertram Schwarzschild,  "Currents in  normal-
+            metal rings  exhibit Aharonov-Bohm  effect," Physics  Today,
+            39(1), Jan. 1986, p. 17-20.
+
+       16.  See  Timothy   Boyer,  "The  classical  vacuum,"  Scientific
+            American, Aug.  1985, p.  70;   Walter  Greiner  and  Joseph
+            Hamilton, "Is the Vacuum Really Empty?", American Scientist,
+            Mar.-Apr.  1980,  p.  154;    I.J.R.  Aitchison,  "Nothing's
+            plenty:  The   vacuum  in   modern  quantum  field  theory,"
+            Contemporary Physics,  26(4),  1985,  p.  333-391;  Jack  S.
+            Greenberg and  Walter Greiner,  "Search for  the sparking of
+            the vacuum,"  Physics Today, Aug. 1982, p. 24-32; Richard E.
+            Prange  and  Peter  Strance,  "The  semiconducting  vacuum,"
+            American Journal  of Physics,  52(1), Jan.  1984, p.  19-21.
+            See also  R. Jackiw  and J.R.  Schrieffer, "The decay of the
+            vacuum," Nuclear Physics B 190, 1981, p. 944.
+
+       17.  Nick Herbert,  Quantum  Reality:  Beyond  the  New  Physics,
+            anchor Books,  Doubleday, Garden  City, New  York,  1987  is
+            particularly recommended.
+
+       18.  An  excellent  and  thorough  reference  is  Romon  Podolny,
+            Something Called  Nothing __  Physical Vacuum, What is It?",
+            Mir, 1986.
+
+       19.  See   particularly   H.E.   Puthoff,   "Source   of   vacuum
+            electromagnetic zero-point energy, Physical Review A, 40(9),
+            Nov.  1,   1989,  p.  4857-4862;    "The  energetic  vacuum:
+            Implications for  energy research,"  Speculations in Science
+            and Technology, 13(4), 1990, p. 247-257; "Gravity as a Zero-
+            Point Fluctuation  Force," Physical Review A, Vol. 39, 1989,
+            p.  2333;   "Ground  State  of  Hydrogen  as  a  Zero-Point-
+            Fluctuation-Determined State,"  Physical Review  D, Vol. 35,
+            1987, p. 3266.
+
+       20.  T.D.  Lee,  Chapter  25:  Outlook,  "Possibility  of  vacuum
+            engineering," Particle  Physics and  Introduction  to  Field
+            Theory, Harwood Academic Publishers, New York, 1981, p. 826.
+            The application  of the  extended Whittaker  scalar EM is in
+            fact the method of accomplishing the very vacuum engineering
+            speculated upon by Nobel Laureate Lee.
+
+       21.  Here I  particularly recommend B.J. Hiley and F. David Peat,
+            Eds., Quantum  Implications: Essays in Honour of David Bohm,
+            Routledge &  Kegan Paul,  London and  New York,  1987.   You
+            should of  course  also  be  aware  of  what  Bohm's  hidden
+            variable theory  is  all  about,  and  its  connection  with
+            consciousness.   See D.  Bohm, Phys.  Rev. 85, 1952, p. 166,
+            180; Causality  and Chance  in Modern  Physics, Routledge  &
+            Kegan  Paul,   London,  1957;   "Hidden  variables  and  the
+            implicate order,"  in Quantum Implications: Essays in Honour
+            of David  Bohm, Eds. B.J. Hiley and F. David Peat, Routledge
+            & Kegan  Paul, London  & New York, 1987, p. 33.  See also D.
+            Bohm and  B.J. Hiley,  Found. Phys.  5, 1975,  p. 93; Found.
+            Phys. 12, 1982, p. 1001; Found. Phys. 14, 1984, p. 255.  See
+            also Y.  Aharonov and  D. Albert, "The issue of retrodiction
+            in Bohm's theory," in Quantum Implications: Essays in Honour
+            of David  Bohm, ibid.,  p. 223.   For  a discussion  of what
+            nonlocal theory  may  really  entail  in  terms  of  modular
+            variables, see  Yakir Aharonov, "Non-local phenomena and the
+            Aharonov-Bohm effect,"  Quantum Concepts  in Space and Time,
+            Eds. R.  Penrose and  C.J. Isham,  Clarendon Press,  Oxford,
+            1986, p.  41-64.   For other  important discussions  see Lee
+            Smolin,  "Stochastic   mechanics,  hidden   variables,   and
+            gravity," ibid.,  p. 147-173; and Abner Shimony, "Events and
+            processes in  the quantum  world," ibid., p. 182-203.  For a
+            new viewpoint  on emission  processes, see  Robert M.  Wald,
+            "Correlations and causality in quantum field theory," ibid.,
+            p. 293-301;  and Serge  Haroche and Daniel Kleppner, "Cavity
+            quantum electrodynamics,"  Physics Today,  Jan. 1989, p. 24-
+            30.   See David  Bohm, Wholeness  and the  Implicate  Order,
+            Routledge and Kegan Paul; London, Boston, and Henley; 1980.
+
+       22.  Even Einstein __ who was awarded the Nobel Prize in part for
+            explaining the photoelectric effect __ never understood what
+            a photon was.  In his later years Einstein wrote: "All these
+            50  years  of  pondering  have  not  brought  me  closer  to
+            answering  the  question:  what  are  light-quanta?".    The
+            quotation is contained in P. Speziali, Ed., Albert Einstein-
+            Michele  Besso  Correspondence  1903-1955,  Hermann,  Paris,
+            1972.    There  are  formidable  problems  with  the  photon
+            concept.   E.g., the  "energy" of a photon is not localized,
+            but is  distributed over  the entire volume of the field and
+            there is,  in general,  no use  in attaching a coordinate to
+            the photon.   A  photon in  general cannot be described by a
+            wavefunction, but  only for  special cases.   In geometrical
+            optics as  well as  Maxwell's electrodynamics,  there is  no
+            room for  photons.    The  complex  one-photon  wavefunction
+            should not  be identified  with the  electromagnetic  field.
+            For a  given photon  number, the electric or magnetic fields
+            at a  point cannot  be measured  as a function of time.  For
+            states with  a fixed photon number, the expectation value of
+            the electric  field is  zero even  for a  very large  photon
+            number, so  that in  this case  the correspondence principle
+            cannot be  used.   For additional  strong anomalies  in  the
+            concept of a photon, see J. Strand, "Photons in introductory
+            quantum physics,"  American Journal  of Physics, 54(7), July
+            1986, p. 650-652.
+
+       23.  Richard Kidd  et  Al,  "Evolution  of  the  Modern  Photon,"
+            American Journal  of Physics,  57(1), Jan.  1989, p.  27-35.
+            Note particularly  that detection  is actually  binary,  but
+            one-half of each detection/measurement is normally discarded
+            [actually, it  is just hidden and listed as simply "Newton's
+            third  law   reaction  force."].     See   also   R.   Chen,
+            "Cancellation  of  Internal  Forces,"  American  Journal  of
+            Physics, 49(4),  Apr. 1981,  p. 372  for the  fact that  the
+            internal EM  energy is  always involved in interactions, but
+            usually never taken into account.
+
+            Indeed, the  so-called "photon  interaction"  is  usually  a
+            spin-2 graviton  breakup interaction.  The graviton fissions
+            (the photon  and antiphoton  decouple).    The  photon  half
+            normally interacts with the electron shells.  The antiphoton
+            half "burrows  back into" the nucleus and interacts with it,
+            providing  the   Newtonian  third   law   recoil   and   the
+            conservation  of   angular  momentum,   energy,  etc.    The
+            ubiquitous presence  of the  Newtonian  third  law  reaction
+            force is  direct and positive evidence for the fact that not
+            only a photon interacts, but an antiphoton interacts also.
+
+            Consider.     Quantum  field   theory  requires  that  every
+            mechanical   force    be   generated   by   virtual   photon
+            interactions.   Therefore, to  be consistent, Newton's third
+            law reaction  force must be generated by photon interaction.
+            Since the  3rd law  force is  considered to be universal, it
+            means that  the "photon interaction that is a reverse of the
+            normal photon  interaction" is universal, and this "reversed
+            photon" interaction  must  normally  accompany  each  normal
+            photon interaction.  We point  out that  the  only  type  of
+            photon that  would consistently  produce the  exact opposite
+            force from the photon interaction would be a phase conjugate
+            or time-reversal of that photon.  I.e., there must have been
+            two photons  present in the interaction: the normal or time-
+            forward photon,  and the  time-reversed or antiphoton.  This
+            is actually  implied by  a quantum field theory statement of
+            Newton's third law.
+
+            However, the point can be even more rigorously proven.  In a
+            phase conjugate  material, one can trick the antiphoton into
+            exiting out  of the  atom, instead  of  interacting  in  the
+            nucleus.  In that case, according to the "photon interaction
+            is normally  graviton interaction" principle, the agent that
+            normally generates  Newton's third  law recoil did not reach
+            the nucleus,  and so the recoil should be absent.  And it is
+            absent, in  actual experiments.    Such  a  phase  conjugate
+            mirror does not recoil if it emits a phase conjugate replica
+            wave (phase  conjugate photons,  or antiphotons).    And  it
+            doesn't  recoil  no  matter  how  powerful  that  antiphoton
+            emission is  __ no matter how many antiphotons it emits.  On
+            the other  hand, if  the same  material  emits  an  ordinary
+            photon, it  does recoil,  and Newton's third law is present.
+            This  experiment   directly  establishes  that  most  photon
+            interactions actually  are graviton  interactions __  paired
+            photon/antiphoton interactions.
+
+       24.  To see  just how  arbitrary and  postulational  are  present
+            "definitions" of  mass and  force, see  Robert Bruce Lindsay
+            and  Henry   Margenau,   Foundations   of   Physics,   Dover
+            Publications, New  York, 1963, p. 283-287.  Note on page 283
+            that a  "field of  force" at  any point  is actually defined
+            only for the case when a unit mass is present at that point.
+            See also Richard P. Feynman, Robert B. Leighton, and Matthew
+            Sands, The  Feynman Lectures on Physics, Addison-Wesley, New
+            York, Vol  1, p. 2-4, for a definition of the electric field
+            in context  of its  potentiality for producing a force.  The
+            modern  view  of  the  field  is  that,  because  of  vacuum
+            fluctuations, rigorously  one  no  longer  speaks  of  "the"
+            field,  but   of  the  probability  of  a  particular  field
+            configuration.   See Charles  W. Misner,  Kip S. Thorne, and
+            John Archibald  Wheeler, Gravitation,  W.H. Freeman and Co.,
+            San Francisco,  1973, p. 1191.  Note that this view is still
+            in error  when one  considers  electron  precession  in  the
+            interaction of vacuum "fields" and the electron gas inside a
+            detecting probe wire.
+
+       25.  Aharonov and Bohm, Physical Review, 1959, ibid.
+
+       26.  Energy should  not be  defined as  the capacity  to do work;
+            that  is   wrong.     Accomplishing  translational  work  is
+            something that can be done by dispersing energy (order), but
+            that is not its definition.
+
+            Energy is  any ordering,  either static  or dynamic,  in the
+            virtual particle flux (VPF) of vacuum.
+
+            Work is  just the scattering of energy __ the disordering of
+            this VPF  order.  Note that the present definition of energy
+            used in  physics thus  is a  statement that  "order  is  the
+            (capacity to  do) disordering  of order."  In that form, the
+            illogical aspects of the statement can be seen.  It is still
+            correct, however,  to state that "energy has the capacity to
+            do work.   Certainly,  if you scatter or disorder the order,
+            you will have disorder.  With the word "has" substituted for
+            "is," the sentence becomes just a statement about energy; it
+            is not posing improperly as its definition.  However, it now
+            requires that  a new  definition for "energy" be found.  The
+            new definition was presented above.
+
+            Electromagnetic energy  is any  ordering, either  static  or
+            dynamic, in  the virtual  photon flux  of vacuum.   In other
+            words, for  a field  energy, one selects __ for the ordering
+            __ only  the type of particle in the VPF that is the quantum
+            particle of that field.
+
+            A potential  is any  ordering, either  static or  dynamic or
+            combination thereof, in the virtual particle flux of vacuum.
+            Note that, according to this definition, a potential is pure
+            energy, a  priori.  It is also totally ordered internally __
+            which is a new concept for physics.  But we must be careful.
+            Because  of   the  nature   of  the  virtual  particle  flux
+            comprising it,  the potential  is  a  collection  of  nearly
+            individual  virtual   energies  __   a  collection   of  the
+            individual energies of a host of individually moving virtual
+            particles.   Each particle  is still almost totally separate
+            from each  other, most  of the  time.  In other words, as an
+            informal  analogy,   potential   is   a   sort   of   mostly
+            disintegrated  energy,  which  only  has  just  a  touch  of
+            integration, enough  to allow  it to  be referred  to  as  a
+            single "collection"  or "ordering."    Note  also  that  the
+            ordering itself  is an  open system.   Virtual particles are
+            continually entering, leaving, or appearing and disappearing
+            in it.   The  ordering is  like a  whirlpool in a river: The
+            form or  ordering may be stable, but the water molecules are
+            continually passing through the stable, ordered form.
+
+            A scalar  potential is  any static  (stationary) ordering in
+            the virtual  particle flux of vacuum.  A vector potential is
+            any dynamic (nonstationary) ordering in the virtual particle
+            flux of vacuum.  Note that both scalar and vector potentials
+            have totally  ordered  interiors.    Scalar  potentials  and
+            vector potentials are simply different subsets of the energy
+            domain.   And notice  that both are simply stable forms in a
+            dynamic medium,  like two  swirls in  a river.  So to speak,
+            one swirl  is stationary with respect to the observer on the
+            bank; however,  internally it  is quite highly dynamic, with
+            water molecules  continually flowing  into and  out  of  the
+            stabilized form.  The second swirl is moving with respect to
+            the observer  on the  bank; however,  internally it  also is
+            quite  highly   dynamic  internally,  with  water  molecules
+            continually flowing  into and  out of  the stabilized  form.
+            The difference  here is  whether or not there is movement of
+            the stable exterior form with respect to the observer.  Both
+            are open  systems, continually  being supplied  with  energy
+            flowing in, and continually emitting energy.  Also note that
+            both  kinds   of  EM  potentials  possess  ordered  internal
+            Whittaker bidirectional wave structures.
+
+            An electrostatic scalar potential is any static (stationary)
+            ordering in  the virtual photon flux of vacuum.  Its ordered
+            structure is  an ordered  lattice of  spacetime/vacuum,  and
+            consists of  a Fourier  expansion of  harmonic transverse EM
+            plane waves, coupled to the phase conjugate of the expansion
+            in 1:1  ratio.   Scalar interferometry  between two  or more
+            scalar EM  potentials  is  just  the  multiple  simultaneous
+            interferometry   of   the   constituent   Whittaker   waves.
+            Incredibly         dynamic          interference          of
+            potentials/vacua/spacetimes from  all the  charged particles
+            of the  universe is  continually occurring  in "the" ambient
+            vacuum __  that is,  in the  quantum mechanical vacuum.  The
+            quantum mechanical  vacuum concept  is just the modification
+            of the classical "empty vacuum" concept to take into account
+            the  spontaneous   creation  and   annihilation  of  virtual
+            particles, required  by quantum mechanics and the Heisenberg
+            uncertainty principle.
+
+            "A" vacuum  is a  spacetime and,  to first  order, a  scalar
+            potential.  "The" ambient vacuum is a violently changing and
+            interfering collection  of potentials  from moving particles
+            all over  the universe; i.e., "the" ambient vacuum is really
+            an incredibly  large number  of  conglomerated,  interfering
+            vacua/potentials.     The  conglomeration   implication  for
+            vacuum/spacetime of  these definitions,  or of  the gist  of
+            them, has  previously been  pointed out  by W.  Misner, K.S.
+            Thorne  and   J.A.  Wheeler,   Gravitation,  1973,  p.  399.
+            Quoting: "...The  terms 'gravitational  field' and 'gravity'
+            refer in  a vague,  collective sort  of way  to all of these
+            entities.     Another,  equivalent  term  for  them  is  the
+            'geometry of  spacetime.'"   Our comment  is as follows:  In
+            other words, the notion of the geometry of spacetime is also
+            a vague,  conglomerated concept,  and it  also must  not  be
+            primary, but  must be  composed of  other field  effects and
+            things __  which of  course is  Sakharov's  hypothesis  that
+            gravitation is  not even  a primary  field of nature, but is
+            always due to interactions and effects of other fields.
+
+            The above  definitions are  all precise.   To the best of my
+            knowledge, most  of them  have not  previously  appeared  in
+            physics in  such an exact form.  To explain why more precise
+            definitions are  so  important,  we  quote  a  statement  by
+            Einstein: "...the  scientist makes use of a whole arsenal of
+            concepts which  he imbibed  practically  with  his  mother's
+            milk; and  seldom if  ever is  he  aware  of  the  eternally
+            problematic  character  of  his  concepts.    He  uses  this
+            conceptual  material,   or,  speaking  more  exactly,  these
+            conceptual  tools   of  thought,   as  something  obviously,
+            immutably given;  something having  an  objective  value  of
+            truth which  is hardly  ever, and in any case not seriously,
+            to be  doubted.   ...in  the  interests  of  science  it  is
+            necessary over  and over  again to engage in the critique of
+            these  fundamental  concepts,  in  order  that  we  may  not
+            unconsciously  be  ruled  by  them."    Quoted  from  Albert
+            Einstein, "Foreword,"  to Max Jammer, Concepts of Space: The
+            History of  Theories of Space in Physics, Harvard University
+            Press, Cambridge, Massachusetts, 1969, p. xi-xii.
+
+       27.  See Richard  P. Feynman,  Robert  B.  Leighton  and  Matthew
+            Sands, The  Feynman Lectures on Physics, Addison-Wesley, New
+            York, Vol. I, 1963, p. 2-4 for a statement that the electric
+            field exists  at a point in the vacuum in the context of its
+            potentiality for  producing a  force,  should  a  charge  be
+            placed at that point.  Maxwell's original theory was modeled
+            on a  mechanical ether,  where  the  ether  was  a  material
+            medium.   If that  were truly  the case,  then  force-fields
+            would exist in the material-ether medium.  Accordingly, they
+            were so modeled by Maxwell.  With the subsequent elimination
+            of the  material ether,  Maxwell's EM force-in-the-material-
+            ether model  was rendered incorrect, but the model has never
+            been recast, to this date.
+
+       28.  Calculations of  the energy  density in  the vacuum range to
+            enormous values  on the  order of  10exp100 grams  per cubic
+            centimeter, expressed  in mass  units.  To convert this mass
+            density to  energy density, simply multiply by the square of
+            the speed of light.
+
+       29.  Recall again  Feynman's statement.   In the vacuum, one just
+            has a  force-field-free gradient  in the potential until one
+            places an  observable charge  in  there  for  the  potential
+            gradient to  couple to.   With  such charged  particle(s) in
+            place, the  local interaction  and coupling of the potential
+            gradient with  the charged particle(s) produces (and in fact
+            constitutes) an electromagnetic force field.
+
+       30.  Notice that,  considering the  electron gas  as a  fluid,  a
+            longitudinal pressure  gradient does  move nearly  instantly
+            down the  wire, without  concomitant  electron  movement  as
+            longitudinal current.   So  the potential gradient does race
+            longitudinally down  the wire at nearly the speed c.  In our
+            detectors and  instruments, however,  we  still  detect  the
+            lateral electron  precession waves,  however.   Obviously we
+            need some instruments of greater subtlety.
+
+       31.  For an  explanation of  the electron drift velocity, see any
+            good sophomore  physics text.   E.g.,  see  David  Halliday,
+            Robert Resnick,  and John  Merrill, Fundamentals of Physics,
+            Third Edition  Extended, Volume  Two, John Wiley & Sons, New
+            York, 1988,  p. 649-650.  The effective or averaged velocity
+            of the  electrons in the electron gas in a copper conductor,
+            e.g., may  be about  1.6 x 10 exp 6 meters per second, where
+            the electrons  are considered  as free  particles in  a gas.
+            However, when an electric field is applied to the conductor,
+            the average  velocity of  the electrons down the wire may be
+            only about  4 x  10 exp(-5)  meters per second.  This field-
+            induced motion  down the  wire is  many orders  of magnitude
+            less than  the average  velocity  of  each  moving  electron
+            (without respect  to its  direction).   As can  be seen, the
+            electrons just  gradually "drift along slowly" down the wire
+            on the  average, fully justifying the term "drift velocity."
+            Most of  the movement  of the  electrons in the wire is in a
+            radial (precession) direction.
+
+       32.  The change  in potential  that travels  down the  wire is in
+            fact a change in the intensity of the local vacuum's virtual
+            photon  flux   exchange  with   the  atoms   of  the   wire,
+            particularly with  their atomic  nuclei.   It  is  this  VPF
+            exchange between  vacuum and  nucleus (and  to a  far lesser
+            extent, between  vacuum and  the  electrons)  which  is  the
+            "medium" for  the true  signal.  Thus the signal is simply a
+            traveling   change   in   the   vacuum/atom   VPF   exchange
+            "potential", with  only a  slight delay  due to  interaction
+            with the  charges in  the nuclei.  The signal is primarily a
+            change in  the virtual  state conditions, rather than in the
+            observable state  conditions.   However, to  "observe"  this
+            signal, the  embedding  or  "coupling"  interaction  of  the
+            traveling potential  gradient with  the conduction electrons
+            is important.   This  coupling  produces  translation  force
+            fields,  i.e.,   acceleration  changes  in  the  translating
+            electrons.   We actually  detect these  electron translation
+            changes.   In  other  words,  we  actually  detect  electron
+            wiggles, and  infer or  assume what  must have  been in  the
+            vacuum to interact with the electron gas and cause its waves
+            or "wiggles."   It  is strongly  accented that  any detector
+            detects only  its own  internal change;  it detects  nothing
+            "external" at all.
+
+       33.  Tesla was  adamant that  EM waves  in the  vacuum  were  not
+            Hertzian, but  were waves of rarefaction and compression, as
+            are sound  waves.   For example,  see Nikola Tesla, "Pioneer
+            Radio Engineer  Gives  Views  on  Power,"  New  York  Herald
+            Tribune, Sep.  11, 1932.   Quoting:  "...I showed  that  the
+            universal  medium   is  a   gaseous  body   in  which   only
+            longitudinal pulses can be propagated, involving alternating
+            compressions and  expansions similar  to those  produced  by
+            sound waves  in the  air.  Thus, a wireless transmitter does
+            not emit  Hertz waves  which are  a myth, but sound waves in
+            the ether,  behaving in every respect like those in the air,
+            except that,  owing to the great elastic force and extremely
+            small density  of the medium, their speed is that of light."
+            In  a   later  article,   "The  True  Wireless,"  Electrical
+            Experimenter, May  1919, p.  87, Tesla wrote:  "...The Hertz
+            wave theory  of wireless  transmission may  be kept up for a
+            while, but  I do not hesitate to say that in a short time it
+            will be  recognized  as  one  of  the  most  remarkable  and
+            inexplicable aberrations  of the  scientific mind  which has
+            ever been  recorded in  history."   Four years  before  E.T.
+            Whittaker's  epochal  1903  paper  describing  the  internal
+            structure of  the scalar potential as consisting of a phase-
+            locked harmonic  series of special bidirectional EM standing
+            waves,  Tesla   experimentally  discovered   the   "standing
+            potential waves".   On  July 3,  1899  and  on  through  the
+            evening into  the morning of July 4, Tesla observed standing
+            potential waves  from a  traveling thunderstorm,  even after
+            the storm  had traveled a distance of several hundred miles.
+            He recorded  this significant  discovery in  his  laboratory
+            notes on  July 4,  1899.  See Nikola Tesla, Colorado Springs
+            Notes 1899-1900, Nolit, Beograd, Yugoslavia, 1978, p. 61-62.
+
+            In his  magnifying transmitter, Tesla was not depending upon
+            ordinary   Hertzian   waves,   or   earth-ionospheric   duct
+            transmission of  power.  These would not allow magnification
+            of the  power worldwide.   For example, in Nikola Tesla, "My
+            Inventions: Part V.  The Magnifying Transmitter," Electrical
+            Experimenter, June  1919, p. 176, Tesla stated that "...this
+            wireless  transmitter   is  one   in  which  the  Hertz-wave
+            radiation is  an entirely  negligible quantity  as  compared
+            with the  whole energy."   On  p. 178  of the  same article,
+            Tesla stated  that "The  transmitter was  to  emit  a  wave-
+            complex  of   special  characteristics..."    In  "The  True
+            Wireless," Electrical  Experimenter, May  1919, p. 29, Tesla
+            mentioned  his   use  of  a  unique  form  of  resonance  in
+            connection with  his wireless  transmission  of  energy,  by
+            stating that  one "...must  not view  it  in  the  light  of
+            present day  science."   On p.  62 of  the same  article, he
+            stated that  his "...transmission  through the  earth is  in
+            every respect  identical to  that through  a straight wire."
+            For a  direct and  "uncommon"  explanation  of  how  Tesla's
+            magnifying transmitter  actually worked,  see T.E.  Bearden,
+            "Extracting electromagnetic  energy from the nonlinear earth
+            as  a  self-pumped  phase  conjugate  mirror,"  Proceedings,
+            PACE's Third  International New Energy Technology Symposium,
+            Jun. 25-28,  1988 at  Maison  due  Citoyen,  Hull  (Ottawa),
+            Canada, 1988.
+
+       34.  For a  comprehensive discussion  of ether theories, see E.T.
+            Whittaker,  A   History  of   the  Theories  of  Aether  and
+            Electricity, Philosophical Library, New York, 1951.  This is
+            the same  Whittaker whose  1903 and  1904 papers provide the
+            missing linkage needed to unify EM, GR, and QM today.
+
+       35.  By Michelson's  interferometry experiments  to  measure  the
+            speed of  light.   See R.S. Shankland, "Michelson: America's
+            First Nobel  Prize Winner  in Science," The Physics Teacher,
+            Jan. 1977.
+
+       36.  Ironically,  a  world-renowned  Nobel  Laureate  __  whom  I
+            greatly admire  and with  whom I interacted face-to-face for
+            about three  hours __  was completely  unable to  comprehend
+            that a  photon carried  time, even though he was quite aware
+            that its  dimensions were  energy multiplied by time!  He in
+            fact was  adamant that it could only carry energy, not time.
+            Many other  physicists have  exhibited the same bewilderment
+            when queried  on this  question.   The point is this:  It is
+            not, repeat not, the energy of the photon that is quantized.
+            It is  the photon's  overall action/angular momentum that is
+            quantized.   Making up  the  photon,  the  energy  and  time
+            components are  canonical.    For  stable  rate-of-time-flow
+            conditions, the energy and time in a photon are discretized.
+
+       37.  Years ago,  we crudely used this to generate a fundamentally
+            new definition  of mass,  and also  to explain the mechanism
+            for  the   "flow   of   time."      See   T.   E.   Bearden,
+            Quiton/Perceptron   Physics:    A   Theory   of   Existence,
+            Perception,  and   Physical  Phenomena,  National  Technical
+            Information System,  Report AD-763210,  1973.   The paper is
+            crude, and  should be  rewritten when possible.  But it gets
+            the main  point across.   It  also derives  Newton's laws of
+            motion, relativistic  form; the  square law  of gravitation;
+            and a  new defining  equation for  mass in  terms of trapped
+            action flux.
+
+       38.  Specifically, the  photon  and  antiphoton  actually  differ
+            internally.   The photon  is composed  of (+DE)(+Dt),  or  a
+            piece of  positive energy  and a  piece  of  positive  time,
+            welded together  without a seam.  The antiphoton is composed
+            of (-DE)(-Dt),  or a piece of negative energy and a piece of
+            negative time, welded together without a seam.
+
+       39.  Maxwell in  fact writes:   "There are physical quantities of
+            another kind  which are  related to directions in space, but
+            which are not vectors.  Stresses and strains in solid bodies
+            are examples  of these, and so are some of the properties of
+            bodies considered  in the  theory of  elasticity and  in the
+            theory of  double refraction.    Quantities  of  this  class
+            require for  their definition nine numerical specifications.
+            They are  expressed in the language of quaternions by linear
+            and vector functions of a vector."  [James Clerk Maxwell,  A
+            Treatise on  Electricity  and  Magnetism,  unabridged  third
+            edition, Volume  1, Dover  Publications, New  York, 1954, p.
+            10.]   However, even  though Maxwell  utilized a  mechanical
+            model of the ether, he apparently never focused on the exact
+            internal vector patterning of a scalar stress potential as a
+            highly significant,  engineerable property.   On  page 30 of
+            his Treatise,  e.g., he shows three figures illustrating his
+            conception of  directional actions  at  a  point  in  space,
+            involving vectorial convergence, rotation, and a combination
+            of the  two.   However, I  have found  no evidence  that  he
+            realized the  significance of  the precise  pattern  of  the
+            internal vector  structure of  a quaternion multiplication's
+            remaining scalar  component when  the vector  or directional
+            components  of   that  multiplication  interact  to  a  zero
+            translation resultant.   In  other words, I have been unable
+            to find  any recognition  by  Maxwell  that  a  zero-vector-
+            resultant  translation   system  was   highly   significant,
+            particularly in its gravitational implications.  However, my
+            search of  Maxwell has  certainly not  been exhaustive,  and
+            evidence to the contrary may yet be surfaced.
+
+       40.  Maxwell's  theory   is  actually   some  200-odd  quaternion
+            equations scattered  throughout his  1873 book.   See  James
+            Clerk Maxwell,  A Treatise  on  Electricity  and  Magnetism,
+            Oxford University Press, Oxford, 1873.  The third edition is
+            by Dover, 1954.
+
+       41.  Whittaker, 1904, ibid.
+
+       42.  There are  at least  two quite  different kinds of zero, and
+            mathematics uses  the zero concept in two entirely different
+            fashions.   An example  is in  arithmetic.   When we write a
+            number, a  zero in  a digit's  position means the absence of
+            any digit  there.   It means  the total absence of any digit
+            there.   In other  words, it  corresponds to an "empty set."
+            We also use the zero standing alone as "the definite absence
+            of any  single number."   However,  here there  is  a  great
+            difference,  because   at  the   same  time  it's  also  the
+            indefinite presence  of  multiple  numbers.    Specifically,
+            e.g., 0  = 3  + 2 + (-5), etc.  In our arithmetic operations
+            we regularly  replace the  "zero as  absence of  any  single
+            number" by  "zero as  the presence of multiple numbers whose
+            sum is  zero."   In other words, this type of zero refers to
+            absence only of any singular number.  In this zero case, the
+            sum of  a group  of two or more numbers that are present can
+            be zero,  while the  numbers still  remain.   In vectors, of
+            course, the  directions refer  to translations.   So  a zero
+            vector need  not be  an "empty  set."   It's an  "empty set"
+            insofar as  use of  any single  finite translation vector to
+            represent  the   combined   finite   translations   of   the
+            interacting vectors.   None  such can  be there, because the
+            overall system  doesn't translate.    But  the  zero  vector
+            resultant is  not an  empty set  with regards  to the actual
+            continued presence  of  the  multiply  interacting  vectors.
+            They are  still there  and, if  they represent  forces, they
+            produce  a   specifically  patterned   stress,   or   stress
+            potential.   A zero-vector resultant system of finite vector
+            components, in vacuum, is a specific template and a specific
+            vacuum engine  doing continuous internal work on the medium.
+            Simply speaking, the total energy in the stress can be taken
+            as a function of the sum of the squares of the magnitudes of
+            the internal  vector components.   Note  that  the  internal
+            energy patterning,  however, is  specific both in individual
+            magnitudes and  directions.   So for zero-vector translation
+            resultant systems,  the system  is a scalar stress system __
+            non-translating __ in terms of its total magnitude, but that
+            scalar stress  system is  specific in  terms of  its  hidden
+            internal translation vector structure.   Also, note that two
+            stress systems  can have  identical stress  magnitudes  (the
+            same amount of internal energy), but its internal components
+            may vary  drastically, both  in  individual  directions  and
+            individual energies directed in those directions.
+
+       43.  Tesla considered  that an  electrical charge  was carried by
+            the electron, but was distinct from the electron itself.  He
+            considered electricity  to be  a fluid thinner than any form
+            of matter,  with highly  specific  properties  of  its  own,
+            completely separate  from matter.   He considered the charge
+            of the  electron to be due to a surface layer of electricity
+            covering it,  and it  could receive  many layers,  giving it
+            multiple charges,  all of  which could  be dissipated.   See
+            John J.  O'Neill, Prodigal Genius, Angriff Press, Hollywood,
+            California, 1981, p. 249-250.
+
+       44.  For appreciable  curvature and hence use of the vacuum as an
+            appreciable EM  energy source  or sink,  one must  alter the
+            mass potential  of the atomic nucleus.  In other words, that
+            is where  most of  the potential  energy is,  and it  has an
+            internal Whittaker  EM biwave  structure which can gradually
+            be appreciably  activated and  altered.   See, for  example,
+            Ingram   Bloch   and   Horace   Crater,   "Lorentz-invariant
+            potentials and  the nonrelativistic limit," American Journal
+            of Physics, 49(1), Jan. 1981, p. 67-75.  When the trapped EM
+            energy in  the mass  potential is  altered to  a  degree  of
+            notable size  with respect  to the  particle's rest  energy,
+            ordinary Newtonian  mechanics and  the Schroedinger equation
+            may be inadequate, even if v/c is small.
+
+       45.  E.g., see  David Halliday, Robert Resnick, and John Merrill,
+            Fundamentals of Physics, Third Edition Extended, Volume Two,
+            John Wiley  & Sons,  New York,  1988, p.  1024.    See  also
+            Chapter 2  of Peter Galison, How Experiments End, University
+            of Chicago  Press, 1987  for a  detailed description  of the
+            Einstein-de Haas  experiment of  1915, and  of  the  related
+            experiments that  followed it.   Also note particularly that
+            the suspended  static magnet  case does  not appear  to have
+            been carefully  examined; instead,  almost all  the work was
+            with alteration, or change of the magnetization.  I am aware
+            of Soviet  work, however,  that flatly  states that a magnet
+            carefully  and   axially  suspended  vertically  develops  a
+            macroscopic turning  moment.   See again  Halliday, Resnick,
+            and Merrill,  p. 1024.   Is  there  a  cancellation  angular
+            momentum  that  cancels  the  macroscopic  angular  momentum
+            effect?  If so, from whence does it come?  Can it be evaded?
+            Think about it.
+
+       46.  Our approach  to scalar EM requires that the value of c be a
+            function of  the VPF intensity of the vacuum.  In fact, some
+            of the  very best measurements clearly show this fact.  See,
+            for example,  Bryan G. Wallace, "The great speed of light in
+            space coverup,"  Scientific Ethics, 1(1), Feb. 1985, p. 2-3.
+            According to  Wallace's  findings,  significant  unexplained
+            systematic variations  exist in  all measured interplanetary
+            radar data,  and the Jet Propulsion Laboratory is apparently
+            forced to  use empirical  correction factors  to uphold  the
+            constancy of  the speed  of light.   See also M.E. Ash, I.I.
+            Shapiro, and  W.B. Smith,  Astron. J., Vol. 72, 1967, p. 72.
+            Direct experiments  on Einstein's  second postulate,  in the
+            1961 interplanetary  radar  contact  with  Venus,  challenge
+            whether relativity  is correct.   Variations of over 30,000%
+            of the  best possible general relativity fit the MIT Lincoln
+            Lab could  generate were  measured.  The variations were not
+            random but  contained diurnal,  lunar, and  synodic periodic
+            components.  See also Bryan G. Wallace, "The Unified Quantum
+            Electrodynamic Ether," Foundations of Physics, Vol. 3, 1973,
+            p. 381.   Wallace  details measurements strongly challenging
+            the Einstein  assumption of  the constant velocity of light,
+            and deals  with the nature of the ether.  Wallace's analysis
+            of such data strongly challenging the constancy of the speed
+            of light  in vacuum  has been  largely suppressed by leading
+            scientific journals.
+
+       47.  The huge  collection of charged particles in the mass of the
+            earth, and  the local  scalar EM  potential  resulting  from
+            them, results  in an  ambient vacuum  potential in the earth
+            laboratory that  is higher  in magnitude  than  the  ambient
+            vacuum potential  in  deep  space  far  from  planetary  and
+            stellar masses.   Just as sound travels faster through steel
+            than air, light should travel faster in a hard vacuum in the
+            earth laboratory than it does in deep space.  Indeed this is
+            true.     See,  for   example,  B.N.   Belyaev,  "On  random
+            fluctuations of  the  velocity  of  light  in  vacuum,"  [in
+            Russian], Izvestiya  Vysshikh Uchebnykh  Zavedenii,  Fizika,
+            Vol. 11, Nov. 1980, p. 37-42.
+
+       48.  A.D. Sakharov,  "Vacuum Quantum Fluctuations in Curved Space
+            and the Theory of Gravitation," Soviet Physics Doklady, Vol.
+            12, 1968, p. 1040.
+
+       49.  Thus the probability that a quantum potential will be formed
+            between separated electronic systems, etc., is a function of
+            the overall  signal density  of the environment, rather than
+            specific signal characteristics.  I have previously proposed
+            a self-targeting mechanism that directly creates the quantum
+            potential, via  the hidden Whittaker biwave EM communication
+            inside  the   scalar  EM   potential.    See  T.E.  Bearden,
+            Gravitobiology, Tesla  Book Co.,  POB 12183, Chula Vista, CA
+            91912, 1991,  p. 33-37.  An example of the quantum potential
+            effect also  apparently happened  during the U.S. air attack
+            on Libya  in April  1986.  See Mark Thompson, "Mixed signals
+            may have  misguided U.S. weapons," The Washington Post, Jan.
+            22, 1989, p. A4 for a description of the incident.
+
+       50.  For various  papers  treating  the  quantum  potential,  but
+            without any  notion of  the mechanism  that creates one, see
+            Quantum Implications:  Essays in  Honour of David Bohm, Eds.
+            B.J. Hiley and F. David Peat, Routledge & Kegan Paul, London
+            & New York, 1987.  Also, particularly see the various papers
+            on this  subject in Quantum Concepts in Space and Time, Eds.
+            R. Penrose and C.J. Isham, Clarendon Press, Oxford, 1986.
+
+       51.  Floyd Sweet and T.E. Bearden, ibid.
+
+       52.  Paul J.  Nahin, Oliver  Heaviside: Sage  in  Solitude,  IEEE
+            Press, New York, 1988, p. 307.
+
+       53.  For a beautiful consideration of negative energy in a theory
+            of gravitation,  see Frederick E. Alzofon, "Antigravity with
+            present   technology:    Implementation   and    theoretical
+            foundation," in  AIAA/SAE/ASME Joint  Propulsion Conference,
+            17th, Colorado  Springs, Colorado,  July  27-29,  1981,  New
+            York: American  Institute of  Aeronautics  and  Astronautics
+            Report #AIAA-81-1608, 1981.
+
+       54.  For example,  see "Nonlinear Forced Oscillations," in Modern
+            Mathematics for  the Engineer,  Edwin  F.  Beckenbach,  Ed.,
+            McGraw-Hill, New  York, 1956,  p. 18-20  for a  particularly
+            simple and  succinct introduction.   More complete coverages
+            are readily  available.   Our comment  here is  that, in the
+            graviton theory advanced in this paper, gravitons comprising
+            a scalar  EM potential  are  already  linked  spatially  and
+            harmonically/subharmonically, to  compose  a  spatiotemporal
+            lattice.
+
+       55.  The following  references should  prove useful:    Vlail  P.
+            Kaznacheyev and  L.P. Mikhailova,  Ultraweak  Radiations  in
+            Intercellular Interactions, [in Russian], Novosibirsk, 1981;
+            Vail  P.  Kaznacheyev,  "Electromagnetic  Bioinformation  in
+            Intercellular Interactions,"  PSI Research, 1(1), Mar. 1982,
+            p. 47-76.    [Although  the  PSI  Research  journal  is  now
+            defunct,  the   referenced  article   in   it   contains   a
+            considerable  amount   of  the   information  referenced  in
+            Kaznacheyev's book.]   See  also  V.P.  Kaznacheyev  et  Al,
+            "Distant intercellular  interactions  in  a  system  of  two
+            tissue cultures,"  Psychoenergetic Systems, 1(3), Mar. 1976;
+            Vlail P.  Kaznacheyev et  Al, "Apparent information transfer
+            between two groups of cells," Psychoenergetic Systems, 1(1),
+            Dec.  1974;   V.P.  Kaznacheyev,  "Information  function  of
+            Ultraweak Light Flows in Biological Systems," in Problems in
+            Biophysics, Novosirbirsk, 1967, p. 7-18 [in Russian].
+
+       56.  For decades the Soviets induced anomalous health changes and
+            diseases  in  personnel  in  the  U.S.  Embassy  in  Moscow,
+            utilizing microwave  radiation.   Studies by  Johns  Hopkins
+            researchers established  that the  anomalous health  changes
+            only occurred in personnel located in areas that had zero EM
+            force fields.   In other words, they occurred only where the
+            potentials __  if any  __ would have been gradient-free, and
+            hence persistent, and without bleed-off.  Specific Whittaker
+            structures introduced  into the  persistent potentials could
+            directly  account   for  the  results,  a  la  Kaznacheyev's
+            cytopathogenic effect.  Note that, in nonlinear systems, the
+            phenomenon  of   nonlinear  resonance   would   imply   that
+            subharmonics of  the specific  Kaznacheyev  optical  signals
+            from  damaged   cells  could  be  utilized  to  produce  the
+            cytopathogenic effect.   In other words, microwaves could be
+            utilized to  produce the  same results.   See  T.E. Bearden,
+            Gravitobiology, Tesla  Book Co.,  Chula  Vista,  California,
+            1991 for  more complete  details, mechanisms,  and extensive
+            references.
+
+       57.  In the  1960s  and  70's  French  inventor  Antoine  Priore,
+            working with  some of  the finest French medical scientists,
+            positively proved  that  killer  diseases  such  as  cancer,
+            leukemia,  sleeping   sickness,  etc.   can  be  cured  with
+            unorthodox  electromagnetics.     This   was  not  anecdotal
+            material,  but   rigorous  scientific  experiments  properly
+            performed and  reported in the French medical journals.  For
+            a complete  resume of  the Priore  affair,  see  Jean-Michel
+            Graille,  Le  Dossier  Priore,  De  Noel,  Paris,  1984  (in
+            French).   For a substantial synopsis, see Christopher Bird,
+            "Appendix I:  The Case of Antoine Priore and His Therapeutic
+            Machine: A  Scandal in  the Politics  of Science,"  in  T.E.
+            Bearden, AIDS:  Biological Warfare,  ibid. p.  346-375.  See
+            also Priore references, ibid., p. 333-339.  For an excellent
+            lay summary  of the  Priore Affair, with some details of the
+            working of  Priore's  machine,  particularly  see  David  M.
+            Rorvick, "Do  the French  have a  cure for cancer?", Esquire
+            Magazine, July 1975, p. 110-111, 142-149.
+
+       58.  As an  example, one eminent French scientist who worked with
+            Priore was Dr. Robert Courrier, then Secretaire Perpetuel of
+            the French Academy of Sciences, and also head of the Biology
+            Section of  the  Academy.    Courrier  personally  presented
+            Priore's  astounding   results  to   the   French   Academy.
+            Pautrizel was  also another  eminent  French  scientist  who
+            extensively worked  with Priore, and wrote several technical
+            papers on  the results,  and these papers are printed in the
+            standard French medical literature.
+
+       59.  See  Fritz   Albert  Popp,  "Photon  Storage  in  Biological
+            Systems," in  Fritz Albert Popp et Al, Eds., Electromagnetic
+            Bio-Information:  Proceedings  of  the  Symposium,  Marburg,
+            September 5,  1977, Urban  & Schwarzenberg, Baltimore, 1979,
+            p. 123-149.
+
+       60.  Aharonov and Bohm, Physical Review, 1959.
+
+       61.  Whittaker, 1904, ibid.
+
+       62.  Specifically, it  is absolutely  essential  to  read  Morris
+            Kline, Mathematics: The Loss of Certainty, Oxford University
+            Press, New York, 1980
+
+       63.  See, for  example, G.  Spencer Brown,  Laws of  Form, Julian
+            Press, New York, 1972.
+
+       64.  See Appendix  III: "A  Conditional Criterion  for  Identity,
+            Leading to  a Fourth  Law of  Logic," in T.E. Bearden, AIDS:
+            Biological Warfare,  Tesla Book Co., POB 12183, Chula Vista,
+            CA 91912, 1988, p. 428-443.
+
+       65.  Robert Bruce  Lindsay and  Henry  Margenau,  Foundations  of
+            Physics, Dover Publications, New York, 1963.
+

@@ -1,0 +1,1022 @@
+From t89djo@student.tdb.uu.se  Thu Jun  2 19:42:29 1994
+Received: from vesicle.ibg.uu.se by receptor.ibg.uu.se via SMTP (931110.SGI/930416.SGI.AUTO)
+	for david id AA00851; Thu, 2 Jun 94 19:42:29 +0200
+Received: from albireo.tdb.uu.se by vesicle.ibg.uu.se via SMTP (931110.SGI/930416.SGI.AUTO)
+	for david@receptor.ibg.uu.se id AA04136; Thu, 2 Jun 94 19:42:25 +0200
+Received: (from t89djo@localhost) by albireo.tdb.uu.se (8.6.8/8.6.6) id SAA26143 for david@vesicle.ibg.uu.se; Thu, 2 Jun 1994 18:42:13 +0200
+Date: Thu, 2 Jun 1994 18:42:13 +0200
+From: David Jonsson <t89djo@student.tdb.uu.se>
+Message-Id: <199406021642.SAA26143@albireo.tdb.uu.se>
+To: david@vesicle
+Subject: (fwd) Mini-FAQ: Warp and Subspace
+Newsgroups: rec.arts.startrek.tech
+Reply-To: t89djo@student.tdb.uu.se
+Content-Type: text
+Content-Length: 43000
+Status: RO
+
+Newsgroups: rec.arts.startrek.tech
+Path: columba.udac.uu.se!sunic!pipex!howland.reston.ans.net!usc!elroy.jpl.nasa.gov!decwrl!tribune.usask.ca!quartz.ucs.ualberta.ca!acs.ucalgary.ca!jsbell
+From: jsbell@acs.ucalgary.ca (Joshua Bell)
+Subject: Mini-FAQ: Warp and Subspace
+Message-ID: <Jun1.072340.30528@acs.ucalgary.ca>
+Date: Wed, 1 Jun 1994 07:23:40 GMT
+Expires: Sat, 2 Jul 1994 00:00:00 GMT
+Organization: The University of Calgary, Alberta, Canada
+Lines: 987
+
+WARNING: Contains spoilers for TNG "All Good Things..."
+
+                    Warp and Subspace Mini-FAQ
+                      (updated May 30, 1994)
+        Maintained by: Joshua Bell <jsbell@acs.ucalgary.ca>
+
+Answers to common questions as theorized by me, and based on
+canonical and quasi-canonical information.
+
+Comments, additions, suggestions, flames, etc. are welcomed.
+
+I *strongly* suggest reading Jason Hinson's "Relativity and FTL"
+FAQ.  I'll try to avoid dealing with real science in this FAQ,
+and focus on that portrayed in Star Trek (in all its
+incarnations).
+
+ Contents:
+
+       Glossary
+|   I. Gettin' Nowhere Fast - Speeds and Basics
+|  II. A Wrench in the Works - Mechanics of Warp Drive
+| III. Can We Talk? - Subspace Communication
+|  IV. Nitty Gritty - Non-Warp FTL, Miscellaneous
+       Credits
+       Note on References
+......................................................................
+
+ Glossary:
+
+ FTL    - Faster Than Light (usually communication or travel)
+ STL    - Slower Than Light
+ M/AMR   - Matter/Antimatter Reactor (also called Warp Core)
+ IPS     - Impulse Power System
+ c      - Speed of Light ( ~= 3 * 10^8 m/s )
+ warp   - One method of FTL travel used in Star Trek
+ Warp   - Short for "Warp factor", referring to a velocity of warp
+
+......................................................................
+
+ Part I: Gettin' Nowhere Fast
+
+ "Warp speed is <insert formula here>!"
+
+ Many things have shown up in that spot. Here's the lowdown on
+ figuring out how fast warp travel is. Velocity is always quoted
+ as a multiple of the speed of light.
+
+ Tables:
+ 
+  Note that this table is based on the TNG era warp scale. See
+ notes below.
+ 
+ From the Encyclopedia and Tech Manual:
+ 
+    Warp Factor    Velocity     Comment
+        1              1        Speed of Light
+        2             10
+        3             39
+        4            102
+        5            214        Federation speed limit (TNG "Force of Nature")
+        6            392        
+        7            656
+        8           1024
+        9           1516
+        9.2         1649        (From here down c/ Encyc except 9.9997)
+        9.6         1909
+        9.9         3053        Enterprise-D maximum speed.
+        9.99        7912
+        9.9997   ~198696        Subspace radio speed (TM)
+        9.9999    199516        Maximum boosted subspace radio speed (Encyc)
+ 
+ The Tech Manual (on page 111) says that a subspace radio signal
+ travels at Warp 9.9997, and takes 45 minutes to reach 17 light
+ years. The value above is only approximate, and the value in the
+ Encyclpedia may be a mistake, given the similarity.
+
+ Formulas:
+
+ v = velocity           c = speed of light in vacuum
+ W = Warp factor                ^ = "to the power of"
+ M = Mike's constant
+
+ "TOS scale" (TOS/TAS/TFS except ST4):  v = (W ^ 3) * c
+
+ This is old, boring, and accepted by almost everyone, even though
+ it has never been stated in any episode or movie. It's even in
+ the Encyclopedia.
+
+ "TNG scale" (TNG/DS9 & ST4):  We haven't a clue.
+ 
+ Before the Encyclopedia came out we had some pretty good guesses,
+ since fewer data points existed. The best formula proposed thus
+ far is:
+              /    _______             M  \
+         v = |   3|   10    +  (10 - W)    | * c
+              \  \|  W                    /
+
+ Two values have been proposed for the M constant. The first, and
+ most often quoted, is (-11/3). This generates a graph which
+ matches the TNG Tech Manual almost exactly, and swoops off to
+ infinity quickly after that. The second, derived by Sharon
+ Collicutt, has M ~= -1.502. This includes the "lost data point"
+ given on page 111 of the Tech Manual, the speed of Warp 9.9997.
+
+ The M=-11/3 value works for W <= 9. The M=-1.502 value works for 
+ W <= 9 and W = 9.9997, but misses the other new datapoints by a
+ fair margin.
+
+ The TNG Tech Manual indicates that Mike Okuda has an actual
+ formula, within an Excel spreadsheet on his Macintosh, but no-one
+ has reported seeing it to r.a.st.tech. "Our solution was to
+ redraw the warp curve so that the exponent of the warp factor
+ increases gradually, then sharply as you approach Warp 10. At
+ Warp 10, the exponent (and the speed) would be infinite..."
+
+ Note that none of the proposed formulas have an increasing
+ exponent. Given the description, I attempted some simple
+ formulas, on the hunch that Rick and Mike wouldn't bother with
+ anything really fancy. v = c * (W ^ (3 + 1/(10-W))) is the right
+ shape, but is very off for anything above 7 or so. I suspect
+ that the actual formula is something similar to this, however.
+
+
+ Here's an ASCII version of a graph from the TNG Tech Manual:
+
+         Warp speed/power graph
+       |                                                            :| .- 10^10
+       |                                                           : | :=
+       |                                                       +  :  | :-
+       |                                                       :::  '  :- 10^9
+ 10^4 -|                                                 +    :     |  :=
+      =|                                           +     :   :      |  :-
+      =|                                     +     :    :::::     ,/   :- 10^8
+      -|                               +     :     :  ::     __*-'     :=
+ 1000 -|                               :     :    :::: __*--'  |    ???:-
+      =|                         +     :    ::   __*--'  |     |       :- 10^7
+      =|                         :    ::   __*--': |     |     |       :=
+      -|                   +     :   __*--': |:::  |     |     |       :-
+  100 -|                   :    _*--': |::   |     |     |     |       :- 10^6
+      =|                   : _-':|  :  |     |     |     |     |       :=
+      =|             +    _*'  : |::   |     |     |     |     |       :-
+      -|             : _-':|   : |     |     |     |     |     |       :- 10^5
+   10 -|             *'   :|  :  |     |     |     |     |     |       :=
+      =|       +   ,'|   : |::   |     |     |     |     |     |       :-
+      =|       : ,' :|   : |     |     |     |     |     |     |       :- 10^4
+      -|       :/   :|  :  |     |     |     |     |     |     |       :=
+    1 -|      :*   : |::   |     |     |     |     |     |     |       :-
+      =|     :/|   : |     |     |     |     |     |     |     |       :- 10^3
+      =|   ::/ |  :  |     |     |     |     |     |     |     |       :=
+      -|:_:-'  |::   |     |     |     |     |     |     |     |       :-
+      -| ,-----|-----|-----|-----|-----|-----|-----|-----|-----|-----. :- 10^2
+ ------' |    1|    2|    3|    4|    5|    6|    7|    8|    9|     | `::::::::
+  |                            Warp Factor                                    |
+  `--- Velocity in                                          Power usage in ---'
+       multiples of c                                  Megajoules/cochrane
+
+                 __.---'  Velocity      * Integral Warp Values
+                 :::::::  Power         + Power Thresholds
+
+ The part of the graph above the ??? is speculation, and is just
+ to show that as W -> 10, velocity and power -> infinity.
+
+
+|"Future TNG scale" (TNG "All Good Things..."): ?!?!?
+|
+|Quoted in this episode is the speed Warp 13. While we haven't a
+|clue how fast this is, it is presumably faster than Warp 9 on the
+|TNG scale, and necessarily slower than Warp 10 on the TNG scale
+|(since TNG Warp 10 is infinite speed). Three possibilities
+|present themselves:
+|
+|  - They switched back to the TOS scale when warp travel at
+|   speeds > Warp 9 became routine for all ships.
+|  - New integral warp factors were discovered between Warp 9 and
+|   infinite speed, so Warp 10-13 *at least* are the new integral
+|   values, and what we thought was Warp 10 was really something
+|   else.
+|  - Warp 10-13+ are shorthand for Warp 9.x. One possibility is
+|   that 9.90 is called Warp 10, 9.91 is called Warp 11, etc.
+|
+|Unfortunately, there's no way to tell which of the following is
+|correct, although the latter two have the most support on the
+|newgroup, and the second is most pleasing to my eyes.
+
+....
+
+ "Where has there been support on screen for this?"
+ 
+ TNG "The Most Toys" gives one set of numbers that verify the 
+ Warp 3 values listed above. If anyone out there has them, can you
+ pass them on to me?
+ 
+ TNG "Bloodlines" gives another set of numbers for Warp 9, stated
+ by Riker after hearing some numbers from Data:
+        300 billion kilometers in 20 minutes @ Warp 9
+ 
+        Warp 9 = (300e12 m) / (20 min * 60s/min)
+               = 2.5e11 m/s
+ 
+        From the chart: Warp 9 = 1516c ~= 4.548e11 m/s
+ 
+        Discrepancy? Riker did the calculations in his head in
+ about 5 seconds given arbitrary numbers. He's within a factor of
+ two, so I won't complain. Still, something more accurate would 
+|have been nice. Bok's ship was "holding position", so it was
+|a simple flight path.
+
+|TNG "Emergence": the Enterprise jumped to Warp 7.3, and
+|travelled 30 billion kilometers in a couple of minutes.
+| 
+|All of the formulas we have for warp speeds predict Warp 7.3 to 
+|be approximately 746c. Using c = 3e8 m/s, we get v = 2.24e11 m/s.
+|30 billion km = 3e13m. So t = 134s, or just over two minutes.
+ 
+ Any further numbers that can be derived from the show would be
+ appreciated.
+
+....
+
+ "Whats a cochrane?"
+
+ The Tech Manual has this definition: "The cochrane is the unit
+ used to measure subspace field stress. Cochranes are also used to
+ measure field distortion by other spatial manipulation devices...
+ Fields below Warp 1 are measured in millicochranes."
+
+ Basically, it's a new unit of measurement. The Tech Manual says
+ that one cochrane of asymmetric subspace distortion roughly
+ corresponds to one factor of the speed of light, so a field of
+ Warp 3, 39 times the speed of light, is actually a 39 cochrane
+ field.
+
+....
+
+ "What does cochrane stand for?"
+
+ The units are named after the scientist credited with the
+ development of the warp drive, Zefram Cochrane, known as Zefram
+ Cochrane of Alpha Centauri. With a drive capable of Warp 1, his
+ team from earth relocated to colonies on Alpha Centauri
+ (established with sublight ships).
+
+ In TOS "Metamorphosis", we learn that Cochrane, at age 87, left
+ Alpha Centauri and was presumed dead. It turns out he was kept
+ alive by an energy entity, and met by Kirk, Spock, and McCoy,
+ although no official record of this encounter is made.
+
+ Rumors of Cochrane being native to Alpha Centauri were once
+ spread by Klingon sympathizers who wanted to knock Earth down a
+ peg, but fortunately this disinformation campaign seems to have
+ ended. (This is a joke, BTW, referring to ST:WoF)
+
+....
+
+ "Whats this about a Warp 10 barrier?"
+
+ In the TNG scale, Warp 10 is infinite speed. As you approach a
+ position on the graph corresponding to Warp 10, your power
+ requirements increase astronomically compared to your increase in
+ speed. But you can keep speeding up forever, unlike the light
+ barrier, which keeps you from getting to the speed of light.
+
+ In other words, keep piling on the 9s. Warp 9.99 is a lot faster
+ than Warp 9.9, while Warp 3.99 is only marginally faster than
+ Warp 3.9. The barier is only one of energy, not velocity.
+
+....
+
+ "But in TOS "Is There in Truth no Beauty?" and TOS "That Which
+ Survives", the old Enterprise went over Warp 14!"
+
+ Yes, but that's on the old scale. By the new scale, that
+ translates to about Warp 9.7, which the Enterprise-D can do for
+ brief periods (its emergency speed is Warp 9.6). The original
+ Enterprise was being shaken apart.
+
+....
+
+ "So why'd the Warp scale change between TOS and TNG?"
+
+ Gene Roddenberry himself put Warp 10 at infinite speed,
+ according to the TNG Tech Manual. To keep the scale fluid, Okuda
+ and Sternbach made it asymptotic, while starting off similar to
+ the TOS scale.
+
+ The best explanation for why it changed internally (from the
+ characters' point of view), is that the original scale was
+ established before warp was fully understood. 
+
+ Looking at the graph, you can see that the energy costs for
+ cruising at integral Warp values are much lower than for
+ non-integral Warp factors. The first explorers to travel past
+ Warp 1 must have realized this. Since for Warp values in the
+ 1-3 range follow the v = (W ^ 3) * c formula, it makes sense that
+ a scale based on the formula would come into use.
+
+ When ships started cruising at Warp values larger than 5, the
+ difference between what v = (W ^ 3) * c predicted to be the most
+ energy efficient speeds and what actually were must have become
+ noticeable. It may have taken a long time for a new, accurate
+ scale based on new observations came into use. (Look at the USA
+ and SI, for an example of a large sociopolitical body taking a
+ long time to adopt a more useful, universally used scale.)
+
+ Sulu's readings of Warp velocity in Star Trek IV seem to hint
+ that the Klingons had moved to an accurate scale by the 2280s,
+ but the Federation didn't catch up until much later, even though
+ it must have been painfully obvious that the old scale was next
+ to useless. Fortunately, some time before TNG, the new, accurate
+ scale was adopted by Starfleet.
+
+|Based on evidence in TNG "All Good Things...", it is possible
+|that this was later found to be inaccurate, and in fact more
+|integral warp values were found beyond 9, allowing for somewhat
+|more efficient warp travel in the Warp 9.9+ range, and
+|conveniently known as Warp 10, 11, 12, 13, etc. This was
+|doubtless a surprise to the theoreticians who thought Warp 9 was
+|the last integral value.
+
+....
+
+ "What causes fractional warp speeds?"
+
+ As you can see from the above chart, travelling at integral Warp
+ factors is much more energy efficient. But there are times when
+ a fractional value must be used - for example, staying a certain
+ distance from another ship, or keeping pace with some phenomenon.
+ Also, beyond Warp 9, only fractional speeds are possible.
+|(Modulo TNG "All Good Things...", of course.)
+....
+
+ "Why not use impulse drive within the warp field to create a higher
+  velocity?"
+
+ There's no reason to think that a Newtonian drive (Impulse) would
+ augment a non-Newtonian drive (warp). Also, consider that the
+ maximum velocity attainable with a Newtonian drive is c. At Warp
+ 2, which is ~= 10c, this gives you a whole 11c at maximum
+ (overloading, fuel wasting) impulse. Warp 2.1 is about 12c
+ anyway, so overloading the impulse drive doesn't get you much.
+
+
+ "What about TOS "The Corbomite Maneuver"?"
+
+ Kirk and Sulu use a combination of warp drive and Impulse to break 
+ free of the First Federation pilot craft. The combination of a 
+ tractor beam, impulse drive, and warp drive would be very strange, 
+ and many explanations come to mind, such as the warp field causing
+ the tractor effect to "slip" away, while the impulse provides 
+ propulsion, or the impulse fighting the tractor beam intertially
+ while the warp drive provides propulsion, etc.
+
+......................................................................
+
+ Part II: A Wrench in the Works
+
+ NOTE: There are *two* distinct problems to be solved when
+ describing any FTL drive. The first is that relativity will not
+ permit an object to accelerate to speeds greater than or equal to
+ c. The second problem is that in a relativistic universe, if you
+ could get from point A to point B faster than light could by ANY
+ means (including leaving the universe altogether), you have
+ traveled backwards in time from certain reference frames. Thus, 
+ you could, for example, relay a message to yourself before you
+ underwent the FTL travel, and create a paradox. Both must be 
+ addressed to form a believable FTL system. 
+
+ "Warp works by <insert idea here>!"
+
+ Some favorites include:
+
+ - Making space into waves, and skipping between the crests.
+ - Bringing points in space closer together.
+ - Changing the speed of light around the ship.*
+ - The ship's mass is reduced to 0, and it can go any speed.**
+ - Leaving our universe, and going through a hyperspace.
+ - Entering subspace, and taking a bubble of real space with you.
+ - Compressing space around the ship to make the distance shorter.
+
+ All of these attempt to get around the first problem, but ignore
+ the second. And none of these match the evidence seen on screen
+ and in the Tech Manual, which is that the FTL effect is created
+ by powerful, nested subspace (aka warp) fields that push off
+ each other to generate FTL speeds. 
+
+ Further, without any additional effects, each of these can lead
+ to a violation of causality, meaning every time you go into warp
+ you time travel, from a certain frame of reference. This is 
+ addressed in great detail in Jason Hinson's "Relativity and FTL"
+ FAQ.
+
+ Ships in warp interact with things in normal space, one of the
+ reasons for the navigational deflector. Things in warp require a
+ subspace field to enter and stay in warp, and it takes an
+ enormous amount of power to generate this. When the subspace
+ field decays, a ship drops out of warp returning to some STL
+ velocity.
+
+ * The point has been made that by constructing a space with a
+ hyperbolic geometry(?) between the source and destination of
+ two points, you can get away with FTL travel without the nasty
+ causality violation effects pointed out by Jason's FAQ. However,
+ this involves making changes to spacetime along your entire
+ flight path before you travel, a change which then must last
+ forever. This doesn't seem as similar to what we see on Star
+ Trek as Jason's proposal. This information is from memory, so
+ corrections from someone in the know would be appreciated.
+
+ ** A subspace field does reduce the inertial mass of an object
+ within it, i.e. it appears lighter. But it does not lower the
+ mass to zero, nor on its own would this effect allow FTL travel,
+ as massless particles in our universe are still restricted to
+ light speed. It turns out that this effect isn't even considered
+ for warp travel, although it is used for impulse engines - less
+ mass to push around.
+
+....
+
+ "Well, so how *does* warp work?"
+
+ A powerful, asymmetric subspace field is established around the
+ ship by the warp nacelles. The field is composed of nested
+ layers, each pushing against the one beyond it. This drives the
+ ship forward, at a super-luminal velocity. 
+
+ The nacelles are powered by a tuned plasma stream from the warp
+ core Matter/Antimatter Reactor (M/AMR). Injectors feed the plasma
+ into warp field coil segments at specific times, causing pulses
+ to run the length of the nacelle, front to back. This peristaltic
+ flow causes the push of the nested warp fields, and moves the
+ ship forward.
+
+ The warp field wraps around the ship in a two-lobed bubble, with
+ the locus at Main Engineering (by design). The shape of the ship
+ determines the efficiency of the field, and this explains why the
+ Enterprise has such a sleek design.
+
+ Meanwhile, the subspace field reduces the inertial mass of the
+ ship, aiding in maneuvering. In fact, a small subspace field is
+ kept around the ship at Impulse speeds, so the Impulse drives
+ have less mass to push around. However, this is only a side
+ effect and is NOT the mechanism used to allow FTL travel.
+
+....
+
+ "But, but... that's just what it does! How does it work!!!"
+
+ Alas, there is no canonical answer. The "Relativity and FTL" FAQ
+ offers a possibility, that the subspace field forces the ship to
+ take on the reference frame of subspace itself, which is a
+ special reference frame, circumventing the limits of General
+ Relativity.
+
+ Unfortunately, this *still* isn't an explanation of how it works.
+ The Tech Manual offers that each of the nested fields couple and
+ decouple from each other at velocities near (but less than) c. It
+ could be that the interaction of these fields, combined with the
+ special frame subspace provides, causes the ship as a whole to
+ travel at FTL speeds.
+
+ If two nested fields have their outer edges "locked" into the 
+ special frame, while the inner edges travel at near-c relative to
+ one another, this might cause the FTL effect, as an artifact of 
+ the special frame trick. This has the added support of being
+ almost exactly what the Tech Manual describes, but it doesn't
+ mention the special frame.
+
+ Since this makes for boring drama, it's unlikely we'll ever
+ "really know" how warp works in Star Trek.
+
+....
+
+ "So what stops the ship from accelerating and getting faster and
+ faster?"
+
+ Warp travel is non-Newtonian. Without a constant influx of
+ energy, the subspace field will decay, and the ship will drop out
+ of warp. In other words, you *must* continue to provide energy to
+ maintain your warp velocity. 
+
+ Anything which travels at FTL speeds must use a warp field (or
+ some other technology) to keep moving at those speeds. 
+
+....
+
+ "What about "continuum drag" ?"
+
+ This was an idea proposed in the forgotten past to explain the
+ above problem. To me, however, it seem that there is no need for
+ such a force, since we are not dealing with Newtonian
+ action/reaction drives, or force/acceleration systems.
+
+....
+
+ "So how'd the Saucer travel at warp speeds (in "Encounter at
+ Farpoint") ?" 
+
+ The Tech Manual states that the subspace field generators coupled
+ to the Impulse drive can be used to maintain a decaying subspace
+ field for brief periods of time. The decay is inevitable, but it
+ can be drawn out, to allow the saucer section to get out of
+ danger.
+
+ By field-saturating the nacelles (according to TNG "Force of
+ Nature"), after a 6 second burst of maximum warp the Enterprise
+ can "coast" at warp for 2 minutes 8 seconds before dropping out
+ of warp. This is a form of "warp without warp drive", although
+ the effect does not last very long.
+
+ This is similar to how photon torpedos can be used at warp
+ speeds. They have small "warp sustainer" engines that allow them
+ to cruise at their launch velocity (if launched while in warp)
+ for brief periods.
+
+....
+
+ "This new Warp 5 speed limit - whats up with that?"
+
+ In TNG "Force of Nature" it is discovered that the Hekaras
+ Corridor, a region of space where warp travel is hindered except
+ for a narrow path, that the intense use of warp drives in an
+ already sensitive area can, over time, cause subspace rifts to
+ form, where subspace manifests itself in real space on a
+ macroscopic scale. This is not a good thing. 
+
+ "Does this take effect everywhere?"
+ 
+ Yes. In TNG "???" Admiral ??? authorizes Picard to travel faster
+ than Warp 5 for the duration of the mission. The Encyclopedia
+ concurs as well, naming Warp 5 as the new cruising speed for
+ starships. Overkill? Probably. Typical bureaucratic
+ overcompensation? Yep. 
+
+ 
+|"So what about in TNG "All Good Things..." ?"
+
+|It's safe to say that the USS Pasteur and USS Enterprise,
+|cruising at Warp 13, were able to ignore the Warp 5 limitation
+|enforced by Starfleet. There are a couple of explanations. The
+|first is that Starfleet simply repealed the ruling, and is
+|allowing ships to muck up subspace. That isn't what we'd expect
+|in the happy Star Trek Universe, however.
+|
+|The second is that changes to warp mechanics allow warp travel
+|without the nasty side effects. The Pasteur had very different
+|nacelle designs, the Enterprise had "fins" on the nacelle pylons
+|which would affect the shape of the warp fields, and it even had
+|a third nacelle which might be used to eliminate the nasty
+|effects of warp drive. 
+|
+|The third possibility is that these new integral speeds above
+|Warp 9 just don't hurt subspace the same way that other speeds
+|do. Personally, I go for the second option.
+
+......................................................................
+
+ Part III: Can We Talk?
+
+
+ "What is subspace?"
+
+ According to the Encyclopedia, it is a continuum with different
+ laws than our own. That doesn't help much, considering you can
+ makes fields of it in our universe. 
+ 
+ The best explanation I can come up with is that subspace is the
+ "substrate" within which our universe exists. A subspace field is
+ either a forced or natural intrusion of this domain into our own
+ space, altering the behavior of things within our spacetime.
+|The "subspace barrier" is the albeit flimsy dividing line
+|between the two continuums.
+ 
+ Many things support this: in TNG "Schisms" creatures exist within
+ a tertiary subspace manifold, a manifold being a term used to
+ describe the form our own universe takes when viewed from a
+ higher (theoretical) dimension. This is also called a deeper
+ level of subspace; another universe which is connected to ours by
+ subspace. In TNG "Remember Me" an entirely new universe was
+ "spawned off" by a static warp bubble, and it was only accessable
+ through subspace. The protouniverse in DS9 "Playing God" was an
+ intense subspace manifestation as well.
+ 
+ Protrusions of subspace, such as in TNG "Force of Nature", DS9
+ "Voretex", or the shockwave in ST6 do nasty things to our
+ spacetime. But subspace is also everywhere: sensors can detect  
+ subspace distortions caused by normal objects (TNG "Descent, Part
+ I"), communications work through subspace, and you can create
+ subspace fields. Whenever our spacetime is distorted or torn, or
+ large amounts of energy released (explosions) there are subspace
+ effects; wormholes and Transwarp Conduits are good examples where
+ subspace plays a part in the effect, and the presumably material-
+ based explosion of Praxis in ST6 generated the subspace
+ shockwave. 
+ 
+ Subspace fields are intentional manifestations of subspace in our
+ spacetime, caused by the controlled release of energy in a warp
+ field coil. These fields have many effects, often depending on
+ the intensity.
+ 
+   - They leave subspace distortions behind (TNG "Interface", DS9 
+    "The Maquis") even when they're gone. 
+   - An object placed in a subspace field has a reduced inertial
+    mass relative to things outside the field. (TNG "Deja Q")
+   - A symmetrical field (aka "Warp bubble") with enough power can
+    create an entirely new universe, but it may not be stable.
+    (TNG "Remember Me") 
+   - An asymetrical field can propel the generating ship at the
+    speed of light; nested fields propel the ship at the speed of
+    light relative to the field beyond. (TM)
+   - A subspace Soliton wave can carry a ship at the propagation
+    speed of the wave. (TNG "New Ground")
+   - A field can be embedded in an object (TNG "Phantasms")
+|  - Overlapping static warp shells can create an artificial
+|   subspace barrier in a localized region of spacetime (TNG "All
+|   Good Things...")
+  
+ You can think of subspace as being the "medium" in which our
+ spacetime exists. The nearest parts (nearest being measured by
+ the energy it takes to access them) are tightly coupled to our
+ own universe, and can be thought of as being mapped to our
+ spacetime. This is what sensors generally read, and what the
+ subspace fields of warp drive are interacting with. Slightly
+ deeper parts can connect points in our universe to others.
+ Wormholes and Transwarp Conduits are this sort of thing. Deeper
+ still are the "untamed wilds" seen in "Force of Nature". And even
+ further down are entirely separate universes, all held together
+ by subspace.
+ 
+ Subspace is not in an alternate reality, or "place", or spacetime
+ where things go - or at least, they don't go in the world of Star
+ Trek. It is not entered by a starship at warp. A ship creates a
+ subspace field which acts like another universe very tightly
+ coupled to our own. If I was inside such a field and you were
+ outside, we could conduct a conversation, shake hands, etc. But
+ when the field is powerful enough (1000 millicochranes or more)
+ and asymetric, it is propulsive. Nested, decoupling fields
+ magnify the effect considerably. But the ship still interacts
+ with everything in our universe, and vice versa, as the level of
+ subspace in which the field exists is so tightly coupled to our
+ own that it appears no "fancier" than, say, a magnetic field, if 
+ you're looking closely at it.
+ 
+ The weakest subspace fields do appear very similar to traditional
+ fields, like magnetic fields. They have associated particles (see
+ below), can be bound to objects (TNG "Phantasms"), can be used
+ for transmissions (subspace radio), and generally unremarkable on
+ their own other than as residue from more powerful effects.
+ 
+ To keep Jason Hinson and General Relativity happy, subspace
+ doesn't need to follow the rules of relativity. Subspace might
+ have a unique reference frame, and everything enclosed in a
+ subspace field has the reference frame of subspace.
+
+....
+
+ "What are Tetryons and Verterons?"
+
+ Subatomic particles mentioned in TNG "Force of Nature", and a 
+ number of other episodes. These seem to be some of the particles
+ associated with subspace fields, just as photons are particles
+ associated with electomagnetic fields.
+
+ A verteron mine is used to disable the Flemming, a Ferengi ship,
+ and the Enterprise in "Force of Nature". Verterons somehow
+ manage to break all devices which use subspace. Simplest
+ explanation - they inhibit interactions with subspace, causing
+ massive overloads and feedback which damages equipment. 
+
+ Verterons also infest the Wormhole near Bajor. In DS9 "Playing
+ God", a protouniverse intruding into our own c/o subspace was
+ kept contained by an energy field, but verteron pockets in the 
+ Wormhole threatened to release it, destroying a Runabout and
+ perhaps even the Wormhole. Verterons and subspace do not mix
+ well. 
+
+ They also allow vessels to travel through the wormhole under
+ impulse power (DS9 "In the Hands of the Prophets"), and they
+ appear in a display in Keiko's classroom on DS9 as the verteron
+ membrane at the outer boundary of one side of the wormhole.
+
+ Tetryons are particles which are stable in subspace but unstable
+ in normal space. They appear to be the main mediating particles
+ of subspace interactions with normal space. They were introduced
+ in TNG "Schisms" but they've shown up in "Force of Nature", and
+ a tetryon field is the result of an metaphasic shield
+ interaction in "Suspicions".
+
+....
+
+ "What is subspace radio?"
+ 
+ A means of sending a signal through subspace, so that it is not
+ limited by the speed of light. This is done by creating a
+ subspace distortion which propagates in much the same way as an
+ electromagnetic field. A large amount of energy is needed to send
+ a signal any large distance, and the more energy that is
+ available, the deeper the signal can be forced into subspace.
+ 
+ However, the signal dissipates over time, eventually releasing
+ the energy that is left as an electromagnetic field. A more
+ powerful initial signal can travel farther before this happens,
+ but there is a limit; too much energy and the level of subspace
+ that is used won't be tightly coupled to our own spacetime any
+ more, and the signal will probably go awry.
+
+....
+
+ "How fast is subspace radio?"
+
+ Under ideal conditions, Warp 9.9997. (TNG TM, page 99) This is
+ "sixty times faster than the fastest starship, either existing or
+ predicted" - assuming traditional warp technology.
+
+ The Encyclopedia says that with boosters and relays, Warp 9.9999
+ is the speed, but this may be a typo. 
+
+....
+
+ "Why is it instantaneous in the movies?"
+
+ No ad breaks.
+
+......................................................................
+
+ Part IV: Nitty Gritty
+
+
+ "FASA says the Enterprise-D uses UltraWarp, so nyeah!"
+
+ According to the TNG Tech Manual and Star Trek Chronology, the
+ Enterprise-D uses the same old warp technology seen in TOS...
+ just a much more advanced version.
+
+ The only hint that TOS, TFS and TNG warp drives might be
+ different is in their visual appearance on screen - only the 
+ TFS Enterprise "blurs" while in warp. We *have* seen the TNG
+ Enterprise do this - in "Force of Nature", when it field-
+ saturated its nacelles and ran at high warp for 6 seconds. 
+ Perhaps the TFS era warp drives used this field saturation to
+ generate higher speeds at lower energy, an effect which was
+ surpassed by later developments and obselete by TNG?
+
+....
+
+ "Some Starfleet ships use 3 nacelles!"
+
+ In 2269, Starfleet attempted ships with 1 and 3 or more warp
+ nacelles (TNG TM p65). As previously thought, 2 is the most
+ efficient, but 4 is apparently useful in some cases
+ (Constellation Class, Cheyenne Class).
+
+ You need one nacelle to get anywhere, minimum. However, to yaw
+ you need the nacelle to be split vertically (left and right
+ halves) and to pitch you need the nacelle to be split
+ horizontally (top and bottom halves). By using a split nacelle,
+ you can induce slight timing differences, and cause the desired
+ rotational effect (TM p65). This is a bit of a problem with one
+ nacelle, since you end up with each warp coil divided into four
+ segments. The TM indicates that matching *pairs* is difficult and
+ very sensitive. Matching four, and providing four plasma
+ injectors for each coil segment is probably difficult.
+
+ Having more than two nacelles (either 3 or 4) allows you to use
+ only a single segment per coil. But the warp field itself
+ requires a gap to be released! (TM p65) (For anyone who doubts
+ this, in TNG "Eye of the Beholder", we see TNG TM fig 5.3.3
+ reproduced on a large screen display with labels.)
+
+ So you've gonna have the warp coils split in two anyway; if you
+ use the top/bottom split to provide pitch control, and two
+ nacelles to provide yaw control, you're set.
+
+ On some designs, four nacelles may be the way to go; even with
+ the required split, being able to tune the warp field discreetly
+ may be enough of an advantange to warrant using four nacelles.
+
+....
+
+|"Ha! Three nacelle ships are canon!" (TNG "All Good Things...")
+
+|Note that a number of things have changed by the time we see the
+|USS Enterprise zipping around with three nacelles in that
+|episode:
+|
+|  - Warp 13 is a common cruising speed
+|  - Warp is no longer damaging spacetime
+|  - New nacelle designs are being used on other ships
+|
+|My own explanation: new nacelle designs allow ships like the USS
+|Pasteur to cruise at Warp 13 without frying spacetime. Older
+|ships, like the Enterprise, can be refitted with a third nacelle
+|(and other wingdings and widgets) to clean their subspace
+|emissions, so to speak. The third nacelle also allows a more
+|powerful field to be generated, to drive the ship around at Warp
+|13, but this goes beyond TNG-era knowledge of subspace mechanics.
+|
+|So as far as strictly TNG-era ships are concerned, three nacelles
+|are still worse than useless.
+
+....
+
+ "But the Ferengi/Borg/Klingon Bird of Prey don't have nacelles!"
+
+ The Borg probably have subspace field generators (redundantly)
+ scattered throughout their cube; they can then pulse them to
+ generate *massive* overlapping, pulsating subspace fields in any
+ direction. Same technique, more power, more flexibility.
+
+ As for Ferengi, perhaps they use shielding. One thing is certain;
+ the design of Ferengi ships allows for the ship to be contained
+ in a single lobed warp field. The Enterprise requires a double
+ lobe. Having "inboard" warp drives (like the Bird of Prey) gets
+ you a fast ship for less power; likely, shielding can prevent the
+ fields from frying the crew.
+
+ A display screen in DS9 "Blood Oath" may show the warp field of
+ the Bird of Prey - again, a single lobe.
+
+ Something to consider; most of the small ships (picture the
+ raiding ship from TNG "Gambit") don't have outboard drives. They
+ probably make the single-lobe/shielding tradeoff to keep their
+ ships small, fast and cheap. Ditto for shuttles with warp.
+
+....
+
+ "What's TransWarp?"
+
+ According to the Star Trek Chronology, the Excelsior was
+ commissioned as NX-2000 in 2284 as a test bed for the new
+ TransWarp technology. By 2287, the TransWarp Development Project
+ was deemed unsuccessful by Starfleet Command, and experiments
+ were halted.
+
+ TNG Tech Manual, p 14: "...The attempt to surpass the primary
+ warp field efficiency barrier with the TransWarp Development
+ Project in the early 2280s proved unsuccessful...."
+
+ It seems as though the designers were trying to get around the
+ energy limits traditional warp entailed, after passing Warp 9.
+
+ A few sources offer speculation on what TransWarp might be.
+ Unfortunately, when we finally saw TransWarp in action, they were
+ blown out of the water.
+
+ TNG "Descent" portrays the Borg using TransWarp Conduits. They
+ are still an artifact of subspace, but appear to be artificial.
+ Transfer through the conduits is 200 times faster than the
+ fastest warp available to Federation science (Warp 9.7 or 9.8),
+ covering lightyears in a matter of seconds rather than hours.
+
+ It *may* be that a TransWarp drive attempts to tunnel through
+ subspace, bypassing the limitations of warp entirely. If this is
+ the case, then it is no wonder Starfleet was forced to give up -
+ the energy requirements are beyond what the Borg have. Instead,
+ they use semi-stable conduits, accessed via a tachyon interaction
+ with a subspace distortion.
+
+....
+
+ "Besides TransWarp Conduits, what other alternate forms of FTL
+ travel have we seen?" 
+
+ TNG "Where No One Has Gone Before" - The Traveller propells the
+ Enterprise to the Andromeda Galaxy, using more advanced warp
+ equations.
+
+ TNG "The Nth Degree" - The Cytherians bring the Enterprise to
+ the center of the galaxy via graviton mediated subspace folding.
+
+ TNG "New Ground" - Soliton waves are used to move a ship at warp
+ speeds; "Warp without warp drive."
+
+ TNG "When the Bow Breaks" - The Aldeans shove the Enterprise
+ away at some immense speed. (Q does this too, often.)
+
+ TNG "The Price", and DS9 - Wormholes, stable and unstable,
+ connect remote parts of the galaxy.
+
+ TNG "Interface" - Geordi proposes an artificially created 
+ subspace "funnel" connecting points 300 light years apart.
+
+  (I'm missing lots, please let me know.)
+....
+
+ "Why do ships always meet the same way up?"
+
+ I know it's been proposed as a joke, but the idea that warp
+ travel requires a universal "up" isn't as silly as you might
+ think. We know that things in normal space affect subspace. What
+ if the mass and orientation of the entire galaxy, which is
+ nothing to sneeze at, affect subspace in such a way as to make
+ travel more efficient if your warp fields are generated parallel
+ to the plane of the galaxy?
+
+ It's then more efficient for ships to align their warp drives
+ with the plane of the galaxy, so flying "up" and "down" in the
+ galactic plane (which is relatively thin, about 1/10th to 1/40th 
+ the diameter of the galaxy) would take more energy. This also
+ explains the banking into turns and such.
+
+ If you have galactic-up and galactic-down to choose from, why
+ always the same way up? Probably a matter of protocol. Only 
+ "loser" races don't adhere to the standard. You'll also note
+ that many small ships are vertically symmetrical, perhaps as
+ their designers aren't quite up to snuff when it comes to
+ designing warp drives.
+
+ The second is that the subspace field of the galaxy would do
+ really weird things at the edge and at the center. Remember the
+ Great Barrier of TOS fame ("Where No Man Has Gone Before" and "By
+ Any Other Name") does nasty things to the Enterprise, and the one
+ near the center of the galaxy (if you believe in Star Trek V) was
+ pretty scary too.
+
+ Kirk made a number of references in "By Any Other Name" about
+ warp drive not working outside the galaxy, or something to that
+ effect. While the Kelvans of Andromeda had got that licked, this
+ does give the theory a little bit of support.
+
+ Another note: the subspace shockwave seen in Star Trek VI was 
+ both planar and aligned with the direction of the Excelsior's
+ vertical axis, and shockwaves within the subspace rift of TNG
+ "Force of Nature" were also aligned coplanar to the ship.
+
+......................................................................
+
+ Contributors:
+         Jason Hinson           <hinson@bohr.physics.purdue.edu> 
+         Greg Berigan           <gberigan@cse.unl.edu>
+         A.J. Madison           <ajm@walrus.sw.stratus.com>
+         Axis                   <nakazawa@tango.seas.upenn.edu>
+         Sharon Collicutt       <864677@academic.stu.StThomasU.ca>
+......................................................................
+ 
+ Note on References:
+ 
+ See the Reading List Mini-FAQ for a full details on the volumes
+ mentioned above and below.
+ 
+ More recently presented information is considered to supercede
+ old information, unless the weight of the evidence supports the
+ original data.
+ 
+ Greatest priority is placed on aired live-action material (canon)
+ and documents produced by or quoting the production crews for
+ Star Trek (quasi-canon), most notably the Technical Advisors to
+ ST:TNG and ST:DS9, Michael Okuda and Rick Sternbach.
+ 
+ Other materials are not considered reliable sources of
+ information, and anything gleaned from these is of questionable
+ relevance.
+ 
+ Canonical Material:
+ (DS9)  Star Trek: Deep Space Nine
+ (TNG)  Star Trek: The Next Generation
+ (TFS)  Star Trek feature films
+ (TOS)  Classic Star Trek
+ 
+ Quasi-canonical Material:
+ (Encyc) The Star Trek Encyclopedia: A Reference Guide to the Future
+ (Chron) Star Trek Chronology: The History of the Future
+ (TM)    Star Trek: The Next Generaion Technical Manual
+ 
+ Questionable Materials:
+         The Star Trek: The Next Generation Companion 
+           - contains some behind-the-scenes notes of interest
+         Other episode guides (Compendium, Concordance, etc)
+           - useful, esp. for spellings and details
+         The Making of Star Trek
+           - contains Roddenberry-approved TOS ship systems info
+         Episode scripts
+           - unaired material is often cut for a reason
+         Trading cards (esp. Skybox)
+           - technical stuff often prepared by production staff
+ 
+ Material that is ignored (other than where it reproduces material
+ from the above, e.g. photographs, descriptions, etc.):
+ (TAS)  Star Trek: The Animated Series
+         Mr. Scott's Guide to the Enterprise
+ (WoF)  Worlds of the Federation
+ (SFTM) Star Fleet Technical Manual
+ (TJ)   Starlog's Star Trek: The Next Generation Technical Journal
+         Other "reference" guides
+         Novels, incl. novelizations of films and episodes
+         Blueprints, drawings, photographs, models, etc.
+----------------------------------------------------------------------
+
+
+--
+David Jonsson        Voice&Fax +46-18-24 51 52
+P.O Box 353          Postal giro 499 40 54-7
+S-751 06  UPPSALA    Internet E-mail t89djo@student.tdb.uu.se
+SWEDEN               ++++++Cold EMISSION before the end of the century++++++
+
+

@@ -1,0 +1,4 @@
+target: http://newphysics.se
+mode: live
+title: Swedish Association for New Physics
+mirror_date: 2026-08-12T20:40:09Z

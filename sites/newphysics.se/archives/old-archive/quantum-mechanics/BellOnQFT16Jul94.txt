@@ -1,0 +1,427 @@
+
+From: Mitchell.Porter@launchpad.unc.edu (Mitchell Porter)
+Newsgroups: sci.physics,alt.sci.physics.new-theories,sci.philosophy.meta
+Subject: Bell's paper on QFT - Part 2
+Date: 12 Jul 1994 09:56:41 -0400
+Organization: University of North Carolina Extended Bulletin Board Service
+Lines: 221
+Sender: bbs@lambada.oit.unc.edu
+Distribution: world
+Message-ID: <2vu7ep$htd@lambada.oit.unc.edu>
+NNTP-Posting-Host: lambada.oit.unc.edu
+Summary: ... or wave function collapse, or anything like that.
+Xref: columba.udac.uu.se sci.physics:14592 alt.sci.physics.new-theories:1907 sci.philosophy.meta:1978
+
+
+Part Two of a transcription of Chapter 19 of:
+_Speakable and unspeakable in quantum mechanics_ by J.S. Bell
+
+
+3. Dynamics
+
+For the time evolution of the state vector we retain the ordinary Schroedinger
+equation,
+
+                        d/dt |t> = - iH|t>                      (4)
+
+where H is the ordinary Hamiltonian operator.
+  For the fermion number configuration we prescribe a stochastic development.
+In a small time interval dt configuration m jumps to configuration n with
+probability
+
+                        dt Tnm                                  (5)
+
+where
+
+                Tnm = Jnm/Dm                                    (6)
+
+                Jnm = SUM 2 Re <t|nq><nq|-iH|mp><mp|t>          (7)
+                       qp
+
+                Dm  = SUM |<mq|t>| ^2                           (8)
+                       q
+
+provided Jnm > 0, but
+
+                        Tnm = 0  if  Jnm <= 0                   (9)
+
+  From (5) the evolution of a probability distribution Pn over configurations
+n is given by
+
+                d/dt Pn = SUM (Tnm Pm - Tmn Pn)                 (10)
+			   m
+
+Compare this with a mathematical consequence of the Schroedinger equation (4):
+
+        d/dt |<nq|t>|^2 = SUM 2 Re <t|nq><nq|-iH|mp><mp|t>
+                           mp
+
+or
+
+                d/dt Dn = SUM Jnm = SUM (Tnm Dm - Tmn Dn)       (11)
+                           m         m
+
+If we assume that at some initial time
+
+                        Pn(0) = Dn(0)                           (12)
+
+then from (11) the solution of (10) is
+
+                        Pn(t) = Dn(t)                           (13)
+
+  Envisage then the following situation. In the beginning God chose 3-space
+and 1-time, a Hamiltonian H, and a state vector |0>. Then She chose a fermion
+configuration n(0). This She chose at random from an ensemble of possibilities
+with distribution D(0) related to the already chosen state vector |0>. Then
+She left the world alone to evolve according to (4) and (5).
+  It is notable that although the probability distribution P in (13) is
+governed by D and so by |t>, the latter is not to be thought of as just a way
+of expressing the probability distribution. For us |t> is an independent
+beable of the theory. Otherwise its appearance in the transition probabilities
+(5) would be quite unintelligible.
+  The stochastic transition probabilities (5) replace here the deterministic
+guiding equation of the de Broglie-Bohm "pilot wave" theory. The introduction
+of a stochastic element, for beables with discrete spectra, is unwelcome, for
+the reversibility [14] of the Schroedinger equation strongly suggests that
+quantum mechanics is not fundamentally stochastic in nature. However I suspect
+that the stochastic element introduced here goes away in some sense in the
+continuum limit.
+
+
+4. OQFT and BQFT
+
+OQFT is "ordinary" "orthodox" "observable" quantum field theory, whatever
+that may mean. BQFT is de Broglie-Bohm beable quantum field theory. To what
+extent do they agree? The main difficulty with the question is the absence of
+any sharp formulation of OQFT. We will consdier two different ways of reducing
+the ambiguity.
+  In OQFT1 the world is considered as one big experiment. God prepared it at
+the initial time t = 0, and let it run. At some much later time T She will
+return to judge the outcome. In particular She will observe the contents of
+all the physics journals. This will include of course the records of our own
+little experiments - as distributions of ink on paper, and so of fermion
+number. From (13) the OQFT1 probabilty D that God will observe one
+configuration rather than another is identical with the BQFT probability P
+that the configuration _is_ then one thing rather than another. In this sense
+there is complete agreement between OQFT1 and BQFT on the result of God's big
+experiment - including the results of our little ones.
+  OQFT1, in contrast with BQFT, says nothing about events in the system in
+between preparation and observation. However adequate this may be from an
+Olympian point of view, it is rather unsatisfactory for us. We live in between
+creation and last judgement - and imagine that we experience events. In this
+respect another version of OQFT is more appealing. In OQFT2, whenever the
+state can be resolved into a sum of two (or more) terms
+
+                |t> = |t,1> + |t,2>                             (14)
+
+which are "macroscopically different", then in disregard for the Schroedinger
+equation the state "collapses" somehow into one term or the other:
+
+                |t> -> (N1)^(-1/2) |t,1> with probability N1    (15)
+                |t> -> (N2)^(-1/2) |t,1> with probability N2
+
+where
+
+                N1 = |<t,1|t,1>|        N2 = |<t,2|t,2>|        (16)
+
+In this way the state is always, or nearly always, macroscopically unambiguous
+and defines a macroscopically definite history for the world. The words
+"macroscopic" and "collapse" are terribly vague. Nevertheless this version of
+OQFT is probably the nearest approach to a rational formulation of how we use
+quantum theory in practice.
+  Will OQFT2 agree with OQFT1 and BQFT at the final time T? This is the main
+issue in what is usually called "the Quantum Measurement Problem". Many
+authors, analyzing many models, have convinced themselves that the state
+vector collapse of OQFT2 is consistent with the Schroedinger equation of OQFT1
+"for all practical purposes".[15] The idea is that even when we retain both
+components in (13), evolving as required by the Schroedinger equation, they
+remain so different as not to interfere in the calculation of anything of
+interest. The following sharper form of this hypothesis seems plausible to me:
+the macroscopically distinct components remain so different, for a very long
+time, as not to interfere in the calculation of D and J.[5] In so far as this
+is true, the trajectories of OQFT2 and BQFT will agree macroscopically.
+
+
+5. Concluding remarks
+
+We have seen that BQFT is in complete accord with OQFT1 as regards the final
+outcome. It is plausibly consistent with OQFT2 in so far as the latter is
+unambiguous. BQFT already has the advantage over OQFT1 of being relevant at
+all times, and not just at the final time. It is superior to OQFT2 in being
+completely formulated in terms of unambiguous equations.
+  Yet even BQFT does not inspire complete happiness. For one thing there is
+nothing unique about the choice of fermion number density as basic local
+beable. We could have others instead, or in addition. For example the Higgs
+field of contemporary gauge theories could serve very well to define "the
+positions of things". Other possibilities have been considered by K.
+Baumann.[4] I do not see how this choice can be made experimentally
+significant, so long as the final results of experiments are defined so
+grossly as by the positions of instrument pointers, or of ink on paper.
+  And the status of Lorenz invariance is very curious. BQFT agrees with OQFT
+on the result of the Michelson-Morley experiment, and so on. But the
+formulation of BQFT relies heavily upon a particular division of space-time
+into space and time. Could this be avoided?
+  There is indeed a trivial way of imposing Lorentz invariance.[4] We can
+imagine the world to differ from vacuum only over a limited region of infinite
+Euclidean space (we forget general relativity here). Then an overall
+centre of mass system is defined. We simply assert that our equations hold
+in this centre of mass system. Our scheme is then Lorentz invariant. Many
+others could be made Lorentz invariant in the same way ... for example
+Newtonian mechanics. But such Lorentz invariance would not imply a null
+result for the Michelson-Morley experiment ... which could detect motion
+relative to the cosmic mass centre. To be predictive, Lorentz invariance
+must be supplemented by some kind of locality, or separability,
+consideration. Only then, in the case of a more or less isolated object,
+can motion relative to the world as a whole be deemed more or less irrelevant.
+  I do not know of a good general formulation of such a locality requirement.
+In classical field theory, part of the requirement could be formulation in
+terms of differential (as distinct from integral) equations in 3+1 dimensional
+space-time. But it seems clear that quantum mechanics requires a much bigger
+configuration space. One can formulate a locality requirement by permitting
+arbitrary external fields, and requiring that variation thereof have
+consequences only in their future light cones. In that case the fields could
+be used to set measuring instruments, and one comes into difficulty with
+quantum predictions for correlations related to those of Einstein, Podolsky
+and Rosen.[18] But the introduction of external fields is questionable. So I
+am unable to prove, or even formulate clearly, the proposition that a sharp
+formulation of quantum field theory. such as that set out here, must
+disrespect serious Lorentz invariance. But it seems to me that this is
+probably so.
+  As with relativity before Einstein, there is then a preferred frame in the
+formulation of the theory ... but it is experimentally indistinguishable.
+[20,21,22] It seems an eccentric way to make a world.
+
+
+Notes and references
+
+1. D. Bohm, _Phys.Rev._ 85, 166 (1952).
+2. D. Bohm, _Phys.Rev._ 85, 180 (1952).
+3. D. Bohm and B. Hiley, _Found.Phys._ 14, 270 (1984).
+4. K. Baumann, preprint, Graz (1984).
+5. J.S. Bell, _Phys.Rep._ 137, 49-54 (1986).
+6. T.H.R. Skyrme, _Proc.Roy.Soc._ A260, 127 (1961). A.S. Goldhaber,
+_Phys.Rev.Lett._ 36, 1122 (1976). F. Wilczek and A. Zee, _Phys.Rev.Lett._ 51,
+2250 (1983).
+7. L. de Broglie, _Tentative d'Interpretation Causale et Nonlineaire de la
+Mechanique Ondulatoire_. Gauthier-Villars, Paris (1956).
+8. J.S. Bell, _Rev.Mod.Phys._ 38, 447 (1966).
+9. J.S. Bell, in _Quantum Gravity_, p.611. Edited by Isham, Penrose and
+Sciama, Oxford (1981). (Originally TH. 1424-CERN, 1971 Oct 27).
+10. J.S. Bell, _Found.Phys._ 12, 989 (1982).
+11. A. Shimony, _Epistemological Letters_, Jan 1978, 1.
+12. B. Zumino, private communication.
+13. B. d'Espagnat, _Phys.Rep._ 110, 202-63 (1984).
+14. I ignore here the small violation of time reversibility that has shown up
+in elementary particle physics. It could be of "spontaneous" origin. Moreover
+PCT remains good.
+15. This is touched on in Refs. 9, 16, and 17, and in many papers inn the
+anthology of Wheeler and Zurek Ref.19.
+16. J.S. Bell, _Helv.Phys.Acta_ 48 (93) (1975).
+17. J.S. Bell, _Int.J.Quant.Chem._: Quantum Chemistry Symposium 14, p155
+(1980).
+18. J.S. Bell, _Journal de Physique_, Colloque C2, suppl. au no 3, Tome 42,
+pC2-41, mars 1981.
+19. J.A. Wheeler and W.H. Zurek (editors), _Quantum Theory and Measurement_.
+Princeton University Press, Princeton 1983.
+20. J.S. Bell, in _Determinism, Causality, and Particles_, p17. Edited by
+M. Flato et al. Dordrecht-Holland, D. Rediel (1976).
+21. P.H. Eberhardt, _Nuovo Cimento_ 46B, 392 (1978).
+22. K. Popper, _Found.Phys._ 12, 971 (1982).
+
+-- 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+Launchpad is an experimental internet BBS. The views of its users do not 
+necessarily represent those of UNC-Chapel Hill, OIT, or the SysOps.
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+--
+David Jonsson        Voice&Fax +46-18-24 51 52
+P.O Box 353          Postal giro 499 40 54-7
+S-751 06  UPPSALA    Internet E-mail t89djo@student.tdb.uu.se
+SWEDEN               +++++What E field is caused by acceleration/gravity?+++++
+
+From t89djo@student.tdb.uu.se  Sat Jul 16 12:58:01 1994
+Received: from albireo.tdb.uu.se by receptor.ibg.uu.se via SMTP (931110.SGI/930416.SGI.AUTO)
+	for david id AA00984; Sat, 16 Jul 94 12:58:01 +0200
+Received: (from t89djo@localhost) by albireo.tdb.uu.se (8.6.8/8.6.6) id MAA13797 for david@ibg.uu.se; Sat, 16 Jul 1994 12:54:29 +0200
+Date: Sat, 16 Jul 1994 12:54:29 +0200
+From: David Jonsson <t89djo@student.tdb.uu.se>
+Message-Id: <199407161054.MAA13797@albireo.tdb.uu.se>
+To: david@ibg.uu.se
+Subject: (fwd) Bell's Paper on QFT, Part 1
+Newsgroups: sci.physics,alt.sci.physics.new-theories,sci.philosophy.meta
+Reply-To: t89djo@student.tdb.uu.se
+Content-Type: text
+Content-Length: 8127
+Status: RO
+
+Path: columba.udac.uu.se!sunic!trane.uninett.no!eunet.no!nuug!EU.net!howland.reston.ans.net!europa.eng.gtefsd.com!MathWorks.Com!news.duke.edu!concert!bigblue.oit.unc.edu!not-for-mail
+From: Mitchell.Porter@launchpad.unc.edu (Mitchell Porter)
+Newsgroups: sci.physics,alt.sci.physics.new-theories,sci.philosophy.meta
+Subject: Bell's Paper on QFT, Part 1
+Date: 12 Jul 1994 09:06:20 -0400
+Organization: University of North Carolina Extended Bulletin Board Service
+Lines: 154
+Sender: bbs@lambada.oit.unc.edu
+Distribution: world
+Message-ID: <2vu4gc$ajs@lambada.oit.unc.edu>
+NNTP-Posting-Host: lambada.oit.unc.edu
+Summary: ... or measurements, or systems, or apparatus, ...
+Xref: columba.udac.uu.se sci.physics:14589 alt.sci.physics.new-theories:1905 sci.philosophy.meta:1977
+
+
+Part One of a transcription of Chapter 19 of:
+_Speakable and unspeakable in quantum mechanics_ by J.S. Bell
+
+Reproduced without permission
+
+"Beables for Quantum Field Theory"        J.S. Bell
+Dedicated to Professor D. Bohm
+
+1. Introduction
+
+Bohm's 1952 papers [1,2] on quantum mechanics were for me a revelation. The
+elimination of indeterminism was very striking. But more important, it seemed
+to me, was the elimination of any need for a vague division of the world into
+"system" on the one hand, and "apparatus" or "observer" on the other. I have
+always felt since that people who have not grasped the ideas of those papers
+... and unfortunately they remain the majority ... are handicapped in any
+discussion of the meaning of quantum mechanics.
+  When the cogency of Bohm's reasoning is admitted, a final protest is often
+this: it is all nonrelativistic. This is to ignore that Bohm himself, in an
+appendix to one of the 1952 papers[2], already applied his scheme to the
+electromagnetic field. And application to scalar fields is straightforward[3].
+However until recently[4,5], to my knowledge, no extension covering Fermi
+fields had been made. Such an extension will be sketched here. The need for
+Fermi fields might be questioned. Fermions might be composite structures of
+some kind[6]. But also they might not be, or not all. The present exercise
+will not only include Fermi fields, but even give them a central role. The
+dependence on the ideas of de Broglie[7] and Bohm[1,2], and also on my own
+simplified extension to cover spin[8,9,10], will be manifest to those
+familiar with these things. However no such familiarity will be assumed.
+  A preliminary account of these notions[5] was entitled "Quantum field theory
+without observers, or observables, or measurements, or systems, or apparatus,
+or wavefunction collapse, or anything like that". This could suggest to some
+that the issue in question is a philosophical one. But I insist that my
+concern is strictly profession. I think that conventional formulations of
+quantum theory, and of quantum field theory in particular, are
+unprofessionally vague and ambiguous. Professional theoretical physicists
+ought to be able to do better. Bohm has shown us a way.
+  It will be seen that all the essential results of ordinary quantum field
+theory are recovered. But it will also be seen that the very sharpness of the
+reformulation brings into focus some awkward questions. The construction of
+the scheme is not at all unique. And Lorentz invariance plays a strange,
+perhaps incredible, role.
+
+
+2. Local beables
+
+  The usual approach, centred on the notion of "observable", divides the world
+somehow into parts: "system" and "apparatus". The "apparatus" interacts from
+time to time with the "system", "measuring" "observables". During
+"measurement" the linear Schroedinger evolution is suspended, and an
+ill-defined "wave-function collapse" takes over. There is nothing in the
+mathematics to tell what is "system" and what is "apparatus", nothing to tell
+which natural processes have the status of "measurements". Discretion and good
+taste, born of experience, allow us to use quantum theory with marvelous
+success, despite the ambiguity of the concepts named above in quotation marks.
+But it seems clear that in a serious fundamental formulation such concepts
+much be excluded.
+  In particular we will exclude the notion of "observable" in favour of that
+of "_be_able". The _be_ables of the theory are those elements which might
+correspond to elements of reality, to things which exist. Their existence does
+not depend on "observation". Indeed observation and observer must be made out
+of beables.
+  I use the term "_be_able" instead of some more committed term like "being"
+[11] or "beer" [12] to recall the essentially tentative nature of any physical
+theory. Such a theory is at best a _candidate_ for the description of nature.
+Terms like "being", "beer", "existent" [11-13], etc., would seem to me lacking
+in humility. In fact "beable" is short for "maybe-able".
+  Let us try to promote some of the usual "observables" to the status of
+beables. Consider the conventional axiom:
+
+  the probability of observables (A, B,...)                     (1)
+  if observed at time t
+  being observed to be           (a, b,...)
+  is
+
+        SUM |<a,b,...q|t>| ^2
+         q
+
+  where q denotes additional quantum numbers which
+  together with the eigenvalues (a, b,..)
+  form a complete set.
+
+  This we replace by
+
+  the probability of beables (A, B,...)                         (2)
+  at time t
+  being                      (a, b,...)
+  is
+
+        SUM |<a,b,...q|t>| ^2
+         q
+
+  where q denotes additional quantum numbers which
+  together with the eigenvallues (a, b,...)
+  form a complete set.
+
+  Not all "observables" can be given beable status, for they do not all have
+simultaneous eigenvalues, i.e. do not all commute. It is important to realize
+therefore that most of these "observables" are entirely redundant. What is
+essential is to be able to define the positions of things, including the
+positions of instrument pointers or (the modern equivalent) of ink on computer
+output.
+  In making precise the notion "positions of things" the energy density
+T00(x) comes to mind. However the commutator
+
+                        [T00(x),T00(y)]
+
+is not zero, but proportional to derivatives of delta functions. So the T00(x)
+do not have simultaneous eigenvalues for all x. We would have to devise some
+new way of specifying a joint probability distribution.
+  We fall back then on a second choice - fermion number density. The
+distribution of fermion number in the world certainly includes the positions
+of instruments, instrument pointers, ink on paper... and much much more.
+  For simplicity we replace the three-space-continuum by a dense lattice,
+keeping time t continuous (and real!). Let the lattice points be
+enumerated by
+
+                        l = 1,2,...L
+
+where L is very large. Define lattice point fermion number operators
+
+                        Psi+(l)Psi(l)
+
+where summation over Dirac indices and over all Dirac fields is understood.
+The corresponding eigenvalues are integers
+
+                        F(l) = 1,2,...4N
+
+where N is the number of Dirac fields. The fermion number configuration of the
+world is a list of such integers
+
+                n = (F(1),F(2),...F(L))
+
+We suppose the world to have a definite such configuration at every time t:
+
+                        n(t)
+
+  The lattice fermion numbers are the local beables of the theory, being
+associated with definite positions in space. The state vector |t> also we
+consider as a beable, although not a local one. The complete specification of
+our world at time t is then a combination
+
+                        (|t>, n(t))
+
+  It remains to specify the time evolution of such a combination.
+
+
+
+-- 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+Launchpad is an experimental internet BBS. The views of its users do not 
+necessarily represent those of UNC-Chapel Hill, OIT, or the SysOps.
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+

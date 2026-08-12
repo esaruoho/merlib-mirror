@@ -1,0 +1,41 @@
+From berryh@huey.udel.edu Tue Apr 26 19:42:42 MET DST 1994
+Article: 65363 of sci.skeptic
+Path: cs.tu-berlin.de!zrz.TU-Berlin.DE!netmbx.de!Germany.EU.net!EU.net!howland.r
+eston.ans.net!darwin.sura.net!udel!huey.udel.edu!berryh
+From: berryh@huey.udel.edu (John "John" Berryhill)
+Newsgroups: sci.skeptic
+Subject: Nafta and Patents  Re: Energy Machine of Joseph Newman
+Date: 4 Apr 1994 07:02:34 GMT
+Organization: little scraps of paper, mostly
+Lines: 28
+Message-ID: <2noe2a$o9o@louie.udel.edu>
+References: <94091.011632SRK106@psuvm.psu.edu> <hatunenCnpwLz.87t@netcom.com>
+NNTP-Posting-Host: huey.udel.edu
+
+Sigh.  I don't know where this particular piece of folk wisdom
+came from, but if you learn nothing else from this post, please
+note: 
+
+NAFTA DOES NOT have the effect of making Mexican patents 
+enforceable in the US or vice versa.
+
+For reasons that I do not understand, a large number of people
+have gotten this impression.  What happened is that the US agreed
+to make an exception for NAFTA signatories to the provisions of
+35 USC section 104, which deals with the effect of foreign activities
+upon establishing a date of invention.  Once in a long while during 
+the prosecution of a patent application, it may become necessary
+to show an earlier date of conception or reduction to practice than
+the filing date of someone else's patent application.  Section 104
+prohibits an applicant from relying upon activities in a foreign
+country in order to establish a date of conception or diligent
+reduction to practice.  Basically, for those familiar with the 
+patent process, NAFTA included a provision that levels the playing
+field for Mexicans and Canadians in an interference proceeding.  But
+NAFTA has nothing to do with the effect of issued national patents
+in other countries.
+
+
+-- 
+
+                                              John Berryhill

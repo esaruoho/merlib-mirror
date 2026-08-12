@@ -1,0 +1,61 @@
+From: jbytof@astro.umd.edu (Jeff Bytof)
+Newsgroups: alt.sci.physics.new-theories
+Subject: Gravity and Inertia from Electrodynamics?
+Date: 28 Apr 1994 23:45:04 GMT
+Organization: U. of Maryland @ College Park, Astronomy
+Lines: 50
+Distribution: world
+Message-ID: <2pphq0$feo@umd5.umd.edu>
+NNTP-Posting-Host: pele.astro.umd.edu
+
+For your consideration, here are the abstracts:
+
+"Gravity as a zero-point-fluctuation force"
+H.E. Puthoff (Institute for Advanced Studies at Austin)
+_Physical Rev. A_, V39, N5, March 1, 1989, pp2333-2342
+
+Sakharov has proposed a suggestive model in which gravity is not a 
+separately existing fundamental force, but rather an induced effect 
+associated with zero-point fluctuations (ZPF's) of the vacuum,
+in much the same manner as the van der Waals and Casimir forces.
+In the spirit of this proposal we develop a point-particle-ZPF 
+interaction model that accords with and fulfills this hypothesis.
+In the model gravitational mass and its associated gravitational 
+effects are shown to derive in a fully self-consistent way from 
+electromagnetic-ZPF-induced particle motion (_Zitterbewegung_).
+Because of its electromagnetic-ZPF underpinning, gravitational 
+theory in this form constitutes an "already unified" theory.
+
+
+"Inertia as a zero-point-field Lorentz force" 
+Benhard Haisch (Lockheed Palo Alto Research Laboratory)
+Alfonso Rueda (Dept. of Electrical Eng., Cal State Long Beach)
+H.E. Puthoff (Inst. for Advanced Studies at Austin)
+_Physical Review A_, V49, N2, Feb. 1994, pp678-694
+
+Under the hypothesis that ordinary matter is ultimately made of 
+subelementary constitutive primary charged entities or "partons" bound
+in the manner of traditional elementary Planck oscillators (a time-
+honored classical technique), it is shown that a heretofore univestigated
+Lorentz force (specifically, the magnetic component of the Lorentz
+force) arises in any accelerated reference frame from the interaction 
+of the partons with the vacuum electromagnetic zero-point field (ZPF).
+Partons, though asymptotically free at the highest frequencies, are 
+endowed with a sufficiently large "bare mass" to allow interactions
+with the ZPF at very high frequencies up to the Planck frequencies.  This 
+Lorentz force, though originating at the subelementary parton level,
+appears to produce an opposition to the acceleration of material objects
+at a macroscopic level having the correct characteristics to account
+for the property of inertia.  We thus propose the interpretation that
+inertia is an electromagnetic resistance arising from the known spectral
+distortion of the ZPF in accelerated frames.  The proposed concept also
+suggests a physically rigorous version of Mach's principle.  Moreover,
+some preliminary corroboration is suggested for ideas proposed by
+Sakharov [references omitted] and further explored by one of us
+[see first article, above] concerning a ZPF-based model of Newtonian 
+gravity, and for the equivalence of inertial and gravitational mass
+as dictated by the principle of equivalence. 
+
+
+-Jeff
+

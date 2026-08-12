@@ -1,0 +1,270 @@
+From robert@wwa.comMon Feb  5 01:30:18 1996
+Date: Sat, 3 Feb 1996 13:44:39 -0600 (CST)
+From: Robert Stirniman <robert@wwa.com>
+To: david@ibg.uu.se
+Subject: A Longitudinal EM Force May Exist
+
+(Updated rewrite of an earlier article)
+
+A LONGITUDINAL-INERTIAL ELECTROMAGNETIC FORCE MAY EXIST 
+
+More than a few experiments have been conducted which provide 
+evidence of the existence of a longitudinal EM force. A longitudinal
+force is not predicted by generally accepted theories of classical 
+and relativistic electrodynamics.
+
+Dr Peter Graneau has conducted experiments which demonstrate
+departures from classical electrodynamics at high current levels. 
+A force is found to exist in a direction longitudinal to current flow. 
+Graneau ran a variety of types of experiments with a metal rod conductor 
+immersed in a conductive fluid (mercury, or saline solution). With 
+high current passing through the solution the metal rod is found to 
+move in a longitudinal direction. 
+
+The longitudinal force found by Graneau may be similar to the force 
+(v X B) that William Hooper finds in a noninductive coil. Or Graneau's 
+force may be a coupling between the electromagnetic and gravitational 
+fields, which is predicted by some 5-D unified EM-gravitational 
+theories -- predicted to result from a divergence of the electric 
+current vector field. Graneau has also discovered apparently anomalous 
+forces and effects in high energy electromechanical devices such as 
+rail guns and induction motors. 
+
+Thomas E. Phipps Jr of Urbana IL has conducted related experiments 
+which also demonstrate that a longitudinal EM force exists. Phipps 
+uses quartz or metal tuning fork senors, which are driven inductively 
+and non-inductively, to confirm the existence of longitudinal Ampere 
+forces.
+
+In another possibly related development, Rex Schlicher of Albuquerque 
+NM, a former Air Force officer, has been awarded a patent for a device
+which he claims converts unipolar current pulses into a propulsive
+force which is longitudinal to the directiion of current flow. 
+Schlicher presented a paper about this device at the 31st annual 
+AIAA Joint Propulsion conference.
+ 
+Schlicher's invention uses a coaxial transmission line structure, 
+at the end of which, the return current diverges into three 
+separate current loops. The device also incorporates copper
+prisms internal to the coax structure, which are insulated from 
+the transmission line, and provide an eddy current reflection via
+magnetic induction. In his paper to the AIAA, he describes his 
+device as follows: 
+   
+  A method is presented for generating mechanical spacecraft 
+  propulsion from unsymmetrical magnetic induction fields. It is 
+  based on an unsymmetrical three-dimensional loop antenna structure 
+  driven by a repetitively-pulsed high-current power supply. Antenna 
+  geometry is optimized for generating propulsive thrust rather than 
+  radiating electromagnetic energy. A magnetic field density gradient 
+  imbalances the magneto-mechanical forces that result from the 
+  interations of the internal magnetic induction field with the 
+  current in the conductors of the antenna structure. 
+
+Another example where a longitudinal force, parallel to current flow, 
+can be demonstrated is resistance welding. It is recognized by engineers 
+in the high-current resistance welding industry, that once current becomes
+established between two work pieces, a strong force develops which helps 
+to hold the pieces together. The force exists for both AC and DC current, 
+and does not depend on direction of current flow. A detailed theoretical 
+explanation is not proferred, except to say that it is a magnetic effect.
+
+Also related may be the work of E.G. Cullwick. In his book 
+"Electromagnetism and Relativity", published in 1957, Cullwick was one 
+of the first to provide an analysis of the probable coupling between 
+EM and inertial fields. Cullwick realized that Maxwell's equations 
+and most existing theories of electrodynamics assume that the mass 
+of an electron is zero. At Maxwell's time this was a reasonable 
+assumption. But it is well known today that electrons have mass, and 
+therefore an inertial momemtum is always associated with an electric 
+current. Cullwick suggested in his analysis that coupling terms 
+between EM and inertia may be very small, but would likely appear 
+sometime in the future as we go to higher current densities. And he 
+was one of the first scientists to predict some of the odd effects 
+which can now seen with superconductors. Cullwick was also one of 
+the first to identify and attempt an analysis of the relativistic 
+paradoxes and unusual effects which occur in a rotating EM field. 
+His work still stands today as one of the only existing efforts to 
+consider the problem of a rotating EM field.
+
+>From Richard Feynman's Lectures on Physics we learn that there is 
+intrinsic field energy and momentum density associated with a static
+electro-magnetic field configuration. When there is a change in the
+magnetic field, this field energy and momentum can be directly 
+converted into kinetic energy and mechanical momentum. Feynman 
+illustrates this with an electromagnetic carousel paradox. In this
+paradox, a dielectric disk (which is embedded with small charged 
+spheres along its circumference) rotates without any apparent "counter" 
+torque in the system. Before this rotation occurs, the dielectric disk 
+is immersed in a static magnetic field. The subsequent rotation occurs 
+as a consequence to reducing the previously static magnetic field to 
+zero. The angular momentum and rotational kinetic energy comes directly 
+from the initial static magnetic field. 
+
+In my opinion, there may be something important underlying all 
+this -- along the lines of unification of electro-magnetic and 
+gravitational-inertial forces. The kind of experiments identified 
+above are relatively inexpensive to conduct. Yet, no one seems to 
+be working on things like this. Why do most physicists nowadays seem 
+to be either engaged in prohibitively expensive government sponsored 
+experiments, or in creating elaborate mathematical theories which 
+may or may not have practical value? What has become of the private 
+laboratory and the experimentally oriented physicist? 
+
+Regards,
+Robert Stirniman  (robert@wwa.com)
+======================================================================
+
+References:
+
+Thomas E. Phipps, Jr. (Urbana, IL), "A Do-It-Yourself Refutation of
+Modern Physics," Galilean Electrodynamics, vol 6, no 5, Sept./Oct.
+1994, pp 92-97, 31 refs, 2 figs. (Galilean Electrodynamics: P.O. Box
+545, Storrs, CT 06268-0545)
+   Some simple experiments employing a tuning fork sensor are described
+   that confirm the existence of Ampere longitudinal forces and the
+   validity of Newton's third law as applied to electrodynamics. These
+   empirical results contradict the "universal covariance" hypothesis and
+   the Lorentz force law, upon which modern physical theory is built.
+   Descriptions have been given here of experimental methods, using metal
+   or quartz tuning forks driven both inductively and non-inductively,
+   bridging gaps with either mercury or fine wires, that plainly reveal
+   the existence of longitudinal electrodynamic forces parallel to
+   current direction. 
+
+Books and articles by Peter Graneau:
+
+     AUTHOR:     Graneau, Peter.
+     TITLE:      Ampere-Neumann electrodynamics of metals/Peter Graneau. 
+     PUBL.:      Nonantuma, MA. : Hadronic Press,
+     FORMAT:     ix, 311 p. : ill. ; 23 cm.
+     DATE:       1985
+     SUBJECT     Metals--Electric properties--History.
+                 Free electron theory of metals--History.
+                 Electrodynamics--History.
+                 Electric conductors--History.
+     ISBN:       0911767371
+
+AUTHOR:          Graneau, Peter
+TITLE:           Electromagnetic Jet Propulsion in the Direction  
+                 of Current Flow
+           In:   Nature 
+                 June 18, 1982  No 295  Page 311
+
+AUTHOR(s):       Graneau, P. 
+TITLE(s):        Ampere force calculation for filament fusion experiments. 
+           In:   Physics letters.  a 
+                 MAR 22 1993 v 174 n 5/6  Page 421 
+
+AUTHOR(s):       Graneau, P. 
+TITLE(s):        Comment on "The motionally induced back-EMF in railguns". 
+           In:   Physics letters:  [part A] 
+                 DEC 02 1991 v 160 n 5  Page 490 
+                                                                                
+AUTHOR(s):       Graneau, Peter 
+TITLE(s):        The Difference between Newtonian and Relativistic Forces. 
+           In:   Foundations of physics letters. 
+                 OCT 01 1993 v 6 n 5  Page 491 
+                                                                                
+AUTHOR(s):       Graneau, P. 
+TITLE(s):        Electrodynamic momentum measurements. 
+           In:   Journal of physics  d:  applied physics. 
+                 DEC 01 1988 v 21 n 12  Page 1826 
+                                                                                
+AUTHOR(s):       Graneau, P. 
+TITLE(s):        Far-action versus contact action. 
+           In:   Speculations in science and technology. 
+                 1990 v 13 n 3  Page 191 
+                                                                                
+AUTHOR(s):       Graneau, Peter 
+TITLE(s):        Inertia's Riddle. 
+Summary:         Inertia has been misunderstood ever since the time of
+                 Galileo says Dr. Graneau.                                  
+           In:   Electronics world + wireless world. 
+                 JAN 01 1990 v 96 n 1647  Page 60 
+                                                                                
+AUTHOR(s):       Graneau, P. 
+TITLE(s):        Longitudinal forces in Ampere's wire-arc experiment. 
+           In:   Physics letters:  [part A] 
+                 MAY 08 1989 v 137 n 3  Page 87 
+                                                                                
+AUTHOR(s):       Graneau, P.  Thompson, D.S.  Morrill, S.L. 
+TITLE(s):        The motionally induced back-emf in railguns. 
+           In:   Physics letters:  [part A] 
+                 APR 30 1990 v 145 n 8/9  Page 396 
+                                                                                
+AUTHOR(s):       Graneau, Peter 
+TITLE(s):        Nonlocal Action in the Induction Motor. 
+           In:   Foundations of physics letters. 
+                 OCT 01 1991 v 4 n 5  Page 499 
+                                                                                
+AUTHOR(s):       Graneau, P.  Graneau, N. 
+TITLE(s):        The role of Ampere forces in nuclear fusion. 
+           In:   Physics letters:  [part A] 
+                 MAY 04 1992 v 165 n 1  Page 1 
+
+     AUTHOR:     Graneau, Peter.
+     TITLE:      Underground power transmission : the science, technology, and 
+                   economics of high voltage cables / Peter Graneau.
+     PUBL.:      New York : Wiley,
+     FORMAT:     x, 515 p. : ill. ; 24 cm.
+     DATE:       1979                                       
+                 SUBJECT: Electric cables
+                 Electric power transmission
+                 Electric lines--Underground
+     ISBN:       0471057576
+
+Other References:
+ 
+"Electric Propulsion Study", by Dr Dennis Cravens of SAIC Corp,
+ prepared for the Astronautics Laboratory at Edwards Air Force
+ Base, August 1990, Report No AL-TR-89-040
+
+"Mechanical Propulsion From Unsymmetrical Magnetic Induction Fields"
+ by: R.L. Schlicher  A.W. Biggs  W.J. Tedeschi
+ 31st AIAA/ASME/SAE/ASEE Joint Propulsion Conference and Exhibit,
+ July 10-12 1995
+
+"The Feynman Lectures on Physics" by Richard Feynman, R.B. Leighton, and 
+ M. Sands, Volume II p 17-6
+
+"Nonlinear Electromagnetic Propulsion System and Method", R.L. Schlicher
+ Nineteenth Power Modulation Symposium of the IEEE, 1990 Page 139
+
+"Classical Electrodynamics" by C.D. Jackson, 2nd Edition, John Wiley and
+ Sons, New York, 1975
+
+"The Feynman Lectures on Physics"  Richard Feynman, R.B. Leighton, and
+ M. Sands, Volume II p 27-9
+
+US Patent #5142861, "Nonlinear Electromagnetic Propulsion System",
+R.L. Schlicher et al.  1992
+
+    AUTHOR:     Cullwick, E. G. (Ernest Geoffrey), 1903-
+    TITLE:      Electromagnetism and relativity : with particular reference
+                to moving media and electromagnetic induction / by E. G.
+                Cullwick.
+    EDITION     2d ed.
+    PUBL.:      New York : J. Wiley,
+    DATE:       1959 (2nd Edition)
+    SUBJECT:    Electromagnetic theory, Relativity (Physics)
+
+    AUTHOR:     Cullwick, E. G. (Ernest Geoffrey), 1903-
+    TITLE:      The fundamentals of electro-magnetism by E.G. Cullwick.   
+    EDITION     3rd ed. 
+    PUBL.:      London, Cambridge U.P.,
+    DATE:       1966 (3rd Edition)
+    SUBJECT:    Electromagnetism
+               
+    AUTHOR:     Cullwick, E. G. (Ernest Geoffrey), 1903-
+    TITLE:      The fundamentals of electro-magnetism; a restatement for  
+                engineering students and others of physical and theoretical
+                principles in accordance with modern scientific thought,
+                by E. Geoffrey Cullwick ... With an appendix and numerous
+                examples on the recently adopted M.K.S. system of practical
+                units ...
+    PUBL.:      New York, The Macmillan company; Cambridge, Eng., The
+                University press,
+    DATE:       1939
+    SUBJECT:    Electromagnetism
+============================================================================

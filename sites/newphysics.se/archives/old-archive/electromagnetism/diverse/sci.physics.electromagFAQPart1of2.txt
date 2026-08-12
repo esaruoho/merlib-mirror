@@ -1,0 +1,386 @@
+Newsgroups: sci.physics.electromag
+From: jost@washpost.wdc.sri.com ("Randy J. Jost")
+Message-ID: <MAILQUEUE-101.940426140707.480@wdc.sri.com>
+Subject:  FAQ pt 1/2
+Reply-To: jost@washpost.wdc.sri.com
+Date: 26 Apr 1994 14:07:03 EST
+X-Received: by usenet.pa.dec.com; id AA12032; Tue, 26 Apr 94 11:32:06 -0700
+X-Received: from sparkyfs.erg.sri.com by inet-gw-3.pa.dec.com (5.65/21Mar94)
+	id AA02756; Tue, 26 Apr 94 11:22:56 -0700
+X-Received: from washpost.wdc.sri.com by sparkyfs.erg.sri.com (5.65/2.7davy)
+	id AA22594; Tue, 26 Apr 94 11:22:39 -0700
+X-Received: From SRI_WDC_1/WORKQUEUE by washpost.wdc.sri.com
+          via Charon 3.4 with IPX id 100.940426140717.544;
+          26 Apr 94 14:22:02 -0500
+X-To: sci.physics.electromag.usenet
+X-Priority: normal
+X-Mailer: Pegasus Mail/Mac v2.02
+Lines: 367
+
+Greetings to all!
+
+After much delay, here is the first offering of the FAQ for 
+sci.physics.electromag.  Please feel free to critique it, criticize, 
+complain, suggest, add, subtract, praise, pan, whatever, just send us your 
+input.
+
+Randy
+
+
+*************************   FAQ follows  **********************************
+
+
+sci.physics.electromag.FAQ part 1/2
+Version: 0.1
+Date: 26 April 1994
+
+              SCI.PHYSICS.ELECTROMAG Frequently Asked Questions
+
+Welcome to the sci.physics.electromag (SPE) Frequently Asked Question (FAQ) 
+file.  This is the initial version of the FAQ, hence it has some holes and 
+areas where input is needed.
+
+Once this FAQ becomes stable, we will post it on a monthly basis.  Until 
+then, this list will be making more frequent appearances, as additional 
+information is added.  Because of limitations in certain mailers, and since 
+this FAQ has already reached approximately 40k, it has been split into 
+multiple parts.  That way, it should travel through all the Internet 
+gateways, and be readable by almost any newsreader/email software without 
+any trouble.
+
+If you have other topics that you think should receive FAQ status, want to 
+submit a FAQ and answer, or have additional information on an existing FAQ, 
+please contact either of the following individuals:
+
+Dr. Todd Hubing          ( thubing@ee.umr.edu )
+Dr. Randy J. Jost        ( jost@washpost.wdc.sri.com )
+
+We have intentionally left some topics unfinished, partly to get this out to 
+the group, but also to encourage other people to contribute their ideas and 
+thoughts.  Please feel free to add more to this.  It will only be as good as 
+the input that goes into it.
+
+CONTRIBUTORS
+
+Several individuals submitted suggestions and contributions which went into 
+the creation of this FAQ.  Among these are:
+
+
+Raymond Anderson          raymonda@uranium.ebay.sun.com
+Weston Beal               weston.beal@sun.com
+Allen Davidson            casr04@email.mot.com
+Jeff Haferman             haferman@icaen.uiowa.edu
+Chuck Harrison            73770.1337@compuserve.com
+Todd Hubing               thubing@ee.umr.edu
+Randy Jost                jost@washpost.wdc.sri.com
+Gian Luigi Gragnani       gragnani@dibe.unige.it
+Dave Michelson            davem@ee.ubc.ca
+John Moulder              jmoulder@post.its.mcw.edu
+Robert Perry              perry@mimicad.colorado.edu
+Al Wong                   eunos@mercury.sfsu.edu
+
+
+---------------------------------------------------------------------------
+
+CONTENTS
+
+Part 1/2
+1. FAQ ADMINISTRATION
+2. EM REFERENCES
+3. EM THEORY ISSUES
+
+Part 2/2
+4. COMPUTER MODELING 
+5. BIOLOGICAL EFFECTS
+6. HISTORY OF ELECTROMAGNETICS
+
+
+
+FAQ ADMINISTRATION
+
+[1.0] What is sci.physics.electromag all about?
+
+The sci.physics.electromag charter is given as:
+
+Sci.physics.electromag will be dedicated to the discussion of topics 
+pertaining to electromagnetics.  These include, but are not limited to:
+
+  electromagnetic wave theory           computational EM modeling
+  microwave devices and circuits        antenna design
+  electromagnetic interference          biological effects
+  ELF and VLF fields                    EM measurements
+  wave propagation                      shielding
+  electrostatic discharge               new RF devices and technology
+
+
+[1.1] How do I post and/or receive to sci.physics.electromag?
+
+    There are two ways to post to sci.physics.electromag.  One way is to use 
+a newsreader program.  The other way is to post e-mail to the group by 
+sending articles to:
+    sci.physics.electromag.usenet@decwrl.dec.com
+Everything else, such as title, and message text should be done as per a 
+normal email message.
+     To receive the posts from sci.physics.electromag, presently you must 
+use some type of newsreader software that will allow you to subscribe to the 
+newsgroup.  We are currently investigating other ways to get the contents of 
+sci.physics.electromag to those who do not have access to the USENET 
+newsgroups.
+
+It is possible to read newsgroup articles by gopher server. This can be of 
+benefit if a local newserver has died.  There are several gopher sites that 
+allow users to read newsgroups. One of them is, 
+
+gopher commsun.its.csiro.au (gopher 152.83.8.2)
+
+When a menu shows up, chose the following options :-
+
+5.  USENET News - Internet Bulletin Board/
+48. sci             /
+73. physics         /
+3.  electromag      /
+
+(Presently accessable from anywhere/anytime)
+
+
+[1.2] Is there an ftp site dedicated to sci.physics.electromag?
+
+Work is in progress on setting up a site, but is as yet, not ready.  Still 
+in the category of "Coming soon to a computer near you!"
+
+
+
+EM REFERENCE
+
+[2.1] What organizations, groups, or societies are oriented towards 
+electromagnetics?
+
+Applied Computational Electromagnetics Society (ACES)
+This organization is oriented toward the computational aspects of 
+electromagnetics.  For information on becoming a member of ACES, contact Dr. 
+Richard W. Adler, ECE Department, Code EC/AB, Naval Postgraduate School, 833 
+Dyer Rd., Rm 437, Monterey, CA 93943-5121, USA;  Telephone: (408) 646-1111;  
+Fax: (408) 646-0300;  E-mail: 5541304@mcimail.com.
+
+Bioelectromagnetics Society (BEMS)
+For information, contact the society at the following address:
+120 West Church Street, Frederick, MD 21701, USA;  Telephone: (301) 
+663-4252;  Fax: (301) 663-0043.
+
+Computer Applications in Electromagnetic Education (CAEME)
+This is an organization of industries and universities who support the 
+development of computational tools for EM education applications.  For more 
+information contact Dr. Magdy Iskander, CAEME Director, Electrical 
+Engineering Department, University of Utah, Salt Lake City, UT  84112. 
+
+Electromagnetics Society (EMS)
+
+European Bioelectromagnetics Association (EBEA)
+This organization groups together many European as well as noneuropean 
+researchers involved in both low and high frequency interactions.  For 
+additional information, contact its president:  Guglielmo D'Inzeo; Dept. of 
+Electronic Engineering; "La Sapienza" University of Rome; Via Eudossiana 18; 
+00184 Roma, Italy;  Telephone: + 39 6 44585853;  Fax: + 39 6 4742647;  
+E-mail:  dinzeo@tce.ing.uniromal.it.
+
+Institute of Electrical and Electronics Engineers (IEEE)
+The largest profesional organization in the world, IEEE has several 
+societies that are oriented towards electromagnetics.  Chief among these are 
+the Antennas & Propagation, Electromagnetic Compatibility, Microwave Theory 
+& Techniques, Magnetics, Nuclear Science & Plasma Science.  For information 
+contact the IEEE at: Customer Service, 445 Hoes Lane, PO Box 1331, 
+Piscataway, New Jersey, 08855-1331, USA;  Telephone: 908-981-0060;  Fax 
+908-981-9667;  E-mail: member.services@ieee.org.
+
+Any overseas groups that should be included here would be especially 
+helpful.
+
+
+[2.2] What are good ftp/gopher/www sites to obtain EM related software, 
+freeware or shareware?  Are there other discussion lists for emag related 
+topics?  What are they?
+
+The following ftp sites are known to contain electromagnetics related files:
+
+Address                    Directory         Contents
+-------                    ---------         --------
+
+ftp.netcom.com            /pub/rander/NEC    NEC (Numerical Electromagnetics
+(IP Address           )                          Code) archive
+
+microwave.jpl.nasa.gov                       EMlib files
+(IP Address 128.149.76.31)
+
+emclab.ee.umr.edu            /pub/aces       ACES files, misc.
+(IP Address 131.151.8.246)   /pub/ieee       IEEE EMC Society Ed. Comm.
+                                                  files
+
+If you know of other sites, please send the site name, IP address, whre in 
+the directory the files are located, and a brief description of contents.
+
+
+The following are other electromagnetics related mailing lists known to 
+exist:
+
+NEClist is an internet mailing list devoted to the Numerical 
+Electromagnetics Code and its various incarnations.  Participants include 
+developers and users of NEC-derived codes.  If you would like to join, send 
+a message with your name and e-mail address in the text to Dave Michelson: 
+davem@ee.ubc.ca.  If you want to post a message, just send it to:  
+nec-list@ee.ubc.ca.
+
+There is a BITNET list, EMFLDS-L (Electromagnetics in Medicine, Science & 
+Communications) which is devoted to the applications of electromagnetics in 
+the indicated areas.  To subscribe, send the message "SIGNON EMFLDS-L" to 
+the address LISTSERV@UBVM.BITNET (or LISTSERV@UBVM.CC.BUFFALO.EDU).  When 
+posting messages to this list, just send mail to the address 
+"EMFLDS-L@UBVM.CC.BUFFALO.EDU".  Archive files are also available and 
+information on how to obtain them is included in the welcome message you 
+receive after signing on.
+
+
+[2.3] What are good text/reference books on EM at the beginning, 
+intermediate, and advanced levels?  What other books should be on the shelf 
+of the practising electromagneticist?
+
+Asking people's opinions on selecting an electromagnetics textbook for study 
+is somewhat akin to asking about religion.  Everyone has an opinion, and 
+they can get quite incensed about the situation if you don't see things 
+their way.  Notwithstanding the potential pitfalls of offering an opinion, 
+the following texts all have something to offer.  The separation between 
+beginning, intermediate and advanced is somewhat arbitrary.  All entries 
+will be considered, and if you offer a candidate for the list, please 
+include a couple of reasons why you think the book deserves to be included.  
+Eventually, it would be nice to have these selections annotated with their 
+strengths and weaknesses.  Although these are mostly favorites of mine 
+(Jost), they should serve almost anyone in good stead.  I'm afraid my 
+engineering background is probably showing through, but I trust the many 
+physicists in the group will show me the light.  Remember, your mileage may 
+vary!
+
+Beginning Level
+Cheng, D.K. "Fundamentals of Engineering Electromagnetics, 2nd ed.,"
+   Addison-Wesley Publishing Company, 1993.
+Kraus, J.D., "Electromagnetics, 4th ed.," McGraw-Hill, 1992.
+Zahn, M., "Electromagnetic Field Theory: A Problem Solving Approach," Wiley
+   & Sons, New York, 1979.
+
+Intermediate Level
+Balanis, C. "Advanced Engineering Electromagnetics," Wiley, 1989.
+Collin, R.E. "Field Theory of Guided Waves, 2nd Ed," IEEE Press, 1991.
+Harrington, R.F., "Time-Harmonic Electromagnetic Fields," McGraw-Hill, 1961.
+Jordan, E.C. and K.G. Balmain, "Electromagnetic Waves and Radiating
+   Systems," 2nd ed., Prentice-Hall, Englewood Cliffs, NJ, 1968.
+
+Advanced Level
+Jackson, J.D. "Classical Electrodynamics, 2nd ed.," Wiley, 1975.
+Jones, D.S. "The Theory of Electromagnetism," Pergamon Press, Oxford, 1964.
+Landau, L.D. and E.M. Lifshitz, "The Classical Theory of Fields," 3rd. 
+revised English edition, Addison-Wesley, Reading, MA, 1971.
+__________, "Electrodynamics of Continuous Media," Addison-Wesley, Reading,
+   MA, 1960.
+Smythe, W.R. Static and Dynamic Electricity, 3rd ed., revised printing" 
+   Hemisphere Publishing Corporation, 1989.
+Sommerfeld, A. "Electrodynamics," Academic Press, New York, 1952.
+Stratton, J.A., "Electromagnetic Theory," McGraw-Hill, 1941.
+
+"Applied" Texts
+Balanis, C.A. "Antenna Theory," Wiley, 1982.
+Collin, R.E. "Field Theory of Guided Waves," 2nd ed., IEEE Press, 1991.
+Kraus, J.D. "Antennas, 2nd ed.," McGraw-Hill, 1988.
+Ramo, S., J.R. Whinnery, and T. Van Duzer, "Fields and Waves in
+   Communication Electronics," 2nd ed., Wiley & Sons, New York, 1984.
+Stutzman, W.L. & G.A. Thiele, "Antenna Theory and Design," Wiley & Sons,
+  1981.
+
+Mathematical Texts
+Abromowitz, M. and I.A. Stegun, eds., "Handbook of Mathematical Functions,"
+   U.S. National Bureau of Standards, (1964), also Dover, New York 1965.
+Courant, R. and D. Hilbert, "Methods of Mathematical Physics," 2 vols.,
+   Wiley-Interscience, New York (1962).
+Gradshteyn, I.S. and I.M. Ryzhik, "Table of Integrals, Series, and
+   Products," 4th ed., prepared by Yu. V. Geronimus and M. Yu. Tseytlin,
+   corrected and enlarged edition, translated by Alan Jeffrey, 1980.
+Morse, P.M. and H. Feshbach, "Methods of Theoretical Physics," 2 vols.,
+   McGraw-Hill, New York, 1953.
+Sommerfeld, A. "Partial Differential Equations," Academic Press, New York,
+   1949.
+
+Miscellaneous Texts
+Maxwell, J.C. "Treatise on Electricity and Magnetism,"3rd ed. (1891), 2
+   vols., reprinted by Dover, New York, 1954.
+
+
+[2.4] What are the units of electromagnetics?  Does anybody really use esu 
+or emu units?
+
+When carrying out electromagnetic calculations, there are several systems of 
+units that are available.  To simplify matters greatly though, they can be 
+broken into two groups: the MKSA (meter-kilogram-second-ampere) system and 
+the CGS (centimeter-gram-second) system.  Another factor to consider is 
+whether the units have been "rationalized" or not.  By "rationalized", we 
+mean that the factor 4pi (where pi=3.14159265...) does not appear in what 
+are commonly called "Maxwell's Equations".  Rationalization does not 
+eliminate the factor of 4pi, rather it changes where the factor will show 
+up.
+
+These days, most engineering work is done with rationalized MKSA units.  
+What is known as the Gaussian system, is an unrationalized CGS system, that 
+is mixed in the sense that electric quantities are measured in 
+"electrostatic" units, while magnetic quantities are measured in 
+"electromagnetic" units.  Finally, the Heaviside-Lorentz system is a 
+rationalized Gaussian system.  The various CGS systems are used mainly in 
+the area of physics, where certain simplifications in formulas result with 
+the use of CGS units.
+
+For additional information, see one of the following sources:
+Jackson, J.D. "Classical Electrodynamics," 2nd ed., Wiley, 1975.
+Wangsness, R.K. "Electromagnetic Fields," 2nd ed., Wiley, 1986.
+Smythe, W.R. Static and Dynamic Electricity, 3rd ed., revised printing"
+    Hemisphere Publishing Corporation, 1989.
+
+
+[2.5] Is there a standard way of writing the various vectors operators for 
+electromagnetics operations?
+
+I'd really like to hear people's thoughts on this issue.  The next edition 
+of the FAQ will be having equations in it, and it would be nice to 
+incorporate them in a form with which the largest number of people are 
+comfortable.  Some questions to consider are, should vector operators be 
+spelled out?, Should only E and H be used to describe Maxwell's equations?  
+What form (units) would be most comfortable to most people.  Being an 
+engineer, you know what my vote will be.
+
+
+EM THEORY ISSUES
+
+[3.0] What are Maxwell's Equations?
+
+Maxwell's Equations can be thought of in many different ways.  
+Mathematically, they represent a set of partial differential equations.  
+Physically, they are a set of equations that describe the relationships 
+between electric and magnetic fields.  Historically, they may represent one 
+of the major intellectual achievements in the area of physics.
+
+Just a few phrases to start someone off.  Looking for a good exposition of 
+what Maxwell's Equations are all about.  If we don't get any takers, you'll 
+have to deal with our "purple prose".
+
+[3.1] Are Maxwell's Equations good under all circumstances?  Under what 
+circumstances are they "invalid"?
+
+This is soneone's chance to wax poetic about linearity, high fields and 
+relativity.
+
+
+
+end of sci.physics.electromag.FAQ part 1/2
+
+--------------------------------------------------------------------
+
+Dr. Randy J. Jost              Internet:  jost@washpost.wdc.sri.com
+SRI International                 Phone:  703-247-8415
+1611 N. Kent St.                    FAX:  703-247-8537
+Arlington, VA  22209-2111
+
+--------------------------------------------------------------------

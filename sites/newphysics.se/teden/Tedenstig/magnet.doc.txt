@@ -1,0 +1,150 @@
+
+DEN MAGNETISKA KRAFTEN MELLAN TVÅ STRÖMFÖRANDE LEDARE
+-----------------------------------------------------
+
+Om man har två parallella, strömförande ledare som genomflytes av
+vardera strömmen I1 och I2 uppstår en ömsesidig kraft mellan dem.
+Kraften står även i relation till ledarnas längd.
+
+Om man har två ledare med vardera längden 1 meter och placerade
+på det gemensamma avståndet 1 meter kan en kraft av 2.1E-7 N/meter
+uppmätas. Detta mått användes numera som en enhet för strömstyrkan
+1 ampera, som tidigare definerades som den ström vilken fällde ut
+0.00111800 gram silver per sekund ur en silvernitratlösning.
+
+Ett annat sätt att definiera ström är det antal enhetsladdningar
+som passerar en tvärsnittsarea av en ledare per sekund, som för
+en ampera är 6E18.
+
+Om ström flyter genom en rak ledare kan B-fältets styrka i en
+punkt utanför ledaren beräknas med formeln :
+
+
+        L1
+          /  _
+    uo   I   r     _
+B= ----. I ----- x i.ds          (Biot-Savarts lag för B-fältet)
+   4.Pi  I   3
+        /   r
+     L2
+
+                     _
+I denna formel är :  r = x.i + y.j + z.k      (z= 0)
+
+                              2  2  2
+                     r= SQRT(x +y +z )        (z=0)
+
+                     _
+                     i = I1.i
+
+
+                     ds = dx
+
+Krotssprodukten av de två vektorerna bakom integraltecknet kan då
+beräknas till:
+
+
+                i          j           k
+
+                x          y           0       = I.y.k
+                I          0           0
+
+vilket ger :
+                /
+      uo.I1.y  I     dx           uo.I1.y  I     x          I
+B = ---------- I -----------   = --------. I -------------- I
+       4.Pi    I    2  2 3/2       4.Pi    I  2   2  2 1/2  I
+               /  (x +y )                    y  (x +y )
+
+
+Man tänker sig nu två oändligt långa ledare och väljer ut en mittpunkt
+från en av ledarna. Man integrerar sedan från denna mittpunkt mot
+oändligheten i båda riktningarna utmed x-axeln som i detta fallet är
+den riktning vari ledaren utsträcker sig. Insättning av x=0 ger 0.
+Insättning av x=oo ger 1/y(2). Och eftersom integrationen sker i
+vardera riktningen om nollpunkten måste uttrycket vidare multipliceras
+med 2. Detta ger för B i en punkt utanför ledaren :
+
+
+    2.uo.I1
+B= ----------
+     4.Pi .y
+
+
+Allmänt vet vi, att kraften på en ledare med längden L och som genomflytes
+av strömmstyrkan I2 är den kraft som påverkar ledaren lika med :
+
+
+F= B.I2.L
+
+Vi insätter vårt värde på B och erhåller sålunda :
+
+    2.uo.I1.I2.L
+F= --------------       och kraften per meter :
+      4.Pi.y
+
+
+==========================================
+
+       2.uo.I1.I2.L       2. I1.I2.L
+F  = -------------- = ----------------
+          4.Pi.y                    2
+                         4.Pi.y.Eo.c
+
+=========================================
+
+Vi vet att uo= 4.Pi.1E-7. Om vi sätter I1= 1 ampere och I2= 1 ampere
+samt avståndet mellan ledarna y=1 meter, erhålles kraften :
+
+
+F/L = 2.1E-7 N/m   vilket är det referensmått man numera använder som
+mått på elektrisk strömstyrka genom en ledare.
+
+En del vill hävda, att elektrisk strömstyrka är en godtyckligt vald
+fysikalisk enhet, liksom även definitionen för elektrisk laddning.
+
+För Coulomb-kraften mellan två laddningar Q1 och Q2 gäller :
+
+
+          Q1.Q2          I2.T.I2.T
+Fq  =   ------------ = ------------
+                2                2
+       4.Pi.Eo.D        4.Pi.Eo.D
+
+
+Den ström som flyter genom ledaren utgöres av fria elektriska laddningar
+som till antalet antages vara N1 och N2 för den längd mätningen utföres.
+
+
+För den elektriska kraften har vi såludna :
+
+       2  2
+     I2 .T
+Fq= ------------
+              2
+     4.Pi.Eo.D
+
+
+Vi dividerar Fq med Fm och erhålles sålunda :
+
+             2  2               2          2
+           I2 .T .   4.Pi.y.Eo.c       I2.c
+Fq/Fm = ------------------------- = ------------
+                  2                           2
+         4.Pi.Eo.D  .2.I1.I2.L         I1. 2.D .L
+
+
+Om vi fortfarande räknar per meter, sålunda D=1 meter
+                                            L= 1 meter
+
+samt strömmarna är I1=I1 = 1 ampere erhålles:
+
+
+========================
+         2
+Fq/Fm = c /2
+
+========================
+
+
+(Märkligt är att faktorn 1/2 uppträder här !)

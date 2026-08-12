@@ -1,0 +1,1041 @@
+
+Path: columba.udac.uu.se!sunic!trane.uninett.no!eunet.no!nuug!EU.net!Germany.EU.net!netmbx.de!uropax.contrib.de!shb.contrib.de!harti
+Date: 24 Jul 1994 22:21:00 +0200
+From: harti@shb.contrib.de (Stefan Hartmann)
+Newsgroups: alt.paranet.science,alt.sci.physics.new-theories,sci.bio,sci.physics,sci.physics.fusion,sci.physics.particle
+Message-ID: <5TSnvC6PldB@shb.contrib.de>
+Subject: Free Energy Technology News !
+X-Newsreader: XP v3.02
+X-Charset: ISO-8859-1
+Lines: 1029
+Xref: columba.udac.uu.se alt.paranet.science:510 alt.sci.physics.new-theories:2321 sci.bio:3705 sci.physics:15717 sci.physics.fusion:2560 sci.physics.particle:1114
+
+		Summary on Free Energy Technology
+		=================================
+
+please email comments to:
+
+harti@contrib.de
+
+for a review on current free enerrgy technology get all the files from:
+phoenix.oulu.fi  in pub/free_energy
+
+
+
+
+Summary of recent Free Energy Congress in Denver:
+=================================================
+
+
+> > [...]
+> > One of the most interesting things was Bill Fogal's "Charged Barrier
+> > Transistor" technology.
+> 
+> Hmm, can you email me some more info please ?
+> What is it ?
+
+Someone else posted a copy of his paper, I think in sci.electronics. I
+forget. I'll look and see if I can find it.
+
+Basically, he takes a standard bipolar transistor, cuts open the case,
+and glues a small capacitor element to the base. This is then kept
+charged. The electric field affects the electron flow thru the transistor
+to align the spins (via Hall effect). This causes a type of room temperature
+superconduction. The result is much higher gain, much lower turn on
+voltages, and almost complete elimination of noise.
+
+> 
+> > Details of how to duplicate Floyd Sweet's device were given.
+> 
+> Well, I have the videotape of Floyd's VTA.
+
+Old news.
+
+> I have digitized a few scenes and put them via MPEG compression on an
+> FTP site:
+> 
+> phoenix.oulu.fi  in /pub/free_energy
+> 
+> There is also some more stuff there, especially from the Methernitha  
+> devices...
+
+Everyone is pissed, since that group isn't talking.
+
+> 
+> > JRR Searl gave several rambling and somewhat incoherant presentations.
+> 
+> I don't believe in him...
+
+Exactly. He seems to be a publicity hound. And very little that he claims
+is verifiable.
+
+> 
+> > >Was the Adams Magnet motor shown ?
+> >
+> > Several variants and copies were present. None did anything special.
+> > One researcher had done extensive research into Adams, and basically
+> > came to the conclusion that it is nothing.
+> 
+> Hmm, well, so nobody could show a selfrunning motor ?
+ 
+Right. Many of them were very nice motors, but none of them are over 90%
+efficiency. In a totally separate presentation, it was shown that
+a device needs to be at least 300% in order to be self-running (due to
+standard losses).
+
+> >
+> > Stefan Marinov's S-field motor isn't going to work untill the B-field
+> > is properly shielded.
+> 
+> I see, so he was there ?
+> Is it his "venetian Coli" motor or something like this ?
+> He has so "dump" names for his machines, it is incredible ! :-)
+ 
+Exactly. The current version is the "siberian colii". Might as well
+be called eserechi coli.
+
+> 
+> > John Hutchinson was there with samples of things affected by the "Hutchinson
+> > Effect", including a block of aluminum with an imbedded piece of wood
+> > (no sign of charing or heat of any kind on the wood, and seamlessly
+> > surrounded by the metal),
+> 
+> Hmm, yes, I also have a tape of this, were metal pieces and wood flies
+> around in his lab, but you can't see, if it is not faked...
+
+The samples are bizzare enough to conclude that whatever was done to them
+is truely weird and worth more investigation.
+
+> > a block of aluminum with an imbedded butter knife, several blasted apart
+> > pieces of steel, brass, and copper rods and blocks. Very bizzare.
+> 
+> 
+> Hmm, yes I know somebody from over here, Dr. Amon, who has made several
+> investigations into this phenomen with real high tech equipment a few  
+> years ago and he came to the conclusion, that there is something special,
+> but as Hutchinson was hard to contact, nothing happened from it..
+
+Try again to contact him. He seems pretty personable, open and honest.
+He's just somewhat shy... considering the shit he's been through, I
+can understand why.
+
+> 
+> Please let me know more.
+> Thanks !
+> 
+> 
+
+
+
+
+Other related email exchange
+============================
+
+
+
+
+
+ Hi Stephan,
+
+ to answer your last questions...
+> 
+> 
+> Did you hear anything  lately about Meyer ?
+> The latest news I heard about his technology is at least one and a half  
+> year old and he wanted to show a car in a race. Did he ever show it and  
+> can he prove the over unity effect ?
+
+The only physical evidence I have seen came from a CBC/BBC documentary on
+TV on cold fusion and they interviewed Meyer briefly and showed some
+footage of his car.  Providing their were no tricks or hidden fuel tanks,
+it appears to work.
+
+ Did the Cold Fusion magazine publish anything about him
+yet ? >
+
+not yet, but I believe they will in a future issue.  In a brief email from
+Jed Rothwell (contributing editor for Cold fusion), he inferred that he had
+spoken with him and finds him to be a sincere and dedicated individual.
+
+> 
+> Yes Sonoluminescence is a very interesting phenomen.
+> Is it possible to make a light source out of it, which needs very low  
+> power ? But probably first the effect which produces this light must be  
+> researched enough to understand the effect and to increase the output...
+
+I don't know that the light would be a useful thing, but it is certainly a
+fascinating and potentially insightful clue to some amazing new physics.
+
+> > The other device I spoke of earlier (the plasma steam generator) while it
+> > doesn't seem to ultrasonically agitate the water molecules, is interesting
+> > since it turns the water into steam and then ionizes the hydrogen and
+> > oxygen atoms and generates a plasma.  Puthoff has speculated that this may
+> 
+> How is this kind of plasma producing power then ? Are the ions seperated  
+> via magnets and charge some capacitor plates or how is it done ?
+
+It is just producing excess heat, from which they can drive a
+turbine/generator combo I believe.  You might want to take a look at the
+patent.  It was granted in 1988.  US patent no. 4,772,775
+
+The inventor, Samual Leach, believes (I feel incorrectly) that additional
+energy is arriving through "oxidation of the electrode material".  I doubt
+that very much.  I have been talking with the Canadian company who have
+recently acquired the Canadian rights to the device, but they don't know
+much either, other than they were sufficiently convinced from evidence in
+a video tape that they bought into the idea.  They have promised to send
+me additional info as it becomes available.
+
+> > Interesting times, are they not?
+> 
+> Right. Next big revolution in the technology age will be Free Energy now  
+> living in the information age... :)
+
+I used to fear for the future of my children, but lately I have become
+much more optimistic!  Let's hope it happens soon and doesn't have too many
+negative effects (I'm just glad I don't work for the hydro or oil companies).
+
+regards
+
+> 
+Hi Stephan,
+
+to answer your last questions...
+
+> When was this article published in which issue of Cold Fusion ?
+> 
+this article appeared in the June 1994 issue (Vol. 1 No. 2) of "Cold Fusion" 
+You really should try to get a subscription to this magazine, at the very
+least try to get your school library to subscribe.  The address is:
+
+Wayne Green Inc.
+"COLD FUSION" Magazine
+70 Route 202 North
+Peterborough, NH 03458-9872
+
+> Maybe the Methernitha device is using such a system to gain their high  
+> power output... I heard that there is some Corona discharge effects  
+> involved in this Wimhurst type device..
+> Did you already get the MPEG movies to run from the FTP server in Finland:
+> phoenix.oulu.fi in pub/free_energy ?
+
+I took a look at one of them, but it took quite a while to transfer the
+files.  It looks fascinating if it is for real.  Havew you ever seen a
+Methernitha first hand?  Do they really work?
+
+
+Yes, they already work for a few years now. They are just building a 30 KW unit 
+with discs being about 2 meters in diameter !
+
+I know a few people very well, who have seen it running and I will probably 
+try to visit them gain this August 94 ! I was there in 1989, but at this time 
+they only showed me their video tape of the machines..
+
+
+> 
+> > The reason I am so intrigued about this is that Harold Puthoff, (renowned
+> > ZPE/vacuum researcher) suggested many years ago that one potential method
+> > for extracting usable energy from the vacuum might be to utilize a cold
+> > charged plasma which could exhibit a "casimir pinch effect" as he put it
+> > in one of his papers.
+> 
+> 
+> Hmm , yes I heard of him. Did he put out some new facts about the device  
+> he is working on, or how did you come to this idea now ?
+> 
+I haven't seen any of his recent works, although he published a paper in
+Physical Review A in February that explained inertia and gravity as a
+vacuum field effect.  Apparently this paper has caused some
+controversy...particularly since the the critics haven't been too
+successful in finding major errors with it!
+
+> Well, I am pretty busy now. Didn't you tell me about a new transistor  
+> effect, using some kind of room temperatur supra conduction ?
+> What about this effect, do you have more infos on this one ?
+
+that must have been someone else...I don't recall speaking to
+anyone about super conduction.
+
+One thing that has been interesting me is a very coincidental element that
+is common to 3 strange phenomenon that I have been reading about lately.
+These 3 apparently unrelated devices all exhibit different energy
+anomolies, but they all use water and in all 3 cases the water is
+ultrasonically agitated, although in different methods.
+
+1. The ultrasonic pump -  mechanically agitates water producing ultrasonic
+pressure waves in the pump.  This pump produces more heat than can be
+explained with conventional physics.
+
+2. Meyers pulsed DC electrolysis device - this device subjects the water
+to an electrostatic field, again at ultrasonic frequencies in the kHz
+range, and separates hydrogen and oxygen with an alleged over unity
+efficiency, or at least greater than the 60% efficiency than could be
+predicted by Faraday's law.
+
+3. Sonoluminescence - the strange phenomenon whereby water in a sperical
+container subjected to ultrasonic pressures will exhibit vacuum "bubbles"
+levitated in the centre of the container.  These "bubbles" emit light in
+picosecond duration bursts.  No universally accepted theory has been put
+forth to explain this to date, although several have been suggested. 
+Julian Schwinger, nobelprize winner in 1965 for QED, has suggested a
+"dynamic casimir effect" may be an explanation! (vacuum ZPE field
+interaction?!)
+
+I really think these 3 things may be somehow linked to vacuum energy. 
+Follow this closely. 
+
+The other device I spoke of earlier (the plasma steam generator) while it
+doesn't seem to ultrasonically agitate the water molecules, is interesting
+since it turns the water into steam and then ionizes the hydrogen and
+oxygen atoms and generates a plasma.  Puthoff has speculated that this may
+be one means of tapping the vacuum.  I am trying to find more about this. 
+Rumour has it that it might be moving into commercial production.
+
+Interesting times, are they not?
+
+regards
+----------------------------------------------------------------------
+
+
+
+
+
+> 
+>                               January 10, 1994
+> 
+> Report On Visit To Hydro Dynamics
+> 
+> 
+> 
+> Abstract
+> 
+> A Hydrosonic Pump, an excess energy device, was observed during three test
+> runs. The first test was a control run to verify the calorimetry, which
+> yielded a C.O.P. of 59% compared to apparent electric power, or 98% after
+> adjusting for known electrical and mechanical inefficiencies. The second two
+> tests both yielded massive amounts of excess heat at levels very easy to
+> detect. Test 2 gave a C.O.P. of 110% compared to apparent electric power, or
+> 168% adjusted; and Test 3 yielded 109% or 157% adjusted.
+> 
+> 
+> Introduction
+>  
+> On January 5 and 6, 1993, we visited Jim Griggs and his
+> associates at:
+> 
+> Hydro Dynamics Inc.
+> 611 Grassdale Road, Suite B
+> Cartersville, GA 30120-9001
+> 
+> We witnessed a series of experiments with a Hydrosonic pump. This is a brief
+> report of what we saw. I can provide additional information including the
+> experiment log, and a video showing equipment close-ups and the first two test
+> runs.
+> 
+> Background
+> 
+> The Hydrosonic Pump is an excess energy device that physically resembles a
+> pump in many ways. It appears to produce massive amounts of excess energy by
+> creating bubbles in the water with ultrasound, in a process that may be
+> similar to the Stringham [1] device. Whatever it is, I suspect it is related
+> to light water cold fusion energy generation, and it does appear to produce
+> massive amounts of heat energy reliably, on demand, for years on end, so it is
+> well worth investigating. The device is described in detail in Hydro Dynamics
+> sales literature and in a U.S. patent. [2] Griggs described his work at the
+> Fourth International Conference on Cold Fusion (ICCF4). [3]
+> 
+> I will not describe the Hydrosonic pump here in detail, but I would like to
+> clear up one issue that has confused many correspondents. This device is
+> called a "pump" for lack of a better word. It does not actually move the water
+> very much; "pump" is something of a misnomer, "stirrer" would be more
+> accurate. It is a kind of rotor with holes drilled around the circumference.
+> When the rotor spins rapidly, these holes apparently create ultrasonic waves
+> which in turn somehow cause the effect. Because the device is not actually a
+> pump, a small auxiliary pump moves the water from a feedwater tank, through
+> the pipes, into the Hydrosonic pump, and out through a steam pipe or separate
+> steam and condensate pipes. The pump heats the water by the stirring action,
+> but under some circumstances it also creates considerably more heat than a
+> motor driving a stirrer would.
+> 
+> This device is much larger than any conventional cold fusion device that I
+> have ever witnessed, and far more practical. During one of demonstrations we
+> watched yesterday, for example, over a 20 minute period, 4.80 KWH hours of
+> electricity was input, and 19,050 BTUs of heat evolved, which equals 5.58 KWH,
+> 117% of input. The actual input to output ratio was even better than this,
+> when you take into account the inefficiencies of the electric motor.
+> 
+> I have been to Hydro Dynamics on three previous occasions, and my friend was
+> there once. We have been generally impressed, but there have been some
+> inexplicable failures, and they made an embarrassing mistake with some
+> untested improperly calibrated thermocouples. On November 22, 1992 however, I
+> observed a very impressive demonstration. [4] In this experiment, a 55 gallon
+> steel drum filled with 200 lbs of water was used to capture steam and
+> condensate. Both the water in the tank and the feedwater going into the device
+> start out at room temperature, so the final mass and Delta T temperature
+> increase in the water in the steel drum can be used to estimate the lower
+> limit of the enthalpy generated by the pump. This is a lower bound estimate
+> because a large amount of heat is lost from the pump, pipes and steel drum by
+> radiation during the course of the experimental runs, which last from 15
+> minutes to an hour.
+> 
+> The experiments we saw on January 6, 1993 were far more impressive than
+> anything either of us previously witnessed.
+> 
+> 
+> Test Procedures And Instrumentation
+> 
+> Here is a brief description of the test procedures. For a better understanding
+> of this test, I recommend that the reader consult the Hydro Dynamics
+> literature, diagrams and patents. For a serious, in depth understanding, I
+> recommend you watch the video carefully. (Please note: This document is
+> intended primarily for e-mail transmission, so I cannot include a diagram.)
+> 
+> As mentioned above, the Hydrosonic pump is a kind of rotor device. It is
+> turned by an industrial three-phase AC electric motor. The motor turns the
+> pump device at several thousand RPM, the pump heats up the water because of
+> ordinary friction and because additional heat is generated by the mysterious
+> process. In these tests, a 40 HP Lincoln brand motor was used to drive a 12
+> inch Hydrosonic pump.
+> 
+> Before the test run begins, a 55 gallon open steel drum weighing 30.5 lb empty
+> is placed on a factory weight scale. It is filled with 350 lbs of tap water.
+> 
+> Water is fed into the Hydrosonic pump from a 16 gallon feedwater tank. A large
+> clear plastic bucket has been mounted on the top of the input feedwater tank.
+> The bucket serves as a hopper. It is marked in two scales: tenth-gallons up to
+> one gallon; and pounds, up to 8 lbs. (One U.S. gallon weighs 8.3 lbs.) Water
+> is added in 8 pound increments from a marked plastic milk bottle. Care is
+> taken to ensure that there are no air bubbles in the feedwater tank. The
+> hopper makes it easy to record the flow and total water consumed. It is topped
+> off to the 8 lb mark at the beginning of the test run, and the amount added
+> during the run is recorded.
+> 
+> Water from the feedwater tank is forced through the Hydrosonic pump by a small
+> auxiliary pump. The flow rate is regulated and displayed with a flowmeter.
+> 
+> The pump is turned on, the water is fed through it, and it rapidly grows hot.
+> Within 5 or 10 minutes, all of the water fed into the pump is vaporized and
+> forced out of an exhaust pipe, which is mounted about 1.5 meters above the
+> floor. A large jet of steam escapes out of the pipe, sometimes billowing a
+> meters or two across the room. The steam is quite hot and dangerous, if you
+> were to hold your hand it for more than few seconds, you would be severely
+> scalded. This machine is not anything like a laboratory test bench
+> experimental unit; it is an industrial product designed for applications that
+> require massive amounts of steam, like dry cleaning. The steam is dry; Griggs
+> demonstrates a rough and ready factory floor technique to confirm this, which
+> takes a lot of gumption: pass your hand through dry steam quickly, and you do
+> not find droplets condensed on the skin. This is somewhat like passing your
+> finger through the flame of a burning candle.
+> 
+> After 10 or 15 minutes, the machine is warmed up and the flow rate and balance
+> of water in the machine is stabilized. In these tests, output was regulated by
+> manually opening and closing a valve on the exhaust pipe. After the machine is
+> stabilized and preparations are complete, the test run begins:
+> 
+> 1. A second valve at the end of the exhaust pipe is closed, which shuts off
+> the steam jet for a moment. A second valve is opened, directing the steam into
+> a large rubber hose. The end of the hose is firmly held at the bottom of the a
+> steel drum filled with cold water. The steam swirls into the cold tap water
+> and condenses, quickly raising the water temperature. The enthalpy from the
+> escaping steam is captured by condensing the steam. This is a remarkably
+> effective technique: virtually all of the steam condenses, capturing the
+> thermal energy, and the steam jet pushes the water around with considerably
+> force, which must capture most of the kinetic energy from the steam jet.
+> 
+> 2. At the same moment the steam jet is redirected from air to the steel drum
+> full of water, a power meter is reset, so that the total electric energy
+> expended in by the electric motor driving the pump is recorded from that
+> moment on. The power meter prints an instantaneous reading of kilowatts every
+> minute; it prints a subtotal expended kilowatt hours of power any time during
+> the test on demand; and at the end, it prints the total kilowatt hours used.
+> 
+> 3. The water temperature in the steel drum and the instantaneous power levels
+> are recorded manually every two minutes in a lab notebook. Temperature
+> readings are taken at different depths and the water is stirred vigorously
+> with a detached mop handle to ensure that the temperature readings are
+> uniform. Because the steam is swirling into the bottom of the water, the
+> bottom is 
+> 
+> 4. From time to time, 8 lbs of additional tap water is added to the hopper and
+> recorded in the lab notebook.
+> 
+> 5. After a set period, 30 minutes or 1 hour, the electric power driving the
+> pump is cut off. A closing temperature reading is taken. At this point, Griggs
+> is in the habit of venting the remaining steam into the barrel, which raises
+> the temperature 4 or 5 degrees and adds about 3 pounds of water. I think this
+> extra boost of energy should not be include in the totals, because I think it
+> should be classified as "latent" or "stored" energy that was captured in the
+> pump and pipes before the test began. Therefore, in this report, I have used
+> the closing temperature readings taken just before venting the steam, and I
+> use a low estimate of the mass of water.
+> 
+> 6. The steel drum, which is sitting on the scale, is weighed. The total amount
+> of water consumed, as measured in the hopper, is compared to the increase in
+> the water in the steel drum. The numbers match closely, to within 2 or 3 lbs,
+> proving that most of the steam is condensed and captured. If the steam is not
+> vented in the last step, the final mass in the drum will probably be a few
+> pounds less than the amount consumed, because some water will be lost to
+> evaporation in the air from the surface of the water in the drum. If the steam
+> is vented, the final mass in the drum might exceed the amount fed into the
+> hopper by a few pounds. Where there was a measurable discrepancy, I took the
+> lower figure. The BTU content of a 3 lb mass of water is negligible, in any
+> case. For example, in Test 2, a 3 lb change in the mass of water would change
+> the output energy computation by 0.8%.
+> 
+> 7. Total output energy is computed in BTUs by multiplying the mass of water
+> with the temperature increase in degrees Fahrenheit. Total input energy, as
+> recorded by the power meter, is compared to total output energy.
+> 
+> Power was monitored with a G.E. Dranetz model 808 Electric Power/Demand
+> Analyzer, which was calibrated by G.E. on October 5, 1993. In previous tests,
+> the Dranetz compared within a percent to a second power meter, a BMI 3030,
+> which was installed in parallel. According to the Dranetz specifications, the
+> maximum error at full load is 1.5%. Full load for this meter is 800 KW; power
+> levels during these tests varied from 14 to 23 KW. At these lower levels,
+> errors will be less than 0.5%. [5]
+> 
+> Temperature was measured with 2 or 3 electronic thermometers which agreed to
+> within 1 deg F, and one Taylor cooking thermometer, marked in 5 deg 
+> increments, which agreed with the electronic thermometers. A pyrometer is also
+> used to measure water temperature and the surface temperature of the pump,
+> electric motor, and pipes. The pyrometer agreed closely with the thermometers.
+> The Micronta electronic thermometer began to malfunction towards the end,
+> jumping from 60 deg  to 90 deg  down to 40 deg , probably because of a weak
+> battery. This event proves yet again the wisdom of these experimental
+> techniques and rules: use multiple instruments; use simple rough-and-ready
+> backups to do "reality tests"; keep an eye on things at all times, and use
+> common sense. Dennis Cravens [6] and I are both strong advocates and
+> proselytizers of these principles, and Griggs personifies them.
+> 
+> The weight scale was checked on November 16, 1993, by the Georgia Tech team.
+> They brought iron weights which they had checked on an accurate scale at Tech,
+> and they determined that the Hydro Dynamics scale is correct through the full
+> range of its rated capacity, up to 1,000 lbs. On January 7, Mallove and I both
+> checked the calibration of the scale by standing on it.
+> 
+> Here are some important differences between this test and the mixed steam and
+> water test I described in the November 22 report:
+> 
+> This was a test of steam only, not water, or mixed water and steam.
+> 
+> The plastic bucket hopper was added to the feedwater tank, and a new flowmeter
+> was installed, allowing finer control with low flow rates. These improvements
+> make it much easier to observe and record flow rates and total water consumed.
+> 
+> The flow rate and total amount of water consumed in these tests is much
+> smaller than with the hot water and mixed hot water and steam tests. This
+> makes the experiment much easier. Because the flow is so much smaller, the
+> steel drum can be filled with much more water to start with; 350 lbs versus
+> 200 lbs in the previous experiments. 350 lbs is enough to condense virtually
+> all of the steam, as long as the output hose is held down at the bottom of the
+> drum. Another great advantage of this is that the water temperature does not
+> rise much in a given period of time, so that heat losses are smaller, the
+> temperature is easier to measure, and the steel drum is safer to be around,
+> with less danger of scalding.
+> 
+> 
+> January 6 Tests
+> 
+> We witnessed three experimental runs on January 6, 1994, one in the morning
+> and two that afternoon.
+> 
+> Test 1. A 1 hour blank run generating little or no excess heat.
+> 
+> Test 2. A 19 minute excess heat run.
+> 
+> Test 3. A 30 minute excess heat run with flow rate, pressure and other
+> parameters adjusted as closely to Test 2 as possible, which generated nearly
+> the same amount of excess heat per minute.
+> 
+> These tests showed that Griggs has considerable control over the reaction. He
+> can start it and stop it on demand, even though he says he does not understand
+> the deep underlying cause of the reaction.
+> 
+> 
+> Some Considerations Regarding Input Power Computation
+> 
+> There are two important factors which should be kept in mind when evaluating
+> the input power in these experiments:
+> 
+> 1. An electric motor works most efficiently at the peak ratings for which it
+> was designed. When an electric motor runs at a much lower load than it was
+> designed for, the difference between Apparent Power (volts times amps) and
+> "True Power" becomes large. The ratio of True Power divided by Apparent power
+> is known as the Power Factor (PF). This is described in many introductory
+> texts on A.C. power. [7] The PF is computed automatically by the Dranetz power
+> meter, and an average PF for the run is displayed.
+> 
+> In these tests, a 40 HP motor was used to drive a relatively small, 12 inch
+> rotor, so the PF was lower than other tests I have observed, varying from 73%
+> up to 84%. A 30 HP motor would be more appropriate for this pump, it would
+> have yielded a higher PF.
+> 
+> 2. All electric motors suffer some degree of mechanical power loss. Conversion
+> from electricity to rotary motion cannot be 100% efficient. The motor used in
+> this test is rated at 82.5% nominal efficiency by the manufacturer. It is
+> likely that the actually efficiency is somewhat less than this. Energy lost in
+> the conversion appears in the form of waste heat. Motors of this size get very
+> hot, and they are equipped with blowers too keep them from overheating.
+> 
+> Tests 2 and 3 showed excess heat even when compared to the unadjusted Apparent
+> Power. In Test 2, The Coefficient of Production (C.O.P.) was 117% measured
+> against the Apparent Power. However, if we take into account the relatively
+> low FP (caused by the inefficiency of this large motor driving the small
+> pump), and the energy lost in conversion to mechanical, rotary motion, the
+> C.O.P. was closer to 170%, that is, the input to output ratio was roughly
+> 1:1.7. A great deal of other energy was not accounted for, in readily apparent
+> losses like radiation from the pump, which is the size of a small automobile
+> engine block, and which was over 300 deg F during the run. The 117% C.O.P. is
+> the most conservative, lower bound estimate that would be reasonable. This
+> fact was demonstrated by Test 1, the null run. In this test, the lower bound
+> C.O.P., comparing to Apparent Power, was 59%. Adjusted for FP and mechanical
+> losses, the C.O.P. was 98%, which is a close balance of input and output.
+> 
+> 
+> The Performance Window
+> 
+> Griggs explained that his machines have a window of performance, defined by a
+> set of flow rates, pressure, speed of rotation, and so on. If you operate one
+> of the machines below or above the window of that particular machine, it will
+> produce little or no excess heat. He demonstrated this fact.
+> 
+> The pump used in these experiments was a new, experimental design, optimized
+> to create steam, rather than hot water. He had not finished working out the
+> range of operating parameters for it. This particular machine, unfortunately,
+> suffers from a rather narrow window of performance. It works best with a flow
+> rate between 0.15 and 0.25 gallons per minute, and for reasons he has not yet
+> determined, it requires a relatively high input pressure. It is much more
+> difficult to adjust than some of his previous models, but it has a high C.O.P.
+> and it produces pure steam without a mixture of unboiled water. He expects to
+> fix the narrow window requiring the finicky adjustments with a new pump which
+> will be ready in a few weeks.
+> 
+> During the demonstrations, he had difficulty getting the machine to balance
+> input water and output steam rates properly, and he had difficulty keeping the
+> flow high enough. He demonstrated what happens when the flow is too low; the
+> water in the narrow compartment around the spinning rotor suddenly drains off
+> in what he calls "deloading," which is an explosive burst of steam after which
+> the motor spins freely, drawing about 4 KW, the level you see when the pump is
+> run without water. It is surprisingly difficult to fill up this particular
+> experimental unit after this happens. You have to shut the output valve, fill
+> it up, and gradually open the valve again. This pump was equipped with a thick
+> glass porthole at the end of the outer bearing (the side away from the motor),
+> allowing a view of the water sloshing around inside, which allows you to gage
+> the water level in the pump. Getting the input and output flow to balance is a
+> little bit like trying to adjust a hose so that it will fill a bucket with a
+> hole in bottom up to a certain level, and no higher. However, once you get
+> everything in balance, the machines tend to stay in balance for extended
+> periods of time. An actual operating pump at a customer site is equipped with
+> preset flow control and pressure control valves. Most operating pumps are
+> bigger and they have wider "windows;" for example, an ideal flow might be
+> between 5 and 7 gallons per minute, which is much easier to ensure than the
+> 0.15 and 0.25 of this experimental unit.
+> 
+> When the pump is too full, or some other "performance window" operating
+> parameter is not right, the pump generates exactly as much heat as you would
+> expect any other stirring device to generate, according to the classic
+> experiments of J.P. Joule. When the correct flow and pressures are achieved,
+> the effect turns on, and this fact is easy to observe. The flow rate of water
+> going in remains constant, and the cloud of steam coming out remains the same,
+> but the electric power draw drops dramatically, by 20% to 50%, say from 23 to
+> 14 KW. The sound the machine makes also changes noticeably. Sometime the drop
+> in power draw will fluctuate around, as the effect fades in and out, but it
+> will soon stabilize and the machine will go on producing the same amount of
+> steam as it did before, with far less electricity than it used previously, for
+> hours or days.
+> 
+> When the machine is not producing any excess heat, the power draw kilowatt
+> numbers on the Dranetz are proportional to the flow, increasing as the input
+> flow valve is opened, decreasing as it is shut, just as you would expect. When
+> the excess heat effect turns on, input power no longer changes as much in
+> response to flow adjustments.
+> 
+> 
+> Results
+> 
+> TEST 1    January 6, 1994 11:30 a.m.
+> 
+> When we arrived, Griggs explained to me that he was having trouble boosting
+> the flow rate and maintaining pressure on the unit, so he was not getting a
+> measurable effect. However, he had managed to balance input and output, and to
+> bring the machine into a steady state, so we decided to let it run for an hour
+> producing little or no excess heat, as a control or "blank" test run of the
+> calorimetry. The flow rate was below the window, at 0.05 gallons per minute.
+> 
+> Results were as follows:
+> 
+> Starting mass and temperature of water in steel drum: 350 lbs, 55 deg F.
+> Water in input hopper also 55 deg F.
+> 
+> Ending mass and temperature in steel drum: 376 lbs, 127 deg F
+> 
+> Water temperature Delta T: 72 deg F
+> 
+> Energy added to water: 72 deg F x 376 lbs = 27,072 BTUs, which equals 7.93 KWH
+> 
+> It is important to remember that all of the water that ended up in the steel
+> drum was tap water starting at 55 deg F. Ambient temperature was slightly
+> higher, at 63 deg F, but this large mass of water could would not absorbed any
+> significant amount of heat from ambient in spite of the 8 deg F difference,
+> because it was heated above ambient by the pump 6 minutes into the test.
+> 
+> Dranetz input power: 13.46 KWH
+> Dranetz PF: 73%
+> 
+> C.O.P. computations (C.O.P. is output energy divided by input expressed as a
+> percentage) --
+> 
+>                                    Input KWH      C.O.P.
+> Apparent                           13.46               59%
+> Adjusted for PF                         9.83           81%
+> Adjusted for PF and Motor efficiency    8.12           98%
+> 
+> Conclusion: This is close to a balance of input and output. Because there must
+> have been significant radiant losses, with no excess heat I expect the C.O.P.
+> would be lower than 98%, so these results might indicate a small effect.
+> 
+> 
+> TEST 2    January 6, 1994 3:00 p.m.
+> 
+> In the afternoon, after the machine turned on and warmed up for 5 or 10
+> minutes, Griggs and the others tinkered with the input and output flow valves
+> and some other parameters, and after about 20 minutes in all, they announce
+> that the flow was steady at 0.20 gallons per minute, and the power draw
+> kilowatts had fallen, so the effect was turned on. The valve venting the steam
+> outside was shut, the valve leading into the steel drum was opened, and we
+> collected the steam for 19 minutes, 40 seconds. The run was terminated when a
+> circuit breaker in another part of the building shut down the controls. The
+> main power feed did not fail, but it is held on by solenoid actuators, which
+> opened up. The recording Dranetz meter has a battery back up, so no data was
+> lost. All other data collection is by stopwatch and pen on paper. (Events like
+> this remind us that sometimes, the old, simple ways of doing science are
+> best.)
+> 
+> Results were as follows:
+> 
+> Starting mass and temperature of water in steel drum: 350 lbs, 53 deg F.
+> Ending mass and temperature in steel drum: 381 lbs, 103 deg F
+> 
+> Water temperature Delta T: 50 deg F
+> 
+> Energy added to water: 50 deg F x 381 lbs = 19,050 BTUs, which equals 5.58 KWH
+> 
+> Dranetz input power: 4.80 KWH
+> Dranetz PF: 84%
+> 
+> C.O.P. computations --
+> 
+>                                    Input KWH      C.O.P.
+> Apparent                           4.80           117%
+> Adjusted for PF                         4.03           138%
+> Adjusted for PF and Motor efficiency    3.33           168%
+> 
+> Conclusion: excess heat was detected at levels far beyond any reasonable error
+> limits for the instrumentation used. If the equipment had been performing the
+> same as it did in Test 1, the final water temperature would have been closer
+> to 80 deg F than 103 deg F. This is computed as follows: 4.80 KWH Apparent is
+> delivered to motor, adjusted for PF and efficiency, would have created 3.33
+> KWH of heat, which equals 11,372 BTUs, which would have raised the 381 lb mass
+> of water by 30 deg F, but it went up 50 deg F, instead. I am certain that even
+> my kitchen cooking thermometer can detect the difference between 80 deg F and
+> 103 deg F.
+> 
+> This test ran for one-third the time of Test 1. The flow rate was 0.20 gallons
+> per minute, compared to 0.05 g.p.m. in Test 1. The improved PF was because the
+> motor was carrying a greater load with the greater flow rate.
+> 
+> To look at it another way: the rate of energy generation was 10.00 KW input to
+> the pump, 16.74 KW out; the excess was 6.74 KW, or 0.4 MJ per minute.
+> 
+> TEST 3    4:04 p.m.
+> 
+> Test 3 ran normally for 30 minutes.
+> 
+> Results were as follows:
+> 
+> Starting mass and temperature of water in steel drum: 350 lbs, 53 deg F.
+> Ending mass and temperature in steel drum: 392 lbs, 122 deg F
+> 
+> Water temperature Delta T: 69 deg F
+> 
+> Energy added to water: 69 deg F x 392 lbs = 27048 BTUs, which equals 7.92 KWH
+> 
+> Dranetz input power: 7.26 KWH
+> Dranetz PF: 84%
+> 
+> C.O.P. computations --
+> 
+>                                    Input KWH      C.O.P.
+> Apparent                           7.26           109%
+> Adjusted for PF                         6.10           130%
+> Adjusted for PF and Motor efficiency    5.03           157%
+> 
+> 
+> Conclusion: nearly as much heat as Test 2. Again, the results are far above
+> any possible experimental error.
+> 
+> 
+> Footnotes
+>        
+> 1. R. Stringham, "Cavitation Induced Micro-Fusion," ICCF4 paper C 3.9
+> 
+> 2. J. Griggs, U.S. Patent Number 5,188,090, Feb 23, 1993, Apparatus for
+> heating fluids
+> 
+> 3. J. Griggs, "A Brief Introduction to the Hydrosonic Pump and the Associated
+> 'Excess Energy' Phenomenon," ICCF4 unnumbered paper. This will appear in the
+> full ICCF4 Proceedings, and it is available in from Hydrodynamics
+> 
+> 4. J. Rothwell, "Brief Report on November 22 Demonstration of Griggs Device,"
+> CFRA
+> 
+> 5. General Electric Corp, Dranetz Series 808 operator manual equipment
+> specifications
+> 
+> 6. D. Cravens, "Factors Affecting the Success Rate of Heat Generation in CF
+> Cells," ICCF4 paper C 3.12
+> 
+> 7. V. Valkenburgh, "Basic Electricity, Revised Edition," Hayden Books
+> 
+> 
+
+----------------------------------------------------------------------
+Griggs is now installing new test equipment including a dynamometer. He
+is working with the retired head of Mechanical Engineering at Georgia
+Tech (second only to M.I.T. in the U.S.). They hope to finish in month
+or two. I hope these tests will be considered definative proof.
+
+___________________________________________________________________________
+
+
+The following article appears in the June 1994 monthly technical
+edition of Superconductivity News (Vol. 6, No. 42).
+
+William Jay Fogal, president of Quick Chek Industries (Martinez, GA)
+has invented and patented an electronic device for which he has made
+very broad claims.  Others learning about the device have further
+extrapolated the claims to the point that if real, the device means
+the end of power utilities, the rendering useless of the entire
+electrical power grid, the demise of manufacturers of electrical
+generators and electrical cable, and a dramatic reduction in the
+activities of hundreds of thousands of ancillary service providers.
+Most industries will have to change or die.  The infrastructure
+alterations will be the most profound the world has ever witnessed.
+While the odds are stacked against it being real, the staff of
+Superconductivity News (SN) believes it is important to report the
+events as they occur.
+
+Fogal is not claiming he has invented a room temperature
+superconductor.  What he has invented is either completely fatuous or
+it is astounding in that it strikes at the very core theoretical
+underpinnings of electromechanics.  Fogal told SN that his device grew
+out of his efforts to fix a broken car radio in the mid 1970s.  As he
+got past the wiring and the circuits and into the semiconductors
+actually running the radio, he made changes that greatly improved the
+audio quality.  He then let his ideas lay idle for more than a decade
+before finally returning to the research in the late 1980s.
+
+Fogal says his charged barrier semiconductor device allows electrons
+to flow without resistance (i.e., as in superconductors) at room
+temperature.  He claims the device demonstrates a very high AC voltage
+and AC current gain.  His charged barrier device is on a bipolar
+design that can be incorporated in (MOS) metal oxide semiconductor
+designs, as well as multiple gate devices.  It operates on a hall
+effect electromagnetic field internal device.  The hall effect
+magnetic field forces electron flow and angular spin of the electrons
+in the same direction to the top of the conduction bands in the
+crystal lattice on semiconductor devices, unlike (SOI) silicon on
+insulator devices that force electron flow to the surface of the
+semiconductor lattice.  "Unlike superconductors which generate an
+external field, my semiconductor creates a self-regulating magnetic
+field internal to the device," Fogal said.
+
+-- Fogal's Description of His Device --
+
+Charged barrier semiconductor devices incorporate a base plate member
+of a semiconductor crystal.  Also incorporated with the base plate
+member is a dialectic material and a second base plate member.  The
+combination of the two base plate members constitutes an electrolytic
+capacitor.  The first base plate member will create a transverse
+electric field that is known as a hall effect in the base plate member
+of the semiconductor crystal.  The ratio of the transverse electric
+field strength to the product of the current and the magnetic field
+strength is called the hall coefficient, and its magnitude is
+inversely proportional to the carrier concentration on the base plate
+member.  The product of the hall coefficient and the conductivity is
+proportional to the mobility of the carriers when one type of carrier
+is dominant.  Since the base plate member is tied directly to the
+emitter junction of the semiconductor, the hall coefficient comes into
+play with the creation of a one pole electromagnet in the base plate
+member.
+
+The hall effect of the electrolytic capacitor, in relation to the
+position on the crystal lattice, will force electron angular spin in
+the same direction and electron flow to the top of the conduction
+bands in the lattice.  The magnetic flux and the density of the
+carriers on the electrolytic capacitor plate are in direct proportion
+to the magnetic flux and carrier concentration on the emitter junction
+on the semiconductor crystal.
+
+Since the angular spin and the flow of the electrons are in the same
+direction, due to the influence of the electromagnetic field, the
+electron lattice interaction factor does not come into play.  The
+electron wave density is greater and the mobility of the electron flow
+is faster.  The device does not exhibit frequency loss in the wave.
+
+The base or gate of the semiconductor is more sensitive to input
+signal.  These devices will typically turn on with an input to the
+junction in the area of 0.2 MV to 0.4 MV with an output at the
+collector junction of 450 MV at 133.5 UA of current.
+
+-- Electron Wave Function In Charged Barrier Technology --
+
+Think of the conduction bands in a crystal lattice as a highway.
+Electrons in the free state will move along this highway.  The only
+difference is the electron angular spin can be in different
+directions.  With the electrons spinning in different directions, the
+electrons would travel on different lanes of the highway and
+collisions can occur.  The scattering and the collision of the
+electrons can cause friction and resistance to the flow.  The
+resistance to the flow and the friction can cause semiconductors to
+run hot.
+
+In semiconductor devices, this is called lattice scattering or
+electron lattice interaction.  If we could make the electrons move in
+one direction, and also spin in the same direction, then we could have
+more traffic electrons (on the highway) without having the resistance
+or the collisions.  We could put a barrier between the lanes on the
+highway.  But, the electrons could still spin in different directions.
+But, what if we could charge this barrier?!  Turn this barrier into an
+electromagnetic field!  An electromagnetic field in one direction.  A
+one pole electromagnet!  A hall effect magnetic field.  This one pole
+electromagnetic field would make almost all of the electrons spin in
+the same direction.  Because the electrons are a negative charge and
+the electromagnetic field has a negative charge, the electrons travel
+in unison and then we could have more electrons on the highway, and
+the electron travel could be faster.
+
+The orientation of the spin of the electrons in the crystal lattice,
+due to the electromagnetic field, has a direct impact on the formation
+of the wave.  If the orientation of the spin of the electrons are in
+unison, there will be no loss in the wave nature, and the density of
+the wave will be greater, and the frequency of the wave will be
+complete.  If the spin of the electrons in the lattice are in
+different directions, the wave nature will be affected and there will
+be a loss in the density of the wave.  And, there will be a gap in the
+frequency of the wave.
+
+-- Patent Issued --
+
+Fogal filed an application for a US patent covering the design on
+March 1, 1991 and awarded No. 5,196,809, titled "High gain, low
+distortion, faster switching transistor," on March 23, 1993.  The
+patent includes figures, diagrams, and several data plots, e.g. output
+signal vs. input signal (vac) for the Fogal device vs. a standard
+transistor.  The patent was Fogal's first, but he has since
+received a second patent, No. 5,311,139, covering a fuse testing
+device that has nothing to do with the semiconductor.  Another US
+patent application covering improvements to the semiconductor was
+filed in January of this year.  The patent abstract and claim 1
+follow.
+
+-- Patent Abstract --
+
+A transistor in which the emitter terminal is coupled to ground
+through a filter capacitor.  The filter capacitor has a capacitance of
+from about 0.2 uf to about 22 uf and can be connected either by itself
+or in parallel with a resistor, depending upon the circuit in which it
+is used.  The incorporation of a filter greatly of such a capacitance
+level provides greatly improved gain and less distortion of the input
+signal, to permit a high output to be achieved in fewer amplifier
+stages and with less current draw and heating than in conventional
+transistor amplifier stage circuits.  Additionally, the transistor can
+be provided in a unitary structure by incorporating the filter
+capacitor directly on the transistor chip, and can also be provided by
+incorporating the transistor and a resistor within the casing of a
+filter capacitor.
+
+Claim 1
+
+a)	a substrate;
+b) 	one of a NPN and a PNP transistor integrally formed on the
+	substrate, the transistor having a base, a collector, and an
+	emitter;
+c)     	a parallel resistor and filter capacitor network coupled with
+	the emitter and mounted on the transistor, to form an integral
+	part of the integrated circuit, the filter capacitor including
+	an outer casing; and
+d)	base, collector, and emitter terminals on the substrate and
+	coupled with the base, the collector, and the emitter,
+	respectively, to permit the integrated circuit to be connected
+	with an electronic circuit, wherein the integrated circuit is
+	contained within the filter capacitor outer casing.
+
+-- Prototypes Fabricated --
+
+Fogal told SN that he has made six prototypes of his device.
+Prototype radios and computer modems have been fabricated employing
+the device for demonstration purposes.  Fogal emphasizes the noise
+reduction aspects of his semiconductor.
+
+Through the help of a colleague, Allan Ames of Advanced Scientific
+Applications (Houston, TX), one of Fogal's semiconductors will be
+tested by scientists at the Texas Center for Superconductivity at the
+University of Houston.  This is being arranged through Wei-Kan Chu.
+SN discussed the situation with Chu and he confirmed that testing will
+be done after the documents he had received were reviewed.  SN's
+editor-in-chief reviewed what the device might mean with Chu.  Clearly
+Chu had not had the opportunity to give the matter much thought.
+
+Thomas E. Bearden (Huntsville, AL) believes Fogal's semiconductor
+represents a true overunity electrical device.  "Electromagnetics is
+over 100 years old; many of its assumptions are flat wrong," Bearden
+told us.  He relates the way the Fogal semiconductor works to the way
+heat pumps function, but says it takes it one step beyond.  A Fogal
+semiconductor simply stops electrons from flowing and passes the pure
+potential energy from the now-free electrons with the circuit blocking
+the drift current.  Unlike superconductors, pairs of electrons are not
+needed to pass the current along without resistance.
+
+Bearden added that, based on endurance load tests on the Fogal
+semiconductor, they are led to the firm conclusion that the chip
+actually stops the longitudinal flow of electrons, strips them of
+their energy, and passes the pure energy along without resistance.  In
+this regard he says it behaves like a heat pump but goes one step
+beyond to pull energy from the vacuum.
+
+-- SN Analysis and Comment --
+
+It is important to note that the device does not violate the rules of
+thermodynamics involving the conservation of energy.  It does not make
+energy from nothing.  One end of a Fogal circuit would provide
+electricity for work such as running a light bulb or a computer, and
+the other end will draw energy from the environment and get quite cold
+in the process.
+
+The best aspect of this story is that either a Fogal semiconductor
+works or it doesn't.  There is nothing sophisticated in its
+construction and there are no mysterious materials fabrication steps
+involved.  There should not be any gray or cloudy areas.  Testing
+should be straightforward.
+
+Q:	What are the odds of its being real?
+A: 	If it is real, you will hear more about it soon enough.  If it
+	isn't, think how much fun you have had reading this article.
+
+Q:	Are there any intrinsic limitations if the device is real?
+A:	None we can foresee.
+
+==========================================================================
+==========================================================================
+
+Okay folks, this is the latest news about free energy machine development.
+
+If you know of somebody else having something that runs on by converting 
+zero point energy, please let me know.
+
+Regards, Dipl. Ing. Stefan Hartmann.
+c/o Workshop for Decentral Energy Research, Berlin, Germany.
+email to:
+harti@contrib.de
+ ## CrossPoint v3.02 ##

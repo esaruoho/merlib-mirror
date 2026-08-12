@@ -1,0 +1,1103 @@
+By Ove Tedenstig,
+   Idungatan 37,
+   19551 Märsta/Sweden
+   Date: 1/1-1996
+
+
+
+The new neutron model explaining the electrical field
+------------------------------------------------------
+potential into the neutron particle.
+------------------------------------
+
+The current ideas of protons and neutrons are that they
+are built up by quarks. In contrast to it, it will here
+be presented a somewhat different model where the neutron
+is composed by a proton and a single orbiting electron.
+
+Experiments have been performed showing the electrical
+field strength distribution around a neutron, from long
+distance as well as on very close distances.
+
+A graph of this distribution is presented in David Park's
+popular scientific book from 1965 with title "The modern
+physics", and looks like as follows :
+
+
+                !
+                ! p
+                !
+                !  p
+                !
+                !   p
+                !
+                !
+                !     p
+                !
+                !       p       p  p
+        --------!-------------n------0--0--0---0---0---------
+                !        n
+                !            n
+                !          n
+                !
+                !
+                !
+
+This graph demonstrate the neutron as beeing an electrical neutral
+particle on large distances. Next what happen when coming closer
+the neutron core is appearing of a small positive dip ! Then the
+graph get a negative dip and after that a positive level when coming
+were close the neutron core, the proton.
+
+The aim shall here be to reconstruct this graph by doing a
+theoretical calculation based upon the suggested model. For this
+purpose firstly some formulae shall be derived, then putting them
+into a computer program for creating a curve plot over the
+desired function.
+
+
+Fist regard the orbiting electron case.
+
+                 e
+            _   /      .          _
+            r  /             .    A
+              /                     .
+             /            _                 .
+            /   a         D               b        .
+   --------o-------------------------------------------------o
+           !                                                 !
+           !-------------------- D ------------------------->!
+
+
+Parameters used:
+     D  the distans from the measureing point to neutron center point
+
+     r  the electron orbiting radius
+     _
+     r  the scalar vector in the direction of r
+     _
+     D  the scalar vector in the direction of D
+     _
+     A  the scalar vector connecting the end point of D and r
+
+     a  the angle between vector r and D
+
+     b  the angle between vector A and D
+
+Using some vector notation we get the following relations:
+
+    _
+1)  r = r.cos(a).i + r.sin(a).j
+    _
+2)  D = D.i
+    _
+3)  A = (D- r.cos(a).i - r.sin(a).j
+                     _ _
+4)  /A/./D/.cos(b) = A.B       ( from common vector theory )
+
+              _   _
+              A . D
+5)  cos(b) = -------
+              /A/./D/
+
+                            2             2
+6) /A/ = sqrt ( (D-r.cos(a))  - (r.sin(a))    )       (from 3)
+
+   _ _
+7) A.D = ((D-r.cos(a)i - r.sin(a)j)).D.i = (D-r.sin(a)).D
+                                (using common vector theory)
+
+            (D-r.sin(a)).D    D-r.cos(a)
+8) cos(b) = --------------- = -----------
+                /A/.D             /A/
+
+If an electron is used as probe particle shot towards the neutron,
+it will be repelled by the orbital electron from the orbit
+outside.
+
+The Coulomb force is calculated by the common formula :
+
+                                           2
+          konstant                        e
+9)  Fq = ----2-----  where konstant = ---------- 2
+            D                         4.Pi. Eo.re
+
+
+where we for convinient express D and r in units of the classical
+electron radius, re (the computed do not need to calculate with
+extreme small numbers in this way).
+
+From tabels we get : e  = 1.602 177 3(49)E-19
+                     E0 = 8.854 187 817E-12
+                     Pi = 3.141 592 653 589
+                     re = 2.817 940 92(38)E-15
+
+(MKSA units, feteched from Particle Properties Data Booklet,
+ CERN 1988).
+
+The numerical value of 9) is not calculated here but directly in
+the computer program.
+
+The effective force actuating the probe particle then will be:
+
+
+             konstant . (D- r.cos(a))
+10)  dF =  -------------3-------------
+                     /A/
+
+The total force actuating the probe particles is the integral
+part over the closed orbit. The quantity dF is calculated in a
+number of points of the orbits (a number of steps) and the
+total sum therefore will be :
+
+
+=======================================================
+               konstant * ( D - r.cos(a))
+11)  F = - sum ------------3-------------- * (1/step)
+                        /A/
+=======================================================
+
+Integrating is performed from a= 0 --> Pi
+The number of steps is only dependent of desired solution and
+the rapidity of your computer.
+The munus sign for repelling particles
+
+
+Studying this function will show a repelling force
+strongly increasing until reaching the electron radius level
+from the outside. When the probe particle come inside the
+orbital the electrons still will repell each other, but the
+force will change direction (flip).
+
+
+For the proton approximately the same computer ideas are used.
+The difference here is that the proton charge is distributed
+over the surface area and not appering like a point as for the
+orbiting electron.
+
+A small surface element as part of the surface area can be
+written :
+
+                          dB. 2.Pi.ry
+12)    surface element = ---------2----
+                           4.Pi.Rp
+
+where dB = Rp.da
+      ry = Rp.sin(a)
+      da = Pi/step
+      step = the number of arbitrary chosen integral summing steps
+      a = da.n
+      n= 0 --> step
+
+============================================
+                konstant
+13)  F = + sum ------3-----.(1/2).sin(a). da
+                 /A/
+============================================
+
+The + sign for attracting particles (the negative electron attracts
+the proton, being positive charged)
+
+
+         -----------------------------------------------
+
+
+
+Must be compilated in a TurboPascal compilator before used
+in the main program "PLOTTER".
+
+unit charge;
+interface
+function p_algo(var step:integer):real;
+implementation
+
+var force:real;    (* force help parameter                       *)
+    forceut:real;  (* force help parameter                       *)
+    forceut1:real; (* force help parameter                       *)
+    forceut2:real; (* force help parameter                       *)
+    forcex1:real;  (* force help parameter                       *)
+    forcex2:real;  (* force help parameter                       *)
+    angle:real;    (* integrating angle                          *)
+    da:real;       (* angular increment when integrating         *)
+    D:real;        (* distance measuring point to neutron center *)
+    R:real;        (* electron orbiting radius                   *)
+    step:integer;  (* actual step value of D                     *)
+    step1:integer; (* help parameter                             *)
+    steps:integer; (* number of integration steps                *)
+    a1,a2,a3,a4:real; (* help parameters                         *)
+    b1,b2,b3,b4:real; (* help parameters                         *)
+    a,b:real;         (* help parameters                         *)
+    Rp:real;          (* proton radius in units of electron Re   *)
+    testa:boolean;    (* help parameter                          *)
+    solution:real;    (* plotting area for force parameter       *)
+    konstant:real;    (* the charge constant e*e/4/pi/Eo         *)
+    Pi:real;          (* the mathematical constant pi            *)
+    e:real;           (* the charge unit constant                *)
+    E0:real;          (* the permittivity of vacuum constant     *)
+    re:real;          (* the electron radius                     *)
+
+procedure define;
+(* defining constants and program parameters *)
+begin
+Pi:=3.141592653589793238; (* the pi constant                          *)
+e:=1.6021773349E-19;      (* the elementary charge constant           *)
+E0:=8.854187817E-12;      (* permittivity of vacuum constant          *)
+re:=2.8178409238E-15;     (* the classical electron radius            *)
+solution:=0.01;           (* solution for plotter                     *)
+steps:=10;                (* number of numerical integration steps    *)
+r:=144;                   (* electron orbital radius in the neutron   *)
+Rp:=12.5;                 (* proton radius                            *)
+konstant:=e/E0*e/4/pi/re/re; (* calculating the unit charge constant  *)
+end;
+
+
+Procedure sum_forces;
+(* summing field force contributions from proton and electron *)
+begin
+forceut:=forceut1+forceut2;
+end;
+
+procedure calc1;
+(* calculating the field force contribution from the electron *)
+label   1;
+begin
+forceut:=0;
+forceut1:=0;
+if D<Rp then goto 1;
+for step1:=0 to steps do begin
+angle:=pi*step1/steps;
+a1:=D-R*cos(angle);
+a2:=R*sin(angle);
+a3:=a1*a1;
+a4:=a2*a2;
+if (a3-a4)<>0 then a:=sqrt(abs(a3-a4));
+testa:=true;
+if abs(a)<>0 then testa:=false;
+
+if testa=false then force:=-konstant*(1/steps)*a1/a/a/a;
+forceut:=forceut+force;
+end;
+
+forceut1:=0;
+if ((forceut<=solution) and (forceut>=-solution)) then
+     forceut1:=forceut;
+1: end;
+
+procedure calc2;
+label 2;
+(* calculating field force contribution fron the proton *)
+begin
+forceut:=0;
+forceut2:=0;
+for step1:=0 to steps do begin
+if D<Rp then goto 2;
+angle:=pi*step1/steps;
+da:=pi/steps;
+b1:=D-Rp*cos(angle);
+b2:=Rp*sin(angle);
+b3:=b1*b1;
+b4:=b2*b2;
+if (b3-b4)<>0 then b:=sqrt(abs(b3-b4));
+testa:=true;
+if abs(b)<>0 then testa:=false;
+if testa=false then force:=(konstant*b1/b/b/b)*da*sin(angle);
+forceut:=forceut+force;
+end;
+
+forceut2:=0;
+if ((forceut<=solution) and (forceut>=-solution)) then
+   forceut2:=forceut;
+   forceut:=0;
+2: end;
+
+function p_algo(var step:integer):real;
+begin
+D:=step;
+define;           (* defining constants and program parameters      *)
+calc1;            (* calclulate electron force field distribution   *)
+calc2;            (* calculate proton force field distribution      *)
+sum_forces;       (* summing field forces from proton and electron  *)
+p_algo:=forceut;  (* output plotting function                       *)
+end;              (* end of function                                *)
+
+end.
+
+
+ ------------------------------------------------------------
+
+Must be compilated in a TurboPascal compilator befor used in
+the main program "PLOTTER"
+
+unit realstr;
+interface
+
+uses    crt,opstring;
+var     r,rr:real;
+        s,t,exponent:integer;
+        signum,str,expo:string;
+        digitsx,digitsy:integer;
+        test:boolean;
+
+function p_realstr(r:real;digitsx,digitsy:integer):string;
+
+implementation
+procedure konvert;
+begin
+if exponent=-30 then expo:='E-30';
+if exponent=-29 then expo:='E-29';
+if exponent=-28 then expo:='E-28';
+if exponent=-27 then expo:='E-27';
+if exponent=-26 then expo:='E-26';
+if exponent=-25 then expo:='E-25';
+if exponent=-24 then expo:='E-24';
+if exponent=-23 then expo:='E-23';
+if exponent=-22 then expo:='E-22';
+if exponent=-21 then expo:='E-21';
+if exponent=-20 then expo:='E-20';
+if exponent=-19 then expo:='E-19';
+if exponent=-18 then expo:='E-18';
+if exponent=-17 then expo:='E-17';
+if exponent=-16 then expo:='E-16';
+if exponent=-15 then expo:='E-15';
+if exponent=-14 then expo:='E-14';
+if exponent=-13 then expo:='E-13';
+if exponent=-12 then expo:='E-12';
+if exponent=-11 then expo:='E-11';
+if exponent=-10 then expo:='E-10';
+if exponent=-9 then expo:='E-9';
+if exponent=-8 then expo:='E-8';
+if exponent=-7 then expo:='E-7';
+if exponent=-6 then expo:='E-6';
+if exponent=-5 then expo:='E-5';
+if exponent=-4 then expo:='E-4';
+if exponent=-3 then expo:='E-3';
+if exponent=-2 then expo:='E-2';
+if exponent=-1 then expo:='E-1';
+if exponent=30 then expo:='E30';
+if exponent=29 then expo:='E29';
+if exponent=28 then expo:='E28';
+if exponent=27 then expo:='E27';
+if exponent=26 then expo:='E26';
+if exponent=25 then expo:='E25';
+if exponent=24 then expo:='E24';
+if exponent=23 then expo:='E23';
+if exponent=22 then expo:='E22';
+if exponent=21 then expo:='E21';
+if exponent=20 then expo:='E20';
+if exponent=19 then expo:='E19';
+if exponent=18 then expo:='E18';
+if exponent=17 then expo:='E17';
+if exponent=16 then expo:='E16';
+if exponent=15 then expo:='E15';
+if exponent=14 then expo:='E14';
+if exponent=13 then expo:='E13';
+if exponent=12 then expo:='E12';
+if exponent=11 then expo:='E11';
+if exponent=10 then expo:='E10';
+if exponent=9 then expo:='E9';
+if exponent=8 then expo:='E8';
+if exponent=7 then expo:='E7';
+if exponent=6 then expo:='E6';
+if exponent=5 then expo:='E5';
+if exponent=4 then expo:='E4';
+if exponent=3 then expo:='E3';
+if exponent=2 then expo:='E2';
+if exponent=1 then expo:='E1';
+if exponent=0 then expo:='E0';
+end;
+
+
+function p_realstr(r:real;digitsx,digitsy:integer):string;
+label    1,2;
+begin
+test:=false;
+if r<>0 then test:=true;
+signum:='';
+if ((test=true) and (r<0)) then signum:='-';
+s:=digitsx;t:=digitsy;
+exponent:=0;
+rr:=abs(r);
+while (rr<=0.1) do begin
+exponent:=exponent-1;
+rr:=rr*10;
+if keypressed then goto 1;
+end;
+
+1: if abs(r)>=1 then rr:=abs(r);
+while (rr>=100) do begin
+exponent:=exponent+1;
+rr:=rr/10;
+if keypressed then goto 2;
+end;
+
+2: konvert;
+str:=real2str(rr,s,t);
+
+if expo='E0' then expo:='';
+p_realstr:=signum+str+expo;
+end;
+
+end.
+
+
+
+
+
+
+-------------------------------------------------------------------------
+Main program, must be compilated in a TurboPascal compilator
+Units CRT and GRAPH EGAVGA graphics must be available.
+
+
+program PLOTTER;
+uses realstr,Crt,graph,charge;
+
+label     1;
+const     offmin=85;offmax=85;
+const     xaxel_min=85;xaxel_max=550;yaxel_min=0;yaxel_max=465;pi=3.141592;
+var       graphdriver,graphmode,grapresult:integer;
+          q,errorcode,frek:integer;
+          digitsx,digitsy,dividex,dividey,n,nn:integer;
+          x,p,y,dxpos,dypos,dxneg,dyneg,dxori,dyori:real;
+          sigx1,sigx2,sigy1,sigy2:real;
+          fmin,fmax:integer;
+          xmaxin,x2,y2,result,dx,dy:real;
+          akx,aky,bkx,bky,a,b,c,d,k:integer;
+          step,nyy,xdelta,ydelta:integer;
+          def:char;
+          str,str1,rubrik,unitx,unity:string;
+          xmax,ymax,xmin,ymin,xori,yori:real;
+          x1corner,y1corner,x2corner,y2corner:integer;
+          xorigo_ax,yorigo_ax:integer;
+          rubrikx,rubriky:integer;
+          xmin_ax,xmax_ax,ymin_ax,ymax_ax:integer;
+          case1x,case2x,case3x,case1y,case2y,case3y:boolean;
+          xplot,yplot:integer;
+          nxorigo,nyorigo:integer;
+          testa:boolean;
+          str11,str22,xstr1,ystr1:string;
+
+(***************** Here put in desired function ************)
+procedure functionxy;
+var       f:real;
+
+begin
+x:=step;
+y:=p_algo(step);
+end;
+(***************** end *************************************)
+
+procedure set_nxorigo;
+begin
+if case3y=true then begin
+yorigo_ax:=yaxel_max-trunc((nyorigo-fmin)/(fmax-fmin)*(yaxel_max-yaxel_min));end;
+
+if case3x=true then begin
+xorigo_ax:=offmin+trunc((nxorigo-fmin)/(fmax-fmin)*(xaxel_max-xaxel_min));end;
+
+if case1x=true then xorigo_ax:=xaxel_min;
+if case2x=true then xorigo_ax:=xaxel_max;
+if case1y=true then yorigo_ax:=yaxel_max;
+if case2y=true then yorigo_ax:=yaxel_min;
+end;
+
+
+
+procedure write_inparameters;
+begin
+if case1x=true then writeln('casex= 1');
+if case2x=true then writeln('casex= 2');
+if case3x=true then writeln('casex= 3');
+if case1y=true then writeln('casey= 1');
+if case2y=true then writeln('casey= 2');
+if case3y=true then writeln('casey= 3');
+writeln('nxorigo= ',nxorigo);
+writeln('nyorigo= ',nyorigo);
+writeln('fmin= ',fmin);
+writeln('fmax= ',fmax);
+writeln('xmin= ',xmin);
+writeln('xmax= ',xmax);
+writeln('ymin= ',ymin);
+writeln('ymax= ',ymax);
+writeln('xori= ',xori);
+writeln('yori= ',yori);
+writeln('xori= ',xori);
+writeln('xorigo_ax= ',xorigo_ax);
+writeln('yorigo_ax= ',yorigo_ax);
+writeln('xaxel_min= ',xaxel_min);
+writeln('xaxel_max= ',xaxel_max);
+writeln('yaxel_min= ',yaxel_min);
+writeln('yaxel_max= ',yaxel_max);
+writeln('xdelta= ',xdelta);
+writeln('ydelta= ',ydelta);
+writeln('dividex= ',dividex);
+writeln('dividey= ',dividey);
+
+end;
+
+procedure wr_maxmin;
+begin
+
+writeln('x= ',x);
+writeln('x2= ',x2);
+writeln('xmin= ',xmin);
+writeln('xmax= ',xmax);
+writeln('y= ',y);
+writeln('y2= ',y2);
+writeln('ymin= ',ymin);
+writeln('ymax= ',ymax);
+end;
+
+procedure calc_minmax;
+var       pp:integer;
+          xpmin,xpmax,ypmin,ypmax:boolean;
+          xnmin,xnmax,ynmin,ynmax:boolean;
+          xposmin,xposmax,yposmin,yposmax:real;
+          xnegmin,xnegmax,ynegmin,ynegmax:real;
+
+begin
+writeln('Calculates limits, please wait ');
+
+xposmin:=0;xposmax:=0;xnegmin:=0;xnegmax:=0;
+yposmin:=0;yposmax:=0;ynegmin:=0;ynegmax:=0;
+
+q:=0;frek:=0;
+for step:=fmin to fmax do begin
+q:=q+1;
+frek:=frek+1;
+if q=100 then begin write(trunc(frek/(2*fmax)*100));
+writeln(' %');q:=0;end;
+functionxy;
+
+if ((x>0) and (x>=xposmax)) then xposmax:=x;
+if ((y>0) and (y>=yposmax)) then yposmax:=y;
+if ((x<0) and (x>=xnegmax)) then xnegmax:=x;
+if ((y<0) and (y>=ynegmax)) then ynegmax:=y;
+xposmin:=xposmax;
+yposmin:=yposmax;
+xnegmin:=xnegmax;
+ynegmin:=ynegmax;
+end;
+
+q:=0;
+for step:=fmin to fmax do begin
+q:=q+1;
+if q=100 then begin
+   write(trunc(frek/(2*fmax)*100));writeln(' %');q:=0;end;
+p:=fmax-n+fmin;
+functionxy;
+frek:=frek+1;
+
+if ((x>0) and (x<=xposmin)) then xposmin:=x;
+if ((y>0) and (y<=yposmin)) then yposmin:=y;
+if ((x<0) and (x<=xnegmin)) then xnegmin:=x;
+if ((y<0) and (y<=ynegmin)) then ynegmin:=y;
+
+end;
+
+(* only positive axis *)
+if ((xposmax<>0)) then xmax:=xposmax;
+if ((xnegmin=0) and (xnegmax=0)) then xmin:=xposmin;
+if ((yposmax<>0)) then ymax:=yposmax;
+if ((ynegmin=0) and (ynegmax=0)) then ymin:=yposmin;
+
+(* only negative axis *)
+if ((xnegmax<>0)) then xmax:=xnegmax;
+if ((xposmin=0) and (xnegmax=0)) then xmin:=xnegmin;
+if ((ynegmax<>0)) then ymax:=ynegmax;
+if ((yposmin=0) and (ynegmax=0)) then ymin:=ynegmin;
+
+(* both postitive and negative axis *)
+if ((xposmax<>0)) then xmax:=xposmax;
+if ((xnegmin<>0)) then xmin:=xnegmin;
+if ((yposmax<>0)) then ymax:=yposmax;
+if ((ynegmin<>0)) then ymin:=ynegmin;
+
+
+writeln('xmin= ',xmin);
+writeln('xmax= ',xmax);
+writeln('ymin= ',ymin);
+writeln('ymax= ',ymax);
+
+ writeln('Press return');
+end;
+
+procedure calc_casexy;
+begin
+case1x:=false;case2x:=false;case3x:=false;
+case1y:=false;case2y:=false;case3y:=false;
+if ((xmin>=0) and (xmax>0)) then case1x:=true;
+if ((xmin<0) and (xmax<=0)) then case2x:=true;
+
+if ((ymin>=0) and (ymax>0)) then case1y:=true;
+if ((ymin<0) and (ymax<=0)) then case2y:=true;
+
+if ((xmin<0) and (xmax>0)) then case3x:=true;
+if ((ymin<0) and (ymax>0)) then case3y:=true;
+end;
+
+procedure origo_xcase3;
+var   dx:real;
+begin
+dx:=(xmax-xmin)/(fmax-fmin);
+x:=xmin;
+
+for n:=fmin to fmax do begin
+x:=x+dx;
+if ((x<=0) and ((x+dx)>=0)) then begin nxorigo:=n;xori:=0;end;
+if ((x>=0) and ((x+dx)<=0)) then begin nxorigo:=n;xori:=0;end;
+end;
+
+end;
+
+procedure origo_ycase3;
+var   dy:real;
+begin
+dy:=(ymax-ymin)/(fmax-fmin);
+y:=ymin;
+for n:=fmin to fmax do begin
+y:=y+dy;
+if ((y<=0) and ((y+dy)>=0)) then begin nyorigo:=n;yori:=0;end;
+if ((y>=0) and ((y+dy)<=0)) then begin nyorigo:=n;yori:=0;end;
+end;
+
+end;
+
+procedure calc_origo;
+var       dx:real;
+
+begin
+if case1x=true then xori:=xmin;
+if case2x=true then xori:=xmin;
+if case1y=true then yori:=ymin;
+if case2y=true then yori:=ymin;
+if case3x=true then begin origo_xcase3;end;
+if case3y=true then begin origo_ycase3;end;
+
+end;
+
+(* 3 *****************************************************)
+(************ procedure init graph ***********************)
+procedure init_graph;
+begin
+graphdriver:=detect;
+initgraph(graphdriver,graphmode,'c:\tp\BGI');
+errorcode:=graphresult;
+if errorcode <>grok then
+begin
+writeln('Graphics error: ',grapherrorMsg(errorCode));
+writeln('program aborted..');
+halt(1);
+end;
+
+end;
+
+procedure plot_curve;
+var       xplot,yplot:integer;
+          testx,testy:boolean;
+
+begin
+setcolor(red);
+for step:=fmin to fmax do begin
+p:=n;
+testx:=false;testy:=false;
+if abs(xmax-xmin)>1E-25 then testx:=true;
+if abs(ymax-ymin)>1E-25 then testy:=true;
+functionxy;
+if testx=true then
+   xplot:=offmin+trunc((x-xmin)/(xmax-xmin)*(xaxel_max-xaxel_min));
+if testy=true then
+   yplot:=yaxel_max-trunc((y-ymin)/(ymax-ymin)*(yaxel_max-yaxel_min));
+putpixel(xplot,yplot,red);
+end;
+end;
+
+procedure writeut;
+begin
+writeln('x= ',x);
+writeln('x2= ',x2);
+writeln('xmin= ',xmin);
+writeln('ymin= ',ymin);
+writeln('xmax= ',xmax);
+writeln('ymax= ',ymax);
+end;
+
+
+procedure write_valuex;
+var     test:boolean;
+begin
+str1:='';
+setcolor(blue);
+if abs(result)<=1E-25 then result:=1E-25;
+str1:=p_realstr(result,digitsx,digitsy);
+test:=false;
+if ((str1<>xstr1) and (str1<>'0') and (str1<>'-0')) then
+   begin test:=true;end;
+if test=true then outtextxy((a+akx),(b+bkx),str1);
+
+setcolor(red);
+xstr1:=str1;
+end;
+
+procedure write_valuey;
+var       test:boolean;
+begin
+str1:='';
+setcolor(blue);
+if abs(result)<=1E-25 then result:=1E-25;
+str1:=p_realstr(result,digitsx,digitsy);
+test:=false;
+if ((str1<>ystr1) and (str1<>'0') and (str1<>'-0')) then
+   begin test:=true;end;
+if test=true then outtextxy((a+aky),(b+bky),str1);
+setcolor(red);
+ystr1:=str1;
+end;
+
+
+procedure calc_delta;
+begin
+
+writeln('calc_delta');
+dxpos:=(xmax-xmin)/dividex;
+dxneg:=(xmin-xmin)/dividex;
+dypos:=(ymax-ymin)/dividey;
+dyneg:=(ymax-ymin)/dividey;
+end;
+
+procedure set_axis;
+begin
+
+setcolor(RED);
+line((xaxel_min)-offmax,yorigo_ax,(xaxel_max+offmin),yorigo_ax);
+line(xorigo_ax,yaxel_min,xorigo_ax,yaxel_max);
+
+end;
+
+
+procedure set_posx;
+var       nxx,nn:integer;
+          testa1:boolean;
+          pp:real;
+begin
+nn:=0;
+a:=xorigo_ax+xdelta;
+b:=yorigo_ax;
+testa1:=false;
+pp:=xaxel_max-xorigo_ax;
+if pp<>0 then testa1:=true;
+for nxx:=xorigo_ax to xaxel_max do begin
+nn:=nn+1;
+if pp<>0 then testa1:=true;
+if ((nn>=xdelta) and (testa1=true)) then begin nn:=0;
+   result:=(xmax-xori)*(nxx-xorigo_ax)/(xaxel_max-xorigo_ax);
+akx:=7;bkx:=5;
+   write_valuex;
+   a:=a+xdelta;end;
+end;
+end;
+
+procedure set_posxneg;
+var       nxx,nn:integer;
+          testa1:boolean;
+          pp:real;
+begin
+nn:=0;
+a:=xorigo_ax-xdelta;
+b:=yorigo_ax;
+testa1:=false;
+if (xorigo_ax-xaxel_min)<>0 then testa1:=true;
+
+for nxx:=xaxel_min to xorigo_ax do begin
+
+if ((nn>=xdelta) and (testa1=true)) then begin nn:=0;
+   result:=xmin*(1-(nxx-xorigo_ax)/(xaxel_min-xorigo_ax));
+   akx:=7;bkx:=5;
+   write_valuex;
+   a:=a-xdelta;end;
+   nn:=nn+1;
+end;
+end;
+
+procedure set_posy;
+var       nyy,nn:integer;
+begin
+nn:=0;
+b:=yorigo_ax-ydelta-10;
+a:=xorigo_ax;
+
+testa:=false;
+if (yorigo_ax-yaxel_min)<>0 then testa:=true;
+for nyy:=yaxel_min to yorigo_ax do begin
+nn:=nn+1;
+if nn>=ydelta then begin nn:=0;
+   result:=ymax*(1-(yorigo_ax-nyy)/(yorigo_ax-yaxel_min));
+   aky:=8;bky:=0;
+   write_valuey;
+   b:=b-ydelta;
+   nn:=0;end;
+end;
+end;
+
+procedure set_posyneg;
+begin
+nn:=0;
+b:=yorigo_ax+ydelta-10;
+a:=xorigo_ax;
+
+testa:=false;
+if (yaxel_max-yorigo_ax)<>0 then testa:=true;
+for nyy:=yorigo_ax to yaxel_max do begin
+nn:=nn+1;
+if nn>=ydelta then begin nn:=0;
+   result:=(ymin)*(1-(yaxel_max-nyy)/(yaxel_max-yorigo_ax));
+   aky:=8;bky:=0;
+   write_valuey;
+   b:=b+ydelta;end;
+end;
+end;
+
+
+
+procedure set_marks;
+begin
+
+(********************************* set marks at the positive x-axis *)
+for n:=0 to (dividex+1) do begin
+ a:=xorigo_ax+n*xdelta;
+ b:=yorigo_ax+4;
+ c:=a;
+ d:=yorigo_ax-4;
+line(a,b,c,d);
+setcolor(yellow);
+if (n<>0) then line(a,yaxel_max,a,yaxel_min);
+setcolor(blue);
+
+testa:=false;
+if (xaxel_max-xaxel_min)>=0 then testa:=true;
+if ((case1x=true) and (n<>0) and (testa=true)) then begin
+   result:=xmin+(xmax-xmin)*(n*xdelta)/(xaxel_max-xaxel_min);
+   akx:=5;bkx:=0;
+   write_valuex;end;
+
+if ((case2x=true) and (n<>0) and (testa=true)) then begin
+   result:=xmin+(xmax-xmin)*(n*xdelta)/(xaxel_max-xaxel_min);
+   akx:=0;bkx:=0;
+   write_valuex;end;
+end;
+
+if case3x=true then begin set_posx;end;
+
+(***************************** set marks at the negative x-axis *)
+for n:=0 to (dividex+1) do begin
+ a:=xorigo_ax-n*xdelta;
+ b:=yorigo_ax+4;
+ c:=a;
+ d:=yorigo_ax-4;
+line(a,b,c,d);
+setcolor(yellow);
+if (n<>0) then line(a,yaxel_max,a,yaxel_min);
+setcolor(blue);
+testa:=false;
+if (xmax-xmin)<=0 then testa:=true;
+testa:=false;
+if (xaxel_max-xaxel_min)<>0 then testa:=true;
+
+ if ((case1x=true) and (n<>0) and (testa=true)) then begin
+    result:=xmin+(xmax-xmin)*(n*xdelta)/(xaxel_max-xaxel_min);
+    akx:=0;bkx:=0;
+    write_valuex;
+    end;
+
+ if ((case2x=true) and (n<>0) and (testa=true)) then begin
+    result:=xmin+(xmax-xmin)*(1-(n*xdelta)/(xaxel_max-xaxel_min));
+    akx:=0;bkx:=0;
+    write_valuex;
+    end;
+end;
+
+if case3x=true then begin set_posxneg;end;
+
+if xorigo_ax>=(xaxel_max-50) then akx:=50;
+(******************************** set marks at the positive y-axis *)
+for n:=0 to dividey do begin
+ a:=xorigo_ax+4;
+ b:=yorigo_ax-n*ydelta;
+ c:=xorigo_ax-4;
+ d:=b;
+line(a,b,c,d);
+setcolor(yellow);
+if (n<>0) then line((xaxel_min-offmin),b,(xaxel_max+offmax),b);
+setcolor(blue);
+
+testa:=false;
+if (ymax-ymin)>=0 then testa:=true;
+if ((case1y=true) and (n<>0) and (testa=true)) then begin
+   result:=ymax-(ymax-ymin)*(yorigo_ax-n*ydelta)/(yaxel_max-yaxel_min);
+   aky:=2;bky:=-10;
+   write_valuey;
+   end;
+
+if ((case2y=true) and (n<>0) and (testa=true)) then begin
+   result:=ymax-(ymax-ymin)*(n*ydelta-yorigo_ax)/(yaxel_max-yaxel_min);
+   aky:=0;bky:=0;
+   write_valuey;end;
+
+
+end;
+
+if case3y=true then begin set_posy;end;
+
+(**************************** set marks at the negative y-axis *)
+for n:=0 to dividey do begin
+ a:=xorigo_ax+4;
+ b:=yorigo_ax+n*ydelta;
+ c:=xorigo_ax-4;
+ d:=b;
+line(a,b,c,d);
+setcolor(yellow);
+if (n<>0) then line((xaxel_min-offmin),b,(xaxel_max+offmax),b);
+setcolor(blue);
+testa:=false;
+if (ymax_ax-yaxel_min)>=0 then testa:=true;
+
+if ((case1y=true) and (n<>0) and (testa=true)) then begin
+   result:=ymax-(ymax-ymin)*(yorigo_ax-n*ydelta)/(yaxel_max-yaxel_min);
+
+   aky:=0;bky:=0;
+   write_valuey;end;
+
+if ((case2y=true) and (n<>0) and (testa=true)) then begin
+   result:=0;
+   result:=ymax-(ymax-ymin)*(n*ydelta-yorigo_ax)/(yaxel_max-yaxel_min);
+   aky:=0;bky:=5;
+   write_valuey;end;
+
+   end;
+if case3y=true then begin set_posyneg;end;
+end;
+
+
+procedure set_text;
+begin
+result:=xmin;
+for n:=0 to dividex do begin
+result:=r+n*dx;
+end;
+
+end;
+
+
+procedure write_rubrik;
+begin
+settextstyle(defaultfont,Horizdir,2);
+outtextxy(rubrikx,rubriky,rubrik);
+settextstyle(defaultfont,Horizdir,1);
+str:='unit x-axis '+unitx;
+outtextxy(rubrikx,(rubriky+20),str);
+str:='unit y-axis '+unity;
+outtextxy(rubrikx,(rubriky+30),str);
+end;
+
+
+procedure set_palette;
+begin
+setpalette(0,white);
+end;
+
+procedure set_linestyle1;
+begin
+setlinestyle(solidln,0,thickwidth)
+end;
+
+procedure set_linestyle2;
+begin
+setlinestyle(solidln,0,normwidth)
+end;
+procedure skrivin;
+begin
+write('solution x-axis, parts = ');readln(dividex);
+write('solution y-axis, parts = ');readln(dividey);
+write('decimal digits in x = ');readln(digitsx);
+write('decimal digits in y = ');readln(digitsy);
+write('plot name = ');readln(rubrik);
+write('unit on x-axis = ');readln(unitx);
+write('unit on y-axis = ');readln(unity);
+end;
+
+
+
+
+begin
+(* write('fmin, Hz= ');readln(fmin);   *);
+(* write('fmax, Hz= ');readln(fmax);   *);
+fmin:=0;fmax:=500;
+(* write('Default parameters ? y/n ');readln(def); *)
+def:='y';
+dividex:=7;dividey:=7;digitsx:=1;digitsy:=1;rubrik:='Kurva';
+unitx:='Unitx';unity:='Unity';
+if def<>'y' then begin skrivin;end;
+
+xdelta:=trunc((xaxel_max-xaxel_min)/dividex);
+ydelta:=trunc((yaxel_max-yaxel_min)/dividey);
+
+xmin:=0;xmax:=0;ymin:=0;ymax:=0;
+calc_minmax;
+(* readln; *)
+calc_casexy;
+calc_origo;
+set_nxorigo;
+write_inparameters;
+
+rubrikx:=450;
+if xorigo_ax>trunc(xaxel_max/2) then begin rubrikx:=10;end;
+rubriky:=10;
+if yorigo_ax<trunc(yaxel_max/2) then begin rubriky:=400;end;
+
+init_graph;
+set_palette;
+set_linestyle1;
+set_axis;
+set_linestyle2;
+calc_delta;
+settextstyle(defaultfont,Horizdir,0);
+set_marks;
+plot_curve;
+write_rubrik;
+readln;
+closegraph;
+end.
+
+ -------------------------------------------------------------
+                                                  1/3
+The proton radius is calculated to RP = re*(MP/me)   = 12.5*re
+                                                             2/3
+and the electron orbital radius in the neutron R = re*(Mp/me)  =
+
+144* re, see special article "Momentum.doc" earlier published
+
+into this meeting.
+
+
+A plot performed by this enclosed program will show up the same
+fundamental structure as for the experimental graph.
+
+
+                    ------------------
+
+
+Conclusions: If this model is true, it means that the quark model
+of particles is false. It also means that the neutron has a similar
+structure as for the hydrogen atom, but on a much higher energy
+level. These new insigts can be very usefull in the future develop-
+men of fundamental physics.
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,109 @@
+Newsgroups: sci.physics,alt.sci.physics.new-theories,sci.edu,sci.skeptic,sci.astro,sci.space,sci.fractals
+Path: columba.udac.uu.se!sunic!pipex!howland.reston.ans.net!europa.eng.gtefsd.com!library.ucla.edu!csulb.edu!csus.edu!netcom.com!sarfatti
+From: sarfatti@netcom.com (Jack Sarfatti)
+Subject: re:Kip Thorne's New Book
+Message-ID: <sarfattiCnrI6v.DHE@netcom.com>
+Followup-To: sci.physics
+Keywords: time warps
+Organization: NETCOM On-line Communication Services (408 241-9760 guest)
+Date: Tue, 5 Apr 1994 01:16:07 GMT
+Lines: 99
+Xref: columba.udac.uu.se sci.physics:4955 alt.sci.physics.new-theories:561 sci.edu:240 sci.skeptic:4548 sci.astro:3870 sci.fractals:407
+
+Revised and Expanded 2nd Draft
+Kip Thorne's Time Warps
+Comments on his new book BLACK HOLES & TIME WARPS  (W.W. Norton, 1994) 
+by Jack Sarfatti (sarfatti@netcom.com).
+
+Thorne is Feynman Professor of Theoretical Physics at Cal Tech. I only 
+discuss here Chapter 14 Wormholes and Time Machines.  The bottom line is 
+that we need to understand quantum gravity before we know whether 
+electromagnetic quantum vacuum fluctuations travelling backward in time 
+through the wormhole will destroy it making practical time travel 
+impossible. Stephen Hawking bets that this is the case (i.e., his 
+chronology protection conjecture). Thorne refuses to bet and I squarely 
+oppose Hawking based on the ultra anthropic conjecture that the universe 
+is self-created by advanced intelligence using primordial wormhole time 
+machines from the Big Bang in addition to communication on nonlocal 
+quantum connections. The latter is forbidden by standard quantum 
+mechanics in the absence of the kind of "self-reference" discussed by 
+David Albert. It is not clear what happens if there is "self-reference" 
+of the kind we experience in our own consciousness. It is also known 
+that nonlinear corrections to the quantum laws (which may be caused by 
+gravitation) allow such communication.
+
+-----------------------------------------------------------------------
+re: Kip Thorne's Time Warps
+#2 Comments on his new book BLACK HOLES & TIME WARPS  (W.W. Norton, 
+1994) by Jack Sarfatti (sarfatti@netcom.com).
+
+Although Steven Hawking proposes the chronology protection conjecture 
+that time travel to the past is forbidden in the yet to be understood 
+quantum gravity, he does write in the forward to Thorne's book:
+
+"There is much we still don't know, such as what happens to objects and 
+information that fall into a black hole. Do they reemerge elsewhere in 
+the Universe, or in another universe? And can we warp space and time so 
+that one can travel back in time? These questions are part of our 
+ongoing quest to understand the Universe. Maybe someone will come back 
+from the future and tell us the answers."
+
+Some interesting relevant recent papers in new physics:
+Leonard Susskind .... "Gedankenexperiments involving black holes" in Jan 
+15, 1994 Phys. Rev. D. One possibility that Susskind does not consider 
+is that the in-falling information carried by subluminal and luminal 
+mass-energy gets converted to superluminal exotic (possibly dark) matter 
+and even undergoes a metrical signature change from Lorentzian to 
+Euclidean.
+
+e.g. "Why is spacetime Lorentzian?" by Carlini and Greenstein in same 
+issue of Phys Rev D.
+
+See also Sandu Popesu "Bell's Inequalities vs Teleportation: What is 
+nonlocality?" Phys. Rev Lett 7 Feb 94 p. 797 perhaps, somehow, the 
+information is teleported (1) out of black holes via the virtual 
+electron-positron pairs at the horizon?
+
+S Kar ... also in Jan 15 94 Phys Rev D shows that nonstatic Lorentzian 
+wormholes are possible without exotic matter that violates the weak 
+energy condition (i.e. negative energy in local frame of light rays 
+passing through the wormhole or radial tension > energy density in frame 
+fixed to throat of wormhole etc).
+
+Finally, of interest, is Hegerfeldt's "Causality Problems for Fermi's 2 
+Atoms" in Phys Rev Lett 31 Jan 1994 in which we find:
+"If the effect .. is real, it could in principle be used for 
+superluminal signals" provided that source and detector are in disjoint 
+spacelike separated regions with no wave function overlap.
+
+In any case it may well be that quantum gravity permits the escape of 
+in-falling information faster-than-light from black holes, and that time 
+travel to the past through wormholes is not only possible but is 
+necessary for the Universe to come into being from the future in such a 
+way that we will be created and evolve in a self-creating globally self-
+consistent loop-in-time.
+
+(1) Alice is given a spin 1/2 particle in state & unknown to her. She 
+helps Bob (far away from Alice) prepare another spin 1/2 particle in the 
+identical but unknown state &. Alice is not allowed to send her particle 
+directly to Bob, nor can she send a different particle that has 
+interacted with her particle. However, Alice and Bob do share a 
+nonlocally correlated pair of particles in a spin singlet state. Alice 
+can make a local measurement on both her particle and her half of the 
+correlated pair. She can communicate the result of her measurement to 
+Bob causally using a light signal. Therefore, teleportation is not 
+faster-than-light communication. Bob is able to reconstruct the state & 
+because he receives both classical information on the causal light 
+signal and nonlocal quantum information due to the entanglement of the 
+shared pair between them. Violation of Bell's inequalities and 
+teleportation are two aspects of nonlocality but they are not equivalent 
+aspects.
+
+Hawking has suggested that quantum gravity is fundamentally nonunitary 
+making pure states into mixed states. If that is true, then faster-than-
+light communication will be possible if there are mesoscopic quantum-
+gravitational effects possibly because of some kind of hypothetical 
+fractal self-similarity that de-amplifies the ultra-high energy Planck 
+scale down to very low energy perceptable scales. Penrose speculates 
+that this may happen in human consciousness in his book THE EMPEROR'S 
+NEW MIND. 

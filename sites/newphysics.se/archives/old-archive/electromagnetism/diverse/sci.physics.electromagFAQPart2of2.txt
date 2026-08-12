@@ -1,0 +1,532 @@
+Newsgroups: sci.physics.electromag
+From: jost@washpost.wdc.sri.com ("Randy J. Jost")
+Message-ID: <MAILQUEUE-101.940426140825.352@wdc.sri.com>
+Subject:  FAQ pt 2/2
+Reply-To: jost@washpost.wdc.sri.com
+Date: 26 Apr 1994 14:08:21 EST
+X-Received: by usenet.pa.dec.com; id AA12050; Tue, 26 Apr 94 11:33:23 -0700
+X-Received: from sparkyfs.erg.sri.com by inet-gw-3.pa.dec.com (5.65/21Mar94)
+	id AA02762; Tue, 26 Apr 94 11:23:06 -0700
+X-Received: from washpost.wdc.sri.com by sparkyfs.erg.sri.com (5.65/2.7davy)
+	id AA22606; Tue, 26 Apr 94 11:22:52 -0700
+X-Received: From SRI_WDC_1/WORKQUEUE by washpost.wdc.sri.com
+          via Charon 3.4 with IPX id 100.940426140838.1152;
+          26 Apr 94 14:22:17 -0500
+X-To: sci.physics.electromag.usenet
+X-Priority: normal
+X-Mailer: Pegasus Mail/Mac v2.02
+Lines: 513
+
+Greetings to all!
+
+After much delay, here is the first offering of the FAQ for 
+sci.physics.electromag.  Please feel free to critique it, criticize, 
+complain, suggest, add, subtract, praise, pan, whatever, just send us your 
+input.
+
+Randy
+
+
+*************************   FAQ follows  **********************************
+
+
+sci.physics.electromag.FAQ part 2/2
+Version: 0.1
+Date: 26 April 1994
+
+              SCI.PHYSICS.ELECTROMAG Frequently Asked Questions
+
+Welcome to the sci.physics.electromag (SPE) Frequently Asked Question (FAQ) 
+file.  This is the initial version of the FAQ, hence it has some holes and 
+areas where input is needed.
+
+Once this FAQ becomes stable, we will post it on a monthly basis.  Until 
+then, this list will be making more frequent appearances, as additional 
+information is added.  Because of limitations in certain mailers, and since 
+this FAQ has already exceeded 32k, it has been split into multiple parts.  
+That way, it should travel through all the Internet gateways, and be 
+readable by almost any newsreader/email software without any trouble.
+
+If you have other topics that you think should receive FAQ status, want to 
+submit a FAQ and answer, or have additional information on an existing FAQ, 
+please contact either of the following individuals:
+
+Dr. Todd Hubing          ( thubing@ee.umr.edu )
+Dr. Randy J. Jost        ( jost@washpost.wdc.sri.com )
+
+We have intentionally left some topics unfinished, partly to get this out to 
+the group, but also to encourage other people to contribute their ideas and 
+thoughts.  Please feel free to add more to this.  It will only be as good as 
+the input that goes into it.
+
+CONTRIBUTORS
+
+Several individuals submitted suggestions and contributions which went into 
+the creation of this FAQ.  Among these are:
+
+
+Raymond Anderson          raymonda@uranium.ebay.sun.com
+Weston Beal               weston.beal@sun.com
+Allen Davidson            casr04@email.mot.com
+Jeff Haferman             haferman@icaen.uiowa.edu
+Chuck Harrison            73770.1337@compuserve.com
+Todd Hubing               thubing@ee.umr.edu
+Randy Jost                jost@washpost.wdc.sri.com
+Gian Luigi Gragnani       gragnani@dibe.unige.it
+Dave Michelson            davem@ee.ubc.ca
+John Moulder              jmoulder@post.its.mcw.edu
+Robert Perry              perry@mimicad.colorado.edu
+Al Wong                   eunos@mercury.sfsu.edu
+
+
+---------------------------------------------------------------------------
+
+CONTENTS
+
+Part 1/2
+1. FAQ ADMINISTRATION
+2. EM REFERENCES
+3. EM THEORY ISSUES
+
+Part 2/2
+4. COMPUTER MODELING 
+5. BIOLOGICAL EFFECTS
+6. HISTORY OF ELECTROMAGNETICS
+
+---------------------------------------------------------------------------
+
+COMPUTER MODELING 
+
+[4.0]  What commercial and/or non-commercial electromagnetic modeling codes 
+are available?
+
+Non-commercial codes:
+
+Numerical Electromagnetics Code (NEC) - a moment method code that models 
+wires and PEC surface patches using a surface integral technique.  EFIE is 
+employed for wire modeling and MFIE for surface patch modeling. NEC2 is 
+available from ftp.netcom.com is the /pub/rander/NEC directory.
+
+Discrete-Dipole Approximation Code (DDA) - Written by Drain and Flatau, 
+available by anonymous ftp at astro.princeton.edu in the directory 
+/draine/scat/ddscat/ver4b/ddscat4b.tar.Z.
+
+Electromagnetic Surface Patch Code (ESPII) - a moment method code that 
+models wires and PEC surface patches using a surface integral (EFIE) 
+technique.  Available from Dr. Edward H. Newman, ElectroScience Laboratory, 
+Ohio State University, 1320 Kinnear Rd, columbus, OH  43212.
+
+Penn State FDTD code - a public domain FDTD code developed by R. Luebbers 
+and K. Kunz that is described in their book "The Finite Difference Time 
+Domain Method for Electromagnetics" CRC Press.  Code is available from the 
+emclab.ee.umr.edu ftp site in the directory /pub/aces/fdtd.
+
+ElectroMagnetic Analysis Program (EMAP2) - a 3D finite element modeling code 
+available from the emclab.ee.umr.edu ftp site in the directory /pub/emap.
+
+Mie Scattering Code (MIEV) - a publically available code that computes many 
+of the quantities involved in electromagnetic scattering from a homogeneous 
+sphere.  The code can be found at the following sites: climate.gsfc.nasa.gov 
+in subdirectory /pub/wiscombe or at sunsite.unc.edu in 
+/pub/academic/physics/Electro-mag/miev.tar
+
+
+Commercial codes:
+
+Maxwell 2D & 3D - Finite element modeling codes available from AnSoft 
+Corporation 412-261-3200.
+
+MSC EMAS - 3D finite element modeling software from MacNeal-Schwendler 
+Corporation (414) 357-8723.
+
+EESoft - Moment method software for analyzing microstrip & MIMIC circuit 
+configurations.  (818) 991-7530
+
+HFSS - Moment method software for analyzing microstrip & MIMIC circuit 
+configurations.  Available from Hewlett Packard (415) 964-2456.
+
+
+[4.1] What is the "best" (numerical, analytical) method to compute EM 
+interactions with objects?
+
+The answer to this question depends to a great extent on the particular 
+problem that is to be analyzed.  Analytical methods are very good at 
+analyzing certain problems with a high degree of symmetry and they can 
+provide a great deal of insight into the behavior of many configurations.  
+However, an accurate evaluation of most realistic electromagnetic 
+configurations requires a numerical approach.
+
+Numerical techniques based on the method of weighted residuals are called 
+moment methods.  EM modelers have come to use the term "moment method" 
+synonymously with "surface integral technique" even though the method of 
+weighted residuals can be applied to differential equations as well as 
+integral equations.  In general, moment method techniques do an excellent 
+job of analyzing unbounded radiation problems and they excel at analyzing 
+PEC (perfect electric conductor) configurations and homogeneous dielectrics.  
+They are not well-suited to the analysis of complex inhomogeneous 
+geometries.
+
+Finite element techniques require the entire volume of the configuration to 
+be meshed as opposed to surface integral techniques, which only require the 
+surfaces to be meshed.  However each mesh element may have completely 
+different material properties from those of neighboring elements.  In 
+general, finite element techniques excel at modeling complex inhomogeneous 
+configurations.  However, they do not model unbounded radiation problems as 
+effectively as moment method techniques.
+
+Finite difference time domain (FDTD) techniques also require the entire 
+volume to be meshed.  Normally, this mesh must be uniform, so that the mesh 
+density is determined by the smallest detail of the configuration.  Unlike 
+most finite element and moment method techniques, FDTD techniques work in 
+the time domain.  This makes them very well-suited to transient analysis 
+problems.  Like the finite element method, FDTD methods are very good at 
+modeling complex inhomogeneous configurations.  Also, many FDTD 
+implementations do a better job of modeling unbounded problems than finite 
+element modeling codes.  As a result, FDTD techniques are often the method 
+of choice for modeling unbounded complex inhomogeneous geometries.
+
+
+
+BIOLOGICAL EFFECTS
+
+[5.0] Is there any truth to the statements that low level electric and 
+magnetic fields are harmful to humans?
+
+Most of the concern about power-frequency fields and human health stems from 
+epidemiological studies of people living near powerlines or working in 
+"electrical occupations".  Some of these studies appear to show a 
+relationship between exposure to power-frequency magnetic fields and the 
+incidence of cancer and birth defects.  Laboratory studies have shown little 
+evidence of a link between power-frequency fields and either cancer or birth 
+defects.
+
+[5.1] How do the biological effects of power-frequency electromagnetic [EM] 
+sources differ from those of other EM sources?
+
+The interaction of biological material with an EM source depends on the 
+frequency of the source.  At the very high frequencies characteristic of UV 
+light and X-rays, EM particles (photons) have sufficient energy to break 
+(ionize) chemical bonds.  The well-known hazards of X-rays are associated 
+with this ionization.  At lower frequencies, such as those characteristic of 
+visible light, RF, and MW, the photons do not carry enough energy to break 
+chemical bonds; this is the non-ionizing portion of the EM spectrum.  
+Because EM sources at non-ionizing frequencies cannot break chemical bonds, 
+there is no analogy between the biological effects of ionizing and 
+nonionizing EM energy.
+
+Non-ionizing EM sources can still produce biological effects.  The 
+electrical fields associated with the power-frequency fields have very 
+little ability to penetrate buildings or even skin.  However, exposure of 
+people to power-frequency magnetic fields results in the induction of 
+electrical currents in the body.  If these currents are sufficiently 
+intense, they can cause heating, nerve excitation and other effects.  At 
+power frequencies, the body is poorly coupled to external fields, and the 
+induced currents are usually too small to produce obvious effects.  Shocks, 
+and other obvious effects usually require that the body actually touch a 
+conductive objects, allowing current to pass directly into the body.
+
+[5.2] What sort of power-frequency fields are common in residences and 
+workplaces?
+
+In the US magnetic fields are commonly measured in Gauss (G).  In most of 
+the rest of the world, they are measured in Tesla (T), were 10,000 G equals 
+1 T (1 G = 100 microT).   Electrical fields are measured in volts/meter 
+(v/m).
+
+Within the right-of-way (ROW) of a high-voltage (115-765 kV) transmission 
+line, fields can approach 100 mG (10 microT) and 10,000 v/m.  At the edge of 
+a high-voltage transmission ROW, the field will be 1-10 mG (0.1-1.0 microT) 
+and 100-1,000 v/m.  Ten meters from a 12 kV distribution line fields will be 
+2-10 mG (0.2-1.0 microT) and 2-20 v/m.  Actual fields depend on voltage, 
+design and current.
+
+Fields within residences vary from over 1000 mG (100 microT) and 200 v/m a 
+few inches (cm) from certain appliances to less than 0.2 mG (0.02 microT) 
+and 2 v/m in the center of some rooms.  Appliance fields decrease very 
+rapidly with distance.
+
+Occupational exposures in excess of 1000 mG (100 microT) and 5000 v/m. have 
+been reported.  In "electrical" occupations typical mean fields range from 5 
+to 40 mG (0.5 to 4 microT) and 100-2000 v/m.
+
+[5.3] What is known about the relationship between powerline corridors and 
+cancer rates?
+
+Some studies have shown that children living near certain types of 
+powerlines have higher rates of cancer, particularly leukemia and brain 
+cancers, but other studies have shown no such relationship. The correlation 
+between exposure and cancer incidence is not strong, and none of the studies 
+have shown dose-response relationships.  When power-frequency fields are 
+actually measured, no relationship is found.  With one exception, all 
+studies of correlations between adult cancer and residence near powerlines 
+have been negative.
+
+The excess cancer found in epidemiological studies is quantified as relative 
+risk (RR) -- the risk of an "exposed" person getting cancer divided by the 
+risk of an "unexposed" person getting cancer.  RRs are generally given with 
+95% confidence intervals. An overview of the epidemiology requires that 
+studies be combined using a technique known as "meta-analysis".  
+Meta-analysis indicates the following RRs for residence near powerlines 
+(with 95% CIs):
+   childhood leukemia:     1.5 (0.8-3.0)
+   childhood brain cancer: 1.9 (0.9-3.0)
+   childhood lymphoma:     2.5 (0.3-40)
+   all childhood cancer:   1.5 (0.9-2.5)
+   adult leukemia:         1.1 (0.8-1.6)
+   adult brain cancer:     0.7 (0.4-1.3)
+   all adult cancer:       1.1 (0.9-1.3)
+
+[5.4] What is known about the relationship between "electrical occupations" 
+and cancer rates?
+
+Several studies have shown that people who work in electrical occupations 
+have higher cancer rates, particularly for leukemia and brain cancer. Most 
+of these studies are based on job titles, not on measured exposures.  None 
+of these studies show a dose-response relationship between exposure and 
+cancer incidence.
+
+Meta-analysis indicates the following RR for occupational exposure for 
+power-frequency fields (with 95% CIs):
+leukemia:   1.20 (1.0-1.4)
+brain:      1.10 (0.9-1.3)
+lymphoma:   1.15 (0.9-1.8)
+all cancer: 1.00 (0.9-1.1)
+
+[5.5]  What do laboratory studies tell us about power-frequency fields and 
+cancer?
+
+Carcinogens, agents that cause cancer, are generally of two types: 
+genotoxins and promoters.  Genotoxic agents (often called initiators) 
+directly damage the genetic material of cells.  Genotoxins usually effect 
+all types of cells, cause many different types of cancer, and do not have 
+thresholds for their effect.  A promoter is something that increases the 
+cancer risk in animals already exposed to a genotoxin.  Promoters usually 
+effect only certain types of cells, cause only certain types of cancer, and 
+have thresholds for their effect.
+
+Power-frequency fields show none of the classic signs of being genotoxins - 
+they do not cause DNA damage or chromosome breaks, and they are not 
+mutagenic.  No studies have shown that animals exposed to power-frequency 
+fields have increased cancer rates. It has been suggested that 
+power-frequency EMFs could promote cancer, but all but one study of 
+promotion have shown no such effect.    
+
+There are substances (called mitogens) that cause non-growing normal cells 
+to start growing, and some mitogens appear to be carcinogens.  There are no 
+studies that indicate that power-frequency fields are mitogens, and with one 
+possible exception no effects on cell growth have been reported for fields 
+below 2000 mG (200 microT).
+
+Suppression of the immune system in animals and humans is associated with 
+increased rates of certain types of cancer (lymphomas, but not leukemia or 
+brain cancer).  Some studies have shown that power-frequency fields can 
+affect cells of the immune system, but no studies have shown the type of 
+immune suppression that is associated with increased cancer.
+
+It has also been speculated that power-frequency EM fields might suppress 
+the production of the hormone melatonin, and that melatonin has 
+"cancer-preventive" activity.  Current laboratory studies do not provide 
+much support for this idea.
+
+While the laboratory evidence does not suggest a link between 
+power-frequency fields and cancer, numerous studies have reported that these 
+fields do have "bioeffects", particularly at high field strength.  
+Power-frequency fields intense enough to induce electrical currents in 
+excess of those that occur naturally (above 5 G, 500 microT) have shown 
+reproducible effects, including effects on humans.  Below about 2 G (200 
+microT) there are few replicated reports of bioeffects.
+
+[5.6] How do scientists evaluate all the laboratory and epidemiological 
+studies of power-frequency fields and cancer?
+
+There are certain widely accepted criteria, the "Hill criteria", that are 
+weighed when assessing epidemiological and laboratory studies. Under these 
+criteria one examines the strength and consistency of the association 
+between exposure and risk, the evidence for a dose-response relationship, 
+the laboratory evidence, and the biological plausibility.  These criteria 
+are viewed as a whole; no individual criterion is either necessary or 
+sufficient for concluding that there is a causal relationship between an 
+exposure and a disease.
+
+Overall, application of the Hill criteria shows that the current evidence 
+for a connection between power-frequency fields and cancer is quite weak, 
+because of the weakness and inconsistencies in the epidemiological studies, 
+combined with the lack of a dose-response relationship in the human studies, 
+and the negative laboratory studies.  The current evidence for a connection 
+between exposure to power-frequency other types of human health hazards 
+(including birth defects) is even weaker.
+
+[5.7] Are there exposure guidelines for power-frequency fields?
+
+A number of governmental and professional organizations have developed 
+exposure guidelines.  These guidelines are based on keeping the body 
+currents induced by power-frequency EM fields to a level below the 
+naturally-occurring fields.  The most generally relevant are:
+
+- National Radiation Protection Board (UK):
+  50/60 Hz electrical field:  approx. 12,000 v/m and 1.5 mT (15 G)
+
+- American Conference of Governmental Industrial Hygienists:
+  At 60 Hz: 1 mT (10 G); 0.1 mT (1 G) for pacemaker wearers
+
+- International Commission on Non-Ionizing Radiation Protection
+     24 hr general public: 0.1 mT (1 G) and 5,000 v/m     
+     Short-term general public: 1 mT (10 G) and 10,000 v/m      
+     Occupational continuous: 0.5 mT (5 G) and 10,000 v/m     
+     Occupational short-term: 5 mT (50 G) and 30,000 v/m    
+
+[5.8]  Where can I get more information about power-frequency fields and 
+human health?
+
+This section for the FAQ sheet is drawn from a more extensive FAQ sheet 
+called "FAQs on Power-Frequency Fields and Cancer".  The latter FAQ sheet 
+covers the following topics:
+
+- What is the difference between the EM energy associated with power lines 
+and other forms of EM energy such as microwaves or x-rays?
+- What is difference between EM radiation and EM fields, and do power lines 
+produce radiation?
+- How do EM sources produce biological effects, and why do different types 
+of EM sources produce different biological effects??
+- What sort of power-frequency fields are common in residences and 
+workplaces, and can they be reduced?
+- What is known about the relationship between powerline corridors and 
+cancer rates, and how close do you have to be to a powerline to be 
+considered exposed?
+- What is known about the relationship between "electrical occupations" and 
+cancer rates?
+- What do laboratory studies tell us about power-frequency fields and 
+cancer?  Are these fields genotoxic, do they enhance the effects of other 
+genotoxic agents?  How do studies on cell growth, immune function, and 
+melatonin relate to the question of cancer risk? Do power-frequency fields 
+show any effects at all in laboratory studies?
+- How do scientists evaluate all the laboratory and epidemiological studies 
+of power-frequency magnetic fields and cancer? How strong and how consistent 
+is the association between exposure and the risk of cancer, and is there a 
+dose-response relationship? Is there laboratory evidence or a plausible 
+biological mechanism for an association between exposure and the risk of 
+cancer?
+- If exposure to power-frequency magnetic fields does not explain studies 
+which show increased cancer incidence, what other factors could?  Are there 
+dose-assessment problems? Are there other cancer risk factors that could be 
+causing a false association? Could the studies be biased by the methods used 
+to select control groups or by publication bias?
+- What is the strongest evidence for and against a connection between 
+power-frequency fields and cancer, and what studies are needed to resolve 
+the cancer-EMF issue?
+- Is there any evidence that power-frequency fields could cause birth 
+defects or any other human health problems
+- Are there exposure guidelines for power-frequency fields?
+- What effect do powerlines have on property values?
+- How are power-frequency magnetic fields measured?
+
+"FAQs on Power-Frequency Fields and Cancer" also contain an annotated 
+bibliography covering: recent reviews of the biological and health effects 
+of power-frequency fields, epidemiology of residential and occupational 
+exposure to power-frequency fields, biophysics and dosimetry of 
+power-frequency fields, laboratory studies of power-frequency fields that 
+are directly or indirectly related to cancer or reproductive toxicity, 
+regulations and standards for ionizing and non-ionizing electromagnetic 
+sources.
+
+[5.9] Where can I get "FAQs on Power-Frequency Fields and Cancer"?
+ 
+The powerlines-cancer-FAQ sheet is posted monthly to: sci.med.physics, 
+sci.answers and news.answers, and irregularly to sci.physics.electromag.
+
+The powerlines-cancer-FAQ is also available by anonymous FTP from:
+"rtfm.mit.edu", in directory:
+/pub/usenet-by-group/news.answers/powerlines-cancer-FAQ
+Files: part1, part2, part3, etc. . . .
+
+and by e-mail from:
+mailserver@rtfm.mit.edu
+-to get you the directory indicating the names and number of parts and when 
+there were last updated, send the following message
+   send /pub/usenet-by-group/news.answers/powerlines-cancer-FAQ
+-To get the current FAQ you would send the following message
+   send /pub/usenet-by-group/news.answers/powerlines-cancer-FAQ/part1
+   . . . 
+   send /pub/usenet-by-group/news.answers/powerlines-cancer-FAQ/partn
+
+Maintainer of powerlines-cancer-FAQ
+John Moulder (jmoulder@its.mcw.edu)         Voice: 414-266-4670
+Radiation Biology Group                     FAX: 414-257-2466
+Medical College of Wisconsin, Milwaukee
+
+
+
+HISTORY OF ELECTROMAGNETICS
+
+[6.0] The greatest contributor to the theory of electromagnetics was 
+(Maxwell, Heaviside, Tesla, ....) because ....
+
+Undoubtably, one of the greatest contributors to the science of 
+electromagnetics was James Clerk Maxwell (1831-1879).  In his classic work, 
+"Treatise on Electricity and Magnetism", (1873), he published the first 
+unified theory of electricity and magnetism, postulated that light was 
+electromagnetic in nature, that radiation should be possible at other 
+wavelengths, and basically founded the science of electromagnetics.
+
+However, there were many other key players in the history of 
+electromagnetics, both before and after Maxwell.  It would be nice if other 
+individuals would contribute 1-2 paragraph descriptions of some of these 
+individuals.  It would be especially interesting if some little known facts 
+about these individuals could be included, making them that much more real.  
+Ideally, individual who live in the countries where these people were from 
+would contribute, giving all a perspective on who these giants were.  Some 
+individuals to start with would include:
+
+
+   Name                      Dates
+  ------                    -------
+
+William Gilbert           1540-1603
+Benjamin Franklin         1706-1790
+Charles A. De Coulomb     1736-1806
+Alessandro Volta          1745-1827
+Andre Ampere              1775-1836
+Karl F. Gauss             1777-1855
+Hans C. Oersted           1777-1851
+Georg S. Ohm              1787-1854
+Michael Faraday           1791-1867
+Joseph Henry              1797-1878
+James P. Joule            1818-1889
+James C. Maxwell          1831-1879
+Thomas A. Edison          1847-1931
+Nikola Tesla              1856-1943
+Heinrich Hertz            1857-1894
+Guglielmo Marconi         1874-1937
+Albert Einstein           1879-1955
+
+
+It would also be nice to establish an electromagnetics "timeline" outlining 
+when certain key events took place.
+
+
+   Date              Event 
+  ------            -------
+
+1873                Publication of Treatise on Electricity and Magnetism by
+                    James Clerk Maxwell, documenting the essential unity
+                    between electricity and magnetism.
+
+
+
+This is just a start on names, dates, and events.  Are there any other 
+students of the history of science out there? If so, this is a good place to 
+provide some input.
+
+
+
+end of sci.physics.electromag.FAQ part 2/2
+
+
+--------------------------------------------------------------------
+
+Dr. Randy J. Jost              Internet:  jost@washpost.wdc.sri.com
+SRI International                 Phone:  703-247-8415
+1611 N. Kent St.                    FAX:  703-247-8537
+Arlington, VA  22209-2111
+
+--------------------------------------------------------------------

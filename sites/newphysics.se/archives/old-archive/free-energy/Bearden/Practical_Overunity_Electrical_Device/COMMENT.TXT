@@ -1,0 +1,302 @@
+Here is further information that I obtained from Tom Bearden in answer
+to my questions (slightly edited):
+---------------------------------------------------------      
+LEGEND:
+
+\text\ = italic text
+_text_ = underlined text
+_\text\_ = italic underlined text
+@   = filled dot (looks like the dot product but bigger)
+Phi = Greek letter Phi representing field
+Del = Greek letter Del (upside down triangle)
+X_q = subscript q
+==  = identity sign (3 parallel bars)
+[2] = equation number
+
+There are no figures to the paper "Background for Pursuing Scalar 
+EM". I had envisioned preparing a book along that vein, with many, 
+many figures, etc., but simply have not had time to start the 
+project.
+
+Further details about the coupling of virtual flux:
+
+What I have begun is a "disassembly" of classical EM theory, 
+separating the fundamental entities that are massless from those 
+that have mass. When Maxwell wrote his theory, everyone knew that 
+the vacuum was filled with a thin material fluid -- the material 
+ether.  Maxwell incorporated that as a fundamental assumption of 
+his theory.  In other words, the scalar potential Phi already 
+consisted of "thin fluid".  Hence electrical charge was "material". 
+(At the time, the prevailing view of electricity was as a thin 
+material fluid, flowing through wires like water through pipes).  
+Consequently, classical EM was modeled completely in terms of fluid 
+dynamics, and \everything\ was material.  The notion of charge q 
+then was just a small piece of the material liquid electricity.  
+In other words, it was not a system of finer constituents.  
+Maxwell's theory was in quaternions, and consisted of some 20 
+equations in 20 unknowns (Nahin's count).  A great number of 
+different potentials arose in that theory, potentials which no one 
+had the slightest notion as to what they were.
+
+Heaviside (and to a lesser extent Hertz and Gibbs) reduced the 
+algebraic topology of Maxwell's quaternion model to vectors, which 
+is a seriously curtailed mathematics compared to quaternions.  
+Heaviside also hated potentials because he could not understand 
+what they were.  Consequently, he got rid of as many as possible.  
+He also focused attention of the electricians upon the notion of 
+external forces pushing upon masses and "creating all the action".  
+Again, this notion prevailed all of science at the time - and 
+unfortunately still prevails in physics today.  It is absolutely, 
+unequivocally false.  It is from Man's primitive experience, of 
+pushing and pulling on objects.  It is a fact that mass is always 
+a _\component\_ of force.  The rigorous definition of force may be 
+taken as F == dp/dt = d/dt(mv).  From this definition, if there is 
+no mass, there is no force.  (Suitable quotes from leading 
+foundations physicists can also be given, of course).  Instead, 
+there is at best dF/dm.  Quantum mechanically, all mechanical and 
+EM forces are generated _\on and off\_ the affected mass by an 
+exchange of virtual photons.  It is the coupling of the virtual 
+photon flux of the vacuum to a particle of mass that produces a 
+charged particle.  [It is a spatial asymmetry in that coupled flux 
+exchange that, together with the coupled mass, produces a force]. 
+The "charge" is the coupled virtual photon flux, not the mass.  
+Consequently, our old friend q is actually a system defined by:
+
+      q == Phi_q @ m_q                                        [1]
+
+where the operator @ means "coupled to" or "trying to couple to",
+representing the virtual photon flux aspect, and does not 
+represent multiplication.  From [1], one easily obtains the 
+expression for normal current i by time differentiating, so that:
+
+    i == dq/dt == d/dt(Phi_q @ m_q) = (dPhi_q/dt)@(dm_q/dt)   [2]
+
+We now see that, in an electric circuit, there are actually two 
+"currents" represented by the normal current dq/dt.  There is the 
+massless displacement current (dPhi_q/dt)@ component and there is
+the "mass of the electrons" current @(dm_q/dt).  Note that the 
+operator @ is retained; in this case, it represents "is trying to
+couple" or "is coupling".  In dq/dt, of course, the coupling is 
+occurring.
+
+It is well known that (dPhi_q/dt)@ represents the flow of energy
+without loss.  I.e., it is pure energy transport.  Actually, the
+@(dm_q/dt) in EM theory represents the drift current 
+longitudinally through the circuit.  That is the one in which the 
+electron masses "progress" through the circuit, though at a feeble 
+rate, typically on the order of 11 feet per hour or some such.  
+The (dPhi_q/dt)@ component moves at the speed of light.  Now you 
+can see the reason retaining the coupling operator @.  In a simple 
+dq/dt current in a circuit, there is a continuous speed of light 
+_\energy input to\_ and _\energy output from\_ the electrons that 
+are sluggishly moving along at the drift velocity.  The electrons 
+are actually moving much, much faster from side to side due to 
+precession caused by their spin and the continual dE/dt being 
+created on them by the coupling and uncoupling of the (dPhi_q/dt)@.  
+In a given current loop, one can also show that the @(dm_q/dt) 
+component is always the work (scattering of energy) in the loop.
+
+When the Michelson-Morley experiment destroyed the material ether,
+Maxwell was already dead.  Heaviside (and to an extent Gibbs) was
+just producing his own vector curtailment of Maxwell's theory.  
+So nothing at all was done to the EM theory to remove its 
+assumption on the material ether.  Not a single equation was 
+changed.  A short debate ensued about 1980 or so, mostly in 
+_Nature_, and the vectorists simply "threw out" the quaternionist 
+model as being far too difficult for engineers and far too abstract.  
+Remember, there were probably not more than about three dozen 
+scientists in the world at that time who could have been considered 
+"skilled" in EM theory.
+
+To handle the negation of the material ether, electricians just 
+simply announced "There is no ether, so we are not using one!"  
+Not an equation was changed.  No one had the slightest notion \how\ 
+to change them anyhow.  And _\that's\_ the classical EM we're stuck 
+with today. It is riddled with errors.  It desperately needs redoing.  
+Since no one else seems to want to redo it, I've started work on the 
+reformulation problem.  Actually, the task needs a person with much 
+greater \mathematical\ "horsepower" than me, but one who still is 
+willing to ponder deeply on foundations issues (most are not).  
+However, I can do it; it will just take three or four years.  There's 
+no longer any problem in seeing what has to be done.  Now, it's just 
+a matter of doing it.
+
+I would like to also clear up one thing for which I've been 
+severely criticized by academics.  Specifically, the charge has been 
+leveled that "scalar interferometry" is an oxymoron.  Well, it is 
+not such in quantum mechanics.  In addition, it is not an oxymoron 
+anyway, on first principles.  Stoney and Whittaker showed that any 
+scalar potential can be decomposed into a set of bidirectional wave 
+pairs, with the pairs in harmonic sequence.  Each pair consists of 
+a wave and its true time-reversed replica.  So, the interference of 
+two scalar potential beams is simply the interference of two hidden 
+sets of multiwaves.  That the waves in each beam are "hidden" is of 
+no concern; mathematically, scalar potential interferometry is 
+inviolate, in spite of the archaic assumptions of classical EM.  
+Indeed, Whittaker's 1904 paper showed that any ordinary EM field, 
+including EM waves, can be replaced by such scalar potential 
+interferometry.  Further, the source of interfering potentials need 
+not be local.  In other words, EM field gradients of any pattern 
+desired can be created at a distance, by the distant interference 
+of two scalar potential beams.  I hope that this lays the problem 
+of scalar interferometry to rest.
+
+Further details on his papers on cancer:
+
+All the cancer and healing papers were interim, and are upgraded
+by my two books _AIDS: Biological Warfare_,and _Gravitobiology_; 
+and by my recent cancer paper (Cancer and the Unresolved Health 
+Issues in the Biological Effects of EM Fields and Radiation) 
+published by Tesla Book Company in 1993.  Incidentally, the cancer 
+paper published by Tesla Book Co. is a slightly upgraded version 
+of the "Mechanism for Long-Term Cumulative Biological Effects of 
+EM Radiation", presented to the Alabama Academy of Science, 
+Mar 1993.  Hard copies of all viewgraphs are also included in the 
+paper.  Tesla Book Co. address is P.O. Box 121873, Chula Vista, CA,
+91912. Their phone number is 1-800-398-2056 or 619-437-8515.
+
+Further details about his patent application:
+After filing the 1993 paper "The Final Secret of Free Energy" on 
+Internet, I still had a year to patent the process. So in early 
+February 1994, my associates and I filed a patent calling for the
+blockage of the mass flow of the electrons (by several schemes),
+while allowing the (dPhi_q/dt)@ to pass and be collected.  The 
+collected excess energy is then shuttled onto a separate load
+circuit, where it is discharged normally through the load by 
+dq/dt. This way, the energy is delivered to the load and 
+discharged normally through it as power and work, but without 
+driving a corresponding dq/dt back through the back emf of the 
+original battery source.
+
+Now with an additional year's work under our belt, we at CTEC 
+also filed a formidable 200-page Continuation of our patent 
+application on May 13, 1994.  This filing is essentially a 
+textbook on our approach to overunity electrical devices.  Our 
+continuation also formalizes the process of charge blocking and 
+(dPhi_q/dt)@ passage, together with energy shuttling between 
+separate collection and work circuits, as means of achieving 
+overunity.  The process does not violate any of the laws of 
+physics and thermodynamics.  It is simply akin to the standard 
+heat pump equations.  The system is open and there is an external 
+source of the excess energy; the problem is simply to collect the 
+energy without dissipation, then shuttle it over to the load and 
+discharge it there as work, without any of the discharge current 
+(dPhi_q/dt)@ being allowed to pass back up through the back emf 
+of the battery/source.  Two days after our Continuation filing, 
+I presented the gist of that work at the 2nd International 
+Symposium on New Energy (ISNE) of May 12-15, 1994, in Denver, 
+Colorado (sponsored by The Institute for New Energy, (INE) and 
+The International Association for New Science (IANS)). Videotapes
+and audio tapes were made for each presentations including mine 
+and are available from Backcountry Productions, 831 Alpine Street, 
+Longmont, CO, 80501, TEL: (303) 772-8358.  I had permission by my 
+CTEC Board of Directors to release the new material only after our 
+continuation was filed.  Consequently, since we successfully filed 
+on 13 May 94, I took the next day and a half in my hotel room and 
+feverishly hand-drew the major viewgraphs, got the transparencies 
+made in the hotel's business center, then handcolored them with 
+magic markers.  I finished the last viewgraph about 2 hours prior 
+to my formal presentation to ISNE.  So the material in the 
+presentation differs dramatically from the material in the 
+_Proceedings_ paper.
+
+The 656 pages Proceedings can be ordered from both The 
+International Association for New Science (IANS), 1304 South 
+College Avenue, Fort Collins, CO 80524, TEL and FAX: 303-482-3731,
+and The Institute for New Energy, P.O. Box 58639, Salt Lake City, 
+UT 84158-8639, TEL: 801-583-6232, FAX: 801-583-2963
+
+Of course, you realize that the U.S. Patent Office will never 
+grant us a patent on an overunity electrical device unless a 
+working model is built and independently tested.  We are pursuing 
+that objective now.  We are certainly making progress, but we have 
+not as yet solved the relaxation time problem or the "rigid 
+capacitor" problem.  In fact, we have now extended our capacitor 
+testing to include the very expensive laboratory calibration 
+standard capacitors, and have proven that all of them reconfigure 
+when charged.  In other words, every capacitor presently available 
+is not just a capacitor, but is first an \energy-to-work 
+transducer\.  The current dq/dt is drawn to provide the work to 
+forcibly drive the physical reconfiguration.  Indeed, the precision 
+$2,000 or more calibration standard capacitors actually contain 
+precision springs!  So the electrical energy is converted to
+mechanical work, then back to electrical stress energy.  In a 
+standard closed circuit loop back through the source, the 
+production of the reconfiguration work in the capacitor destroys 
+any chance at overunity.  The reason is that the same current dq/dt 
+that moves into the capacitor to do the reconfiguration work is 
+also forcibly rammed back up through the back emf of the source, 
+doing an equal amount of degradation work inside the source.  When 
+the forcing V is removed and the capacitor connected across a load, 
+it again reconfigures.  One recovers the mechanical stored energy 
+as electrical energy due to a piezoelectric-type effect in the 
+reconfiguring materials.  But the reconfiguration work, whose twin 
+and equal is also done in the source, has already defeated the 
+ability to store the energy on the capacitor "for free".  Instead, 
+you already do not have an "excess" stored there, over and above 
+the degradation of the source. The capacitive method of storage 
+depends upon a true "charge-blocking" capacitor which does not 
+reconfigure.
+
+There is not now, and there never has been, a truly electrical 
+capacitor.
+
+The only candidate presently is the solid chip capacitor built 
+into Fogal's charge blocking semiconductor (patented in 1993).  
+That semiconductor is now being tested.  If it tests out, then a 
+demonstration model for our patent application will be fairly 
+straightforward, as outlined in our continuation.  Otherwise, 
+demonstration of successful overunity with our methodology will 
+still require substantial work before we succeed.  That's the 
+present status of our work and our progress, and our patent 
+application.
+
+We are encouraged, however.  There are always two questions in 
+research: (1) Can this in theory be done? and (2) if so, how 
+difficult is it? What are the specific tests? What are the 
+resources needed? etc.  Unless one has a clear "Yes!" to the first 
+question, one is still scouting the territory for an effect.  So 
+one cannot legitimately ask the second question at all.  On the 
+other hand, once the first question can be clearly and 
+unequivocally answered "Yes!", then the first question need never 
+again be asked.  Instead, one now is dealing with exploratory 
+development and engineering development.  In other words, it is 
+known it can be done.  It is just a matter of doing it, which 
+still may be a difficult task.  Our status is that we have clearly 
+and unequivocally gotten a resounding "Yes!" to the first question.
+We are now directly in the second series of questions.  So we know 
+it can be done along the lines we are pursuing.  But nature still 
+demands its payments;  we still have to actually get it done and 
+prove it.
+
+As a result of the rather catastrophic aerospace layoffs here in 
+Huntsville, I've retired and am continuing as best I can on a 
+much-reduced budget. We (CTEC) will succeed or fail on the bench.  
+And it will be an honest success or failure.  We are also openly 
+sharing all our progress, or lack thereof, and the theoretical 
+approach we are using.  That's all that anyone can do and call it 
+scientific method. 
+
+I hope this answers all your questions.  Good luck and I do 
+appreciate your efforts in placing this material on Compuserve to 
+be available to many more engineers and scientists. 
+
+Sincerely,
+
+T.E. Bearden
+August 16, 1994
+--------------------------------------
+
+(The audio tapes cost approx $10 each, and the video tapes cost 
+approx. $25 each including postage. The Proceedings cost $50 plus
+shipping & handling)
+
+If anyone finds more up-to-date info about Bearden's work, I would 
+certainly like to hear about it!
+
+Alain Beaulieu
+Compuserve: 70403,3645
+Internet: nstn1142@fox.nstn.ns.ca
+
+
+

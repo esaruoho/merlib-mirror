@@ -1,0 +1,792 @@
+
+
+
+
+                (word processor parameters LM=8, RM=75, TM=2, BM=2)
+                      Taken from KeelyNet BBS (214) 324-3501
+                           Sponsored by Vangard Sciences
+                                    PO BOX 1031
+                                Mesquite, TX 75150
+
+                       There are ABSOLUTELY NO RESTRICTIONS
+                  on duplicating, publishing or distributing the
+                       files on KeelyNet except where noted!
+
+                                 December 3, 1993
+
+                                   GARRETT1.ASC
+       --------------------------------------------------------------------
+             The Next Step in Energy Production, Engines and Lighting
+                                by Jerry W. Decker
+
+           (with apologies  to  the  Dallas  Morning News, the Van Nostrand
+                 Scientific Encylopedia and the US Patent Office)
+
+       For years we have heard stories about  a demonstration of a car that
+       ran on water  here  in the Dallas area.  Never was  there  any  text
+       substantiation or other  documents  relating  details.   Many of our
+       friends had also heard the story  with  hints  of  a  green  pill or
+       powder that was  added  to  the  water while in the  gas  tank  that
+       somehow made it combustible with no further actions taken beyond the
+       simple ignition via a high intensity spark.
+
+       About two or  three  years  ago,  our friends Howard and Joanne Bond
+       sent us a  short newspaper clipping  describing  the  demonstration.
+       The article indicates a patent was secured for the  "something" that
+       made the car  run on water.  That has kept me inspired all this time
+       and made me keep an eye and ear out for additional information.
+
+       The basic story was that the inventor  of  the  traffic  light,  Dad
+       Garrett, failed to  get  a patent on the idea.  Every  city  adopted
+       traffic lights for  which Dad Garrett received little in return.  He
+       and his son Charles invented many  devices,  among  them  a means of
+       making an automobile engine run on water.
+
+       To promote the discovery, a public demonstration was  held  at White
+       Rock Lake in Dallas somewhere around 1934.  The event was covered by
+       news media of  the  day  and  we  understand  there  was a Pathe' or
+       Movietone newsreel.  An automobile  was  towed to the lake site.  We
+       do not know  the type of automobile or whether  it  was  a  6  or  8
+       cylinder engine.  A  gallon  of  water was removed from the lake and
+       put into the gas tank.  The car was  then  started and driven around
+       the lake with no problems.
+
+       Several months back, I decided to do whatever it would  take  to dig
+       up this patent.   I knew from the article that a Dad Garrett and his
+       son Charles had invented this "something".  I  did not know the year
+       of this alledged  patent  and so had to go through  several  volumes
+       looking for anything   relating  to  Garrett.   Sometimes  inventors
+       assign their invention to companies  and  that  posed  an additional
+       problem if such was the case.
+
+       I finally did find a patent issued to Charles H. Garrett on July 2,
+
+                                      Page 1
+
+
+
+
+
+       1935 and called   an   ELECTROLYTIC   CARBURETOR.   The  number  was
+       2,006,676.  Since the microfiches  only  go  back  to about the mid-
+       40's, I had no option except to order it from the patent  office.  A
+       letter was sent to them with $2.00 ($1.50 for the patent and .50 for
+       mailing costs).  After  almost  3 months, I got a letter saying that
+       patents had now gone up to $3.00.  So, another letter with the $1.00
+       FINALLY got me the patent about 3 weeks later.
+
+       I have been calling it a HYDROLYTIC CARBURETOR because of WHAT it is
+       combusting and have been totally  amazed  at  the  simplicity of the
+       technology.  Several of our associates have received  advance copies
+       of it and  are  quite impressed, saying they will build and test it.
+       We too will test it and openly share our findings.
+       --------------------------------------------------------------------
+       I fully intended to not place the  patent online until the newspaper
+       articles had been   researched   and   also   furnished   for   your
+       investigations.  However, the patent is so incredible that I feel it
+       should be placed  online  ASAP  and  so,  the  text of the patent is
+       included in the Garrett file series  as follows. The patent drawings
+       are recorded as   GARRETT1.GIF,   GARRETT2.GIF,   GARRETT3.GIF   and
+       GARRETT4.GIF.  Please feel free to pass this file around.
+
+       The newspaper articles  are  included  in  this  file  for the exact
+       information as published from the  1935  demonstration to the latest
+       modern report of which I am aware.
+
+       Bob Aldrich of Survivor BBS in LA gave us additional  patent numbers
+       pertaining to the  Horvath  patents  for  electrolysis  to  power an
+       automobile engine.  Of those patents,  the  Garrett patent was NEVER
+       listed as a "prior art" patent.  That is quite odd  as  it  PRECEDES
+       several of the  points  made  by  the Horvath patent, not to mention
+       being SO SIMPLE.  Experiments will  be  carried  out  on the Garrett
+       design and we and our fellow experimenters will share  our  findings
+       for those interested.  The potential is ENORMOUS.   <end of comment>
+       --------------------------------------------------------------------
+       What follows is  the story that confirmed no green pill was involved
+       in the process and which Howard and Joanne Bond sent to KeelyNet.
+
+       Dallas Morning News - 1992 - Long Format
+
+       Column       :  TEXAS SKETCHES
+       Headline     :  Early inventor builds water-powered auto
+
+       Date         :  September 6, 1992      Section  :  TEXAS & SOUTHWEST
+       Page         :  48A                    Edition  :  HOME FINAL
+       Author       :  A.C. Greene         Word Count  :  398
+
+       Text :
+
+       The late Henry "Dad" Garrett was  a  multi-talented  Dallas inventor
+       with a bent  for electrical contrivances, and in 1935,  he  and  his
+       son, C.H. Garrett,  patented and exhibited an automobile that ran on
+       water -- actually, on hydrogen after  the  water  was broken down by
+       electrolysis.
+
+       Dad Garrett was already famous for his work.  In 1920  he set up WRR
+       in Dallas, the  world's  first  municipal radio station, and was its
+       first announcer.  He was the first  man to build a radio in his car,
+       and he developed radio transmission from the car for police use.  He
+
+                                      Page 2
+
+
+
+
+
+       also invented an  automatic  electric  traffic  signal, possibly the
+       nation's first.
+
+       Eugene P. Aldredge recalled the  Garretts:  "I  had  rented  a small
+       office on the seventh floor of the Allen building in downtown Dallas
+       for my letter  service,  and  one  of  my  early customers  was  the
+       eighteenth floor National  Electric  Signal Co. owned by Dad Garrett
+       and son C.H.
+
+       "I was informed that the two were  experimenting  with an automobile
+       that used water for fuel, that they carried on their  experiments in
+       a workshop adjacent  to  their office on the top floor, and that two
+       separate explosions (from dangerous  hydrogen)  had  nearly  blown a
+       hole in the roof of the building...Neither was hurt."
+
+       On September 8, 1935, The Dallas Morning News first  announced  that
+       the water-fuel concept  worked  --  at  least it worked for "several
+       minutes," the article reported.
+
+       A few months later, Pathe' News filmed the car driving along Garland
+       Road with the driver stopping at  White  Rock  Lake to fill the fuel
+       tank with water  before  cruising  off.  In 1970, Karen  Klinefelter
+       wrote, "Aptly enough,  the  film  was shown on Pathe's Stranger than
+       Fiction feature program."
+
+       C.H. Garrett said the only items needed to convert a gasoline-engine
+       auto to a   water  burner  was  an   electrolytic   carburetor   and
+       installation of a  generator  of  double  normal  capacity  for  the
+       breaking down of the water.
+
+       He claimed instant  starts  in  any weather, no fire hazards, cooler
+       operation and plenty of power and  speed.  The car was not marketed,
+       and no one seems to know its ultimate destiny.  Both Garretts died a
+       number of years ago.  <end of article>
+
+        [A.C. Greene is an author and Texas historian who lives in Salado.]
+       --------------------------------------------------------------------
+       The original September  8, 1935 article as taken from  microfilm  at
+       the Dallas Library follows.
+
+                            Dallasite Patents Invention
+                            Which He Claims Substitutes
+                            Water for Gasoline as Fuel
+
+       C.H. Garrett, Dallas inventor, gave a private demonstration Saturday
+       of a recently  patented  contrivance which he said substituted water
+       for gasoline as fuel for internal combustion engines.
+
+       He said it broke up the water by  electrolysis  into  its  component
+       gases, oxygen and hydrogen, using the highly explosive  hydrogen for
+       fuel in the motor cylinder.
+
+       The working model   operated  a  four-cylinder  engine  for  several
+       minutes in the demonstration, at  varying  speeds  and  with several
+       starts and stops.    Garrett  said  he  had  operated   the   engine
+       continuously for more than forty-eight hours.
+
+       The inventor said  the  idea  itself was not new.  He explained that
+       difficulty had been encountered heretofore in attempts to store the
+
+                                      Page 3
+
+
+
+
+
+       dangerously inflammable hydrogen.   He  claimed to have AVOIDED that
+       trouble by making and exploding the  gas in the SAME PROCESS without
+       a storage chamber in which the flames from the motor cylinders might
+       react.
+
+       Water, he explained,  is  broken  down into its component  gases  by
+       passage of an  electric  current through it from electrodes immersed
+       in the water.  Hydrogen collects at  the negative pole and oxygen at
+       the positive.  The hydrogen, Garrett said, is MIXED  WITH  AIR  (78%
+       nitrogen and other gases...Vangard) and introduced DIRECTLY INTO THE
+       CYLINDERS.
+
+       The inventor said he had been working on the device for eight years,
+       assisted by his  father,  Henry Garrett, traffic signal engineer for
+       the city of Dallas, inventor of the  traffic  signal  system, now in
+       use here and holder of several patents on such contrivances.
+
+       Garrett said attachment   of   the   electrolytic   carburetor   and
+       installation of a  generator  of  about  DOUBLE  normal  capacity to
+       furnish power for the breaking down  of  the  water  were  the  only
+       changes needed to convert a gasoline burning automobile into a WATER
+       BURNER!
+
+       He said the electrolysis chamber would have to VARY IN SIZE with the
+       size of the  motor  used.  One of ABOUT A QUART CAPACITY  being  big
+       enough for the ordinary automobile.
+
+       He claimed instantaneous  starting  in  any  weather, elimination of
+       fire hazards, cooler motor operation  and  fulfilling  of  all motor
+       requirements in power and speed.  <end of article>
+       --------------------------------------------------------------------
+       Problems with Hydrogen
+
+       One of the  problems  with the burning of hydrogen  in  an  internal
+       combustion engine is  that  of  EMBRITTLEMENT.  This occurs when the
+       walls of the cylinder become saturated with hydrogen ions.
+
+       Corrosion Embrittlement - the embrittlement  or loss of ductility of
+                 metals due  to  corrosion,  usually   as   a   result   of
+                 intergranular attack which may not readily be visible.
+
+       As you can  tell  from this definition, the metal becomes fragile or
+       porous and can shatter or fracture  upon  impact,  thus damaging the
+       engine.  There is  also the problem of excess heat.   However,  with
+       the Garrett patent   and   verification  by  modern  research,  both
+       problems have been overcome.
+
+       As to embrittlement, the acidity of  water  has been found to have a
+       great effect on the speed and the degree to which a  material can be
+       dissolved.  Generally speaking,  the acidity of a system is measured
+       in units called the pH (hydogen concentration),  ranging  from  1 to
+       14.  Neutral solutions have a pH of 7.  A pH less than  7 means that
+       the solution is ACIDIC and more than 7 means that it is ALKALINE.
+
+       When a metal becomes corroded because of the acidity of the solution
+       in which it  is  immersed,  it  is due to an interchange of hydrogen
+       ions in the solution with the atoms  of the exposed metal.  When the
+       solution is liquid,  the metal goes into the solution  and  hydrogen
+       tends to plate out on the piece.
+
+                                      Page 4
+
+
+
+
+
+       Once a hydrogen  film  has  deposited  on  the exposed surfaces, the
+       dissolving of the metal will cease.   Oxygen plays an important part
+       in this process, because the oxygen dissolved in  water  will  react
+       with the film  of  hydrogen  to  eliminate it by forming water which
+       allows the corrosion process to proceed.
+
+       The following ignition and Btu charts  help  to compare gasoline and
+       other fuels to hydrogen.
+       --------------------------------------------------------------------
+                  Ignition Temperature of Fuels in Air
+          Combustible     Formula       Temperature in Fahrenheit
+        Sulfur               S              470
+        Charcoal             C              650
+        Fixed Carbon (coal)  C              765 to 1115 (depending on type)
+        Acetylene            C H            580 to 825
+                              2 2
+        Ethane               C H            880 to 1165
+                              2 6
+        Ethylene             C H            900 to 1020
+                              2 4
+        Hydrogen             H              1065 to 1095
+                              2
+        Methane              CH             1170 to 1380
+                               4
+        Carbon Monoxide      CO             1130 to 1215
+        Kerosine                            490 to 560
+        Gasoline                            500 to 800
+       --------------------------------------------------------------------
+         Combustible  High Btu      High Btu.        % other gases for
+                      per pound     per cubic foot   Combustion lb for lb
+                                                     Oxygen  Nitrogen  Air
+         Hydrogen      61,095          325            7.94    26.41   34.34
+         Propane        2,524       21,669            3.63    12.07   15.70
+         Butane         3,271       21,321            3.58    11.91   15.49
+       --------------------------------------------------------------------
+       When ignited, hydrogen burns in air with a pale blue  to  colorless,
+       nonluminous flame, yielding   H20.    When   mixed   with  air,  the
+       flammability limit is 4-74% hydrogen.   When  mixed with oxygen, the
+       flammability limit is 4-94% hydrogen.  Care must always be exercised
+       where there may  be  hydrogen  mixtures with air or  oxygen  because
+       VIOLENT EXPLOSIONS may  occur.   So  we now understand that hydrogen
+       burns with a very hot, explosive and yet invisible flame.
+
+       To date, the cost has been prohibitive for providing commercial home
+       type uses.  Not to mention the generally  accepted  yet quite faulty
+       idea of a CENTRALIZED source of power distribution.   Such  reliance
+       on central systems  simply  sustains the current need for each of us
+       to be dependent and supportive of these very large institutions.
+
+       Eventually, society will   see   how   freedom,   independence   and
+       prosperity will come  from the LOCAL generation of  power  and  food
+       wherever possible.
+
+       The high temperatures  produced  when hydrogen reacts with oxygen or
+       fluorine, plus the low molecular weights  of the product gases, have
+       made hydrogen a  prime  fuel  for  rocket propulsion,  since  rocket
+       thrust increases directly  with  the  temperature and inversely with
+       the molecular weight of the exhaust gases.
+
+
+                                      Page 5
+
+
+
+
+
+       Some studies have  indicated  that  the  cost  of  transporting  and
+       distributing hydrogen by pipeline  may  be  less  than  the  cost of
+       transporting and distributing  electric power.  Presumably  existing
+       natural gas pipelines and distribution systems can be adapted to the
+       use of hydrogen.
+
+       Although hydrogen has a net heating value of only 275 Btus per cubic
+       foot, as compared  with  913  Btus  per  cubic foot for methane, the
+       lower density and  viscosity of hydrogen  make  it  possible  for  a
+       pipeline to deliver about the same amount of thermal  energy as with
+       methane, at a somewhat higher compression cost.
+
+       The thermal energy  in  hydrogen can be utilized more efficiently in
+       home heating than natural gas, because  hydrogen  can  be  burned in
+       nonconventional heaters, with  no  loss  of  heat,  since  its  only
+       primary combustion product  is  water.  By using flameless catalytic
+       heaters, nitrogen oxide   can  be   eliminated.    However,   oxygen
+       depletion of closed spaces will still present a hazard.
+
+       Hydrogen mixed with  gasoline  has  generated  as   much  as  a  50%
+       improvement in overall  efficiency.   A  test  motorcar  obtained 19
+       miles per pound of hydrogen.  However,  since liquid hydrogen weighs
+       only 0.58 pound  per  gallon, the mileage figure was  11  miles  per
+       gallon of liquid  hydrogen.   The  use of liquid hydrogen as a motor
+       fuel thus presents  several  major   problems   despite   its  basic
+       attractions.
+       --------------------------------------------------------------------
+       Hydrogen for home heating
+
+       Using hydrogen for home heating requires some other  considerations.
+       Because hydrogen burns  with a hotter flame, some design features of
+       current heating apparatus would require changes.  The energy content
+       per unit mass of liquid hydrogen  is  about  2.75 times greater than
+       that of hydrocarbon fuels.  On the other hand, there  are  only  325
+       Btus per standard  cubic  foot  of  hydrogen  as compared with about
+       1,000 Btus per standard cubic foot  of  natural  gas.   The ignition
+       energy of hydrogen is about 0.02 millijoules, which  is less than 7%
+       that of natural gas.
+       --------------------------------------------------------------------
+       Hydrogen for lighting
+
+       Lighting via the   use  of  hydrogen  can  be  accomplished  by  the
+       phenomenon of CONDOLUMINESCENCE,  a  cold  process.   A  phosphor is
+       spread on the   inside  of  a  tube  similar  to  the   conventional
+       fluorescent lamp.  Upon  coming  in contact with the phosphor, small
+       amounts of hydrogen combine with  the  oxygen  in  the air to excite
+       bright luminescence in  the phosphor.  (Is this the  secret  of  the
+       mysterious "perpetual lamps" as found in ancient tombs?)
+       --------------------------------------------------------------------
+       Electrolysis of water
+
+       The theoretical power  required to produce hydrogen from water is 79
+       KiloWatts per 1,000 cubic feet of hydrogen gas.
+
+       Modern electrolyzers consist of:
+
+           1)  Tank  cells with monopolar  electrodes.   Porous  diaphragms
+               separate the alternate cathodes and anodes  to  prevent  gas
+               mixing.  The anodes and cathodes are connected in parallel
+
+                                      Page 6
+
+
+
+
+
+               to keep the required voltage at approximately 2 volts and to
+               permit high  current densities.  This arrangement requires a
+               large floor area.
+           2)  Bipolar  electrodes,  connected   in   series  and  suitably
+               insulated.  The electrodes are cathodic on  one side; anodic
+               on the  other  side.   This  arrangement requires less floor
+               space, is more complex, and requires high voltages.
+
+       High pressure can   also  increase   electrolyzer   efficiency.    A
+       commercially available electrolyzer  operates  at  pressures  of  30
+       atmospheres (about 450  PSI),  194 degrees F., requiring 300 amperes
+       of electric current at 217 volts.   Other units operating at current
+       densities of 800 amps per square foot can produce up to 4,400 pounds
+       of hydrogen per hour.
+
+       So, with all the above, we can see both the promise  and some of the
+       problems with the use of hydrogen as fuel.  Personally, I was amazed
+       while digging this  info  from  the  Van  Nostrand  Encyclopedia  on
+       finding that hydrogen could be used to produce light.
+       --------------------------------------------------------------------
+       Further Info
+
+       As stated above,  the  primary  problems   with   Hydrogen  are  the
+       excessive heat and the embrittlement problem.
+
+       Both problems have  been solved according to a NOVA  video  entitled
+       Hydrogen - the  Invisible Flame.  The use of a stoichiometric mix of
+       hydrogen to oxygen  (as  in Yull  Brown's  Gas),  with  outside  air
+       eliminates the embrittlement problem while water vapor  sucked  into
+       the intake cools the exploding gas mixture to reduce the heat.  Both
+       of these techniques  were  pioneered  by Charles Garrett, tested and
+       patented in 1935.
+       --------------------------------------------------------------------
+       The text of the Garrett patent follows.
+       --------------------------------------------------------------------
+       Patented July 2, 1935                                    2,006,676
+
+                            United States Patent Office
+                                     2,006,676
+
+                              Electrolytic Carburetor
+                        Charles H. Garrett, Dallas, Texas
+                   Application July 1, 1932, Serial No. 620,364
+                             Renewed November 30, 1934
+
+                               5 Claims (Cl. 204-5)
+
+       This invention relates  to  carburetors   and   it   has  particular
+       reference to an electrolytic carburetor by means of  which water may
+       be broken up into its hydrogen and oxygen constituents and the gases
+       so formed suitably mixed with air.
+
+       The principal object  of  the invention is to provide in a device of
+       the character described, a mechanism  by means of which water may be
+       readily decomposed into  its  constituents,  and  the   constituents
+       intimately mixed with each other and with air.
+
+       Another object of  the  invention  is  to  provide means whereby the
+       electrolyte level in the carburetor may be maintained at a more or
+
+                                      Page 7
+
+
+
+
+
+       less constant level  regardless of fluctuations in fluid pressure at
+       the fluid inlet of the carburetor.
+
+       Another object of the invention  is  to  provide  means  whereby the
+       relative amount of  air mixed with the hydrogen and  oxygen  may  be
+       regulated as desired.
+
+       Still another object  of  the invention is the provision of means to
+       prevent loss of hydrogen and oxygen  gases  during  periods in which
+       these gases are not being drawn from the carburetor.
+
+       Still another object  of  the  invention is the provision  of  means
+       whereby the hydrogen  and  oxygen resulting from electrolysis may be
+       formed in separate  compartments,   and  a  further  object  of  the
+       invention is the  provision  of  means to periodically  reverse  the
+       direction of current flow and thereby alternate the evolution of the
+       gases in the separate compartments, to be later intermingled.
+
+       With the foregoing   objects   as   paramount,   the  invention  has
+       particular reference to its salient  features  of  construction  and
+       arrangement of parts,  taken  in  connection  with the  accompanying
+       drawings, wherein: -
+
+         Figure 1 is a view in vertical section of one form of carburetor.
+         Figure 2 is a modified form.
+         Figure 3  is  a  diagrammatic  view of a pole changer, showing its
+                  actuating mechanism, and
+         Figure 4 is a wiring diagram for  the  modified form of carburetor
+                  shown in Figure 2.
+
+       Continuing more in detail with the drawings, reference  is primarily
+       directed to Figure 1 in which the reference numeral 1 designates the
+       carburetor housing, which  is  preferably constructed of bakelite or
+       other suitable insulating material.  The housing 1 is so designed as
+       to divide the carburetor into a float  chamber  2 and gas generating
+       chamber 4, connected by a fluid passage 3.
+
+       Water UNDER PRESSURE  is  FORCED  into  the  carburetor  through  an
+       opening 5 which  communicates  with  the float chamber 2 through the
+       medium of the sediment chamber 6  and  the  needle  valve orifice 7,
+       which is closed  by  a  needle  valve 8 when the device  is  not  in
+       operation.  A float  9  surrounds  the needle valve 8 and is free to
+       move vertically relative thereto.   Depending  from  the cover 10 to
+       the float chamber 2 are two ears 11, located at spaced  intervals on
+       opposite sides of the needle valve 8.  The members 12 are pivoted to
+       the ears 11,  as  shown.   The weighted outer ends of the members 12
+       rest on top of the float 9, and their  inner ends are received in an
+       annular groove in  the collar 13 which is rigidly  attached  to  the
+       needle valve 8.
+
+       Within the gas  generating  chamber 4, a series of spaced, depending
+       plates 14 are suspended from a horizontal  member 15 to which a wire
+       16 has electrical contact through the medium of the  bolt  17, which
+       extends inwardly through  the  housing  1  and  is threaded into the
+       horizontal member 15.
+
+       A second series of plates 18 is located  intermediate  the plates 14
+       and attached to the horizontal member 19, and has electrical contact
+       with the wire 20 through the bolt 21.
+
+                                      Page 8
+
+
+
+
+
+       A gas passageway  22,  in  which  a  butterfly  valve 23 is located,
+       communicates with the gas generating  chamber  4  through an orifice
+       24.  An air  inlet  chamber  25  has  communication   with  the  gas
+       passageway 22 above  the  orifice  24.   A  downwardly opening check
+       valve 26 is in control of the openings 27, and is held inoperatively
+       closed by means of light spring 28.
+
+       An adjustable auxiliary air valve  29 is provided in the wall of the
+       gas passageway 22, which air valve is closed by the  butterfly valve
+       23 when the  butterfly  valve  is  closed, but communicates with the
+       outside air when the butterfly valve is open.
+
+       The operation of the device is as follows :
+
+       The chambers 2 and 4 are first  filled  to  the  level  'a'  with  a
+       solution of weak sulphuric acid or other electrolyte  not changed by
+       the passage of  current therethrough, and the opening 5 is connected
+       to a tank of water, not shown.
+
+       The wire 16 is next connected to  the  positive  pole  of  a storage
+       battery or other source of direct current and the  wire  20  to  the
+       negative pole.  Since  the  solution  within  the  carburetor  is  a
+       conductor of electricity,  current   will   flow   therethrough  and
+       hydrogen will be  given off from the negative or cathode  plates  18
+       and oxygen from the positive or anode plates 14.
+
+       The butterfly valve  23  is opened and the gas passageway 22 brought
+       into communication with  a  partial  vacuum.   Atmospheric  pressure
+       acting on the  top  of  the check valve 26 causes it  to  be  forced
+       downwardly as shown  in  dotted  lines.   The  hydrogen  and  oxygen
+       liberated from the water at the plates  18 and 14 are drawn upwardly
+       through the orifice 24 covered by the check valve 30  where they are
+       subsequently mixed with  air  entering  through  the openings 27 and
+       through the auxiliary air valve 29.
+
+       When it is desired to reduce the  flow  of  hydrogen and oxygen from
+       the plates 18  and  14, the current flowing through  the  device  is
+       reduced, and when  the current is interrupted the flow ceases.  When
+       the butterfly valve 23 is moved to  closed position, the check valve
+       26 is automatically closed by the spring 28.  Any EXCESS  GAS  given
+       off during these  operations  IS STORED in the space above the fluid
+       where it is ready for subsequent use.
+
+       Water is converted  into  its gaseous  constituents  by  the  device
+       herein described, but  the dilute sulphuric acid or  other  suitable
+       electrolyte in the  carburetor  REMAINS  UNCHANGED,  since it is not
+       destroyed by electrolysis, and the  parts  in  contact therewith are
+       made of bakelite  and  lead or other material not  attacked  by  the
+       electrolyte.
+
+       The structure shown  in  Figure  2 is substantially the same as that
+       shown in Figure 1 with the exception  that  the  modified  structure
+       embraces a larger gas generating chamber which is divided  by  means
+       of an insulating  plate  31 and is further provided with a depending
+       baffle plate 32 which separates the  gas  generating chamber 33 from
+       the float chamber  34  in which the float 35 operates  in  the  same
+       manner as in  Figure  1.   Moreover, the structure shown in Figure 2
+       provides a series  of  spaced  depending   plates   36   which   are
+       electrically connected to the wire 37, and a second series of
+
+                                      Page 9
+
+
+
+
+
+       similar plates 38  which  are  electrically connected to the wire 39
+       and are spaced apart from the plates  36 by the insulating plate 31.
+       Gases generated on the surfaces of the plates 36 and  38 pass upward
+       through the orifice  39a  into  the gas passageway 40 where they are
+       mixed with air as explained in the description of Figure 1.
+
+       A pipe 51 bent as shown in Figure  2  passes  downwardly through the
+       housing of the carburetor and has a series of spaced  apertures  'a'
+       in its horizontal portion beneath the plates 36 and 38.  An upwardly
+       opening check valve  53  is  in control of the air inlet 54.  When a
+       partial vacuum exists in the chamber 33, air is drawn in through the
+       opening 54 and subsequently passes  upwardly  through  the apertures
+       'a'.  This air tends to remove any bubbles of gas collecting  on the
+       plates 36 and  38 and also tends to cool the electrolyte.  The check
+       valve 53 automatically closes when  a gas pressure exists within the
+       carburetor and thereby  prevents the electrolyte from  being  forced
+       out of the opening 54.
+
+       In order to  provide  for  alternate evolution of the gases from the
+       plates 36 and 38, a pole changer 41,  shown in Figure 3 is provided,
+       which is actuated periodically by the motor 42 which drives the worm
+       43 and the gear 44 and causes oscillations of the member 45 which is
+       connected by a  spring  46 to the arm 47, thereby causing  the  pole
+       changer to snap from one position to the other.
+
+       In operation, the carburetor shown in Figure 2 is connected as shown
+       in the wiring  diagram  of  Figure 4.  A storage battery 48 or other
+       suitable source of  direct  current   is  connected  to  a  variable
+       rheostat 49, switch  50,  pole changer 41 and to the  carburetor  as
+       shown.  Thus the rate of evolution of the gases can be controlled by
+       the setting of  the  rheostat 49 and the desired alternate evolution
+       of the gases in the compartments of  the  carburetor is accomplished
+       by means of the periodically operated pole changer 41.
+
+       Manifestly, the construction  shown  is  capable   of   considerable
+       modification and such modification as is considered within the scope
+       and meaning of  the  appended  claims  is also considered within the
+       spirit and intent of the invention.
+
+       What is claimed is:
+
+         1)  An electrolytic carburetor including  an  anode and a cathode,
+             float means  to  control  the level of the electrolyte  within
+             said carburetor,   means  to  mix  the  gases  resulting  from
+             electrolysis with air, and a  check  valve independent of said
+             float means to control ingress of air to said carburetor.
+         2)  An electrolytic carburetor including anode and cathode plates,
+             a float  actuated  valve  in control of the electrolyte  level
+             within said  carburetor, means to mix the gases resulting from
+             electrolysis with air, a check valve in control of said means,
+             a second check valve independent  of said float actuated valve
+             to prevent loss of gases from said carburetor.
+         3)  An electrolytic carburetor for producing mixtures of hydrogen,
+             oxygen and air, including a series of spaced  and electrically
+             connected anode  plates  partially immersed in the electrolyte
+             within said  carburetor, a series  of  electrically  connected
+             cathode plates  spaced  between  said  anode plates,  a  float
+             operated valve in control of the electrolyte level within said
+             carburetor, an air inlet to said carburetor and a check valve
+
+                                      Page 10
+
+
+
+
+
+             in control of said air inlet.
+         4)  An  electrolytic carburetor for generating hydrogen and oxygen
+             gases from water and for mixing said gases with air, including
+             an anode  and cathode paritally  immersed  in  an  electrolyte
+             within said carburetor, float actuated means  to  replace  the
+             water consumed  whereby  to  maintain  a  constant fluid level
+             within said device, means for  mixing the said gases with air,
+             and a check valve in control of said latter means.
+         5)  An electrolytic carburetor including an anode  and  a cathode,
+             float actuated  means  to control the level of the electrolyte
+             within said carburetor, means  to mix the gases resulting from
+             electrolysis with air, a check valve in control of said latter
+             means and  means  to  periodically  reverse the  direction  of
+             current through said carburetor.
+                                                   Charles H. Garrett
+       --------------------------------------------------------------------
+       Useful tips for experimenters
+
+          The electrolyte  mixture  used  in  the  Horvath  patent  is  25%
+          potassium hydroxide with 75% of distilled water.
+
+          This is  a  good  initial mix  for  the  Garrett  patent  and  we
+          recommend you  stick with what works, i.e. the  Garrett  idea  of
+          battery acid  (weak sulphuric acid) in a beginning mixture of 25%
+          sulphuric acid with 75% water (should  be  lakewater based on the
+          newpaper articles...<grin>....).
+
+          So many people want to jump from base level to a flying saucer or
+          free energy generator without proving the basic phenomenon.  This
+          causes a  loss  of  confidence and a waste of money  because  the
+          "improved" design did not work and abandonment of the project.
+
+          Other options include :
+             1)  Magnets   -   either   alternating  fields  or  preferably
+                 monopoles (i.e. north or south ONLY)
+             2)  An Ultraviolet source to help break down the water
+             3)  Injection  of sound either  as  a  "tickler"  or  at  high
+                 amplitudes as in PUHA1 on KeelyNet, with  a  frequency  of
+                 600 cps
+             4)  Injection  of  sound  as Keely recommends at one or all of
+                 the following: 620 - 630  -  12,000  -  42,800  cycles per
+                 second
+             5)  Textured  surfaces for the electrodes to  allow  the  more
+                 rapid release  of  the  gases as they are formed, "oozing"
+                 off easier into large bubbles
+             6)  Large surface electrodes,  convolutions,  etc. for greater
+                 generation of gases (lead electrodes best)
+             7)  Heat  is  generated in the process, but  the  water  bonds
+                 would be  broken much easier and faster if the electrolyte
+                 chamber was heated
+             8)  DC with an AC signal at  shock  excitation amplitudes, the
+                 DC would keep the water excited, the AC would  shock it at
+                 any of the above frequencies
+       --------------------------------------------------------------------
+       Caveats and safety warnings
+
+            Hydrogen is EXPLOSIVE!
+
+            Hydrogen is INVISIBLE WHEN IT IS BURNING!
+
+                                      Page 11
+
+
+
+
+
+            Resonance of  water molecules at high amplitudes could possibly
+            EXPLODE the hydrogen/oxygen bond  (refer  DANART1 on KeelyNet)!
+            In a  chamber  filled  with  water, this could  be  DISASTROUS,
+            possibly leading  to a chain reaction!!  So take every possible
+            precaution if you choose to experiment with sonics!!!
+       --------------------------------------------------------------------
+       The entire Garrett files are listed on KeelyNet as :
+
+           GARRETT1.ZIP - contains ONLY this ASCII file
+
+           GARRETT2.ZIP - contains this ASCII file plus all .GIF
+                          diagrams below
+
+           GARRETT1.GIF - the primary drawing
+           GARRETT2.GIF - a superior design drawing
+           GARRETT3.GIF - shows a polarity switching mechanism
+           GARRETT4.GIF - a current controller circuit
+
+       We here at Vangard Sciences/KeelyNet  and  our Associates believe in
+       and practice the  free and open release of information  relating  to
+       energy production, health   and   levitation   technologies.    Such
+       information should not  be  monopolized,   suppressed  or  otherwise
+       restricted from benefitting the public at large.
+
+       If you choose  to experiment with this device, we  urge  you  to  be
+       extremely careful and  would  greatly  appreciate  your  findings or
+       comments.  We will also report on  what  we  find, perhaps with many
+       minds and approaches, this can yet be a viable project.  Hybridizing
+       of many techniques to achieve an end result is THE WAY!
+
+       Imagine, one simple process that can provide:
+
+          1)  heat - through the burning of hydrogen/oxygen
+          2)  power for local energy generation - the explosive  energy  to
+              drive a  piston  to drive a shaft to drive a generator.  That
+              generator charges a battery  network  which feeds an inverter
+              (converts DC to AC) to run your house
+          3)  motive  power for transport power - explosive  energy  drives
+              the piston to drive your vehicle
+          4)  light   -  condoluminescence  -  hydrogen/oxygen  exposed  to
+              phosphor coated surfaces for light generation
+          5)  sound  amplification  -  flame   speakers   where   flame  is
+              electrostatically deflected at audio rates to  produce sound,
+              the hydrogen/oxygen  mix  is  generated  LOCALLY  rather than
+              using bottled gases such as propane, butane, etc.
+
+       Are we so stupid that we can't duplicate  today what was done almost
+       60 years ago and improve on it?  Please pass this around freely!
+       --------------------------------------------------------------------
+         If you have comments or other information relating  to such topics
+         as  this  paper covers,  please  upload to KeelyNet or send to the
+           Vangard  Sciences  address  as  listed  on the  first  page.
+              Thank you for your consideration, interest and support.
+
+           Jerry W. Decker.........Ron Barker...........Chuck Henderson
+                             Vangard Sciences/KeelyNet
+       --------------------------------------------------------------------
+                     If we can be of service, you may contact
+                 Jerry at (214) 324-8741 or Ron at (214) 242-9346
+       --------------------------------------------------------------------
+                                      Page 12
+
+

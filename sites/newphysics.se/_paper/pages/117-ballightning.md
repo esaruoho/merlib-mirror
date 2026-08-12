@@ -1,0 +1,56 @@
+---
+title: "Ballightning"
+source_domain: newphysics.se
+source_path: archives/old-archive/electromagnetism/ball-lightning/Ballightning.html
+order: 117
+reachable_from_entry: true
+images: 0
+internal_links: 0
+extracted: 2026-08-12T20:40:30Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Ballightning
+
+*Source page: `archives/old-archive/electromagnetism/ball-lightning/Ballightning.html`*
+
+Newsgroups: sci.physics.fusion
+Path: columba.udac.uu.se!sunic!ugle.unit.no!trane.uninett.no!eunet.no!nuug!EU.net!howland.reston.ans.net!gatech!news-feed-1.peachnet.edu!news.duke.edu!zombie.ncsc.mil!cs.umd.edu!prometheus!pmk
+From: pmk@prometheus.UUCP (Paul M. Koloc)
+Subject: Ball Lightning GIF (with jets?)
+Message-ID: <CtBs3J.7Ks@prometheus.UUCP>
+Keywords: BL, Jets,fusion,PLASMAK(tm) magnetoplasmoid
+Reply-To: pmk@promethe.UUCP (Paul M. Koloc)
+Organization: Prometheus II, Ltd.
+Date: Fri, 22 Jul 1994 04:50:05 GMT
+Lines: 625
+
+The following is a classic "accepted" picture of BL, (H. Norinder,
+Problems of Atmospheric and space Electricity, Elsevier, Amsterdam,
+1965, page 455.         
+    NOTE:  Taken by a picnicing physicist Schneidermann in Norway
+              1933.   
+           Ball is line tied to earth's field declination 80degrees
+           (american 2pi=360), while the vertical convection axis
+           is due to the free float.  Convection velocity is propor-
+           tional to vertical height, so with zero velocity at the 
+           bottom polar jet ejecta pile, there is no erosion, and at 
+           the upper pole the material is eroded symmetrically with 
+           the vertical axis.  Since it takes a good 10 seconds 
+           (35 cm horizontal width) for such convection and erosion
+           to be established, this beast is LIVE, and definitely
+           of the PMK ilk.                 
+
+Printed with a b/w invert can increase perception of "splashes".   
+Might be a small moth in there too. 
+
+Cut where you must. 
+
++-------------------------------------------------------------------------+
+| Paul M. Koloc, Bx 1037 Prometheus II Ltd, College Park MD 20741-1037    |
+| mimsy!promethe!pmk; pmk%prometheus@mimsy.umd.edu   FAX (301) 434-6737   |
+| VOICE (301) 445-1075   *****  Commercial FUSION in the Nineties *****   |
++-------------------------------------------------------------------------+
+
+</plaintext>
+<img src=ballbw.gif>

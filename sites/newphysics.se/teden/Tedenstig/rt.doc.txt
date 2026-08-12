@@ -1,0 +1,795 @@
+Einsteins relativitetsteori, en kort kritisk resume.
+
+Ingen som läst  fysik i skolan  eller  studerat  lite  populär-
+vetenskap  har  väl  kunnat  ungå   att  komma  i  kontakt  med
+Einsteins  relativitetsteori,  detta  århundrade  mest omtalade
+och  omskrivna vetenskapliga  teori någonsin.  Men även om  det
+inte  är  alla  som  verkligen  har förstått teorins mening och
+innebörd, så  har teorins   förespråkare alltid framhållit dess
+stora  vetenskapliga betydelse  och hur  den har revolutionerat
+och förändrat vårt tänkande och vår syn på världen  och på vårt
+universum.
+
+Upphovsmannen,  Albert Einstein,  publicerade för första gången
+sin  teori  1905 under namnet "On the electrodynamics of moving
+bodies",numera allmänt känd under namnet den "speciella relati-
+vitetsteorin".  Tvärt emot vad många tror så fick Einstein ald-
+rig  nobelpriset  för sin teori,  nobelkommitte'n  ansåg teorin
+vara alltför kontroversiell och motsägelsefull. Trots detta har
+ändock teorin  lyckats bli en  etablerad del av vetenskapen och
+en del av vår allmänna världsuppfattning.
+
+Som  det anstår  varje vetenskaplig  teori av  betydelse så har
+även  relativitetsteorin, ja  kanske mer  än någon annan teori,
+varit  föremål för en omfattande kritisk debatt och granskning,
+stundtals både hård och oförsonlig. Den allmänna  uppfattningen
+idag är att teorin väl har bestått detta prov, dock finns många
+som fortfarande anser  att kritiken inte tagits tillräckligt på
+på allvar  och  att  många  stora olösta  problem ännu kvarstår.
+
+Som vetenskaplig teori betraktad är  relativitetsteorin märklig
+på många  sätt.  Det är  exempelvis  inte speciellt vanligt att
+vetenskapliga teorier  och deras upphovsmän blir behandlade som
+kult,ungefär så som förekommer inom religiösa sekter eller inom
+politiska massrörelser.Men relativitetsteorin behandlas i många
+stycken  på ett likartat sätt.  Och upphovsmannen själv, Albert
+Einstein  omnämnes  på ett lika vördnadsfullt sätt som uppburna
+företrädare  för religiösa  trossystem, Jesus,  Mohammed, Påven
+eller företrädare för diverse politiska massrörelser såsom Marx,
+Lening, Napoleon osv. Einstein, oberoende  av om man är kapabel
+att  bedöma  riktigheten i  hans teorier  eller ej,  så har han
+gjorts till sinnebilden för mänsklig genialitet och  skarpsinne.
+Mot  denna bakgrund är  det lättare att förstå relativitetsteo-
+rins grundmurade popularitet och ställning, man kritiserar inte
+Gud eller Påven,man kritiserar inte företeelser som sedan länge
+blivit en integrerad  del av vår kultur,  vår vetenskap och vår
+världsuppfattning.
+
+Sålunda  kan  konstateras,  att  relativitetsteorin  fått   ett
+synnerligen starkt fäste inom den vetenskapliga teoribildningen
+såväl  som för den  allmänna  världsuppfattningen.  Men vill vi
+vara  något respektlösa inför detta massiva faktum måste vi än-
+dock, om vi även fortsättningsvis skall betrakta teorin som god
+vetenskap,  ställa den något provokativa  frågan: är det faktum
+att en teorin är allmänt  känd,  fått officiellt erkännande och
+blivit  accepterad som en god och användbar vetenskaplig teori,
+automatiskt en garanti för att den är sann och riktig ?
+
+Går  man tillbaka  i  vetenskapshistorien  finner  vi tyvärr en
+mängd teoribyggnader, som då det begav sig, var allmänt populä-
+ra och stöddes av en bred krets inom den etablerade vetenskapen.
+Teorier  som idag är helt bortglömda  eller som man inte längre
+vill kännas vid.  Vetenskapen säges vara självrenande, odugliga
+teorier rensat auotmatisk bort,antingen genom att de ersätts av
+nya  mera  kraftfulla  och mindre motsägelsefulla teorier eller
+befinnes  vara helt felaktiga och inte längre vetenskapligt kan
+försvaras.  Vad säger att relativitetsteorin inte kommer att gå
+samma öde till mötes ?  och vilka krafter  kommer i så fall att
+vara pådrivande i denna process ?
+
+På  medeltiden  var kyrkans och prästerskapets ställning stark.
+Man bestämde  även vad som var sannt och rätt inom vetenskapen,
+vilket bl.a  Gallileo med flera bittert  fick erfara. Men efter
+mycket kamp och efter mycket lång tid segrade så småningom för-
+nufter och sanningen.
+
+Vetenskapen  skryter idag  med att vi  trots  allt inte är lika
+inkrökta och intolleranta i vårt  tänkande  som på Galileos tid.
+Man hotar inte längre  människor med  hårda straff om  man inte
+accepterar den rådande världsbilden. Men tyvärr,  människan har
+inte förändrat sitt sinnelag speciellt  mycket jämfört med den-
+na tid,  samma  mekanismer  som vill styra över  det  mänskliga
+sinnet  finns  idag liksom då.  Men de har  tagit sig andra ut-
+trycksformer.  Man slår idag inte ihjäl folk, man är mera sofi-
+stikerad i sin taktik.   Den vanligaste  formen av  kontroll är
+idag  kollegial utfrysning  och mobbing i olika former, indrag-
+ning av forskningsanslag  eller missade chanser  till  befodran
+i den  akademiska befodringsgången. Man använder sig av den en-
+skilde forskarens  rädsla  för utanförskap  och isolering eller
+hans  rädsla att  mista sin  ekonomiska  försörjning av sig och
+sin familj.
+
+I rädsla för det  kollegiala utanförskapet och isoleringen ska-
+pas mentalt olika  trender inom  forskarvärlden. Man diskuterar
+tvivel  inom smalare kollegiala  kretsar men vågar inte offici-
+ellt uttrycka dessa tvivel.  Det skulle få förödande konsekven-
+ser för den  enskilde  forskarens  karriär som dristar sig till
+något  sådant.  Stora  ekononomiska  och prestigemässiga värden
+står på  spel och den  som illojalt går ut med öppen kritik har
+för  alltid  gjort sig  omöjlig som etablerad, godkänd forskare.
+
+Att  relativitetsteorin  numera från officiellt håll i så liten
+grad  diskuteras  från  en kritisk  utgångspunkt   sammanhänger
+mycket med  just detta. Den kritik  som eventuellt förekommmer,
+kommer mestadels från obundna (fria) enskilda forskare och fri-
+stående organisationer och institutioner,och inte från de etab-
+lerade  institutionerna,  universitet och  högskolor där teorin
+ofta användes som en del i den normala undervisningen.
+
+Den fria debatt som  förekommer är ganska omfattande och mesta-
+dels mycket kritisk.  Utan att ta ställning till  riktigheten i
+denna kritik måste det dock  anses synnerligen märkligt att man
+fortfarande, 80 år efter  teorins tillkomst, diskutera relativt
+enkla och fundamentala ting. En teori  som är så etablerad bor-
+de idag ha  passerat detta  elementära stadium  där man fortfa-
+rande diskuterar elementa,  vilket tyvärr  ger upphov  till den
+obehagliga känslan att allt inte står riktigt rätt till.
+
+Men säger någon, en teori  som fått en  så stor  spridning  och
+allmänt erkännande kan väl omöjligen vara felaktig !?  Inte kan
+väl seriöst arbetande vetenskapsmän vara så galna att de slösar
+bort  så mycket tid och möda  på en hopplöst felaktig och komp-
+lett felaktigt och inkompetent teori ?
+
+Nåja, går man tillbaka i  historien  så är  det inget speciellt
+märkligt  med detta.  Många  av de  världsledande  teorier både
+inom vetenskap och politik  har rasat  eller vittrat sönder un-
+der  tidernas  lopp i ljuset från  nya insikter  och  kunskaper,
+tyvärr ofta till  priset  av mycket dyrköpta erfarenheter  både
+vad gäller ekonomiska  kostnader såväl som mycket mänskligt li-
+dande och elände.
+
+Vad  är då  orsaken till  att relativitetsteorin  har blivit så
+populär  om den inte är sann ?  Ja detta är en fråga för veten-
+skapshistoriker att reda ut,men ett framträdande drag hos rela-
+tivitetsteorin är nog att den  innehåller  element av  mystiskt
+oåtkomlighet och övernaturligt natur,ja gränsande  till vad man
+ofta  finner inom olika religioner. Människan är ju  till över-
+vägande delen  religiös till sin  natur och inte så rationell i
+sitt tänkande som  man ofta vill föreställa sig. Och detta gäl-
+ler även vetenskapsmän och speciellt sådana som arbetar med den
+teoretiska  fysiken  som idag blivit  alltmer mentalt svårtill-
+gänglig.
+
+En viktig faktor som verkar konserverande  för en teoribildning
+är känslan av makt och kontroll av makt som detta  innebär. Har
+väl  en teori  blivit  allmänt  accepterad  lever den mer eller
+mindre  sitt eget liv obeorende av om den är riktigt eller fel-
+aktig,  vad som  i sammanhanget är  viktigt är  att behålla den
+makt över  sinnena som  man har lyckats uppnå. Detta påminner i
+mycket om den makt kyrkans män eftersträvar över människor, men
+borde vara  företeelser  som  vetenskapliga  institutioner inte
+borde hänge sig åt.
+
+Relativitetsteorin har varit mycket framgångsrik i detta speci-
+ella avseende, att skapa makt över sinnena.  Relativisterna har
+uppnått en position som de  inte är särskilt beredda  att lämna
+ifrån sig,  även om alternativa teorier  skulle kunnda erbjudas
+vilka på ett bättre och mindre motsägelsefullt sätt skulle lösa
+vetenskapliga och fysikaliska problem. Och i denna anda har re-
+lativisterna  även lyckats med konstycket att uppnå allmän sym-
+pati för  sin teori och inlemmat den som en del av vår allmänna
+världsuppfattning.  Från denna maktposition  har man sedan fått
+tillgång till  resurser, både i form  av omfattande forsknings-
+resuser men även tillgång till de  bästa forskarhjärnorna.  Och
+massmedia av alla de slag ställer sig välvilligt till förfogan-
+de att sprida  detta budskap till en förundrad men okunnig all-
+mänhet.
+
+Möjligheten för en individ att  sätta sig in i relativitetsteo-
+rins labyrinter varierar  naturligtvis beroende på intresse och
+de  personliga  kunskapsmässiga  och intellektuella  förutsätt-
+ningarna, framför kunskaper och färdigheter i den högre matema-
+tiken.   Men många som från  början haft en positiv inställning
+till  teorin  och med ambitioner att  verkligen lära och förstå
+dess  budskap har  tyvär blivit frustrerade,  tröttnat och gett
+upp i sina försök.  Ofta ger man inte upp av orsak av intellek-
+tuell oförmåga  utan  helt enkelt av den banala orsaken att man
+upptäcker att det  inte  finns något substansiellt i teorin att
+ta fasta på.   Men några supporters återstår alltid, det är den
+kategori som  påstår eller  inbillar sig själva att de förstått
+någonting,  försöker göra  intryck av att ha förstått någonting
+och sålunda  kan framstå som mera  intelligenta och framstående
+än andra.   Denna kategori människor  är ofta av den sorten att
+de gillar  matematiska  abstraktioner  och att de inte störs av
+teorin  egentligen  endast producerar tomma, inbillade och sub-
+stanslösa resultat.
+
+Och  många har upptäckt, att gräva sig ut ur den relativistiska
+labyrinten förefaller vara ett frustrerande och nästan hopplöst
+företag, ett slöseri  med tid och  ansträngning  som inte leder
+till någonting. Och en kritisk analys av teorin baserad på all-
+männa  vetenskapliga metoder av  sunt förnuft och logisk analys
+skapar  enbart  en sådan förvirring att den som normalt förvän-
+tar  sig logiska  konsekvenser av  sitt tänkande,  omöjligt kan
+acceptera.  Förvirringen  uppstår bland  annat genom att grund-
+läggande förutsättningar  hela tiden  förändras  och anpassas i
+takt med  att problem  uppstår genom att  dessa förutsättningar
+skapar motsägelser  och problem.  Allting ser  på detta sätt ut
+att flyta ihop i ett enda kaos, omöjligt för en seriöst tänkan-
+de person att reda ut.
+
+Trots att  nu mer än 85 år  har  gått sedan  relativitetsteorin
+tillkom är  de som  stöder teorin,  relativisterna, inte själva
+överens  om hur  tolkningen av  grundläggande begrepp eller hur
+kritik av  teroin skall  bemötas.  Och om man skulle utgå ifrån
+all den relevanta  kritik  som faktisk förekommit och om teorin
+vore att betrakta  som normal vetenskap,  så skulle inte mycket
+idag vara  kvar av teorin.  Men det är dock  helt uppenbart att
+teorin inte är  vetenskap utan något helt annat.  Teorin ser ut
+att balansera i grånzonen mellan vetenskap, science fiction,re-
+ligion och eller ren filosofi, omöjlig att komma åt genom någon
+känd analytisk vetenskaplig, logisk metod.
+
+Vetenskapen säges  vara självkontrollerande, dvs utgör en proc-
+ess  där  felaktiga  teorier  automatiskt  är eliminerade.  Men
+detta ser inte ut att vara fallet för relativitetsteorin,  vil-
+ket  konsekvent  ser ut  att  strunta  i dessa  självklara  och
+grundläggande  etiska  vetenskapliga regler. Och således, trots
+denna massiva  kritik  som  delgivits  relativitetsteorin,  ser
+det istället  ut  som  teorin är  mera populär idag än någonsin
+tidigare.
+
+Relativisterna  vill göra intryck av att vara sunt rationella i
+sitt  tänkande,  men  är samtligt  paradoxalt  nog  beredda att
+acceptera  slutsatser som är helt emot varje vetenskaplig regel
+och det  sunda förnuftet.  Och helt utan  självkritisk prövning
+manipulerar  man naturen på helt godtyckligt sätt, vilket omöj-
+liggör  varje  mänsklig möjlighet  att avgöra  vad  som är rätt
+eller fel.
+
+Sunt förnuft,  sade Einstein,  är bara de förutfattade meningar
+man har som artonåring och sedan behåller livet ut. Man kan här
+ana ett betydande förakt för det mänskliga intellektets förmåga
+att avgöra  rätt eller fel.  Och som en konsekvens av detta syn-
+sätt,  när teorin skapar tydliga och uppenbara motsägande resul-
+tat, är man även beredd att förneka människan förmåga att intel-
+lektuellt avgöra frågan om rätt eller fel, detta som alternativ
+till att istället förklara teorin som ogiltig. Med  denna krimi-
+nellt  ohederliga  attityd har  teorin därmed blivit ett direkt
+hinder för att uppnå ett sunt sökande efter sanningen i fysiken
+och sökandet efter de djupa mysterierna i naturen.
+
+
+OCH VAD INNEHÅLLER TEORIN ?
+
+Einsteins speciella  relativitetsteori från 1905  är grundad på
+två huvudhypoteser  eller koncept,  vanligen benämnda postulat.
+Dessa formuleras vanligen på följande sätt:
+
+
+            I. "THE SAME LAWS OF ELECTRODYNAMICS WILLÿ
+                BE VALID FOR ALLÿFRAMES OF REFERENSES
+                FOR WHICH THE  EQUATIONS OF MECHANICSÿ
+                HOLD GOOD "
+
+            II. LIGHT IS ALWAYS  PROPAGATEDÿIN EMPTY
+                SPACE  WITH  A  DEFINITE SPEED,  c ,ÿ
+                WHICH IS INDEPENDENT OF THE STATE OFÿ
+                MOTION OF THEÿEMITTING BODY.
+
+
+Einstein publicerade sin teori 1905 under namnet  "On the elec-
+trodynamics of moving bodies" i en tysk vetenskaplig  tidskrift.
+En annan princip som också är en del av teorin och som dessutom
+gett teorin dess välkända namn är "The principle of relativity"
+ursprungligen initierad av Poincare' ca fem år före teorins till-
+komst.
+
+Inlemmandet av relativitetstprincipen visar att Einsteins andra
+postulat  är ofullständigt,  vilket på ett  ganska pinsamt sätt
+avslöjar att Einstein inte  riktigt hade förstått innebörden av
+sitt eget postulat.  Andra postulatet  omnämner faktiskt endast
+den ena sidan av problemet, nämligen rörelsen hos den strålande
+ljuskällan  och inte rörelsen hos en betraktare.  Relativitets-
+principen innebär  nämligen att ljusets hastighet betraktas som
+en absolut universell  referens vartill alla rörelser kan refe-
+reras.  Om ljuskällan rör sig eller om observatören rör sig har
+ingen principiell betydelse enligt detta synsätt.  Därför måste
+det andra postulated skrivas om så att det även täcker in rörel-
+ser hos observatören, sålunda :
+
+           II. THE  PROPAGATING  VELOCITY OFÿ
+               LIGHT  IN THIS  WAY IT CAN BEÿ
+               MEASURED  BY ANY  OBSERVER IS
+               ALWAYS  CONSTANT  AND INDEPEN-
+               DENTÿ OF ANY  MOVEMENT OF THE
+               SOURCE OR THE OBSERVER MOVING
+               TO OR FROM EACH OTHER.
+
+I ett  personligt  brev till  en vän,  Erwin  Finley Freundlish,
+skrev EInstein 1913 följande :
+
+
+              "IF THE SPEED OF LIGHT IN THEÿ
+               LEAST BIT IS AFFECTED BY THE
+               SPEED  OF  THE LIGHT SOURCE,
+               THEN  MY  WHOLE  THEORY   OF
+               RELATIVITY AND THE THEORY OF
+               GRAVITY IS FALSE."ÿ
+
+
+HISTORIEN I KORTHET
+
+Alla revolutionerande teorier har sin egen  förhistoria.  En ny
+och omvälvande teori  poppar aldrig upp  från ingenting, den är
+alltid  en  produkt av  individuella  bidrag  från många,  både
+lyckade och mindre  lyckade  under en  mycket lång tid. Den tid-
+punkt då  Einsteins  publicerade sin teori hade föregåtts av en
+intensiv  debatt  omkring frågor  som gällde rymdens egenskaper
+och ljusets  grundläggande  natur.  Först och främst var det de
+s.k. eterteorierna för  ljusets rörelse som dominerade debatten
+och var speciellt  accentuerat genom  Maxwells elektromangtetis-
+ska teori från 1863.
+
+I denna  kaotiska situation  presenterade  Einstein  sin  teori.
+Och han använde sig av ett ganska  fult knep, istället  för att
+lösa de  problem som  diskuterades,förklarade han dessa problem
+som pseudo-problem, dvs utgångspunkten för diskussionen var fel-
+aktig och  missvisande.  Han gjorde detta bl.a genom att införa
+två så kallade postulat om ljusets grundläggande natur,nämligen
+att  ljusets hastighet  var en absolut  universell konstant och
+som inte  kunde  påverkas av  vare sig  rörelser hos ljuskällan
+eller hos betraktaren. Antagandet om en ljuseter som då var den
+allmänna  föreställningen,  avskaffades  utan att  ersätta dess
+tänkta funktion med något annat.
+
+Einstein har under hela detta århundrade prisats för sin orgina-
+litet och djärvhet i sitt tänkande,  detta trots att hans ideer
+utmanar  och övertrumfar det sunda  förnuftet och normalt veten-
+skapligt  tänkande.  Emellertid  kan hans originalitet sättas i
+fråga  vid en historisk tillbakablick.  Mycket av de tankar som
+han  presenterade hade  varit kända  inom vetenskapliga kretsar
+lång tid innan dess.Men Einstein hade en stor portion tur, bl.a
+genom  att en  grupp för sin tid prominenta vetenskapsmän : von
+Lau,  Minkowski,  Lorentz,  Mach,  Planck, Poincar'e och en del
+andra stödde honom. Och uppbackad av ett stort massmedialt upp-
+båd blev  Einstein snabbt en världskändis och en enorm auktori-
+tet inom vetenskapen, en symbol för genialitet och originalitet,
+en personlig  garant för att hans ideer om materien och univer-
+sum var sanna och riktiga.
+
+Einsteins  relativitetsteori  publicerades  1905  under  namnet
+"On the electrodynamics of moving bodies" och följdes senare av
+den allmänna teorin 1916. Vid sidan om dessa arbeten, för vilka
+Einstein uppnått sin största berömmelse, gjorde han bidrag inom
+kvantfysiken genom den s.k. "fotoelektriska effekten", en teori
+som egentligen från  början inte först diskuterades av Einstein
+utan av experimentatorn J Stark i ett arbete 1909. Men eftersom
+man inte var beredd att ge Einstein priset för relativitetsteo-
+rin var man tvungen att ge honom priset (gå grund av sin beröm-
+melse) för något  annat  och det  blev sålunda arbeten inom den
+fotoelektriska  effekten.  Man kan förstå att somliga forskare,
+kände sig snuvad på  konfekten av officiell vetenskaplig beröm-
+melse (Stark bl.a).
+
+Einstein  publicerade sin  teori  vid en tid utgörande klimax i
+en vetenskaplig och filosofisk  debatt rörande ljusets och rym-
+dens grundläggande  natur, en debatt som pågått intensivt allt-
+sedan Newtons dagar.  Så, det mesta var diskuterat och penetre-
+rat vid den tidpunkt Einstein entrade scenen.  Som några detal-
+jer i sammanhanget  kan  nämnas att  Poincar'e  hade föreslagit
+RELATIVITETSPRINCIPEN  i Paris och i  St. Louis, USA redan fyra
+år tidigare. LÄNGDKONTRAKTION av fysikaliska  objekt som  funk-
+tion av rörelse hade föreslagits 1892 av Lorentz och FitzGerald
+obeorende av varandra  som ett försök att lösa vissa teoretiska
+motsägelser i Michelson  och Morelys ljus interferrometer expe-
+riment 1887 (observera emellertid att längdkontraktion av fysi-
+kaliska  objekt  experimentellt  aldrig har  kunnat verifieras,
+varför det egentligen inte har någon egentlig betydelse vem som
+har upphovsmannarätten till ide'en ifråga). TIDSDILATION innne-
+bärande att fysiska klockor saktar ner sin tidsmätningstakt som
+funktion av rörelse,  hade föreslagits  av J. Larmor redan 1900
+och en teoretisk formel  för denna dilation var även föreslagen.
+Denna hypotes  att tiden är  intimt sammanvävd med rummet ingår
+som en bärande del av relativitetsteorin. MASSÖKNING av föremål
+i rörelse  upptäcktes från  början  genom experiment av Kaufman
+1901 och var således i motsats till vad  många tror ingen förut-
+sägelse av relativitetsteorin. Även här fanns  en formel utveck-
+lad där vetenskapsmän som Lorentz, Pais bl.a var inblandade och
+det är deras formel som man idag använder inom partikelfysiken.
+Den formel som  Einstein från början  föreslog var felaktig och
+användes inte idag. Och även sambandet E=m.c(2) för vilket kan-
+ske Einstein har  fått sin mesta berömmelse, fanns förslag till
+före det  att  Einstein  kom ut  med  sin teori  genom Lorentz,
+Poincar'e,  Langevin och andra.   Och den MATEMATIK FÖR TID OCH
+RYMD som Einstein använder sig av hade i huvudsak utvecklats av
+Lorentz, den s.k. LORENTZTRANSFORMATIONEN. Ljuset konstanta ut-
+bredning hade med stigande precision  bekräftats genom allt mer
+och mer förfinade  experiment, med början av Ole Römer på 1600-
+talet, men tyvärr aldrig  verifierats  genom experiment av sam-
+tidigt rörliga ljuskällor eller  observatörer. Så det var ingen
+stor bragt av Einstein att föreslå ljusets  konstanta hastighet
+som ett axiom, även om vi ännu idag inte har fastställt om  det
+är sannt eller ej.  Men egentligen  var inte  heller detta Ein-
+steins egen ide'. Redan Maxwells elektromagnetiska teori byggde
+på föreställningen att elektromagnetiska vågor (inkluderat även
+ljuset)  utbredde sig med konstant hastighet.  Men Maxwell hade
+ett motiv för detta, hans teori byggde bå föreställningen av en
+eter, ett medium,  som bärare för ljusvågen. Denna ljuseter av-
+skaffade dock Einstein utan att samtidigt ersätta den med något
+annat som kunde motivera denna egenskap hos ljuset.
+
+Således, Einsteins  teori var i huvudsak  baserad på två grund-
+läggande postulat,  kombinerat med den s.k. relativitetsprinci-
+pen.  Teorins postulat  genererar resultat  som strider mot vad
+vi i dagligt  tal benämner  "sunt förnuft", men trots detta har
+teorin  fått ett  gott  fotfäste  inom  naturvetenskapen  och i
+stort  sett blivit allmänt accepterad. Detta måste faktiskt an-
+ses som  något  märkligt  med  tanke på de stora  krav på en ny
+teori som  naturvetenskapen normalt ställer. Relativitetsteorin
+kan därför  inte betraktas som normalvetenskap i vanligt bemär-
+kelse.
+
+
+                 -----------------------
+
+
+EN KORTFATTAD GRANSKNING AV TESER OCH RESULTAT
+
+Först en kort lista över några av de "fysiska"  effekter som är
+resultat av relativitetsteorins grundläggande postulat :
+
+         * Ljusets  hastighet  i vakuum  så som det
+           kan uppmätas av en observatör (utrusatad
+           med mätstavar och klocka),  mäter alltid
+           standardhastigheten, c , oberoende av om
+           ljuskällan  eller han  själv  rör  sig i
+           relation till ljuskällan.
+
+         * Endast relativ hastighet mellan föremål
+           är fysikaliskt relevant. Absolut hastig-
+           het kan varken uppmätas eller definieras.
+
+         * Fysiska  klockor  i ett s.k.  referens-
+           system går saktare  som ett resultat av
+           rörelse i relation till ett annat refe-
+           renssystem i omgivningen.
+
+         * Tiden är inte absolut (ej  gemensam  för
+           hela universum och ej densamma  på  alla
+           platser), utan är relativ till sin omgiv-
+           ning. Samma klocka visar  således  olika
+           tid vid samma  tillfälle,  helt beroende
+           av  vilket föremål i omgivningen man jäm-
+           för  sig  med  eller  vem som  tittar på
+           klockan (helt absurt således).
+
+         * Den relativa hastigheten mellan  två ob-
+           jekt kan inte  överstiga ljusets hastig-
+           het även om varje  objekt för sig uppnår
+           nära  ljusets  hastighet  i  förhållande
+           till en gemensamt definierad punkt.
+
+         * Fysiska objekt trycks ihop (blir kortare
+           i rörelseriktningen) som funktion av re-
+           lativ rörelse mellan objekt i omgivning-
+           en. Samma objekt kan samtidigt vara hop-
+           tryckt  olika mycket  beroende på vilket
+           omgivande objekt som man jämför sig med.
+           (Fullständigt absurt således).
+
+         * Den händelse som för en observatör upp-
+           fattas  som en enskild händelse uppfat-
+           tas inte som samma händelse av en annan
+           observatör  som rör sig i relation till
+           den förra observatören.
+
+         * Gravitationen är ingen kraft utan endast
+           en krökning av  rum och tid,  en linje i
+           rymden en astronomisk kropp följer i sin
+           rörelse.
+
+Detta är  bara  några  av de "fysikaliska"  konsekvenser  eller
+effekter som teorin fastställer eller förutsäger.  De flesta av
+dessa  teser ger  upphov till logiska absurditeter  som  det är
+minst sagt svårt att acceptera från normal naturvetenskaplig ut-
+gångspunkt. Och för att illustrera detta skall vi något i kort-
+het studera  några  typiska exempel  hämtade  från den kritiska
+litteraturen.  I några  sällsynta fall  har även relativisterna
+tagit ett visst intryck av denna kritik och därför gjort försök
+att i efterhant modifiera eller korrigera teorin.  Men ofta har
+dessa försök gjort situationen än värre.
+
+Einsteins  teorier kan i  många avseenden jämföras med en laby-
+rint utan  väg ut.  Den intresserade  som verkligen vill ta sig
+an att  förstå teorin  finner sig  snart frustrerad  och intill
+gränsen  av desperation.  Mycket beror  detta på att de defini-
+tioner  som  finns är  oprecisa, luddiga och dessutom elastiska
+på så sätt  att de hela tiden kan ändras och justeras alltefter
+behov. Detta gör att en kritiker befinner sig en ganska hopplös
+situation där han inte kan få grepp om de spelregler som egent-
+ligen gäller.  Då anhängare  av teorin mottar berättigad kritik
+baserad  på de grundkoncept som teorin föreskriver, ändras ofta
+förutsättningar  på ett sådant sätt  att kritiken blir omöjlig.
+Resonemang och diskussion omkring relativistiska problem tende-
+rar därför att alltid utmynna i en härva av logiska motsägelser
+helt omöjliga att reda ut. Och som i de flesta diskussioner där
+något diskuteras  är det mest för  diskussionens egen skull, en
+akademisk lek med ord  och begrepp som inte är ägnade att mynna
+ut i  några konkreta  insikter eller slutsatser.  För att något
+belysa detta problem tar  vi upp några exempel där vid försöker
+tillämpa teorin.
+
+
+TIDDILATION
+
+Einsteins  teori säger  att fysiska  klockor går saktare i ett
+system  som rör sig  relativt ett annat system i vila.  Det är
+flera märkliga saker förknippade med detta. Bl.a hur man i re-
+lativitetsteorin överhuvud taget  kan definiera ett system " i
+vila" emedan ju i  princip absolut  rörelse (varav vila är ett
+specialfall)  ej kan definieras. Hur som helst så drar sig re-
+lativisterna  sig inte för att att göra sådana logiska kuller-
+byttor.  För det andra anges  ingen orsak eller anledning till
+varför  fysiska klockor  skulle ändra sin  mätcykel enbart för
+de  anses vara i rörelse  i förhållande till något annat i om-
+ningen och  därutöver anges ej om  tidavvikelsen är av absolut
+natur (dvs kan avläsas som en verklig tidavvikelse hos klockan
+vid kontroll i efterhand),eller enbart en synvilla beroende på
+att information  mellan observatörer av klockor i olika system
+förbrukar tid.  Dessutom föreskriver teorin endast att klockor
+går saktare, ej fortare.Men i rimlighetens namn bör då  teorin
+upphäva sig själv i samma ögonblick någon klocka går långsamma-
+re, helt enkelt av den orsaken att då någon klocka i omgivning-
+en måste gå fortare  relativt den  förra.  Sådana  enkla fakta
+föresvävar  aldrig relativisterna,  fakta som alltid ignorerat
+tillbakavisas som illvilja och elakt förtal.
+
+En klocka som är utplacerad vid jordens ekvator kommer att dra
+sig i relation till en liknande klocka utplacerad vid någon av
+polerna, detta enligt Einsteins eget exempel  från den speciel-
+la teorin. Av någon underlig anledning uteslöt Einstein pendel-
+ur eller mekaniska ur i  detta sammanhang,  underligt eftersom
+tiden som  begrepp knappast  kan ha att göra med vilket typ av
+tidmätare man använder sig av.  Men livsprocesser kan påverkas
+vilken bl.a framgår med tydlighet i exemplet med den så kalla-
+de tvillingparadoxen.
+
+För att med ett exempel demonstrera denna tidseffekt, föreslog
+Einstein  ett tankeexperiment där en av två tvillingar gav sig
+ut på en  lång rymdresa med hög hastighet.   Enligt denna ide'
+skulle då den resande  brodern åldras  mindre än den på jorden
+kvarvarande brodern.  Kritiker angrep genast detta exempel med
+att fullt riktigt säga,  att det inte  gick att avgöra vem det
+var som var på resa eftersom all rörelse enligt teorin är rela-
+tiv.  Därvid upopstog en självmotsägelse, en paradox. Istället
+för att dra de rätta konsekvenserna av detta misslyckande, dvs
+att  ogiltigförklara  teorin, har teorins  anhängare vidhållit
+att  Einsteins  exempel enbart  har blivit feltolkat.  Man har
+därför för att rädda teorin lagt till ytterligare ett kriteri-
+um,  nämligen accelerationen. Den resande brodern befinner sig
+i ett  system som är  mera accelererat  än det jorden befinner
+sig i och av denna anledning går hans livsprocesser och klocka
+långsammare. Men det blir problem, för det första  är detta en
+helt annan teori  än den Einstein föreslog,  en helt annan fy-
+sikalisk  orsak till tidsdilationen (om den nu existerar). Men
+detta bekymrar tydligen inte relativisterna alls.För det andra
+är det  fysikaliskt omöjligt  att avgöra om ett föremål är mer
+eller mindre accelererat, det enda som går att mäta är föremå-
+lets hastighet relativt det  förra. Och  för det tredje så kan
+vi aldrig  veta i vilket  accelerationstillstånd jorden befann
+sig vid tillfället ifråga. Om raketen startade åt fel håll kan
+det ju lika oturligt visa sig att raketen blev mindre accelere-
+rad totalt sett än före uppskjutningen. Och för det fjärde kan
+vi ganska  enkelt helt  avfärda hela denna  ide'genom att låta
+båda tvillingarna  starta var sin  färd men i motsatt riktning
+och med samma grad av acceleration.  Då uppstår ett garanterat
+symmetriskt  system och trots  den stora  relativa hastighets-
+skillnaden kommer garanterat ingen tidsskillnad att kunna upp-
+stå.
+
+
+ATOMKLOCKOR
+
+Under åtskilliga år har atomklockor varit i bruk lite överallt
+på jorden, framför allt för vetenskapliga ändamål men även för
+att kunna skapa en allmän och övergripande, pålitig tidmätning.
+Dessa  klockor är mycket exakta och stabila, det rör sig om en
+maximal  felavvikelse av i storleksorningen 1 sekund på 30 000
+år.  Om Einsteins förutsägelse vore korrekt skulle det  uppstå
+en ackumulerad effekt hos klockor utplacerade på olika punkter
+utmed  jordytan. Men några sådana effekter har aldrig observe-
+rats, Einstein förutspådde en effekt av faktorn 1/2.t.(v/c)(2).
+Men som alltid har  relativisterna ursäkter  för att saker och
+ting inte alltid blir exakt så som teorin föreskriver. Man an-
+ser att  effekten finns  men att den  tas ut av  diverse andra
+effekter skapade genom jordens rotation,  således effekter som
+behandlas i den allmänna relativitetsteorin. Men den ursprung-
+liga predikteringen av tidsdilation var hämtad från den speci-
+ella teorin, således orsaken till tidsdilationen av atomklock-
+or skulle inte längre vara av den orsak som Einstein från bör-
+jan predikterade. Så egentligen är det en annan teori som  man
+‹dag försvarar  som inte har mycket att göra med Einsteins ur-
+sprungliga intentioner.
+
+
+LÄNGD-KONTRAKTION
+
+Längdkontraktion av fysiska objekt som funktion av relativ rö-
+relse är en  annan meningslös "fysikalisk" effekt som föreslås
+av teorin.  Det egentliga ursprunget till denna tanke emanerar
+från Michelson Morelys experiment och då Lorent FitzGerald någ-
+ra år senare försökte  lösa ett filosofiskt ploblem förknippat
+med detta experiment. Man ville finna en förklaring till orsa-
+ken till varför utfallet av detta experiment gav noll-resultat
+i enlighet med ljusets eterteorier, och man föreslog att längd-
+förändringar uppstog  av mätarmarna  i apparatens rörelserikt-
+ning. Den fysikaliska motivationen till denna längdkontraktion
+skulle vara att etern verkade med ett tryck som fick mätarmar-
+na att bli kortare i rörelseriktningen.  Uppenbarligen var det
+dessa ider  som inspirerade Einsteins att införa längdkontrak-
+tion i sin teori, dock märkligt nog genom att samtidigt elimi-
+nera den fysikaliska orsaken till fenomenet, existencen av en
+eter, och ersätta den med ett meningslöst ingenting.
+
+Experiment har utförts  i avsikt att kunna verifiera existens
+av längdkontraktion,men av ganska självklara orsaker är detta
+omöjligt eftersom den  mätstav man besitter kommer att utsät-
+tas för samma grad  av kontraktion  som det  objekt man söker
+mäta.  Även övertygade  relativister  har naturligtvis insett
+detta men använder  detta som ett  argument för att teorin är
+riktig.  Effekten existerar givetvis  säger de,  men eftersom
+mätstavarna  förändras i samma  takt så kan vi inte konstate-
+ra längdkontraktion som en fysikalisk mätbar förändring.
+
+Men längdkontraktion existerar  om man försöker  mäta längden
+på något som befinner sig i  ett annat referenssystem som rör
+sig i relation till mätsystemet. Man kan beskriva det på föl-
+jande sätt:
+
+          En person i system A observerar ett
+          känt föremål  i system B och finner
+          att föremålet i B  är kortare  än i
+          det egna systemet.
+
+          En person i system B observerar ett
+          känt föremål  i system A och finner
+          att föremålet  i A är  kortare än i
+          det egna systemet.
+
+Där framgår här ganska  tydligt att det  inte är fråga om någon
+verklig  förändring  av föremål,  utan enbart en skenbar föränd-
+ring orsakat av att det betraktade föremålet ifråga blir distor-
+derat genom att det ljus som förmedlar bilden av föremålet till
+betraktaren,  konsumerar tid.  Om det vore  fråga om en verklig
+förändring  så skulle  denna förändring  aldrig kunna upptäckas
+eftersom  förändringen är  symmetrisk för de båda systemen, och
+därmed  ur fysikalisk utgångspunkt  ointressant. Dessutom finns
+ingen fysikalisk orsak  att hänvisa  till vad gäller en verklig
+förändring, endast en skenbar förändring kan motiveras.
+
+
+SAMTIDIGHET
+
+En av  de mest underliga och perversa resultat av relativitets-
+teorin är kanske den om samtidighet och hur man ser på en fysi-
+kalisk händelse.  Teorin säger,  att en och samma händelse inte
+är densamma  för två obeoende observatörer som rör sig relativt
+varandra med en viss hastighet.
+
+Det är även här  tydligt att  motivationen till  detta ligger i
+det faktum att information kräver tid, dvs de  olika observatö-
+rerna uppfattar händelsen vid olika tidpunkter beroende av sina
+egenrörelser.  Informationen om  händelsen transporteras  ju av
+ljusstrålar och eftersom denna transport konsumerar tid uppfat-
+tas en och samma händelse som olika händelser av olika observa-
+törer.
+
+Visst är väl detta  ett mycket  underligt sätt att betrakta vår
+värld,  att händelser av olika slag enbart skulle vara illusio-
+ner.  De flesta människor som råkar ut för både det ena och det
+andra, både lycka och sorg, skulle nog bli ganska betänkliga om
+någon framförde dylika  åsikter i deras personliga närvaro, att
+deras upplevelser endast är inbillning och egentligen ingenting
+verkligt. Människor och även annat levande på denna jord upple-
+ver faktisk  saker och ting  som verkliga  och vi kan inte utan
+att överskrida gränsen till det löjliga påstå något annat.  Men
+i relativitetsteorin är  således detta en realitet och en accep-
+terad uppfattning.
+
+Och om vi inte tolkar denna hypotes på detta sätt. dvs att hän-
+delser enbart  är inbillade,  utan att  en och samma händelse i
+verkligheten  är många  olika  händelser,  ja då överskrider vi
+gränset  till det absurda.  Vi ger ett lite extremt exempel för
+att illustrera  detta : US  president  J.F.Kennedy  mördades  i
+Dallas USA  den  22:e november  1963. Nyheten om denna händelse
+spreds med  ljusets  hastighet via  radio och  television  till
+alla jordens  innevånare,  men dock inte samtidigt. Om vi skall
+tillämpa  Einsteins  hypotes  om  händelser,  skulle  mordet  i
+Dallas  egentligen inte  vara ett mord utan lika många mord som
+de människor  som senare  fick höra  talas om mordet ifråga (ca
+maximalt 8 miljarder  individer).  Visst är  detta absurt,  men
+hur som helst  så är det  dylika tankar  som den moderna veten-
+skapen omger sig med.
+
+
+LJUSETS ABSOLUTA HASTIGHET
+
+En annan  mycket  märklig effekt  av relativitetsteorin  är att
+hastigheter inte kan adderas  aritmetriskt. Om som exempel  två
+bilar  kör med 100 km/timma på en väg,  ja då blir den relativa
+hastigheten  dem emellan 200 km/timma, detta enligt normala be-
+beräkningsmetoder.  I relativitetsteorin  är även detta riktigt
+vid  låga hastigheter,  men då  hastigheterna  börjar närma sig
+ljusets hastighet gäller ej detta längre. Man kan då inte adde-
+ra hastigheter aritmetriskt.Orsaken till detta var givetvis att
+då Einstein postulerat att det existerar en högsta hastighet,c,
+ja då  uppstod en konflikt då två föremål som var för sig rörde
+sig med hestigheten, c, relativt en gemensam punkt. Enligt nor-
+malt  sätt att räkna  skulle det bli  2*c vilket helt uppenbart
+var orimligt. Einstein var därför tvingad att konstruera en hy-
+potetisk  formel som  alltid gav  den maximala  hastigheten, c,
+oberoende av de individuella kropparnas hastigheter. Men natur-
+ligtvis är allt detta ren fiction att konstruera egenskaper hos
+naturen som näst intill omöjlighet ej kan verifieras.
+
+
+MASSÖKNING
+
+Som här redan nämnts  vid granskningen av denna teori, upptäck-
+tes fenomenet  massökning av  partiklar som  accelererats i ett
+elektromagnetiskt fält genom experiment redan 1901. Således var
+detta fenomen inte en förutsägelse av  relativistetsteorin, som
+faktisk många tror, utan inlemmades i teorin senare. Före detta
+hade  dessutom  många andra forskare  härlett olika teorietiska
+uttryck för denna  massökning (om det nu är en sådan vilket det
+torts  allt förefaller),  uttryck som var härledda från en mera
+Newtonsk  världsbild men som senare uppträder i Einsteins teori
+härledda från andra  utgångspunkter.  Den  fysikaliska  orsaken
+till fenomenet är inte klarlagt,det förefaller vara någon elekt-
+romagnetisk effekt som uppträder  vid acceleration  av  laddade
+partiklar  men det  finns ingen  anledning att tro att effekten
+skulle vara föranledd av  rent filosofiska, spekulativa orsaker
+så som det beskrives i relativitetsteorin.
+
+Så, oavsett vad orsaken till massökningsfenomenet är kan vi va-
+ra  säkra på  att det  inte har något  med  relativitetsteorins
+tolkningar att  göra.  Vid ett  studium  av den teoretiska bak-
+grunden  finner  vi  nämligen  att det  till  största  delen är
+Newtons  masströghetslagar som  användes och att det således är
+dessa  fundamentala lagar  som eventuellt kan förklara effekten
+ifråga.
+
+
+RELATIVISTISK DOPPLEREFFEKT
+
+När en ambulans passerar en person som står stilla på gatan hör
+han en stigande ton då  ambulansen närmar  sig och en  fallande
+ton då den fjärmar sig.  Fenomenet ifråga benämnes med doppler-
+effekt efter upptäckaren Christian Doppler. Effekten bygger ur-
+sprungligen  på  förutsättningen att ett medium finns som tran-
+sporterar vågenergin, i detta fall ljudets energi. Men för ljus
+existerar ingen  eter (det trodde man förr men officiellt anser
+man numera att något sådant inte finns).  Så därmed faller fak-
+tiskt möjligheten bort att förklara ljusets frekvens/våglängds-
+skift som just en dopplereffekt. Tyvärr har relativisterna inte
+insett detta, eller kanske rättare sagt,  inte velat inse detta
+eftersom dom då står helt  utan förklaring till fenomenet ifrå-
+ga. Men Einsteins  anhängare  anser fortfarande  att det är ett
+enkelt företag att förklara  effekten samtidigt  som ljusvågens
+hastighet är konstant  och inte påverkas av ljuskällans rörelse.
+Inplicit tror  man att  effekten kan förklaras ungefär på samma
+sätt som  ljud  i luft.  Men två  fysikaliska  förutsättgningar
+har bortfallit,  nämligen att det inte finns någon ljuseter och
+att ljusets  hastighet  är konstant.  Om  ljuskällan  är i vila
+kan man inte  motivera  ett frekvensskift eftersom ljusets has-
+tighet  relativt observatören  inte förändras.  Detsamma gäller
+om ljuskällan  rör sig.  Då  relativister  försöker härleda ut-
+tryck för  dopplereffekten  finner man  att man  implicit utgår
+ifrån att  c varierar  (man skriver sålunda c+-v)  men erkänner
+verbalt inte att det förhåller sig så.
+
+
+
+EINSTEINS GRAVITATION
+
+I Einsteins  teori är  gravitationen  ingen verklig  kraft utan
+bara en krökning i rumtiden. Som exempel, en planet som rör sig
+runt en annan planet följer ett spår i rumtiden, den minsta mot-
+ståndet lag.  Enligt detta  synsätt kan  det vara lite märkligt
+att förstå  varför då även ett  föremål som befinner sig i vila
+på  jordytan  påverkas  av  gravitation.  Och om  vi exempelvis
+trycker ihop en stålfjäder med en tyngd,  så är det ingen kraft
+som  trycker ihop  fjädern,  men däremot  utvecklas en kraft då
+fjädern  återigen  utvidgar sig. På detta sätt har således Ein-
+stein upphävd  en av  fysikens mest  tillförlitliga och prövade
+lagar,  nämligen att  energi varken  kan  skapas eller förintas.
+Synd bara att  Einstein  anhängare inte praktiskt utnyttjar sin
+eminenta teori,  ja då vore  ju energikrisen  i världen  snabbt
+avhjälpt.
+
+
+                    ****** end *******
+
+

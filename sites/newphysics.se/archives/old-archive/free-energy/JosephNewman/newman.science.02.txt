@@ -1,0 +1,163 @@
+
+   Source	: SCIENCE, 16 Nov. 1984, p. 817
+   Title	: An Endless Siege of Implausible Inventions
+   Author	: R. Jeffrey Smith
+   
+   In the modern world of commerce, the U.S. patent and trademark office
+   is a street-corner cop with the power to arrest de development of any
+   product that promises the impossible. Its book of statutes contains
+   the basic laws of physics, the axioms of mathematics, the fundamental
+   principles of mechanical engineering. With paticular enthusiasm, its
+   employees serve as guardians of the public in a never-ending battle
+   against mechanical devices allegedly capeable of perpetual motion.
+   
+   This, at least, is how they see themselves. Invetors such as Joseph
+   Newman are more apt to view them sa "a bunch of narrow-minded people
+   who have conducted themselves outside the federal law and the human
+   race." For more than 5 years, Newman, 48, has been frustrated in his
+   efforts to obtain a patent for an "Energy System Having Higher Output
+   Than Input." In 1982, the patant office told him that because such a
+   devive is simply infeasible, his application was denied after
+   something less than a comprehensive, time-consuming review (Science,
+   10 Ferbruary [1984], p. 571).
+   
+   Recently, however, with the help of some unexpected scientific
+   endorsements, Newman persuaded th U.S. District Court in Washington,
+   D.C., to order that his application be granted a full review by an
+   examiner - in short, a second chance. Newman believes that the
+   decision is a slap in the face for the patant office and a partial
+   vindication of his claims. Actually, the dispute reveals how easy it
+   can be for inventors to jerk the patant office around. The ruling,
+   made by Judge Thomas Jackson on 31. October, places the office in the
+   difficult position of determining whether Newman's "energy generation
+   system" -- a powerful electric motor -- is adequately described in his
+   application, and whether it is similar or identical to motors with
+   existing patants. Neither topic was given serious consideration on the
+   first go-around, for reasons the patent office believes obvious.
+   
+   The decision resulted from an unusual hearing in which a phalanx of 
+   attorneys in Newman's employ repeatedly cited patent case law, while
+   Jere Sears, deputy solicitor in the patent office, repeatedly invoked
+   the second law of thermodynamics. In its essence, that law states that
+   the energy produced by a mechanical device such as Newman's woill
+   always be less than the energy needed to opeate it. In addition to
+   basing the case on "all of recorded science", as Sears put it, he
+   relied heavily on an affidativ from Jacod Rainbow, a former chief
+   research engineer at the National Bureau of Standards and well-known
+   debunker of perpetual motion machines. Rainbow has several objections
+   to the patent application, but his primary claim is that the motor's
+   output of energy has been measured incorrectly. Although he has not
+   seen the device or tested himself, he is willing to bet "any money"
+   that it operates at well under 100 percent efiicency.
+   
+   As strong as the gouverment's argument was, it was sharply undercut by
+   two affidatives. One was written by Mort Zimmerman, the president of
+   Commercial Technology, Inc., in Dallas. Zimmerman said his 400-person
+   firm "has independently ... constructed, operated, and tested several
+   crud prototype devices based on th Newman invention, and has
+   confirmed for itself that these prototype devices which embody the
+   Newman invention operate and produce power as claimed by Newman" at
+   more than 111 percent efficiency. Zimmerman was enthusiastic enough to
+   purchase an option for the right to manufacture and sell Newman's
+   motor in north Texas. (Recently, he told SCIENCE that the motor "needs
+   further development for prctical utilization, and we're not completely
+   convinced that we can get there.")
+   
+   The second affidativ was prepared from Lawrence E. Wharton, a
+   physicist in the Laboratory For Atmospheric Sciences at the Goddart
+   Flight Space Center in Maryland. Initially, Wharton, who volunteered his
+   services to the patent office as a sceptic of Newman's claims,
+   vigorously attacked Zimmerman's statement. Shortly before the court hearing,
+   however, he recanted some of his arguments, and declared that the motor's 
+   efficiency "is in substantial excess of 100 percent" and perhaps as
+   high as 600 percent, if Newman's measurements are correct. The change of
+   heart came, he said, after Newman argued with him in a long telephone
+   conversation.
+   
+   Both of these statements apparently made a strong impression on
+   William Schuyler, an attorney and one-time commissioner of U.S.
+   patents who was appointed by the judge as a "special master" to help
+   resolve some of the technical disputes. In his report, Schuyler agreed
+   that the operation of Newman's motor "seems clearly to conflict with
+   recognized scientific principles relating to thermodynamics and
+   conservation of energy." But he insisted ther was an "overwhelming"
+   evidence that the motor's output energy exceeded the external input
+   energy, adding that "there is no contradictory factual evidence." He
+   went so far as to state that Newman was entitled to a patent as long as
+   it did not conflict with any existing patents.
+   
+   All of this came as a great shock to Sears. It was he, not Newman, who
+   nominated Schuyler. "We felt reasonably safe with aperson of his
+   background," he explains. In a final pleading to the judge, Sears
+   asked, "Why are we still paying power bills if Nwman has actually
+   achieved his claims? The Court should exercise some common sense and
+   refrain from joining those who apparently believe in the tooth
+   fairy... Manifestly, this court has no power to abrogate a natural
+   law."
+   
+   In his ruling, Judge Jackson accepted the major points of Schuyler's
+   report, but said he was unwilling to conclude as yet that Newman has
+   produced a "truly pioneering invention." That decision awaits aanother
+   hearing, now set for January. Sears denies that this decision has any
+   implications for the general patent review process. But one effect may
+   be to bar the office from dealing summarily whith such unusual
+   claimsin the future -- a development that could sharply increase the
+   examination delays experienced by inventors with more plausible
+   claims.
+   
+   To Newman, the dispute has become a crusade. Having spent thousands of
+   dollars already in lawyer's fees, consulting fees, and court costs, he
+   will soon pay to publish a book describing both his invention and the
+   patent fight. He says that "the world is fortunate that I'm not afraid
+   of a ruckus, I intend to fight this untill hell freezes over."
+   
+   --------------------------[ end of document ]-----------------------
+   
+   -------------------------[ start of document ]----------------------   
+                   Copyright 1986 Information Access Company;
+        Copyright American Association for the Advancement of Science
+                                    Science
+
+                                 July 11, 1986
+
+SECTION: Vol. 233 ; Pg. 154; ISSN: 0036-8075
+HEADLINE: Newman's " energy  output" machine put to the test;  Joseph Newman
+BYLINE: Sun, Marjorie
+BODY:
+
+   Newman's " Energy  Output" Machine Put to the Test
+
+    What's a device with a battery pack, a magnet, and a coil wired together?
+For the past 6 years,  Joseph Newman,  an inventor from Mississippi, has been
+loudly proclaiming that it's a revolutionary machine which produces more power
+than it uses.  The National Bureau of Standards recently issued its own verdict
+after analyzing Newman's machine: "In none of tests did the device's approach
+100%....  Our results are clear and unequivocal," the bureau said.
+
+    Newman has gone to great lengths to try to win a patent on his  energy
+output machine.  When the U.S.  Patent and Trademark Office indicated in 1984
+that the device did not work, Newman sued the agency.  He hired a publicist, andthe media often portrayed him as an underdog pitted against the scientific
+establishment.  Then the court ordered Newman to submit the machine to the
+National Bureau of Standards for testing.  Newman reluctantly complied.
+
+    A physicist and two electrical engineers from the bureau tested the machine
+in a variety of ways to measure its  energy  input and output and used
+instrumentation that is common in research engineering laboratories.  The sole
+power source of the device was 116 9-volt batteries.  According to the test
+results, the device's efficiency ranged from 27 to 67%, depending on the
+voltage, the power drawn from the device, and the condition of insulating tape
+on one of the parts.  (The tape kept burning from sparks generated by the
+machine, which caused the efficiency to drop and had to be replaced frequently.)
+    According to John Lyons, director of the bureau's National Engineering
+Laboratory, the device basically converted direct current to alternating
+current.  He noted that there are several machines already on the market that dothe same thing, but they run at 90% efficiency or higher.
+    Newman had court permission to observe the bureau's tests, but never
+appeared for any of the experiments, which were conducted between March and
+June.  His spokesman Evan Soule said Newman will ask the court to order the
+testing of the test equipment.  Newman said in an interview, "I have no respect
+for the National Bureau of Standards.  This is a conspiracy against me."
+
+    The testing cost the bureau $ 75,000, which it hopes to recoup from the
+patent office.  The patent office will submit the results to U.S.  District
+Court for the District of Columbia, which will try the case in December.
+

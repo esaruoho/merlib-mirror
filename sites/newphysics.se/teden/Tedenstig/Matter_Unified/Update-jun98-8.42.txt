@@ -1,0 +1,1164 @@
+////////////////////////////////////////////////////////
+Matter Unified by O. Tedenstig, 1998
+Obs : This page (8.42) has been some reworked and
+        edited 23/6- 1998 compared with the original
+        paper
+/////////////////////////////////////////////////////////
+
+
+============================================8.42A
+                            3
+       M= me.(k.pi.n)             where  k= 1 normal
+                                         n= integer 1,2,3...
+                                         pi= 3.141592...
+                                         me= 0.51099 Mev
+===============================================
+The exact value of the constant
+Kt  shall  be somewhere  in the
+area of 2*Pi but  may vary from
+particle  to  particle. Kt=2.Pi
+(3.20C), a norm value for half-
+integer values of n.The formula
+has been  transformed to  fully
+integers of n.
+
+
+
+Q nr    Mass from                Corr value
+          experiments              Unit   of k       Comment
+-----------------------------------------------------------------
+1     16         -         Mev      -                    *****
+2     105.65839  u    Mev     0.941127        common well known
+3     493.646     K    Mev     1.051727        common well known
+4     938.27231  p    Mev     0.974450        common well known 
+5     1784.1      Tau  Mev     0.965783        common well known
+6     2.976        nc   Gev      0.954871        common well known
+7     5.26          B    Gev      0.987142        *
+8     8.3           zeta Gev      1.007657        *,x
+9     11.5  predicted Gev      -                    **
+10    15.8      "          -                              **
+11    21.1      "          -                              **,xx
+12    27.4      "          -                              **
+13    34.8      "          -                              xx
+14    43.4      "          0.997973                 ***,xx
+15    53.4      "          -
+16    64.8      "          -
+17    81.0      W          1.013342               **** (77.8 Gev)
+18    92.4      Z          0.999883                 ****
+
+
+1 Gev = 1000 000 000 electron volts
+1 electron volt is the energy  used  when transporting
+  a unit charge
+  through an electric field with a voltage drop of 1 volt.
+1 electron mass = 51099 electron volts
+
+(*)      For B see New Scientist 14th of april 1983
+(*)      For zeta see New Scientist 16th of august 1984
+(**)     See New Scientist 11th of september 1980
+(***)    See New Scientist 25th of may 1984
+(***)    For Z and W see Particle Data booklet april 1988, CERN
+(*****)  See New Sceintist 11 Febr 1995/p14,15 )
+
+(x)
+>From the internet web :
+DESY-PETRA. Measurement of event shapes and determination
+of alpha_s
+using data taken with the JADE experiment from 1981 to 1986.
+The centre-of-mass energies covered are
+22, 35 and 44 GeV. The jet identification uses the Durham
+alogrithm.
+
+(xx)
+>From the Internet web :
+ZETA NOT A HIGGS: TOO BAD!
+
+It should have been a Higgs particle but it wasn't---at
+least not quite.  So they called it a zeta.
+About eight times the mass of a proton, the zeta particle
+was created when electrons and positrons collided at about 10 Gev 
+(gigavolts of energy), where it appeared among the decay
+products of the upsilon particle. Physicists needed a
+Higgs particle to bolster the latest theory of particles.
+Unfortunately, the zeta's properties don't quite match those
+predicted for the Higgs particle.  There are similarities,
+but at the moment the zeta is definitely anomalous.
+It turns out that there is a similar anomalous particle
+produced by the decay of psi particles, so the zeta is not alone. 
+
+(Thomsen, Dietrick E.; &quot;Zeta Particle: Physicists'
+New Mystery; Science News, 126:84, 1984.)
+
+It is easy to become jaded by all the confusing
+particles flying around physics labs these days.  But we must
+appreciate that physicists absolutely must find that
+Higgs particle.  Theory says that if the Higgs doesn't exist,
+all other particles will have either zero or infinite masses,
+neither of which makes much sense. Such is the power of
+theoretical expectations.
+
+Science Frontiers #36, NOV-DEC 1984</a>. © 1997 William
+R. Corliss
+
+ 
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   8.42
+--------------------------------------------------------------------- 
+
+
+
+More references to measuring results in the area of 
+---------------------------------------------------------------
+10 - 100 Gev (appr).
+-------------------------
+
+Inclusive Particle Production Data in e+ e-
+Annihilation
+--------------------------------------------------------
+
+This is an archive of experimental data on
+inclusive particle
+production in e+ e- interactions.  Data are
+given in both
+tabular and graphical form for multiplicities
+and inclusive differential
+cross sections from experiments at all of the
+world's high energy e+ e-
+colliders.
+
+Charged particle multiplicity distributions
+
+HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+charged/ALEPH/latest>
+ALEPH (Buskulic   1995 Preprint
+CERN-PPE-96-186)
+HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+charged/AMY/latest>
+AMY (Zheng   1990 Phys. Rev. D42, 737)
+HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+'charged/DELPHI/latest>
+DELPHI (Abreu   1995 Zeit. Phys.
+C50, 185)
+HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+charged/HRS/latest>
+HRS (Derrick   1986 Phys. Rev.
+D34, 3304)
+HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+charged/L3/latest>
+L3 (Adeva   1992 Zeit. Phys. C55, 39)
+HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+charged/OPAL/latest>
+OPAL (Acton   1992 Zeit. Phys. C53, 539)
+HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+charged/TASSO/latest>
+TASSO (Braunschweig   1989 Zeit. Phys.
+C45, 193)
+
+
+
+Integrated Multiplicities for:
+
+
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/charged/latest>
+ e+ e- --> charged X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/gamma/latest>
+ e+ e- --> gamma X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/pi+-/latest>
+ e+ e- --> pi+- X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/pi0/latest>
+ e+ e- --> pi0 X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/eta/latest>
+ e+ e- --> eta X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/rho/latest>
+ e+ e- --> rho(770)0 X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/omega782/latest>
+ e+ e- --> omega(782) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/etapr/latest>
+ e+ e- --> etaprime(958) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/f0980/latest>
+ e+ e- --> f0(980) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/phi/latest>
+ e+ e- --> phi(1020) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/f21270/latest>
+ e+ e- --> f2(1270) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/K+-/latest>
+ e+ e- --> K+- X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/K0/latest>
+ e+ e- --> K0 (Kbar0) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/K892+-/latest>
+ e+ e- --> K*(892)+- X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/K8920/latest>
+ e+ e- --> K* (Kbar*) (892)0 X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/K21430/latest>
+ e+ e- --> K2* (K2bar*) (1430)0 X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/D+-/latest>
+ e+ e- --> D+- X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/D0/latest>
+ e+ e- --> D0 (Dbar0) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/D2010+-/latest>
+ e+ e- --> D*(2010)+- X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/Jpsi/latest>
+ e+ e- --> J/psi X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/chi/latest>
+ e+ e- --> chi(c1) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/psi/latest>
+ e+ e- --> psi(3685) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/p/latest>
+ e+ e- --> p (pbar) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/delta/latest>
+ e+ e- --> Delta(1232)++ (Delta(1232)--) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/lambda/latest>
+ e+ e- --> Lambda (Lambdabar) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/sig1385/latest>
+ e+ e- --> Sigma(1385)+- (Sigmabar(1385)+-) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/sig+-/latest>
+ e+ e- --> Sigma+- (Sigmabar+-) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/xi/latest>
+ e+ e- --> Xi- (Xibar+) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/xi1530/latest>
+ e+ e- --> Xi(1530)0 (Xibar(1530)0) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ integrated/omega/latest>
+ e+ e- --> Omega- (Omegabar+) X
+
+Differential cross sections
+
+ e+ e- --> charged X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TASSO/latest_12>
+ TASSO 12 GeV (Brandelik   1982
+ Phys. Lett. 114B, 65)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TASSO/latest_13>
+ TASSO 13 GeV (Brandelik   1980 Phys.
+ Lett. 89B, 418)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TASSO/latest_14a>
+ TASSO 14 GeV (Brandelik   1982 Phys.
+ Lett. 114B, 65)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TASSO/latest_14b>
+ TASSO 14 GeV (Braunschweig   1990
+ Zeit. Phys. C47, 187)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TASSO/latest_17>
+ TASSO 17 - 22 GeV (Brandelik   1980
+ Phys. Lett. 89B, 418)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TASSO/latest_22a>
+ TASSO 22 GeV (Brandelik   1982 Phys.
+ Lett. 114B, 65)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TASSO/latest_22b>
+ TASSO 22 GeV (Braunschweig   1990
+ Zeit. Phys. C47, 187)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TASSO/latest_25>
+ TASSO 25 GeV (Brandelik   1982 Phys.
+ Lett. 114B, 65)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TASSO/latest_27>
+ TASSO 27.4 - 31.6 GeV (Brandelik 1980 Phys.
+ Lett. 89B, 418)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TASSO/latest_30>
+ TASSO 30 GeV (Brandelik   1982 Phys.
+ Lett. 114B, 65)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TASSO/latest_29>
+ TASSO 29.9 - 36.7 GeV (Brandelik 1982 Phys.
+ Lett. 114B, 65)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TASSO/latest_34a>
+ TASSO 34 GeV (Brandelik   1982 Phys.
+ Lett. 114B, 65)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TASSO/latest_34b>
+ TASSO 34 GeV (Althoff   1984 Zeit.
+ Phys. C22, 307)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TASSO/latest_35a>
+ TASSO 35 GeV (Brandelik   1982 Phys.
+ Lett. 114B, 65)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TASSO/latest_35b>
+ TASSO 35 GeV (Braunschweig   1990
+ Zeit. Phys. C47, 187)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TASSO/latest_44>
+ TASSO 44 GeV (Braunschweig   1990
+ Zeit. Phys. C47, 187)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TPC/latest_29>
+ TPC 29 GeV (Aihara   1988 Phys.
+ Rev. Lett. 61, 1263)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/MARKII/latest_29a>
+ MARK-II 29 GeV (Patrick   1982
+ Phys. Rev. Lett. 49, 1232)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/MARKII/latest_29b>
+ MARK-II 29 GeV (Petersen   1988 Phys.
+ Rev.  D37, 1)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/HRS/latest_29>
+ HRS 29 GeV (Bender   1985 Phys. Rev.
+ D31, 1)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/AMY/latest_52>
+ AMY 52 - 57 GeV (Li   1990 Phys.
+ Rev. D41, 2675)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/TOPAZ/latest_58>
+ TOPAZ 58 GeV (Itoh   1995 Phys.
+ Lett. 345B, 335)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/SLC/latest_91>
+ SLC 91.2 GeV (Abrams   1990 Phys.
+ Rev. Lett. 64, 1334)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/ALEPH/latest_91a>
+ ALEPH 91.2 GeV (Buskulic   1992
+ Zeit. Phys. C55, 209)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/ALEPH/latest_91b>
+ ALEPH 91.2 GeV (Buskulic   1995
+ Phys. Lett. 357B, 487)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/ALEPH/latest_91c>
+ ALEPH 91.2 GeV (Barate   1996
+ CERN-PPE-96-186)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/DELPHI/latest_91a>
+ DELPHI 91.2 GeV (Aarnio   1990
+ Phys. Lett. 240B, 271)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/DELPHI/latest_91b>
+ DELPHI 91.2 GeV (Abreu   1993
+ Phys. Lett. 311B, 408)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/DELPHI/latest_91c>
+ DELPHI 91.2 GeV (Abreu   1996
+ CERN-PPE-96-120)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/DELPHI/latest_133>
+ DELPHI 133 GeV (Abreu   1996
+ CERN-PPE-96-130)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/L3/latest_91>
+ L3 91.2 GeV (Adeva   1991 Phys.
+ Lett. 259B, 199)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/L3/latest_91b>
+ L3 91.2 GeV (Adeva   1991 Phys.
+ Lett. 259B, 199)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/OPAL/latest>
+ OPAL 91.2 GeV (Akrawy   1990 Phys.
+ Lett. 247B, 617)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/DELPHI/latest_91d>
+ OPAL 91.2 GeV (Akers   1995 Zeit.
+ Phys. C68, 203)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/charged/OPAL/latest_133>
+ OPAL 133 GeV (Alexander   1996
+ Zeit. Phys. C72, 191)
+
+ e+ e- --> gamma X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/gamma/CELLO/latest_14>
+ CELLO 14 GeV (Behrend   1983 Zeit.
+ Phys. C20, 207)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/gamma/CELLO/latest_22>
+ CELLO 22 GeV (Behrend   1983 Zeit.
+ Phys. C20, 207)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/gamma/CELLO/latest_34>
+ CELLO 34 GeV (Behrend   1983 Zeit.
+ Phys. C20, 207)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/gamma/CELLO/latest_35>
+ CELLO 35 GeV (Behrend   1990 Zeit.
+ Phys. C47, 1)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/gamma/JADE/latest_14>
+ JADE 14 GeV (Bartel   1985 Zeit.
+ Phys. C28, 343)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/gamma/JADE/latest_22>
+ JADE 22.5 GeV (Bartel   1985 Zeit.
+ Phys. C28, 343)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/gamma/JADE/latest_34>
+ JADE 34.4 GeV (Bartel   1985 Zeit.
+ Phys. C28, 343)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/gamma/JADE/latest_35>
+ JADE 35 GeV (Pitzl   1990 Zeit.
+ Phys. C46, 1)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/gamma/JADE/latest_44>
+ JADE 44 GeV (Pitzl   1990 Zeit.
+ Phys. C46, 1)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/gamma/ALEPH/latest_91>
+ ALEPH 91.2 GeV (Barate   1996
+ CERN-PPE-96-186
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/gamma/TPC/latest_29>
+ TPC 29 GeV (Aihara   1985 Zeit. Phys.
+ C27, 187)
+
+
+
+ e+ e- --> pi+- X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi+-/TASSO/latest_12>
+ TASSO 12 GeV (Brandelik   1980
+ Phys. Lett. 94B, 444)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi+-/TASSO/latest_14>
+ TASSO 14 GeV (Althoff   1983 Zeit.
+ Phys. C17, 5)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi+-/TASSO/latest_22>
+ TASSO 22 GeV (Althoff   1983 Zeit.
+ Phys. C17, 5)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi+-/TASSO/latest_30>
+ TASSO 30 GeV (Brandelik   1980
+ Phys. Lett. 94B, 444)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi+-/TASSO/latest_34>
+ TASSO 34 GeV (Braunschweig 1989 Zeit. Phys.
+ C42, 189)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi+-/TASSO/latest_44>
+ TASSO 44 GeV (Braunschweig 1989 Zeit. Phys.
+ C42, 189)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi+-/TPC/latest_29a>
+ TPC 29 GeV (Aihara   1984 Phys.
+ Rev. Lett. 52, 577)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi+-/TPC/latest_29b>
+ TPC 29 GeV (Aihara   1988 Phys.
+ Rev. Lett. 61, 1263)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi+-/HRS/latest_29>
+ HRS 29 GeV (Derrick   1987 Phys.
+ Rev. D35, 2639)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi+-/TOPAZ/latest_58>
+ TOPAZ 58 GeV (Itoh 1995 Phys. Lett. 345B, 335)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi+-/ALEPH/latest_91>
+ ALPEH 91.2 GeV (Buskulic 1995 Zeit. Phys. C66,
+ 355)
+ (Barate 1996 CERN-PPE-96-186)
+ REF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi+-/OPAL/latest_91>
+ OPAL 91.2 GeV (Akers   1994 Zeit.
+ Phys.  C63, 181)
+
+
+
+ e+ e- --> pi0 X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/CELLO/latest_14>
+ CELLO 14 GeV (Behrend   1983 Zeit.
+ Phys. C20, 207)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/CELLO/latest_22>
+ CELLO 22 GeV (Behrend   1983 Zeit.
+ Phys. C20, 207)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/CELLO/latest_34>
+ CELLO 34 GeV (Behrend 1983 Zeit. Phys. C20, 207)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/CELLO/latest_35>
+ CELLO 35 GeV (Behrend   1990 Zeit. Phys. C47, 1)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/JADE/latest_14>
+ JADE 14 GeV (Bartel   1985 Zeit. Phys. C28, 343)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/JADE/latest_22.5>
+ JADE 22.5 GeV (Bartel   1985 Zeit. Phys. C28, 343)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/JADE/latest_34.4>
+ JADE 34.4 GeV (Bartel   1985 Zeit. Phys. C28, 343)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/JADE/latest_35>
+ JADE 35 GeV (Pitzl   1990 Zeit. Phys. C46, 1)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/JADE/latest_44>
+ JADE 44 GeV (Pitzl   1990 Zeit. Phys. C46, 1)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/TASSO/latest_14>
+ TASS0 14 GeV (Brandelik   1982 Phys. Lett. 108B, 71)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/TASSO/latest_34>
+ TASS0 34 GeV (Brandelik   1982 Phys. Lett. 108B, 71)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/TASSO/latest_34.6>
+ TASS0 34.6 GeV (Braunschweig   1986 Zeit. Phys.
+ C33, 13)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/TASSO/latest_44>
+ TASS0 44 GeV (Braunschweig   1989 Zeit. Phys. C42,
+ 189)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/TPC/latest_29>
+ TPC 29 GeV (Aihara   1985 Zeit. Phys. C27, 187)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/L3/latest_91>
+ L3 91.2 GeV (Adeva   1991 Phys. Lett. 259B, 199)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/L3/latest_jet>
+ L3 91.2 GeV (Acciarri   1994 Phys. Lett. 328B, 223)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/L3/latest_xi>
+ L3 91.2 GeV (Acciarri   1994 Phys. Lett. 328B, 223)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/ALEPH/latest_91a>
+ ALEPH 91.2 GeV (Barate   1996 CERN-PPE-96-186)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/ALEPH/latest_91b>
+ ALEPH 91.2 GeV (Barate   1996 CERN-PPE-96-168)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/pi0/DELPHI/latest_91>
+ DELPHI 91.2 GeV (Adam   1995 Zeit. Phys. C69, 561)
+
+
+
+ e+ e- --> eta X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/eta/MARKII/latest_29>
+ MARKII 29 GeV (Wormser   1988 Phys. Rev. Lett. 61, 1057)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/eta/HRS/latest_29>
+ HRS 29 GeV (Abachi   1987 Phys. Lett. 205B, 111)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/eta/JADE/latest_34.4>
+ JADE 34.4 GeV (Bartel   1985 Zeit. Phys. C28, 343)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/eta/JADE/latest_35>
+ JADE 35 GeV (Pitzel   1990 Zeit. Phys. C46, 1)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/eta/CELLO/latest_35>
+ CELLO 35 GeV (Behrend   1990 Zeit. Phys. C47, 1)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/eta/ALEPH/latest_91a>
+ ALEPH 91.2 GeV (Buskulic   1992 Phys. Lett. 292B, 210)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/eta/ALEPH/latest_91b>
+ ALEPH 91.2 GeV (Barate   1996 Preprint CERN-PPE-96-186)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/eta/L3/latest_91>
+ L3 91.2 GeV (Adriani   1992 Phys. Lett. 286B, 403)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/eta/L3/latest_mc>
+ L3 91.2 GeV (Acciarri   1994 Phys. Lett. 328B, 223)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/eta/L3/latest_xi>
+ L3 91.2 GeV (Acciarri   1994 Phys. Lett. 328B, 223)
+
+
+
+ e+ e- --> rho(770)0 X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/rho0/HRS/latest_29>
+ HRS 29 GeV (Abachi   1989 Phys. Rev. D40, 706)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/rho0/TASSO/latest_34>
+ TASSO 34 GeV (Brandelik   1982 Phys. Lett. 117B, 135)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/rho0/JADE/latest_35>
+ JADE 35 GeV (Bartel   1984 Phys. Lett. 145B, 441)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/rho0/ALEPH/latest_91>
+ ALEPH 91.2 GeV (Buskulic   1996 Zeit. Phys. C69, 379)
+                    ..... (Barate   1996 CERN-PPE-96-186)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/rho0/DELPHI/latest_91>
+ DELPHI 91.2 GeV (Abreu   1995 Zeit. Phys. C65, 587)
+
+
+
+ e+ e- --> omega(782) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/omega/ALEPH/latest_91>
+ ALEPH 91.2 GeV (Buskulic   1996 Zeit. Phys. C69, 379)
+                    ..... (Barate   1996 CERN-PPE-96-186)
+
+
+
+ e+ e- --> eta'(958) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/etaprime/ALEPH/latest_91>
+ ALEPH 91.2 GeV (Buskulic   1992 Phys. Lett. 292B, 210)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/etaprime/ALEPH/latest_91b>
+ ALEPH 91.2 GeV (Barate   1996 CERN-PPE-96-186)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/etaprime/L3/latest_91>
+ L3 88.4 to 93.7 GeV (Acciari   1996  CERN-PPE-96-171)
+
+
+
+ e+ e- --> f0(980) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/f0/HRS/latest_29>
+ HRS 29 GeV (Abachi   1986 Phys. Rev. Lett. 57, 1990)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/f0/DELPHI/latest_91>
+ DELPHI 91.2 GeV (Abreu   1995 Zeit. Phys. C65, 587)
+
+
+
+ e+ e- --> phi(1020) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/phi/TPC/latest_29>
+ TPC 29 GeV (Aihara   1984 Phys. Rev. Lett. 52, 2201)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/phi/HRS/latest_29>
+ HRS 29 GeV (Derrick   1985 Phys. Rev. Lett. 54, 2568)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/phi/ALEPH/latest_91>
+ ALEPH 91.2 GeV (Buskulic   1996 Zeit. Phys. C69, 379)
+                    ..... (Barate   1996 CERN-PPE-96-186)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/phi/OPAL/latest_91>
+ OPAL 91.2 GeV (Akers   1995 Zeit. Phys. C68, 1)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/phi/DELPHI/latest_91>
+ DELPHI 91.2 GeV (Abreu   1996 CERN-PPE-96-77)
+
+
+
+ e+ e- --> f2(1270) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/f2/HRS/latest_29>
+ HRS 29 GeV (Abachi   1986 Phys. Rev. Lett. 57, 1990)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/f2/DELPHI/latest_91>
+ DELPHI 91.2 GeV (Abreu   1995 Zeit. Phys. C65, 587)
+
+
+
+ e+ e- --> K+- X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K+-/TASSO/latest_12>
+ TASSO 12 GeV (Brandelik   1980 Phys. Lett. 94B, 444)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K+-/TASSO/latest_14>
+ TASSO 14 GeV (Althoff   1983 Zeit. Phys. C17, 5)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K+-/TASSO/latest_22>
+ TASSO 22 GeV (Althoff   1983 Zeit. Phys. C17, 5)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K+-/TASSO/latest_30>
+ TASSO 30 GeV (Brandelik   1980 Phys. Lett. 94B, 444)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K+-/TASSO/latest_34>
+ TASSO 34 GeV (Braunschweig   1989 Zeit. Phys. C42, 189)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K+-/TASSO/latest_44>
+ TASSO 44 GeV (Braunschweig   1989 Zeit. Phys. C42, 189)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K+-/TPC/latest_29a>
+ TPC 29 GeV (Aihara   1984 Phys. Rev. Lett. 52, 577)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K+-/TPC/latest_29b>
+ TPC 29 GeV (Aihara   1988 Phys. Rev. Lett. 61, 1263)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K+-/MARKII/latest_29>
+ MARK-II 29 GeV (Schellman   1985 Phys. Rev. D31, 3013)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K+-/HRS/latest_29>
+ HRS 29 GeV (Derrick   1987 Phys. Rev. D35, 2639)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K+-/TOPAZ/latest_58>
+ TOPAZ 58 GeV (Itoh   1995 Phys. Lett. 345B, 335)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K+-/ALEPH/latest_91>
+ ALPEH 91.2 GeV (Buskulic   1995 Zeit. Phys. C66, 355)
+                    ..... (Barate   1996 CERN-PPE-96-186)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K+-/DELPHI/latest_91>
+ DELPHI 91.2 GeV (Abreu   1995 Nucl. Phys. B444, 3)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K+-/OPAL/latest_91>
+ OPAL 91.2 GeV (Akers   1994 Zeit. Phys.  C63, 181)
+
+
+
+ e+ e- --> K0 (Kbar 0) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/TASSO/latest_14>
+ TASSO 14 GeV (Althoff   1985 Zeit. Phys. C27, 27)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/TASSO/latest_14.8>
+ TASSO 14.8 GeV (Braunschweig   1990 Zeit. Phys. C47, 167)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/TASSO/latest_21.5>
+ TASSO 21.5 GeV (Braunschweig   1990 Zeit. Phys. C47, 167)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/TASSO/latest_22>
+ TASSO 22 GeV (Althoff   1985 Zeit. Phys. C27, 27)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/TASSO/latest_33.3>
+ TASSO 33.3 GeV (Brandelik   1981 Phys. Lett. 105B, 75)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/TASSO/latest_34>
+ TASSO 34 GeV (Althoff   1985 Zeit. Phys. C27, 27)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/TASSO/latest_34.5>
+ TASSO 34.5 GeV (Braunschweig   1990 Zeit. Phys. C47, 167)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/TASSO/latest_35>
+ TASSO 35 GeV (Braunschweig   1990 Zeit. Phys. C47, 167)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/TASSO/latest_42.6>
+ TASSO 42.6 GeV (Braunschweig   1990 Zeit. Phys. C47, 167)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/TPC/latest_29>
+ TPC 29 GeV (Aihara   1984 Phys. Rev. Lett. 53, 2378)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/MARKII/latest_29>
+ MARK-II 29 GeV (Schellman   1985 Phys. Rev. D31, 3013)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/HRS/latest_29>
+ HRS 29 GeV (Derrick   1987 Phys. Rev. D35, 2639)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/HRS/latest_29>
+ HRS 29 GeV (Abachi   1990 Phys. Rev. D41, 2045)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/CELLO/latest_35>
+ CELLO 35 GeV (Behrend   1990 Zeit. Phys. C46, 397)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ l
+ differential/K0/TOPAZ/latest_58>
+ TOPAZ 58 GeV (Itoh   1995 Phys. Lett. 345B, 335)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/ALEPH/latest_91>
+ ALPEH 91.2 GeV (Buskulic   1994 Zeit. Phys. C64, 361)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/ALEPH/latest_91b>
+ ALPEH 91.2 GeV (Barate   1996 CERN-PPE-96-186)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/DELPHI/latest_91>
+ DELPHI 91.2 GeV (Abreu   1995 Zeit. Phys. C65, 587)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K0/OPAL/latest_91>
+ OPAL 91.2 GeV (Akers   1995 Zeit. Phys. C67, 389)
+
+
+
+ e+ e- --> K*(892)+- X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K892+-/HRS/latest_29>
+ HRS 29 GeV (Abachi   1989 Phys. Rev. D40, 706)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K892+-/TASSO/latest_34.5>
+ TASSO 34.5 GeV (Braunschweig   1990 Zeit. Phys. C47, 167)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K892+-/TASSO/latest_35>
+ TASSO 35 GeV (Braunschweig   1990 Zeit. Phys. C47, 167)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K892+-/TASSO/latest_42.6>
+ TASSO 42.6 GeV (Braunschweig   1990 Zeit. Phys. C47, 167)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K892+-/CELLO/latest_35>
+ CELLO 35 GeV (Behrend   1990 Zeit. Phys. C46, 397)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K892+-/JADE/latest_35>
+ JADE 35 GeV (Bartel   1984 Phys. Lett. 145B, 441)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K892+-/DELPHI/latest_91>
+ DELPHI 91.2 GeV (Abreu   1995 Zeit. Phys. C65, 587)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K892+-/OPAL/latest_91>
+ OPAL 91.2 GeV (Acton   1993 Phys. Lett. 305B, 407)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K892+-/ALEPH/latest_91>
+ ALEPH 91.2 GeV (Barate   1996 CERN-PPE-96-186)
+
+
+
+ e+ e- --> K*(Kbar*)(892)0 X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K8920/TPC/latest_29>
+ TPC 29 GeV (Aihara   1984 Phys. Rev. Lett. 53, 2378)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K8920/HRS/latest_29>
+ HRS 29 GeV (Abachi   1989 Phys. Rev. D40, 706)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K8920/ALEPH/latest_91>
+ ALEPH 91.2 GeV (Buskulic   1995 Zeit. Phys. C69, 379)
+                    ..... (Barate   1996 CERN-PPE-96-186)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K8920/DELPHI/latest_91>
+ DELPHI 91.2 GeV (Abreu   1993 Phys. Lett. 298B, 236)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K8920/OPAL/latest_91>
+ OPAL 91.2 GeV (Akers   1995 Zeit. Phys. C68, 1)
+
+
+
+ e+ e- --> K2*(1430)0 X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/K2/HRS/latest_29>
+ HRS 29 GeV (Abachi   1986 Phys. Rev. Lett. 57, 1990)
+
+
+
+ e+ e- --> D+- X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/D+-/HRS/latest_29a>
+ HRS 29 GeV (Derrick   1984 Phys. Rev. Lett. 53, 1971)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/D+-/HRS/latest_29b>
+ HRS 29 GeV (Baringer   1988 Phys. Lett. 206B, 551)
+
+
+
+ e+ e- --> D0(Dbar0) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/D0/HRS/latest_29a>
+ HRS 29 GeV (Derrick   1984 Phys. Rev. Lett. 53, 1971)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/D0/HRS/latest_29b>
+ HRS 29 GeV (Baringer   1988 Phys. Lett. 206B, 551)
+
+
+
+ e+ e- --> D*(2010)+- X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/D2010/TPC/latest_29>
+ TPC 29 GeV (Aihara   1986 Phys. Rev. D34, 1945)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/D2010/MARKII/latest_29>
+ MARK-II 29 GeV (Yelton   1982 Phys. Rev. Lett. 49, 430)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/D2010/HRS/latest_29a>
+ HRS 29 GeV (Derrick   1984 Phys. Lett. 146B, 261)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/D2010/HRS/latest_29b>
+ HRS 29 GeV (Low   1987 Phys. Lett. 183B, 232)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/D2010/HRS/latest_29c>
+ HRS 29 GeV (Baringer   1988 Phys. Lett. 206B, 551)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/D2010/JADE/latesta_34.4>
+ JADE 34.4 GeV (Bartel   1984 Phys. Lett. 146B, 121)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/D2010/JADE/latestb_34.4>
+ JADE 34.4 GeV (Bartel   1984 Phys. Lett. 161B, 197)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/D2010/TASSO/latest_36.2>
+ TASSO 36.2 GeV (Braunschweig   1989 Zeit. Phys. C44, 365)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/D2010/ALEPH/latest_91>
+ ALEPH 91.2 GeV (Buskulic   1994 Zeit. Phys. C62, 1)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/D2010/OPAL/latest_91>
+ OPAL 91.2 GeV (Akers   1995 Zeit. Phys. C67, 27)
+
+
+
+ e+ e- --> Ds+- X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/Ds+-/HRS/latest_29>
+ HRS 29 GeV (Derrick   1985 Phys. Rev. Lett. 54, 2568)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/Ds+-/TASSO/latest_34.7>
+ TASSO 34.7 GeV (Althoff   1984 Phys. Lett. 136B, 130)
+
+
+
+ e+ e- --> p (pbar) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/ppbar/TASSO/latest_12>
+ TASSO 12 GeV (Brandelik   1980 Phys. Lett. 94B, 444)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/ppbar/TASSO/latest_14>
+ TASSO 14 GeV (Althoff   1983 Zeit. Phys. C17, 5)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/ppbar/TASSO/latest_22>
+ TASSO 22 GeV (Althoff   1983 Zeit. Phys. C17, 5)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/ppbar/TASSO/latest_30>
+ TASSO 30 GeV (Brandelik   1980 Phys. Lett. 94B, 444)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/ppbar/TASSO/latest_34>
+ TASSO 34 GeV (Braunschweig   1989 Zeit. Phys. C42, 189)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/ppbar/TASSO/latest_44>
+ TASSO 44 GeV (Braunschweig   1989 Zeit. Phys. C42, 189)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/ppbar/TPC/latest_29a>
+ TPC 29 GeV (Aihara   1984 Phys. Rev. Lett. 52, 577)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/ppbar/TPC/latest_29b>
+ TPC 29 GeV (Aihara   1988 Phys. Rev. Lett. 61, 1263)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/ppbar/HRS/latest_29>
+ HRS 29 GeV (Derrick   1987 Phys. Rev. D35, 2639)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/ppbar/JADE/latest_34>
+ JADE 34 GeV (Bartel   1981 Phys. Lett. 104B, 325)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/ppbar/TOPAZ/latest_58>
+ TOPAZ 58 GeV (Itoh   1995 Phys. Lett. 345B, 335)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/ppbar/ALEPH/latest_91>
+ ALPEH 91.2 GeV (Buskulic   1995 Zeit. Phys. C66, 355)
+                    ..... (Barate   1996 CERN-PPE-96-186)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/ppbar/DELPHI/latest_91>
+ DELPHI 91.2 GeV (Abreu   1995 Nucl. Phys. B444, 3)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/ppbar/OPAL/latest_91>
+ OPAL 91.2 GeV (Akers   1994 Zeit. Phys.  C63, 181)
+
+
+
+ e+ e- --> Delta(1232)++ X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/delta/DELPHI/latest_91>
+ DELPHI 91.2 GeV (Abreu   1995 Phys. Lett. 361B, 207)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/delta/OPAL/latest_91>
+ OPAL 91.2 GeV (Alexander   1995 Phys. Lett. 358B, 162)
+
+
+
+ e+ e- --> Lambda (Lambdabar) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/lambda/TASSO/latest_14>
+ TASSO 14 GeV (Althoff   1985 Zeit. Phys. C27, 27)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/lambda/TASSO/latest_22>
+ TASSO 22 GeV (Althoff   1985 Zeit. Phys. C27, 27)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/lambda/TASSO/latest_33>
+ TASSO 33.3 GeV (Brandelik   1981 Phys. Lett. 105B, 75)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/lambda/TASSO/latest_34>
+ TASSO 34 GeV (Althoff   1985 Zeit. Phys. C27, 27)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/lambda/TASSO/latest_34.8>
+ TASSO 34.8 GeV (Braunschweig   1990 Zeit. Phys. C45, 209)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/lambda/TASSO/latest_42.1>
+ TASSO 42.1 GeV (Braunschweig   1990 Zeit. Phys. C45, 209)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/lambda/MARKII/latest_29>
+ MARK-II 29 GeV (De La Vaissiere   1985 Phys. Rev. Lett. 54, 2071)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/lambda/HRS/latest_29a>
+ HRS 29 GeV (Baringer   1986 Phys. Rev. Lett. 56, 1346)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/lambda/HRS/latest_29b>
+ HRS 29 GeV (Derrick   1987 Phys. Rev. D35, 2639)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/lambda/HRS/latest_29c>
+ HRS 29 GeV (Geld   1992 Phys. Rev. D45, 3949)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/lambda/CELLO/latest_35>
+ CELLO l35 GeV (Behrend   1990 Zeit. Phys. C46, 397)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/lambda/ALEPH/latest_91>
+ ALPEH 91.2 GeV (Buskulic   1994 Zeit. Phys. C64, 361)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/lambda/ALEPH/latest_91b>
+ ALPEH 91.2 GeV (Barate   1996 CERN-PPE-96-186)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/lambda/DELPHI/latest_91>
+ DELPHI 91.2 GeV (Abreu   1993 Phys. Lett. 318B, 249)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/lambda/OPAL/latest_91>
+ OPAL 91.2 GeV (Acton   1992 Phys. Lett. 291B, 503)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/lambda/OPAL/latest_91b>
+ OPAL 91.2 GeV (Alexander   1996 CERN-PPE-96-099)
+
+
+
+ e+ e- --> Sigma(1385)+- (Sigmabar(1385)+-) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/sig/DELPHI/latest_91>
+ DELPHI 91.2 GeV (Abreu   1995 Zeit. Phys. C67, 543)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/sig/OPAL/latest_91>
+ OPAL 91.2 GeV (Acton   1992 Phys. Lett. 291B, 503)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/sig/OPAL/latest_91b>
+ OPAL 91.2 GeV (Alexander   1996 CERN-PPE-96-100)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/sig/ALEPH/latest_91>
+ ALEPH 91.2 GeV (Barate   1996 CERN-PPE-96-186)
+
+
+
+ e+ e- --> Xi- (Xibar+) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/xi/MARKII/latest_29>
+ MARK-II 29 GeV (Klein   1987 Phys. Rev. Lett. 58, 644)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/xi/TASSO/latest_34>
+ TASSO 34 GeV (Althoff   1983 Phys. Lett. 130B, 340)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/xi/TASSO/latest_34.8>
+ TASSO 34.8 GeV (Braunschweig   1989 Zeit. Phys. C45, 209)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/xi/DELPHI/latest_91a>
+ DELPHI 91.2 GeV (Abreu   1992 Phys. Lett. 275B, 231)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/xi/DELPHI/latest_91b>
+ DELPHI 91.2 GeV (Abreu   1995 Zeit. Phys. C67, 543)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/xi/OPAL/latest_91a>
+ OPAL 91.2 GeV (Acton   1992 Phys. Lett. 291B, 503)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/xi/OPAL/latest_91c>
+ OPAL 91.2 GeV (Alexander   1996 CERN-PPE-96-100)
+
+
+
+ e+ e- --> Xi(1530)0 (Xibar(1530)0) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/xi/OPAL/latest_91b>
+ OPAL 91.2 GeV (Acton   1992 Phys. Lett. 291B, 503)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/xi/OPAL/latest_91d>
+ OPAL 91.2 GeV (Alexander   1996 CERN-PPE-96-100)
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/xi/ALEPH/latest_91>
+ ALEPH 91.2 GeV (Barate   1996 CERN-PPE-96-186)
+
+
+
+ e+ e- --> Omega- (Omegabar+) X
+ HREF=http://durpdg.dur.ac.uk/scripts/ee.csh/
+ differential/omega/MARKII/latest_29>
+ MARK-II 29 GeV (Klein   1987 Phys. Rev. Lett. 59, 2412)
+
+
+
+Other data collections available are:
+
+ HREF=http://durpdg.dur.ac.uk/HEPDATA/drell1>
+ Drell-Yan cross sections
+ HREF=http://durpdg.dur.ac.uk/HEPDATA/structure1>
+ Structure functions in deep inelastic scattering
+ HREF=http://durpdg.dur.ac.uk/HEPDATA/photon1>
+ Single photon production in hadronic interactions
+
+
+ To send any comments on this service please use
+ HREF=http://durpdg.dur.ac.uk/HEPDATA/feedback.html
+
+Statistics done on these data, compared with predictions from
+--------------------------------------------------------------
+my particle theory (see web, ove Tedenstig, elektromagnum,
+-----------------------------------------------------------
+Matter Unified).
+-----------------
+
+
+
+10         = 0          !
+11         = 0          !                 calculated  11.5
+12         = 4          !****
+13         = 2          !**
+14 - 14.8  = 13         !*************
+15         = 0          !                 calculated 15.8
+16         = 0          !
+17         = 1          !*
+18         = 0          !
+19         = 0          !
+20         = 0          !
+21.5       = 1          !*                calculated 21.1
+22         = 12         !************
+23         = 0          !
+24         = 0          !
+25         = 1          !*
+26         = 0          !
+27.4       = 1          !*                calculated 27.4
+28         = 0          !
+29         = 49         !*************************************************
+30         = 5          !*****
+31.6       = 1         !*
+32         = 0          !
+33         = 2          !**
+34 -34.8   = 24      !************************  calculated 34.8
+35         = 15        !***************
+36- 36.7   = 2        !**
+37         = 0          !
+38         = 0          !
+39         = 0          !
+40         = 0          !
+41         = 0          !
+42 - 42.6  = 2       !**
+43         = 0          !                 calculated 43.4
+44         = 7          !*******
+45         = 0          !
+46         = 0          !
+47         = 0          !
+48         = 0          !
+49         = 0          !
+50         = 0          !
+51         = 0          !
+52-57      = 1        !*               calculated 53.4
+53         = 0          !
+54         = 0          !
+55         = 0          !
+56         = 0          !
+52 -57     = 1        !
+58         = 5          !*****
+59         = 0          !
+60         = 0          !
+61         = 0          !
+62         = 0          !
+63         = 0          !
+64         = 0          !                calculated 64.8
+65         = 0
+66         = 0
+67         = 0
+68         = 0
+69         = 0
+70         = 0

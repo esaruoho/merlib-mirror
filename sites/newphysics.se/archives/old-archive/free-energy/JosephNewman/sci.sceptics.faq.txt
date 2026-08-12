@@ -1,0 +1,131 @@
+sci.skeptic FAQ: The Frequently Questioned Answers
+Summary: This posting contains a list of Frequently Asked Questions
++        about scientific skepticism and various fringe topics.  It
++        should be read by anyone who wishes to post to sci.skeptic.
+Date: Wed Mar 30 17:52:37 MET DST 1994
+Followup-To: sci.skeptic
+Organization: GEC-Marconi Research Centre, Great Baddow, UK
+Supersedes: <skeptic-faq_762542823@gec-mrc.co.uk>
+X-Newsreader: TIN [version 1.2 PL1]
+
+Archive-name: skeptic-faq
+Last-modified: 94/02/23
+Version: @(#)skeptic-faq.text   1.17
+
+[... lots of interesting stuff on other topics deleted]
+
+
+Strange Machines: Free Energy and Anti-Gravity
+==============================================
+
+8.1: Why don't electrical perpetual motion machines work?
+---------------------------------------------------------
+
+Electrical perpetual motion machinists usually present a machine that
+causes a small battery to generate a huge amount of power.  The most
+common problem here is that the "huge amount of power" was incorrectly
+measured.  AC power measurements are tricky; you can't just multiply
+the voltage and current, because they may be out of phase.  Thus,
+measuring 10 Volts and 10 Amps could indicate anything from 0 to 100
+Watts, depending on the power factor.  In addition, most AC meters
+expect a sinusoidal wave; if they are given some other wave they may
+be totally wrong.  A simple argument against these machines is; "If
+they can provide so much energy, why do they need the battery to keep
+going?"
+
+8.2: Why don't mechanical perpetual motion machines work?
+---------------------------------------------------------
+
+Mechanical perpetual motion machines depend on rising and descending
+weights.  The problem is that the amount of energy that you get out of
+a descending weight is exactly the same amount that it took to raise
+the weight in the first place: gravity is said to be a "conservative"
+force.  So no matter what the weights do, you can't get energy out.
+
+8.3: Why don't magnetic perpetual motion machines work?
+-------------------------------------------------------
+
+Magnetic motors have a clever arrangement of magnets which keeps the
+motor rotating forever.  Not surprisingly, whenever someone tries to
+build one, the motor rotates for a while and then stops -- this is
+usually attributed to the magnets "wearing out".  These motors usually
+rely on using magnets as low-friction bearings, meaning the "motor"
+can coast for a long time, but it doesn't supply any power.  Magnetism
+is like gravity; you can store potential energy and get it back, but
+you can't get more energy no matter what you try.
+
+8.4: Magnets can levitate.  Where is the energy from?
+-----------------------------------------------------
+
+Levitating magnets do not require energy, any more than something
+resting on a table requires energy.  Energy is the capacity for doing
+work.  Work can be measured by force times distance.  Although the
+magnets are exerting a force the levitated object is stationary, so
+the magnets aren't supplying any energy.
+
+8.5: But its been patented!
+
+So what?  Patent offices will not grant a patent on a "perpetual
+motion machine" (some just require a working model) but if you call it
+a "vacuum energy device" and claim that it gets its energy from some
+previously unknown source then you can probably get a patent.  Patent
+offices are there to judge whether something has been invented before,
+not whether it will work.  The ban on devices labelled "perpetual
+motion" is a special case because the patent officers dislike being
+cited as some sort of approval by con-men.
+
+8.6: The oil companies are conspiring to suppress my invention
+--------------------------------------------------------------
+
+This is a conspiracy theory.  See the entry on these in section 0.
+
+In most of the US the utility companies are *required by law* to buy
+your excess electricity if you produce your own.  If you've got an
+energy machine, build it in your basement, phase match it to the line,
+and enjoy.
+
+8.7: My machine gets its free energy from <X>
+---------------------------------------------
+
+A number of machines have been proposed which are not "perpetual
+motion" machines in the sense of violating the law of conservation of
+energy.  Mostly these are based on bogus science.  One inventor claims
+that atoms of copper wire are being converted to energy in accordance
+with Einstein's "e=mc^2".  However he fails to explain what causes
+this transformation and how this energy is converted into electrical
+energy rather than gamma rays or heat.
+
+Occasionally one sees a machine which could work in theory but would
+produce very tiny amounts of energy.  For instance, one can set up a
+gyroscope which always points in one direction (this is how the
+gyrocompass in an aircraft works).  The earth will rotate underneath
+this once every day (to an observer standing on the Earth it looks
+like the gyro is rotating).  So you could attach gears and a generator
+to the gyroscope and use this rotation to get electricity.  The
+4,320,000:1 gearing required is left as an exercise for the student,
+as is naming the source of the energy it would generate.
+
+8.8: Can gyroscopes neutralise gravity?
+---------------------------------------
+
+Gyroscopes (or gyros) are a favorite of "lift" machine inventors
+because many people have come across them and they behave rather
+oddly.  However there is nothing all that mysterious about the
+behaviour of gyros.  You can use Newtonian physics to explain them.
+Briefly, if you imagine a bit of metal on the edge of a spinning gyro,
+then to turn the gyro you have to stop the bit of metal moving in its
+current direction and start it moving in another direction.  To do
+this when it is moving fast you have to push it rather hard.  Nothing
+about this makes the thing get any lighter (in fact to be pedantic,
+the gyro gets very slightly heavier when it spins, in accordance with
+Einstein's theory of relativity.)
+
+8.9: My prototype gets lighter when I turn it on
+------------------------------------------------
+
+Weighing something which is vibrating on ordinary scales is a sure way
+of getting a wrong answer.  The vibration from the machine combines
+with "stiction" in the scales to give a false reading.  As a result
+the weight reductions reported for such machines are always close to
+the limits of accuracy of the scales used.
+

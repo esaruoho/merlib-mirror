@@ -1,0 +1,3181 @@
+
+*******************************************************************
+*                                                                 *
+*         ATOMTEORI                 ATOMIC THEORY                 *
+*         ---------                 -------------                 *
+*                                                                 *
+*    *    Some historical facts of quantum theory                 *
+*                                                                 *
+*    *    Basic principles of quantum mechanical properties       *
+*         of matter based on new insights of the atom             *
+*                                                                 *
+*    *    Deducing basic atomic constants                         *
+*                                                                 *
+*    *    Deducing basic quantum mechanical relations of          *
+*         the atom                                                *
+*                                                                 *
+*    *    Explanation of Bohr's quantum mechanical realtion       *
+*                               __                                *
+*         defined m.v.D= h.n/(2.//)                               *
+*                                                                 *
+*    *    The u-meson                                             *
+*                                                                 *
+*    *    Where is the energy stored in an atomic system          *
+*                                                                 *
+*    *    Shrödinger's wave equation of the atomic system         *
+*                                                                 *
+*    *    Positronium                                             *
+*                                                                 *
+*    *    The nuclear magneton, the mangetic momentum of          *
+*         the Bohr magtneton                                      *              *
+*                                                                 *
+*    *    The strong nuclear force                                *
+*                                                                 *
+*    *    The atomic core structure                               *
+*******************************************************************
+
+
+
+ATOMŽR KVANTUMTEORI                  ATOMIC QUANTUM THEORY
+-------------------                  ---------------------
+
+Den nuvarande  kunskapen om ma-      Current knowledges of matter on
+terien på atomisk nivå är grun-      atomic level is founded on dis-
+dad på upptäckter  gjorda under      coveries done  over  a long pe-
+en lång tidsperiod.  Några väl-      riod of time. Some famous names
+kända  namn är  Ernest  Ruther-      are  Ernest   Rutherford,   Max
+ford,  Max Planck, Niels Bohr,       Planck, Niels Bohr, Ervin Shrö-
+Erwin  Shrödinger  och  Werner       dinger, Werner  von  Heisenberg
+von Heisenberg,  för att nämna       and many others.
+några.
+
+Max Planck  är  mest  känd  för      Max  Planck is most known  from
+sitt arbete av mätning och ana-      his work of   measurement   and
+lys av ljus och  värmestrålning      analyses   of  light  and  heat
+från s.k. svartkroppsstrålning.      radiation from black  radiating
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden    4.01
+--------------------------------------------------------------------- 
+ 
+ 
+Han   uppställde   en  lag  som      bodies. He formulated an energy
+beskrev energifördelningen  hos      distribution   law   related to
+den emitterade strålningen  som      wave   length  of  the  emitted
+funktion  av strålningens  våg-      radiation and found in this way
+längd.  Därvid   fann  han, att      that  the energy over different
+energin  över olika  våglängder      wave lengths  was  emitted in a
+emitterades  på  ett  diskonti-      discontinuous  way,  not  as  a
+nuerligt sätt, ej som en konti-      continuous  stream. These revo-
+nuerlig ström. Denna revolutio-      lutionary   insights   was  the
+nerande  insikt  var  upptakten      beginning of a  new  branch  in
+till vad som idag betecknas för      science, the quantum mechanics.
+kvantmekaniken.
+
+Han  införde  en ny  fysikalisk      He  introduced  a new  physical
+konstant vilken bär  hans namn-      constant bearing his name -"the
+"Plancks konstant" vilken  van-      Planck's   constant" -  usually
+ligtvis betecknas  med  boksta-      denoted by letter, h , having a
+ven , h , och  har  ett  mucket      very  small numerical value, by
+litet  numeriskt  värde,  genom      experiments determined to :
+experiment fastställt till :
+           2                                    2
+6.57E-34 Ws  uttryckt i enheter      6.57E-34 Ws given in the MKS(A)
+inom MKS(A) enhetssystemet.          unit system.
+
+
+Vid denna tid var uppfattningen      At this  time    the   inherent
+om  materiens   inre   struktur      structure  of  matter was  very
+mycket  odefinierad  och oklar.      indistinct and  unclear.  Niels
+Niels Bohr som bl.a använde sig      Bohr-     using  results   from
+av  resultat  från  Rutherford,      Rutherford,Balmer among others,
+Balmer och  andra, var den  man      was  the man who by his  simple
+som genom sin enkla  atommodell      atomic model  in  a theoretical
+för första gången lyckades fin-      way for the first time  succee-
+na en teoretisk beskrivning  av      ded to describe the light emis-
+emissionsspektrat från den enk-      sion  spectrum  from  the  most
+laste av alla atomer,  väteato-      simple known atom- the hydrogen
+men.   Trots  sin enkelhet  var      atom . In  spite of its simpli-
+denna teori för sin  tid mycket      city this theory was revolutio-
+omvälvande och startade upp  en      nary for this time and  started
+enorm aktivitet  och utveckling      up  an  enormeous   researching
+inom  den  fundamentala  fysik-      activity  and  development   in
+forskningen.                         fundamental physical research.
+
+Men modellen utgjorde endast en      But the model was  only an app-
+approximation   till    atomens      roximation  of the real  nature
+verkliga natur.  Av denna orsak      of the atom. Of that reason the
+förbättrades  senare   modellen      model  later  was  improved  by
+genom  andra teorier, vilka  på      other theories which  in a bet-
+ett bättre sätt förklarade fle-      ter way explained more observed
+ra   observerade   fenomenen  i      phenomena in  the  atom.  These
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.02
+--------------------------------------------------------------------- 
+ 
+ 
+atomen.  Dessa   ansträngningar      efforts were above all aimed to
+syftade främst  till  att  även      describe atomic systems of more
+kunna beskriva atomiska  system      complex nature than that compa-
+av  mera  komplex  natur än det      ratively  simple  system repre-
+jämförelsevis  enkla atomsystem      sented  by the hydrogen  atomic
+som väteatomen utgjorde.             system.
+
+Om vi  emellertid  stannar kvar      However, if we proceed  looking
+vid Bohrs  ursprungliga modell,      some closer  to  Bohr's  origin
+finner vi, att Bohr var tvungen      model,  we will find that  Bohr
+att göra en del rent hypotetis-      was forced  to  make  some pure
+ka antaganden  vilka  ej  kunde      hypothetical  assumptions which
+ges en rimlig teoretisk motiva-      not was given any clear theore-
+tion. En av dessa hypoteser var      tical motivation.  One of these
+det s.k. kvantmekaniska villko-      hypotheses  was   the   quantum
+ret m.v.D=h.n, ett  uttryck som      mehanical  relation  m.v.D=h.n,
+skall tolkas så, att  banelekt-      an  expression  which shall  be
+ronens impulsmoment  m.v.D all-      interpreted  so that  the elec-
+tid utgöres av en heltalsmulti-      tron   orbital  momentum  , the
+pel av Plancks konstant, h.Bohr      product of m.v.D, is an integer
+lyckades aldrig ge en trovärdig      value of Planck's constant , h.
+förklaring  till detta förhåll-      Bohr never succeeded to to give
+ande och  hans teori fick också      any  plausible  motivation   to
+på grund härav  uppbära  en del      this relationship and  got cri-
+kritik.  Men eftersom teorin så      ticism  because  of  that.  But
+väl kunde förutsäga  experimen-      because his theory so well pre-
+tella   resultat   accepterades      dicted experimental results the
+teorin trots  denna sin  ofull-      idea was  accepted  in spite of
+ständighet.                          its incompleteness.
+
+Detta  samband  är  fortfarande      This relationship  still is not
+ännu idag inte förklarat av den      explained by the modern quantum
+moderna   kvantfysiken,  vilket      physics, which  clearly  points
+klart pekar på, att  den grund-      on  that the fundamental mecha-
+läggande mekanismen  för  mate-      nism of the  quantum  behaviour
+riens kvantmekaniska beteende i      of matter  still not is unders-
+grunden  ännu  inte  är  utrett.     tood.  And it  seems  as modern
+Och det ser också ut som om den      quantum   mechanical   research
+moderna  kvantmekaniska  forsk-      even neglect to search for such
+ningen struntar i att söka den-      knowledges, a  fact  which  has
+na   kunskap,  ett  faktum  som      prevented us of reaching a dee-
+hindrar att vi uppnår en djupa-      per understanding of these very
+re  förståelse  av dessa mycket      fundamental  phenomena in  mat-
+fundamentala fenomen.                ter.
+
+Vidare  var  Bohrs  modell inte      Furthermore , Bohr's  model was
+istånd   att  förklara   varför      not  able  to explain  why  the
+frekvensen hos  den  emitterade      frequency of the emitted radia-
+strålningen  inte var  densamma      tion  not was the same  as  the
+som elektronens  rotationsfrek-      orbital frequency of the elect-
+vens runt atomkärnan.                ron.
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.03
+--------------------------------------------------------------------- 
+ 
+ 
+
+Trots  framgångarna  med  Bohrs      Hence, in spite of  all success
+teori förklarades aldrig varför      with Bohr's model, it never was
+materien  uppvisade detta  syn-      explained why matter  showed up
+nerligen  underliga   beteende,      such  apparently  very  strange
+varför energin endast existera-      behaviour,   why   energy  only
+de inom några mycket  snäva in-      existed in some very narrow in-
+tervaller  inom atomen.  Varför      tervals within  the  atom.  Why
+var materien kvantiserad,  var-      was matter quantified, why  was
+för  kunde inte  energin  avges      not the energy of the atom per-
+eller  bsorberas   i en  konti-      mitted to be  emitted or absor-
+nuerligt jämn ström ?                bed in a continuous way ?
+
+Svaret  på   denna   fråga  var      The  answer of  these  question
+dolt i det kvantmekaniska vill-      was  hidden   in   the  quantum
+koret, tecknat:                      mechanical relation:
+m.v.D=h.n/(2.Pi),   ett    rent      m.v.D=h.n/(2.Pi), a  pure hypo-
+hypotetiskt   antagande  endast      thetical relation only justifi-
+rättfärdigat av den  goda  sam-      ed by the good agreement  with
+stämmigheten med experiment.Den      experiments. The very fundamen-
+verkliga  orsaken  till  varför      tal reason why the matter beha-
+materien  uppförde  sig kvanti-      ved quantified never was expla-
+fierat  förklarades aldrig  och      ned and has not even since then
+har ej heller senare förklarats      been  explained  by the  modern
+genom de moderna kvantmekaniska      quantum   mechanical  theories.
+teorierna.
+
+Vid sidan om dessa grundläggan-      Associated with these fundamen-
+de  frågeställningar  fanns  en      tal questions there are further
+mängd andra  mycket intressanta      questions marks of highly inte-
+frågor  att besvara, exempelvis      rest, for instance the precense
+förekomsten  av   några  mycket      of  some very  elementary  con-
+elementära fysikaliska konstan-      stants, all the time  appearing
+ter som hela tiden  uppenbarade      in    the  quantum   mechanical
+sig i de kvantmekaniska matema-      mahematical relationships. That
+tiska sambanden. Det är Plancks      is  Planck's  constant  and the
+konstant   och   den   atomiska      atomic  fine structure constant
+finstrukturkonstanten  som spe-      which  especially   arouse  our
+ciellt väcker vårt intresse för      curiosity.    These   constants
+en undersökning. Dessa konstan-      never  have been given any sen-
+ter  har ej heller getts  någon      sible explanation, instead been
+vettig förklaring och har dess-      surrounded  by  an   aurora  of
+utom  omgetts med en aurora  av      mystic,  entities  of matter of
+mystik,konstanter av övernatur-      supernatural nature.
+lig natur.
+
+Det är ganska uppenbart, att de      It  is  fully clear,  that  the
+atomiska  konstanterna kan säga      existence  of the  atomic cons-
+oss  en  hel del om de  kvantum      tants  says  a  lot  about  the
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden    4.04
+--------------------------------------------------------------------- 
+ 
+ 
+mekaniska processerna  i atomen      quantum mechanical processes in
+om vi har förmåga att tolka dem      the  atom, presupposed  we  are
+på ett korrekt  sätt.  Av denna      able  to  interpret  them in  a
+orsak  skall vi därför här ägna      correct way.  Of this reason we
+dessa  konstanter   en  hel del      shall  here spend  some  atten-
+uppmärksamhet.                       tion to these fundamental con-
+                                     stants.
+
+Några  punkter vilka  vi  skall      Some   points  which  we  shall
+ägna speciell  uppmärksamhet åt      devote special attention are as
+är dessutom följande:                follows:
+
+1) På rent spekulativ grund och      1) On pure  speculative  ground
+utan matematisk fysikalisk  bas      and without any mathematic phy-
+antog Bohr att  elektronens ba-      sical base,  Bohr  assumed that
+nimpulsmoment  m.v.D  var  lika      the electron's orbital momentum
+med h.n/(2.Pi), där  ,  m ,  är      m.v.D was equal  to h.n/(2.Pi),
+elekronens massa, v är elektro-      where, m ,is the electron mass,
+nens momentana banhastighet, D,      v, the momentaneous orbit velo-
+är  medelradien  hos  elektron-      city, D, the mean radius of the
+banan , h, är Plancks  konstant      orbital, h , Planck's  constant
+och , n , är ett  heltalsvärde,      and, n,the main quantum number.
+det s.k. huvudkvanttalet. Någon      Any  real  explanation   to the
+egentlig förklaring till  denna      validity of this relation never
+relation har  ej heller  senare      has been presented.
+presenterats.
+
+2) Orsaken till varför frekven-      2) The reason why  the  emitted
+sen  hos den emitterade  strål-      radiation   not  directly   was
+ningen från atomen ej var lika       related to the orbital frequen-
+med  orbitalfrekvens kunde  ej       cy of the orbiting electron was
+förklaras med Bohr's modell.         not explained in Bohr's model.
+
+3)  Närvaron  av  några  mycket      3)  The  presence  of some very
+fundamentella atomiska konstan-      fundamental  atomic   constants,
+ter,  Plancks konstant och  den      the Planck's  constant  and the
+atomiska finstrukturkonstanten,      atomic fine structure  constant
+har aldrigt getts någon fysika-      never have been given  any phy-
+list hållbar motivation.             sical motivation.
+
+Svaret  på dessa frågor  är  av      The  answer on these  questions
+extrem  betydelse,  inte enbart      are  of  extremely  importance,
+vad   gäller  behandlingen   av      not only  concerning the  beha-
+problem  på  atomär  nivå  utan      viour of matter on atomic level
+även i strävan att kunna förstå      but  even in the  understanding
+materiens  mysterier   på  alla      of how  matter  works  on   all
+nivåer,  speciellt  vad  gäller      levels,in particular concerning
+partikelfysiken. Detta  är spe-      the area of  particle  physics.
+ciellt viktigt med tanke på att      The latter is of special impor-
+många av de ide'er  som utveck-      tance, that because the quantum
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.05
+--------------------------------------------------------------------- 
+ 
+ 
+lats inom den atomära  kvantum-      mechanical ideas from the  ato-
+teorin mer  eller mindre direkt      mic  physics have been transfe-
+har  överförts till partikelfy-      red  to the  particle  physics,
+siken där ej  självklart  samma      where necessarily  not the same
+regler gäller.                       rules are valid.
+
+Heisenbergs   osäkerhetsprincip      Heisenberg's uncertainty  prin-
+säger, att konjugerande storhe-      ciple says   that   conjugating
+ter såsom exempelvis energi och      quantities as for example ener-
+tid  endast  kan mätas  med  en      gy and time not  simultaneously
+noggrannhet  där  proudukten av      can  be measured with the  same
+energi  och  tid  är  lika  med      degree of  accuracy , where the
+Plancks konstant. Principen har      product   of  energy  and  time
+blivit  misstolkad som en  beg-      always is a multiple  value  of
+ränsande  egenskap  hos naturen      Planck's  constant. This  prin-
+själv  och  ej  enbart  som  en      ciple has been miss-interpreted
+gräns för hur noggrannt mätnin-      as a limiting property of natu-
+gar  kan utföras.  Genom  denna      re itself, not  just as a limit
+misstolkning, grundad  på okun-      of measurements.  The principle
+nighet om de atomiska kvantpro-      - originally  deduced  from the
+cesserna, har  principen  orik-      atomic  milieu - later has been
+tigt överförts  att gälla  även      applied as a  common  rule  for
+inom andra områden,  exempelvis      all sorts  of matter. The prin-
+vid beskrivning av förhållande-      ciple has been used in the ato-
+na inom atomkärnan vid beskriv-      mic nucleus when describing the
+ning av den starka kraften (Hi-      fundamental   nature    of  the
+deki Yakawas mesonteori för den      strong  nuclear forces  (Hideki
+starka  kraften) och även  inom      Yakawa's meson theory) and even
+partikelfysiken för beskrivning      in  the particle  physics  when
+av kraftverkan mellan elementä-      describing  strong  forces bet-
+ra partiklar.                        ween elementary particles.
+
+Louis  De Broglie's ide' om  de      Louis de' Broglie's idea of the
+elementära   partiklarnas   våg      wave particle  duality  of ele-
+partikel dualitet är också  ett      mentary  particles  is  another
+typiskt exempel  på hur fysika-      typical example of how physical
+liska fenomen kan misstolkas på      phenomena can be misinterpreted
+ett olyckligt sätt. Enligt den-      in an unlucky way. According to
+na ide' är partiklar associera-      this idea  each particle is as-
+de med en  våg  med  våglängden      sociated  with a wave being re-
+relaterade till  partikelmassan      lated to the particle mass  and
+samt Plancks  konstant.   Detta      Planck's constant. That possib-
+kan  möjligtvis vara sannt  för      ly  can  be true for a   moving
+en  elektron  som  rör sig inom      electron  in  an  atom  but not
+ett   atomiskt  system  men  är      true  for  a free  particle  in
+ingen  egenskap hos  elektronen      free  space.   Free  elementary
+självt i fritt tillstånd.  Fria      particles  can move with arbit-
+elementarpartiklar   kan antaga      rary velocities and posses arb-
+vilka hastigheter och  energier      ritrary energy levels not boun-
+som helst och är  ej är  bundna      ded to  multiples  of  Planck's
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.06
+--------------------------------------------------------------------- 
+ 
+ 
+till multiplar av Plancks  kon-      constant.
+stant.
+
+Shrödingers vågekvation ersatte      The  Shrödinger's  wave  theory
+Bohrs enkla och visuella modell      replaced  Bohr's   simple   and
+för  atomen,  en  ekvation  som      visual atomic model, describing
+beskriver materien i termer  av      matter in terms of probability.
+sannolikhet. Žven  om denna ek-      Even if this theory gave a more
+vation på ett mera fullständigt      complete   description   of the
+sätt beskriver  atomära fenomen      phenomena in  the atom, no dee-
+har man genom denna förbättring      per  understanding  of  quantum
+ej uppnått  någon  djupare för-      mechanical processes in  matter
+ståelse  av den  kvantmekaniska      has been achieved  by this imp-
+processen i materien.                rovement.
+
+
+
+                      ======================
+
+
+
+DEN NYA KVANTUMTEORIN                THE NEW QUANTUM THEORY
+---------------------                ----------------------
+
+Vårt system innehåller följande      Our  system contains the follo-
+komponenter och egenskaper:          wing components and properties:
+
+==== the atomic center core ================================== 4.07A
+Centralpartikeln i ett atomiskt      The central particle in an ato-
+system består av en eller flera      mic  system  is one or  several
+protonpartiklar  med en  proton      particles  with  a mass content
+massa  lika med 1836.12  gånger      of 1836.12  times  the mass  of
+massan hos elektronen.               the electron.
+
+==== the orbiting electron round the center core ============ 4.07B
+Omkring  centrumpartikeln,  rör      Around the  center particle(s)
+sig  elektroner  med  en  massa      electron(s)  move,  having the
+motsvarande   en  massenhet  (i      relative  mass content  of one
+relation till protonens massa).      electron mass unit.
+
+==== electrostatical forces ================================== 4.07C
+Både  protoner  och  elektroner      Both protons and  electrons
+är   elektrostatiskt    laddade      are electro  statically charged
+partiklar och  påverkar  därför      particles  and because of  that
+varandra  genom  s.k.  Coulomb-      electrostatic  Coulomb   forces
+kraften som  kan  beräknas  med      act between them in accord with
+hjälp av Coulombs lag.               Coulomb's law.
+
+==== the orbital particle intertial force ==================== 4.07D
+Orbitalpartikeln  formodas röra      The    orbital  particles   are
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden    4.07
+--------------------------------------------------------------------- 
+ 
+ 
+sig   in  någon  form  av  bana      supposed to  move  in some form
+omkring centralpartikeln(arna).      of  orbit  around  the  central
+Denna  rörelse ger upphov  till      particle(s). This movement give
+en  utåtriktad  kraft  som  kan      rise  to an out-turned force in
+beräknas i enlighet med Newtons      accord with  well  known Newto-
+välbekanta tröghetslagar.            nian laws.
+
+==== neutrons in the atomic core ============================= 4.08A
+Vi tar ej med i beräkningen,att      We do not account for the  fact
+atomkärnan    även   innehåller      that the  atomic  nucleus  also
+oladdade partiklar,  s.k.  neu-      contain  un-charged   particles
+troner, vilka på grund  av  sin      (named neutrons), which we here
+oladdade  elektriska  potential      suppose  will have no influence
+ej  formodas ha någon  inverkan      on the  calculated  results  of
+på våra beräkningar.                 the model.
+
+Det mesta av detta är redan mer      The most part  of all that more
+eller mindre kända och accepte-      or  less  already is known  and
+rade fakta  inom  den  atomiska      well  established   facts  from
+kvantumteorin.   För att  komma      atomic quantum theory. However,
+vidare   måste  vi   emellertid      to proceed  we  must  add  some
+addera till ytterligare   några      further assumptions, especially
+hypoteser  utgörande egenskaper      regarding  properties  of these
+hos de elementära partiklar som      elementary  particles  included
+befinner sig inom atomsystemet.      into the atomic system, assump-
+Dessa antaganden  är unika  och      tions   being  unique  for  our
+för vår teori är det komplement      theory and  constituting  these
+som  behövs  för  att  lösa  de      complements  necessary for sol-
+kvantum mekaniska problemen för      ving  the   quantum  mechanical
+atomen.                              behaviour of the atom.
+
+==== mass density of particles =============================== 4.08B
+6)  Alla sannt elementära  par-      All true elementary particles ,
+tiklar, till  vilka  elektronen      to which  electrons and protons
+kan räknas, har samma  massden-      belong have the same mass  den-
+sitet.                               sity.
+
+==== polarizing of electromagnetic fields ==================== 4.08C
+Det elektrostatiska kraftfältet      The electro  static force field
+som omger  elementära partiklar      surrounded  an elementary  par-
+är  polariserat  på ett  sådant      ticle  is  polarized  so that a
+sätt att ett vridmoment uppstår      torque force  will appear on it
+på  partikeln då  den  försöker      when the particle is turned out
+vrida  sig  kring   en  neutral      from a neutral position.   This
+postion.Man kan göra en liknel-      property  may be compared  with
+se med hur  en strömslinga vri-      how a current loop will turn in
+der sig i ett magnetiskt  fält.      a  magnetic  field.
+
+==== princples for the quantum process ======================= 4.08D
+Kvantbeteendet hos atomen är de      The  quantum  behaviour  of the
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.08
+--------------------------------------------------------------------- 
+ 
+ 
+egenskaper systemet uppvisar då      atom is a  system  property  of
+dess  innehållande delar växel-      matter  where particles in  the
+verkar genom elektriska krafter      system  interacts  by  inertial
+och masströghetskrafter. Proto-      and electrical forces. The pro-
+nen, som befinner sig i centrum      ton will in this  system oscil-
+av systemet,  oscillerar med en      late  with  a  frequency  which
+viss  frekvens  som i  sin  tur      disturb the  orbiting  electron
+stör den omgivande elektronen i      in  its movement.   Hence,  the
+sin  banrörelse.  Det är  denna      quantum behaviour on the atomic
+samverkan   mellan  proton  och      level is no property of a soli-
+elektron  i  systemet  som  ger      tary elementary particle (as in
+atomen sitt kvantmekaniska bete-     for  example  De Broglie's  and
+ende.                                Shrödinger's wave theories).
+
+==== the oscillating proton ================================== 4.09A
+Den   oscillerande  protonen  i      The oscillating  proton in  the
+centrum   av  systemet   skapar      center create  disturbances  in
+störningar i elektronens banrö-      the  electron's  orbit.  Toget-
+relse. Tillsammans  med en min-      her with a memory effect in the
+neseffekt  i   det   elektriska      electric field these disturban-
+fältet kommer dessa  störningar      ces will force the electron  to
+att tvinga  elektronen att röra      move in  an   orbit  where  the
+sig i bana där  den oscilleran-      oscillating   proton  create  a
+de  protonen  bildar  en sväng-      complete number of oscillations
+ningsfrekvens   utgörande   ett      constituting  an integer  value
+heltalsvärde  av  banans period.     of the orbital period.
+
+==== frequency of emitted radiation ========================== 4.09B
+Frekvensen   hos  den   avgivna      The   frequency   of  radiation
+eller   emitterade  strålningen      emitted from the atom or absor-
+från atomen utgör ett medelvär-      bed  by it constitutes the mean
+de  av  skillnaden  mellan  två      value  of the  difference  fre-
+närliggande   proton   resonans      quency  between two  successive
+frekvensen.                          proton resonance frequencies.
+
+Dessa komplementerande egenska-      These complementary  properties
+per   hos  enskilda   partiklar      of singular  particles  or pro-
+eller egenskaper  hos  det ato-      perties  of the  atomic  system
+miska  systemet utgör nu en bit      constitutes   one   bit  of the
+av det pussel som ger lösningen      puzzle  of solving the  quantum
+till det kvantmekaniska proble-      problem.  In aim making it easy
+met.  I syfte att enklare kunna      to  follow the necessary calcu-
+följa de  nödvändiga beräkning-      lations, we at  first  define a
+arna  börjar  vi  med att lista      list  of  some variables  which
+upp  några av de variabler  som      will be used in the  succeeding
+kommer att användas:                 calculations:
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.09
+--------------------------------------------------------------------- 
+
+ 
+me   ! elektronens vilomassa      !  the electron rest mass
+-----!----------------------------!---------------------------------
+     !                            !
+Mp   ! protonens vilomassa        !  the proton rest mass
+-----!----------------------------!---------------------------------
+Mc   ! vilomassan hos en godtyck- !  the rest mass of an arbitrary
+     ! lig centralpartikel        !  center particle
+-----!----------------------------!---------------------------------
+Morb ! vilomassan hos en godtyck- !  the rest mass of an arbitrary
+     ! lig orbitalpartikel        !  orbital particle
+-----!----------------------------!---------------------------------
+c    ! gränshastigheten hos mate- !  the limit velocity of matter
+     ! ria inom en partikel. Žr   !  within a particle, being
+     ! lika med ljusets hastighet !  equivalent with the velocity
+     ! mätt i relation till en    !  of light  measurement in rela-
+     ! stillastående ljuskälla    !  tion to a source in rest
+-----!----------------------------!---------------------------------
+vo   ! hastigheten hos en parti-  !  the velocity of an particle
+     ! kel i bana kring atomkär-  !  in orbit around the atomic
+     ! nan                        !  nucleus
+-----!----------------------------!---------------------------------
+re   ! viloradien hos elektronen  !  the electron rest radius
+-----!----------------------------!---------------------------------
+Rp   ! viloradien hos protonen    !  the rest radius  of the proton
+-----!----------------------------!---------------------------------
+Ro   ! viloradien hos en godtyck- !  the rest radius of an arbit-
+     ! lig partikel i bana kring  !  rary orbital particle
+     ! atomkärnan                 !
+-----!----------------------------!---------------------------------
+Rc   ! viloradien hos en godtyck- !  the rest radius of an arbit-
+     ! lig centralpartikel        !  rary central particle
+-----!----------------------------!---------------------------------
+D    ! avståndet mellan orbital-  !  the distance between the
+     ! partikeln och atomsyste-   !  orbiting particle and the
+     ! mets centrumkärna          !  center particle in the atom
+-----!----------------------------!---------------------------------
+Fe   ! den elektrostatiska Cou-   !  the electrostatic  attrac-
+     ! lumbkraften mellan den     !  ting Coulomb  force between
+     ! orbiterande partikeln och  !  an  orbiting  particle  and
+     ! en centralpartikel i det   !  the center particle in an
+     ! atomiska systemet          !  an atomic system
+-----!----------------------------!---------------------------------
+Fc   ! den centrifugalkraft som   !  the centrifugal force acting
+     ! verkar på den orbiterande  !  on an  orbiting  particle as
+     ! partikeln som ett resultat !  a result of its rotating
+     ! av den roterande rörelsen  !  movement around the center
+     ! kring centrum i atom-      !  particle in an atomic system.
+     ! systemet.                  !
+-----!----------------------------!---------------------------------
+Ek   ! den kinetiska energin hos  !  the kinetic energy (or moving
+     ! en orbiterande partikel    !  energy) of an orbiting particle
+-----!----------------------------!---------------------------------
+Ep   ! den potentiella energin    !  the  potential energy of a
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.10
+--------------------------------------------------------------------- 
+ 
+ 
+     ! en partikel i ett elekt-   !  particle situated  in an
+     ! riskt kraftfält (ett Cou-  !  electrical force field (the
+     ! lomb-fält)                 !  Coulomb field).
+-----!----------------------------!---------------------------------
+Et   ! den totala energin hos den !  the total energy of a moving
+     ! rörliga partikeln, lika    !  particle,  constituting the
+     ! med summan av kinetisk och !  sum of kinetic and potential
+     ! potententiell energi.      !  energy
+-----!----------------------------!---------------------------------
+Nc   ! antalet laddade partiklar  !  the number  of  unit charges
+     ! i atomkärnan               !  in the atomic nucleus
+-----!----------------------------!---------------------------------
+No   ! det antal partiklar som    !  the number of  orbiting par-
+     ! befinner sig i bana kring  !  ticles surrounded the atomic
+     ! atomkärnan                 !  core
+-----!----------------------------!---------------------------------
+To   ! den tid det tar för en     !  the time it takes for an
+     ! orbiterande partikel att   !  orbiting particle to do
+     ! röra sig ett varv kring    !  one single turn around the
+     ! systemets centralpunkt     !  center point of the atom
+-----!----------------------------!---------------------------------
+Tc   ! den tid det tar för en     !  the time of  an  oscillating
+     ! proton i atomkärnan att    !  period of the proton particle
+     ! utföra en svängningscykel  !  in the atomic nucleus
+-----!----------------------------!---------------------------------
+fc   ! frekvensen hos en oscille- !  the  associated  oscillating
+     ! rande proton               !  frequency of time Tc
+-----!----------------------------!---------------------------------
+W    ! våglängden (avståndet      !  the wavelength  (the distan-
+     ! mellan två successiva      !  distance between two succes-
+     ! fluktuationer i den propa- !  sive fluctuations in the
+     ! gerande strålningsfronten  !  propagating radiation front
+-----!----------------------------!---------------------------------
+h    ! Plancks konstant           !  the Planck's constant
+-----!----------------------------!---------------------------------
+a-1  ! det inversa värdet av den  !  the inverse  value  of the
+     ! atomiska finstrukturkon-   !  atomic fine structure
+     ! stanten                    !  constant
+-----!----------------------------!---------------------------------
+n    ! ett heltalsvärde, ekviva-  !  an integer value, being equi-
+     ! lent med huvudkvanttalet i !  valent to the main quantum
+     ! i Bohrs atommodel          !  number in Bohr's atomic model
+-----!----------------------------!---------------------------------
+
+
+Att börja med slår vi fast, att      To begin with we establish that
+Bohrs   enkla  atommodell  till      Bohr's  simple atomic model  in
+sina  huvuddelar   var  riktig,      its main parts  is correct, yet
+dock ej fullständig.  Vi accen-      not  complete.   We  accentuate
+tuerar detta emedan Bohrs teori      that because Bohr's  theory er-
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.11
+--------------------------------------------------------------------- 
+ 
+ 
+kritiserats som felaktig enbart      roneously  has been  judged  as
+för att  den  ersatts  av andra      erroneous only  for that reason
+mera  sofistikerade matematiska      that  it  has been replaced  by
+kvantmekaniska modeller.  Emel-      other  more  sophisticated  mo-
+lertid,  som vi här skall visa,      dels. But as we here shall see,
+i botten  på  dessa  nyare  och      in bottom of  all these new and
+förbättrade teorier, exempelvis      improved theories, for instance
+Shrödingers   vågekvation   för      the Shrödinger  wave  equation,
+atomen,    finns  Bohrs   enkla      Bohr's  simple model is in  the
+modell som grundläggande ide'.       bottom the working idea.
+
+
+                   =====================
+
+
+
+Vi  skall  använda oss  av  den      We  shall use the  most  simple
+enklaste av alla atomer, vätea-      atom, the hydrogen atom, as our
+tomen  som  vårt  studieobjekt.      object of study. This atom con-
+Denna atom innehåller en proton      tains  a  proton at its  center
+i  centrumkärnan  och en  enkel      and a single  electron  in  the
+elektron i orbit.  Mellan dessa      orbit.  Between  these two par-
+båda partiklar  verkar elektro-      ticles,  electrical  forces act
+statiska krafter i enlighet med      in  accordance  with  Coulomb's
+Coulombs  lag.  I enlighet  med      law.  In  accordance  with this
+detta gör vi vi följande  defi-      law  we can make the  following
+nitioner:                            mathematical definitions:
+
+
+==== Coulomb's law =========================================== 4.12A
+              2
+     Fe = kp/D.N1.N2              ( see formula 3.21B )
+                       2
+     where ke = me.re.c .Z        (Z = N2)
+                       2  2
+           kp = me.re.c .Z        (Z = N1.N2)
+==============================================
+
+
+Orbitalelektronen  rör sig  med      The orbital electron moves with
+en hastighet, vo.  Vi  förmodar      velocity, vo.  We  suppose  the
+att  denna hastighet  är  liten      velocity  is small compared  to
+jämfört  med  gränshastigheten,      the limit velocity,  c,  so the
+c,  så  att  rörelsenergin  för      kinetic energy of the  electron
+elektronen  kan   beräknas  med      may  be  computed  by  Newton's
+Newtons formel:                      formula :
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.12
+--------------------------------------------------------------------- 
+ 
+==== The kinetic energy of the electron ====================== 4.12B
+
+                         2
+     Ekin = 1/2.morbit.vo            ( see  3.1.26A )
+
+===========================
+
+
+Elektronen  befinner  sig i ett      The  electron is situated in  a
+kraftfält  och  i enlighet  med      force  field  and  according to
+klassiska lagar motsvarar detta      classical  laws that correspond
+en  potentiell  energi.   Denna      to  a   potential  energy.  The
+potentiella energi kan beräknas      potential energy  can be compu-
+från:                                ted from:
+
+
+==== The potential energy of the electron ==================== 4.13A
+
+     Epot = -ke/D                 ( see 1.27A )
+
+=================
+
+
+I ett system där energiinnehål-      In  a system where  the  energy
+let är konstant oförändrat, dvs      content  is  constant  and  un-
+där  ingen   utstrålning  eller      changed,  with no  radiation of
+absorption  av energi  förekom-      energy  and  no  absorbing   of
+mer, är summan av rörelseenergi      energy, the  sum of kinetic and
+och potentiell energi konstant:      potential energy  is constant:
+
+
+
+==== Equality between kinetic energy and ===================== 4.13B
+==== potential energy of the electron ========================
+
+                                     2
+     Etot = Ekin + Epot = 1/2.morb.vo -ke/D
+
+============================================
+
+
+Det  är väl känt att frekvensen      It is well known that the freq-
+hos den emitterade  strålningen      uency of the  emitted radiation
+från atomen (ljus) inte  direkt      from  an atom (light) cannot be
+kan associeras  med elektronens      associated  directly  with  the
+orbitalfrekvens   utan  skiljer      orbital frequency of the  orbi-
+sig från denna.Anledningen till      ting electron, but differs from
+detta kommer här att  beskrivas      it.  The reason  for it will be
+i termer av några nya hypoteser      described here in terms of some
+beträffande  egenskaper hos  de      new  hypotheses  involving  the
+elementära  partiklar som ingår      properties of those  elementary
+i systemet.  Två av dessa hypo-      particles    contained  in  the
+teser är som följer:                 system. Two of these hypotheses
+                                     are as follows:
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.13
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+==== mass density of elementary particles ==================== 4.14A
+Elektroner, såväl som protoner,      Electrons,  as well as protons,
+betraktas här som homogena par-      are here  regarded as homogene-
+klar som har konstant massaden-      ous particles,  having constant
+sitet och  kan på  så sätt  be-      mass  density and  they can  be
+traktas som idealiserade punkt-      idealized as point particles.
+partiklar.
+
+==== polarized electrical force ============================== 4.14B
+Den   elektrostatiska  Coulomb-      The electrostatic Coulomb force
+kraften verkar på ett polarise-      acts in a polarizing way on the
+rat sätt på protonen,  mycket i      proton,  much in  analogy  with
+analogi  med hur  en  torsions-      how a torsional momentum arises
+kraft(moment)   uppstår  på  en      on a current wire loop situated
+strömförande  trådslinga i  ett      in a magnetic field.
+magnetiskt fält.
+
+
+Hypotes  nummer 4.14A  står  i       Hypotes  4.14A  is    contrary
+konlikt  med  etablerad  teori,      current belief which state that
+vilken hävdar, att en partikels      the extension of a particle (or
+(eller   partikelsystems)   ut-      particle  system) is in an  in-
+sträckning står i  omvänd  pro-      verse proportion to its mass or
+portion till massan eller ener-      energy  content.  However, this
+giinnehållet.   Emellertid   är      belief is,  in   the   author's
+detta,   enligt  min    mening,      opinion,  founded  on a  misin-
+grundat på en  misstolkning som      terpretation emanating  from De
+härstammar   från  De  Broglies      Broglie's  formula :
+formel m.v.D = h/(2.Pi),  till-      m.v.D = h/(2.Pi),  applied as a
+lämpad  som  en generell  regel      universal  rule for  particles,
+for alla partiklar eller parti-      or particle systems.
+kelsystem.
+
+Punkt 4.14A   hypotesen    kan      The point 4.14A  mathematically
+matematiska  termer  formuleras      the hypothesis can be  formula-
+som :                                ted :
+
+
+==== Relation radius/mass of a point particle =============== 4.14C
+
+                 1/3
+  Rp = re.(MP/me)         where, Rp is the rest radius, or
+                          extension, of the proton.
+
+                          där ,  Rp  är  viloradien,  eller
+                          protonens utsträckning.
+
+===============================================================
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden    4.14
+--------------------------------------------------------------------- 
+ 
+ 
+
+I enlighet med  punkt 4.14B hy-      In  accordance  with the  point
+potesen ovan skapas en vridande      4.14B  hypothesis  a  torsional
+kraft på protonpartiklen med en      force is  created on the proton
+magnitud  som kommer att stå  i      particle  and the  magnitude of
+direkt  proportion  till vinke-      this torsional  force or momen-
+lavvikelsen   räknat  från   en      tum will be in  proportion to a
+neutral position.  Detta kan vi      angular divergence from  a neu-
+kvantifiera   i  en  matematisk      tral    position. That  we  can
+formel sålunda:                      qualify by the formula:
+
+
+
+==== The torsional force applied on the proton ============== 4.15A
+
+     Ft = (s/Rp).Fe
+
+=====================
+
+
+där , s,  är  en liten  sträcka      where, s , is  a small distance
+uppmätt  på  periferin  av pro-      on the periphery of the  proton
+tonytan. Rp,  är  protonradien;      surface; Rp,is the proton radi-
+och ,  Fe ,  är   den  maximala      us; and , Fe,  is  the  maximun
+elektriska kraften som anbring-      electrical force applied on the
+as på protonen och på elektron-      proton and the electron.
+en :
+
+När  partikeln vrider sig i det      When the particle twists in the
+elektrostatiska   fältet skapas      electrostatic  field,  inertial
+tröghetskrafter i  överensstäm-      forces are created in accordan-
+melse med Newtons andra lag för      ce with  Newton's second law of
+kraft, vilket ger:                   force, giving:
+
+
+==== The ineterial torsional force applied on the proton ==== 4.15B
+
+               2    2
+      Fm = Mp.d s/dt                 ( see 1.23B )
+
+=======================
+
+
+Krafterna , Ft ,  och  Fm,  här      The  forces, Ft, and, Fm,  here
+definierade är i balans i varje      defined are in balance at  each
+tidsmoment,  vilket  skapar  en      moment  of  time,  creating  an
+elektro-mekanisk oscillator som      electro-magnetical  oscillator,
+kan beskrivas  genom  differen-      described by  the  differential
+tialekvationen :                     equation :
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.15
+--------------------------------------------------------------------- 
+ 
+ 
+
+============================================================== 4.16A
+
+       2    2
+      d s/dt .Mp - (s/Rp).Fe = 0
+
+=================================
+
+
+
+Om vi sätter in 4.12A  i 4.16A       Substituting 4.12A in 4.16A  we
+kan vi  reducera  denna formel       can reduce this formula to :
+till :
+
+
+============================================================= 4.16B
+
+                                                2
+                             where K= k/(Mp.Rp.D ) which we
+                             here define for simplicity.
+       2  2                                   2
+      d /d s - s. K = 0      där K= k/(Mp.Rp.D ) vilket vi
+                             här för enkelhets skull defini-
+                             erar.
+                  2  2
+      kp = me.re.c. Z
+
+                      2
+      K = kp/( Mp.Rp.D )
+
+===================================================================
+
+
+Vi  löser  denna  mycket  enkla      We   solve  this  very   simple
+harmoniska differentialekvation      harmonical  differential  equa-
+vilket ger periodtiden, tp, hos      tion and get the  period of the
+protonpartikeln vibration till :     vibration , tp, of  the  proton
+                                     particle :
+
+
+============================================================= 4.16C
+
+             __  /------    __
+      tp = 2.//./  1/K =  2.//.D.K1
+               V
+
+
+          ---------                              ---------
+där K1 = / Mp.Rp/kp                  where K1 = / Mp.Rp/kp
+        V                                      V
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.16
+--------------------------------------------------------------------- 
+ 
+ 
+
+==============================================================
+
+
+tp,  är  här  oscillationstiden      tp, is  here  the   oscillation
+för protonpartikeln i  det ato-      time of the proton particle  of
+miska systemet, genererad av de      the  atomic  system,  caused by
+existerande     elektrostatiska      existing electrostatical forces
+krafterna och de  masströghets-      and  mass  inertial forces that
+krafter som finns  i  systemet.      are  involved  in  the  system.
+Emedan  protonen,  så  väl  som      Because the proton, as well  as
+elektronen,  är  en  elektriskt      the electron, is an  electrical
+laddad partikel,är båda partik-      charged  particle, both partic-
+larna   omgivna  av  elektriska      les are surrounded  by electri-
+fält. Men det  finns  en   stor      cal  fields.   But there  is  a
+skillnad mellan dessa  två par-      great  difference between these
+tiklar; de skiljer i massa  med      two   particles:  they   differ
+förhållandet   ungefär  1:2000,      approximately  in   the  ration
+vilket har  till  resultat  att      1:2000 in mass, with the result
+den lättare partikeln,här elek-      that the lighter particle, here
+tronen, kommer  att  bli   mera      the electron, will be much more
+känslig  för  störningar i  det      sensitive to   disturbances  in
+omgivande   elektriska  fältet.      the    surrounding   electrical
+Elektronen kommer  sålunda  att      field.  Hence the electron will
+störas  i  sin  rörelse  av det      be disturbed in its movement by
+växlande fältet,och medan denna      the changing  field,  as a dis-
+störning i fältet ej omedelbart      turbance   will  not  disappear
+försvinner, uppstår en resonan-      instantly, a  resonance  effect
+seffekt    mellan   elektronens      will  arise between the  elect-
+orbitaltid och protonens sväng-      ron's  orbital  time   and  the
+ningstid.  Vi  inför därför, på      proton's  oscillating time.  We
+ett liknande sätt som Bohr, ett      introduce, in a similar  way to
+kvantum-nummer, n ,   utgörande      Bohr,  a  quantum  number,   n,
+ett  heltalsförhållande  mellan      constituting  an  integer value
+dessa  tidsperioder.  Detta kan      between these two time  periods
+uttryckas:                           giving:
+
+
+============================================================= 4.17A
+       tp.n= torb
+                __
+       torb = 2.//.D/vo
+
+       forb = 1/torb
+=======================
+
+
+För  enkelhet förmodar  vi här,      Here,  for  simplicity,  it  is
+att elektronbanan  är en cirkel      supposed that the  electron or-
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.17
+--------------------------------------------------------------------- 
+ 
+ 
+eller att, D, och , vo , repre-      bit is a circle and  that , D ,
+senterar  medelvärden  för  av-      and, vo, represent mean  values
+stånd och hastighet.                 for distance and velocity.
+
+Vi kombinerar 4.17A, 4.16C  och      We  combine  4.17A,  4.16C  and
+löser  ut  banhastigheten  från      solve for the  orbital velocity
+vationerna till:                     of the equations  as:
+
+
+============================================================= 4.18A
+
+vo = 1/(n.K1)
+
+=============
+
+
+Vidare har vi ett balansvillkor      Furthermore, we  have a balance
+mellan  centrifugalkraften,  en      condition  between the  orbital
+masströghetskraft,      och den      centrifugal  force, an inertial
+elektriska     Coulomb-kraften,      force,  and   the    electrical
+vilket ger:                          Coulomb    centrifugal   force,
+                                     giving :
+
+
+============================================================== 4.18B
+
+             2        2                      2
+      morb.vo/D = ke/D   ; Ekin = 1/2.morb.vo  = 1/2.ke/D
+
+=========================================================
+
+I kombination med 4.18A kan  vi      In    combination   with  4.18A
+lösa ut värdet på, D, till:          solve for the value, D , as :
+
+
+
+============================================================= 4.18D
+
+                    2    2
+      D= (ke/morb).n.(K1)
+
+==========================
+
+Vi kan  nu  beräkna  den totala      Now we can  compute  the  total
+energin lagrad i systemet genom      energy  stored in  the  system,
+att använda  formlerna   4.18B,      using 4.18B, 4.13B :
+4.13B :
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.18
+--------------------------------------------------------------------- 
+ 
+ 
+============================================================== 4.18E
+
+                           2
+     Etot = 1/2.morb/(n.K1)
+
+============================
+
+
+Vi studerar denna  energi i två      We make a study of this  energy
+separata   fall,  när ,  n=n1 ,      in  two different  cases, when,
+n=n2 , respektive,  motsvarande      n=n1 , and when , n=n2 ,respec-
+de totala energierna , E1 ,och,      tively, corresponding with  the
+E2 , i systemet.                     total  energy in the system of,
+                                     E1, and , E2.
+
+
+När  den orbiterande  partikeln      When the orbital particle jumps
+hoppar mellan dessa två energi-      between  these  two  states  of
+tillstånd, emitteras energidif-      energy, the  energy  difference
+ferensen  , E1-E2 , i  form  av      E1-E2 is emitted in the form of
+strålning (ljus)  eller  absor-      radiation  (light)  or absorbed
+beras strålningen  från  omgiv-      by radiation  from the environ-
+ningen. Vi  finner   att  denna      ment. We find  this energy dif-
+energiskillnad är :                  ference to be:
+
+
+============================================================== 4.19A
+                                 2    2      2
+      dE= E1-E2 = 1/2.morb.(1/K1).(1/n1 - 1/n2 ) =
+
+                          2
+          1/2. morb.(1/K1). f(n)
+
+
+där                 2      2
+where     f(n)= 1/n1 - 1/n2
+
+==============================================================
+
+
+Som vi har fastslagit förut, så      As  was stated before, the fre-
+är  frekvensen hos den  avgivna      quency of the  radiated  energy
+strålningen  ej   densamma  som      is  not the same as the orbital
+orbitalfrekvensen hos  elektro-      frequency of  the  electron  as
+nen  såsom  beräknad  i  formel      computed  from 4.17A.  Instead,
+4.17A.Istället utgör den avgiv-      the emitted  or  absorbed  fre-
+na eller absorberade frekvensen      quency constitutes a difference
+skillnaden mellan två successi-      between two  successive  proton
+va   frekvenser    i  protonens      disturbance frequencies at occa-
+svängningsfrekvens vid tillfäl-      sions, n1, and, n2, respective-
+lena , n1,  och , n2 ,  respek-      ly, and a mean value of it.
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden    4.19
+--------------------------------------------------------------------- 
+ 
+ 
+tive,  och  ett  medelvärde          Hence, by  this  hypothesis  we
+dessa. Således, genom detta          can define:
+antagande kan vi definiera:
+
+
+
+============================================================== 4.20A
+
+      fout= 1/2(fp1 - fp2)
+
+============================
+
+
+och genom att använda  resultat      and by using results from 4.16C,
+från 4.16C, 4.18D, 4.20A, 4.19A      4.18D,  4.20A, 4.19A  we get :
+erhåller vi :
+
+
+============================================================== 4.20C
+
+            __            2   3
+      tp= 2.//.(ke/morb).n. K1
+
+                       __                 3  2
+      fp= 1/tp = (1/(2.//).(morb/ke).(1/(K1.n )
+
+                          __      3
+      fout = morb.f(n)/(4.//.ke.K1 )
+
+===============================================
+
+
+
+Vi  dividerar  resultatet  från      We divide the result from 4.19A
+4.19A med resultatet från 4.20C      by the  result  from  4.20C and
+och erhåller  Plancks konstant,      obtain  Planck's  constant,  by
+av hävd definierad som relatio-      definition equal to, dE/fout :
+nen, dE/fout :
+
+
+============================================================== 4.20E
+                    __
+      h= dE/fout= 2.//.ke.K1
+
+==============================
+
+
+Från 4.16C samt 4.14C xerhåller       From 4.16C and 4.14C we get:
+vi :
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.20
+--------------------------------------------------------------------- 
+ 
+ 
+
+============================================================== 4.21A
+
+                 2/3  ---------
+      K1 = (Mp/me)  ./ me.re/kp
+                    V
+
+==================================
+
+och genom att multiplicera båda      and  on multiplying both  sides
+sidor med k :                        by k :
+
+
+============================================================== 4.21B
+                 2                        2  2
+  ke.K1 = me.re.c .Z . sqrt(Mp.Rp/(me.re.c .Z )
+
+  ke.K1 = me.re.c. sqrt(Mp/me.Rp/re))
+
+================================================
+
+
+
+
+Vi kombinerar 4.14C, 4.21B :         We combine 4.14C,4.21B,giving:
+
+
+
+============================================================== 4.21C
+
+           __                 2/3
+      h= 2.//.me.re.c. (Mp/me)
+
+
+=================================
+
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.21
+--------------------------------------------------------------------- 
+ 
+ 
+Vi definierar:                       We define:
+
+============================================================== 4.22A
+
+                   2/3
+      a-1 = (Mp/me)          the "fine structure constant, inverse"
+
+=========================
+
+vilket   är  ett  approximativt      which is an approximative value
+värde på inversen  av finstruk-      of the  inverse fine  structure
+turkonstanten, vilket ger :          constant, giving :
+
+
+
+============================================================== 4.22B
+           __
+      h= 2.//.me.c.re.a-1
+
+==========================
+
+
+Vi beräknar det numeriska  vär-      We compute the numerical  value
+det av, h ,i formel 4.22B genom      of, h , in 4.22B  by  inserting
+att  sätta  in kända  numeriska      known   numerical    constants,
+konstanter, vilket  ger 7.3E-34      giving  7.3E-34 Ws(2),   to  be
+Ws(2),  detta att jämföras  med      compared with 6.62E-34 Ws(2) as
+6.62E-34  Ws(2) som  det  offi-      the official  sanctioned  value
+ciellt sanktionerade värdet för      for this  constant.  The reason
+denna  konstant.  Orsaken  till      for the  small  discrepancy  is
+den  lilla  avvikelsen  är  att      that the relation  (Mp/me)(2/3)
+finna i relationen (Mp/me)(2/3)      is some 8% too large  in compa-
+som  är 8% för stor i  relation      rison to the measured value  of
+till mätvärdet som är 137.02. I      137.03.  In turn the reason for
+sin tur, orsaken till detta  är      this   is  due  to  imprecisely
+att finna i otillräcklig känne-      known parameters  of mass dist-
+dom om massfördelning och ladd-      ribution of the proton as  well
+ningsfördelning i och över pro-      as  of  distribution  of charge
+tonens yta.                          over the protons surface.
+
+Bohrs  kvantmekaniska  relation      Bohr's quantum mechanical rela-
+som  skrivs m.v.D=h/(2.Pi)  kan      tion, written    m.v.D=h/(2.Pi)
+nu beräknas på  följande  sätt:      then  is computed in the follo-
+Insättning  av  resultat   från      wing way: Inserting  the result
+4.18A, 4.18D och 4.16C i  prod-      of 4.18A,4.18D and 4.16C in the
+dukten m.v.D ger :                   product of, m.v.D , gives:
+
+
+
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.22
+--------------------------------------------------------------------- 
+
+ 
+============================================================== 4.22C
+ 
+      morb.vo.D =n.h/(2.Pi)
+
+=========================
+
+
+vilket är Bohrs  kvantmekaniska      which is the quantum mechanical
+villkor, vilket han använde sig      condition Bohr used as a funda-
+av i sin teori utan  att ge det      mental  condition for his quan-
+någon  fysikalisk eller  logisk      tum theory, but without  giving
+motivation.                          it  a physical or logical moti-
+                                     vation.
+
+Från 4.14C  beräknar vi  proto-      From equation 4.14C we  compute
+nens radien till  approximativt      the proton radius as approxima-
+35 fermi (1 fermi= 1E-15 meter).     tely 35 fermi   (1  fermi=1E-15
+Det  officiellt   sanktionerade      metres).  The official sanctio-
+värdet för  protonradien (eller      ned value for the proton radius
+utsträckningen)  är  1  till  2      (or  extension)  being 1  to  2
+fermi.  Emellertid går att dis-      fermi.    Howerer,  it  may  be
+kutera om man  avser partikelns      discussed wether it is the par-
+laddningsradie  eller dess geo-      ticle's charge  radius  or  the
+metriska radie. I detta fall är      particle's geometrical mass ra-
+det den  gemometriska massradi-      dius which  is discussed.  Here
+en som avses.                        it is the mass radius.
+
+                         --------------
+
+Det är väl känt  att den "klas-      It  is  well  known  that   the
+siska"  elektronradien kan  be-      "classical" electron radius can
+räknas ur relationen  :              be computed from the  relation :
+
+
+
+============================================================= 4.23A
+
+                   2
+                 eo            The "classical electron radius"
+      re = -------------       is got by integrating the energy
+              __        2      needed to move an electron from
+            4.//.Eo.me.c       infinity to the limit of the radius.
+                               The assumed energy is mo.c(2).
+
+==========================
+
+
+
+Vi kan också  beräkna mera bes-      We may also  compute more defi-
+tämda  uttryck   för   utgående      nite  expressions for  outgoing
+våglängd  och frekvens.   Genom      wavelength and frequency.  Com-
+att kombinera  4.23A och  4.12A      bining 4.23A and 4.12A gives:
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.23
+--------------------------------------------------------------------- 
+ 
+ 
+får vi:
+
+============================================================== 4.24A
+
+              2
+             e        1         k
+      re = -------. ------ =   ----
+             __          2          2
+           4.//.Eo   me.c       me.c
+
+                2
+      k= me.re.c
+
+=========================================
+
+
+Genom att kombinera 4.16C,4.14C      Combining   4.16C,  4.14C   and
+4.22A erhålles:                      4.22C geives :
+
+
+
+============================================================== 4.24B
+
+                ----------
+      K1 = a-1./ me.re/kp  = a-1/(c.Z)
+             V
+
+              f(n).c      2
+     fout = -----------  Z
+              __      3
+            4.//.re.a-1
+
+===========================
+
+
+och våglängden  hos den emitte-      and the wavelength of the emit-
+rade vågen:                          ted wave:
+
+============================================================== 4.24C
+                                 __       3  2
+      Wout = c/fout = 1/f(n) . 4.//.re.a-1 /Z
+
+                 2  2            2
+      2.Pi.re.a-1 .n = 1/2.Wout.Z
+
+============================================
+
+
+Vi  beräknar   det   emitterade      We  compute the energy emitted-
+energikvantat från 4.19A  genom      quantum from  4.19A,  inserting
+att sätta  in  konstanternam, k,     the  constants , k , and ,  K1,
+samt, K1, i denna ekvation:          inot this equation:
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.24
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+============================================================== 4.25A
+
+                            2                   k
+      dE= 1/2.morb.f(n).1/K1 = 1/2.me.f(n). -------- =
+                                               2
+                                             a-1.me.re
+
+                      2    2          2
+          1/2. morb.c. / a-1 . f(n) .Z
+
+======================================================
+
+
+Elektronmassan konverterad till      The  electron mass converted to
+energi motsvarar 0.511 Mev. Det      energy  corresponds   to  0.511
+officiellt exakta värdet på den      Mev.   The official exact value
+atomiska  finstrukturkonstanten      of the atomic   fine  structure
+är 137.02, varmed erhålles           constant is 137.02, so that
+
+
+
+============================================================== 4.25B
+                          2
+      dE= 13.6. f(n) eV .Z
+
+===========================
+
+
+Den klassiska    elektronradien      The  classical electron  radius
+beräknas från 4.24A och  befin-      is  computed  from  4.24A   and
+nes vara 2.8179E-15 meter.Sätt-      found to be 2.8179E-15  metres.
+er  vi in  detta värde  i 4.24C      Inserting this value into 4.24C
+erhålles :                           gives :
+
+
+============================================================== 4.25D
+                                 2
+      1/W= f(n).1.097E7 m   ( x Z )
+
+===================================
+
+
+
+vilket är Rydberg's konstant.        which is Rydberg's constant.
+
+
+För  fullständighets skull  be-      For  the completeness  we  also
+räknar vi också  mera distinkta      compute more distinct values of
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.25
+--------------------------------------------------------------------- 
+ 
+ 
+värden på  banradien,  D ,  och      the orbital radius, D, and  the
+banhastigheten,vo, hos elektro-      orbital velocity  of the elect-
+nen.  Genom att sätta in värden      ron, vo.  Inserting the  values
+på, k , och, K1 ,  från   form-      of, k, and, K1, from  4.18D and
+lerna 4.18D, 4.16C erhåller vi:      4.16C we get :
+
+
+============================================================= 4.26B
+
+                   2  2                 2  2
+       D= (ke/me).n.K1 = (me/morb).re.a-1.n  /Z
+
+
+       vo = 1/(n.K1) = c/(n.a-1) .Z
+
+==================================
+
+
+
+Om, n, sätts lika med  1 erhål-     If, n, is put  equal to  1,  one
+ler vi  ett gränsvärde  för, D,     obtains the  limit  value of, D,
+och , vo, lika   med   5.29E-11     and, vo, equal to 5.29E-11  met-
+meter samt 2.29E5  m/s  respek-     res and 2.29E5 m/s respektively.
+tive. Gränsvärdet för, D,brukar     The  limit  value for , D m usu-
+vanligtvis benämnas Bohrradien.     is   is  given  the  name of the
+                                    Bohr radius.
+
+
+SHRÖDINGERS VÅGEKVATION              SHRÖDINGER'S  WAVE EQUATION
+-----------------------              ---------------------------
+
+Shrödingers   vågekvation   har      Shrödinger's wave  equation has
+varit  av  central  betydelse i      been  of central importance  in
+utvecklingen  av  den   atomära      the development of atomic quan-
+kvantfysiken. Ekvationen repre-      tum  theory.   The equation  is
+senteras av en funktion, Y, och      represented by by the function,
+beskriver  sannolikheten av att      Y, and it  describes the proba-
+finna en orbiterande elektron i      bility of  finding  an  orbital
+en specifik punkt inom den ato-      electron at a specific point of
+mära volymen. Mycket har speku-      the atomic  volume.   Much  has
+lerats  omkring vad  denna mys-      been speculated about what this
+tiska  ekvation i  verkligheten      mystical equation really stands
+står för, vad den representerar      for  and what it represents  or
+eller  hur den skall  tolkas  i      how it should   be  interpreted
+fysikaliska termer.  Det kommer      physically.   It will be  shown
+här att visas att ekvationen, i      here that it is,  in principle,
+princip, är samma  ekvation som      the  same as our equation 4.16B
+4.16B ovan,  men  transformerad      above, but  transformed  to con-
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.26
+--------------------------------------------------------------------- 
+ 
+ 
+till  förhållanden  på  orbital      ditions  at  the orbital  level.
+nivå av atomen. I sin mest enk-      In its most  simple  form, Shrö-
+la form  kan Shrödingers  ekva-      dinger's equation  can be  writ-
+tion skrivas:                        ten as:
+
+
+============================================================== 4.27A
+
+               2        __ 2
+              d Y     4.//
+             ----- - ------ = 0
+                2        2
+              ds       W
+
+================================
+
+
+
+where     Y     is a wave function of probability of finding an
+                electron of an atom at a specific point in space,
+                or describing the distribution of energy within a
+                specific space element;
+
+          W     is the wavelength of the emitted radiation from the
+                atom
+
+          ds    is a small distance element in space represented by
+                a specific coordinate system (x,y,z,O)
+
+
+där       Y     är en vågfunktion som uttrycker sannolikheten av
+                att finna en elektron i en specifik punkt i rummet
+                eller beskriver fördelningen av energi inom ett
+                specifikt rymdelement;
+
+          W     är våglängden hos den emitterade strålningen från
+                atomen
+
+          ds    är ett litet längdelement i rummet, uttryckt i
+                dimension av ett specificerat koordinatsystem
+                (x,y,z,O)
+
+
+Vi  startar  med  vår  ekvation      We   start  with  our  equation
+4.16B, vilket ger :                  4.16B, giving :
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.27
+--------------------------------------------------------------------- 
+
+ 
+
+============================================================== 4.27B
+
+       2
+      d s
+      --- - s.K = 0
+        2
+      dt
+
+========================
+
+                             2                  2  2
+där            K= kp/(Mp.Rp.D )   ; kp = me.re.c .Z
+where
+
+
+Vi  skriver  om denna  ekvation      We then rewrite this  equation,
+genom att ersätta, s, med  våg-      replacing, s, by the wave func-
+funktionen, Y.                       tion , Y .
+
+============================================================== 4.28A
+
+       2
+      d Y
+      ---- - K.Y = 0
+        2
+      dt
+
+=====================
+
+
+Emedan den emitterade strålnin-      Because  the emitted  radiation
+gen rör sig med ljusets hastig-      moves  with   the  velocity  of
+het, c,kan vi definiera följan-      light , c , we  can define  the
+de samband :                         following relations :
+
+
+============================================================== 4.28B
+
+                      2    2  2
+      dt= ds/c   ;  dt = ds/c
+
+===============================
+
+
+
+Insättning av  dessa resultat i      Inserting   these   resulta  in
+ekvation 4.28A ger :                 equation 4.28A gives :
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.28
+--------------------------------------------------------------------- 
+ 
+
+
+============================================================== 4.28C
+ 
+       2
+      d Y   2
+     -----.c - K.Y = 0
+        2
+      ds
+
+=======================
+
+
+
+Variabeln, K ,transformeras med      The variable, K, is transformed
+hjälp av 4.26B,4.12A på följan-      with the aid  of  4.26B, 4.12A,
+sätt:                                in the following way :
+
+
+
+                              2  2  2           2  4
+        kp             re.me.c .Z .Z           c .Z
+K = ---------- = ----------------------- = -----------  =
+            2     Mp    Rp     2   4  4      2   6   4
+     Mp.Rp.D     ---.me.--.re.me.a-1.n      re. a-1.n
+                  me    re
+
+             __ 2 2   4
+           4.//. c  .Z
+     ---------------------
+        __      3  2 2
+     (2.//.re.a-1.n  )
+
+
+============================================================== 4.29B
+
+                  2  __2  4
+              4. c . // .Z
+       K= --------------------
+              __      3  2  2
+           (2.//.re.a-1.n  )
+
+================================
+
+
+
+Studerar  man  ekvation  4.24C,      Studying equation 4.24C, we can
+kan vi med lätthet  se att pro-      easily  see  that  the  product
+dukten inom parentesen är  lika      within the parenthesis is equal
+             2                                   2
+med , (W/2).Z, vilket ger :          to , (W/2(.Z, giving :
+
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.29
+--------------------------------------------------------------------- 
+ 
+
+
+============================================================== 4.29C
+ 
+            __2   2
+          4.// .c
+      K= --------
+               2
+          (W/2)
+
+======================
+
+
+Vi  sätter in detta resultat in      We insert this  result in 4.30A
+ekvation 4.xxx som ger :             to obtain :
+
+
+============================================================== 4.30B
+
+       2        __ 2
+      d Y     4.//
+     ----- - ------- = 0
+        2          2
+      ds      (W/2)
+
+=========================
+
+
+
+Denna ekvation    representerar      This equation represents oscil-
+svängningar  hos  protonen,  ej      lations  of  the  proton,   not
+svängningar på orbital nivå där      vibrations on the orbital level
+våglängden är två gånger  stör-      where wavelengths are two times
+re. Således,   denna   ekvation      greater.  Hence,  this equation
+transformerad till orbital nivå      transformed   to  the   orbital
+får formen :                         level will be
+
+
+============================================================== 4.30C
+
+      2           2
+     d Y      4.Pi Y
+     ---   -  ------ = 0
+       2         2
+     ds         W
+
+====================================
+
+på  orbital  nivå  av   atomen,      on  the  orbital  level  of the
+vilket är  Shrödingers vågekva-      atom,  which  is   Shrödinger's
+tion i sin enklaste form.            wave equation  in  its simplest
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.30
+--------------------------------------------------------------------- 
+ 
+ 
+SAMMANFATTNING                       CONCLUSIONS
+--------------                       -----------
+
+De flesta av de resultat som vi      Most  of  all the results  here
+här  har  erhållit  ligger  väl      achieved  correspond  well with
+inom   ramen  för   accepterade      known   results,  accepted   in
+resultat inom nuvarande  kvant-      current quantum physical  theo-
+mekaniska   teorier,  men   det      ries, but there are also diffe-
+finns  också   olikheter  vilka      rences  which deserve  more at-
+förtjänar   uppmärksamhet.    I      tention.    In  some   distinct
+några distinkta punkter  summe-      points we  here  summarize  the
+rar  vi här de mest  betydelse-      most  important   and    unique
+fulla och unika resultaten  som      results that have  been  so far
+vår teori erbjuder oss:              arrived at:
+
+
+==== the quantum mechanical process ========================== 4.31A
+Kvantmekaniska  processer  inom     Quantum  mechanical    processes
+atomen  kan beskrivas  i termer     within an atom  can be described
+av väl kända fysikaliska  lagar     in terms  of well known physical
+inom   elektrofysik  och  genom     laws  from electrophysics and by
+Newtons  masströghetslagar. Mo-     Newton's mass   inertial   laws.
+dellen  ger en  fullt  determi-     The model gives  a full determi-
+nistisk     beskrivning  av  de     nistic    description   of these
+kvantmekaniska processerna.         processes.
+
+==== Planck's constant ======================================= 4.31B
+Plancks  konstant  är  en  ato-      Planck's    constant    is   an
+miskt  systemkonstant begränsad      atomic system  constant limited
+enbart till   atomiska   system      to atomic  systems  or  atomic-
+eller  atomlika system och  har      like systems,and having no com-
+ingen  allmän  betydelse.  Kon-      mon use. The constant is compo-
+stanten är  sammansatt av  fyra      sed of  four other  more funda-
+andra konstanter av mera funda-      mental  entities, the  electron
+mental natur, elektronens vilo-      rest  mass,  me,  the  electron
+massa, me, elektronens  vilora-      rest  radius, re, the  velocity
+die, re, ljusets  hastighet, c,      of light , c ,  and  the proton
+och protonens vilomassa, Mp.         rest mass, Mp.
+
+==== the atomic fine structure constant ====================== 4.31C
+Den    atomiska    finstruktur-      The   atomic   fine   structure
+konstanten  utgör   en relation      constant is a  relation between
+mellan protonens vilomassa, Mp,      the  proton rest mass, Mp,  and
+och elektronens vilomassa,  me,      the  electron  rest  mass,  me,
+upphöjt till approximativt  2/3      raised   to  2/3  approximately
+(det exakta värdet motsvaras av      (the exact value corresponds to
+exponenten 0.65467 istället för      the exponent of 0.65467 instead
+2/3=0.66667).   Denna  konstant      of 2/3=0.66667).  This constant
+ingår i  Plancks  konstant  som      is contained in Planck's  cons-
+kan skrivas h=2.Pi.me.re.c.a-1,      tant,  which  can   be  written
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.31
+--------------------------------------------------------------------- 
+ 
+ 
+där a-1 =                            h=2.Pi.me.re.c.a-1, where  a-1=
+       2/3                                  2/3
+(Mp/me) approximativt.               (Mp/me)  approximately.
+
+==== the proton ============================================== 4.32A
+Protonen   betraktas   som   en      The  proton  is  regarded  as a
+punktformad   partikel  med  en      point-formed  particle with  an
+jämn fördelning av materia (dvs      isotropic  distribution of mat-
+innehåller  inga kvarkar så som      ter  (containing  no quarks  as
+nuvarande teori föreslår). Mas-      current theory suggests).  Mass
+satätheten i alla  punktformade      density   in  all  point-formed
+elementära partiklar är en kon-      elementary  particles is regar-
+tant storhet.                        ded as a constants entity.
+
+==== the proton radius ======================================= 4.32B
+Protonradien    eller      dess      The    proton   radius  or  its
+utsträckning är mycket  större,      extension  is  much  larger, 35
+35  fermi, än den som är accep-      fermi,  than  that  accepted by
+terad genom officiella  data, 1      official  data,  1  to  2 fermi.
+till  2 fermi.  Vår slutsats är      Our  conclusion  must  be  that
+att detta  värde  är baserat på      that value  is  based  on erro-
+felaktiga  och misstolkade mät-      neous and misinterpreted measu-
+ningar. Protonradien syftar här      rements. The  proton  radius as
+på protonens rumsliga utsträck-      here discussed is the  proton's
+ning, ej dess ekvivalenta ladd-      spatial extension,not its char-
+ningradie.                           ge equivalence radius.
+
+==== frequency of emitted radiation ========================== 4.32C
+Frekvensen   hos den  emittera-      The    frequency   of   emitted
+de   strålningen  från  atomen,      radiation,  light for instance,
+exempelvis  ljus, är inte lika       from an atom is not the orbital
+med orbitalfrekvensen hos elek-      frequency of  the electron, but
+tronen, utan ett  medelvärde av      a  mean value of the difference
+skillnaden mellan två påföljan-      between two  successive  stable
+de  stabila  protonresonansfre-      proton  oscillating states.   A
+kvenser. En bra analogi  är hur      good  analogy is  how  two fre-
+frekvenser blandas  i en radio-      quencies  are mixed in a  radio
+mottagare.                           receiver.
+
+==== polarizing of electrical fields around particles ======== 4.32D
+Elementära  partiklar av extrem      Elementary particles of extreme
+natur, emedan  de i huvudsak är      nature,since they have a point-
+punktformade, har ett polarise-      formed structure,  have polari-
+rat elektriskt fält, likväl som      zed electrical  fields as  well
+ett   polariserat    magnetiskt      as  even  magnetized  polarized
+fält.                                fields.
+
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.32
+--------------------------------------------------------------------- 
+ 
+ 
+SUMMERING AV FORMLER                 SUMMARY OF FORMULAE
+--------------------                 -------------------
+
+
+==== Planck's constant ======================================= 4.33A
+==== Plancks konstant ========================================
+           __
+      h= 2.//.me.c.re.a-1
+
+
+==== The atomic fine structure constant, inverse ============= 4.33B
+==== Den atomiska finstruktur konstanten, inverterad =========
+
+                  2/3
+      a-1 = (Mp/me)               (with some small corection factor)
+
+
+==== The electron orbital velocity =========================== 4.33C
+==== Elektronens banhastighet ================================
+
+     vo= c/(n.a-1).Z
+
+
+==== The electron orbital radius ============================= 4.33D
+==== Elektronens banradie ====================================
+
+                   2
+      D= re.(a-1.n) .(me/morb)/Z
+
+==== Rydberg's constant ====================================== 4.33E
+==== Rydbergs konstant =======================================
+
+             1
+     R= ----------  3
+          4.Pi.re.a-1
+
+
+==== The wavelength, invese ================================== 4.33F
+==== Den inversa våglängden ==================================
+                   2
+      1/W= R.f(n).Z
+
+==== The emitted energy quantum ============================== 4.33G
+==== Det emitterade energi kvantat ===========================
+
+                  2  2       2
+      dE= 1/2.me.c/a-1.f(n).Z
+
+
+==== Boh'r qunatum mechanical condision ====================== 4.33H
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden     4.33
+--------------------------------------------------------------------- 
+ 
+ 
+==== Bohrs kvantmekaniska villkor ============================
+                        __
+      morb.vo.D= n.h/(2.//)
+
+
+==== The proton radius ======================================= 4.34A
+==== Protonens radie =========================================
+
+                  2/3
+     Rp= re.(Mp/me)            (approximatively)
+
+==== The orbital time of the electron ======================== 4.34B
+==== Orbitaltiden för elektron ===============================
+             __
+     Torb= 2.//.D/vo
+
+
+==== The oscillating time of the proton ====================== 4.34C
+==== Svängningstiden för protonen ============================
+           __
+         2.//.D        Torb
+     Tp= -----.a-1  = -------
+           c             n
+
+==== A common definition for quantum jump ==================== 4.34D
+==== En allmän definition för kvantum hopp ===================
+
+               2      2
+      f(n)= 1/n1 - 1/n2
+
+==== Shrödinger's wave equation ============================== 4.34E
+==== Shrödingers vågekvation =================================
+
+        2        __   2
+       d Y     4.//.Y         Shrödingers vågekvation
+      ----- - ------- = 0     Shrödinger's wave_equation
+         2         2
+       ds        W
+
+
+
+
+NÅGRA KOMPLETTERANDE ANMŽRKNING-     SOME COMPLEMENTARY NOTES AND
+-------------------------------      ----------------------------
+AR OCH SLUTSATSER                    CONCLUSIONS
+-----------------                    -----------
+
+Det  numeriska  värdet  på  den      The   numerical  value  of  the
+atomiska finstrukturkonstanten,      atomic fine structure constant-
+här   uppskattad  till   värdet      as here approximatively estima-
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.34
+--------------------------------------------------------------------- 
+ 
+ 
+149.9 skall  jämföras  med  det      ted to the value of 149.9 is to
+exakt  uppmätta värdet  som  är      be  compared  with  the   exact
+137.02, dvs ca  9.4% för stort.      measured value of 137.02, which
+Men i en  ren hypotetisk beräk-      means  9.4% too  high.  But  in
+ning som här där en mängd hypo-      pure  theoretical   calculus as
+tetiska antaganden är inblanda-      here,   where  many   uncertain
+de måste vi betrakta ett resul-      factors are  involved, a result
+tat inom gränserna 10% som  ett      within  limits of 10%  must  be
+bra resultat.                        regarded as a good result.
+
+En  felkälla kan  vara,  att vi      One source of error may be that
+inte  exakt känner till  massa-      we not exactly know the distri-
+fördelningen  inom protonen. En      bution of  mass in the  proton.
+annan  felkälla kan vara att vi      Another factor of  error may be
+inte exakt vet  hur  det elekt-      how the electric force field is
+riska kraftfältet är fördelat.       distributed.
+
+Ur historisk perspektiv  är det      From history is well known that
+väl känt, att många har försökt      many have tried to find logical
+att finna logiska  förklaringar      explanations   to   the  atomic
+till  de atomiska  konstanterna      constants with start from  pure
+med utgångspunkt från rent  hy-      hypothetical speculations with-
+potiska    spekulationer   utan      out  support  in  the  physical
+mycket förankring i den fysika-      world.  In most  such cases one
+liska världen.I de flesta såda-      have started from the idea that
+na fall har man utgått från fö-      these constants not can be exp-
+reställningen om att dessa kon-      lained  by rational methods but
+stanter  ej kan  förklaras  med      are associated   with  mystical
+rationella metoder  utan står i      numbers,  like for instance the
+samklang   med   mystiska   tal      number of, Pi , and the base of
+såsom  exempelvis  talet , Pi ,      the  natural logarithm  system,
+samt  basen  för  de  naturliga      the number of, e.It is a matter
+logaritmerna, talet "e". Det är      of  course that these  specula-
+självklart,  att  spekulationer      tions  are  erroneous,  leading
+av detta slag  inte leder någon      nowhere.  As said before, these
+vart.  Som tidigare  sagts, har      atomic constants have no common
+dessa konstanter ingen generell      use, valid in  atoms  or atomic
+betydelse  utan  gäller  endast      like systems, only.
+för atomära  system  eller lik-
+nande system.
+
+En annan parameter  som vi kort      Another   parameter   that   we
+skall diskutera är radien eller      briefly shall  discuss  is  the
+utsträckningen hos en partikel.      radius or the spatial extension
+Mycket forskningsaktivitet  har      of a particle. Much researching
+utförts i syfte  att få en upp-      activities have been  performed
+fattning  om denna   parameter,      aimed  to   get  an   idea   of
+både vad  beträffar  system  av      this parameter, both  regarding
+partiklar såväl som hos enskil-      systems of particles and single
+da partiklar.                        elementary particles.
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.35
+--------------------------------------------------------------------- 
+ 
+ 
+
+Ernest Rutherford var den förs-      Ernest Rutherford was the first
+te  person som genom experiment      man who by experiment and theo-
+och teoretiska beräkningar lyc-      retical  calculus  succeeded to
+kades  med att  fastställa  ut-      determine the size  of the ato-
+sträckningen hos  en atomkärna.      mic nucleus.  He found that the
+Han fann att atomen till störs-      atom  mostly  was  empty  void,
+ta delen var  tom rymd, där den      where the active  mass was con-
+aktiva  massan var koncentrerad      centrated in a center point,the
+i centrum, atomkärnan.               atomic nucleus.
+
+Han  bombarderade en  tunn bar-      He  bombarded a thin barrier of
+riär  av guld utgörande  strål-      a gold atom  target  with alpha
+mål,  med   alfapartiklar-  ett      particles- a two valence atomic
+tvåvalent   atomiskt   fragment      fragment  equivalent with a he-
+ekvivalent  med  en  heliumkär-      lium  nucleus- and studied  how
+na och studerade hur dessa par-      these particles  were spread in
+tiklar spreds   i   omgivningen      the  environment after the col-
+efter kollisionen. Han uppskat-      lision event.  He estimated the
+tade utsträckningen  hos gulda-      gold  atom nucleus as having an
+tomens  kärna till 47 fermi  (1      extension of about  47 fermi (1
+fermi är lika med 1E-15 meter).      fermi    is   1E-15    metres).
+Räknar man om detta värde  till      Re-countering this value to the
+en  nivå  motsvarande  enskilda      particle level of a single nuc-
+entiteter av atomkärnan, proto-      leus  entity,  a  proton  or  a
+ner eller  neutroner, ger detta      neutron, give a value of  about
+ett värde på cirka 7 fermi.          7 fermi.
+
+Nyare  experiment,  där   andra      Newer  experiments, using other
+metoder  tillämpas,  ger värden      methods,  have   given   values
+omkring   1-2  fermi,   sålunda      around 1-2 fermi, hence larger-
+betydligt  avvikande  från Rut-      ly diverging  from Rutherford's
+herfords ursprungliga resultat.      origin result. But as a remark,
+Men som en  anmärkning  påpekas      it is usually pointed  out that
+vanligtvis  att dessa  resultat      these  results  not  shall   be
+ej skall tas alltför allvarligt      taken too  seriously, there are
+emedan  det finns en mängd myc-      always  many  uncertainty  fac-
+ket osäkra faktorer  inblandade      tors  involved into  these mea-
+i dessa mätningar.                   surements.
+
+Den "klassiska"  elektronradien      The "classical" electron radius
+erhålles  genom rent teoretiska      is got by pure theoretical cal-
+beräkningar till  2.83 fermi. I      culus to 2.83  fermi.   In this
+detta  hänseende  är  det  lite      aspect  it  is hard to  believe
+svårt att tro, att  en partikel      that a particle,  like for ins-
+såsom   protonen,  2000  gånger      tance  the proton,  being  2000
+tyngre, skulle ha ungefär samma      times heavier, should have app-
+radie  eller  utsträckning  som      roximately  the same radius, or
+elektronen. Detta  skulle  dock      extension as the electron. That
+bli resultatet om tolkningen av      would  be  the  result  if  the
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.36
+--------------------------------------------------------------------- 
+ 
+ 
+de gjorda mätningarna vore rik-      treatment of these measurements
+tig.                                 should be true.
+
+I klassiskt  teori  brukar  man      In  classical theory usually  a
+ibland  göra en  grov uppskatt-      rough estimation  of  a partic-
+ning av en  partikels  rumsliga      le's spatial extension is  done
+utsträckning  genom att använda      by using De Broglie's idea that
+De Broglies ide' att varje par-      every  particle in movement  is
+tikel i  rörelse är  associerad      associated with  a wave, a wave
+med en våg. Relationen  som an-      of matter.  The relation  which
+vändes är w=h/(2.Pi.p) där w är      is used is w=h/(2.Pi.p) where w
+våglängden  eller  den rumsliga      is  the wavelength or the  spa-
+utsträckningen, h , är  Plancks      tial  extension,  h is Planck's
+konstant och  p  är  partikelns      constant and, p ,is the partic-
+rörelseimpuls,   produkten  m.v.     le's momentum, the product m.v.
+
+Om vi för  test gör en uppskatt-     If we for test do  a estimation
+ning av  elektronens  radie med      of  the electron's radius  with
+hjälp  av  De  Broglies  formel,     aid  of De  Broglie's  formula,
+gäller för inre banan  att vo =      for the innermost  orbit is va-
+c/a-1, vilket ger  w=re.a-1(2)=      lid that vo = c/a-1, which  gi-
+18774, vilket  naturligtvis  är      ves w=re.a-1(2)=18774, which of
+ett helt galet värde.  Om vi är      course  is a  completely  erro-
+snälla  och  sätter vo = c, er-      neous value.  If we are kind we
+håller vi ett betydligt  mindre      put vo = c, we achieve a consi-
+värde, dock  ändock  mer än 100      derable  smaller   value, still
+gånger större än den  klassiska      more than 100 times larger than
+elektronradien. Om  vi  för  en      the classical radius. If we for
+proton som rör sig med  ljusets      a  proton which move  with  the
+hastighet använder   samma for-      velocity of light uses the same
+mel, erhålles 0.2 fermi, vilket      formula,  we achieve 0.2 fermi,
+sålunda är 10 gånger  mindre än      giving 10 times smaller  result
+vad  man kan  fastställa  genom      than  this value which  can  be
+mätning.  De  Broglies   parti-      established   by    measurement.
+kel-våg dualitetsteori  är  så-      Hence, De Broglie's idea is not
+lunda  ej  användbar  vid  upp-      useable  when   estimating  the
+skattning av elementära partik-      spatial extension of elementary
+lars rumsliga utsträckning.          particles.
+
+Vad är då  orsaken  till  denna      Then, what  is  the  reason  to
+stora  osäkerhet vad  beträffar      this great  uncertainty  of the
+de elementära      partiklarnas      spatial extension of elementary
+rumsliga utsträckning? Det enk-      particles. Of course the simple
+laste svaret  är  naturligtvis,      answer is that all measurements
+att  alla mätningar görs  genom      must  be done by indirect meth-
+indirekta  metoder,  genom rent      ods,  by pure  mathematical es-
+matematiska  uppskattningar el-      timations  or  by a mixture  of
+ler  genom  blandningar  därav.      them both.
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.37
+--------------------------------------------------------------------- 
+ 
+ 
+De  flesta  experiment  utföres      Most  of  all  experiments  are
+ungefär på  samma    sätt   som      performed  approximately in the
+Rutherford   gjorde,  dvs   man      same  way  as  Rutherford  did,
+skjuter  laddade  partiklar med      meaning that  charged particles
+hög  energi mot  exempelvis  en      with  high energy are shot  to-
+atomkärna och studera hur dessa      wards  for  instance  an atomic
+partiklar sprids i omgivningen.      core, studying the spreading in
+Vad probpartiklarna i alla des-      the environment. What the probe
+sa experiment  'ser' är  punkt-      particles in  all these experi-
+formade laddningar och egentli-      ment  'see' is  a  point-formed
+gen  ej en partikel som ockupe-      charge and not a particle which
+rar ett visst utrymme i rummet.      occupy a  specific are in space.
+
+Därför måste man  skilja mellan      Therefore, one must  make  dis-
+en  partikels  "laddningsradie"      tinction  between a  particle's
+och  en  partikels  "  rumsliga      "charge  radius" and a  partic-
+radie". Den rumsliga radien kan      le's "spatial radius". The spa-
+endast  erhållas   genom  kolli-     tial radius  only can be achie-
+tionsexperiment  "head on"  med      ved  by  collision  experiments
+hjälp av  oladdade  punktpartik-     "head on" with aid of uncharged
+lar, experiment som ej  utförts      point  particles,   experiments
+emedan  punktformade   oladdade      which never have been performed
+partiklar ej existerar.Dessutom      of  reason that no pointformed,
+måste probpartiklarnas egen ut-      uncharged particles  exist. And
+sträckning  vara  kända, vilket      the probe  particle's own radi-
+givetvis inte är fallet.             us must be known. It's  not the
+                                     case.
+
+Detta  enkla  faktum   att  man      The simple  fact that  you will
+kommer  att  få samma  värde på      get the same value  of the par-
+partikelradien   vid   probning      ticle radius of a charged point
+genom   laddningspåverkan,  kan      particle when probing,  will be
+visas enligt följande :              shown by the following :
+
+Vi antar att en  enhetsladdning      Assume a unit charge is approa-
+närmar sig en annan laddad par-      ching another  charged particle
+tikel  från  oändligheten  till      from   infinity  to a   defined
+ett definierad  avstånd i rela-      distance from each other. It is
+tion till varandra.  Det förmo-      assumed that the energy used to
+das härvid  att den  energi som      press the  two   particles  to-
+erfordras för att pressa samman      gether is equal to  the partic-
+partiklarna  är lika  med  dess      le's spin energy.
+spinenergi.
+
+                                           2    2
+Force between particles  :          F = M.v .R/D
+(see 3.21Bm 3.22A)
+                                        oo   2    2
+Work or energy for                  E = I M.v .R/D
+pressing the particles                  s
+together 1.25A   :
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.38
+--------------------------------------------------------------------- 
+
+ 
+                                           2
+                                    E = M.v .R/s
+
+                                       2      2
+From formula 3.22A :                v.R = c.re
+
+                                     2    2   4  4
+                                    v  = c .re /R
+
+                                                 1/3
+From formula 2.17A :                R = re.(M/me)
+
+                                     4     4       4/3
+                                    R  = re .(M/me)
+
+
+                                     2    2   4   4       4/3
+Giving :                            v  = c .re /re .(me/M)
+
+
+                                2   4   4       4/3          1/3
+Giving :        E = (M/me). me.c .re /re .(me/M)  . re.(M/me)
+
+                        2
+                E = me.c .re/s
+
+
+Således, vid  laddningsprobning      Hence,  at probing  and sensing
+av partiklar, "ser"  probparti-      charge,   the  probe   particle
+keln alltid samma  radie obero-      always will  "see" the same ra-
+ende av partikelns rumsliga ut-      dius of  the  probed  particle,
+sträckning.                          unregarding spatial extention.
+
+
+                         ---------------
+
+
+
+u-MESON-ATOMEN                       THE u-MESON ATOM
+--------------                       ----------------
+
+I  en "vanlig" atom  består  de      In an "ordinary" atom the orbi-
+orbiterande    partiklarna   av      ting particles  are  electrons.
+elektroner. Om  man  emellertid      However, if these electrons are
+ersätter dessa  elektroner  med      substituted  by  mu-ons,  which
+mu-oner,  vilket  är  en  annan      are another point-charged  par-
+punktladdad  partikel  med lik-      ticle  with similar  properties
+nande  egenskaper  men  med  en      but with a  mass  approximately
+massa som  är   ca  200  gånger      200 times larger, a new sort of
+större,  erhålles  en  ny sorts      atom is achieved, or a new sort
+atom, en ny sorts materia. Ato-      of matter. Atoms  of this  kind
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.39
+--------------------------------------------------------------------- 
+ 
+ 
+mer  av detta slag sönderfaller      decay  very  rapidly,  however,
+snabbt,  dock  har  de  så lång      they live  so  long  time  that
+livslängd att de är möjliga att      they are possible  to be regis-
+registera i experiment.              tered by experiments.
+
+Vår teori kan även tillämpas på      Our theory can be  applied even
+denna typ av atom.  Om vi utgår      on  this  type of atom.  If  we
+från formel 4.26B och  omformar      start  from the  formula  4.26B
+denna med hjälp av en del andra      and  transform  it  with aid of
+kända resultat från vår  teori,      some other well  known  results
+finner vi att  resultatet  blir      from our  theory,  we find that
+detsamma  som i   konventionell      the  results  will be the  same
+kvantumteori.                        as  in  conventional    quantum
+                                     theory.
+
+
+Följande transformationer utfö-      The following  transforms  are
+res :                                performed :
+
+
+                      2  2
+D = re. (me/morb) .a-1. n    =
+
+
+
+   /-- h 4.22B -------/    /-- h 4.22B ---/
+    2.Pi.me.c.re.a-1      2.Pi.me.c.re.a-1                 2
+    ------------------ . -------------------.re.(1/morb). n  =
+    2.Pi.me.c.re           2.Pi.c.re
+
+
+                                  2  2  3
+     2 2         1              Ka.Kt.re.Kv
+    h.n . ------------------.  ------------ =
+               2 2                2  2  3
+           4.Pi.c.me.morb.re    Ka.Kt.re.Kv
+
+
+
+           /- Eo 3.20A -/
+
+              2  2  3
+         2  Ka.Kt.re                Kv
+    (h.n). ----------- . -----2--2---4---2---2------- .1/morb =
+              me.Kv       4.Pi .c .re .Ka .Kt
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.40
+--------------------------------------------------------------------- 
+ 
+ 
+                                            2
+                                /------ 1/eo 3.20A ---------/
+         2                              1
+    (h.n) .Eo .(1/morb).(1/Pi). --------------------2------  2
+                                 (2.sqrt(Pi/Pi).c.re .Kt.Ka )
+
+
+
+
+==== The orbital radies  of the u-on in the u-meson atom ===== 4.41A
+
+                 2
+            (h.n). Eo
+        D = ----------
+            __   2
+            //.eo.morb
+=============================
+
+
+vilket  är  samma  resultat som      which  is  the same  result  as
+återfinns i etablerad  kvantum-      achieved in established quantum
+teori.                               theory.
+
+
+                         ------------------
+
+
+POSITRONIUM                          POSITRONIUM
+-----------                          -----------
+
+Om  kärnan i en väteatom ersät-      If the core in a  hydrogen atom
+tes av  en  positron,  dvs  den      is replaced by a positron,  the
+positiva motsatsen  till elekt-      electron's positive counterpart
+ronen    (dess    antipartikel)      (its anti_particle), an atom is
+erhålles en slags atom där båda      achieved where  both particle's
+partiklarna  i   systemet   har      in  the  system have  the  same
+samma  massa.  De kommer därför      mass. They will therefore rota-
+att rotera kring  ett gemensamt      te around a common mass center.
+tyngdpunktcentrum. Positronium-      The positronium system has been
+systemet  har studerats i expe-      studied  by  experiments.   The
+riment.  Bindningen har  mycket      binding  has  very  short  life
+kort   livslängd   och upplöses      time  and  is dissolved   by  a
+genom  att de båda  partiklarna      process where   both  particles
+förintar  varandra  i en explo-      destroy  each other in a  burst
+sion av ren energi.                  of pure energy.
+
+Såsom  konstaterades i vår ana-      As was established  in our ana-
+lys av väteatomen fann vi,  att      lysis  of the hydrogen atom  we
+de atomiska  konstanterna såsom      found   that  the  atomic  con-
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.41
+--------------------------------------------------------------------- 
+ 
+ 
+Plancks konstant  och den  ato-      stant,  the  Planck's  constant
+miska  finstrukturkonstanten är      and the  atomic  fine structure
+atomära systemkonstanter som ej      constant,  were  atomic  system
+har allmänn  giltighet.   Dessa      constants,having no common use.
+konstanter, såväl  som  tillhö-      These constants and all associ-
+rande  kvantmekaniska   formler      ated quantum  mechanical formu-
+kan sålunda ej direkt tillämpas      lae cannot  directly be applied
+på positronium-systemet. Att vi      on the positronium system.  The
+kunde  göra detta  för  u-meson      reason why we cannot  do it for
+atomen   sammanhängde   med att      the u-meson atom had to do with
+denna  atom hade samma partikel      the fact that that atom had the
+i kärnan   (protonen),   vilket      same  sort  of particle  in the
+sålunda ej är fallet här.            core ( a proton).
+
+I en artikel i Scientific  Ame-      In  an  article  in  Scientific
+rican  med   namn  "Quarkonium"      American  with  title  "Quarko-
+sägs   någonting   som   därför      nium"  is  said something  with
+uppenbarligt  måste vara felak-      obviously must be erroneous:
+tigt:
+
+
+" Bohrs modell kan tillämpas på      The Bohr's model can be applied
+positronium,  men  på  grund av      to positronium, but because  of
+skillnaden mellan protonens och      difference in  mass between the
+positronens  massa  kommer  den      proton  and  the  positron  the
+orbiterande  radien i  positro-      radius of a  given  positronium
+nium att bli annorlunda.  Bind-      orbit with the same  principial
+ningsenergin hos positronium är      quantum  number  is   different.
+därför  dubbelt   så  stor: 6.8      The binding energy  of positro-
+elektronvolt   för  den  minsta      nium  is   therefore   half  as
+banradien.    Sannolikheten  av      great:  6.8 electron volts  for
+att  en  elektron emitterar  en      the smallest  orbit.. The proba-
+virtuell foton är proportionell      bility of an electron  emitting
+mot,  a ,  (finstrukturkonstan-      virtual photons is proportional
+ten),  konstanten   i  Coulombs      to,  a  , (the  fine  structure
+lag,   som   återigen  har  det      constant),   the   constant  in
+numeriska värdet  av  1/137.02.      Coulomb's law, which again  has
+Energin   hos  ett  positronium      a  numerical  value   of  about
+system är grovt uppskattat lika      1/137.02...   The energy of the
+med 1 Mev. "                         positronium system is roughly 1
+                                     Mev. "
+
+Påståendet  att  den   atomiska      The statement  that  the atomic
+finstrukturkonstanten    skulle      fine  structure constant  would
+vara  inblandad i  positronium-      be involved in  the positronium
+systemet är   ett   synnerligen      system  is  a  very  remarkable
+undeligt  påstående som  uppen-      suggestion,   obviously   erro-
+barligen måste  vara  grovt fe-      neous.   Therefore, with  start
+laktigt.   Vi skall därför  här      from our own  theory,  we shall
+med utgångspunkt  från vår egen      make a study of the positronium
+teori  studera ett sådant  sys-      system.
+tem.
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.42
+--------------------------------------------------------------------- 
+ 
+ 
+
+Att  börja med gör vi en  lista      To begin with we do a list over
+över de  parametrar  som kommer      these  parameters  used  in the
+att användas i beräkningen:          calculations:
+
+
+Fc   centrifugalkraften på en enskild orbiterande partikel
+     the centrifugal force on a single orbiting particle
+
+Fe   den elektriska Coulombkraften mellan systemets partiklar
+     the electric Coulomb force between system particles
+
+v    orbitalhastigheten kring ett gemensamt masscentrum
+
+c    gränshastigheten hos materia
+     the limit velocity of matter
+
+B    relationen v/c
+     the relation v/c
+                            2                             2
+L    relationen SQRT(1-(v/c) ) ; the relation SQRT(1-(v/c) )
+
+r    elektronens radie vid rörelse
+     the electron radius when moving
+
+re   elektronens radie i vila
+     the electron radius when in rest
+
+R    den gemensamma rotationsradien i positronium systemet
+     the common rotational radius in the positronium system
+
+Tc   svängningstiden hos en elektron eller positron i systemet
+     the oscillating time of an electron or a positron in the system
+
+fc   svängningsfrekvensen hos systemets elektron eller positron
+     the oscillating time of the system's electron or positron
+
+E    den totala energin som positroniumsystemet representerar
+     the total energy represented by the positronium system
+
+me   vilomassan hos elektronen eller positronen
+     the rest mass of the electron or the positron
+
+m    massan hos elektronen eller positronen i rörelse
+     the mass of the electron or the positron when moving
+
+
+Centrifugalkraften  hos de orbi-     The  centrifugal   force of the
+terande partiklarna är:              orbiting particles is:
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.43
+--------------------------------------------------------------------- 
+
+
+                 2
+a) -----  Fc= m.v/R
+
+
+och  den   elektriska   attrak-      and  the  electric   attracting
+tionskraften   mellan   de båda      forces between the particles in
+partiklarna i systemet är:           the system is:
+
+
+                   2        2
+b) -----  Fe = me.c.re/(2.R)
+
+
+
+Balans  mellan dessa båda kraf-      Balance between these two  for-
+ter, som är motriktade varandra      ces, which are    counteracting
+ger:                                 each other, gives:
+
+
+             2        2        2
+c) -----  m.v /R= mo.c.re/(2.R) ;
+
+             2      2
+d) -----  m.v = mo.c.re/(4.R)
+
+
+Vi definierar:                       We define:
+
+
+
+f) -----  B= v/c  ;
+
+                          2
+g) -----  L = sqrt(1-(v/c) ) ;
+
+                       2
+h) -----  L = sqrt( 1-B )  ;
+
+                          2
+i) -----  B = sqrt ( 1 - L  ) ;
+
+
+j) -----  me/m= L
+
+                   1/3
+k) -----  ( mo/me )  =  (r/re)
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.44
+--------------------------------------------------------------------- 
+ 
+ 
+                  3
+l) -----  ( re/r ) = (me/m)  = L
+
+
+From c) :
+
+                         2
+m) -----  R= (me/m).(c/v).re/4
+
+From f), l), m) :
+
+                      2
+n) -----  R= L.re/(4.B )
+
+
+På samma sätt som för de kvant-      In the  same  way  as  for  the
+mekaniska processerna i atomen,      quantum mechanical processes in
+oscillerar  elektronerna med en      the atom, the electron oscilla-
+viss frekvens  vilken  stör det      te with  a  specific  frequency
+omgivande     elektromagnetiska      which  introduces  disturbances
+fältet. Detta skapar en  kvant-      in the  surrounding electromag-
+mekanisk resonans i systemet på      netic field. That in turn crea-
+samma sätt som i atomen.             te a quantum  mechanical  reso-
+                                     nance.
+
+Oscillationstiden  för elektro-      The  oscillating  time  of  the
+nen är:                              electron is:
+
+
+o) -----  Tc= 2.Pi.sqrt(m.r/Fe) =
+
+                             m.r
+              2.Pi.sqrt(--------------- ) =
+                             2       2
+                         me.c.re/(4.R )
+
+
+              4.Pi.R       m   r
+             ------. sqrt(---.--- )  =
+                c          me  re
+
+
+                                         1/2
+                      !                !
+             4.Pi.R   !  1      1      !       =
+             ------ . !  -  . ----1/3- !
+               c      !  L      L      !
+                      !                !
+
+ 
+              4.Pi.R    -2/3
+              ------ . L
+                c
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.45
+--------------------------------------------------------------------- 
+
+
+
+Tiden för ett rotationsvarv är:      The revolution time is:
+
+
+p) -----  Torb = 2.Pi.R/v
+
+
+Kvantvillkoret är  detsamma som      The  quantum condition  is  the
+för atomen, ekvation 4.17A :         same as in the  atom, the equa-
+                                     tion 4.17A :
+
+
+q) -----  Torb = n.Tc
+
+
+                            4.Pi.R  -2/3
+r) -----     2.Pi.R/v = n. -------.L
+                              c
+
+                         -2/3
+s) -----     c/v = 2.n. L
+
+              2/3
+             L   =  2.n.B
+
+                        3/2
+             L = (2.n.B)
+
+                   2  1/2        3/2
+             (1 - B  )  =  (2.n.B)
+
+                   2          3
+              1 - B  = (2.n.B)
+
+
+t) -----    ======================
+                2          3
+             1-B  - (2.n.B) = 0
+
+            ======================
+
+
+Systemets  totala energi beräk-      The total energy  of the system
+nas ur ekvation x.xxx :              is computed from x.46A
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.46
+--------------------------------------------------------------------- 
+ 
+ 
+
+                    2          2
+u) -----  E= 2. m. c   = 2.me.c /L
+
+och systemets frekvens:              and  the frequency of the  sys-
+                                     tem:
+
+v) -----  fc = 1/Tc
+
+
+
+
+  program positron(input,output);
+  var     dEMev,f1,f2,df,dE,Tc,Mev,pi,rr,B,E,D,me,c,r,L,Fc,re:real;
+  n,counter:integer;
+  procedure init;
+  begin
+  pi:=4*arctan(1);
+  re:=2.83E-15;(*classic electron radius*)
+  me:=9.1E-31;(*electron rest mass*)
+  c:=3E8;(*limit velocity of matter*)
+  Mev:=0.511;(*energy of electron in Mega_Electron_Volt*)
+  end;
+
+  procedure compute_B;
+  begin
+  b:=1.1;
+  repeat
+  b:=b-1E-5;
+  RR:=1-B*B-(2*n*B)*(2*n*B)*(2*n*B);
+  until RR>=0;
+  end;
+
+  procedure compute_all;
+  begin
+  f1:=f2;
+  L:=SQRT(1-B*B);
+  D:=re*L/(4*B*B);
+  fc:=(c/(4*pi*D))*(exp(-2/3*ln(L)));
+  E:=2*Mev*(1/L);
+  dE:=2*me*(1/L-1)*c*c;
+  dEMev:=2*Mev*(1/L)*(1/L-1);
+  f2:=fc;
+  df:=f1-f2;
+  end;
+
+  begin
+  writeln('Program started, please wait ');
+  init;
+  for n:=1 to 5 do begin
+ 
+(* -------------------------------------------------------------- *)
+(* MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   Page 4.47  *)
+(* -------------------------------------------------------------- *)
+ 
+ 
+  compute_b;compute_all;
+  writeln('n= ',n);
+  writeln('      B = ',b,  '       factor v/c ');
+  writeln('      fc= ',fc, '       orbital frequency Hz ');
+  writeln('      E=  ',E,  '       total system energy, 2*m*c(2), Mev');
+  Writeln('      D=  ',D/re,'       Particle/center distance * times re ');
+  writeln('      dE= ',dEMev  , '       difference energy rel. to rest Mev ');
+  if n<>1 then   writeln('      dE/df = ', dE/df,' positronium Planck constant');
+  end;
+  readln;
+  end.
+
+
+
+
+
+Studerar   man   resultat  från      If we study the result from the
+detta  program,  finner man att      program, we find that the posi-
+positronium  systemet  också är      tronium system show  up a quan-
+kvaniserad  på  samma  sätt som      fied behaviour in  the same way
+det ordinära atomsystemet, dock      as for  the atomic  system, but
+på andra  energinivåer. Ekviva-      on  other  energy  levels.  The
+lencen  för  Plancks   konstant      equivalance  of  Planck's  con-
+motsvarar  ungefär  värdet  100      stant correspond to  approxima-
+gånger lägre  än i det atomiska      tely 100 times  lower than that
+systemet.                            value of the atomic system.
+
+
+==== The positronium system =================================  x.48A
+               2
+     dE= 0.14/n (Mev)             Energy difference between
+                                  successive energy levels, n=1,2,3...
+               2
+     D = re.( n + 0.04 )          Distance to a common rotation
+                                  center point, n= 1,2,3...
+               2
+     Fc = 8.7/n                   Orbiting frequency n=1,2,3...
+
+     h  = 1E-36                   "Planck's constant" in positronium
+                                   (approximately).
+
+====================================================================
+
+
+
+Jämför vi  dessa  resultat från      Comparing  these  results  from
+resultat   från  vår  atomteori      results  got  from  our  atomic
+finner  vi   som   väntat,  att      theory, we as waited will find,
+finstrukturkonstanten   =137.02      that  the fine  structure  con-
+ej  återfinns i positroniumsys-      stant  inverse,  137.02  not is
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.48
+--------------------------------------------------------------------- 
+ 
+ 
+temet.  Det  är sålunda  uppen-      present in the  positronium sy-
+bart, att  det   som  påstås  i      stem.It is clear that the given
+refererade artikel  ej är  rik-      proposal in the referred artic-
+tigt.                                le is erroneous.
+
+
+                            ----------
+
+
+BOHR-MAGNETONEN                      THE BOHR MAGNETON
+---------------                      -----------------
+
+
+När  en elektron rör sig i  sin      When  an electron moves  in  an
+bana i ett  atomiskt  system är      orbit in an atomic system, that
+detta ekvivalent med en  elekt-      is  equivalent  with a   closed
+riskt sluten strömkrets.  Denna      electric current.  This current
+strömslinga genererar ett  mag-      loop  generates a magnetic  mo-
+netiskt fält och ett magnetiskt      mentum, by  tradition  computed
+moment som traditionellt beräk-      by to the formula:
+nas enligt formeln:
+
+
+
+==== The common definition of magnetic momentum ============== 4.49A
+
+     u= i.A              där   : i är den ekvivalenta strömmen
+                                 A är ytan av orbitalslingan
+                         where : i is the equivalent current
+                                 A is the area of the orbiting
+                                   loop
+
+==============================================================
+
+Elektronen som  befinner  sig i      The  electron situated  in  the
+den  innersta banan i en vätea-      innermost  orbit  of a hydrogen
+tom genererar   ett  magnetiskt      atom generates  a magnetic  mo-
+moment  i enlighet med ekvatio-      mentum in accordance   with the
+nen  ovan och har  getts benäm-      equation  above, given the name
+ningen Bohrmagneton. För demon-      The Bohr magneton. For demonst-
+stration utför vi denna  beräk-      ration we perform the following
+ning :                               calculations:
+
+
+Elektronens orbitaltid beräknas      The electron's orbiting time is
+från formel 4.17A, giving:           computed by formula 4.17A to:
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.49
+--------------------------------------------------------------------- 
+ 
+ 
+==== Elektronens orbitaltid ================================== 4.49B
+             __
+     torb= 2.//.D/v
+
+====================
+
+Den  omslutna  arean i  slingan      The encircled  area of the loop
+beräknas ur:                         is calculated by :
+
+
+
+==== The orbital enclosedarea ================================ 4.50A
+
+        __  2
+     A= //.D
+
+=================
+
+Allt detta ger:                      All that giving:
+
+
+
+   ubohr= e.A/torb =
+
+      __  2   __
+    e.//.D/(2.//.D/v) = e.D.v/2
+
+
+Från  vår atomteori erhåller vi      Från  our  atomic  theory  we
+följande samband (4.26B) :           achieve the  following  rela-
+                                     tions (4.26B) :
+
+
+             2
+     D = re.a-1                                     4.50B
+                   __                __
+     me.v.D = h/(2.// )  ;  v = h/(2.//.me.D)       4.50C
+           __
+     h = 2.//.me.re.c.a-1                           4.50D
+
+
+Sätter  vi in dessa resultat  i      Inserting these results  in the
+formel 4.xxx  ovan  erhåller vi:     formula 4.xxx above we achieve:
+
+
+                   __                   __
+ ubohr = e.D.h/(2.//.me.D).1/2 = e.h/(4.//.me )      4.50E
+
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.50
+--------------------------------------------------------------------- 
+ 
+ 
+==== The Bohr magneton ======================================= 4.50E
+                   __
+     Ubohr= e.h/(4.//.me)
+
+==========================
+
+
+Detta uttryck kan även omtrans-      This  expression   even  can be
+formeras till ett uttryck inne-      transformed to a relation  con-
+hållande den  magnetiska  kons-      taining the  magnetic  constant
+tanten uo :                          uo :
+
+
+
+                                       2
+                 2.Kt.Ka.sqrt(Pi/Kv).re .c .2.Pi.me.c.re.(a-1)
+e.h/(4.Pi.me) = ----------------------------------------------
+                            4.Pi.me
+
+
+
+                     2  3     2
+                 Ka.Kt.re    c . a-1 . sqrt(pi/Kv) . Kv
+                --------- . ----------------------------  =
+                  me.Kv             Ka . Kt
+
+
+
+                   1    2         sqrt(Pi.Kv)
+                  --- .c . a-1 .---------------
+                   q                 Ka. Kt
+
+  Kv = 4.Pi
+  Ka = 4.Pi
+  Kt = 2.Pi
+
+
+==== The Bohrt magneton expressed in other units ============= 4.51A
+
+
+     Ubohr= me.a-1/(4.Pi.uo)
+
+===============================
+
+
+Sätter  man in numeriska värden
+erhålles för Bohr-magnetonen:
+
+me = 9.109389754E-31 kg
+a-1= 137.03598956
+Kt = 5.355700109
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.51
+--------------------------------------------------------------------- 
+ 
+ 
+uo = 12.56637061E-7
+eo = 1.6021773349E-19 As
+h  = 6.62607554E-34
+me = 9.109389754E-31
+
+
+==== Theoretical value of the Bohr magneton =================  4.52A
+
+     ubohr = 9.2740155E-24
+
+=============================
+
+                       ------------------
+
+
+PROTON- magnetonen                   The PROTON magneton
+------------------                   -------------------
+
+I konventionell teori  användes      In conventional theory the same
+samma formel som för  beräkning      formula as for   computing  the
+av Bohrmagnetonen vid beräkning      Bohr magneton is used when com-
+av  det magnetiska momentet för      puting the magnetic momentum of
+en elementär partikel, exempel-      a  nucleus particle, a  proton.
+vis en kärnpartikel, en proton.      If this formula  is applied he-
+Tillämpas denna formel  på pro-      re,  the  magnetic momentum  of
+tonen erhålles sålunda:              the proton will be:
+
+
+==== The magnetic momentum for a proton, common theory  ====== 4.52B
+
+     uprot = h.e/(4.Pi.Mp)
+
+===========================
+
+
+Om  vi  kalkulerar  detta värde      If  we calculate this value  we
+erhålles   0.505079E-26 .   Det      get  0.505079E-26. The measured
+uppmätta värdet är 1.41062E-26,      value  is 1.41062E-26, hence  a
+vilket sålunda innebär ett  be-      calcualted value  which is app-
+räknat värde  som  är omkring 3      roximately  3 times too  small.
+gånger för litet.  Uppenbart är      Obviously  there   is something
+det här  fråga om ett grundläg-      wrong  in current theory.   The
+gande fel i  existerande teorin.     conditions in  the  atomic nuc-
+Förhållandena i atomkärnan  kan      leus can not directly be compa-
+inte  direkt jämföras med  för-      red  with   conditions  in  the
+hållanden  inom  atomen,  något      atom, something  which we  have
+som även  har påpekats tidigare.     accentuated before.
+
+uprot  beräknad  från vår  egen      uprot  calculated  from our own
+teori ger:                           theory
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.52
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+torb = Kt.Rp/vp                3.15A
+
+             2
+vp= c.(re/Rp)                  3.23A
+
+       3
+(re/Rp) = me/Mp                4.14C
+
+          2
+Ap = Ka.Rp                     3.15A
+
+             2
+a-1 = (Rp/re)                  4.22A. 4.14C
+
+
+Kt = 5.355700109               3.55A
+
+
+                        2             __
+                  e.Ka.Rp       2.e.2.//        2  2
+up = e.Ap/torb=  ---------.vp = --------.(Rp/re).re.(vp/Rp) =
+                   Kt.Rp          Kt
+
+            __
+      2.e.2.//                        2
+     ----------.a-1.re.(re/Rp).c.(re/Rp) =
+         Kt
+
+                 __                         e.h
+     (2.e/Kt).(2.//.me.re.c.a-1).(1/Mp) = --------
+                                          (Kt/2).Mp
+
+
+==== The nuclear magneton calulcated from our theory ========= 4.53G
+
+               e.h
+     Uprot= ---------
+            (Kt/2).Mp
+
+=======================
+
+
+Vi sätter in kända konstanter i      We insert  known  constants  in
+denna formel och erhåller:           this formula and get:
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.53
+--------------------------------------------------------------------- 
+
+
+e=  1.6021773349E-19
+h=  6.62607554E-34
+Kt= 5.355700109
+me= 9.109389754E-31
+Mp= 1836.12 x me
+
+==== The magnetic momentum for the proton ==================== 4.54A
+
+     uprot= 2.37E-26
+
+======================
+
+
+I jämförelse med uppmätt  värde      Hence, in comparison  with mea-
+1.41062E-26  är  detta  således      sured value of 1.41062E-26 that
+ett bättre värde än det som kan      is a  better  value  than  that
+beräknas  ur konventionell teo-      which can be computed from con-
+ri.                                  ventional theory.
+
+
+                           ------------
+
+
+MAGNETISKT MOMENT FÖR EN MUON        MAGNETIC MOMENTUM OF A MUON
+-----------------------------        ---------------------------
+
+En  annan elementär partikel av      Another elementary  particle of
+mycket elementär  natur och med      very elementary nature and with
+elektronliknande egenskaper  är      electron like properties is the
+muonen med  samma  laddning men      muon  with the same charge  but
+med  en  massa  ca  207  gånger      having a mass approximately 207
+större än   elektronens.    Det      times more  than the  electron.
+magnetiska momentet för  muonen      The magnetic  momentum  of  the
+har uppmätts   till 4.49047E-26.     muon   has  been  measured   to
+                                     4.49047E-26.
+
+
+                               2                   2
+tu= Kt.Ru/vp   ;    vu= c.(re/Rp)       ;    Au= Ku.Ru
+
+
+                     2
+               e.Ka.Ru.vp     e.Ka.Ru.vp
+uu= e.Au/tu = ------------ = ------------ =
+                 Kt.Ru            Kt
+
+
+ e.Ka.Ru         2    e.Ka.re.c        1/3
+--------.c(re/Ru)  = -----------(me/Mu)
+   Kt                     Kt
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.54
+--------------------------------------------------------------------- 
+ 
+ 
+==== The magnetic mometum for the mu-on ====================== 4.55A
+
+          e.Ka.re.c       1/3
+    uu = ---------.(me/Mu)
+             Kt
+
+============================
+
+e  = 1.6021773349E-19
+       __
+Ka = 4.//
+re = 2.8179409238E-15
+c  = 2.99792458E8
+Kt = 5.355700109
+me = 9.109389754E-31
+Mu = 206.77 x me
+
+Sätter vi  in  värden  i  denna      Inserting values in this formu-
+formel   erhålles    5.3687E-26      la   gives  5.3687E-26,   hence
+vilket  sålunda skall  jämföras      being compared with 4.49047E-26
+med   4.49047E-26   som uppmätt      as the measured value.
+värde.
+
+
+                          ---------------
+
+
+ARTIFICIELLA ATOMER UTAN KŽRNA       ARTIFICIAL ATOMS WITHOUT CORE
+------------------------------       -----------------------------
+
+En  ny  favoritsport  inom  den      A  new  favorite sport  in  the
+fysikaliska  forskningen är att      physical  research  is to catch
+fånga in enskilda joner (ladda-      and  cage  single  atomic  ions
+de atomer)  eller enskilda par-      (charged atoms) or  single par-
+tiklar i elektromagnetiska fäl-      ticles in electromagnetic traps
+lor där man  har  möjlighet att      where   they  can  be   studied
+studera dem under lång tid.          during a very long time.
+
+En ensam  elektron  infångad på      A sole electron catched in this
+detta  sätt och där  elektronen      way  and  where  the   electron
+rör sig i en  sluten bana kan i      moves in a  closed orbit can in
+vissa  hänseenden liknas vid en      some  respect be compared  with
+konstgjord atom utan  materiell      an  artificial   atom   without
+kärna  i rotationscentrum.  Och      material core in the revolution
+på så sätt har understundom den      center. And in this way someti-
+moderna forskningen presenterat      mes  this  arrangement has been
+och  tolkat  dessa  experiment.      presented and interpreted.  One
+Man  beräknar  bl.a  rotations-      compute the revolution frequen-
+frekvensen  hos  elektronen   i      cy of the electron in accordan-
+enlighet med formeln :               ce with the formula :
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.55
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+==== Rotation frequency for a trapped electron =============== 4.56A
+
+     fc = 2.ubohr.B/h
+
+=====================
+
+
+
+Då man ser denna formel kan man      When   studying  this   formula
+lätt förledas att tro att dessa      seduces us  to   believe   that
+konstgjorda  atomer  skulle  ha      these  artificial  atoms  shall
+något att göra med förhållande-      have  anything  to  do with the
+na  i en  ordinär  atom.  Dock,      conditions in an ordinary atom.
+såsom  tidigare  påpekats i vår      However, as  said before, every
+atomteori är  alla  försök  att      attempt  to generalize the ato-
+generalisera  de  atomära kons-      mic constants   and   relations
+tanterna  utanför  atomen dömda      outside  the atom is doomed  to
+att misslyckats.                     fail.
+
+Med en enkel  operation  utförd      With a simple operation  perfo-
+på  formeln  ovan kan  vi  lätt      med on the formula above we can
+konstatera, att  Plancks  kons-      easily see that  Planck's cons-
+tant elimineras :                    tant can be eliminated.
+
+              __
+ubohr= e.h/(4.//.me)
+
+
+Sätter vi  in  detta  värde  på      If we insert this  value of the
+Bohrmagnetonen   i  den   givna      Bohr_magneton   in  the   given
+formeln erhålles:                    formula is got:
+
+
+
+fc = 2.ubohr.B/h = 2.e.h.B/h.(1/(4.Pi.me)  = e.B/(2.Pi.me)
+
+
+dvs.  innehåller   inga uttryck      which means, contain no expres-
+från från kvantfysiken.              sions from the  quantum physics.
+
+För fullständighets skull skall      For completeness we shall  show
+vi även visa hur uttrycket ovan      how  this  expression  for  the
+för frekvensen kan härledas.         frequency can be derived:
+
+Den magnetiska kraft som verkar      The magnetical force acting  on
+på den roterande elektronen kan      the revolving  electron  can be
+beräknas ur formel 3.51A :           calculated from 3.51A to :
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden    4.56
+--------------------------------------------------------------------- 
+ 
+ 
+
+Fm = B.i.l = B.(e/t).l =B.e.v
+
+
+Masströghetskraften som  verkar      The mass inertial force  acting
+i motsatt riktning beräknas med      in  the  opposite  direction is
+hjälp av Newton till:                computed by Newton to:
+
+           2
+Fc = me. v /R
+
+
+Sätter  man dessa krafter  lika      Equalizing these forces gives:
+varandra erhålles:
+
+            2
+B.e.v = me.v/R  ;  v/R = B.e/me
+
+
+Rotationstiden beräknas ur:          The revolution time is computed
+                                     from:
+
+
+Tc = 2.Pi.R/v   ;  v/R = 2.Pi/Tc     ;   v/R = 2.Pi.fc
+
+
+Förenar vi  dessa  resultat er-      Putting together these  results
+hålles:                              gives:
+
+
+B.e/me = 2.Pi.fc    ;    fc = B.e/(2.Pi.me)
+
+
+"Konstgjorda atomer"  har såle-      Hence  "artificial  atoms"  has
+des  inget att göra med  atomär      nothing  in common with  atomic
+kvantteori.                          quantum theory.
+
+
+
+                    -----------------------
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O. Tedenstig/Sweden   4.57
+--------------------------------------------------------------------- 
+ 
+ 

@@ -1,0 +1,783 @@
+---
+title: "THE MODERN PARTICLE PHYSICS A BRIEF ANALYSIS 950124"
+source_domain: newphysics.se
+source_path: teden/Tedenstig/THE MODERN PARTICLE PHYSICS A BRIEF ANALYSIS 950124.html
+order: 174
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-12T20:40:30Z
+extractor: site_to_paper.py (builtin)
+---
+
+# THE MODERN PARTICLE PHYSICS A BRIEF ANALYSIS 950124
+
+*Source page: `teden/Tedenstig/THE MODERN PARTICLE PHYSICS A BRIEF ANALYSIS 950124.html`*
+
+THE MODERN PARTICLE PHYSICS
+A BRIEF ANALYSIS
+
+By Ove Tedenstig, Idungatan 37 19551 Maersta/Sweden
+Date : 23/1-1995
+
+Today,  enormous  resources are spent in atomic and particle
+research, all in order to come to a more basic understanding
+of these  physical laws  active on the micro_cosmic level of
+matter.
+
+A great amount of measuring data now is available for diffe-
+rent particle forms, found by experiments, and this quantity
+still increases as the technical measuring methods and measu-
+ring equipments are developing and improving.
+
+The  total  number  of registered particle forms now exceeds
+more than a hundred of particles of more or less "elementary"
+nature. New particles are continuously found and many experi-
+mentalists think there really doesn't exists any upper limit
+for it.
+
+Machines are constructed with kilometres in circumference for
+the onrushing particles.  The technical problems of construc-
+ting such equipments must be enormeous, but it seems as these
+problems are solved very successfully by engineers,technicans
+and  scientist working  with this special part of the problem.
+
+Hence,  the  critical part of the particle reserach seems not
+to  be  on  the  practical  level by arranging and performing
+these experiments but instead  in these theories constituting
+the theoretical background and motivation of performing these
+experiments.
+
+Obviously,  the  problems  on the theorietical  plane must be
+considerable, since enormeous  efforts  have been done by the
+most  brilliant scientists  during  many decades, but without
+still not offering any convincing theory explaining why these
+particles  exists and  why these particles  behave as they do.
+
+All  official theories currently existing are grounded on the
+idea  of  "quarks".  The word "quark" is from the beginning a
+nonsence  word given to those hypothetical particles supposed
+to  be  the  intrinsic  constituents  of particles  seen  and
+registered in experiments. There exists several theories with
+small  differences,  but  as  a matter of principle the basic
+ideas are the same in all of them, namely that quarks are the
+basic  building  block  of matter. The idea is that many well
+known  particles  are  built  up by these constituents and by
+combinatory  laws,  all  known  particle  forms is said to be
+explained.
+
+When the quark idea for the first time was presented, not all
+took  this  idea seriously, but in time to that more and more
+new  particles  where  registered and documented, a need of a
+system  was  accentuated.  The  quark  model  was  relatively
+satisfactory and simple and  was by this reason accepted as a
+base for a systematizing.
+
+From  the beginning the  quark  theories were very simple  in
+its basic assumptions. Three  quark  particles  were  thought
+to  explain  the  basic  structure of known particles at this
+time,  but  it happened quite suprisingly that new more heavy
+particle forms were found, not at all awaited.
+
+The situation in the theoretical particle physics then become
+critical,  but  the  theorist "solved" this problem in a very
+elegant way, simply by inventing a set of new quarks and also
+a set  of other pure hypothetical particles. And as result of
+that, today the number of quarks are six  in total, all aimed
+of achieving a  consistent theory. Desprite of these troubles,
+the  situation was  not so alarming, the idea of quarks still
+was a relatively simple and intact building.
+
+But  one problem  was that no quarks in free state were found,
+the quarks had a somewhat curious property always  apperaring
+in  bounded  states  together  with  other  quarks.  For many
+scientists this  quarks property was very hard to  understand-
+or  even  to accept  - and a hint of  finding free quarks was
+started. But without any positive results.
+
+Still,  there  are today no signs on that quarks really exist,
+the  only some  positive experiment done is shattering experi-
+ments using protons and neutrons as targets. Bombarding these
+particles  with lighter particles, it is said that these expe-
+riments could be interpreted so that  there is  a grain struc-
+ture  in  the protons.  But such experiments are very hard to
+avaluate  because  they  are  indirect  methods which must be
+interpreted by using other physical laws, only supposed to be
+valid on this level of matter.  And  the experimental outcome
+even  can  be  interpreted from totally different standpoints.
+
+A  very  strange  property  of  the  quarks-  and an absolute
+necessary  property -  is  that they have fractional electric
+charges,which means equal to 1/3 and 2/3 of the electron unit
+charge.The search for such  fractional charges has been going
+on intensively  for long time and over optimistic researchers
+from  time  to  time also have reported  that they have found
+signs in this direction. But trying to repeat the experiments
+always  have  given failed results. So, still after searching
+in  more than 25  years, there is no real signs on that fract-
+tional charges really exist.
+
+Hence,  the  smallest existing  charge  unity of 1.602E-19 As
+- equal to the base unit of "1" still remain unchanged.
+
+If those fractional  electrical  charges should exist, and by
+this way also the quarks,those fractional charges 1/3 and 2/3
+respectively  of the unit charge  must  be exact, otherwise a
+difference  easily  would  be  detected in the macro-cosmical
+world, that because the electric charge is additive in charac-
+ter.  For example,an atomic nucleus containing a lot of charg-
+ed units , and if a very  small divergence would exists, that
+would  be manifested in a large difference on the macro cosmi-
+cal level. A great number of experiments have  been performed
+in aim to come to a final solution,but up to this point there
+have been no successful reports.
+
+However, there are many other serious problems with the quark
+model as  well as  in the particle physics in common. All the
+time the model is in trouble, new  hypothetical particles and
+properites of matter are invented. That temporarily and  appa-
+rently  seems to solve the problems, but  in  the long run to
+the prize of a more and more complex and inconceivable theory
+building.  The  simplicity of the original idea has been lost
+and the chance of having a simple description of nature seems
+more and more remote.
+
+As an example on  such a situation was when one was forced to
+give up "Pauli's  exclusion principle" - one of the most  fun-
+damental principle in the atomic physics, but necessarely not
+at all valid in the particle physics. Shortly, this principle
+says  that two  particles cannot stay within the same electro-
+magnetical phase room at  the same time if they both have the
+same quantum mechanical properties.But in the model of quarks
+it easily happen that three quarks get the same basic quantum
+properties when  put together,  hence being  in conflict with
+this basic principle.  In  aim to walk around this problem, a
+new property of matter and quarks francly was invented, resul-
+ting in  that all these quarks from the view of quantum mecha-
+nical rules suddenly were equivalent.
+
+This  new  quality  of the quarks was given the name "colour".
+Three such  colours  exist, but sorry to say, no one have the
+least idea about what this new property of  nature represents.
+Working in this way seems desperate and dishonest.Temporarily
+and apparently one seems  to solve a  problem and avoiding an
+acute crisis, but at the same time create new  problems which
+later  on have to be solved. The total number of unsolved pro-
+blems will in  this way steadily increase instead of converge
+towards  a more simple and easy understandable theory. And in
+the long run it will collaps by own force.
+
+                         ------
+
+Strong forces are supposed  to act between quarks which  hold
+them  together.  For  this aim are needed mediating force par-
+particles acting between quarks, which generate these  forces.
+
+In  electromagnetic  theory  photons are supposed to be these
+interacting  force  particles, the same type of particles bea-
+ring  the  visible light, radio waves etcetera. Hovewer, thee
+forces  acting  between  quarks  are considerably more larger
+than  those forces  acting between electric charged particles.
+So  photons  are not enough in this case. Therefore one needs
+another  particles for this purpose, particles with a conside-
+rably higher energy content than that of photons. These parti-
+les - even these pure hypothetical ones - have been given the
+name of "gluons" from a thought analogy with a "glue" binding
+things together. Many such gluons are needed in the  quark mo-
+model, but serious theoretical problems exist regarding these
+particles,  they  have  a very  strange property which has no
+correlation with known properties of common matter -  namely-
+they have a large  content of energy but lack measurable mass.
+
+That  property of matter contradict all experiences and known
+properties of  matter and is against the well known and accep-
+ted realation between mass and energy, the mass energy equiva-
+lence  law  from  the theory of relativity. It means, that if
+there are mass,there is also energy, and vise versa. But with
+aid  of some  mathematical  and  strongly speculative  tricks
+even such mad ideas are accepted without any moralic or scien-
+tific  problems.  Using  Heisenberg's  uncertainty   priciple-
+perhaps valid on the atomic level of matter,  this  seemingly
+contradictionary  objection can be rejected.  Otherwise, also
+the  mass of  the  gluons  must be weighted together with the
+quarks  and then the total weight of the particle system (for
+instance an atom) must be much larger than that corresponding
+to the sum of all the system components.
+
+In  aim  to  conceal  this  weakness  one say that gluons are
+"virtual massless",  which  means that  these particles exist
+but cannot be registered or measured !
+
+To this day one have defined the need of 6 different sorts of
+quarks,  having 3  different colours, giving 18 different pos-
+sible  combinations  (there  are even suggestions of 8 quarks
+today). Above that an unspecified  number of  gluon particles
+are  needed,  approxemately 12 types , plus a number of other
+particles  situated outside the quark concept,  where the lep-
+tons  (to which electrons belong) are the most well known. As
+a  minimum  that gives at least 40-50 different kinds of "ele-
+mentary particles" need for the theory building of quarks !!!
+
+Hence, it begun  with 3 different quarks which should explain
+all  forms of particles  seen in  experiments, now the needed
+numbers  are  at  least  40-50   different particle  forms of
+elementary  nature.  And  in  addition to that a lot of other
+particles  are  suggested which  not fit into the quark model.
+
+In New Sceintist 5th of May 1988,we can read the following by
+John Kenny,particle physicist at Bradley University, Illinois,
+USA: (I cite)
+
+"
+In the  past quarter  of a century, physicist have invented a
+pletora of "particles". To  explain  the  innards  of hadrons,
+the  "missing mass"  problem  of cosmology,  and the freedoms
+that  exist  in some  ofÿthe more conventional and successful
+theories, they have postulated a bevy of "particles"  to vali-ÿ
+date  their  assumptions and the theoretical prejudices. Thus,
+the standard model of the electroweak interaction demands the
+existence  of  Higgs  sector  dominated by Higgsÿfields and a
+series  of  at least one, and perhaps up to 20,  Higgs bosons.
+Supersymmetric theories demand the  existence of the likes of
+photinos,  gravitios, axions and  a series of heavy neutrinos.
+Some unified versions of field theories demand higgsinos, and
+when higher dimensions are considered a whole set of particle
+families make their appearance.ÿ
+
+There is a danger in all of this  classifying of the unexperi-
+enced. The danger is that, because almost none of these postu-
+lated  particles  has  serious experimental candidates at pre-
+sent,modern particle physics could degenerate into filing and
+cataloguing these highly inflated mental constructs.  All too
+readly they can become mental cul-de-sacs. They can build bas-
+tions in theory which could readily repulse  actual experimen-ÿ
+tal finds which do not meet their specification.ÿ
+
+It can be argud, and with considerable justification,that the
+real inflation of  our times  is in mental constructs such as
+these. There are  so many choises and so many  versions  that
+the picture  emerging from  what should be the most primitive
+branch of physics (after all,these are supposed to be elemen-
+elementary particles) is confusing.  Just  making a catalogue ÿ
+of  these postulated  particles  is a chore, to say the least,
+and far from easy.ÿ
+
+I have made a list of the postulated particles which,  as yet,
+have  not been  matched with clear experimental finds (see ad-
+joining list).
+ÿ
+The list I arranged alphabetically, and is by no means exhaus-
+tive,as several of the particles mentioned are generic classi-
+fications and could  in turn represent a whole family of addi-
+tional particles.ÿI have not given references, as even a list
+of the basic  referencesÿto many of the particles would be as
+long as a typical particle physical journal.What makes things
+even more  complicated  is that many  of these particles mean
+different things in different versionsÿof theories.
+
+My  list  presents  more than 100 named particles  or particle,
+and  many of these could represent  several  hundred  particle
+states. If just a small percentage of these alleged  particles,
+then the Universe would seem a strange place  indeed, in  that
+so little of its  mass and energy has been  accessible to date.ÿ
+
+If  physicist go on  postulating particles at the present rate,
+they, will  come up  with  more particles than exist in nature.
+It  seems to  me that nonexistent particles are already surpas-
+sing existent particles  in number and this could have serious
+consequences of the future of particle physics. Science cannot
+become a methodology of filing or  classifying the nonexistent,
+the  unexperienced  or  the experimentally  undetectable.If it
+does, then  it  soon will degenerate into a series of mnemonic
+exercises  for a  coterie of fellow travellers and the ortodox
+believers in-ions and ions and their like.
+
+PARTICLE EXPLOSION: PARTICLES POSTULATED BUT NOT YET CONFIRMEDÿ
+
+    A: alphon,anomalons,arion,axiinstanton,axino,axions
+    B: beiton,Bogolon,bottomium,bradyonÿ
+    C: calaron,centauros,cosmos strings,cosmion,cosmonÿ
+    D: dilaton,domain walls,dyonsÿ
+    E: emon,exotic mesonsÿ
+    F: familons,flavoron,flucton,Froissarionÿ
+    G: gaugino,geon,glueball,gluino,gluon,goldstino,
+       Goldstone boson, gravitino, graviton, GUM (Grandÿ
+       Unification Mass)ÿ
+    H: haplon,heavy neutrinos,higglets,Higgs boson,
+       higgsino,hylonÿ
+    I: instantons,intermediate vector mesons or bosonsÿ
+    J: no listed particlesÿ
+    K: no listed particlesÿ
+    L: luxonsÿ
+    M: magnino,majoron,mandela,maximon.mirror particles,
+       meron,monopoles (magnetic)
+    N: neutralino,neutrinos(right handed, simpson,s-heavy),
+       new neutral gauge meson(W'), newtonites, nuclearites
+    O: octonions,odderonsÿ
+    P: para-photons,parton,Perry poles,photino,Planck
+       mass, plasmon, pomeron,preon,primatom,primordial black
+       holes, psions, pseude goldstone bosons,pyrgonÿ
+    Q: qark,quark nuggets,quarkoniumÿ
+    R: rainon,reggeons,reons,right handed neutrinos,rishonsÿ
+    S: sakaton,Schwarzschild mass,screwon,sfermions,
+       shadow matter,ÿ
+       Simpson neutrinos,skyrmions,s-neutrino,soliton,
+       spurion, squark,ÿ
+       stponium,straton,superon,supersymmetric string massÿ
+    T: tachyon,techni-particles,toponium,trigluonium,trionÿ
+    U: unitonÿ
+    V: valon,vortonÿ
+    W: WIMPÿ
+    X: X-onsÿ
+    Y: no listed particlesÿ
+    Z: zerino,zeronÿ
+
+John Kenny has been in touch with me via  letter and tells me
+that  he has a similar apprehension and theory as  that which
+I have presented.
+
+The  main impression got when dealing with these  theories is,
+that they contain a troublesome number of hypothetical assump-
+tions  and  contradictory  problems.  The  main  reason to the
+current situation in particle physics is,that there not exists
+no good and  uniting theory  for physics  in common,  too many
+fundamental phenomena in the physical world are not understood.
+Until  this  understanding  has  been achieved, no fundamental
+understanding of the particle problem can be achieved.
+
+A BRIEF DESCRIPTION OF HOW FORCES ARE CREATED IN ACCORD WITH
+MODERN PHYSICAL THEORY.
+
+Newton  was  one  of the  pioneers what  regards  the use of a
+quantified description of the concept of  force in the way for-
+forces  appear  in nature. His  three basic laws are 1) matter
+keep its moving state until an  opposite force acts on it 2) a
+force is created when the  moving state of  an object is chang-
+ed and 3) if a force  is created  an equal and  opposite force
+is achieved.
+
+All these  seemingly  very simple  and  self  evident physical
+laws have been the dominating rules for  the evolution and pro-
+gress  of  physics  since then. No experiments  done show that
+any  of these  laws  of nature  are wrong or incomplete, these
+belong  to the natures  most  fundamental  laws valid  on  all
+levels of matter.
+
+These laws say, that if a force shall  arise, it demands  that
+1) an  object  has  a mesaurable  content  of mass and 2) that
+this  mass  changes  its  moving  state  in  accord  with time.
+Inversely follows  by it  that lack  of mass not can  create a
+force and  that all creation of forces is of dynamical  nature,
+hence claim changes.
+
+On  macro cosmical level (the things around  us  sometimes sta-
+statical  forces are  defined, but according to Newton's basic
+concepts such forces  do not exist,  all forces are of dynamic
+nature.  To give  an  example-  the seemingly statical and con-
+stant pressure in a car deck or the seemingly constant stretch-
+ing force in a spring of steel,both these forces are caused by
+dynamical  activities in particles  on micro cosmical level of
+matter,  which by their accumulated and cooperative effects of
+myriads  of small  forces of  impact  generate the  mesaurable
+forces on macroscopical level of matter.
+
+The  important  conclusion we  must draw from this introducing
+discussion  is that: there  is only one principle in nature by
+which forces are created, this principle is when matter change
+its moving  state as function of time. The concept of force is
+very  fundamentally  equipped with  the concept of mass- hence
+absence  of mass  can not produceÿany force. That statement is
+for us- now more than 300 years  after  Newton-  self  evident,
+but  nevertheless  it  seems  it must be accentuated again and
+again, that because   "the modern physics"  has inhibited this
+very fundamental and incorruptible principle and created their
+own physical rules.
+
+One important  activity of the  modern physical research today
+is the attempt to explaining all different forces which appear
+in nature,  also  to incorporate them  all in a common uniting
+theory.
+
+The  "modern  physics"  describes or  classify known forces in
+nature in line with the following pattern  1) electromangnetic
+forces 2) strong forces 3) weak forces 4) gravitational forces
+and 5) hyper-weak forces. The meaning by describing  forces in
+this way is to find a common base for how these different kind
+of forces  work in nature, arranged in a common uniting theory.
+However, in spite of very great efforts in this  direction, no
+consistent  theory  yet has  been constructed.  In any way, we
+shall  here  compare  existing  ideas  of these  theories with
+Newton's origin definition of the force concept.
+
+Electromagnetic  forces are  divided into magnetic and electro-
+static  forces,  hence having  a common  source or origin, yet
+they  are of  very different  in nature. Briefly, the electric
+force is  associated with electric  charged particles being in
+rest,  magnetic forces  are associated  with charged particles
+when moving.
+
+The strong force hold  the nuclear particles in the atomic nuc-
+leus  together.  This forces  estimates being  in the size 150
+times larger  than that of the electromagnetic force  compared
+with the same amount of matter.
+
+The  gravity  force  is  this  force perhaps most familiar for
+everyone, a force which we can register continuously and which
+acts on  all forms of matter around us, small as well as large.
+Anyhow,  the force of gravity is regarded as the weakest force
+of them all, yet dominating on the macrocosmic level of matter
+but  having very  little significance  on micro cosmical level
+where other forces dominate.
+
+Weak  forces  and hyper-weak  forces probably must be seen and
+interpreted not as forces in  its common  meaning  but instead
+as the  abililty or tendensy of particle systems to decay. For
+instance,the weak force is connected to the decay of a neutron
+(a neutral  nucleus  particle),  decaying in a proton, an elec-
+tron and radiation.
+
+The hyper-weak force  is connected to the idea that  seemingly
+stable particles,  like for  instance  the proton,  will decay
+after a very long time.  However, such decays  never have been
+registered, that in  spite  of intensive  experimental efforts
+done over several of years.
+
+Established  physical  theory describe all these forces  by an
+intermediating  process  constituting  an exchange of  virtual
+forces. For the strong nuclear force the  Pi-meson particle is
+involved (a particle  having a mass of approximately 270 times
+the electron  mass  but having  zero  mass inside  the  nuclus
+acting like a "glue" between nuclear particles). It was Hidiki
+Yakawa  who postulated  this particle  in aim  to explain this
+force.  He maked  use of some  well established "physical laws"
+known from the area of atomic physics, among them de Broglie's
+particle wave duality law, Heinsenberg's uncertainty principle
+and the mass energy equivalence principle.
+
+For  describing and  explaining these forces which act between
+quarks (the hypothetical constituents in the proton) one suppo-
+se particles  by the name of gluons are acting. Even these par-
+ticles  are  pure  hypothetical  and  never registered in free
+state.  A  great amount  of gluon particles are needed for the
+the theory.  Responsible for the weak force is the Z and the W
+particles  recently  detected and  discovered in CERN and even
+Nobel Prize Awarded.  These particles are supposed to be invol-
+ved in  the decay of the neutrons to a proton, an electron and
+radiation (neutrinos).
+
+The force of gravity also have its hypothetical force particle,
+not  either confirmed  by  experiments. In respect to the enor-
+mous weakness of the gravity force, the virtual mass and energy
+of these  particles must  be enormous ( in accord to the theory,
+mass and  energy of an intermediating particle is thought to be
+in inverse  proportion  to the  strength of the force). Briefly
+these calcualtions are performed in approximately the following
+way :
+
+                                              2
+1) Newton's common gravity law  F= (m1.m2).G/d
+
+2) A common Newtonian law : F.t=m.v;
+
+The idea is  that the graviton has the mass,  mg , having  the
+radius of, rg. The limit time interval is denoted by, tg,  and
+the upper limit velocity by , v=c, the velocity of light.
+
+Then equality between 1) and 2) gives :
+
+     2     2
+3) mg .G/rg =mg.c/tg
+
+4) w=v/f , for relation between wavelength, velocity and frequ-
+           ency.  The limit  wavelength is put to rg, and v is
+           put to c and f=1/t = 1/tg.
+
+All that gives :
+
+5) rg= c.tg and inserted in 3) gives :
+
+             3
+6) tg= mg.G/c
+
+                                       2      2
+7) Einstein's massa energi formel E=m.c = mg.c
+
+8) For the photon quanta  E=h.f = h/tg .
+
+Equality between 7) and  8) gives:
+
+              2
+9) tg= h/(mg.c ).      Inserted in 6) gives :
+
+           3
+10) rg=mg.c/h .        Inserting in 3) gives:
+
+11) mg= SQRT(hc/G)     This result in 6) gives :
+
+                  5
+12) tg= SQRT(h.G/c )   and this result in 5) gives :
+
+                  3
+13) rg= SQRT(h.G/c )
+
+ Hence for :
+                                           2
+           h/ = 6.6260755(40)E-34/(2.Pi) Ws
+
+           c = 2.99792458E8 m/s
+                                3
+           G = 6.67259(85)E-11 m kg-1 s-2
+
+        mg= SQRT(hc/G)      =  2.17E-8 kg
+                      5
+        tg= SQRT(h.G/c )    =  7.2E-44 sec
+                      3
+        rg= SQRT(h.G/c )    =  1.6E-35 m
+
+Sorry to say, the base for the calculation is built  on assump-
+tions  with elements  having no  logical or scientific  connec-
+tions.  Furthermore, the caluclation is built on that  quantum
+laws  of  the atomic  can be  suppposed  to be  valid  even on
+particle level.
+
+The  weak  force  is a pure  hypothetical  force based  on the
+assumption  that principally  all elementary  particles are in-
+stable,  which means,  all particles  soon or later will decay
+and  destroy  themselves.  The proton particle is seemingly an
+very stable particle, however the theory predict a small proba-
+bility  for its  decay.  But no experiments yet have confirmed
+such  a  decay,  the  proton  seems  to  be an entirely stable
+particle.
+
+If the  purpose of a  theory intend  to explain  something  in
+nature,  it is  a resonable  claim that  the suggested idea at
+least  in principle  has a chance  to work. But that cannot be
+said about  many of  these ideas which dominate  physics today.
+At a  closer examination  it seems as  the used ideas lack all
+support  in the  real world,  just being brain gousts and pure
+fantasy.
+
+The common properties of the force bearing particles according
+to these ideas are, that all force mediating particles must be
+virtually  massless,  but having energy. Such a property alrea-
+dy  from the  beginning is impossible in the light of Newton's
+original definition  of what  energy, mass and force are, enti-
+ties which  are intimately  connected  to each other and which
+not can be separated in this way.
+
+The  idea by  mediating force  particles demands that the well
+known  relation  between  mass  and  energy, E=m.c(2)  must be
+stated  as invalid.  The physicists walk around the problem by
+postulating gluons as virtual massless, hence particles having
+energy but lacking measurable mass.  This idea is consolidated
+by Heisenberg's uncertainty principle, a law  fetched from the
+atomic  physics,  saying that  some complementary  entities of
+matter, as for  instance   energy  and  time, not at  the same
+instance can  be determined by an unlimited degree of accuracy.
+
+Of course, even if this idea is correct on the electronic orbi-
+tal level of the atom it cannot without question be applied on
+arbitrary  particles or particle  systems, where we can  guess,
+completely  different  conditions are present. And the idea is
+that an instable particle having a limited short life  time is
+carrying  a high amount  of energy and vise versa.  And if the
+energy is  large, the  life time  will be very short making it
+impossible to measure the particle's mass.  Of that reason one
+say that the particle is virtual massless.
+
+Hence, one say that the particle mass is virtual. Yakawa used
+this idea  together  with some  other ideas fetched from elec-
+tron orbital level of  the atom -  De Broglie's particle wave
+duality  priciple and  Bohr's quantum mechanical relationship
+equal to m.v.D = h/(2.Pi), a relation limited to the electron
+orbital  level of  the atom,  not at all useable on an atomic
+nucleus.
+
+The conclusion  we must  draw from it is that rules  and analo-
+gies fetched from the atomic physics,  uncritically  have been
+used  in the nuclear  physics  as  well  as in  the   particle
+physics where completely different conditions are present.  We
+are forced to classify these methods as non- scientific, built
+on completely wrong presumptions.
+
+Sometimes,  the theoreticians are walking out from their ivory
+tower and strengthen themselves to explain things so that ordi-
+nary  peoples can  unserstand. But sorry to say, their attempt
+are oftenly clumpsy and easy to unmask.
+
+One  model which  is used  to  demonstrate  how forces  act in
+accord  with the  modern  particle ideas  is by  imagining two
+boats  situated in rest on a plane water surface. In each such
+boat men  are throwing and catching a ball between eatch other.
+That  process  intend  to demonstrate  the  force  interacting
+process. For  each throwing  and for  each catching- in accord
+with  Newton's  laws- an  opposite  force impact is got on the
+two  men  together  with  their  boats,  causing  the boats to
+successively  recede from each other. For an outer observer it
+looks  like as  if the two boats  are activated by a repelling
+force,  but  that is  of course  pure fiction,  it is only the
+resulting effect of all pushes we see.
+
+The  problem  with this and  similarly attempts to explain the
+mechanism for  upcoming of  forces between  particles in accor-
+dance with modern ideas  are that 1)  the  ball  which is used
+must have  real mass  in accord  with what  Newton meant by it,
+and  2) the fictive  force  here genererated  is an equivalent
+repelling  force, not an  attravting force  which the  example
+was  intended to  demonstrate.  Hence, the only existing model
+for  explaining how  forces between  particles in a system are
+generated  by intermediating  particles-  in fact not works at
+all,  that because  only repelling  forces can be motivated by
+it.  In later  times one have tried  to go around this critics
+by suggesting a boomerang instead of a ball.  Perhaps it's not
+necessary  to point out  that even  this attempt to revise the
+model is just ridiculous.
+
+The weak intermediating force corresponds to an intermediating
+particle  with an energy virtual  mass content in the range of
+40 times of the proton,  the gravitation is causes by a partic-
+le  having  an  energy  in  the  range of 10000000000000000000
+proton  masses,  the  so  named  Planck's  mass  which we have
+calculated  above.  The  absurdity in these  "facts" talks its
+own language and we need not to comment it furter.
+
+The  gravity force seems to  act even on the most   elementary
+particles in  matter, protons, electrons  and perhaps  even on
+the  light particles,  the photons.  The  necessary   question
+therefore  must  be- how can particles  with this  very  small
+energy  and mass  content  be able  to  interact  with   these
+monsters of force  particles ? Why do not spontaneous  nuclear
+reactions all  the time  occur  inte matter  by the  impact of
+these  gravitino  particles all  the time  hitting  the  earth
+and  all things  on it ?  Hence, our conclusion  must  be that
+these ideas  have noting with  reality to do, just being  what
+they are, namely pure fiction and fantasy.
+
+Another oddity of the modern particle physical theories is the
+apprehension  of  how forces  act between quarks (hypothetical
+constituents of protons and some other particles). In spite of
+intensively  experimental   efforts during  the  latest years,
+one  have  never  succeeded  to  make these  quarks  free, the
+quarks  always  remian in  the  bounded state. This irritating
+fact naturally  has irritated the  physicists and forced  them
+to give some form of theoretical motivation for it.
+
+The  motivation is  that quark forces increases when trying to
+get them apart.The force is increased to the limit of infinity,
+then  excluding  all possibilites  to make  them  free, and in
+this way  also giving  the theoreticians alibi and validity of
+the quark model.
+
+Of course,  all of  that  is pure nonsens.  Everyting we today
+know  about  the behaviour  of forces  talks  against it, that
+because  forces between  objects  usually  decline in  time to
+the  inverse  square law. Furthermore, we  can  here   accentu-
+ate  the  fact,  that  if  the  quarks really exist, it  would
+exist  a theoretical  possibility  to make them free in  spite
+of the infinite forces between them. That would be possible by
+the tunnel effect, an effect which is supposed to work between
+quarks  in a similar  way as  for electrons  in atomic systems.
+Hovewer,  in spite  of these  portential  possibilities and in
+spite  of intensive   experimental  efforts  performed  during
+resent years, that has not given any positive results.
+
+One remarkable fact,  which  here ought  to be pointed out, is
+that  quarks can be created by matter which from the beginning
+not contain  any quarks. That will happen, according to theory,
+in collision  between electrons and positrons (for instance in
+LEP, CERN  where  Z and W  particles are said to be created in
+this way). In decay of these particles,  quarks and anti quark
+pairs are created according to theory.
+
+One strange conclusion of it will be that 1) it is possible to
+create  quarks,  at least intermittently by matter not contain-
+ing quarks from the beginning  2) that these quarks not can be
+absolute  elementary because they can be created and destroyed
+at relatively  small energies  here on  earth 3) it needs less
+energy to  intermittently  create these  quarks than  it needs
+for  separating  them  out  from  a  bounded  state  (which is
+impossible  taking consideration  to existing  physical  laws).
+
+We make a conclusion:
+
+1)  No relevant  model exists  which can  give an inviolable
+    description of how the idea by  intermediating particles
+    work.  The existing  models can only  motivate repelling
+    forces,  not attracting forces which the principle claim.
+    Above  that the existing  model claims presence  of real
+    mass  content  of the  interacting  particles,  but  the
+    gluon  particles must be  massless to satisfy the theory.
+
+2)  Laws,  rules and analogies fetched from the atomic physi-
+    cal are  used uncritically  both in the  nuclear physics
+    and in particle physics.  There is no guarantee that phy-
+    sical  laws from one are of physics will work in another
+    system with quite another properties.
+
+3)  Newton's origin laws regarding the relation between mass
+    energy  and force  is inhibited together with the common
+    accepted mass energy equivalent principle in accord with
+    the relation  E=m.c(2).  Particles must be postulated as
+    having  energy  but no mass,  a property of matter which
+    lack all known experimental support.
+
+4)  Origin  and  source of  all  force exchanging  particles
+    needed to satisfy the theory, are lacking. Most of these
+    particles are pure hypothetical and lack total experimen-
+    tal support.
+
+5)  Forces between quarks increase towards the limit of infi-
+    nity  with increasing  relative distance. This behavious
+    of forces as function of distance is against every known
+    behaviour  of  how  forces in common works,  namely that
+    forces decrease its  magnitude in respect to the inverse
+    square law of distance.
+
+To end with, a short list in ten points aimed for meditation
+for them who think that my critcs is wrong:
+
+* Has  any free  quark  been observed  in spite of extremely
+  efforts  done by  experiments to  find  such  free  quarks ?
+
+* Have any free force particles been observed, gluons, gravi-
+  tons for instance ?
+
+* Have any fractional electrical charges as postualted by the
+  theory been observed ?
+
+* Can  any comprehensible  mechanism be offered by how gluons
+  create attracting forces between quarks.  The offered model
+  only give rise to repelling forces ?
+
+* Can  any  resonable  motive  be offered why force particles
+  lack measurable mass but having energy ?
+
+* Can  any  physical mechanism  or motivation be given to the
+  so named colour forces between quarks ?
+
+* Does it exist any theory for why leptons exists outside the
+  quarks model ? They would not have any right to exist.
+
+* Does it exist any convincing reason why there only exist a
+  fixed number of quarks and gluons ?
+
+* Does it exist any good theoretical  motivation to the very
+  well defined masses of elementary particles as observed in
+  experiments ?
+
+* Does it exists any good and convincing theory for the whole
+  fundamental  physics giving  motivation to the existence of
+  elementary  particles and  matter as  a physical phenomenon ?
+
+I suppose you answer most of these questions with, no.
+
+If  theories can explain nothing and answer no question, they
+have no  use and  have to be inhibited  as invalid as soon as
+possible. To keep an erroneous theory building make more harm
+than having no theory at all. So,until we have no such better
+theory, let's be openminded and try finding solutions of natu-
+re in this way it are and not in this way the  theorists want
+it to be.The meaning by science must be to find truth, noting
+else.
+
+                      ---- end ----

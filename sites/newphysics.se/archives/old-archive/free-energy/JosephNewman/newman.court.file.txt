@@ -1,0 +1,487 @@
+Message 6/18  From Jay James                          Mar 24 '94 at 3:32 pm -480
+
+
+Return-Path: <jayjames@rahul.net>
+Posted-Date: Thu, 24 Mar 1994 15:32:26 -0800 (PST)
+Received-Date: Fri, 25 Mar 94 01:11:21 +0100
+Subject: Court Decision on Newmann Patent
+To: derek@prz.tu-berlin.de
+Date: Thu, 24 Mar 1994 15:32:26 -0800 (PST)
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Length: 24580     
+
+I believe I forgot to send you the patents!  Now I can't find them
+(somewhere in my room).  However, here is something I posted to the
+alt.science.folklore forum today.
+
+Start of file---
+
+A few weeks ago there was an inquiry as to the infamous "perpetual
+motion" machine patent application that Joseph W. Newman tried to
+patent a few years ago.  While in the local law library on other
+business, I came across the last in a series of legal decisions
+dealing with this matter, and have scanned it here for INet
+members.
+
+Enjoy.  (I'm not a lawyer, but it looks to me that Newman waited
+too long in objecting to the way the Government was testing his
+device, and got the ax on a 'legal technicality'.  This is not to
+say he deserved a patent though.  However, on this last point, note
+that a "special master" in previous litigation had stated that
+legally Newman was entitled to a patent (see below)).
+
+****************************************************************
+Joseph W. NEWMAN, Plaintiff-Appellant, v. Donald J. QUIGG,
+Commissioner of Patents and Trademarks, Defendant-Appellee.  
+No. 88-1312.
+United States Court of Appeals, Federal Circuit.
+July 5, 1989
+
+Inventor brought action in which he sought reversal of denial of
+patent claim by Board of Appeals and order directing issuance of
+letters patent to him.  The United States District court for the
+District of Columbia, Thomas Penfield Jackson, J., 681 F.Supp. 16,
+dismissed complaint.  Appeal was taken.  The Court of Appeals,
+Pauline Newman, Circuit Judge, held that energy generation system
+that purportedly had higher energy output than input was
+unpatentable.
+
+Before MARKEY, Chief Judge,
+NEWMAN and MAYER, Circuit Judges.
+
+PAULINE NEWMAN, Circuit Judge.
+
+Joseph W. Newman, pro se, appeals the judgment of the United States
+District Court for the District of Columbia, holding unpatentable
+the invention claimed in Mr. Newman's patent application Serial No.
+179,474 entitled "Energy Generation System Having Higher Energy
+Output Than Input".  Newman v. Quigg, 681 F.Supp. 16, 5 USPQ2d 1880
+(D.D.C.1988). We affirm.
+
+                           Background
+
+     Mr. Newman's application for patent is described by the
+district court, and we assume general familiarity with that
+opinion.  Claims 38 and 43 are representative of the claims for
+which Mr. Newman seeks a patent grant:
+
+     38.   A device which increases the availability of usable
+     electrical energy or usable motion, or both, from a given mass
+     or masses by a device causing a controlled release of, or
+     reaction to, the gyroscopic type energy particles making up or
+     coming from the atoms of the mass or masses, which in turn, by
+     any properly designed system, causes an energy output greater
+     than the energy input. 
+     43.  The method of producing usable energy, comprising the
+     following steps:
+     a.    inputting energy into a device from an external source;
+     b.    having electrical current flow within said device; and
+     c.    utilizing the internal electromagnetic energy of at
+     least some of the matter in the device to add to the energy
+     being inputed [sic] into the device from the external source
+     to produce useful energy for use outside of the device having
+     an amount greater than the energy being inputed to the device.
+
+     The Patent and Trademark Office ("PTO") Board of Patent
+Appeals and Interferences affirmed the examiner's rejection of all
+the claims, ie., claims 15 through 43, for failure to comply with
+35 U.S.C. SS 112, first paragraph.  The Board held that there was
+insufficient disclosure to support the claimed result of producing
+more usable energy output than input.  The Board stated that the
+claimed device was a "perpetual motion machine", and that perpetual
+motion is impossible for it violates either the first or second law
+of thermodynamics.
+
+     During oral argument to the Board Mr. Newman presented a model
+of his device and demonstrated its operation.  The Board does not
+refer to this demonstration.
+
+     On appeal to the district court, 35 U.S.C. SS 145, the court
+referred the matter to a special master.  The evidence before the
+master included several reports of tests conducted at universities
+and elsewhere, showing the apparent output of more electric energy
+than was input by the battery system.  A witness, Dr. Hastings,
+concluded in a pretrial declaration that "[i]t is clear that
+measured efficiencies for the Newman motor are far in excess of
+predicted efficiencies.  The predicted input power is in agreement
+with measured input." The evidence also included an affidavit of
+Mr. J. Rabinow of the National Bureau of Standards, stating his
+opinion that Mr. Newman's asserted result was "impossible".
+
+     The master reported that the results shown for the Newman
+device appear to conflict with the laws of thermodynamics, and
+expressed skepticism concerning Mr. Newman's theory of gyroscopic
+energy and the conversion of mass to energy.  The master stated
+that "[t]here is no evidence corroborating Newman's scientific
+theory".  However, the master also found that the "[e)vidence
+before the [PTO] and [the district court] is overwhelming that
+Newman has built and tested a prototype of his invention in which
+the output energy exceeds the external input energy; there is no
+contradictory factual evidence".  The master concluded that
+
+     Even though the operation of Plaintiff's system seems contrary
+     to recognized scientific principles, Plaintiff has
+     demonstrated the operation of his system by very clear
+     evidence and is therefore entitled to a patent if he otherwise
+     satisfies the requirements of the Patent Statute (35 USC).  In
+     re Chilowsky, 229 F.2d 457, 43 C.C.P.A. 775 (1956).
+
+     Before the district court, the Commissioner strongly objected
+to the master's report.  The district court ordered, as recommended
+by the master and requested by the Commissioner, that the
+application be referred back to the PTO for review by a different
+patent examiner.  The court also ordered, as recommended by the
+master, that the claims thus reviewed be those in a Rule 116
+amendment that had previously been refused entry.  This amendment
+made changes in the claims that had been on appeal to the Board,
+amending all the claims except claims 38 and 43.
+
+     The second examiner entered the Rule 116 amendment and
+rejected all the claims for failure to comply with 35 U.S.C. SSSS
+101, 102, 103 and 112.  The examiner ordered Mr. Newman, pursuant
+to 35 U.S.C. SS 114, to submit working models of three embodiments
+of his invention, based on three drawings in the specification, to
+the National Bureau of Standards ("NBS") for testing, under penalty
+of abandonment.  Mr. Newman sought relief from this requirement and
+its penalty, which reached this court by mandamus petition.  Mr.
+Newman pointed out that he had demonstrated a working model to the
+Board, had invited observation by the PTO of additional dem-
+onstrations, and that this new demand for working models was
+burdensome and unnecessary.
+
+This court held the requested relief to be unnecessary:
+
+     Newman has pending in the district court a SS 145 action from
+     which an appeal to this court will lie, whether the PTO does
+     or does not treat his application as abandoned.  Thus, the
+     PTO's threat [of abandonment] does not require issuance of the
+     writ to aid or preserve our prospective appellate
+     jurisdiction, (or the jurisdiction of the district court).  In
+     re Makaii, 708 F.2d 709, 218 USPQ 193 (Fed.Cir. 1983).
+
+In re Newman, 763 F.2d 407, 410, 226 USPQ 97, 99 (Fed.Cir.1985).
+This court thus held that a PTO holding of abandonment under these
+circumstances could not deprive the courts of jurisdiction.  In all
+events, Mr. Newman did not comply with the examiner's order within
+the time period set by the examiner, and the examiner declared the
+patent application abandoned.
+
+     The district court had followed, through periodic status
+conferences, these proceedings before the second examiner.  When
+this phase was ended by the examiner's declaration of abandonment,
+at the district court's suggestion the Commissioner ordered Mr.
+Newman under Fed.R.Civ.P. 34 to produce a model of his invention
+for testing by NBS.  The Commissioner's order, as modified by the
+district court and by this court on petition for writ of mandamus,
+In re Newman 782 F.2d 971, 228 USPQ 450 (Fed.Cir.1986), rehv denied
+mem- (Feb. 12, 1986), in essence required that a normal inter
+partes test be conducted at NBS, and that the tests be completed
+and the report issued within thirty days after the device was
+produced.
+
+     Mr. Newman produced a model of his invention within the
+fourteen days set by the court.  After almost two months the
+district court, at a status conference, gave Mr. Newman's counsel
+NBS's proposed protocol for testing the device, ordered the NBS to
+commence testing, and granted an extension as requested by the
+Commissioner to allow NBS to complete the testing.
+
+     NBS received no response on Mr. Newman's behalf to the
+proposed test protocol.  The record states that there were two ob-
+servations of tests on behalf of the Commissioner, and none on
+behalf of Mr. Newman.  The NBS report, issued five months after
+delivery of the device, concluded that the device did not produce
+more energy output than input, and that it showed efficiency
+measured at between 27 and 77 percent.  At the subsequent trial the
+district court held the claimed invention unpatentable for
+noncompliance with 35 U.S.C. SSSS 101 and 112.
+
+     On this appeal Mr. Newman asserts that the district court
+clearly erred in rejecting the findings of the special master, and
+that reversal of that error would moot all subsequent proceedings. 
+He also argues that the NBS did not conduct a proper or fair inter
+partes test, and that patentability is supported by the heavy
+weight of the evidence.
+
+                          Jurisdiction
+
+     The Commissioner asserts that the judgment of the district
+court  should  be vacated for lack of jurisdiction, on the ground
+that the patent application became abandoned when, during the
+referral to the PTO by the district court, Mr. Newman did not
+produce three working models as the second examiner ordered.  The
+Commissioner argues that the district court lost jurisdiction over
+Newman's application when the application was held abandoned by the
+examiner.
+
+     We settled this issue in 1985 in In re Newman, 763 F.2d at
+410, 226 USPQ at 99, wherein we held, as quoted supra, that "the
+PTO's threat [of abandonment] does not require issuance of the writ
+to aid or preserve our prospective appellate jurisdiction, (or the
+jurisdiction of the district court)." That holding was and is the
+law of the case.  The examiner's order of abandonment could not
+unilaterally extinguish the court's jurisdiction over the pending
+SS 145 action, and the district court correctly declined to
+terminate its proceeding.
+
+     The Commissioner argues, alternatively, that even if the
+district court had that jurisdiction it extended only to claims 38
+and 43, and judgment should be vacated as to all the other claims,
+on the theory that all the other claims were not properly before
+the court.
+
+     Claims 38 and 43 were the only claims that were not amended in
+the Rule 116 amendment that was ordered by the district court to be
+the basis of examination by the second examiner.  The second exam-
+iner having rejected these claims and held them abandoned, the
+Commissioner argues that Mr. Newman was required to proceed by
+certain internal PTO procedures in order to preserve these amended
+claims for judicial review, such as the filing of a petition to the
+Commissioner protesting the examiners ruling of abandonment,
+followed by an appeal to the court if that petition were denied.
+
+     The Commissioner further states that the prior claims, the
+Board's rejection of which was the basis for the appeal as filed
+under 35 U.S.C. SS 145, also were no longer before the district
+court except for claims 38 and 43, because all the other claims
+were amended when the district court ordered further examination
+after the master's report.  That is the claims in their forms both
+before and after entry of this Rule 116 amendment had lost the
+right or opportunity for judicial review, according to the
+Commissioner.
+
+     We do not agree with this creative theory.  The district court
+had authority to refer the application to the PTO for designated
+purposes, including that a second examiner review the claims in
+certain amended form.  As we held in 1985, see In re Newman, supra,
+the Commissioner has no authority unilaterally to remove claims
+from the jurisdiction of the court.
+
+     While the Board will normally have decided every issue that is
+raised before the district court, as discussed in Rendleman v.
+Ladd, 197 F.Supp. 304, 309, 130 USPQ 300, 304 (D.D.C.1961), the
+court is not required to obtain, or suspend all proceedings while
+the applicant obtains a full administrative Board decision for
+every fresh aspect that arises during the course of the judicial
+proceeding.  Otherwise, the Commissioner could not have added a
+ground of rejection, 35 U.S.C. SS 101, that was not before the
+Board.  See generally DeSeversky v. Brenner, 424 F.2d 857, 858, 164
+USPQ 495, 496-97 (D.C.Cir.1970) (It is generally improper to raise
+new issues in a SS 145 action, on the principle of exhaustion of
+administrative remedies).
+
+     A district court action under 35 U.S. C.  SS 145 is a de novo
+determination of patentability.  It is not limited to the
+record before the PTO.  Gould v. Quigg, 822 F.2d 1074, 1076-77, 3
+USPQ2d 1302Y 1303 (Fed.Cir.1987); Fregeau v. Mossinghoff
+776 F.2d 1034, 1037, 227 USPQ 848, 850 (Fed.Cir.1985). Unless a
+party is prejudiced thereby or due process is denied, expeditious
+justice is better served by avoiding artificial restrictions on the
+district court's authority to resolve all issues reasonably raised
+in the proceeding.  See generally Burlington Industries, Inc. v.
+Quigg, 822 F.2d 1581, 1584, 3 USPQ2d 1436, 1439 (Fed.Cir.1987).
+
+                The Report of the Special Master
+
+     Mr. Newman argues that the district court should not have
+rejected the recommended findings and conclusions of the special
+master.  Appellate review of the correctness of the district
+court's action in turn requires determination of whether the
+master's findings are or are not clearly erroneous.  Fed.R.Civ.P.
+53(e)(2); Milliken Research Corp. v. Dan River, Inc., 739 F.2d 587,
+593, 222 USPQ 571, 576 (Fed.Cir. 1984).
+
+     The district court held the master's report to be "clearly
+erroneous in that it apparently contradicts the first law of ther-
+modynamics"-an apparent contradiction that had been referred to by
+the master.  This court, like the master and the district court,
+believes that the laws of thermodynamics do not brook
+contradiction.  However, the laws of thermodynamics do not require
+closing of either the scientific or the judicial mind to the
+possibility that the phenomena manifested can be explained by
+theories that do not violate inviolable scientific principles.  The
+master so recognized, even as he expressed strong skepticism about
+Mr. Newman's scientific theory of harnessing gyroscopic or
+electromagnetic energy.  But when the court-ordered test did not
+verify the results claimed by Mr. Newman, the matter of the
+scientific explanation of the claimed results became moot.
+
+     Taking notice of the unusual nature of Mr. Newman's asserted
+technological results and proffered explanation, we discern no
+error in the district court's decision to decline to adopt the
+recommended conclusion of the special master, and instead to order
+further examination by the PTO, followed by the order that a test
+of performance of the Newman device be conducted by the NBS.
+
+                          The NBS Tests
+
+     Mr. Newman asserts that the NBS testing procedure was flawed
+and generally unfair, and that the district court did not adhere to
+the conditions set in In re Newman, 782 F.2d at 975, 228 USPQ at
+453.  Mr. Newman points out that NBS took five months after he
+delivered the device, and that NBS routinely failed to provide
+sufficient notice to enable him to attend the tests.
+
+     This court had declined to intervene in the district court's
+grants, at the Commissioner's request, of extensions of time for
+the NBS tests.  In re Newman, Misc.  No. 105 (Fed.Cir. March 19,
+1986).  However, the record shows none of the usual comity of inter
+partes *** test procedures.  Neither the NBS nor the PTO is shown
+to have made reasonable efforts to consider the convenience of
+Newman or his counsel.
+
+{FOOTNOTE *** :
+For example, the NBS wrote to the PTO Solicitor: 'We will not deal
+directly with the inventor or his representatives.  We are
+referring all contacts to you in the PTO".  Nor was Mr. Newman
+cooperative.  When a NBS engineer asked Newman, who was installing
+the device at NBS, to identify the output, Newman's counsel
+directed him not to answer, instead directing the NBS to certain
+pages in Newman's book.}
+
+     Mr. Newman argues that the NBS evaluation was fatally
+defective because all tests were conducted with the device
+grounded.  He states that it is essential that his device not be
+grounded during operation.  He points to two reports from
+Mississippi State University which were provided to NBS; one report
+showed efficiencies below 100% when the device was grounded, and
+the other contained comments by one of the Mississippi State
+engineers that efficiencies greater than 100% appeared to be
+obtained when the device was not grounded. It is undisputed that
+NBS had copies of these reports prior to designing its tests.  Mr,
+Newman argues that had NBS sought to duplicate or verify any of
+these test results reported by others, NBS would have discovered
+its errors.  Newman argues that NBS should have done this in order
+to confirm or deny his claims.
+
+     The Commissioner defends the NBS procedure, arguing that
+grounding the device did not account for the lower efficiencies
+observed by NBS.  The NBS engineer who designed and conducted the
+tests testified that his ground would not have affected radio
+frequency, referring to a theory of one of Mr. Newman's witnesses
+of how the device worked.  But no witness for the NBS or the PTO
+testified as to performance with all grounding removed.  The dis-
+trict court, hearing testimony and argument on these points, held
+that the NBS test procedures were appropriate, and their results
+dispositive.
+
+     We need not decide whether the NBS tests were conducted by a
+flawed procedure, for any flaw could have been, and was not,
+corrected by Mr. Newman at the time of the tests.  The test
+protocol designed by NBS contained electrical schematics showing
+plainly that the device was grounded.  Mr. Newman does not dispute
+that he had a copy of the test protocol before testing began.  The
+record shows no communication or objection.  The Commissioner
+further points out that the patent specification does not mention
+the need to avoid grounding the device.
+
+     Similarly, Mr. Newman now objects to the use by NBS of load
+resistors connected in parallel with the coil to measure the
+output.  This too was shown in the pretest plan, and was not
+objected to.
+
+     We conclude that Mr. Newman had a duty to raise objection,
+before or during testing, to any defects in the test protocol that
+he knew or believed would impair the results.  He had a clear
+chance to obtain a definitive test, and to the extent that he did
+not take it, he can not now impeach the results that were conducted
+by procedures of which he had advance knowledge.  If there were
+flaws in the NBS protocol, we do not now give controlling weight to
+objections that could have been raised at a time when any errors
+could have readily been corrected.  We conclude that Mr. Newman
+waived or acquiesced in any purported defect in the test procedure
+by remaining silent throughout the test period.
+
+                            The Trial
+
+     The district court, on trial of the merits, held Mr. Newman's 
+invention unpatentable under 35 U.S.C.  SS 101 because "Newman's
+device lacks utility (in that it does not operate to produce what
+he claims it does)".  Utility under 35 U.S.C. SS 101 is a question
+of fact.  Raytheon Co. v. Roper Corp., 724 F.2d 951, 956, 220 USPQ
+592, 596 (Fed.Cir.1983), cert. denied, 469 U.S. 835, 105 S.Ct. 127,
+83 L.Ed.2d 69 (1984).
+
+     Mr. Newman argues that the district court gave undue weight to
+the NBS test results, and failed to accord proper and overriding
+weight to the testimony and affidavits supporting the claimed
+increase in energy output.  The district court acknowledged that it
+must consider all of the evidence presented at the de novo
+proceeding in reaching an independent conclusion.  Newman, 681
+F.Supp. at 22-23, 5 USPQ2d at 1885.
+
+     The court described the evidence on Newman's behalf as
+"largely qualitative rather than quantified by measured data", id.
+at 20, 5 USPQ2d at 1883, while "credit[ing] in full the
+meticulously thorough and well-documented testing done by NBS". 
+Id. at 23, 5 USPQ2d at 1886.  The court remarked that at best Mr.
+Newman's evidence showed prolonged operation on dry cell batteries,
+but that "such a device is not the one for which Newman seeks a
+patent." Id. We discern no error in the district court's analysis,
+and conclude that the court did not clearly err in giving con-
+trolling weight to the NBS report and in concluding that the
+utility claimed for Newman's device had not been demonstrated.
+
+     Mr. Newman also argues that the district -court incorrectly
+held that his application was not enabling under 35 U.S.C. SS 112,
+first paragraph.  He asserts that his claims are adequately
+supported by, and the invention enabled by, the disclosure. 
+Enablement under 35 U.S.C. SS 112 is deemed to be a question of
+law, Allen Organ Co- v. Kimball Int4 Inc., 839 F.2d 1556, 1566, 5
+USPQ2d 1769, 1777 (Fed.Cir.), cert. denied, - U.S. -, 109 S.Ct.
+132, 102 L.Ed.2d 104 (1988); although it is apparent that lack of
+utility because of inoperativeness, and absence of enablement, are
+closely related grounds of unpatentability.  Raytheon Co., 724 F.2d
+at 956, 220 USPQ at 596.
+     While it is not a requirement of patentability that an
+inventor correctly set forth, or even know, how or why the inven-
+tion works, Diamond Rubber Co. v. Consolidated Rubber Tyre Co., 220
+U.S. 428 435-6, 31 S.Ct. 444, 447-48, 55 L.Ed. 527 (1911); Fromson
+v. Advance Offset Plate, Inc., 720 F.2d 1565, 1570, 219 USPQ 1137,
+1140 (Fed.Cir.1983), neither is the patent applicant relieved of
+the requirement of teaching how to achieve the claimed result, even
+if the theory of operation is not correctly explained or even
+understood.  In re Issaacs, 347 F.2d 887, 892, 146 USPQ 193, 197
+(CCPA 1965); In re Chilowsky, 229 F.2d 457, 463, 43 C.C.P.A. 775,
+108 USPQ 321, 326 (1956).
+     The district court held that Mr. Newman's claimed device and
+method do not produce the claimed result, following the teachings
+of the specification.  We affirm the conclusion that the
+requirements of 35 U.S.C. SS112, first paragraph, are not met.
+
+                           Conclusion
+
+     The decision of the district court that the claimed invention
+is unpatentable because it fails to comply with 35 U.S.C. SS101 for
+lack of utility, and with 35 U.S.C. SS112, first paragraph, for
+lack of enablement, is affirmed.
+
+                              Costs
+     Each party shall bear its own costs.
+
+     AFFIRMED.
+
+*******************************************************
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PS-- a quick look at the previous case, In re Newman, 782 F.2d 971
+(Fed.Cir. 1986), indicated that the battle there was how the
+National Bureau of Standards was to conduct the test on Newman's
+machine:  in a nutshell, the NBS wanted to perform destructive
+testing and take up to seven months, while Newman wanted non-
+destructive testing to conclude within 30 days.  Newman appealed
+the District Court's ruling, which sided with the NBS, to the
+Federal Circuit and won.  The rules for testing, as ordered by the
+appeal court, included (summarizing):
+
+     1.  Newman could have non-destructive testing, that included
+     the right to not even allow the NBS to disassemble the device
+     (in essence testing only the input and output!).
+
+     2.  All parties could inspect the tests.
+
+     3.  The tests were to be conducted within 30 days.
+
+EOF
+
+

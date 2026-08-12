@@ -1,0 +1,549 @@
+*******************************************************************
+*                                                                 *
+*                                                                 *
+*                                                                 *
+*         9:                                                      *
+*             * Dimensional analysis of physical                  *
+*               constants and entities                            *
+*                                                                 *
+*             * Some references                                   *
+*                                                                 *
+*                                                                 *
+*******************************************************************
+
+
+
+Att utföra dimensionsanalys  på      Performing dimensional analysis
+fysikaliska  storheter utgör en      on physical relations constitu-
+effektiv  metod  att  uppnå  en      tes   an  effective  method  of
+djupare  förståelse  av fysika-      achieving a  deeper understand-
+liska samband.                       ing of physical  relationships.
+
+Utförandet av  dimensionsanalys      Making   dimensional   analyses
+utgör också en  effektiv  metod      also is an  effective method of
+att  kontrollera att ett  givet      checking  that a given relation
+samband är    dimensionsmässigt      is   dimensionally  consistent,
+konsistent, dvs att två storhe-      meaning  that two relations not
+ter som jämförs  inte är dimen-      are different in respect to the
+sionsmässigt olika varandra.         dimensional content.
+
+I etablerad teori har man exem-      For  instance,  in  established
+pelvis försökt att finna dimen-      physical theory one  have tried
+sionen  på de elektromagnetiska      to  find the dimension  of  the
+enheterna  uttryckt  i  Newtons      electromagnetic units expressed
+grundläggande enheter, M(massa)      in  entities of Newton's origin
+L (längd)  och   T(tid).    För      units of M(mass), L(length) and
+den elektriska laddningen,  som      T(time). For the electric char-
+är ett grundbegrepp inom elekt-      ge, being a fundamental concept
+rofysiken,  får man då fram att      in   electro_physics,   current
+laddning  har   dimensionen   :      theory  gives   the   dimension
+M(1/2).L(3/2).T(-1).   Att  den      M(1/2).L(3/2).T(-1).It is rela-
+elektriska laddningen  inte kan      tively easy to come  to the in-
+ha  denna dimension  är  ganska      sight  that this  dimension  of
+enkelt  att  inse,  helt enkelt      charge  is   erroneous,  simply
+beroende på att fysikens grund-      because basic physical concepts
+läggande storheter såsom massa,      of  mass, length  and time  not
+längd  och tid endast kan före-      can appear in  fractions of in-
+komma i delar av  heltal. Roten      tegers. The square root of mass
+ur  massa och längd  har  ingen      and length has no physical mea-
+fysikalisk  mening och slutsat-      ning and the  conclusion there-
+sen  blir därför, att de veder-      fore must be that current ideas
+tagna ideerna inom elektrofysi-      in electrophysics must be erro-
+ken är felaktiga.                    neous.
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O.Tedenstig/Sweden    9.01
+--------------------------------------------------------------------- 
+ 
+ 
+
+Vidare utsäger den givna  rela-      Further,  the  given   relation
+tionen att  elektrisk  laddning      says  that  electric  charge is
+skulle vara beroende av  massan      dependent  of the  mass content
+hos den laddade partikeln, vil-      in the particle,  which  not is
+ket inte är riktigt. Exempelvis      true. For instance, a proton is
+är en  proton  ca  2000  gånger      about 2000  times  heavier than
+tyngre  än elektronen  men  har      the  electron, but  having  the
+samma elektriska  laddning.  Om      same  electric  charge.  If the
+laddningen   var   massberoende      charge would be mass dependent,
+skulle protonens  laddning vara      the charge of a proton would be
+ca 43 gånger större än elektro-      approximately  43 times  larger
+nens laddning,  vilket  ju inte      in comparison  with  the elect-
+är fallet.                           ron, which not is the case.
+
+Vår  slutsats är att  etablerad      Our conclusion is,  that estab-
+fysikalisk teori  ej förmår att      lished  physical theory do  not
+åstadkomma  en förklaring  till      manage to perform a description
+vad elektriskt laddning  är. En      of  what a charge is, a  dimen-
+dimensionsanalys på denna punkt      sional  analysis  on this point
+är mycket avslöjande.                is very unmasking
+
+I  amerikansk vetenskaplig lit-      In american  scientific litera-
+teratur är det vanligt att Cou-      ture  it  is  common  that  Co-
+lombs lag skrives i formen :         loumb's law is  written :
+    2 2                                  2 2
+F= e/R, där man sålunda uteslu-      F=e/R,  where  the  fundamental
+ter den fundamentala konstanten      constant of, Eo, is  put to the
+,Eo, och sätter den till värdet      value  of =1, which means a di-
+=1, dvs en dimensionslös  kons-      mensionless   constant  entity.
+tant. Detta visar, att man inte      That  shows,  that not so  much
+ha förstått speciellt mycket av      has been  understood  of funda-
+de grundläggande  principerna i      mental  principles  of  nature.
+naturen.   Som vi sett från vår      Contrary to  that, as seen from
+egen teori är  det  tvärtom så,      results  of our own theory,  we
+att ,Eo, tillhör en av de  mest      have found that, Eo, belongs to
+fundamentala   konstanterna   i      one  of  the  most  fundamental
+naturen någonsin, vid sidan  om      constants  ever,   besides  the
+ljusets hastighet,c,i fri rymd.      velocity of  light, c, in  free
+Det inversa värdet av Eo repre-      space.The inverse value of, Eo,
+senterar  nämligen fundamentala      namely  represents very  impor-
+fysikaliska  egenskaper hos va-      tant properties  of the  vacuum
+kuum-rummet  och  är  ingenting      space and is nothing which  can
+som  man kan trollas  bort  med      be    eliminated  by  a  simple
+ett enkelt matematiskt trick.        mathematical trick.
+
+Massadensiteten  1/Eo utgör  en      The massdensity  1/Eo constitu-
+egenskap hos  vakuum  som utgör      te a  property  of  the vacuum,
+basen  för hela den fysikaliska      constituting  the base  of  the
+verkligheten.  Det är känt, att      whole physical  reality.  It is
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O.Tedenstig/Sweden    9.02
+--------------------------------------------------------------------- 
+ 
+ 
+Heaviside, den store veteskaps-      known,   that  Heaviside,   the
+mannen, i ett  handskrivet brev      great   scientist,  in  a hand-
+omnämnde att det inversa värdet      written  letter mentioned that,
+på, Eo, är, associerat till  en      Eo, is  associated  with a mass
+massadensitet i vakuum och även      density in vacua, and also Erik
+Erik Halle'n  ( en stor  svensk      Halle'n, a great Swedish scien-
+vetenskapsman) har  gjort  kom-      tist, has done comments in this
+mentarer  i sina  verk  i denna      direction in his  works. So the
+riktning. Så tanken är inte ny.      thought is not entirely new.
+
+Etablerad   fysikalisk    teori      Established  physical  theories
+använder  sig   av   varierande      make use of varying dimensional
+dimensionssystem, där det  s.k.      systems, where the MKS(A)system
+MKS(A)-systemet     är det mest      is the most  common  in Europe,
+vanliga   i  Europa,  men   där      but  where the cgs-unit  system
+cgs-system  mest  förekommer  i      is most common  in  England and
+England,  USA och andra länder.      in  The USA among other  count-
+Att observera för MKS(A) syste-      ries. To observe is that in the
+met är, att M står för meter, K      MKS(A) unit  system, M,  stands
+för  kilogram  och  S  står för      for metre, K,for kilograms and,
+sekund. A representerar enheten      S , for  seconds. A  represents
+ampere i de   elektromagnetiska      the  unit  of  ampere  of   the
+enheterna.                           electromagnetic units.
+
+Användningen av de  elektromag-      The  use of the electromagneti-
+netiska  enheterna är i  första      cal units in  its  first  place
+hand  motiverade  av  praktiska      are motivated by practical con-
+hänsyn, men även av det  faktum      siderations  but   even  by the
+att etablerad teori  ej lyckats      fact that current theory in  no
+med att finna någon  övetygande      way has  succeeded to present a
+koppling  mellan  dessa enheter      believable  connection  between
+och  grundenheterna för  massa,      these units and  the base units
+tid och längd.                       of mass, time and length.
+
+Grundenheten   för   elektriskt      The base  unit   for   electric
+laddning har  bl.a bestämts ge-      charge  has been determined  by
+nom insikten, att den elektris-      the insight  that  the electric
+ka laddningen är bunden till en      charge is bounded to a smallest
+minsta  enhet,  bunden till  de      unit in matter, to the electric
+elektriskt laddade partiklarna.      charge  property  of elementary
+Med  bl.a kännedom av  atomvikt      particles.  By knowledge of the
+och valens för ett  silversalt,      atomic  weight and valence of a
+har man bestämt, att 1A är  den      sivler salt, one  have determi-
+elektriska  ström som motsvarar      ned 1A to this electric current
+en  transport av 1.1180 mg sil-      which  transport  an  amount of
+ver ur en   silvernitratlösning      1.1180 mg of pure silver out of
+per sekund. Atomvikten för sil-      a silver nitrate  solution each
+ver är 1.7913E-25  kilogram och      second.   It is known that  the
+varje sådan atom  transporterar      atomic  weight   of  silver  is
+en enhetsladdning.   Man kan då      1.7913E-25  kilogram  and  each
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O.Tedenstig/Sweden     9.03
+--------------------------------------------------------------------- 
+ 
+ 
+räkna   ut,  att  1A   utfäller      such atom transport one unit of
+6.2413E18 atomer per sekund och      charge. By defining the current
+genom  att sätta  strömmen = 1A      flow to 1A and time of the flow
+samt tiden= 1 sekund finner man      = 1 second we can calculate the
+att enhetsladdningen får värdet      value of  the  unit  charge  to
+1.6022E-19 As.                       1.6022E-19 As.
+
+Eftersom  det genom elektromag-      Because  there are  very  rigid
+netismens  lagar  finns en fast      connections  between the elect-
+koppling  mellan de  elektriska      ric  phenomena  (current  flow)
+fenomenen  (strömflöde)  och de      with the   magnetic  phenomena,
+magnetiska fenomenen,  erhålles      there  is possible to establish
+en enklare möjlighet  att fast-      a more simple method  of deter-
+ställa strömmen  1A, vilket  då      mining  the  unit  flow  of  1A
+sker  genom  att  mäta  kraften      through a  conductor.   That is
+mellan  två parallella strömfö-      done  by  measuring  the  force
+rande ledare.   Följande  rela-      developed between two parallell
+tion( (som lätt kan härledas ur      conductors   placed out   on  a
+Biot Savarts lag) kan då härle-      relative  distance of 1/m.   By
+das:                                 using Biot and  Savart's law is
+                                     got :
+
+                                 2
+                               I
+                     F/l = ----------2-
+                            2.Pi.Eo.c
+
+Då  vi  vet  att  Eo=  8.85E-12      When  we know that Eo= 8.85E-12
+As/Vm, då  blir  kraften  för 1      As/Vm, then  1  ampere  is  got
+ampere  mellan ledarna lika med      when  the force between the two
+2E-7 N/m.                            conductors is 2E-7 n/m.
+
+Som kritik mot  denna teori har      My  theory has been  critisized
+bl.a  anförts, att behandlingen      on ground that treating, Eo, as
+av, Eo, som en fysikalisk kons-      a real physical  constant  give
+tant  endast  ger  upphov  till      rise  to  circular  reasonings,
+cirkelresonemang,  dvs, Eo, kan      meaning that, Eo, can be chosen
+väljas helt godtyckligt (dimen-      arbitrary  (without  dimension)
+sionslöst)  emedan  denna kons-      motivated by that this constant
+tant   inte  svarar  mot  någon      not correspond to any real pro-
+verklig egenskap  i naturen. På      perty  of  nature.  And on  the
+samma  grunder påstås  då,  att      same ground is  suggested  that
+även den  elektriska  laddning-      the electric charge can be cho-
+senheten  kan  väljas  godtyck-      sen arbitrary.  One then easily
+ligt. Man  glömmer då bort, att      forget that every single elect-
+det är varje enskild enhetspar-      ric charged  unit particle give
+tikel som ger upphov till vissa      rise to some very specific phy-
+fysikaliska  verkningar  i  sin      sical effects  in  its environ-
+omgivning och dessa  verkningar      ment,  as  for  instance  force
+(exempelvis i form av kraftver-      effects, and these  effects are
+kan på en  annan  partikel) på-      not influenced by how the  unit
+verkas inte av hur man definie-      charge is  defined  or by which
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O.Tedenstig/Sweden    9.04
+--------------------------------------------------------------------- 
+ 
+ 
+rat enhetsladdningen, ej heller      basic unit system which is used
+vilket grundläggande enhetssys-      (MKS or cgs). If it was in that
+tem  man  använder  (MKS  eller      way the physical laws in  Euro-
+cgs). Om det ej vore så, skulle      pe (MKS) and in  The  USA (cgs)
+de fysikaliska lagarna i Europa      differ,  giving  different  re-
+(MKS) och Amerika (cgs)  skilja      sults,  something  which we not
+sig från  varandra,  vilket na-      can  believe on or  accepts  as
+turligtvis inte är fallet.           true.
+
+För att undvika  dessa missför-      In  purpose  of  avoiding  this
+tånd kanske det hade varit vet-      miss-understanding,  it perhaps
+tigast  att  definiera  enheten      would be best to define current
+för ström som det antal enhets-      flow as  this  number  of  unit
+laddade  partiklar som passerar      charges  which  pass through  a
+en genomsnittsyta  av en ledare      cross  an area  of a  conductor
+per tidsenhet.  Detta kan ernås      per  time  unit.  That  can  be
+om man  definierar Coloumbs lag      achieved if we define Coloumb's
+på följande sätt:                    law in the following way :
+
+                             2 2
+                         me.c/D.N1.N2
+
+där, N1, och, N2, är  det antal      where, N1, and, N2, is the num-
+enhetsladdningar  som  finns  i      ber of  unit charges  which are
+respektive     laddningspunkter      situated in respective  charged
+placerade på det  inbördes  av-      point placed out on distance,D.
+ståndet D. 1A, motsvaras  då av      1A then correspond to 6.2422E18
+6.2422E+18  elektroner  per se-      electrons each second through a
+kund genom ledarens genomsnitt-      cross area of the conductor and
+syta och  därigenom har vi eli-      by that we have eliminated some
+minerat alla luddiga diskussio-      of  all frustrating discussions
+ner som ofta  omger  det elekt-      which surrounds the  charge and
+riska laddningsbegreppet.            current concept.
+
+Ett annat intressant exempel är      Another  interesting example is
+Maxwells  välkända ekvation för      Maxwell's well  known  equation
+ljushastigheten c=1/SQRT(Eo.uo).     for  the  velocity of light  c=
+Många har dragit  lite väl för-      1/(SQRT(Eo.uo).  Many have been
+hastade   slutsatser  av  detta      impressed  and  made  very  far
+genom  att  påstå  att  Maxwell      reaching  conclusions  by   it,
+beräknade  ljushastigheterna ur      suggesting  that  Maxwell   was
+detta  samband.   Sanningen  är      able to calculate  the velocity
+istället den, att då man härle-      of light, c ,from it. The truth
+der Biot  Savarts  lag  för det      is, that when deriving the mag-
+magnetiska  fältet erhålles  en      netical laws  of the magnetical
+konstant lika  med  1/(Eo.c(2))      field, constant  1/(Eo.c(2)) is
+som  Maxwell ersatte med en  ny      achived.  Maxwell   substituted
+symbol, uo, dvs han tillförde i      this symbol with a new symbole,
+och  med detta ingenting  nytt.      uo,  hence  introduced  nothing
+Att sedan  beräkna, c utgör en-      now. To calculate, c,  from  it
+dast ett cirkelresonemang.           only is a circular reasoning.
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O.Tedenstig/Sweden    9.05
+--------------------------------------------------------------------- 
+ 
+
+Ett annat intressant exempel är      Another  interesting example we
+hämtat  från  Dr.  Aspdens  bok      find in Dr. Aspden's book "Phy-
+"Physics Unified" (se referens-      sics  Unified"  (see  reference
+lista) där han diskuterar inne-      list),  where he discusses  the
+hållet i Rydbergs konstant inom      content in  Rydberg's  constant
+atomfysiken,   huruvuda   denna      in  the atomic physics,  wether
+konstant  kan betraktas som ab-      this constant is to be regarded
+solut fundamentell  eller inte.      as absolute fundamental or not.
+Etablerad  atomteori ger  rela-      Established  theory  gives  the
+tionen : R=(1/8).me.e/(h.c.Eo),      relation R=(1/8).me.e/(h.c.Eo),
+en  relation som  innehåller  5      a relationship which contains 5
+andra till  synes oberoende fy-      other   seemingly   independent
+sikaliska konstanter.   Diskus-      physical  constants.  Then, the
+sionen som sedan förs är syftad      discussion  later performed  is
+till  att  komma underfund  med      aimed to come to  an understan-
+huruvida  värdet  på R påverkas      ding  wether the value of, R,is
+av  om  värdet  på  elektronens      affected by  a  change  in  the
+massa förändras (om denna massa      electron  mass (if this mass of
+av  någon  okänd anledning  fö-      some  un_known reason changed).
+rändras). Emellertid, reducerar      However, we reduce this expres-
+vi  detta  uttryck  till :           sion to :
+
+1/R=  4.Pi.re.a-1(3)  finner vi      1/R=  4.Pi.re.a-1(3),  we  find
+att  denna diskussion är ganska      that this discussion is comple-
+onödig.   Relationen innehåller      tely un_necessary. The relation
+inte  elektronens massa som nå-      contain  not the electron  mass
+gon oberoende storhet  utan en-      as an  un_dependent  entity but
+dast  relationen mellan  proto-      only related to the proton mass
+nens massa och elektronens mas-      in    the     relation     a-1=
+sa i a-1=(Mp/me)(2/3).  Se for-      (Mp/me)(2/3) (see formula 4.33B
+mel 4.33B och 4.33E.                 and 4.33E
+
+Från 4.33A finner  vi  även att      From 4.33A we see that Planck's
+Plancks  konstant inte alls  är      constant not at all is any fun-
+någon  fundamental  konstant  i      damental  physical constant  in
+egentlig mening utan sammansatt      its  true  meaning,  but  being
+av andra storheter, me , (elek-      composed by 4  other  entities,
+tronens vilomassa),  c , (ljus-      me( the electron rest mass), c,
+hastigheten), re,  (elektronra-      (the velocity of light), re(the
+dien samt, Mp, (protonesn vilo-      electron  radius)   and  Mp(the
+massa).                              proton rest mass).
+
+På  detta eller  liknande  sätt      In this and similar ways we  by
+kan vi med  hjälp av dimension-      aid of dimensional analysis can
+sanalys av förekommande fysika-      investigate  hidden  properties
+liska relationer upptäcka gömda      of a  given  physical  relation
+samband  och som också visar på      and  also achieve a deeper  un-
+de grundläggande  principer som      derstanding of  underlying fun-
+styr naturen.                        damental  principles in matter.
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O.Tedenstig/Sweden    9.06
+--------------------------------------------------------------------- 
+ 
+ 
+
+Nedan  prenteras  en  lista som      Below  is given a table showing
+visar   dimensionen  hos  några      the dimension  of  some  common
+vanliga   fysikaliska  stoheter      physical  entities as given  in
+uttryckta i basenheterna M(mas-      units of M(mass), L(length) and
+sa), L(längd) och T(tid) med ut-     T(time)  starting  from results
+gångspunkt  från  resultat från      from out theory.
+vår teori :
+
+
+====================================================================
+FUNCTION    FORMULA      DEDUCING                 !    !    !    !
+                         DIMENSION                ! M  !  L !  T !
+====================================================================
+Mass                                                +1    0    0
+Substance
+Matter      -               -
+--------------------------------------------------------------------
+Time                                                 0    0   +1
+Period      -               -
+--------------------------------------------------------------------
+Length                                               0   +1    0
+Distance    -               -
+--------------------------------------------------------------------
+Velocity    v=s/t             L/T                    0   +1   -1
+--------------------------------------------------------------------
+                   2            2
+Area        A= Pi.r           L                      0   +2    0
+--------------------------------------------------------------------
+                    3           3
+Volume      V=4.Pi.r /3       L                      0   +3    0
+--------------------------------------------------------------------
+Wavelength  w=v/f             L/T/(1/T)              0   +1    0
+--------------------------------------------------------------------
+Frequency   f=1/t             1/T                    0    0   -1
+--------------------------------------------------------------------
+                                   2
+Accelara-   a= F/M            M.L/T /M               0   +1   -2
+tion
+--------------------------------------------------------------------
+Mechanic    I= m.v            M.L/T                 +1   +1   -1
+impulse
+--------------------------------------------------------------------
+                                 3
+Mass        q=m/V             M/L                   +1   -3    0
+density
+--------------------------------------------------------------------
+                                   2 2
+Pressure    p= F/A            M.L/T/L               +1   -1   -2
+ 
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O.Tedenstig/Sweden    9.07
+--------------------------------------------------------------------- 
+ 
+ 
+--------------------------------------------------------------------
+                                   2
+Energy      E =F.s            M.L/T.L               +1   +2   -2
+--------------------------------------------------------------------
+                                 2   2
+Power       P =E/t            M.L /T /T             +1   +2   -3
+--------------------------------------------------------------------
+Impulse     IM= m.v.r         M.L/T.L               +1   +2   -1
+momentum
+--------------------------------------------------------------------
+                                   2
+Force       FM= Fxr           M.L/T.L               +1   +2   -2
+momentum
+--------------------------------------------------------------------
+                 2                   2
+Mechanical  F=m.v /r          M.(L/T) /L            +1   +1   -2
+force
+--------------------------------------------------------------------
+               2           2    3   2    3     2
+Electro-    F=Q /(4.Pi.Eo.D   (L /T) /(L /M).L      +1   +1   -2
+static  force
+--------------------------------------------------------------------
+                                 3 2
+Magnetic    F= B.e.v          M/L.L .L/T.L/T        +1   +1   -2
+force
+--------------------------------------------------------------------
+                               2
+Electric   Kt.Ka.r.c.N        L.(L/T).1              0   +3   -1
+charge
+-------------------------------------------------------------------
+                          3
+Electric    Q/t          L /T/T                      0   +3   -2
+current
+--------------------------------------------------------------------
+                       __                       2
+Electric  U=m.N.c.D/(2.//.r.A)  M.1.(L/T).L/(L.L )  +1   -1   -1
+voltage
+--------------------------------------------------------------------
+                               3
+Magnetic    B =(dI/dV).  (M.v/L )/(L/T) =           +1   -3    0
+field          (1/c)              3
+strength                 M.(L/T)/L /(T/L)
+-------------------------------------------------------------------
+Permittivity                   3
+of vacuum   Eo=1/q       1/(M/L )                   -1   +3    0
+-------------------------------------------------------------------
+                              3             2
+Permeability u0=    2    (1/(L /M)).(1/(L/T) )      +1   -5   +2
+constant of  1/(Eo.c )
+a magnetic
+field
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O.Tedenstig/Sweden     9.08
+--------------------------------------------------------------------- 
+ 
+ 
+--------------------------------------------------------------------
+Magnetic    E/V=   2                                +1   +4   -2
+energy      (1/2).B /        3 2 3      2  5
+density     dV/u0        (M/L ).L /(M.T /L
+--------------------------------------------------------------------
+                    2            2      2
+Electro-    2.Pi.m.c.r.   M.(L/T).L.L/L             +1   +2   -2
+static       2
+energy      N .D/A
+--------------------------------------------------------------------
+                            3 2
+Magnetic    O= B.A       M/L.L                      +1   -1
+flow
+--------------------------------------------------------------------
+Rydberg's                   3
+konstant    R= 1/(4.Pi.r.a-1 )  1/L                  0   -1    0
+--------------------------------------------------------------------
+                           3     2
+Capacitance C= Eo.A/D    (L /M).L /L                -1   +4    0
+--------------------------------------------------------------------
+                                     3  2
+Resistance  R= U/i       (M/(T.L))/(L /T )          +1   -4   +1
+--------------------------------------------------------------------
+                             3
+Electric    E=q.c        (M/L ).(L/T)               +1   -2   -1
+field
+strength
+--------------------------------------------------------------------
+                                       3  2
+Inductance  L =U.T/I     (M/(T.L)).T/(L/T )         +1   -4   +2
+--------------------------------------------------------------------
+                  2            2   2
+Gravity     G= F.D/(M.M) (M.L/T ).L /(M.M)          -1   +3   -2
+constant
+--------------------------------------------------------------------
+Hubble      1/T                                      0    0   -1
+constant
+--------------------------------------------------------------------
+
+
+
+
+Common physical constants, got from "Particle Properties Data
+Booklet, April 1988, CERN particle, data group, and :
+Fundamental Constants of Physics, Physics handbook, Student-
+litteratur, Lund, Sweden 1980.
+
+
+speed of light            c            299 792 458 m/s
+Planck constat            h            6.626 075 5(40)E-34 Js
+electron charge           e            1.602 177 33(49(E-19 C
+electron mass             me           0.510 999 06(15) Mev
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O.Tedenstig/Sweden    9.09
+--------------------------------------------------------------------- 
+ 
+ 
+Electron mass             me           9.109 389 7(54)E-31 kg
+proton mass               mp           938.272 31(28) Mev
+                                       1.672 623 1(10)E-27 kg
+permittivity constant     Eo           8.854 188 17E-12 Fm-1
+permeability constant     uo           4.PiE-7 N A-2
+fine structure constant   a            1/137.035 989 6(61)
+classic electron radius   re           2.817 940 92(38)E-15 m
+Bohr radius               aoo          0.529 177 249(24)E-13
+Bohr magneton             uB           9.274 1E--24 J/T
+Nuclear magneton          uN           5.050 82E-27 J/T
+Electron magn. mom        ue           -9.284 9E_24 J/T
+Proton magn. mom          up           1.410 62E-26 J/T
+Neutron magn. mom         un           -1.913 5 uN
+gravitational constant    G            6.672 59(85)E-11 m(3) kg-1 s-2
+Boltzmann constant        k            1.380 658(12)E-23 J K-1
+Stefan-Boltzman const.    sigma        5.670 51(19)E-8 W m-2 K-4
+Number of Pi              Pi           3.141 592 653 589 793 238
+electron volt             eV           1.602 177 33(49)E-19  J
+atmosphere                atm          1.013 25E5 N/m(2)
+gravitational constant    G            6.672 0E-11 Nm(2)/kg(2)
+muon rest mass            mu           1.88357E-28 kg
+neutron rest mass         mn           1.674 95E-27 kg
+
+1eV = 1.602 177 3349 10-19 J
+1 gauss(G) = 10-4 Tesla
+0 C = 273.15K
+1 atmosphere = 1.013 25 10-5 N/m(2)
+
+
+References: 7),8),57),59),60)
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973340-0-6, O.Tedenstig/Sweden    9.10
+--------------------------------------------------------------------- 
+ 
+ 

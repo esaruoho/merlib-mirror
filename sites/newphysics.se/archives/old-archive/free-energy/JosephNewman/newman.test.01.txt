@@ -1,0 +1,135 @@
+		       Copyright 1986 The Washington Post
+			      The Washington Post
+
+		    July 23, 1986, Wednesday, Final Edition
+
+     SECTION: First Section; A19
+     
+     LENGTH: 954 words
+     
+     HEADLINE: Is It Perpetual Motion?; Inventor Has Science Offices
+     Spinning
+     
+     BYLINE: By Boyce Rensberger, Washington Post Staff Writer
+     
+     BODY:
+     " Joseph Newman's  device," as government scientists gingerly refer
+     to the contraption, may be the most successful perpetual motion
+     machine ever invented.
+     
+     Not that scientists are convinced it really works. It's just that it
+     has succeeded in getting more attention, much of it exasperated,
+     from the Commerce Department's Patent and Trademark Office, from
+     scientists at the National Bureauof Standards, from the U.S. District
+     Court for the District of Columbia and from the news media than any
+     such device in recent memory.
+     
+     Newman, a self-taught inventor from Lucedale, Miss., has been
+     battling for nearly seven years to obtain a patent on his machine,
+     which he claims produces more electrical  energy  than it consumes from
+     a battery pack.
+     
+     The patent office, without testing the device, rejected his
+     application on the grounds that the invention's claimed ability
+     contradicts accepted laws of nature, specifically the Second Law of
+     Thermodynamics.
+     
+     Newman, arguing that his invention does not contradict scientific
+     law but instead taps a previously unknown source of  energy,  has
+     sued the patent office. The trial is scheduled for December.
+     
+     Patent office officials will not comment on the Newman affair but do
+     say thatlawsuits from disgruntled inventors are rare. Of 120,000
+     patent applications received in a typical year, about 40,000 are
+     rejected, but the office is sued only about 100 times a year. Newman's
+     suit is the only one patent officials can remember in which the
+     invention was judged impossible because it would violate alaw of
+     nature.
+     The court ordered Newman to submit his machine for testing by the
+     National Bureau of Standards, also a Commerce agency, which has long
+     experience in evaluating electrical equipment.
+     
+     After spending more than $75,000 to test the device, the bureau last
+     week submitted a 36-page report to the court that concluded, "At all
+     conditions tested, the input power exceeded the output power. That is,
+     the device did not deliver more  energy  than it used." The machine's
+     efficiency varied according to the test conditions, with output ranging
+     between 27 percent and 67 percent ofthe  energy  consumed.
+     
+     Newman alleges that the bureau rigged its test to obscure the
+     machine's true performance and vows that if the District Court rules
+     against him, he will carryhis fight for a patent to the Supreme Court.
+     He asserts that the science establishment is so beholden to its own
+     interpretation of the Second Law that itcannot accept his
+     "revolutionary" discovery.
+     
+     In colloquial terms, the Second Law of Thermodynamics says that you
+     can't getsomething for nothing. More formally, it says that in every
+     process some of the energy  consumed is lost forever, most commonly
+     as heat. The amount of  energy put out by any machine, therefore, is
+     equal to the amount put in minus certain unavoidable losses within the
+     system.
+     
+     Although the greatest minds in physics have repeatedly affirmed the
+     Second Law, this has not stopped some inventors from thinking that,
+     if they are clever enough, they can find a design that eliminates all
+     internal power losses.
+     
+     Newman claims to have gone one better by making a machine that
+     creates additional  energy.  Newman says that in his own lab, his
+     devices are 400 to 500percent efficient, putting out four to five times
+     as much  energy  as they take in.
+     
+     The key, Newman says, is that his machine, like an atomic reactor or
+     a hydrogen bomb, converts matter into  energy.  The matter in this
+     case is something Newman discovered and named "gyroscopic particles."
+     These, according to Newman's theory of atomic physics, are building
+     blocks of the usual subatomicparticles -- protons, neutrons and
+     electrons.
+     
+     Newman's discovery has not been embraced by the scientific
+     community.  However, he says his experiments have convinced him that
+     gyroscopic particles exist in all forms of matter and that his machine
+     simply captures their  energy and channels it into wires as
+     electricity.
+     
+     "I'm just an old country boy," Newman says. "I've never had a
+     physics course or an electrical engineering course in my life. But I
+     do know what I see and
+     
+     anybody with conventional equipment for measuring power can see for
+     himself thatit works."
+     
+     Newman's machine consists of four main parts -- a battery pack
+     containing 116nine-volt batteries wired in series to put out about
+     1,000 volts, a large coil of wire that becomes an electromagnet when
+     hooked to the batteries, a permanent magnet that spins like an electric
+     motor in response to the electromagnet, and acommutator, a wheel with
+     electrical contacts that spins with the magnet and repeatedly connects
+     and disconnects the power supply to the coil and also repeatedly
+     reverses the flow of the battery power.
+     
+     Despite the elaborate design, the Bureau of Standards report says,
+     the deviceperformed with less efficiency than would a simple pair of
+     wires, which would deliver nearly all the  energy  put into them.
+     
+     The report also says that because of the way the device works --
+     rapidly starting, stopping and reversing the flow -- it produces
+     sharp "spikes" in
+     energy  output that give spuriously high readings on conventional
+     measuring equipment. The bureau says it had to find special equipment
+     to get accurate readings.
+     
+     It is this use of special equipment that Newman says was an attempt
+     to hide his device's true performance. He says the bureau first used
+     ordinary equipment and then, seeing a high output that would show their
+     colleagues in the patent office to be wrong, found other equipment to
+     produce a lower reading.
+     
+     "I'm not fighting for myself," Newman said. "This is for humanity.
+     It's obvious what a thing like this would mean."
+     
+     Whether it will be obvious to the U.S. District Court is another
+     question.
+     
+     ....

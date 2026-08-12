@@ -1,0 +1,281 @@
+Wall and Ball
+
+I Einsteins  relativitetsteori      In Einstein's theory of rela-
+betraktas  massökning  som ett      tivity, mass increase  is re-
+generellt fenomen för alla fö-      garded  as a common phenomena
+remål som rör sig med  en viss      applied on all bodies  moving
+hastighet relativt  en betrak-      with some velocity  in  rela-
+tare. Att det så förhåller sig      tion  to an  outer  observer.
+finns inget som  bestyrker med      However,   there  is  nothing
+experiment,  utan utgör en ren      saying that is true,  but may
+interpolering av resultat från      be a  pure  interpolation  of
+partikelfysiken. Att partiklar      results got from the particle
+som  accelereras i elektromag-      physics, where particles  are
+netiska  fält  ökar sin  massa      drived to accelerate in elec-
+lär vara experimentellt bekräf-     tromagnetical fields, obvious-
+tat, dock inte att detta gäll-      ly confirmed by these experi-
+er för  alla föremål som acce-      ments but not having any com-
+lereras, exempelvis i fri rymd.     mon use for all bodies moving
+                                    in free space.
+
+Experimentellt  kan  det  vara      It may be hard to negate such
+svårt att vederlägga en  sådan      a theory by experiment, so we
+teori, vi får nöja oss med ett      have to be satisfied  with  a
+tänkt  experiment,  dock  vars      pure theoretical "thought ex-
+utgång  måste   stämma med vad      periment",using basic concept
+som teorin förespråkar, nämli-      of the  suggested  theory  as
+gen att  symmetri  föreligger,      start. A main thesis  is that
+varmed menas att det fysikali-      there is symmetry in all phy-
+ska resultatet är oberoende av      sical  processes  as  seen in
+vem som är betraktaren.             different reference  systems.
+
+I detta  föreslagna experiment      In the here suggested experi-
+kolliderar  en stålkula med en      ment, a steel ball is  colli-
+tung stålvägg. Vid kollisionen      ding a heavy steel wall. When
+inbromsas  kulan  och  studsar      the steel ball hit  the wall,
+elastiskt  tillbaka  i motsatt      it will be retarded och stop-
+riktning till infallsriktning-      ped, then accelerated  up to
+en.                                 its initial velocity, but in
+                                    the opposite direction.
+
+Vid  kollisionen  uppstår  en       At the event of collision, a
+kortvarig intryckning av mate-      a short  termed  compression
+rialet i stålkula och vägg och      of the  steel  ball  and the
+en impulskraft uppstår.             steel wall is occurring.
+
+Utgångspunkten  är att  kulan      The start assumption  is that
+färdas  med så  hög  hastighet     the relative velocity between
+relativt  väggen, att en mass-     ball and wall is so high that
+ökning  av 1.28  gånger av ku-     the  ball  (or the wall)  has
+lans vilomassa föreligger.         increased its mass 1.28 times
+                                   the rest mass.
+
+Då  kulan träffar väggen, som      In the first  case,  the ball
+är  mycket kompakt och stabil,     collide with the wall,  which
+inbromsas kulan och stannar,       is very hard and stabil.  The
+varefter den åter accelereras      ball will retard and stop and
+till sin ursprunlinga hastig-      then accelerated again to its
+het. Vid inbromsningen förlo-      original velocity, bit in the
+rar kulan massa och vid acce-      opposite direction. At retar-
+lerationen återgår massan hos      dation, the  ball loses   28%
+kulan till det värde den hade      of its mass  but get  it back
+för kollisionen.                   again when accelerating.
+
+En tid/kraft plott beräknas        A time/force plot is  done on
+på detta förlopp.                  this envelope.
+
+I ett andra fall är situatio-      In the second case the situa-
+nen  att vi  betraktar  kulas      tion is  the  opposite.  Here
+som  varande i sitt vilotill-      we regard the vball as  being
+stånd,  dvs  har   massan  1.      in rest and  the wall  moving
+Väggen  däremot  rusar   fram      with  high  velocity  towards
+mot kulan  med en så hög has-      the wall.  In this  case  the
+tighet att väggens vikt rela-      wall is overloaded  with mass
+tivt kulan har ökat 1.28 gång-     1.28 times and  the ball  has
+er.                                rest mass.
+
+Vad som händer i detta senare      In this case the ball is acce-
+fallet  är  att kulan  drives      lerated by the wall when  the
+upp  till  väggens  hastighet      collision occur. The wall  is
+och  ökar  därmed  sin  massa      so heavy that  it reamin  its
+1.28  gånger  sin  vilomassa.      velocity  unchanged, but  the
+Kraft/tid förloppet  beräknas      ball will accelerate  and in-
+även för  detta  fall  och en      crease  its  mass 1.28  times
+plott skrives ut på förloppet.     rest mass.A plot is done even
+                                   for this situation.
+
+Kraft/tidförloppet som utplot-     The  force/time  envelope  is
+tas måste bli symmetriskt,dvs      plotted out for the two cases,
+de båda kurvorna måste samman-     which of course  is the  same
+falla. Det  fysikaliska stöt-      event and of that reason must
+förloppet blir dock inte det-      give the same measurement re-
+samma i båda fallen, dvs ass-      sult. However,the calculation
+ymetriskt. Därav kan  vi  dra      clearly  show  that  the  two
+slutsatsen  att massökning av      force/time   curves  not  are
+föremål,accelerade i fri rymd      symmetrical, hence mass incre-
+inte  äger   någon  giltighet      ase is an  assymmetrical  pro-
+utan  kan  avfärdas   som  en      sess in these cases it  occur
+påhittad dogm som helt saknar      and of that reason in conflict
+förankring i verkligheten.         with the theory of relativity
+                                   basic concepts.
+
+
+(* the program is written in TurboPascal and need a graph *)
+(* driver of EGAVGA type *)
+
+program wallball;
+uses    graph;
+label   1;
+
+const   c=3E8;        (* light velocity m/s                       *)
+        k=1E16;       (* steel ball spring constant               *)
+        m0=1;         (* steel ball rest mass rel. to the wall    *)
+        m_start=1.28; (* steel ball relativistic mass             *)
+        dt=1E-11;     (* incremental time interval                *)
+        k1=1.8E-8;    (* calculus plot constant                   *)
+        k2=1.5E16;    (* calculus plot constant                   *)
+var     v:real;       (* the momentan velocity of wall or ball    *)
+        graphdriver,graphmode,grapresult:integer;
+        q,errorcode,frek:integer;
+        colour:integer; (* color of plot *)
+        dv:real;      (* the differential change in velocity v    *)
+        s:real;       (* the spring momentan movement             *)
+        ds:real;      (* the spring differential movement         *)
+        t:real;       (* the total elapsed time                   *)
+        fmax:real;    (* maximum force in steel ball impact       *)
+        f:real;       (* momentan force in steel ball             *)
+        m:real;       (* momentan relativistic mass               *)
+        v_start:real; (* start velocity of steel ball or wall     *)
+        v_max:real;   (* maximum velocity of steel ball           *)
+        n:integer;    (* calculus parameter                       *)
+        v_block:real; (*                                          *)
+        x,y:real;
+        signum:integer; (* calculus parameter *)
+(************ procedure init graph ***********************)
+procedure init_graph;
+begin
+graphdriver:=detect;
+initgraph(graphdriver,graphmode,'c:\tp\BGI');
+errorcode:=graphresult;
+if errorcode <>grok then
+begin
+writeln('Graphics error: ',grapherrorMsg(errorCode));
+writeln('program aborted..');
+halt(1);
+end;
+end;
+
+procedure text;
+begin
+setcolor(red);
+outtextxy(30,40,'Red curve : ball collide with wall ');
+setcolor(blue);
+outtextxy(30,60,'Blue curve : wall collide with ball');
+setcolor(green);
+outtextxy(30,80,'x-axis = elapsed time, y-axis = impulse force ');
+end;
+
+
+procedure present;
+begin
+Writeln('The program is written and compiled in TurboPascal and ');
+writeln('needing a EGAVGA colour graphic driver for plotting on screen');
+
+Writeln('The program shows that Einsteins theory of relativity');
+writeln('is wrong. It present a falsifying test of the mass increase');
+writeln('dogma in accord with the relativity basic concept');
+writeln('The problem is as follow: a steel ball collide with a massive ');
+writeln('wall with a heavy mass. The ball and the wall are supposed');
+writeln('having an elasticity equivalent with a steel spring with');
+writeln('a spring constant of, k. In the first case the steel ball');
+writeln('collide with the wall with a relativistic velocity so high that');
+writeln('the balls mass is 1.28 times greater than in the rest state');
+writeln('The time/force plot is calculated. In the second case the ');
+writeln('collision happen when the ball is in rest and the wall is ');
+writeln('coming with the same velocity as in the first case. The ');
+writeln('time force plot is calculated as in the first place');
+
+writeln('The force/time plot must be the same in both the cases');
+writeln('There shall not has any matter wether the ball or the wall');
+writeln('moves, the plot must be symmetrical');
+writeln('But it will not be symmetrical, the result depends on which');
+writeln('side is regarded as moving at start');
+writeln('Hence, we can draw the conclusion that the mass increase ');
+writeln('concept as described by the relativistic concept is erroneous');
+writeln('and may be inhibited from science');
+end;
+
+procedure calculus;
+begin
+while f>0 do begin         (* f is the steel spring force *)
+ds:=signum*(v_block-v)*dt; (* the mom. compression of the steel spring *)
+s:=s+ds;                   (* the total compression of the steel spring *)
+dv:=signum*k*s*dt/m;       (* change in velocity of steel ball *)
+v:=v+dv;                   (* total velocity of steel spring *)
+t:=t+dt;                   (* the total elapsed time *)
+f:=k*s;                    (* the force pressure in the steel spring *)
+m:=m0/SQRT(1-(v/c)*(v/c)); (* relativistic mass of steel ball *)
+x:=300*t/k1;               (* x plotter parameter for total elapsed time *)
+y:=300*f/k2;               (* y plotter parameter for force in spring *)
+putpixel(trunc(x),trunc(y),colour);   (* plot time and force *)
+end;
+end;
+
+
+begin
+present;
+readln;
+init_graph;
+setpalette(0,yellow);
+setcolor(blue);
+
+(* The steel mass collide with the wall in rest  *)
+s:=0; (* start steel spring compression *)
+t:=0; (* start time                     *)
+m:=m_start;  (* start mass of steel ball *)
+v_start:=c*sqrt((1-(m0/m_start)*(m0/m_start))); (* steel ball velocity *)
+v:=v_start;  (* stell ball start velocity *)
+f:=0.1;
+v_block:=0;   (* start velocity of wall *)
+signum:=-1;
+colour:=6;
+
+(* calculus of case 1 *)
+(* observe that the same calculus procedure is used in both cases  *)
+calculus;
+(***********)
+
+(****************************************)
+(* In this case the steel ball is in rest and the wall is *)
+(* colliding the steel ball with the start velocity as the *)
+(* same as in case above *)
+
+s:=0;   (* start steel spring compression *)
+t:=0;   (* start time                     *)
+m:=m0;  (* start mass of steel ball at rest *)
+v:=0;   (* start velocity of steel ball at rest *)
+f:=0.1;
+signum:=1;
+v_block:=v_start;
+colour:=8;
+
+text;
+
+(* calculus of case 2)
+(* observe that the same calculus procedure is used in both cases *)
+(* hence symmetric  *)
+calculus;
+readln;
+closegraph;
+end.
+(* end of program wallball *)
+
+
+
+
+     !
+     !
+     !  .                                        .        x
+     !   x                                      .       x
+     !    .                                           x
+     !     x                                 .      x
+     !       .                                   x
+     !         x                          .
+     !            .                          x
+     !              .x                 .  x
+     !                 .  x         . x
+     !                    .     .x
+     !
+     !   . = ball collide with wall
+     !   x = wall collide with ball
+     !
+     -------------------------------------------------------------------
+
+
+The plot of force/time is not symmetrical as regarded from
+the two systems. The same evensz give two different
+experimental results, hence the idea that mass increase
+as result of acceleration of bodies in space, not can be
+true. We all know that the curves must be exact symmetrical.
+
+

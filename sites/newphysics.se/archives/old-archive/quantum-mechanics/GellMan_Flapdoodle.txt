@@ -1,0 +1,234 @@
+
+From: sarfatti@netcom.com (Jack Sarfatti)
+Subject: Gell-Mann's "FLAPDOODLE"
+Message-ID: <sarfattiCr0AwC.LAq@netcom.com>
+Followup-To: sci.physics
+Keywords: Quark and Jaguar Review, Mind, Paranormal, Causality
+Organization: NETCOM On-line Communication Services (408 261-4700 guest)
+Date: Tue, 7 Jun 1994 02:57:48 GMT
+Lines: 221
+Xref: columba.udac.uu.se sci.physics:11011 sci.skeptic:11096 sci.cognitive:758 sci.math:9517 sci.edu:504 sci.philosophy.meta:1165 comp.ai:1854 alt.paranormal:2102 alt.consciousness:1089 rec.arts.books:11808 alt.sci.physics.new-theories:1294 sci.psychology:3957
+
+
+
+Gell-Mann's "Flapdoodle"
+First part of a review of The Quark and the Jaguar
+distributed far and wide on the Internet by Jack Sarfatti
+sarfatti@netcom.com
+
+"Bull Tweedle!"
+Suky Sedgwick
+
+Murray dedicates his book to his "Poet" Marcia Southwick and I dedicate 
+this note to my Muse, Suky Sedgwick.  We at least have that in common! 
+:-)
+
+First, let me say that Gell-Mann's book has some important valid 
+insights and is fundamentally a good book worth reading - but! ....
+
+Murray at the beginning of his book admits his fear of making mistakes 
+(1) - well he has made a big one in Chapter 12 called "Quantum Mechanics 
+and Flapdoodle" when it comes to the meaning of Bell's inequality.  
+
+Like Mermin (Physics Today) and Jeremy Bernstein (Quantum Profiles) 
+before him in their articles and books, he makes the claim indirectly 
+that my well-known ideas distort the truth in the context of a 
+particular oft-quoted letter written by me and A.L. Chickering of Ed 
+Meese's Institute for Contemporary Studies to Richard De Lauer when he 
+was Under Secretary of Defense under Cap Weinberger. (2)  
+
+So I can rightly claim a direct influence on the content of the book as 
+one of the major outlaws of physics!  
+
+It's no wonder that I have not gotten a Mac Arthur grant since Murray 
+sits on the board!:-)
+
+But seriously, Gell-Mann, great as he is, has simply, in that case, 
+(distracted perhaps by stolen primitive art from Columbia or Ecuador) 
+not thought deeply enough about the problem, and he presents a minority 
+point of view as if it is incontestable and obvious.  
+
+It is Murray who in fact distorts the truth here while he pretends to 
+correct what he calls "distortion".  
+
+"Let he who is without sin, cast the first stone."
+
+Whoops! my Tipler is showing. :-)
+
+Murray's scope in the book as a whole is broad but his depth in this 
+crucial case of nonlocality is shallow.
+
+The subject of "nonlocality" sparks irrational reactions and even the 
+Great Gell-Mann is not immune.  
+
+Murray's logic is faulty as I shall show below, and I shall endeaver to 
+hoist him by his own petard in the manner of Cyrano.
+
+Thus, he writes on p.172:
+
+"The Story Distorted
+The principal distortion dessemated in the news media and in various 
+books is the implication, or even the explicit claim, that measuring the 
+polarization, circular or plane, of one of the photons somehow affects 
+the other photon.
+
+In fact, the measurement does not cause any physical effect to propagate 
+from one photon to another."
+
+In this last remark, Murray seems to ignore Bell's demonstration that 
+the standard statistical predictions of quantum mechanics violate a 
+seemingly innocent criterion of "locality" which says that there is no 
+physical connection between two measurements on correlated photons at a 
+spacelike separation from each other.
+
+Physicists who have written that such "superluminal connections" exist 
+include, I believe, in part David Bohm, Henry Stapp, Philipe Eberhard, 
+Oliver Costa De Beauregard, J. P. Vigier, Brian Josephson and Nick 
+Herbert among others.
+
+Now, let us not confuse this with the separate idea of faster-than-light 
+communication of useful messages in which phase entanglement is the 
+communication channel.  Gell-Mann does not seem to keep this crucial 
+distinction clearly in mind in his popular exposition.
+
+None of the physicists mentioned in the above list, other than Nick 
+Herbert maybe (he believes on Sunday, Tuesday, and Thursday and 
+disbelieves the other days :-)), thinks that standard quantum mechanics 
+allows such faster-than-light communication.  Even I don't think that 
+anymore (on at least 5 out of the 7 days! :-))
+
+The important problem is whether there is a generalization of standard 
+quantum mechanical theory, which involves both gravity and the 
+complexity measures that Gell-Mann is so fond of, as well as chaotic 
+amplification from the Planck scale to the chemical scale of 1ev, that 
+permits such strong causality-violating communication on the quantum 
+connection.
+
+Brian Josephson suspects that living systems are able to use the quantum 
+connection for communication.  This is not crackpot "vitalism" because 
+the claim is not that one has to invoke supernatural forces.  The 
+relation of the general theory of the quantum including adaptive systems 
+to the special theory of the quantum of 1925 etc would be analogous to 
+the relation of Einstein's general relativity to Newton's theory.
+
+The fact that different pieces of human memory are located in widely 
+separated parts of the brain, cries out for the idea that our immediate 
+subjective mental experience of the unity of self and our perception of 
+the world, is explained by a robust adaptive (or self-referential) 
+macroscopic quantum state in which there are "depth"-dependent 
+deviations from the Born probability rule which would be the limit of 
+zero depth ("depth" as defined by Gell-Mann - hence the "petard" 
+allusion above).  
+
+That is, generalized quantum mechanics is the solution for the "binding 
+problem" for ordinary consciousness.
+
+Gell-Mann continues:
+"In fact, the measurement does not cause any any physical effect to 
+propagate from one photon to the other.  Then what does happen?
+
+If, on a particular branch of history, the plane polarization of one 
+photon is measured and thereby specified with certainty, then on the 
+same branch of history the plane polarization of the other photon is 
+also specified with certainty.  On a different branch of history the 
+circular polarization of one of the photons may be measured, in which 
+case the circular polarization of both photons is specified with 
+certainty .... no signal passes from one photon to the other in the 
+experiment that confirms quantum mechanics.  No action at a distance 
+takes place."  p.172
+
+First of all Gell-Mann acts as though no other interpretation of 
+standard quantum mechanics is possible.  For example, in Bohm's 
+interpretation there is a clear action at a distance from a "super 
+quantum potential" in his "field theory" as explained in detail in the 
+books Quantum Implications and Undivided Universe (with Hiley).
+
+But let us accept Gell-Mann's interpretation as the only true one.  His 
+argument then implies that it is the observer's free choice of whether 
+to measure plane or circular polarization that selects out the branch of 
+history that is actualized.
+
+Therefore, Gell-Mann is forced into the New Age Camp that he despises in 
+which "we create our own reality".  In Gell-Mann's picture we can hop 
+about between different alternative branches.  
+
+Now what about the "paranormal" thing of actual communication that Gell-
+Mann really thinks is "crackpot" (3).
+
+Suppose you choose to measure circular rather than plane polarization.  
+The fact of standard quantum mechanics that prevents you from decoding a 
+message at one end of a time series ensemble of polarization-correlated 
+photon pairs, is the uncontrollable collapse (with probability 1/2) of 
+the coherent pair wave function into either right circular or left 
+circular polarization for each individual pair.
+
+If, on the contrary, Alice could control the collapse into a desired 
+state of say right circular polarization for each photon she detects, 
+then, that kind of control would constitute a decodable message to Bob 
+who is detecting the twins to Alice's photons.
+
+Now here is the important logical point.  This kind of action at a 
+distance communication would happen even in Gell-Mann's interpretation.  
+The interpretation doesn't matter!  The interpretation is only a 
+conceptual frame of reference.  
+
+What does matter is that the rules of the standard theory are being 
+changed but in a testable and rational way.
+
+For example, Steven 	Weinberg has published a nonlinear model of a more 
+general quantum mechanics which does have the kind of communication that 
+Gell-Mann rejects out of hand as crackpot.  
+
+The issue here is not whether Weinberg's particular model is true or 
+not.  
+
+The issue is what constitutes good physics and Gell-Mann's uncritical 
+acceptance of the absolute truth of past cause/future effect does 
+physics a disservice to real progress in physics given the fact of the 
+man's enormous power and influence.
+
+Recent work on traversable wormhole, described in Kip Thorne's excellent 
+book, Black Holes and Time Warps, show that Murray's grasping at 
+coventional ideas of cause and effect are not at all warranted. 
+
+Indeed, it can be argued, that the explanation of the indeterminism of 
+individual quantum events is precisely because their conventional past 
+causes must be supplemented by future causes which bring them out of 
+Heisenberg's "potentia" into our actual history.
+
+We will see how Gell-Mann explains our actual history of the universe 
+later on.
+
+To be continued  - that was the bad news.  In the next part I will focus 
+on what is really good in Murray's book!
+
+Notes:
+(1) "When the errors concern me or my work, I become furious.  The 
+reader of this volume can readily imagine the agonies of embarrassment I 
+am already enduring just through imagining dozens of serious mistakes 
+being found by my friends and colleagues after publication and pointed 
+out, whether gleefully or sorrowfully, to the perfectionist author." 
+ppxv-xvi
+
+(2) "A third manifestation of flapdoodle is the submission of proposals, 
+for example to the U. S. Department of Defense, for using quantum 
+mechanics to achieve faster-than-light communication in military 
+contexts." p.173
+
+(3) ".. certain writers have claimed acceptability in quantum mechanics 
+for alleged 'paranormal' phenomena like precognition, in which the 
+results of chance processes are supposed to be known in advance to 
+'psychic' individuals. ... such phenomena would be just as upsetting in 
+quantum mechanics as in classical physics; if genuine, they would 
+require a complete revamping of the laws of nature as we know them." 
+p.173
+
+Murray is grossly exaggerating.  A minor mathematical change in the 
+rules, for example, the one by Weinberg, would easily account for 
+alleged paranormal phenomena which is simply controlled action-at-a-
+distance.  This does mean a violation of the projection axiom of 
+standard theory, but that would be a normal advance in our understanding 
+of the laws of nature.
+
+
+

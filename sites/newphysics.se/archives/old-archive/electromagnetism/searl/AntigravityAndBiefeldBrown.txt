@@ -1,0 +1,97 @@
+From t89djo@bellatrix.tdb.uu.se Wed Jan 12 17:06:47 1994
+Return-Path: <t89djo@bellatrix.tdb.uu.se>
+Received: from bellatrix.tdb.uu.se by Minsk.DoCS.UU.SE (Sun-4/630, SunOS 4.1.2)
+ with sendmail 5.61-bind 1.5+ida/ICU/DoCS id AA13907; Wed, 12 Jan 94 17:06:46 +0100
+Received: from albireo.tdb.uu.se by bellatrix.tdb.uu.se (5.0/SMI-SVR4)
+	id AA22604; Wed, 12 Jan 1994 17:06:44 --100
+Received: by albireo.tdb.uu.se (5.0/SMI-SVR4)
+	id AA24660; Wed, 12 Jan 1994 17:04:35 --100
+Date: Wed, 12 Jan 1994 17:04:35 --100
+From: t89djo@bellatrix.tdb.uu.se (David Jonsson)
+Message-Id: <9401121604.AA24660@albireo.tdb.uu.se>
+To: t89djo@minsk.docs.uu.se
+Subject: (fwd) Re: antiGravity / Biefeld-Brown
+Newsgroups: alt.sci.physics.new-theories,alt.alien.visitors
+Reply-To: t89djo@tdb.uu.se
+Content-Type: text
+Content-Length: 3801
+Status: RO
+
+Path: corax.udac.uu.se!sunic!pipex!howland.reston.ans.net!news.cac.psu.edu!psuvm!cunyvm!cunyvm
+Organization: City University of New York/ University Computer Center
+Date: Sun, 9 Jan 1994 17:45:22 EST
+From: <N13CC@CUNYVM.CUNY.EDU>
+Message-ID: <94009.174522N13CC@CUNYVM.CUNY.EDU>
+Newsgroups: alt.sci.physics.new-theories,alt.alien.visitors
+Subject: Re: antiGravity / Biefeld-Brown
+References: <94007.004747N13CC@CUNYVM.CUNY.EDU> <CJAzMM.M89@eskimo.com>
+Lines: 59
+Xref: corax.udac.uu.se alt.sci.physics.new-theories:4484 alt.alien.visitors:23121
+
+
+In article <CJAzMM.M89@eskimo.com>, nanook@eskimo.com (Robert Dinse) says:
+>
+>In article <94007.004747N13CC@CUNYVM.CUNY.EDU>, <N13CC@CUNYVM.CUNY.EDU> writes:
+>> The Searl effect does not seem to be related to the Biefeld-Brown effect at
+>>  face value, but I would be glad to run some experiments to verify/debunk
+>>  Searl's wild claims.
+>
+>     I would be very interested in hearing the results of these and if anyone
+>else has duplicated this.  I have not attempted to build such a device both
+>because detailed specifications have to date eluded me, and because I'm not
+>real good at mechanics.
+>
+>     But I can imagine some interesting effects.  I have read elsewhere that
+>a set of brushes on a rotating disk in a magnetic field will create a current,
+>and since a magnetic field is supposedly required then it kind of discounts
+>the centrifugal force acting on electrons (which has to be minute anyway given
+>thier mass and the difficulty at getting such a disk up to a speed that is
+>substantial).
+
+The magnetic field is arranged to propel the electrons to the outer edge of the
+disk. It's called a Homopolar generator, and Faraday played with one in 1831.
+Bruce DePalma finds that he gets more current than he 'should' at high speeds,
+and he calls it the N-effect and builds generators that thus run themselves.
+Quite similar to what Searl did, but Searl keeps more secrets, and got odder
+results: disks that speed themselves up, hover, glow pinkly, and shoot off
+the planet's surface. Oh, and voltages of e14 volts too.
+
+There was some discussion of DePalma on alt.sci.physics.new-theories and
+sci.physics some months back.
+
+
+>     I am intrigued by the description of the magnets on the disk instead of
+>stationary, I would think this would be like not having magnets at all since
+>the field lines would be moving with the disk, ie, there is no relative motion,
+>no lines of force being cut in this configuration.
+
+What's cool is that the magnetic field lines from a bar magnet, for instance,
+do not rotate if you spin the magnet around its axis. So a voltage difference
+exists between a bar magnet and the outside edge of a conducting disk
+concentric to it, when you spin the entire assembly around the bar magnet's
+axis of symmetry. (Considering the bar magnet and disk to be electrically
+connected.)
+
+You can solder   2 disks together, one a magnet and one a conductor, and spin
+them around the axis of symmetry, and get the same result: voltage between
+the center and edge.
+
+>
+>     Still, it's interesting.  I can imagine, if some strange property did
+>allow it to get into an "energy gain" situation, some physical explanations
+>for some of the observed effects.  At very high RPM, you'd tend to throw air
+>off and rarify it somewhat around the disk by the disk acting like part of a
+>Telsa turbine.  Then again, if the RPM got very high how did Searls disk hold
+>together mechanically?
+>
+>     Well, nothing like trying it yourself, but I'm not a machinist, so if
+>anybody else does please post the results.
+>
+
+--
+David Jonsson        Voice&Fax +46-18-24 51 52
+P.O Box 353          Postal giro 499 40 54-7
+S-751 06  UPPSALA    Internet E-mail t89djo@tdb.uu.se
+SWEDEN               ++++++Cold EMISSION before the end of the century++++++
+
+

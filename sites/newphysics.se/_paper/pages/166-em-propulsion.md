@@ -1,0 +1,514 @@
+---
+title: "EM-propulsion"
+source_domain: newphysics.se
+source_path: teden/Tedenstig/EM-propulsion.html
+order: 166
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-12T20:40:30Z
+extractor: site_to_paper.py (builtin)
+---
+
+# EM-propulsion
+
+*Source page: `teden/Tedenstig/EM-propulsion.html`*
+
+From:   ERA6::OTG          19-FEB-1996 08:51:31.18
+To:     ERA1::ERAOTG
+CC:
+Subj:
+
+Electromagnetic propulsion of interstellar flying objects
+---------------------------------------------------------
+Abstract:
+
+The main methods for propulsion vehicles in free space almost
+without exception are based upon the Newtonian principle of
+action and counteraction. By powerful acceleration of hot
+gas streaming out, the vehicle in this way achieve a propulsing
+force. Using the pressure of the "sun wind" within our sun
+system belong to the more speculative methods, as well as
+using ion motors for the same purposes. Hovewer, the latter
+methods give no rise to any strong forces and can only be used
+in the free, interstellar space.
+
+The method here sketched on is a quite another very speculative
+method based upon an electromagnetical propulsing principle,
+where electromagnetical fields are used. Even if strongly specu-
+lative, it is assumed that all common known electromagnetical
+laws are valid for the suggested arrangement. Hovewer, it will
+strongly be accentuated, that the idea just is a potential theo-
+retical possibility, offering no real practical, technical
+solution of the problem of realizing it by todays technology.
+
+It may be accentuated that the researching progress in the field
+of superconducting may be an important factor in the aim
+of finding a technical solution in the future. Even if there will
+be a theoretical possibility to realize such a propulsing mechanism
+it will here not be offered any complete practical/technical
+solution of the problem.
+
+So, in the first step it will here discussed if the suggested
+priciple works at all and which problems are to be awaited.
+
+                 ----------------------
+
+Today, most of the methods for driving space ships are limited
+to the rocket principle, which means an old fashon method of
+using the first Newtonian law where the inertial properties of
+mass is used for creating a counteraction on the mass body. The
+amount of losed mass can be hold low if the reaction is fast,
+which means a high velocity of the outstreaming gas, giving a
+high degree of efficiency of the rocket.
+
+The negative thing with high velocity of the outstreaming gase
+is that the acceleration of the rocket will be high, giving low
+comfort of the passengers, high temperature stress of the vehicle
+mechanical parts and also high mechanical stress of the whole
+vehicle. Pollution of the earth atmosphere by outstreaming gases
+when launching also is a factor of consideration.
+
+Out in the interstellar space where no gravity forces from the
+moder planet is actuating the vehicle, not so high forces are
+needed to accelerate. Of that reason even other methods have
+been discussed, for example ion motors or using sails, pulled
+by the light or particle pressure of free radiation emitted
+from the sun. Also by these methods very small acceleration
+forces are achieved and may only be useable in the free space.
+
+In relation to the effective load, using fossile fuel rocket motors
+is very inefficient. It is a clumsy method with great loss
+of energy. The manuvrer freedoms is very low when launching and
+the rocket orbit must be carefully calculated by forehand. The
+fuel must by burned at very short time in order to get a high
+degree of efficiency. Other methods mentioned are not useable
+for direct launching from the earth surface because of the very
+small forces generated.
+
+The ideal for propulsing an interstellar vehicle must include
+the possibility to start with very low acceleration and landing
+with very low retardations, all that for giving comfort and
+also for making the control of the vehicle easy.
+
+It will here briefly be described a theoretical possibility
+of realizing such a propulsion mechanism where not the traditional
+force/impulse principle in accord with the reaction/rocket
+principle is used, but a principle based upon a pure electro-
+magnetical principle.
+
+However, it will here strongly be accentated that there is not
+a question about any mystical anti gravity machine which today
+is discussed and speculated about. The gravitation is no
+electromagnetical process and is a "one direction process",
+meaning, directed towards the earth center masspoint. Hence,
+the gravitationel force is uni-directional and can only be inhibited
+by creating a counter force against it.
+
+Principly, the idea is rather simple to describe, but the
+problem of course is the possibility of realizing it. To work,
+extremely high oscillating frequencies, hight electrical
+currents and hight electrical voltages are needed, hard to
+create in a practical arrangement today.
+
+A brief description together with mathematical calculations.
+-------------------------------------------------------------
+
+First, regard for instance the light flowing out from the sun
+surface. Because we know that the light propagation velocity
+in free space has a limited value and with knowledge of the
+distance to the sun, we can calculate that the light will
+reach the earth after about 8.5 minutes.
+
+In accord with common electromagnetic theory, visible light
+only is a part of an electromagnetic radiation spectrum where
+also many other radiation forms occur. If we at the sun
+surface mounted a radio transmitter, we should do a similar
+reasoning, which means, the time delay for the radio signal
+would be the same as for the light signal.
+
+Hence, if we accept the common electromagnetical theory, no
+message of any kind can be transmitted faster than the velocity
+of light in free space. This assumption is also assumed to be
+valid also for how elecrostatical fields and magnetostatical
+fields are propagating between two points in space.
+
+In order to further enlighten what we have said, the following
+hypothetical reasoning is performed:
+
+We regard two points in space, A and B, separated by the distance,
+d. In each point A and B respective, forceful electromagnets
+are situated able to be controlled by switchning the current on
+and off.
+
+Now we perform the following preparing experiment:
+
+In points A and B, there are electrical coils outplaced, one
+in each point.
+
+In these points there are two synchronized clocks situated
+together with some measuring instruments which are able to
+measure induced voltager in the two coils.
+
+First, we connect the coild A to a current source and register
+how long time it will take until the magnetical field created
+by this current, reach the coild B. We do the same with the
+coild B, and we can note that the time it will take for the
+magneteic field to travel between the two points is determined
+by the quotient d/c, the distance divided by the velocity of
+light, here assumed that even magnetical fields are propagating
+with the velocity of light.
+
+That which interests us now is, in what way shall we use this
+facts in aim to create an active force impulse of the two
+coils of which the system consists. Someone now protest, it's
+not possible to create any resulting force within a closed
+system, in accord with Newton's laws all forces will cancel
+each other, giving the resulting force of zero. For instance,
+you cannot pull yourself in your hear, a rocket placed into
+a closed room will never lift the room, unless the rocket
+jet is get free to act outside the room. However, the now
+suggested system is not closed, it is an open system where
+the free space is the reference of the two coils and not this
+room in which the coils is inhoused.
+
+In order to get an easy understanding we perform the following
+preparing reasoning :
+
+**************************************************************
+*                                                            *
+*       
+<
+---------------- d ------------------>              *
+*                                                            *
+*                                                            *
+*     Magnet A                              Magnet B         *
+*                                                            *
+**************************************************************
+                       Figure 1
+
+In the figure 1, we regard two electromagnets A and B respectively,
+outplaced on the mutual distance, d.
+
+We now perform the following preparing reasoning  (see figure 2):
+
+The distance, d , is so large that this time it will take for
+the magnetic flow to be developed in the coil is small in relation
+to the propagating time t=d/c, where c= the propagating velocity
+of light in vacuum.
+
+At the time, to, the current is put ON to the coil A.
+After the time , t, this current is  cut OFF to the coil A.
+
+Because no external magnetical field counteract on the coil A at
+this moment, no force is developed on it.
+
+When the current to the coil A is put OFF, the current on the coil
+B is put ON during a time, t. What will happen is now as follows:
+
+This magnetical field which was build up by the magnet A exists
+in the space around B during a time, t. During this time the
+coil B don't "know" that the coild A has been put OFF, but that
+make no difference for the coild B, a force impulse will be
+created on B during this time. But on the coil A there will not
+be any force impulse of the field from B, that because the coil
+A is not active at this moment.
+
+The result will be that a force impuls is created only on the coil
+B and not on the coil A. Hence, the force impulse will be focused
+solely on the magnet B, giving the result that if A and B is a
+common mechanical system (which here is assumed), the system
+is actuated by a resulting force. If this force has enough
+magnitude it will create a lifting force in the same way as a
+rocket will do when lifting a space vehicle.
+
+*****************************************************************
+*      .....       .....       .....       .....       .....    *
+*      . t .  2t   . t  . 2t   . t .  2t   . t .  2t   . t .    *
+*   A ..   .........   .........   .........   .........   ...  *
+*                                                               *
+*         .....        .....       .....       .....       ...  *
+*         . t .   2t   . t .  2t   . t .  2t   . t .  2t   .t   *
+*   B .....   ..........   .........   .........   .........    *
+*                                                               *
+*****************************************************************
+                         Figure 2
+
+The described envelope is repeated continously and the force
+developed on the coil B will be apprehended as a continous force
+integrated over time.
+
+In consideration with that a very high repeating frequency is needed
+(more about that later), assumingly it's not possible to use pure
+square formed pulses, but instead using sinusial currents produced
+in some kind of resonance circuits where the coils are included
+into the resonance circuits.
+
+******************************************************************
+*       Oscillator A                      Oscillator B           *
+*          ----.                            ______               *
+*               .                         .                      *
+*             ..                          ..                     *
+*            .                               .                   *
+*             . .                         ..                     *
+*                .                       .                       *
+*                .                       .                       *
+*          ____.                           .______               *
+*                                                                *
+*                                                                *
+******************************************************************
+                         Figure 3
+
+Now, the next step is to try computing the efficiency of this
+system, hence trying to calculate the effective force or effect
+on the system in respect to the current amplitude, the distance
+between the coils, the phase between the oscillation currents and
+the frequency of the oscillation currents.
+
+We denote the AC current function from the coil A :
+
+1) f(A,0)= sin (w.t)  , where w = 2.Pi.f
+
+Because the magnetic field from the A coil is spread in the
+room with the velocity of, c , (the velocity of light), the
+magnetic wave at coil B will be delayed in relation to the
+coil A. In the point B; hence, this magnetic wave  in point B
+can be expressed :
+
+2) f(A,D) = sin(w(t-d/c))
+
+In the same way for the coil B, we can write :
+
+3) f(B,0) = sin(w.t)
+
+that in case the sine wave is in phase with the A coild wave.
+
+But if that not is true, the current in B is phase shifted
+the time, x, giving the source magnetic field from B equal to:
+
+4) f(B,0) = sin(w.(t-x))
+
+where x then is the phase shifting time.
+
+The corresponding action of this field at the A point, hence on
+distance D will be ;
+
+5) f(B,D) = sin(w.(t-x-d/c)
+
+We know that the developed force is in proportion to the product
+of the B value from respective coil. We denote the B-value on
+distance 0 equal to B and on distance B.(r/d)**2, where r is
+the radius of the A or B coil.
+
+Hence, at the B coil the acting force will be :
+
+6) f(B) = f(B,0) * f(A,d) =
+
+                           2  2
+       B*sin(w.(t-x)) * B*r /d  * sin(w.(t-d/c))  =
+
+        2 2 2
+       B*r/d * sin(w.(t-x)) * sin(w.(t-d/c))
+
+and the corresponding force effect at the A coil :
+
+7) f(A) = f(A,0) * f(B,d) =
+                          2  2
+          B*sin(w.t) * B.r /d *sin(w(t-x-d/c)) =
+
+           2 2  2
+          B.r /d * sin(w.t) * sin(w(t-x-d/c))
+
+and the effective force on the whole system :
+
+                2  2  2
+8) f(A)-f(B) = B .r /d .( sin(w.(t-d/c) * sin(w(t-x) -
+                          sin(w.t) * sin(w.(t-x-d/c))
+
+sin(a+b) = sina*sina + cosb*sina
+sin(a-b) = sina*cosa - cosb*sina
+cos(a+b) = cosa*cosb - sina*sinb
+cos(a-b) = cosa*cosb + sina*sinb
+
+9)  sin(wt-wd/c)*sin(wt-wx) - sin(wt)*sin(wt-wx-wd/c) =
+
+/sin(wt)*cos(wd/c)-cos(wt)*sin(wd/c)/*/sin(wt)*cos(wx)-
+ cos(wt)*sin(wx) -
+/sin(wt)*(sin(wt-wx)*cos(wd/c)-cos(wt-wx)*sin(wd/c)/ =
+
+   2
+sin (wt)*cos(wd/c)*cos(wx)-sin(wt)*cos(wd/c)*cos(wt)*sin(wx)-
+                                       2
+cos(wt)*sin(wt)*sin(wd/c)*cos(wx) + cos (wt)*sin(wd/c)*sin(wx)-
+
+/sin(wt)*(sin(wt)*cos(wx)-cos(wt)*sin(wx)*cos(wd/c)-
+
+-(cos(wt)*cos(wx)+sin(wt)*sin(wx)*sin(wd/c)/=
+
+   2
+sin (wt)*cos(wd/c)*cos(wx)-sin(wt)*cos(wd/c)*cos(wt)*sin(wx)-
+                                     2
+cos(wt)*sin(wt)*sin(xd/c)*cos(wx)+cos (wt)*sin(wd/c)*sin(wx)-
+   2
+sin (wt)*cos(wx)*cos(wd/c)+sin(wt*cos(wt)*sin(wx)*cos(wd/c) +
+                                     2
+sin(wt)*cos(wt)*cos(wx)*sin(wd/c)+sin (wt)*sin(wx)*sin(wd/c) =
+
+                     2          2
+sin(wx)*sin(wd/c)*cos (wt) + sin (wt)*sin(wx)*sin(wd/c) =
+                      2          2
+sin(wx)*sin(wd/c)*(cos (wt) + sin (wt)) =
+
+sin(wx)*sin(wd/c)
+
+Hence :
+
+-------------------------------------------
+                 2  2  2
+10) f(A)-f(B) = B .r /d .sin(wx)*sin(wd/c)
+-------------------------------------------
+
+If we assume x being a factor 0 --> 1 of the time d/c, we
+more comfortabely can write this formula :
+
+-------------------------------------------------
+                 2  2  2
+11) f(A)-f(B) = B .r /d .sin(w.k.d/c)*sin(w.d/c)
+-------------------------------------------------
+where k= 0 -->1
+
+Maximum effective factor is achived when k= 1, hence
+for simplicity :
+
+-------------------------------------
+                 2  2  2     2
+12) f(A)-f(B) = B .r /d .sin (w.d/c)
+-------------------------------------
+
+CALCULATION OF THE MAGNETIC FIELD STRENGTH OUTSIDE A CIRCULAR
+-------------------------------------------------------------
+ONE TURN CONDUCTOR
+-------------------
+
+**************************************************************
+*              x  I                                          *
+*                                                            *
+*              O  .                                          *
+*              !     . r                                     *
+*              !       .                                     *
+*     _________!_________.________________________           *
+*              !                                             *
+*              !                                             *
+*              !                                             *
+*              O                                             *
+*                                                            *
+*              . I                                           *
+**************************************************************
+                        Figure 4
+
+In accord with Biot-Savart's law of the magnetic field strength
+outside a conductor, it can be calculated in accord with the
+following formula:
+
+          uo    s    3
+13)  B = ----- I (r/r x i ).ds
+         4.Pi
+
+where  r= x.i+y.j+ z.k    ; x= r*cos(a) ; y=r*sin(a)  ; z=z
+
+       i= I.sin(a).i - I.cos(a).j + 0.z
+
+We calculate the cross product  r x i ,  giving :
+
+              i             j             k
+        ----------------------------------------
+r x i =
+           r.cos(a)     r.sin(a)          z
+                                                    =
+           I.sin(a)     -I.sin(a)         0
+
+(r.sina.0 - (-z.I.cosa)).i +
+(z.I.sina - r.cosa.0)j +
+
+         2        2
+(-r.T.cosa - r.sina)k  =
+
+z.I.cosa.i + z.I.sina.j -r.I.k
+
+It is possible to make a complete calculation by an integrating
+dator for all points outside the current loop, but here for
+simplicity z is put to zero, meaning that the B-flow is measured
+at the center axis. Hence :
+
+          uo      s      3
+14)  B = ------. I (r.I/r )ds
+         4.Pi
+
+We put ds=r.da and perform the integration, giving :
+
+           uo.I      uo.I
+15)  B = -------- = -------
+            2.r      2.d
+
+The next step is to try calculate the force effect on a current
+loop. We start with the formula for magnetic energy density :
+
+                2
+26)  E/V = 1/2*B /uo
+
+                   2
+     V = A.s = Pi.r .s      ; E = F.s
+
+---------------------------------
+                    2    2
+    F = 0.5 * Pi * B  * r /uo
+---------------------------------
+
+We insert the value of B from 15). giving :
+
+                      2  2    2
+                    uo .I    r                   2       2
+27) F = 0.5 * Pi * ----2--. ----  =  0.5 * uo * I * (r/d)
+                    4.d      uo
+
+The efficiency factor from 12) is introduced into 27), giving :
+
+28)  ===================================
+
+               2     2              2
+     F = uo * I * sin(w*d/c) * (r/d)
+
+     ===================================
+
+appr.
+
+The sin factor will be maximum if w*d/c = 1, hence
+
+2.Pi.f.d/c = 1, giving :
+
+               c
+29)    f = ---------
+            2.Pi.d
+
+Example : We set r= 1 meter and d= 0.5 meter. Then
+
+f = 3E8/(2*pi*0*0.5) = 1E8 Hz = 100 Mhz.
+
+            2             2            2
+F = 4E-7 * I * 1 * (1/0.5)  = 16E-7 * I
+
+If the lifting force shall be, let say 1000kg (or 10 000 N)
+in this modulary unit, the coil current will be :
+
+          2
+10 000 = I * 16E-7      ; I = 8000 ampere appr.
+
+Conclusions: The todays technology is not enough developed
+             to reach these extreme data needed to perform
+             any practical use of this principle. A limited
+             ambition to begin with may be to do a basic
+             experiment in a small scale in order to establish
+             the basic principle, if it work or not. Super-
+             conducting coils are supposed to be used.
+
+********************* end of the article *****************

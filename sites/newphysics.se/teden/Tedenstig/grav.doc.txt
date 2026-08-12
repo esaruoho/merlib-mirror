@@ -1,0 +1,94 @@
+Gravitationellt dopplerskift
+----------------------------
+
+Då en ljusstråle rör sig bort från en graviterande himlakropp
+uppstår en skiftning mot rött i ljuset. Om ljusstrålen rör
+sig mot himlakroppen sker en skiftning mot blått. I Einsteins
+relativitetsteori uttryckes detta som en skiftning i våglängd
+med formeln :
+                        2
+           dW = Wo.M.G/c .(1/D1 - 1/D2)
+
+där dW är våglängdsskiftningen, Wo är våglängden hos det
+ursprungliga ljuset. M är stjärnans massa, G är gravitations-
+konstanten, c är ljusets hastighet samt D1 och D2 är två olika
+punkter utmed ljusbanan.
+
+Vi härledes här samma formel med utgångspunkt från Newton och
+med antagandet att ljuset påverkas som all annan massa av ett
+graviterande fält.
+
+                   2
+1)    F = M.dm.G/D       (Newtons gravitationslag)
+
+      dm är fotonens massa
+
+
+2)    F = dm.dv/dt       (Newtons nadra lag approximerad )
+
+
+Vi kombinerar 1) och 2) som ger :
+
+                     2
+3)   dv/dt = M.dm.G/D
+
+
+Vi låter dt representera ett litet tidsintervall utmed banan hos
+den flyende fotonen utmed radien D. Då kan vi definera :
+
+
+4)   dt = dD/v
+
+Vi sätter in detta värde på dt i formel 3), som ger :
+
+                2
+5)  v.dv = M.G/D .dD
+
+Integrering :
+
+       2       2
+6) ( v1/2  - v2/2 ) = M.G.(1/D1 - 1/D2)
+
+   1/2.((v1-v2).(v1+v2)) = M.G.(1/D1 - 1/D2)
+
+
+Vi definerar delta(v) = v1 - v2
+
+v2= v1 + delta(v)
+
+6) kan då omskrivas till :
+
+
+7)  1/2.((delta(v)).(delta(v) + 2.v1)) = M.G.(1/D1 - 1/D2)
+
+               2
+    1/2.( delta(v) + 2.v1.delta(v)) = M.G.(1/D1 -1/D2)
+
+     2
+delta (v) är litet i relation till 2.v1.delta(v). Därför erhålles:
+
+
+8)  v1.delta(v) = M.G.(1/D1 -1/D2)
+
+    delta(v) = M.G/v1.(1/D1 -1/D2)
+                        2
+    delta(v)/v1 = M.G/v1 .(1/D1 - 1/D2)
+
+
+Vi sätter v1 = c = ljusstrålens initialhastighet, som då ger :
+
+
+9) ================================
+                2
+   delta = M.G/c .(1/D1 -1/D2)
+
+===================================
+
+Beroende på hur man fysisk tolkar skiftet, i form av våglängd eller
+som frekvens är delta ett yttryck för skift i våglängd eller
+frekvens hos det uppmätta ljuset.
+
+Slutsats: Newtons gravitationsteori ger samma resultat som Einsteins
+allmänna teori. Newton dugfer gott med andra ord.
+
+
