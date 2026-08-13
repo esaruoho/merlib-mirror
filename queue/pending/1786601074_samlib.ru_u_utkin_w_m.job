@@ -1,0 +1,10 @@
+target: https://samlib.ru/u/utkin_w_m/
+domain: samlib.ru
+mode: live
+path_filter: /u/utkin_w_m
+ts_to: 
+label: 
+offline: false
+to_syncthing: false
+submitted: 2026-08-13T06:04:34Z
+submitted_from: RayMac
