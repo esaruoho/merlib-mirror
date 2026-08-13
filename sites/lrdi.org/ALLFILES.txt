@@ -1,3 +1,5 @@
+_paper/lrdi.org-CONSOLIDATED.md
+_paper/pages/001-dr-edmund-storms-homepage.md
 _pdfs/2015-10-70-Storms-LRDP-Summary-180502-Rev-1-221110.pdf
 _pdfs/2018-ICCF21-Poster-Storms-Pilot-260328-1.pdf
 _pdfs/The-complete-explanation.pdf

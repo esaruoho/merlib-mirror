@@ -1,34 +1,36 @@
-[2026-08-02 23:50:28] ============================================================
-[2026-08-02 23:50:28] LIVE MIRROR: lrdi.org
-[2026-08-02 23:50:28] Seed: https://lrdi.org/participants-projects/storms/
-[2026-08-02 23:50:28] Seed path: /participants-projects/storms
-[2026-08-02 23:50:28] Max link depth: 5
-[2026-08-02 23:50:28] Path filter: '/participants-projects/storms' (links not containing this are dropped)
-[2026-08-02 23:50:28] Output: /Users/esaruoho/work/merlib-mirror/sites/lrdi.org
-[2026-08-02 23:50:28] ============================================================
-[2026-08-02 23:50:28] Crawling /participants-projects/storms (download-as-you-go)...
-[2026-08-02 23:50:30]   [1 d0*] https://lrdi.org/participants-projects/storms/  (1 OK, 0 queued)
-[2026-08-02 23:50:30] WordPress PDF extraction: found 4 PDF(s)
-[2026-08-02 23:50:33]   PDF OK: 2015-10-70-Storms-LRDP-Summary-180502-Rev-1-221110.pdf
-[2026-08-02 23:50:35]   PDF OK: 2018-ICCF21-Poster-Storms-Pilot-260328-1.pdf
-[2026-08-02 23:50:37]   PDF OK: The-complete-explanation.pdf
-[2026-08-02 23:50:39]   PDF OK: The-nature-of-transmutation-caused-by-cold-fusion.pdf
-[2026-08-02 23:50:39]   PDFs: 4 downloaded, 0 cached, 0 failed
-/Users/esaruoho/work/merlib-mirror/mirror.py:760: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+[2026-08-13 09:43:31] ============================================================
+[2026-08-13 09:43:31] LIVE MIRROR: lrdi.org
+[2026-08-13 09:43:31] Seed: https://lrdi.org/participants-projects/storms/
+[2026-08-13 09:43:31] Seed path: /participants-projects/storms
+[2026-08-13 09:43:31] Max link depth: 5
+[2026-08-13 09:43:31] Path filter: '/participants-projects/storms' (links not containing this are dropped)
+[2026-08-13 09:43:31] Output: /Users/esaruoho/work/merlib-mirror/sites/lrdi.org
+[2026-08-13 09:43:31] ============================================================
+[2026-08-13 09:43:34] robots.txt: honouring 1 Disallow rule(s) (MIRROR_IGNORE_ROBOTS=1 to override)
+[2026-08-13 09:43:34] Crawling /participants-projects/storms (download-as-you-go)...
+[2026-08-13 09:43:34]   [1 d0*] https://lrdi.org/participants-projects/storms/  (1 OK, 0 queued)
+[2026-08-13 09:43:34] WordPress PDF extraction: found 4 PDF(s)
+[2026-08-13 09:43:34]   PDFs: 0 downloaded, 4 cached, 0 failed
+/Users/esaruoho/work/merlib-mirror/mirror.py:1005: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   lines.append(f"mirror_date: {datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')}")
-[2026-08-02 23:50:39] Generating index...
-[2026-08-02 23:50:39] Index: 5 files
-[2026-08-02 23:50:39]   .pdf: 4
-[2026-08-02 23:50:39]   .html: 1
-[2026-08-02 23:50:39] 
+[2026-08-13 09:43:34] Generating index...
+[2026-08-13 09:43:34] Index: 7 files
+[2026-08-13 09:43:34]   .pdf: 4
+[2026-08-13 09:43:34]   .md: 2
+[2026-08-13 09:43:34]   .html: 1
+[2026-08-13 09:43:34] 
 ============================================================
-[2026-08-02 23:50:39] LIVE MIRROR COMPLETE
-[2026-08-02 23:50:39] Downloaded: 1, OK: 1, Failed: 0
-[2026-08-02 23:50:39] Total URLs seen: 22
-[2026-08-02 23:50:39] ============================================================
-[2026-08-02 23:50:39] 
+[2026-08-13 09:43:34] LIVE MIRROR COMPLETE
+[2026-08-13 09:43:34] Downloaded: 1, OK: 1, Failed: 0
+[2026-08-13 09:43:34] Total URLs seen: 21
+[2026-08-13 09:43:34] ============================================================
+[2026-08-13 09:43:34] 
 Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/lrdi.org
 site_to_paper: lrdi.org — 1 HTML page(s)
 site_to_paper: entry=participants-projects/storms/index.html · reachable=1 · unreached=0
+site_to_paper: cleared 1 previous per-page file(s) — they are regenerated below, and stale numbering would otherwise accumulate as phantom pages
 site_to_paper: wrote /Users/esaruoho/work/merlib-mirror/sites/lrdi.org/_paper/lrdi.org-CONSOLIDATED.md (3,883 chars from 1 pages)
 site_to_paper: wrote 1 per-page markdown files to /Users/esaruoho/work/merlib-mirror/sites/lrdi.org/_paper/pages
+site_to_allpages: lrdi.org — 1 page(s), entry=participants-projects/storms/index.html, reachable=1, orphans=0
+site_to_allpages: wrote /Users/esaruoho/work/merlib-mirror/sites/lrdi.org/_paper/allpages.html (15,242 chars, 1 pages, 0 internal links → anchors, 0 asset paths fixed)
+site_to_allpages: weasyprint not found — skipping PDF (install it, or open allpages.html and ⌘P → Save as PDF)

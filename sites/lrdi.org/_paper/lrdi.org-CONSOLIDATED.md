@@ -3,7 +3,7 @@ title: "lrdi.org — consolidated site corpus"
 source_domain: lrdi.org
 source_url: https://lrdi.org/participants-projects/storms/
 author_of_source: unattributed — see site
-generated: 2026-08-02T20:50:39Z
+generated: 2026-08-13T06:44:31Z
 generator: merlib-mirror/scripts/site_to_paper.py
 pages_total: 1
 pages_reachable_from_entry: 1
