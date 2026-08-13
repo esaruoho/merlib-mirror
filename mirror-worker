@@ -233,6 +233,41 @@ commit_and_push() {
     git checkout main 2>/dev/null || true
   fi
 
+  # ── record what .gitignore drops ─────────────────────────────────────────
+  # A file the crawler fetched and git then silently refuses to store is the
+  # worst shape this engine has: it exists, nobody knows, and it lives on one
+  # disk. 4.1GB across 120 files was sitting on the worker host in exactly that
+  # state — including 166MB of audio that git would have taken happily (Assis on
+  # Weber electrodynamics, Bedini's Rense interviews, Puthoff at Stockholm 1994).
+  # The audio is no longer excluded; the video genuinely cannot be (GitHub hard-
+  # rejects >100MB and one file is 696MB). So the exclusion gets WRITTEN DOWN,
+  # committed with the mirror, and reported — absence on the record, not silent.
+  if [[ -d "$site_dir" ]]; then
+    local excl_list excl_n=0
+    excl_list="$(git ls-files --others --ignored --exclude-standard -- "$site_dir" \
+                 | grep -vE '(^|/)(\.DS_Store|_progress\.json(\.tmp)?)$' || true)"
+    if [[ -n "$excl_list" ]]; then
+      excl_n="$(printf '%s\n' "$excl_list" | wc -l | tr -d ' ')"
+      {
+        echo "# Files fetched into this mirror but NOT stored in git."
+        echo "# Excluded by .gitignore — see that file for why each pattern is there."
+        echo "# They exist ONLY on the worker host, at:"
+        echo "#   $(hostname -s):$site_dir"
+        echo "# Generated $(date -u +%Y-%m-%dT%H:%M:%SZ) by mirror-worker."
+        echo "#"
+        echo "# size_bytes  path"
+        printf '%s\n' "$excl_list" | while IFS= read -r f; do
+          [[ -n "$f" ]] || continue
+          printf '%s  %s\n' "$(stat -f %z "$REPO_DIR/$f" 2>/dev/null || echo 0)" "$f"
+        done
+      } > "$site_dir/_EXCLUDED-MEDIA.txt"
+      log "NOTE: $excl_n file(s) excluded by .gitignore — recorded in _EXCLUDED-MEDIA.txt"
+      log "      They exist ONLY on $(hostname -s). Retrieve with scp if needed."
+    else
+      rm -f "$site_dir/_EXCLUDED-MEDIA.txt"
+    fi
+  fi
+
   # ONLY add files belonging to this job — never git add -A
   if [[ -d "$site_dir" ]]; then
     git add -- "$site_dir"

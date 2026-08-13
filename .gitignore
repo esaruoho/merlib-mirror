@@ -7,16 +7,31 @@ queue/failed/
 _progress.json
 _progress.json.tmp
 
-# Large binary/media files
+# Video — genuinely cannot be stored here. GitHub rejects any single file over
+# 100MB, and the mirrored video is far past it (a 696MB IMG_1634.MOV, a 328MB
+# IMG_8793.MOV). These stay on the worker host and are recorded per-site in
+# _EXCLUDED-MEDIA.txt so their absence is on the record instead of silent.
 *.mp4
 *.avi
 *.mov
 *.wmv
 *.flv
 *.webm
-*.mp3
-*.wav
-*.m4a
+*.swf
+
+# AUDIO IS NOT EXCLUDED. It used to be — *.mp3 / *.wav / *.m4a sat in this list —
+# and that quietly dropped 18 files / 166MB of primary source material that git
+# could have held without complaint, every one of them well under the 100MB limit:
+#   ~assis/05-10-1998-A.mp3 + -B.mp3 + Eletrodinamica-de-Weber-06-04-2017.WAV
+#       — Assis lecturing on Weber electrodynamics, the primary source for the
+#         Weber layer of the whole unification stack
+#   johnbedini.net/john34/rense1,2,3.mp3 (+6 more) — Bedini on Rense radio
+#   newphysics.se/.../Puthoff/*.mp3 — Puthoff on the vacuum, Stockholm 1994,
+#         2h50m of him, found only because a redirect bug sent us looking
+# A lecture recording IS the archive content. The rule was aimed at 700MB video
+# and took the audio with it. (2026-08-13)
+
+# Executables and archive containers — not content, and often large
 *.exe
 *.msi
 *.dmg
@@ -25,7 +40,6 @@ _progress.json.tmp
 *.tar
 *.gz
 *.rar
-*.swf
 
 # Offline-only archives (downloaded but never pushed to GitHub)
 offline/
