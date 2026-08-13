@@ -341,12 +341,26 @@ commit_and_push() {
   # fetch we must still stop. The lease needs an up-to-date remote-tracking ref to
   # compare against, so fetch the branch first — without that, a stale ref makes the
   # lease pass when it should fail.
-  git fetch -q origin "$branch" 2>/dev/null || true
+  # The lease is pinned to the sha we just OBSERVED on the remote, re-read on every
+  # attempt — not to the bare `--force-with-lease`, which leases against the local
+  # remote-tracking ref. Two ways that bare form goes wrong here:
+  #   * Creating a branch that does not exist on the remote yet — there is no lease
+  #     baseline, so git refuses outright. This is the common case: only a handful
+  #     of mirror branches survive on the remote, so nearly EVERY re-mirror is a
+  #     branch creation, and the bare form failed all of them.
+  #   * `git fetch origin "$branch"` writes FETCH_HEAD but does NOT update
+  #     refs/remotes/origin/$branch, so the baseline it leases against can be stale
+  #     or missing even after fetching.
+  # No remote branch => plain push, because there is nothing to overwrite.
   local push_ok=0
   for attempt in 1 2 3; do
-    if git push --force-with-lease -u origin "$branch"; then push_ok=1; break; fi
+    local remote_sha push_args=()
+    remote_sha="$(git ls-remote --heads origin "$branch" 2>/dev/null | awk '{print $1}')"
+    if [[ -n "$remote_sha" ]]; then
+      push_args=(--force-with-lease="refs/heads/$branch:$remote_sha")
+    fi
+    if git push "${push_args[@]}" -u origin "$branch"; then push_ok=1; break; fi
     log "Push attempt $attempt/3 failed for $branch — retrying in $((attempt * 30))s"
-    git fetch -q origin "$branch" 2>/dev/null || true
     sleep $((attempt * 30))
   done
   if [[ "$push_ok" -ne 1 ]]; then
