@@ -1,11 +1,11 @@
 {
   "source": "live",
   "domain": "johnbedini.net",
-  "mirror_date": "2026-04-01T19:13:13.854678",
+  "mirror_date": "2026-08-13T09:12:08.415977",
   "total_urls": 0,
-  "downloaded": 227,
+  "downloaded": 228,
   "failed": 0,
-  "files": 227,
+  "files": 228,
   "file_types": {
     ".htm": 5,
     ".jpg": 174,
@@ -14,6 +14,7 @@
     ".mp3": 9,
     ".mpeg": 1,
     ".gif": 13,
-    ".mpg": 9
+    ".mpg": 9,
+    ".avi": 1
   }
 }

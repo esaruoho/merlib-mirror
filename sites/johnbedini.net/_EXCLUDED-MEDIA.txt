@@ -1,0 +1,10 @@
+# Files fetched into this mirror but NOT stored in git.
+# Excluded by .gitignore — see that file for why each pattern is there.
+# They exist ONLY on the worker host, at:
+#   CloudcityMacMini:/Users/esaruoho/work/merlib-mirror/sites/johnbedini.net
+# Generated 2026-08-13T06:13:00Z by mirror-worker.
+#
+# size_bytes  path
+746626  sites/johnbedini.net/john34/BediniMotor.wmv
+6845770  sites/johnbedini.net/john34/Window.wmv
+68346880  sites/johnbedini.net/john34/thruneon.avi

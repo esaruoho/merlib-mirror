@@ -1,0 +1,4 @@
+target: https://johnbedini.net
+mode: live
+title: John Bedini
+mirror_date: 2026-08-13T06:12:08Z

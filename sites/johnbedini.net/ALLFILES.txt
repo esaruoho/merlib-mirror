@@ -201,6 +201,7 @@ john34/test.html
 john34/tetanus.jpg
 john34/tetanushm.jpg
 john34/tetanushm2.jpg
+john34/thruneon.avi
 john34/tombearden1.jpg
 john34/ttower2.jpg
 john34/ttower3.jpg

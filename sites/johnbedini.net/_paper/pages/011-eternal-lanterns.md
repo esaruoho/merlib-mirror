@@ -1,0 +1,1148 @@
+---
+title: "ETERNAL LANTERNS"
+source_domain: johnbedini.net
+source_path: john34/eternal_lanterns.htm
+order: 11
+reachable_from_entry: false
+images: 7
+internal_links: 1
+extracted: 2026-08-13T06:13:00Z
+extractor: site_to_paper.py (builtin)
+---
+
+# ETERNAL LANTERNS
+
+*Source page: `john34/eternal_lanterns.htm`*
+
+ETERNAL LANTERNS 
+
+    
+
+      
+Every symbol, artifact, and accessory of the Utopian world emanates light. 
+Transported earthly visitors first remark at this suffusive light.
+ Their host joyously explains that "the light comes from everywhere". This magickal radiance is the light of consciousness itself. Mythologies and histories alike are replete with reports of the "endless light". 
+
+      
+
+      
+The radiant beauty of mythical "eternal lanterns" stimulates and provokes timeless scientific desire. Their endless effulgence remains their single most fascinating aspect. Can such a light source exist in the material world? The mystery of that eternal radiance could neither be compared nor equaled on earth. Firecraft did not reproduce the quality of Utopian ideal radiance. Such eternal light projects joy and wonder. Neither their radiance nor the vivifying thrill ever fade with time. 
+
+      
+The image and symbol of the eternal lantern permeates mythology. However separated in distance or time, mythologies the world over each speak of eternal lanterns. The symbol of the eternal lamp is a haunting object, which we most desire. A wordless message of hope and life beam forth, most directly representing divinity. 
+
+      
+Believing that eternal lanterns once existed in the fabled world, ancient qualitative science sought them with a deep faith that they could be found. Ancient conquerors made extensive search for eternal lanterns and other such "fabulous" treasures. To locate, recapture, of unearth these lamps provided a formidable conqueror's quest. Likewise, numerous radiant sources were discovered and described by credible naturalists. 
+
+      
+As centuries passed, certain scientific artisans claimed that they had successfully reproduced eternal lanterns.
+ According to some bards of the Middle Ages, there were lands where dreams had literally materialized. Kingdoms and rare wonders lay to the east, possessors of magickal technology. Following this trail of legends and marvels came Marco Polo. Among the material proofs, which he brought home to Venice, there were also new legends and reports. Marco Polo told of palaces and kings, kingdoms and artifacts, exotic natural wonders and anomalies. Caravans of archetypes and symbols. 
+
+      
+In the city of the great Khan, there were hundreds of fabled rubies, thousands of gold tablets, and millions of standing soldiers. Marco stated very plainly that, in the outlying provinces of the 
+Khan's empire, radiant stones and magickal accessories were commonly employed for a great variety of purposes. He had seen some of these marvels with his own eyes.
+ One particular legend, which he was fond of retelling, is rarely heard or mentioned today. It centered about the fabulous Prester John, mythical King of the East. Prester John sat in a magickal throne room, a great flooding radiance shed by special rare gems. The unearthly light of his throne, an undying light. He employed the radiance of these rare gems to render his throne room sacred, enlightened, vivifying, and quiescent. His knights were continually flooded with strength and love for their cause because of these radiant stones. 
+
+      
+Through the agency of special viewing stones, Prester John gained instant knowledge of distant events. Empowered to project peace and benevolence to distant warring lands, he watched and interceded over whole regions through these magickal means. He was able to project help to those lands through rays, which came from his magickal stones. Famines reversed, plagues eradicated, joy restored, Prester John was the protector of nations who did not know him. Prester John ("Pastor John"), the mystically advanced Christian King, is a notable story of Mongol origin. The eternal lantern, one of innumerable archetypes, persists in mythologies the world over. 
+
+      
+Marco claimed he had seen black rocks used in Cappadocia to produce light and heat.
+ In parts of the same region, he claimed to have seen "black oils" taken from bubbling earth pits for the same purpose. Scholars rejected everything he had to say when they heard these two reports. Long after his passing, when coal and petroleum were later discovered by Europeans, all the words of Marco Polo were heeded without question. The wonder of eternal radiance, Prester John, and magickal technology continued to occupy human curiosities throughout the following centuries. 
+
+      
+All lands and peoples have the eternal lantern in their dream treasuries. Nordic mythology ascribed "eternal lanterns" to the gnomes, who both inherited and manufactured them. The gnomes used their mystical lanterns to light gem-studded subterranean palaces. The lanterns themselves had names, archaically crafted by famed gnome masters. Made of radiant stones, they continuously emanated soft colors and an atmosphere of great delight. The magickal lanterns themselves were fabricated from rare glowing elements and gems. 
+
+      
+In fables, mystical eternal lanterns are made of humanly inaccessible minerals and elements. Legends continually remind us that magickal elements and gems have archaic world-origins, remnants of the lost world. Uncorrupted by the touch and taint of mortals, they frame the evidence of a first creation. Their properties, pure and sacredly honored, emerge from the dream world. 
+
+      
+Fables teach that all beings naturally seek these materials. Certain beings, gnomes the most frequent species, covet these lanterns with a rare viciousness. The "radiant stones" reveal the first world Nature and all its wonder, the "lost elements" of which the old world was made. 
+
+      
+In the fables, the magickal elements are said to yet exist in the deepest recesses of the earth and in special secret mountains.
+ Spiritual prowess is required to both recognize and retrieve the minerals. The "hidden folk" always see what mortals cannot, plucking magick gems and mining magick metals from their archaic repositories with ease. Gnomes, faeries, elves, and angels jealously retain the secret of radiant stones and radiant lanterns. When humans manage to obtain them, there are consequent complications. 
+
+      
+The magick elements and radiant stones are always wonderful to all who behold them. Their radiance is divine. Mysterious beings reverence the appearance of the radiant stones. Humanity especially cherishes and desires them. Elves cynically remind us why we have lost both the first world and the wonder elements of which it was made. The wondrous gems and metals invariably come from "forgotten archaic ages". They are "first created matter", "sacred gems", and "starry metals". They are the material of the old world. 
+
+      
+Fables report that these wonderful elements come from the times just after the beginning of creation. Having been buried in the angelic rebellions, some remain in the deep recesses of earth. Others, having been thrown among the stars, reside in the stardust, awaiting the time when they may return to bless humanity. They hold the key to human conscious progress, requiring only humility before they may be discovered. 
+
+      
+Mystery minerals and radiant gems are often found where natural catastrophism is at work. Radiant stones are loosened from archaic imprisonment by strange events, which the "hidden folk" worriedly pursue.
+ They jealously guard their treasures from "bumbling" humanity. Wonder elements are found in the dearth of volcanic explosions, flung up from mysterious metaphysical depths. Some fall to earth from space, glowing and pulsating. Whether thrown out of earth or space treasuries, they are usually found by adventurous humans whose lives become transformed. What these persons do with their treasure usually determines their fate, a moral lesson concerning the abuse of power. 
+
+      
+There are peaceful ways in which the radiant stones are located in some tales. There are those who see magickal glowing pools of water by night. Venturing in, they manage to find the rare "wish-granting" glowing gems. Some only appear during certain astrological seasons, under specific "heavenly signs". They are seen only by sensitives who, with greatest care, find them radiating their light when touched by the crescent moon. Mysterious visitors often add a "pinch" of magick dust into the mixtures of old despondent alchemists. When this alchemical projection has performed its work, the molten metals become joyfully radiant. 
+
+      
+"Lost elements" grant their bearers strange abilities and miraculous powers. The abilities they give often require a small exertion of mind, with a resultant magnification of intent. Wearing the radiant gems, one can become invincible or invisible. One can pass through walls. One can fly, lift great weights, bring lightning or storms, and perform unheard superhuman works. These mysterious materials link dreams directly with the world. They are windows through which archetypes flow directly into our world. Wish amplifiers. The very artifacts of Prester John. Magickal technology requires the radiant stones. They are the lost talismans, the lost instrumentalities that guide and extend human consciousness. Radiant stones are the reagents of every lost technology. Those who find them become heroes or villains. The legends tell both of the location and loss of mystery elements. They may be found, granted, or stolen. Each means of obtaining them has its consequences. Magick rings are given to humble recipients by angelic visitors. Mystical necklaces are given in return for humanly kind gestures to children. They are fabulous rewards from gnomes, faeries, and sprites. Little children and humble old folk often accidentally find magickal materials by the deliberate design of "hidden ones". Radiant crystalline jewels are often found by humans who enter unfamiliar glowing caverns and grottoes through accidental circumstance. Wanderers, lost in a storm, find caverns of wonderful radiant treasuries in places they can never relocate. 
+
+      
+There are those whose lust for power drives them to acquire the lost elements through evil sorceries. There are mysterious alchemists who stumble on the strange minerals, taking them by night from their "sacred resting place". Working their excessive "treatments and chemical labors" until the magick is released, they often become the terrors of the countryside. 
+
+      
+Evil alchemists, betraying the sacred calling, challenge rule and dominion. Working feats of mind magick and enslaving the populace, they portray the dangers associated with the misuse of magickal technology. A hero is usually summoned by a rival good wizard to destroy such evil alchemists. The fabled confrontations always pits magick against magick, the hero having been given an equally great talisman by which to succeed. Love is the key to winning the battle. Love stimulates the radiant gems. Greedy and ruthless hunters steal them from forgotten temples, plucking red glowing gems from the eyes of idols with rude steel knives. 
+
+      
+When the "wonder elements" are lost, they are lost through misuse and pride. They are often taken from the wicked by mysterious and protective guardians of humanity. Jealous and hapless fools accidentally drop their radiant stolen prize into wells, seas, burning pools, and crevasses of ice. The magickal elements and radiant stones are often lost just after certain worthy persons have been blessed by their magick. These materials seem impossible for most humans to keep. The loss of the wonder elements is always attended by great sadness and regret. Those who lose them are shunned, their villages fading into a disappointing and lackluster future. In the closing verses of these stories, one is always taught to expect their re-emergence. Hopeful that the rediscovery of lost elements will raise society into a clarified future, there are always promised signs by which we know of their appearance on earth. World conscious revolution always requires the radiant rocks. 
+
+      
+These mysterious "lost elements" and "radiant stones" continually emerge from the deepest memories of humanity. Their re-emergence in the social symbolic lexicon is irrepressible. The greatest themes of modern science fiction are all archaic in origin. Their symbols, however updated and modified, have arcane roots. The archetypal image of both the eternal lantern and the magickal elements reappeared with the "Green Lantern" comic book series of the 1930's, where the eternal emerald lantern from another world conferred its power to one who would justly bear the magick ring. Charging the ring by the eternal radiance of the emerald lantern, the ring-bearing knight swears to protect the world from evil. He then learns the secret psychotronic power of the ring. 
+
+      
+While the images of Prester John's fabulous courtroom illuminated the minds of those who thrilled to their hearing, a new and unexpected materialization was historically chronicled. 
+
+      
+So dramatic an episode in human history, it yet demands a complete bibliomantic examination. There was an instance in time, a true psychosocial event, in which archetype met human desire in material form. 
+
+      
+
+      
+
+      
+
+      
+ 
+RADIANT ROCK 
+
+      
+
+      
+
+      
+During the late Middle Ages, a great variety of remarkable "radiant rocks" were suddenly and unexpectedly discovered. These discoveries emerged from the mountainous regions of Central Europe in continual waves.
+ It was the country folk who found them. Approaching in a timid, childlike wonder they saw the impossible. 
+A powerful and unusual radiance was found emerging through the very rocks of the mountainsides. Light seemed to be streaming out of the hillsides! The brilliant green and blue mineral light was seen among familiar mountain rocks after sundown. As reported, the light was brilliant, far above the brightest light of the full moon. 
+
+      
+Most of the first fortunate individuals who made these discoveries were not scholars or craftsmen. Typically, they were shepherds, mountain villagers, pilgrims, and wanderers; the innocents whom angelic hosts historically visit with messages of love. 
+The glowing rocks seemed to be windows on some underground domain. Possibly from unknown cavern worlds beneath! Nights were spent watching the rock radiance in absolute wonderment. The radiance was considered an apparition, a divine event. The light was beautiful, glorious, and unfamiliar. It brought with it the atmosphere of another world. 
+
+      
+Here was a new revelation, a new kind of light, which did not come from fire. The rocks gave forth a bright light, bright enough to illuminate the faces of those who stared into them in disbelief. Though shining for hours with no other energy source, this cold rock-light would not die! Those who discovered these strange glowing rocks believed themselves to have been favored by miraculous visitation, answers to fervent requests. 
+
+      
+Stories began emerging from different parts of the world concerning these very same radiant rocks. Some of these were given names. Some were associated with the saints. Others were simply named for those who found them, or the place from which they were dug. A few brave souls were not afraid to attempt sampling the find. Unearthed, pieces were brought indoors. Though separated from their parent rock mass, they continued illuminating cabin interiors with their rare and cold radiance. Undying fire. Cold, pure endless light! 
+
+      
+Most of the rocks came from familiar regions, yet their radiance was never before seen. Innumerable opportunities existed for the observation of the brilliant and spontaneous radiance. But, why had no one reported such wonders? Had no one ever seen these lights before? The shepherds who frequented those very places had crossed and recrossed their grazing paths for countless centuries. Yet, they had seen nothing unusual. Certainly nothing this noteworthy was ever observed by anyone familiar with the very terrain in which the manifestations had taken place. This equally profound and perplexing mystery now formed additional evidence concerning the radiant rocks, one which surrounded them with an additional and inescapable aura. 
+
+      
+It was apparent that these were divinely inspired events, utterly new creations. This was the accompanying awareness, which boosted their fame into public consciousness. Clergy and monastics became enthralled...humbled by the notion that science and theology were not, as most had assumed, separate experiences. Archetype, visionary desire, and natural reality had been brought into material fusion. 
+
+      
+The radiant rocks foretold a coming dawn, an Age of Light perhaps!
+ For the people of this time period, the phenomenon was material evidence of the ancient faith. The glory of these special radiant crystals brought about a curious form of devotion. Taken as miraculous signs, each were displayed before persons of both low and high estate. Cathedrals displayed them for the common folk. The rocks were seen as sacred artifacts, befitting the treatment rendered toward relics. Private viewings, accompanied by all the pageantry of liturgical service, were held before the courts of kings. 
+
+      
+Here was a new breath of promise, a silent comforting word. In this atmosphere of prayerful silence, the miraculous stones radiated their eerie green or blue light to the wonderment of all who beheld in silent awe. Certain varieties were exceedingly brilliant, some reporting a radiance far above the brilliance of full moonlight. In a few other instances the report of radiant brilliance approaching sunlight was confirmed by credible authorities. Those who worshipfully gazed at these rocks in the silent cathedrals awaited metaphoric answers. It was difficult to imagine that former scholars had separated innervision and external Nature, calling the one "fantasy" and the other "reality". 
+
+      
+In the clear light of these wonder rocks there was some powerful sense of a lost innocent world and its wonderful radiant vitality. A new and striking atmosphere seemed to capture all the scholars who approached the brilliant rocks. Gazing into their wondrously bright and seemingly endless radiance, one had the sense that the Divine Presence was mystically shining through "corrupt matter". It was light from death, the complete antithesis of the fire paradigm. Here, the production of light did not require the death of living thing. The light did not emerge through the consumption of fuels, the soul of the green forest. This matter was not "corrupt". This was a rare kind of matter, unknown except for the legends and fables, which accurately described them in every detail. 
+
+      
+With each discovery of a new radiant mineral, more proof was added to the ancient belief that Creative Light had not indeed abandoned the world of tears. Where death seemed the ruling power, it was the light of these rare gems, which heralded sweet proof that Divine Love was yet reaching for humanity. Those who both studied and reported their experiences with these radiant rocks certainly knew the comparative illuminating power of candles and bonfires. When they likened the brilliance of these strange rocks to full moonlight or of sunlight, they were neither being scientifically primitive or emotionally excessive. 
+
+      
+It is astounding to recount the historical density of such finds during the early Renaissance. Arcane journals and manuscripts contain anecdotes of these discoveries, although found with difficulty in widely scattered fragments. They are the remains of notable past events in the indelible historic record. 
+
+      
+Scholarly minds reeled under the dream-impact of possible new technologies. The wonders, which could emerge from the proper implementation of these rocks, would take some time to fully develop. Would these rocks respond to the mind? Would they influence actions without contact? Could they be used to move heavy objects? Could they make one invisible or invincible? It is very significant that those who sought the development of radiant technology used the very archetypes of legend to guide their efforts. 
+
+      
+There were those who now ran to the mountains in search of radiant rock. Many new varieties were found, but few gave the rare radiance produced by the original finds. Large crystals of fluorite and barite were torn from mountain scarps. Having been exposed to intense sunlight, each was then methodically taken into dark chambers for examination. In the clutches of secular scholars who sought purely mechanistic explanations, the comparatively weak glow of these rocks also remained incomprehensible. They did not equal those, which had previously been found. Words and logic failed to explain what Nature had revealed. 
+
+      
+Late Renaissance science was searching everywhere for more examples of this wondrous rock luminescence. As continual examples of these fluorescent phenomena were found, science could do nothing more than simply collate the evidence.
+ Soon, a large collection of minerals and experiences had been patiently compiled. Yet, none of the forthcoming finds quite equaled those early and spectacular events, which heralded the discovery of the famed radiant rocks of Europe. 
+
+      
+Never was such a singularly religious treatment of the phenomenon ever seen again; and it is indeed curious that the radiant intensity of later retrieved rocks, mostly barites and fluorites, did not match those reported during the first spectacular wave of discovery. The original stones surfaced in the courts of various nobles throughout the Renaissance, the coveted possessions of rulers. Their appearance and disappearance followed the rise and fall of their power. It has been impossible to trace the whereabouts of these rare gems whose great radiant intensity was "frightening". Discoveries of natural radiance such as these never made their appearance in Europe. 
+
+      
+In the absence of newer reports, these remain inexplicable. Spontaneous sources of light made their appearance throughout the following centuries, but the truly great radiant light sources seemed to have dimmed once more. In this, the scholar is faced with a mystery. What is the reason for their appearance and disappearance down through the centuries? 
+
+      
+
+      
+
+      
+
+      
+ 
+NEW RADIANCE 
+
+      
+
+      
+When the element "phosphoro" was discovered in 1669, the frightened alchemist Brandt fell down in silent prayer. He is often depicted in this poise at moment of discovery. Fascinated preoccupation with radiant rocks and other related phenomena always re-emerged with each new century. They came with great regularity during the Eighteenth Century, mostly associated with bioluminescent phenomena. Luminous insects, fungi, coral, fish, mushrooms, and so forth. The light they gave was neither eternal, nor radiant. These were again heralded ... but not with the great sense of awe or religious reverence rendered to those first wondrous manifestations. 
+
+      
+There were those who grew accustomed with the "disappointing" nature of quests and natural finds. This sad tendency became the "expected outcome" of belief in any kind of visionary artifact. Disappointment and hopelessness was associated with the quest for dream archetypes in material nature. Nevertheless, several significant discoveries continued to overthrow this negative worldview, vindicating those who expect the natural world to surprise them. 
+
+      
+A mysterious radiant stone was discovered in Connecticut during the latter 1600's by a Mr. Steele. Living in East Haddam at the time, Mr. Steele discovered a truly marvelous and precious stone, which he claimed visibly, radiated incredible volumes of light. He confided secretly with his landlord, a Mr. Knowlton, that he would soon be able to procure it in secret. He referred to the stone as "the carbuncle", relating that a huge sum of money would be theirs to share if only the secrecy could be maintained until time of disclosure. Mr. Steele seemed to infer that he had found a large deposit of the white material, and this increased the earnest expectations of his landlord. 
+
+      
+By night, Mr. Steele brought the "white rounded carbuncle" back to the boarding house under thick covers. Despite the attempt at cloaking the stone, it glowed with an intensely penetrating radiance. In the dark, the light grew to an incredible and anomalous proportion, far exceeding that of sunshine. This material was secreted into the cellar of the house, one "not having any windows". There, Mr. Steele "worked on the material by night", performing chemical operations on the substance. 
+
+      
+Despite the thick stonewalls, the light of this stone "shone right through" to the outer meadows. So great was its penetrating strength that the entire house appeared illuminated by fire, being seen at very great distances by curious others. In addition to this mystery, large and continual booming sounds were heard surrounding the stone and the house. Mr. Steele stated that these sounds emanated from the stone. He labored on the stone every night until it was impossible to hide the secret any longer from neighbors. Mr. Knowlton, the landlord, thought it bewitched by Indian sorcery and angrily warned Mr. Steele to cease his evil acts. 
+
+      
+Wrapping the carbuncle in sheet lead and taking on a disguised appearance, he fled from the town by sailing ship. Because of the stone's remarkable luminescence and equally powerful thunder, it was impossible to hide the stone. It has been presumed that the sailors, superstitious and frightened of the accursed carbuncle, simply threw him overboard with the object in his grasp. England, Steele's intended destination, was never reached by him. The stone, of course, was lost. 
+
+      
+The large mysterious stone was original dug out of a very specific hillside, known by the residents of the area. From descriptions given by the now-late Mr. Steele, a local cleric found the very spot. The cleric is the same gentleman, a man of impeccable character and irreproachable honesty, who wrote the journal from which the tale was derived. He spoke of the existence of the mystery carbuncle as a fact, in greatest confidence. 
+
+      
+The cleric said that lightning was frequently drawn into the hillside at that very point, loud booming noises constantly emanating from the place regardless of the weather. The place was also known to the Native Americans, who treated the district as a sacred spot. Puritans believed the place bewitched, and avoided it with great terror. No mention was ever made of the strange substance again. 
+
+      
+While sounding completely fanciful, such stones were actually observed in New Guinea by numerous traders who managed to penetrate the high mountains of Mount Wilhemina. These adventurers reported that native villages employed large "balls of stone" to brilliantly light the night darkness. The giant glowing stones were exceedingly bright, resembling "suspended moons". These filled the jungle region with their radiance, giving a surreal quality to the place. The source of the mysterious light found, those of the expedition were completely astounded. Poised high on very large pedestals, the huge white balls of stone glowed with a brilliance equal to that shed by electric lanterns. Their light did not fade with time. 
+
+      
+Another such account came through Ion Idriess, a famed Australian writer. Aborigine elders, while recounting island history to him, reported the existence of "the booyas". These were large balls of stone, which glow with an eerie magickal light. Three of these stone "scepters" were known in the area. Poised on tall pedestals of bamboo, the light shed by the booyas was so bright that it enveloped its spectators. Held up toward the sky, the stone flashed with a brilliant cold green light, and was thus "charged". Villages thus illuminated by greenish white brilliance were seen far off at sea. 
+
+      
+The diary of a conquistador (Barco Centenera, 1601) told of a similar, if not exact, stone ball lantern. The setting was Paraguay, in the city of Gran Moxo. There he reported discovering a huge stone pedestal, some twenty-four feet in height. This pillar was surmounted by a huge ball of stone, which shone with such brilliance that it illuminated both the lake and the inhabited area. 
+
+      
+The English Colonel P.H. Fawcett reported hearing of cities in the same South American jungles whose people employed a similarly strange means for illuminating their night times. These were the very same kinds of cold green balls of stone, poised on very tall stone pedestals. Colonel Fawcett, of utmost integrity, sacrificed his life while seeking the ruins of these lost cities. His qualified opinion was that these places were "contemporary remnants" which retained the forgotten knowledge of ... much older civilizations. 
+
+      
+There are those who claim to have retained some portions of these legendary materials. Nicholas Roerich, symbolic master artist, traveled to Mongolia in 1925 after learning from monks of a famed stone, which "fell from Orion". Securing the stone on behalf of the monastery in which it was housed, he claimed to have discovered its amazing mind-expanding qualities. Both Nicholas and Helena Roerich accompanied a fragment of the stone to a neighboring monastery where it was enshrined. 
+
+      
+These sacred stones, elements of the first world Nature, were said by him to radiate a sharply defined consciousness. The monks attested to the ability of this stone to "maintain peace and elevate consciousness to all the outlying districts". In these mountainous lands, timeless traditions preserve what centuries of European history would have erased. Could this have been the very stone, which Marco Polo had reported? Was this one of the "magickal stones" employed by Prester John? The couple returned home, encrypting the truth of this remarkable find in a series of mystical books ("On Eastern Crossroads", "Legend of The Stone", Abode of Light"). 
+
+      
+ 
+
+      
+
+      
+
+      
+
+      
+ 
+ELECTRIC ROCK 
+
+      
+
+      
+Numerous explanations for the phenomena of luminescence and phosphorescence flood the technical literature of the day. Each seek mechanistic explanation for the remarkable radiance of certain materials and apparatus. Despite these academic speculations, the phenomena of luminosity and phosphorescence represent some very essence of our deepest dreams and mythic desires. Strange light sources form the heart of all artifices of legendary magick. These are fascinating archetypes, which surpass our merely intellectual fixations. Why their mere mention fills us with an awesome reverence has much deeper source. 
+
+      
+Each new technological epoch is always accompanied by the emergence of new and remarkable light sources. From the latter part of the nineteenth century until the middle 1930's there was an abundant emergence of such devices. While many of these "lanterns" required the forced generation of energies, there were a significant number of devices, which did not. In the following account, we will see that the fables of "lost magickal elements" and "radiant rocks" are grounded in truth. 
+
+      
+
+      
+
+      
+Dr. Moray
+
+      
+ 
+"I started my experiments with the taking of electricity from the ground, as I termed it, during the summer of 1909. By fall of 1910 I had sufficient power to operate a small electrical device, and I made a demonstration of my idea to two friends... This demonstration in the early stages consisted of operating a miniature arc light... It soon became evident that the energy was not static and that the static of the universe would be of no assistance to me in obtaining the power I was seeking...
+ 
+
+      
+ 
+During the Christmas Holidays of 1911, I began to fully realize that the energy I was working with was not of a static nature, but of an oscillating nature. Further I realized that the energy was not coming out of the earth, but instead was coming to the earth from some outside source. These electrical oscillations in the form of waves were not simple oscillations, but were surgings --- like the waves of the sea --- coming to the earth continually, more in the daytime than at night, but always coming in vibrations from the reservoir of colossal energy out there in space. By this time I was able to obtain enough power to light the old 16-candlepower carbon lamp for about one half capacity, and I did not seem to make any further improvement until the spring of 1925." 
+
+      
+
+      
+ 
+
+      
+Dr. Thomas Henry Moray, an electrical engineer, began research on aerial static generators in 1910. He succeeded in deriving usable electrical energy from the earth's electrostatic field. Many others had achieved similar results in the century preceding Dr. Moray. Patents of "aerial batteries" fill the archives (Vion, Ward, Dewey, Palenscar, Pennock, Plausen). Their remarkable efficiency required only the establishment of elevated stations in appropriate places, each differing in the actual mode of extracting the atmospheric energies. Some of these aerial battery systems successfully provided the utility requirements of small factories and telegraphic exchanges. 
+
+      
+
+      
+Dr. Moray was fascinated with the concept of drawing electrical energy directly from the environment. His initial and primitive tests brought a modest amount of electrical energy from his aerial battery design, producing clicking tones in a telephone receiver. With this device, he gradually developed enough atmospherically derived energy to light a small neon "arc lamp". Dr. Moray was encouraged, but not satisfied with these results. There had to be a way to get much more energy from the environment. 
+
+      
+Static-field systems are necessarily tall aerial structures, requiring a great deal of space. Some designers used large balloons to hoist their static collectors. Others simply utilized fixed structures: large mountain-poised screens, point-studded poles. Benjamin Ward used an astounding "directional chute" which "funneled" electrostatic winds. Aerial batteries relied on the surface area of structures to absorb electrostatic charges. The larger the system, the more the available electrical power. Moray wanted to miniaturize these large systems. If miniaturization was to be the design goal, there would be a necessary and revolutionary change in the approach. 
+
+      
+While investigating the output of his device, he discovered a feature of the natural static energy, which had somehow been overlooked by other aerial battery designers. The electrostatic power had a flimmering, pulsating quality to it. He learned of this "static pulsation" while listening through headphones, which were connected to telephone wires. The static came in a single, potent surge. This first "wave" subsided, with numerous "back surges" following. Soon thereafter, the process repeated itself. The static surges came "like ocean waves". Indeed, with the volume of "white noise" which they produced, they sounded like ocean waves! 
+
+      
+These peculiar waves did not arrive with "clock precision". Just like ocean waves, they arrived in schedules of their own. Dr. Moray was convinced that these were world-permeating waves. He came to believe that they represented the natural "cadence of the universe". This intriguing characteristic suggested that small amounts of pulsating electrostatic charge might be used to induce large oscillations in a large "tank" of charge. The resultant oscillating power would be applied to industrial use. But experiments in these avenues were not very promising. 
+
+      
+Dr. Moray believed that the earth's natural electrical energies were derived from the mineral content of the ground. He therefore began examining minerals with a rare devotion. Everywhere he went, mineral hunting was the first impulse. These minerals became quite a collection. Each was examined in his small laboratory to discover any possible new electrical properties, which might reveal the truth of his ideas. 
+
+      
+There was practical truth in his first suppositions. 
+The early days of Radio utilized mineral crystals to detect signals. Tesla was perhaps first in announcing that selenium crystals could detect the special rays with which he was principally occupied. Thereafter several different personalities claimed to have "discovered" the crystal detection method. 
+
+      
+Essentially solid state in nature, the method uses mineral crystals to "detect" radio signals. Fine wires ("catwhiskers") touched mineral surfaces at specific "sensitive points" and were tuned with a small coil. One could receive radio signals without batteries by employing this detector. When connected with an aerial, a ground rod, variable coil tuner and headphones, the resulting "crystal set" provided a means for receiving strong radio signals. As children, many of us had these little crystal sets. 
+They are still popular and may be purchased for a few dollars in science shops today. 
+
+      
+Since the crystal was the key to better radio reception, experimenters were searching the mineral kingdom for new and more sensitive detector crystals. Early radio magazines taught the eager hobbyist how to mount special radiosensitive mineral crystals. There were several favorites of which radio hobbyists were very fond. A brilliantly reflective metallic crystal having a silvery blue cast, Galena was the mineral of choice. Pyrite, otherwise known as "fool's gold", is a close second to Galena. As a radio detector, Pyrite gives a good signal strength in the headphones. Some preferred Molybdenite, a mineral that is especially sensitive to infrared energy as well as radiosignals. Radio amateurs were always trying new mineral crystals to see which ones amplified radio stations with greater strength and clarity. Each had their favorite crystals. Little did the radio enthusiasts know why there was mystery in this quest for "radiant crystals"! 
+
+      
+Advancing the science of crystal radio detection, certain researchers discovered that contact-combinations of minerals gave stronger signal amplifications. 
+When carborundum and silicon crystal nuggets were pressed together with little springs in a metal tube, the signal strength was enormous. Small battery voltages turned these mineral detectors into amplifiers, early transistor-like detectors. Bi-mineral and bi-metallic hybrids were tried with good results. Mineral-metal, mineral-mineral, even multiple minerals in contact with two different metals produced enormous magnifications of signal strength. 
+
+      
+Some detectors incorporated carnotite, a radioactive mineral. This greatly increased conductivity with a resultant enormous signal magnification. Coating aerial points and catwhiskers with autonite, another mild radioactive mineral, produced amplified signals. There were small companies, which manufactured synthetic minerals ("Radiocite" and "Russonite"). These claimed superiority in the signal-boosting ability. There were scores of other sensitive minerals, which gradually appeared in the journals, some natural and rare, and some synthetic compositions. 
+
+      
+In light of these wonders, a full-scale assault on the mineral kingdom was launched by both private and government research labs. It was discovered again that the mineral world is not simple. The mineral world is mysterious and locale-specific. Each ground site where minerals are found evidences unique mineral combinations and admixtures. 
+The special qualities of identical mineral species can vary completely among geographic points. 
+
+      
+Galena contains critical element traces, which differ completely among mining sites. It was found that Galena, taken from certain special sites in Kansas, gave an excessively clear signal output with high volume. This natural Germanium rich variation placed it far above other galena samples in radio-sensitivity. In addition, these crystals visibly differ from Galena taken from other places, having a rare blue green hue. 
+
+      
+
+      
+
+      
+
+      
+ 
+GROUND ENERGY 
+
+      
+
+      
+Crystal sets were the ruling radio technology in the early 1900's. Listening to radio stations through a crystal set is still a treat! The sounds are startling clear ... and loud. An old neighbor told how his great-uncle so tuned the crystal set that "everyone in the house could hear the music". Most crystal radio sets are "unpowered" radios. The entire study field of unpowered radios has been receiving enough attention lately for the publication of several books on the subject. 
+
+      
+The anomalous strength of crystal radio signals has much to do with design, conductivity, crystal quality, aerial surface, and ground contact. In many cases, the aerial may be completely eradicated when the ground connection is "right". In fact, the aerial can be eradicated, but not the ground. 
+It is the ground connection, which is all-important. 
+
+      
+ 
+Stubblefield
+
+      
+Amateurs are rediscovering that specific ground points emanate radio signals in sufficient quantities to power loudspeakers! Recent reports from three independent researchers reveal that crystal radio reception through ground connection alone is shockingly powerful. The developed radio power in these crystal radio receivers was so strong that volume controls were installed to limit the output sound! 
+
+      
+According to each report, crystal received radio signals actually seemed to 
+"grow in strength" with time.
+ The anomalous growth is one, which numerous researchers have noted. The pattern follows the "vegetative growth" which Reichenbach observed in his 
+"Odic" energy and which Stubblefield saw in his "electrical earth waves".
+ Vegetative growth patterns appear as a gradually increasing signal, reaching frightening volumes at the maximum. In one such instance, the weak signal strength required headphones. Within several days however, the headphones had to be replaced with a small loudspeaker. This loudspeaker was then replaced by a much larger diameter horn. Finally, the horn had to be disconnected periodically because neighbors complained of the "outrageous booming sound". Vegetative signal growth. Not an electrical characteristic. 
+
+      
+One may view the crystal radio receiver as a tuner of crystal ad, the radio signals and other electrical values merely appearing as epiphenomena (Meinke). Recall that Reichenbach hoped to use Od in a new non-electrical technology, and that later pioneers developed 
+Radionic instruments to these ends. The engineering convention of the early Twentieth Century had not yet realized the active appearance of these more fundamental energies in their circuits, as did their predecessors in the telegraph industry. 
+
+      
+The idea of obtaining and using "ground energy" is covered in secrecy.
+ What would happen to fossil fuel companies were it even suspected that vast electrical energy could be simply pulled from the ground at specific points? These energies began "making their appearance" during the years of telegraphy. 
+Well placed telegraphic ground plates were able to operate with energy simply taken from the ground.
+ Several early telegraph lines historically continued signaling among stations, though 
+their batteries had been "dry and dead" for several years!
+ I spoke to an engineer who saw this kind of system operation when yet a teenager. Seeing this strange system in full working order so impressed him that, developing that rare taste, he forever sought such anomalies as a lifelong passion. Numerous articles from the last century retell exact details concerning these phenomena. 
+
+      
+It is possible to demonstrate its principle with ground rods and galvanometers. Yes, there is great energy in the earth, vast natural energy that is accessible only in specific points.
+ But the true and fundamental identity of that energy has been questioned. Most qualified investigators observe that ground energy does not "begin" as electricity. Electricity from the ground only appears after several natural stages of transformation. Vegetative growth. This is evidenced in old telegraph lines where measured currents do not provide adequate wattage for the activities, which are thereafter observed in the components. This was especially true for the forgotten chemical telegraph systems, where scarcely any electrical current managed the successful exchange of strong signals. 
+
+      
+The forgotten science of selecting "special ground sites" is re-emerging among VLF radio researchers. No two-ground sites are ever the same. It is possible to probe around in a garden with simple meters and metal rods to prove this claim. Touching carbon and iron rods to the ground registers as currents ONLY when specific points are touched. It is fascinating to find extremely active sensitivity spots immediately adjacent to points, which produce absolutely no response in meters. The effects measurably increase despite rod separations. 
+
+      
+In no manner can these be referred to as "electrolytic" or "battery actions", since the requirement for best energy extraction by this method is dry ground. Rainwater destroys these effects. Moreover, it is only when the right ground contacts are made that one will watch the meter "pin". There the meter will remain until the rods are removed. Such energetic discharges can continue for months! 
+
+      
+Removing the rods, however, produces a more astounding phenomenon. The meter, dropping to "zero", does not rise again when the rods are replaced in their very same ground-points. One can lift one rod out of its well, watch the meter drop, and then instantly replace the rod with no resultant energy rise. 
+Ground energy withdraws in a manner suggestive of "biological irritation"
+. Each of these phenomena may be demonstrated to personal satisfaction with very simple apparatus. 
+
+      
+
+      
+
+      
+
+      
+ 
+THE SWEDISH STONE 
+
+      
+
+      
+Dr. Moray traveled to Sweden as a missionary of the Mormon Church in 1911, visiting relatives for a summer. He frequently hiked through the lovely green meadows and blue mountain ridges to examine and collect more minerals. Here, in the historical land of gnomes, he found an unexpected treasure. But it was this part of his biography, which separated Dr. Moray from fictions and fables. 
+
+      
+It was during one such mineral expedition that Dr. Moray found a soft, silvery white mineral, which greatly attracted his attention.
+ Despite his great difficulty in obtaining the necessary parts for even a simple laboratory examination, he found that silver cat-whiskers produced electrical rectification. 
+When the silver contacts touched the mineral, the stone would pass battery currents in one direction.
+ Believing that this material might be useful as a new industrial radio product, he stored a good quantity of the stone for his voyage back to America. 
+
+      
+Dr. Moray never elaborated on the "discovery" portion of his story. He mentioned only that he obtained the material from two separate Swedish sources. 
+The first samples were crystalline, being found in a hillside outcropping of rock. The second, a smooth white powder, was scraped from a railroad car in Abisco. Both materials were identical in composition.
+ No doubt, he wished to secretly preserve the location of this mineral lode for future use, since he never told of the exact source location. 
+
+      
+Endowed with extremely peculiar electrical properties, the stone provoked great surprise. 
+Implementing the mineral as a crystal radio detector, he discovered several unexpected phenomena in quick succession. Dr. Moray discovered that radio signals were so amplified by this mineral that headphones were destroyed by the current.
+ He then scaled up the output to accommodate a very large loudspeaker. 
+Tuning in any station produced excessively high volumes of sound without external power! The fact that these crystal radio receivers required no extra power when achieving these activity levels suggested new experiments. His assessment of the mineral was mystical. His perplexing comment had no prior equal in the electrical world. 
+
+      
+"What I have found is a mineral radio detector, having self-amplifying abilities". 
+
+      
+Now, bright blue-white sparks were observed playing along the thin wire connections around the mineral at specific station settings. Mysterious! Incredible! 
+The stone provoked a world of theoretical "problems". Any device with "self-amplifying abilities" is necessarily drawing its power from somewhere. But, from what place of origin was this "Swedish Stone" drawing its self-amplifying abilities? According to convention, there were no such sources to be found. 
+
+      
+Unable to yet find an answer, he modified his theory on earth electricity.
+ He came to believe that natural earth electricity was entirely developed through special minerals like the one he found. Minerals, he reasoned, were able to modify more fundamental energies, which emerge from the ground. During the process, electrostatic charge is developed. This is why the earth maintains its charge. It possibly explained why the earth static-charge also "flimmered" in pulsations. Whatever causative energy was manufacturing the charge in minerals was obviously a pulsating one. 
+
+      
+There was no precedent for the peculiar behavior of this mineral. No existing electrical explanations for the activities whatsoever. Despite his inability to comprehend why the stone performed these marvels, Dr. Moray continued his empirical experiments. In the process, he developed several modifications of his original theory. Based on strong intuitions, he formed a doctoral thesis in 1914, postulating the existence of a "sea of energy" from which all future power would be derived. 
+
+      
+
+      
+
+      
+
+      
+ 
+CRUCIBLE OF THE STARS 
+
+      
+
+      
+These events all took place in the obscure privacy of Dr. Moray's early life. In 1917 he was married. He managed to obtain several successive engineering jobs, all the while pursuing his dream of deriving energy from the earth. Between 1914 and 1921 he was unable to pursue this experimental work for any sustained time, the happy duties of work and family life absorbing all his attentions. His engineering employment record is prestigious, considering the time frame. He was employed as Designer and Engineer by the Utah Power and Light Company, Engineer for the Phoenix Construction Company, Assistant Chief Engineer for the Arastard Construction Company, and Division Chief Engineer for the Mountain States Telephone and Telegraph Company. 
+
+      
+Having labored on his mineral through a sudden inspiration, he now advanced the operation of the device, a cylinder of eight-inch diameter and six inches height. Utilizing an aerial and a good ground rod, Dr. Moray successively powered both a 100-watt incandescent lamp and a 655-watt heater. It was found that deeper ground rods produced visibly brighter lights. The world did hear from Dr. Moray in 1925. There, in Salt Lake City, he began performing wonders with his new "energy receiver". 
+
+      
+Several local witnesses observed these experimental proceedings. It was seen that power increased with increasing ground rod depth. He now approached several authorities in hopes that the invention be given proper treatment in an established research laboratory. Then, he anticipated that the industrial groups who handled power generation would be the most reasonable people to contact for the deployment of his revolutionary technology. 
+
+      
+In that October, Dr. Moray brought witnesses from the Salt lake City General Electric Company in order to formally disclose his discovery. The demonstrations proceeded as before. Dr. Moray showed that the removal of either the aerial or the ground caused power to fade, proving the external source of the energy. Several qualified witnesses arrived from Brigham Young University to observe the device in action. Themselves engineers, he allowed them to examined and dismantle the device completely so that there would be no accusation of fraud. They even tore the boards open to see if there were any concealed transformer coils or batteries, which would account for the tremendous power production. No fraud could ever be found in this severe examination. 
+The one component, which Dr. Moray would never show the others, was the size of a pocket watch. In it was his precious "Swedish Stone". In a strange way, in a most remarkable way, Dr. Moray had found an eternal lamp!
+ This caught all the authorities off guard. Careful to watch over and protect every rigidified dogma and institution, the guarded hierarchies of self-centered authority were shaken from their foundations. 
+
+      
+Academic authorities declared that Dr. Moray's device was simply receiving energy from power lines or local radio stations. They demanded that he take the device to various locales in order to pinpoint both the true source of the energy and establish operation criteria. No industrial development of the device would be considered, they stated, until he complied with the stated requirements. 
+
+      
+Taken across the countryside in hopes of realizing the failure of the device, these academicians were thunderstruck when the device continued operating. It was impossible to find a place where the output showed any slight drop in power. The device worked during snowstorms, rainstorms, and in deep mineshafts. It was sealed in a metal vault, dragged many miles away from power lines, and taken to mountainous terrain, which did not sustain any radio reception. 
+
+      
+In each location the device suffered not one degree of diminished output. Appliances usually tested simultaneously in these desert locales included thirty-five lamps each rated at one hundred fifty watts, a one thousand watt hand iron, a heater, and a fan. Moray himself wished to test whether the device would drive a plane or submarine. The device was taken up in a plane and submerged in a watertight container at the bottom of a lake. In each case the output remained the same. 
+
+      
+Once, while demonstrating the device before a group of electrical engineers, a sudden sustained dark blue spark of some eight inches length was observed. When the engineers saw this, they were truly amazed, as the spark discharged from one of the output leads into midair. The incoming energy had actually momentarily exceeded the sustaining ability of the receiver. Obviously, this energy was coming in "from the outside". It was later found that this blue "spark energy" was a current, which could penetrate several solid plates of glass. 
+
+      
+Some analysts identified this display with "high frequency electrostatic" energy, but this was an impossible conclusion, since the glass-conducted current could perform all the same energetic wonders as if passing through metal wire. The question was then to address the exact nature of the receiver's current output. Was this a different kind of electrostatic energy? Were the output currents of a different "species" altogether? 
+
+      
+Now, Dr. Moray guarded his detector with special care. The new component was no longer the size of a small pocket watch. The modified detector looked like a small crucible with its cover-welded shut. This, Moray removed and placed in his pocket whenever the tests were completed. He later revealed the nature of the device, stating that it contained a piece of the soft "Swedish Stone" and "a few extra additives". A few close associates were permitted to examine this component. There was nothing more than what his drawings showed in its metallic shell. The whole secret lay in the nature of the mineral, the lost and miraculous mineral. The radiant stone. What remarkable truth did Dr. Moray learn? How had he managed to transform his device into this veritable powerhouse? 
+
+      
+
+      
+
+      
+
+      
+ 
+SPACE RAYS 
+
+      
+
+      
+Years before this demonstration, the absence of reasonable academic explanations forced Dr. Moray to plunge into study. Preparation for his thesis required a substantial personal library, which he had gradually acquired. In the process, he secured several rare fifty-year-old volumes on radioactivity. 
+These included the theories of Nikola Tesla and Dr. Gustav Le Bon, both of whom had each published extensively on the subject. 
+
+      
+
+      
+Tesla's theory of radioactivity has never been adequately appreciated, despite the fact that he was first in demonstrating the existence of cosmic rays. When announced, after a period of intense investigation,
+ Tesla was heckled by the American academic community. But, long before Henri Becquerel and Marie Curie investigated radioactivity, Nikola Tesla first called attention to the notion that matter was spontaneously converting into energy.  
+As this process, Tesla stated, was an eternal one.teady external shower of stimulating "cosmic" rays was penetrating all matter. These "cosmic rays" bombarded and disintegrated all matter. The process was measurably increased during the daylight hours because, Tesla stated, the bombarding rays come from the sun. These external rays were possessed of incredible electrical potential. 
+
+      
+
+      
+Tesla cited particle potentials exceeding "one hundred million volts". He said that he had measured these potentials with "special" detectors. These might have been selenium detectors in vacuum bulbs, as used in his radio receiver patents. The electrified particles were constantly bombarding all materials, causing radioactivity to be observed. Tesla stated that all matter was in the eternal disintegration process. He claimed that the more dense metal elements were more easily recognized as "radioactive" because the dense materials were "better targets". According to this viewpoint, radioactivity was the manifestation of externally sourced agencies. Tesla insisted that the true source of radioactivity was outside, not within, matter. Ray bombardments "from cosmic space" were his explanation. 
+
+      
+Tesla defined true cosmic rays as an entrant light-like effluve having incredible penetrating power. These were in no way similar to the conventional cosmic rays detected by Gockel (1910), Hess (1912), Kohlhorster (1913) or Robert Millikan (1925). Tesla viewed his discovery of these light-like effluves as holding the only promise for energy application. According to Tesla, the energy of these effluves greatly exceeded those of cosmic ray "particles". 
+
+      
+When Moray read these ideas, he seemed to find a piece of the puzzle, which so eluded explanation. Another researcher, a contemporary of Tesla, succeeded in advancing the "external bombardment" theory of radioactivity with new experimental proofs. Dr. Gustav Le Bon, a Belgian physicist, examined and compared ultraviolet rays and radioactive energies with great fascination. Concluding from experiments that energetic bombardments were directly responsible for radioactivity, he was able to perform manipulations of the same. He succeeded in diminishing the radioactive output of certain materials by simple physical treatments. Heating measurably slowed the radioactive decay of radium chloride, a thing considered implausible by physicists. 
+
+      
+In each case, 
+Le Bon raised the radium temperature until it glowed red-hot.
+ The same retardation of emanations were observed. He found it possible to isolate the agent, which was actually radioactive in the radium lattice, 
+a glowing gaseous "emanation" which could be condensed in liquid air.
+ Radium was thereafter itself de-natured. Being exposed to the external influence of bombarding rays, the radium again became active. The apparent reactivation of radium after heating required twenty days before reaching its maximum value. 
+
+      
+Dr. Le Bon was utterly dumbfounded when; forcing theory into fact, other colleagues announced the "immutability of radioactive decay". He also perceived where their erroneous logic would ultimately lead when they cited "internal instability" as the source of radioactivity. Separating themselves once more from the external world of energy, they would lose more than they imagined themselves gaining. 
+
+      
+Le Bon disagreed when physicists began isolating the heavy metals as "the only radioactive elements. He had already distinctly demonstrated for them that "all matter was to a degree radioactive". He was first to write books on the conversion of ordinary matter into rays, an activity he claimed was constant. He showed that this flux from ordinary matter could be measured. Le Bon stated that the reason why all matter was spontaneously emanating rays was not because they were contaminated with heavy radioactive elements. Ordinary matter was disintegrating into rays because it was being bombarded by external rays of a peculiar variety. 
+
+      
+The external source continually bombarded matter, producing a continual energetic release, "an effulgence" of energy. Because the energetic disintegrations of matter occurred under focused sunlight, he first cited a special photoelectric effect. But, judging that nuclei were actually disintegrating in this process, he saw the need for a new and "extended" photoelectric effect. Matter disintegration and conversion into energy were both described in several treatises written by Dr. Le Bon thereafter. He described matter conversion processes, which may only be termed "photonuclear" in effect. He suggested that photonuclear reactions take place in all solar irradiated matter. Light itself could convert ordinary matter into pure energy. Exposure to focused sunlight could demonstrably convert certain light metals into "energetic emanations". 
+
+      
+He traced the actual portion of the solar spectrum which first manifested this matter-converting ability, isolating it in the deep ultraviolet bands. In these experimental arrangements, full focused sunlight fell on metal plates with their remarkable electrostatic radioactivity the result. But, the natural process of radioactivity in all materials proceeded without help from experimenters. What portion of the solar spectrum existed which could continually bombard matter and produce the observed radioactivity of all metals? 
+
+      
+Le Bon stated that there were invisible and highly permeating solar spectra whose power could pierce buildings. They existed beyond the light rays, beyond the deep ultraviolet. Through the use of special sensitive emulsions, he demonstrated the unique identity of the mysterious rays. Dr. Le Bon showed that he could take photographs of outdoor scenes right through laboratory walls. He distinguished them from ordinary infrared rays. "Dark light" he called it, identifying it with Reichenbach's Od luminescence. "Dark light" was a part of the solar spectrum, which could sufficiently penetrate all matter and disintegrate it. 
+
+      
+
+      
+
+      
+ 
+Dr. Le Bon
+
+      
+PHOTONUCLEAR REACTORS 
+
+      
+See The Evolution  Of Matter 
+  
+http://www.rexresearch.com/lebonmat/lebonmat.htm
+
+      
+
+      
+ 
+Radioactivity was a very slow process. Elements were not being consumed every day in a rapid, uncontrolled process of dissolution. The tremendous amounts of released energy did not measurably diminish the mass of any source metal. Why was the radioactive process so very slow and moderate? What natural condition moderated the otherwise annihilating matter-dissolving process? 
+
+      
+In Dr. Le Bon's thesis, the photonuclear reaction involved a special "coupling action" which naturally existed between element and ray. Each element responded to a specific light energy series. Whenever the proper ray struck near the specific element, there was a disintegration "reaction". It was not necessary for the ray to strike the element dead-center. The mere proximity of the ray to an atom of the element was sufficient to stimulate atomic disintegration. 
+
+      
+Disintegrated atoms could produce very distinct products of particles, forces, and rays. These products and the nature of the radioactive disintegration was determined by the element used and its specific range of resonant rays. One could design a reaction by appropriately arranging elements and rays. Not every ray, which struck near an element, could provoke the photonuclear reaction. Specific rays and specific elements were necessarily brought together before the reaction could begin. A "fortunate providence". Furthermore, that this bombardment was a true reaction and not just a simple collision became clear by experiment. 
+
+      
+According to Le Bon, the intensity of the bombarding rays was not important. When deep ultraviolet rays couple with the proper "resonant" element, showers of identical rays were liberated. The photonuclear reaction was a high-yield electron reaction. Careful theoretical survey of the photonuclear reaction reveals its activity to be a high yield electron reaction. Proper entrant photons from space observably stimulate electron cascades in specific materials. Each photon was capable of stimulating the emission of countless others in a chain reaction which completely swept through the material. 
+
+      
+In this mounting cascade, prolific volumes of atoms were disintegrated. Only the presence of elemental "impurities" blocked the continual disintegration of certain elements. The photonuclear process was a chain reaction of far greater significance than those, which rely on the release of slow neutrons. Since a single such ray could stimulate the dissolution of a great number of atoms, energetic emissions were constantly being radiated from the most ordinary of materials. Only the spurious and scattered nature of solar light prevented the complete annihilation of all terrestrial elements. Nevertheless, the incidents in which proper rays and elements were "resonantly" disintegrating were sufficiently high to produce measurable radioactivity in all matter. 
+
+      
+Dr. Le Bon stated that there were solar rays having far greater potential than the deep ultraviolet. The stimulation of radioactive emissions took place in "successive stages". The complete disintegration of matter occurred when very specific gamma rays resonantly coupled with the proper elements. Such ultra photo nuclear reactions released unimaginable amounts of energy. These photonuclear reactions were "complete". There were no intermediate particles formed by these disintegrations. 
+
+      
+Thus, only specific gamma rays could completely disintegrate a specific resonant element. It was by these rays that matter was completely converted into pure energy with no intermediate particles. Thus, in the absence of these gamma rays, the reactions were "incomplete" ... far less than the "peak" possible conversion into pure energy. These incomplete reactions produced the various particles and rays, which physicists were studying as "radioactivity". Continuing his thesis, Dr. Le Bon discussed the cosmic condition, calculating the amount of energy potentially released in his photonuclear process. It was only the rarity of specific gamma rays and the equal rarity of their resonant elements, which prevented the world from dissolving in a flash. Thankfully, the earth surface elements which would dangerously explode by this process into pure energy had long been providentially been dissolved. Stars were eternal reminders of this potential. 
+
+      
+Le Bon showed that rare gamma ray bombardments had indeed penetrating all matter, creating the steady conversion of matter into energy in the stars. What Dr. Le Bon had succeeded in demonstrating was never really appreciated by those who later became enthralled and entrapped by thoughts of nuclear fission. 
+
+      
+He could arrange the focused action of such stimulating rays with resonant elements, incalculable volumes of energy being derived under control. The output would last for an eternity. An eternal lantern! Dr. Le Bon was the very first theorist to cite "intra-atomic" energy as the future world energy source. He also was first to design and operate special reactors for the conversion process. Light metals being the "fuel" for his photo nuclear reactor, he stated that matter would not be radically diminished even when the disintegration continued for a century or more. 
+
+      
+The photo nuclear process was one in which all sorts of strange intermediate particles could emerge. Some of these might not be of the "known" particles. Dr. Le Bon also spoke of these as "aetheric" conversions. There were two extremes in the photonuclear process. One, a range of partial conversions produced numerous particles and rays. The other involved the "complete conversion" of matter into energy. 
+
+      
+Le Bon showed how specific resultant energies could be determined by "designing" the photonuclear process. One can theoretically tailor these reactions to produce heat, light, motive force, projective force, attractive force ... whatsoever kind of energy is desired. His "intra-atomic energy" was the result of tailor-made reactions in which physicists could determine the energetic outcome with precision. One could produce pure electrostatic flux with no other dangerous emissions by reactively coupling the proper rays and elements together. 
+
+      
+The absence of dangerously penetrating rays prevented the complete dissolution of terrestrial elements into energy. All naturally observed radioactivities were incomplete and "haphazard". Solar energy normally contained insufficient concentrations of both deep ultraviolet rays and more transcendent rays to release uncontrollable amounts of energy. Nevertheless, Dr. Le Bon declared that the photonuclear process could be harnessed. 
+
+      
+In astonishingly simple experiments, he repeatedly demonstrated that the proper resonant coupling of rays and simple elements did release sufficient charged particle volumes to surpass those of the so-called natural radioactive elements. He performed this feat with both magnesium and tin in highly focused sunlight. The resultant pure electrostatic release exceeded the radiant output of radium itself! When colleagues protested that he had simply evoked the "photoelectric effect", he proved them wrong by demonstrating the two effects side by side. The photoelectric effect, erroneously attributed to Heinrich Hertz, was actually discovered by Nikola Tesla. It was found that ultraviolet rays could stimulate the emission of electrons from light metals. The output from this effect was enormously magnified when specific rays were matched with specific elements. When this resonant coupling was arranged, the emanations were anomalous and prolific. 
+
+      
+Le Bon charted the resonance of rays and elements, beginning in the deep ultraviolet. Each experiment showed that pure electrostatic energies could be extracted from the partial disintegration of light metals when very specific deep ultraviolet rays were filtered. He also showed the tiniest introduction of gamma rays, could stimulate complete and rapid energetic conversions in the appropriate resonant elements. Where did the gamma rays come from? Stars radiated gamma rays earthward. It was the crucible of the stars. 
+
+      
+
+      
+
+      
+
+      
+ 
+SEA OF ENERGY 
+
+      
+
+      
+In these texts Moray found pieces of what he was looking for. 
+The answer to his energy source possibly lay in rays, released from the sun and the stars.
+ It was intuitive guidance perhaps, but this is all he had to work with. 
+The Le Bon photonuclear theory was the closest anyone had come toward providing Moray with clues toward explaining the performance of his energy-receiving mineral. He came to believe that the crystalline lattice of the "Swedish Stone" was intercepting certain of these rays. 
+The necessary research now would involve determining their exact nature. He would also need to discover why his strange silvery white mineral was able at all to intercept these rays. Additionally, why was the ground connection always necessary? 
+
+      
+If the crucibles of the stars were converting their matter into radiant energy, then the energy received would be an eternal source.
+ For the moment, he looked up in thanks. The stars were supplying all the energy the world ever needed. Manifestly, here was Providence again at work. How he had managed to find the mystery substance was in itself a chance, which no one could have foreseen. How he would use its power would now determine both his and the world's destiny. Eternal lanterns! 
+
+      
+According to Le Bon, universal matter is turning into energy in an unceasing photonuclear process. The process occurs in the stars, driving their vast expulsions of light and other energies. In doing so, they too were special radiant sources, flooding space with all kinds of rays. The sun was such a source. Being so very near to the earth, its permeating influence could not be ignored. The sun expelled prodigious volumes of rays throughout its space. Earth received a great gale of these rays. Some of them were visible. Most were not. Natural radioactivity was the result. 
+
+      
+All materials were theoretically being bombarded by these permeating rays. This was especially evident when certain materials were exposed to focused sunlight. If the more invisible rays of the sun were the most likely candidates for the Swedish Stone's activity, then there should be energy maxima and minima throughout the day. 
+
+      
+As Moray read of Le Bon's elegant tabletop experiments, he could not help but marvel over the apparent conclusive quality of his statements.
+ Certainly, they were pale in comparison with those, which he himself was obtaining. But it was the Swedish Stone, which made the difference. What Dr. Le Bon did not have was "the stone". 
+Something about the structure of this stone permitted a powerful electrostatic emission possibly under the ordinary influence of solar rays. Its phenomenal output greatly exceeded that which was experimentally produced by any single element of natural origin. 
+
+      
+The mineral possibly held the secret to intercepting special solar rays. The mineral held the secret to releasing the staggering electrical output, which he was learning to harness. Adding his own experimental verifications to Le Bon's theory, Dr. Moray studied photonuclear process in materials other than elemental ones. While Le Bon studied pure metals (tin, magnesium, lithium, cesium, and potassium), 
+Dr. Moray focused his attention on the crystallography of minerals. 
+
+      
+If it were possible to discover which rays from space activated his mineral, then perhaps it would also be possible to improve the operation of the detector. Isolating the specific rays, which he believed were responsible for the "Swedish Stone" phenomenon, would give more credence to the Le Bon explanation. 
+In addition, if it were possible to match synthetic microcrystalline structures with their "proper" ray energies, then he could develop even more powerful electrostatic emitters. 
+
+      
+The study was completely revolutionary. Dr. Moray advanced the Le Bon theory to the point where it became a plausible thesis. He was convinced now that a "radiant sea of energy" suffused the earth. Moray repeatedly stated that this "sea of energy" continually permeated the earth in energetic gusts. The rays he proposed were responsible were "from beyond the gamma ray bands". Recognizing that these naturally prolific energies and their strange dynamics required a special interceptor, Dr. Moray stated that: 
+
+      
+"The most widespread and mightiest of the natural forces has remained so long unrecognized ... because man lacked the reagents necessary for the proof of its existence". 
+
+      
+Dr. Moray had found one of those reagents in the form of a mineral crystal. An eternal lantern! 
+
+      
+Nikola Tesla always spoke of the means by which the energy of space rays could become available to humanity.
+ Moray named his device the "COSRAY" receiver, believing that mineral intercepted cosmic rays were causing the material to disintegrate. The disintegration process in his mineral detector was not complete, electrostatic charges being the photo-reactive products. The dream of endless power was in his possession. But there would be necessary new research in order to greatly intensify the output of the receiver. 
+
+      
+
+      
+
+      
+
+      
+ 
+RADIOACTIVE IMPULSES 
+
+      
+
+      
+Though his earliest experiments produced several kilowatts of "electrical energy", it would require much longer development for his mineral to be worked into a completely potent energy source for humanity. 
+Dr. Moray observed in his early experiments that the extremely powerful "electrostatic" energy came in powerful intermittent pulses. In circuits outfitted with a few radio-tuning components, he found it possible to "sharpen" the effect.
+ The operation of the device was never stable in those days. 
+
+      
+Large bluish sparks often sprang out of the connector wires, this effect having been observed in public several times during early trials. The escaping electrostatic energy was wasted because the receiver could not sustain the incoming power levels. This represented a potential of energy, which could be harnessed under the proper conditions. But how to sustain the tremendous power? After having studied the theoretical writings of Dr. Le Bon Dr. Moray believed that he had found the most probable explanation for the intermittent electrostatic bursts. 
+
+      
+If solar energy was an incoming gale, then that gale might not be completely homogeneous. What appeared to be a steady stream might, on closer inspection, be a completely disruptive flow. Judging from the observed solar surface, it was more likely that solar rays were being expelled in intermittent violent explosions. Both the activity of the mineral and its unpredictable pulsing quality could be explained if one assumed that very special space rays were arriving on the earth's surface in solar "gusts" and "explosions". In his own terms, they arrived "like huge ocean waves". "Radioactive waves" he called them. 
+
+      
+So. The blue sparks appeared because the intermittent gamma ray pulses arrived in unpredictable bursts.
+ Now as he watched the radiant receiver producing its intermittent bursts of electrostatic energy he understood what was occurring. The individual impulses were potent. Each contained enough energy to run hundreds of appliances for the fraction of time during which they were received. Taken over a longer time period their intermittent nature made them generally ineffective for common utility. The solution to this major obstacle was a means by which the initial surge could be stored and thereafter "spread out" over a great time period. New kinds of energy components were therefore devised by Dr. Moray for this very purpose. 
+
+      
+Dr. Moray developed several novel circuits in which these components were combined and staged. Several "COSRAY" receiver models were developed in the process. 
+The intermittent impulses were applied to special capacitors through equally special electrical "plasma switches".
+ Received burst energy was "leaked" into these components. The system then spilled out their contents into each successive output stage until the accumulation was too enormous to contain. Back surges were blocked by appropriate components. The volume of electrostatic energy poured forth like a sustained lightning bolt. 
+
+      
+Dr. Moray developed a strange plasma "tube" in which the mineral was poised. There were several features of this "tube" which may be best comprehended when studying the diagrams.
+ The mineral was poised against the inside surface of a metal crucible, pressed there by several other small beads of another substance. A straight metal cat-whisker touched this conglomerate of beads; the lead from this was drawn outside the crucible. The whole assembly was filled with an inert gas and hermetically sealed. The crucible was referred to as the "tube". It was a hermetically sealed solid-state composition having a metallic envelope. 
+
+      
+This component, with all of its parent samples were soon placed in a large safe after each experiment. Experimental developments in these regards were completely empirical and thoroughly painstaking. But, very gradually, he had developed a number of models whose output energy was truly impressive. His continual work with the design was accompanied by continual private exhibitions. Between the years 1925 and 1929, he performed the tests before hundreds of qualified personnel. 
+
+      
+In its most powerful embodiment, Dr. Moray described his "bucket brigade" of multiple staged components. A few minutes were always required in order to "tune in" the receiver. Earlier models required an initial "spark start" which was supplied by a small handheld "frictive" generator. Once tuning was established, the energy would appear immediately, lights instantly reaching full candlepower. Dr. Moray successfully developed 7500 watts through radiant energy conversions. The most powerful embodiments each supplied 50 kilowatts. This output could run the needs of a small factory throughout the day. 
+
+      
+On several occasions there were obvious environmental "interferences" which temporarily stalled the activation phase. But once these were overcome, the device operated with a familiar constancy, which defied all physical rule. Sharp hammer blows or physical impacts commonly interfered with the detection process. This was due to the frailty of silver wire contacts touching the "Swedish Stone" inside his special metal tube. 
+
+      
+The smaller device served as a solar observatory, a completely unexpected instrument. Dr. Moray could make direct observations of solar pulsations. The device followed solar patterns, producing its most powerful outputs during the day. It also showed a very minor corresponding change during the night. Considering that the outputs were so enormous, Dr. Moray was not disappointed. He was simply fascinated. 
+
+      
+The precious mineral became "more precious" when he discovered its rarity. Identifying the material with local varieties of the same, he found to his very great amazement that only the Swedish Stone produced the energetic output. This material was completely phenomenal in nature. 
+
+      
+Demonstrations with his vastly improved detector model still required an aerial "absorber". The pulsating electrostatic output more powerfully manifested with taller and larger surface area aerials. No activity occurred without the aerial and ground connections. Activity also vanished when the aerial was "shorted", touched, or approached in any way. The earliest photographs show a large outdoor aerial to which the receiver was necessarily attached. The unit was made less attached to this physically stationary poise when a small copper aerial was strung across the room. The need for even this aerial was also eventually replaced by an internally connected copper plate. 
+
+      
+Comprehending this requirement demands study of earlier writings. The cosmic rays, which Tesla reported, were "ultra material particles" which were capable of passing through glass. Tesla observed how projective cosmic rays of this kind were literally drawn into metals. This metallic focusing effect allowed a capacitative surface, effectively extending the space connectivity of the Moray detector tube. The detector "tube" was really a sealed metal crucible, the metallic products fused in place and filled with argon. It was reasoned that space rays were focused by the detector's metallic envelope, just as certain X-Rays can be focused by appropriate metal forms. The copper plate conductively exposed more of the mineral to surrounding space, making it a more efficient focal point for the specific stimulating space rays. The one feature, which Dr. Moray was never able to dispense with, was the ground connection. Ground connectivity alone made this device operate, a characteristic, which was studied with great intensity. His almost daily displays had notable witnesses from the region. The strange "electrical machine" became a topic of great interest among the scientific and corporate communities surrounding Salt Lake City. 
+
+      
+Being the size of a tabletop radio receiver, the knob-covered mahogany box generated some seventy five hundred watts of electrical energy. Photographs show that the output from this device was conducted to external appliances by two heavy cables. The total output was strong enough to brilliantly light fifteen two hundred watt lamps. Additional power from this device operated a small flatiron, a heater, and a fan. 
+
+      
+He continually claimed that the detector was receiving radioactive signals from the sun and stars. Moray's device utilized these radioactive signals to a degree, which does not seem possible when contemporary principles are applied. Despite these theoretical boggles, history repeatedly teaches that empirical discovery rules and often contradicts what existing science considers "possible". 
+
+      
+Mysteries surrounded the output currents, especially when they were applied to electrical household appliances. Currents from the Moray receiver were able to raise the candlepower of ordinary household lamps far above their normal output rating. When operating such incandescent lamps, the filaments themselves never lit. But the gaseous spaces above the filaments became a brilliant ghost-white. Moreover, the temperature of the lamps remained externally cold to the touch. Several persons at various times reported that physical movement near the device, whether of the whole body or of hands, could throw the tuning off. This would cause the lights and other attached appliances to "go off'. His new receiver used several special "tubes" in parallel. These "tubes" were hermetically sealed metal containers. A dear friend, Gabriel Mes, machined parts for Dr. Moray. Through Mr. Mes, several European craftsmen in England and Germany fabricated special parts for the tubes. Alfred Burrell, a local jeweler and watchmaker, soldered contacts and fine silver wires. No one else was ever permitted to see or handle the interior of these strange metal tubes. Dr. Moray referred to them as "boosters" in his patent application of 1931 (application 550611). 
+
+      
+The boosters were delicate. Large vibrations would dislodge the internal contacts, causing the operation to fail. In another large family gathering, Dr. Moray demonstrated his receiver using a long copper wire as the "absorber". Someone asked what would happen if they touched the wire. Dr. Moray said that the lights would go out. When then asked whether this would cause shock, they were informed that it wound not. 
+
+      
+Currents from the receiver produced strange optical phenomena. Photography became very difficult when using the light from lamps lit by the receiver's output. Large dark spots blacked out most of the photographic detail immediately over the lamps, while the surrounding dark spot boundary gave a sharp clarity. This clarity was a visible effect, persons noting the stark details, which these lamps conferred throughout their surroundings. In addition, these dark spots had defined diameters, extending beyond the lamps perhaps only half a foot. 
+
+      
+The dark spot phenomenon was anomalous because the actual light radiated by the lamps photographically extended beyond the dark spot. Rooms photographed by these lamps were awash in foggy gray regions, which seemed to hover in mid-air near people. While the fogging effects were captured on film, no such phenomena could be visibly detected. Fogging could be explained if invisible ground-sourced arcs were discharging from the device into the open air surrounding the receiver. Careful examination reveals that this is so. 
+
+      
+The dark spot, which surrounds the receiver, is a "brush like" discharge of a very special energy. It extends in a confined perimeter surrounding the receiver. The ground connection seems implicated in this process, identical radiant black discharges having been observed in grounded radionic tuners. Dr. Moray understood that his energetic "waves" were incredibly small impulses of enormous power. Was the earth capable of receiving, sustaining, and vibrating back such gamma ray impulses? Was the earth the absorbent medium, his mineral being the converter? New theoretical analysis was demanded by these penetrating questions. 
+
+      
+Motors, rebuilt to accommodate the energy supplied by the receiver, ran at extremely high speeds. They, like the lamps, also ran "cold". Dr. Moray reported that when they ran in the dark, they were surrounded by a violet corona. The paradox in these matters came when the current was applied to ordinary resistive heating units. When properly resisted, the currents produced heat. Dr. Moray showed this effect in ordinary electrical floor heaters, which became red-hot. In his numerous public and private demonstrations, Dr. Moray showed that the energy receiver could light conventional lamps, rewired motors, and power heaters. 
+
+      
+In the largest COSRAY receiver, Dr. Moray successfully converted cosmic rays into fifty kilowatts of electrical energy. 
+
+      
+Part of his lost art, which made this fifty-kilowatt radiant receiver possible, was a special "stage-by-stage" amplification. It was by this staged reception and amplification (quoted as his "bucket brigade" amplifier) that all the received energy was handled, being absorbed among several simultaneous channels and "spread out" into one energetic flow. 
+
+      
+Dr. Moray described his multiple staged process as one by which "a small spark was expanded into a bonfire". The radiant energy from space was received through ultra-pure Germanium, whose cosmic ray response came through "seven window frequencies". The Germanium had to be ultra-pure, since contaminants (arsenides) would absorb and block released electrons of the photonuclear reaction. When measured in the laboratory, each tube measured the unheard capacity of one Farad! 
+
+      
+Dr. Moray, a remarkably gifted electrical engineer, necessarily redesigned power transformers to efficiently handle the excessive voltage from his receiver. A peculiar "step down" process simultaneously involved both an impulse decrease and a voltage decrease. This, achieved through successive transformers stages, successfully brought down the rapidly impulsing high voltage into a low frequency high-current state. The developed currents were definitely not simple electron currents, since they failed to operate conventional motors without rewiring, and operated heavy amperage appliances without heating. 
+
+      
+No professional investigator was ever able to comprehend the operation of the Moray device in electrical terms alone. While the attributes of currents derived by the device seemed electrical, their overall effects were decidedly of a different nature. Physicists continually pressed Moray to repeat his explanation of his principles, hoping to get more information on its secrets. The device, so obviously successful, was a true engineering anomaly. In fact, presentation of the device was a "moment of truth" for many. How very fortunate these men were both to have met Dr. Moray and to have personally witnessed the operation of his receiver! 
+
+      
+There were those colleagues who were each genuinely thrilled by his discovery. Some postponed judgment on their assessment of the device, declaring that the actual operation might depend on some new "battery" effect. Chemical actions in the detector tube, they said, might be causing a temporary strong emission of energy. Only a timed test of the detector would prove this out. If there was such a chemical explanation for the tube performance, then time would show a gradual waning of energies received. The engineers were very anxious to see this test performed. It would necessarily be conducted in a "sealed" enclosure. They quickly added that such a possibility, while detracting from the lofty concepts expressed by Dr. Le Bon, would be noteworthy enough if found true. 
+
+      
+This devalued critique revealed a curious ignorance in so-called professionals, whose reputations were more highly prized than the "moment of truth" which had arrived. Moray insisted that the device relied not on any battery action, but on receptive sensitivity to the suffusive "sea of radiant energy". There were other protocols and agendas within each of these tests of course. There were those whose fears were being continually confirmed with each successful test. These individuals reported back to their superiors, confirming the potential threat of the new technology. 
+
+      
+Moray patiently obliged all of the scientific seekers during these new public tests. The improved device was repeatedly taken out beyond the inductive limits of power lines, into remote desert areas. Grounds were driven deep, the aerial was erected, and the device was tuned. Once power appeared, the system was sealed and left alone. Four, five, seven days ... time mattered not. The radiant energy device continued operating. No one ever mentioned the excessive heat, which should have come from the sealed trunk, were the current an ordinary electrical variety. No. Instead, the device ran "cold". 
+
+      
+Certain academicians, fearful of what his discovery meant for existing theory, took him to task on both his methods and theoretical assertions. If it were possible, these professorial committees might have convinced even Moray that his device "didn't work because ... it shouldn't work". Academicians now wished to study Moray's diagrams and materials "on their own". He freely gave them all the pertinent drawings and diagrams concerning the device, but never parted with his original Swedish Stone material. This was secretly and safely locked away from imminent theft. 
+
+      
+These professionals, eager to "get their hands on the gadget" cited Moray's "paranoia" as proof that the device was a fraud. Governmental monopoly being the theme of that time period in America, the extent of a highly coordinated "daisy chain" would now reveal the true extent of its boundaries. The REA was constantly intercepting Dr. Moray's grant proposals through professional individuals who were connected to nationwide REA activities. These frustrating occupations stalled the development and proliferation of Radiant Energy technology for two decades, while justly deriving no commitment from Moray. 
+
+      
+Wishing now to simply publish his findings in the professional journals, he found that "obtaining permission" to do so would "necessarily" come from University authorities. Opposition now came from University bureaucrats who "refused to handle" the information. The very individual who previously congratulated Moray for "having achieved the impossible", now wrote damaging letters to the very agencies from which Moray hoped to receive funding. Declaring that Moray had "not sufficiently proven the validity of his claims", these letters seemed to be appearing in every energy-related government office long before Moray's formal proposals arrived. 
+
+      
+In an aggravating display of smug arrogance, academes began to play the "word game" with Moray. It apparently was expedient to prove that the device did not really work! Physicists examined his reports and plans, returning indefinite conclusions. These non-committal verdicts so enraged the patient Moray that he decided to take his material directly to the government institution, which would grant him exclusive manufacturing rights to his designs. If no one else was interested in the discovery of the century, then he certainly would undertake the manufacture and distribution of COSRAY receivers if need be! 
+
+      
+The next step was to obtain a patent. In 1931 he decided to assail the patent office with numerous applications. Basing his patents on several different claims, he had hoped that at least one application would be accepted. True to the formula, each such application was returned without explanation. Each was stamped with the official "REJECTED" seal. No title, treatment, or adjustment, which he made ever, seemed satisfactory to the Patent Registry. After this obvious stall action was repeated far too many times to recount, he reached for his last ounce of patience. Trying to take opportunity from the words of those who once sought to diminish his discovery, he inwardly cringed and wrote what he considered his "very last application". In this, he cited the operation of the device the result of a "new battery action". He thought that, should the patent court officers not officially recognize the validity of his past descriptions, they would at least grant patent licensing on this descriptive basis. His firm resolve was to stop applying, a costly process, until the obvious shady identities behind the patent rejection process clarified themselves and came forward. 
+
+      
+Interceptions at a high level were preventing the proliferation of his revolutionary technology. In fact, coupled with academic cooperation, no journal would ever publish his data. In effect, no one would ever hear the very existence of the Moray device. If possible, no information would ever escape from the inventor's own immediate neighborhood. Isolating and imprisoning the inventor to small town perimeters became the new regulatory device. 
+
+      
+The Patent Officers rejected his last claim, churning out the response, which he also expected. Clearly, there was more behind this merry-go-round behavior than a simple misunderstanding of technical descriptions. He was being stalled for very deliberate reasons. There was no hope of making the Patent Court accept his findings. His was a "no win" situation. Utilities, engineering groups, university personnel, publishers ... far too many agencies had already visited the Patent Officers with connections and claims of their own in the matter of Dr. Moray. 
+
+      
+Thereafter, he permitted numerous repeat examinations by those who obviously believed him to be a fraud, but eventually lost patience with the skeptics and critics. Here was proof of an enormous phenomenon before their very eyes and all their professional expertise could manage was doubt! Dr. Moray could not waste time with them, moving his research into new avenues and applications. There were many associated phenomena he would discover while experimenting with the Swedish Stone. But social pressures would now seek to divide his time, and far worse. 
+
+      
+
+      
+
+      
+
+      
+ 
+SOCIAL CRUCIBLES 
+
+      
+
+      
+This phenomenal activity eventually attracted the wrong kind of attention. Of course the radiant energy received by his wonderful mineral was absolutely free, and everywhere plentiful. Its industrial proliferation would trigger a revolution in the power and light utilities around the world. This possibility was not the favored topic of discussion among the local boardroom members. During the Depression, the REA (Rural Electrification Association) was anxious to "addict" as many isolated rural families as possible to the utilities. Forcing such people to accept the electrical utilities may have been "security" for those whose patronage was buying out the government. 
+
+      
+Depression was long and hard for all working class Americans. It was difficult to imagine that the upper class was moving into newer investments and higher ideals, while millions of children were starving. Therefore and unfortunately, socialism was the attractive dream of many disgruntled Americans. In those days a seductive utopian dream of economic equality, socialism had none of the negative connotations, which are associated with Stalin and the Cold War. The Soviet Union was simply and naively viewed as a land where workers were all equal, moving corporately toward a common ideal. 
+
+      
+To starving, jobless Americans who watched the rich driving through town in expensive cars, socialism was the war cry of the times. But this, of course, was the "party line" with which socialists drew outsiders in. Daniel and John Magdiel, close friends of Dr. Moray, had become members of the Communist Party. Having gained reputation as American Communists, they independently decided to "help" Dr. Moray. Perceiving that their friend was being stalled by the industrialists for good reasons, they decided to take his "cause" to the Russian Government directly. 
+
+      
+In 1926, Daniel Magdiel traveled to Russia with this in mind. The naive plan was to interest a nation whose policies on new technology were "unregulated". The story of Dr. Moray now took an unwilling turn in a direction of political intrigues. Among the many academes and industrial officials who visited Moray, one individual was distinctly not an American citizen. Colonel Yakavlev, an official of the Communist Party, was a representative of high esteem in Russia. He kept his fanatical devotion hidden deep within a smiling exterior, while shopping for new technology. 
+
+      
+The American Government was so busy eradicating and regulating new technological developments on behalf of its old family patrons, that it did not recognize a vulnerability to foreign privateers. The naive academes and industrialists who attended Moray's exhibitions did not restrict Col. Yakavlev, seeing in him no potential future threat. Military interests would gradually be attracted, but only after this foreign presence expressed interest in Moray. Superficial liberty is seductive. Obvious when Moray was imprisoned in his own neighborhood by resistive industrialists, the determination to block the Radiant Receiver was a foregone conclusion. 
+
+      
+The indifference to revolutionary ideas has repeatedly proven deadly. And the regulation of revolutionary ideas is deadly. The ideal of a new and better world condition completely escapes the urgent pursuit of governments. Governments frequently act only on behalf of their controlling patronage, an old and traditional reflex. In this instance, the successful military penetration of the national interior by a "vacationing" Soviet Colonel was inadvertently made possible because of economic depression. 
+
+      
+Had American investors seized the Moray system and implemented it, their fortunes would have been unlimited. What now occurred "looked very bad" for the inventor in the eyes of later investigators? In 1929, Col. Yakavlev invited him to New York. There, the two men were to meet with "superiors" at the AMTORG Trading Mission. Moray found himself, however, in the offices of General Electric. Meetings occurred after work hours in secretive fashion. Moray did not like this one bit. He left New York abruptly and returned home. 
+
+      
+Daniel Magdiel contracted with Dr. Moray to construct a large and completely equipped research laboratory in Salt Lake. Moray was so pressed for capital to develop his technology that he accepted the grant from the young Soviet Union through his friend Daniel. Moray performed research with absolutely no political consequences in mind. He simply needed the money. Daniel Magdie later moved to Mexico in 1952 for obvious political reasons. By 1933, foreign nations were not the only ones interested in Dr. Moray. Government "regulatory commissions" on electrical utility were the very first to plague Moray. 
+
+      
+Contact between the Rural Electrification Association and Dr. Moray began in 1939, with the approach of several officials. Mentioning that Daniel Magdiel and the REA Administration were "going to have a meeting", this individual brought several engineers along. Suddenly, interested parties began arriving at Moray's laboratory. The REA called in a "scientific expert" who, in a very short span of time, attempted to both destroy the receiver and eradicate Moray. 
+
+      
+While entering his darkened laboratory, Moray was actually confronted by gunman. One of this company of assassins was the "scientific expert" sent by the REA. A scuffle ensuing, guns were fired among both assailants and Dr. Moray, their intended victim. Moray drew his revolver and fired back with unerring accuracy. They never again harassed Moray, although a "liquidation" threat was made by a government agent in the hearing of young John Moray. Agents were continually harassing Moray to "come back to the work or face the consequences". Moray had anticipated death threats, having replaced all the car windows with bulletproof glass. He continually carried his own revolver. 
+
+      
+These more visibly honest expressions of vehemence stand as warnings. Those who will continue imagining that government bureaucracies are legitimately interested in democratic ventures are gravely mistaken idealists. Doubt, anger, and murder. These three proceed from the heart of the fearful, propelling the self-destructive "conspiracy" of human nature away from the ideals. Away from wonder. Away from the lost and glorious world. 
+
+      
+
+      
+
+      
+
+      
+ 
+SOCIAL TOUCH 
+
+      
+
+      
+Retrieved patent applications of Dr. Moray have been closely examined. The examiners rejected claims for the radiant energy receiver despite the working model and the statements of credible witnesses. Apparently there are times when demonstrations and working motors are not "sufficient proof' in the Patent office! The technical basis of rejection was a mere semantic tool used to keep the device out of the industrial complex. Examiners claimed that current could not be developed in his device because it "ran cold". How curious that several crystal radio receivers were given license that year. These sets "ran cold"! Either the examiners are not sufficiently educated or quite aware of the annual agenda ... as it alternates from year to year. 
+
+      
+Though Moray's own patent was never granted, it is most curious that another virtually identical application appears in 1926. Patent 2.032.545 by H.B. McElrath antedates that of Moray, and is virtually identical to it! Complete with a working model, this five-stage amplifier utilizes special radioactive minerals to operate phonographs, public address systems, as well as radio-television receivers. Output volume is strong. The device can amplify radio and phonograph signals without the application of external energy, and requires no tube replacements. 
+
+      
+There are several other examples of these patents, which have been retrieved, the McElrath system not being the only one to emerge during that time period. Several inventors (Blackmore, Hubbard, Winkelman, Ainsworth, Burke, Farnsworth, Hart) developed remarkable energy amplifiers and electrical sources, which implemented small amounts of, unrefined radioactive materials. What is more remarkable is the cavalier manner in which the McElrath patent and others, though licensed, never reached the consumer market. None of these patented devices were ever mass-produced. After studying sufficient numbers of such patents, one realizes that corporate connected regulators and examiners established an active search for all emerging energy devices. 
+
+      
+All patents having to do with free energy are purposefully blocked from reaching social scales of proliferation, as is evidenced by the great number of patents which never reached the market place. All we have are the official documents, proof that the designs both really existed and that they were successfully operated as described. Certain principle authorities of the University were given a folio of drawings and notes by Dr. Moray in confidence. The drawings surfaced years later, when Bell Laboratories patented their "transistor". The very same designs. Transistor development was the direct outgrowth of Moray's research, being directly derived from his own early models. Improbable? The attorney in charge of Bell Laboratory transistor patents was the very same person who handled the Moray patents. 
+
+      
+Dr. Moray maintained his own research laboratory throughout these years, working as a consultant for the radio industry. Various radio companies employed his expertise in the design and manufacture of superior vacuum tube receivers. The golden age of radio saw notable developments in circuit design by Moray. Working for E.H. Scott Radio Labs, he pioneered the development of their famed "Philharmonic", "Imperial", and "LSB" receivers. These chrome-plated grand consoles produced an uncharacteristic "velvety warm" AM and Short-wave reception which sounded like PM. 
+
+      
+The notably unusual Moray radio circuits made possible the reception of small stations as far away as Antarctica! On one occasion witnesses clearly heard Admiral Byrd broadcasting from "Little America". Company brochures and journals show Moray and E.H. Scott in Scott's industrial radio laboratory. Later specializing in the design of efficient vacuum tubes and vacuum tube circuitry, it was not difficult for Dr. Moray to find numerous such consulting positions. When Moray went to work for Hammerlund Industries, he developed their "Super-Pro" series. The clarity achieved in these designs was reminiscent of sounds heard through crystal radio receivers. 
+
+      
+Employing principles learned through his work with the Swedish Stone, he designed true cold cathode tubes. In these, radioactive materials were used in place of thermionic cathode emitters. Applications of these tubes for continuous high-output operation were employed in military designs. Dr. Philo T. Farnsworth independently developed numerous such radioactive cathode tubes during the same time frame. His cesium coated "multipactor" design is a pure photonuclear reactor whose anomalous outputs baffled radio engineers of the day. 
+
+      
+Dr. Moray's talents were admired and sought by numerous radio companies. He helped the Fisher Radio Company by designing the famous Fisher Model SO stereo amplifier. All of these designs built by Dr. Moray had characteristic coil structures in which signals were very efficiently built up to maximum volumes through successive stages, a development learned through working with his radiant receiver. 
+
+      
+Among fellow engineers and technicians he managed to find several warmhearted persons who perceived genius in this gentle man. Gaining their confidence, he invariably discussed his notions of the "sea of energy", always arousing intense excitement. No one doubted his words or his claims. No one qualified his statements. He was respected by all with whom he came in contact. Friends were completely convinced of his claims. Their friend and colleague had a world-revolutionary discovery, a discovery that would change society completely. 
+
+      
+Whereas professorial concerns balanced empirical fact against dogma and patronage, Dr. Moray found opened minds in the nation's industrial workshops. This was his first best clue about truly influencing the scientific community. Thereafter, his approach maintained this personal touch. Numerous lectures were given concerning radiant energy and the possibilities of employing radiant energy principles. No doubt Dr. Philo Farnsworth, a young man living in Salt Lake City at the time, read of these early talks. Both men independently pursued similar inspirations. 
+
+      
+
+      
+
+      
+
+      
+ 
+FUTURE TECHNOLOGY 
+
+      
+
+      
+Besides the principle radiant device, his power receiver, Dr. Moray demonstrated several different wonders over a period of many years for countless witnesses. Visions of the future, several thousand persons witnessed these remarkable technologies, whether during birthdays, barbecues, prayer meetings, or formal and informal lectures. Hosts of neighbors, relatives, friends, and guests each beheld the full range of his liberal hospitality in these regards. 
+
+      
+Dr. Moray never stopped discovering the remarkable new properties of the Swedish Stone. He generalized the principles learned from Le Bon's original thesis, developing revolutionary applications of photonuclear reactions in other materials and chemical compositions. Three distinctly different applications of the general principle were produced over the years following his original discoveries. 
+
+      
+The first of these was an accidental effect, found during his experiments with the radiant receiver. This strange discovery manifested while attempting to "tune" the Stone with an early-grounded radio receiver. He found to his very great amazement that he was tuning, not radio stations, but local neighborhoods! Headphones attached to the device produced a world of local sounds where no microphones were present. The sounds he heard were human conversations and common workday sounds. Tuning into these eerie vocalizations, he eventually traveled to the very spots and identified the very voices and sounds heard from so very far away. The device was no microphone. 
+
+      
+Sealed in a bell jar, its connections were solidly drawn under the bell to outside headphones and ground. Tuning mechanisms were all housed below the thick glass tank. It has been reported that this function would only work when the Moray "tube" was pointed at the ground. Several photographs show this mysterious "secret listening device" or "sound pickup device". 
+
+      
+Dr. Moray displayed the listening device for family, students, engineers, and friends alike. Each was able, with unerring precision, to locate the neighborhood spots into which the device had penetrated. It was imagined that this device received sonic vibrations in the radiant envelope just at ground level. Tuning with the device permitted a strange "lateral ground sweep" of this envelope. 
+
+      
+In one demonstration, two headphones were connected to the device. Once tuned, Dr. Moray handed the headphones to two different persons. Three others were asked to go out in front of the house and carryon a conversation. Dr. Moray said that they would be tuned to the three individuals. Upon listening at the headphones, the conversation was distinctly heard. Each listener could clearly distinguish who was speaking. In addition, the sound of rain falling on the pavement was also clearly heard. During this demonstration, one of those listening decided to "tune in" for himself. One turn on the sweep knob, and the amazed younger listener began to hear other conversations and sounds. He later wrote that he distinctly heard the whistle of a train, the voice of a stationmaster calling out "all aboard", and other simultaneous conversations. He identified the sounds coming from the local railroad station ... more than five miles distance from the tuning site. 
+
+      
+During this entire demonstration no one carried an external transmitter. The doubters were all put to silence when the young man mentioned what he heard from the railroad station. No one at the railroad station was carrying any kind of transmitter. Sweeps could be made of the entire surrounding area by turning the dial. How this is possible challenged the very heart of electrical science. Questions concerning the basic notions of earth energy were asked. 
+
+      
+How were these distant living sounds being derived from a ground wire? 
+Did the sounds associated with human activity somehow have a "biological" effect on the radiant energy environment? Government agencies were most interested in these devices. Years after his unfortunate experience with the REA, Dr. Moray took the listening device with him to Fort Monmouth (New Jersey) Radio Signal labs in 1950, where he developed the system in a top secret government research project. He rarely mentioned the device again. 
+
+      
+A second most amazing area of discovery, which Dr. Moray engaged, concerned therapeutic ray-devices. After working with his radiant energy receiver Dr. Moray began noticing radium-like burns on his hands. In an effort to cure his own problems, he delved into the mysterious surrounding biological healing. Radio frequency stimulation of the body was often used to speed healing process. Broken bones evidenced a rapid repair time when exposed to certain radio impulses. Cuts, bruises, and some burns were also healed by the use of specific radio impulses. 
+
+      
+Dr. Moray then studied the use of various radiant therapies, with particular regard for radium and cobalt therapies. He determined that, while each of these methods had their specific effect and use, a more penetrating radiation would outperform all of these systems. He began experimenting with systems of his own, developing several remarkable tubes for the projection of rays. During the research he had found that certain ray energies could enhance tissue repairs without harming the body. He now applied the theory of Le Bon, intent on producing novel and unknown rays through photo nuclear reactions. 
+
+      
+He arranged specific elements and radioactive composites in low-pressure gaseous tubes. The idea was to stimulate a near aetheric disintegration of matter, releasing deeply penetrating radiance, which was far less energetic than gamma rays. Near light like emissions was his goal. 
+Tesla generated these in high vacuum tubes with carborundum buttons. The light from Tesla's tubes provoked physiological stimulations of a healing variety. After a thorough series of experiments, he wrote several articles on the subject. In his short treatise on "Alpha, Beta, and Gamma Ray Therapy" he wrote: 
+
+      
+"Because the fundamental radioactive process does not originate in the electronic structure ... on the surface of the atom ... but in the center of the atom, deep therapy is possible over a long time period...". 
+
+      
+Dr. Moray developed and used his special "ray applicators" with the deepest conviction that their penetrating powers would render therapy without damage, himself having been the living proof. The theory behind his devices was profound. Learning the radiance emitted by tissues during self-repair, he could apply the same radiance artificially to stimulate repair. Light-like penetrations could stimulate deep tissue healing with specific precision if made gentle enough. 
+
+      
+"These rays will penetrate one half inch thickness of lead ... and yet they will not injure healthy tissues because of the internal "phantom" characteristics ... and the nature of the active material used...". 
+
+      
+These mystifying statements indicate the revolutionary nature of the Moray therapeutic devices, large bell-shaped tubes and blown glass containers (patent 2 460.707). Careful study of this design reveals four distinct ray tube forms and several possible variations of each. His therapeutic ray tubes utilized a variety of gases and radioactive materials in judicious proportions and combinations. 
+
+      
+With these devices and others like them, Dr. Moray now freely investigated the strange world of gamma and "Aether ray" energies. Taught in science classes as deadly, Moray found out that gamma rays could neutralize the radioactivity of natural ores and perform other wonders. 
+Remarkably, these patents were granted. There are those who yet declare that Dr. Moray revealed the secret of his radiant detector in this patent. 
+
+      
+According to reputation, exposure to radiant output from these Moray ray tubes was non-hazardous and "thrilling". Some of these devices employed windows of quartz or of ruby glass to project the rays. Output from these large bell jar tubes is body-permeating, made to invigorate the entire being. Their stimulating and refreshing influence reportedly produced an invigorating response similar to intravenous injections of vitamins (Bearden). 
+
+      
+The YAROM tube ("Moray" backwards), is a blown glass device which is not unlike a cylindrical Zworykin iconoscope tube (Lehr). Electrically activated by 250 Kilovolt impulses, electronic currents are directed toward a strangely configured multi-staged target of unknown compositions. When operating, the device releases a soft, healing pink light. This permeating light appears within tube, easily traveling through the blown quartz walls to the outside air. Hands can block the light, but longer exposures prove their permeating effects. Moray claimed that these rays originated deep within atomic nuclei. 
+
+      
+Exposing various materials to the output of this comparatively small ray-tube, Dr. Moray found it possible to stimulate the growth of crystals and metals. The divided gold content of mining soils were actually made to "grow" by exposing them to specific gamma rays. This led to other more dramatic research objectives, his third revolutionary development. 
+
+      
+
+      
+
+      
+
+      
+ 
+ENERGY INTO MATTER 
+
+      
+
+      
+By 1961, Dr. Moray was describing a means by which received radiant energy could be "directed anywhere", an obvious reference to a new development. This would have coupled his radiant energy receiver with the ray tube applicators. 
+
+      
+His principle forte being metallurgy, Dr. Moray applied his knowledge to various related fields of study; crystallography, metallurgy, and radiant energy. Comprehending these principles very thoroughly now, he was able to "design" crystalline and metallic compositions whose response to radiant energies, whether natural or manmade, would produce specific radiant products, whether special rays or particles. 
+
+      
+In addition to the use of crystalline materials in absorbing radiant energy, Dr. Moray explored the possibilities of converting rays directly into matter. His experiments in these regards received notice when, in 1965, he addressed the 68th national Mining Conference in Denver on the subject of transmutation. Originally begun in 1945 as a method for raising the yields of soils taken from gold mines, Dr. Moray rented and employed a linear accelerator at high personal cost. The accelerator, rented from VARIAN associates, obtained very specific energetic electrons for his process. 
+
+      
+Exposing various materials to the output of this particle accelerator, Dr. Moray found it possible to stimulate the growth of crystals and metals in these tailings by special treatments. This process closely followed his work on tissue curative rays, an obviously analogous theoretical development. John Moray's statement went as follows: 
+
+      
+"... the process we have described is in reality a crystal growing bath, activated by irradiation. As the gold atoms come into being by transmutation, they become' gregarious', resulting in the crystal formation. From this observation there is every reason to suspect that low-grade ores and mine tailings provide, not only seed for crystal growth, but also a nuclear environment which is well advanced, or uniquely favorable for the formation of the precious metals by ... transmutation...". 
+
+      
+In a rare and amusing episode, Dr. Moray found that the scant precious metal content of mining soils were actually made to "grow" by exposure to specific electron energies. Gold, silver, and platinum micro-crystals were found throughout these "tailings", but in widely scattered "seeds". These rays experimentally demonstrated ability to cause the "organic" growth of tiny gold crystals scattered throughout these soils. Processes developed by Dr. Moray included mixing the tailings in numerous chemical baths. 
+
+      
+His numerous references to the "reagent" and the "environment" indicate that these "catalysts" were the most important feature of his process. The lumpy clay like slurry was poured into large disc-shaped molds of varying depth. These were exposed to electron bombardment on a conveyer belt system made entirely of wood and resins. There were significant "interferences" whenever plastic or metal (especially copper) was employed in the ray chamber. 
+
+      
+Early experiments required the "aging" of slurry mixtures, an essential feature of the process. Later statements indicated a new success. With special improvements in catalytic solutions, Moray found it possible to mix the slurries and expose them directly to the rays without "aging" them. He mentioned that the cost of these solutions was not more than fifty dollars per one hundred gallons. 
+
+      
+Gold obtained from this 8 million electron volt LINAC system was efficiently produced. But Moray wished to boost this efficiency beyond all expectations. He therefore began to study transmutative reactions within the slurry with greater attention. When it was found that particle bombardments were often not consistently flowing through the samples, Moray designed a special "resonant chamber". This "undulated" with the incoming blasts, producing incredibly high yields. He measured their ability to transmute in terms of cost. Total yield versus total cost. 
+
+      
+
+      
+In tailings, which initially assayed at 0.18 ounces Au per ton, the resulting yields were often as high as 100 ounces of gold and 225 ounces of silver! Moray estimated from his results that increased gold percentages ranged between 107 and 329 percents! Once exposed to these electron blasts, the mildly radioactive buttons necessarily had to "cool down". These buttons were then treated with gamma rays. This "treatment" rendered them "neutral", Moray having discovered how to denature radioactive matter. These de-natured ore samples were sent to assay offices and analyzed. Their yields confirmed by chemists, Moray proceeded with the manufacture of gold for a time. He then turned his attention on the possibility of raising the levels of weak uranium deposits by his method. The results of these experiments were classified. 
+
+      
+
+      
+It is said that he later designed a small system of his own for the production of gamma rays in prolific quantities. Designed and operated along parameters, which embodied his rare knowledge of rays and metals, these were implemented in the gold-growing process with greater success. The use of gamma ray fluxes greatly outdid the performance of cumbersome LINAC devices, which were more costly to operate and maintain. Dr. Moray employed radiant bombardment in a special element transmuting process of his own design. 
+
+      
+He produced coppers and leads having astounding refractory qualities. Impossible to melt below two thousand degrees Fahrenheit, the lead was the wonder of every metallurgist who received his samples. His coppers were so strong and heat resistant that he employed them as bearings in his high-speed motors. An undisclosed alloy, made by the Moray process, could withstand twelve thousand degrees Fahrenheit without melting. W developed extraordinary metals and alloys. 
+
+      
+
+      
+
+      
+
+      
+ 
+MYSTERY MINERAL 
+
+      
+
+      
+Dr. Moray continued researching phenomena which the Swedish Stone produced, but recognized that he would eventually "run short", having used so much of it in his past experiments.
+ Multiple staging in his last few designs required much of the material. Realizing that his progress toward industrial aims would rely on the artificial synthesis of the mineral, he therefore subjected the Swedish Stone to a complete microanalytical profile. 
+
+      
+Dr. Moray considered that, perhaps only specific chemical parts of the mineral were the real "active" components. In addition, perhaps also there were also components, which actually limited or "blocked" the photo-reactivity. A synthesized compound would eliminate the blocks and maximize the activators. Far more power would then be received and converted to usable energy. Nominal sized COSRAY receivers could theoretically produce giga-watts of electrical energy. 
+
+      
+For a moment he considered that, perhaps nature had achieved what could not be humanly achieved. In this case, he knew where to obtain the mystery mineral again in large quantities. Himself an excellent metallurgist, he eventually succeeded in synthesizing his rare material in a laboratory furnace. Moray mentions that it was only after synthesizing the material that he realized the rarity of his original find. 
+
+      
+We do not know if Dr. Moray improved the material beyond the Swedish Stone composition. What we yet know of this synthesized material is that its primary ingredient is ultra-pure Germanium. Dr. Moray constantly complained to chemical supply houses that their Germanium was "not pure enough". Germanium is derived from euxenite, argyrodite, and germanite. Of the three, euxenite contains radioactive elements and several rare earths. Euxenite decomposes into [Y Er Ce Ti Nb Fe U 0], Argyrodite into [Ag S Ge], and germanite into [Cu Ge Ga]. 
+
+      
+Dr. Moray determined a small radioactive content in the Swedish Stone (Lehr). The various "doping" materials in his synthetic mixture include zinc sulphide, iron sulfide, bismuth, and three other secret elements in "combination". These latter chemicals were never known by outsiders, but have been revealed as a combination of thorium, caesium, and radium sulphide. 
+
+      
+Careful analysis of these materials, with sensitive attention to their combined functions, was achieved several years ago by an extraordinary electrical engineer and visionary (W. Lehr). His conclusion is that the Moray component is a photobiased diode, which is sensitive to a specific resonant series of signals. Beginning with the X-band, and increasing through to the gamma ray series, the Moray device is a high frequency band-passing gate. A non-rectifying diode. The system responds to specific incoming signals as well as those, which are "transduced" through the radioactive materials, which are included in the mixture. 
+
+      
+It has been hypothesized that the Swedish Stone was rare variety of the mineral Spodumene.
+ Spodumene grows in gigantic crystals, some of these measuring in excess of forty feet in certain locales. Brilliant pink or white, its crystalline surface is smooth. When fractured or crushed, it becomes a smooth silvery white material. Large Spodumene deposits are found in Sweden. Spodumene decomposes into [Li Na Al Si 0]. 
+
+      
+
+      
+Spodumene 
+
+      
+Whether his Spodumene sample contained Germanium, we will never know.
+ Perhaps his knowledge of the Le Bon photoreactions permitted the design of a distinctly new radiant-receptive mixture. It is not generally known what, in fact, is being done with the material and the detector. Some have suggested that 
+Dr. Moray may have destroyed the essential parts of the device. Those who worked with Dr. Moray attest to the absolute validity of his claims. Each witnessed the operation of the radiant energy receiver. Each comprehended somewhat of its essential secrets. Each attempted in some small manner to duplicate these findings. Each subsequently developed certain designs, which demonstrated varying degrees of success in releasing anomalous outputs of electrical energy. 
+
+      
+
+      
+Moray Valve
+
+      
+True to the archetype of discovery, this is not the only time such a mineral has appeared during this latter part of our century. In another rare documented instance of haphazard discovery, 
+Arthur L. Adams, a retired electronics engineer, claimed to have discovered a smooth silvery gray "electroradiant" mineral in Wales during the 1950's. He found the mineral with a device of his own design. When fine wire contacts touch the mineral surface, high voltages are produced. They are strong enough to constantly sustain a sizeable current in an external load. 
+
+      
+This mineral (Adamsite) produced prodigious amounts of electrical power in proper circuit configurations. When sliced into thin layers and stacked among metallic contacts, the power output is greatly magnified. When dipped into water, the output increases. When the stone is then removed, the water retains an ability to produce electrical power for hours. 
+
+      
+British authorities managed to seize the material and all the inventor's research papers, claiming to be studying the material for "future social distribution". We are not likely to see this mineral from the British Government (or any other government) until a social change is demanded. 
+
+      
+Other energy-receptive devices, which use electroradiant minerals, have appeared this century. Devices built by several different inventors supplied enough power to light their own homes for years after disconnection from the power utilities (Amman, Molinet). 
+The device by Amman (1930's) used special "chemicals and minerals" in conjunction with electrical capacitors. With this device it was possible to operate an entire household worth of electrical appliances. A subsequent development proved that the device could power an electric car indefinitely. 
+
+      
+More recently, an amazing example of this technology has been produced by Gene Molinet in 1982. His development was the result of an astounding observation made while repairing an airplane radio. Removing a crystal component, Mr. Molinet received a heavy shock. He then undertook a complete study of crystals and magnetic fields. His device was observed by an electrical engineer who reports that it somehow utilized Galena and magnets in specific spatial relationships, requiring a firm ground connection for its successful operation. 
+
+      
+
+      
+
+      
+
+      
+ 
+ENDLESS LIGHTS 
+
+      
+ 
+Numerous voices throughout the years have expressed desire to reproduce the effects obtained by Dr. Moray. All are after the missing "Stone"! This is certainly one of the most tantalizing mysteries in the annals of lost science. Many opinions have been tenaciously held by researchers concerning the means which Dr. Moray employed in his COS RAY receiver. We also find a great many theoretical propositions and equally as many technical approaches in this quest. 
+
+      
+
+      
+There are indeed several major problems, which face those who wish to probe the Moray mystery. There are also several related discoveries of importance help in clarifying our perspectives in these regards. In addition, there have been a significant group of researchers whose work, in combination, reveals the most probable explanations for Dr. Moray's remarkable achievement in radiant energy reception. 
+
+      
+The logic trail shifts with the findings and moves with the conclusions. But the rewards for society are great, provided one can match an empirical demonstration with the theory. Above all things, we must not imitate those whose fixation on textbook-approved conventions lead into blind alleys. Building and toppling our house of cards is not frustrating for those who thrill to this quest. 
+
+      
+It is imperative that, when academic conventions fail to supply adequate conclusions, one must actively exercise human meta-cognition over statistics. The prerogative to choose alternative possibilities. To look outside "the facts", and look around "the barriers" of dogma. Therefore this short section will serve to air some of the many ideas historically offered in explanation of the COSRAY detector. The goal, we remember, is reproducing his results. The reward is benefiting humanity with an energy revolution. 
+
+      
+In the absence of hard empirical data, the search for the Moray detector is very much a process of eliminations! When considering the available radiant energy of the natural environment, one is faced with remarkable contradictions. These contradictions, however, may not invalidate the obvious demonstrations, which Dr. Moray engaged. Researchers have studied a short-wave radio phenomenon known as "bursters" and "drifters". The "bursters" come as short but transcendently powerful electrical signals. 
+
+      
+Radio "bursters" remain in one frequency, pouring all of their power into the receivers which entune them. They seem to "stand in place" in a columnar manner, growing in strength with increased time. When once entuned, the small input seems to attract all the available incoming energies until the receiver can no longer handle the power. Bursters destroy receivers and perform other strange electrical feats. "Radio-drifters" are related to bursters, differing only in their frequency "drifting" nature. One investigator has judged the actual energy content of radio-drifters as exceeding a megawatt (D. Winter). 
+
+      
+Evidence of staggering incoming power, the energy of the drifter is difficult to explain with conventional theory. Recall that Dr. Moray first became aware of the power potential in space energies while employed by the Telegraph and Telephone Company. His extensive preoccupation with the "ocean like surges", heard through the long lines in headphones, prompted all of his successful research. There are those who therefore believe that Dr. Moray was tapping the energy of the potent auroral electrojets, which constantly surge in the ionosphere above us. They therefore do not cite cosmic rays or any such radiant sources in explaining what Dr. Moray "realistically achieved". 
+
+      
+These researchers believe that his discovery of the Stone provided a material, a semi-conductor, capable of very high frequency avalanche conduction.
+ The very high voltages, instantaneously released in substantial capacitances such as telephone lines, were capable of flowing through an external circuit to power several appliances. In essence, they believe that the Stone permitted the construction of a high frequency diode having solid-state negative resistance (Lehr). It is a common observation that certain impulse energies cannot "pass" through silicon diodes, while effortlessly finding conductive passage through Germanium diodes. 
+
+      
+His employment of the early aerial and ground elements provided the capacitance through which the electrostatic energy was absorbed. It was probable that Dr. Moray further enhanced the threshold conductivity of Germanium with special radioactive additives so that it would respond with both speed and increasing saturation to the mounting electrostatic energies. Primarily developed in the large capacitance of his ground connection, these energies passed unnoticed by most experimenters. What was needed to tap this tremendous energy reservoir was a "low threshold switch". Therefore, the examination of the Moray device proceeds as a study of conduction bands and quantum potential energies in crystals. 
+
+      
+Some writers proposed that Moray had developed a "cosmic ray diode". In this model, the Moray receiver is treated as a transducer in which cosmic rays drive electron currents. The special material is the ray sensitive material in which this conversion process supposedly occurs. 
+
+      
+If we use the available potential energy of a single cosmic ray, we find that it could raise only one ten-thousandth of a watt's worth of electrical energy. If cosmic rays were intercepted by the pellet, producing extensive photonuclear cascades, then why was the ground connection needed at all? According to the calculated values, a detector the volume of that used by Moray could never intercept enough cosmic rays to achieve the demonstrated outputs. The stone pellet itself did not offer sufficient interceptive cross section to be the whole generative center of Moray's device. Clearly the stone pellet was part of a much larger "organized activity" involving the ground. 
+
+      
+There is an alternative model, which focuses attention on the necessity for ground connection in the device. While aerials could be eliminated from his apparatus, it was not so with the ground connection. One recalls that Dr. Moray was never able to do without the ground connection. Also the successful operation of the device required a "tuning" procedure. What was he tuning"? Both good ground connection and sensitive tunings were indispensable for obtaining the enormous energies demonstrated in his COSRAY detector. 
+
+      
+The volume of cosmic rays intercepted by a volume of ground is vast. Ground entrant cosmic rays would stimulate the activation of vast free electrical volumes.
+ Any section of ground would effectively become an available "interception plate" of vast size. These free charges would "leak up" into any radio ground connection, producing significant and conspicuous "static" power when tuned to certain frequencies. "Tuning into" these radio bands, the ground "interception plate" would pour its vast electrical surpluses into any detector, producing lightning like discharges. 
+
+      
+This model sounds plausible, but why would the Swedish Stone be the necessary item then? Why would not any radio receiver locate these frequency bands? The infrequent observation of "bursters" lends this objection some credence. Could bursters simply be a rare "radio detectable" solar emission, one in which electrical impulse are surging at lower frequency? The pulse which Moray was able to constantly receive might then have been occurring in the microwave band (Lehr). 
+
+      
+This model might lead in the right direction provided we shifted our attentions to an alternate kind of energetic spectrum. If ground entrant cosmic rays produced a special and distinct subatomic "vibration" in the ground, one which could not be entuned with ordinary radio receivers, then the mildly radioactive Swedish Stone acts as a special kind of receiver ... both tuning and receiving ground-wide "radioactive impulses". 
+
+      
+Such "radioactive waves" would appear as a "white noise" in a grounded radioactive detector. Specially tuned settings would release the energy into the receiver. We might liken the process to rain falling on the surface of a lake. As the rain comes in sheets and gusts, the lake surface becomes "rimpled" with the disturbance. Tuning into this violent surface of energy would be equivalent to using a straw in order to obtain a coherent flow. Getting a gush of water from such an incoherent vibrance is nearly impossible. A wider "pipe" would not enable a greater extraction of energy. Moray did not rely on ever-larger cross-section ground connections. This would be the requirement if we were utilizing radioactive white noise. If such a draft of energy were coming through the fine wire contacts on the pellet, the delicate connections would burn away before any energy could ever be extracted. 
+
+      
+When considering "ground secondary radiations", one would have to account for the "reflective surface" within the ground capable of absorbing the cosmic rays and "vibrating". What would be the exact nature of the "absorbent" ground medium? Would it be free electrons? Is there a possibility that the actual medium of absorption was something more exotic than electrons ... some subatomic particle sea of which we are yet unaware? 
+
+      
+The entire notion of cosmic ray absorption requires the ability of a fluidic medium to absorb the projectile energy of entrant cosmic rays. If the fluid were "free electrons", then the cosmic rays would pierce it like bullets fired into water. The resultant energetic violence would produce no coherent pattern, only a "frothy electrostatic disturbance". A slim possibility might exist for entuning the major "harmonics" of such a frothy white noise, obtaining an electrical output. But the incoherence of all resultant "white noise" energy is still the reasonable objection to this otherwise good model. 
+
+      
+The "ground plate" theory might more reasonably apply in this instance. Where individual entrant cosmic rays might affect only white noise disturbances in either an electron sea or exotic subatomic sea, sudden gusts would suddenly "deform" a large ground region of the absorbent medium. The resultant whole regional deformation and recovery would represent a coherent energetic impulse of great power. These gusts could be entuned, the short and unexpected impulses being maximized in the proper circuitry. This is exactly what Dr. Moray described. 
+
+      
+The sudden gust may produce a powerful electrostatic potential, which appears above the normal background of white noise as "oceanic waves". Furthermore, if the sudden burst energy is electrostatic in nature (received into a terrestrial electrical "tank"), it is certainly received as a singular impulse with a very rapid decay among progressively lower harmonics. In this latter case, the gust impulse would enter the white noise sea, being lost in the incoherence. 
+
+      
+In addition, we do know that conventional cosmic rays evidence abrupt showers when measured across a broad ground region. Rare interstellar cosmic rays, mostly nuclear fragments from stars, manifest in "showers". But these do not coincide with the periodicity required for the Moray effect. Solar flare activity would account for a far greater energetic flux, manifesting the "bursts" and "impulse waves" which Dr. Moray observed. We must also remember that, both Tesla and Le Bon considered natural radioactivity as the sign of "true cosmic rays". What conventionalists measure and call cosmic rays do not explain the constancy of radioactivity, and cannot be that of manifestation to which they referred. 
+
+      
+If solar cosmic ray showers were not a steadily observed event, then Moray's "cosmic rays" are not conventional. If that is so, then we must determine the nature of both entrant showers and absorbent media. If the earth "energy absorber" proves to be another energy stratum, like the aether of early Victorian physics, then we must discuss how such a fluidic energy can be conducted into the metal wires of Moray's device. 
+
+      
+And what if the Moray energy receiver is not be responding to "conventional" cosmic rays at all? To what then did Moray refer when speaking of "cosmic" and "radioactive waves"? There are those researchers who believe that Moray "cosmic rays" or Moray "gamma rays" may be completely different entities than those, which academes identify. Dr. Moray believed that it was "neutron bombardment" which were responsible for the powerful electrostatic emissions coming forth from his mineral. One may then consider that Moray agreed with Tesla when speaking of cosmic rays. To be specific, the Teslian definition of cosmic rays had nothing to do with those, which are conventionally described or studied by astrophysicists, being "light-like effluves". Tesla said they were not easily detected. If proper detection of these effluves requires radioactive materials, then the most noteworthy work toward this achieving this goal was performed in special galena radio detection circuits by Daniel Winter. 
+
+      
+According to the theories of Tesla and Le Bon, radioactive materials are the dense targets of external energetic streams. These streams were said by Moray to come in sudden "gusts". Mr. Winter proved this principle. Galena crystals were touched with carnotite-tipped cat-whiskers. Remarkable electrostatic "spikes" appeared when sensitive spots were touched, the magnitude of which was almost impossible to measure. The device was receiving an anomalous vast energy, which came in sudden bursts. 
+
+      
+Coupling two such detectors across a space of several feet, it was possible to show a phase-heterodyned signal, which existed as a tension between the two receivers. In other words, the lagging response between each carnotitegalena detector showed that "radioactive" waves were traveling across space. Moreover, these waves were of small impulse lengths, seeing that they could be heterodyned across such a short detection space. The waves were those, which "caused" the radioactivity of the carnotite samples. Energy bursts appeared when the waves surged. That they were traveling was revealed through the phase-lag between each receiver. 
+
+      
+Such phase lag in radioactive materials can be easily see through careful darkroom examination of radium dial clock faces. Maintaining the dial in a constant dark condition for days permits a most amazing observation. What is seen supports the theory of Le Bon. Radioactive luminescence very obviously "flimmers" from edge to edge in endless processions, as if induced from the outside. 
+
+      
+One uses this phenomenon as a visual detector of these external radio-inductive waves, observing sudden soft gusts of light, which often spread through and across the luminescent matter. This wavelike luminous manifestation was the phenomenon, which Victorians marveled over in a device known as the "sphinthariscope". The flimmering waves reveal a specific band of external energetic induction, the true cause of radioactivity according to Le Bon. Small radioactive additions to appropriate conductive materials might produce the requisite detector of Teslian cosmic rays. 
+
+      
+There are those who reduce Moray's detector to an "atomic battery" (P. Brown). Victor Hart, a researcher who once worked with Dr. Moray, developed a special tube of his own. Witnessed by several credible witnesses, this tube resembles a Farnsworth Multipactor (Brown, Lindemann, Redfern). Cathodes are housed at opposed ends of the tube, the anode being a screen at the tube midpoint. The vessel is filled with helium and argon gases at low pressure. The target anode is a brass screen coated with a carnotite mixture (probably with caesium). 
+
+      
+Activated by a four thousand volt discharge, the tube springs to life. Electrical meters, which are, attached to the device "go off scale" with the increased output, the tube emitting thunderous sounds and a blinding white light. In addition, there is a radiant flux, which drives distantly placed Geiger counters off-scale. The device is clearly an energy amplifier, taking electrical power at one volume and magnifying it. The agency of this transformation is, very obviously, the natural radioactive material used in the target. 
+
+      
+Perhaps the ground surges were not "radioactive" in nature at all. Both the use of an ordinary ground connector and the simple tuning mechanism indicates a radionic activity. In fact, this is the most satisfying model to date. It organizes all the divergent aspects of the Moray receiver quite effortlessly. It does require a new perspective however. 
+
+      
+The Swedish Stone might have served as a conductor and magnifier of Od. Such Od radiance could never stimulate electrical charges for Baron von Reichenbach. Perhaps Dr. Moray had found one of those "mineral gates" where this did occur. It may have been in the nature of the mineral itself to effect conversions of Od into electrostatic currents. In citing this possibility we encourage the re-reading of the Reichenbach biography and consider his science of Radionics. 
+
+      
+
+    
+Remember, though Moray was able to replace the aerial with a copper plate, Dr. Moray was never able to eliminate the ground system entirely. The absolute need for the tuning device indicates a necessary radionic tuning component. With the detector in firm ground connection, the mineral became Od radiant. Od currents grow in time, saturating and magnifying in ground lines of any small cross section. Od discharges across space, producing black radiant auras and smokey white photographic traces when arcing into nearby people. The radionic model effectively unifies all the aspects of the Moray receiver, and keeps with the essential simplicity of his descriptions. Obtaining that "magickal mineral" remains the last key to the process!

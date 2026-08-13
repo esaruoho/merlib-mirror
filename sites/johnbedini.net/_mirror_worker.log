@@ -1,86 +1,3 @@
-[2026-04-01 19:03:31] ============================================================
-[2026-04-01 19:03:31] LIVE MIRROR: johnbedini.net
-[2026-04-01 19:03:31] Seed: https://johnbedini.net
-[2026-04-01 19:03:31] Seed path: /
-[2026-04-01 19:03:31] Max link depth: 5
-[2026-04-01 19:03:31] Output: /Users/esaruoho/work/merlib-mirror/sites/johnbedini.net
-[2026-04-01 19:03:31] ============================================================
-[2026-04-01 19:03:31] Crawling / (download-as-you-go)...
-[2026-04-01 19:03:32]   [1 d0*] https://johnbedini.net  (1 OK, 0 queued)
-[2026-04-01 19:03:32]     +11 links (12 total known)
-[2026-04-01 19:03:33]   [2 d0*] https://johnbedini.net/john34/rife.html  (2 OK, 10 queued)
-[2026-04-01 19:03:33]     +57 links (69 total known)
-[2026-04-01 19:03:35]   [3 d0*] https://johnbedini.net/john34/bcolirod.jpg  (3 OK, 66 queued)
-[2026-04-01 19:03:37]   [4 d0*] https://johnbedini.net/john34/johncrane3.jpg  (4 OK, 65 queued)
-[2026-04-01 19:03:38]   [5 d0*] https://johnbedini.net/john34/interfero22.jpg  (5 OK, 64 queued)
-[2026-04-01 19:03:43]   [6 d0*] http://johnbedini.net/john34/rense1.mp3  (6 OK, 63 queued)
-[2026-04-01 19:03:44]   [7 d0*] https://johnbedini.net/john34/johncrane2.jpg  (7 OK, 62 queued)
-[2026-04-01 19:03:45]   [8 d0*] https://johnbedini.net/john34/mixfreq20and20000.jpg  (8 OK, 61 queued)
-[2026-04-01 19:03:46]   [9 d0*] https://johnbedini.net/john34/fourwavemix.jpg  (9 OK, 60 queued)
-[2026-04-01 19:03:47]   [10 d0*] https://johnbedini.net/john34/typhvirus.jpg  (10 OK, 59 queued)
-[2026-04-01 19:04:42]   [15 d0*] https://johnbedini.net/john34/crfqu11.jpg  (15 OK, 54 queued)
-[2026-04-01 19:05:29]   [20 d0*] https://johnbedini.net/john34/modgrid1.mpg  (20 OK, 49 queued)
-[2026-04-01 19:05:37]   [25 d0*] https://johnbedini.net/john34/streptothrixhm2.jpg  (25 OK, 44 queued)
-[2026-04-01 19:05:43]   [30 d0*] https://johnbedini.net/john34/tbrodhm2.jpg  (30 OK, 39 queued)
-[2026-04-01 19:05:52]   [35 d0*] https://johnbedini.net/john34/crystalint1.jpg  (35 OK, 34 queued)
-[2026-04-01 19:07:02]   [40 d0*] https://johnbedini.net/john34/kill1wire.mpg  (39 OK, 35 queued)
-[2026-04-01 19:07:26]   [45 d0*] https://johnbedini.net/john34/bcolirodhm.jpg  (44 OK, 30 queued)
-[2026-04-01 19:07:35]   [50 d0*] https://johnbedini.net/john34/streptothrix.jpg  (49 OK, 25 queued)
-[2026-04-01 19:07:41]   [55 d0*] https://johnbedini.net/john34/gwav.jpg  (54 OK, 20 queued)
-[2026-04-01 19:07:47]   [60 d0*] https://johnbedini.net/john34/cretificate1.jpg  (59 OK, 15 queued)
-[2026-04-01 19:07:57]   [65 d0*] https://johnbedini.net/john34/electronichealingtechnologies.jpg  (64 OK, 10 queued)
-[2026-04-01 19:08:02]   [70 d0*] http://johnbedini.net/john34/meucci35.jpg  (69 OK, 31 queued)
-[2026-04-01 19:08:08]   [75 d0*] http://johnbedini.net/john34/return.gif  (74 OK, 26 queued)
-[2026-04-01 19:08:14]   [80 d0*] http://johnbedini.net/john34/eaphsys1.jpg  (79 OK, 33 queued)
-[2026-04-01 19:08:20]   [85 d0*] http://johnbedini.net/john34/cerpaux1.jpg  (84 OK, 28 queued)
-[2026-04-01 19:08:26]   [90 d0*] http://johnbedini.net/john34/deekman1.jpg  (89 OK, 30 queued)
-[2026-04-01 19:08:33]   [95 d0*] http://johnbedini.net/john34/earthbat111.jpg  (94 OK, 25 queued)
-[2026-04-01 19:08:40]   [100 d0*] http://johnbedini.net/john34/stfieldtransmitt22.jpg  (99 OK, 20 queued)
-[2026-04-01 19:08:47]   [105 d0*] http://johnbedini.net/john34/picttes1.jpg  (104 OK, 15 queued)
-[2026-04-01 19:08:52]   [110 d0*] http://johnbedini.net/john34/starr33.jpg  (109 OK, 15 queued)
-[2026-04-01 19:08:59]   [115 d0*] http://johnbedini.net/john34/groundradio.html  (114 OK, 10 queued)
-[2026-04-01 19:09:03]   [120 d0*] https://johnbedini.net/images/supernaturaluniverse.jpg  (119 OK, 8 queued)
-[2026-04-01 19:09:09]   [125 d0*] https://johnbedini.net/john34/rainbowline.gif  (124 OK, 20 queued)
-[2026-04-01 19:10:10]   [130 d0*] http://www.johnbedini.net/john34/inter.mp3  (129 OK, 15 queued)
-[2026-04-01 19:10:25]   [135 d0*] https://johnbedini.net/john34/bediniaudio.jpg  (134 OK, 10 queued)
-[2026-04-01 19:10:33]   [140 d0*] http://johnbedini.net/john34/Radiant1.htm  (139 OK, 5 queued)
-[2026-04-01 19:10:33]     +12 links (157 total known)
-[2026-04-01 19:10:37]   [145 d0*] http://johnbedini.net/john34/electronichealingtechnologies.jpg  (144 OK, 14 queued)
-[2026-04-01 19:10:42]   [150 d0*] http://johnbedini.net/john34/1tesla22.jpg  (149 OK, 9 queued)
-[2026-04-01 19:10:48]   [155 d0*] http://johnbedini.net/john34/1Moray%20Valve.jpg  (154 OK, 10 queued)
-[2026-04-01 19:10:54]   [160 d0*] http://johnbedini.net/john34/tesla_tower1.jpg  (159 OK, 5 queued)
-[2026-04-01 19:11:00]   [165 d0*] http://johnbedini.net/john34/kron.html  (164 OK, 36 queued)
-[2026-04-01 19:11:06]   [170 d0*] http://johnbedini.net/john34/coilwind1.jpg  (169 OK, 50 queued)
-[2026-04-01 19:11:11]   [175 d0*] http://johnbedini.net/john34/coilready2.jpg  (174 OK, 45 queued)
-[2026-04-01 19:11:16]   [180 d0*] http://johnbedini.net/john34/medbig.jpg  (179 OK, 40 queued)
-[2026-04-01 19:11:22]   [185 d0*] http://johnbedini.net/john34/bigguy1.jpg  (184 OK, 35 queued)
-[2026-04-01 19:11:29]   [190 d0*] http://johnbedini.net/john34/jobed7.jpg  (189 OK, 30 queued)
-[2026-04-01 19:11:45]   [195 d0*] http://johnbedini.net/john34/jobed9.jpg  (194 OK, 25 queued)
-[2026-04-01 19:11:52]   [200 d0*] http://johnbedini.net/john34/tbfnrganm.gif  (199 OK, 20 queued)
-[2026-04-01 19:12:21]   [205 d0*] http://johnbedini.net/john34/monopole222.jpg  (204 OK, 15 queued)
-[2026-04-01 19:12:30]   [210 d0*] http://johnbedini.net/john34/jobed4.jpg  (209 OK, 10 queued)
-[2026-04-01 19:12:44]   [215 d0*] http://johnbedini.net/john34/simplemotor11.jpg  (214 OK, 5 queued)
-[2026-04-01 19:12:54]   [220 d0*] https://johnbedini.net/research/backstage.jpg  (219 OK, 10 queued)
-[2026-04-01 19:13:03]   [225 d0*] https://johnbedini.net/research/Bedini%20med.%20pendulum.jpg  (224 OK, 5 queued)
-[2026-04-01 19:13:12]   [230 d0*] https://johnbedini.net/images/tc.jpg  (229 OK, 1 queued)
-[2026-04-01 19:13:13] Generating index...
-[2026-04-01 19:13:13] Index: 227 files
-[2026-04-01 19:13:13]   .jpg: 174
-[2026-04-01 19:13:13]   .html: 14
-[2026-04-01 19:13:13]   .gif: 13
-[2026-04-01 19:13:13]   .mp3: 9
-[2026-04-01 19:13:13]   .mpg: 9
-[2026-04-01 19:13:13]   .htm: 5
-[2026-04-01 19:13:13]   .wmv: 2
-[2026-04-01 19:13:13]   .mpeg: 1
-[2026-04-01 19:13:13] 
-============================================================
-[2026-04-01 19:13:13] LIVE MIRROR COMPLETE
-[2026-04-01 19:13:13] Downloaded: 231, OK: 230, Failed: 1
-[2026-04-01 19:13:13] Total URLs seen: 231
-[2026-04-01 19:13:13] ============================================================
-[2026-04-01 19:13:13] 
-Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/johnbedini.net
 [2026-08-13 09:09:59] ============================================================
 [2026-08-13 09:09:59] LIVE MIRROR: johnbedini.net
 [2026-08-13 09:09:59] Seed: https://johnbedini.net
@@ -104,6 +21,8 @@ Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/johnbedini.net
 [2026-08-13 09:10:04]   [10 d0*] https://johnbedini.net/research/backstage.jpg  (10 OK, 13 queued)
 [2026-08-13 09:10:07]   [15 d0*] https://johnbedini.net/john34/test.html  (15 OK, 8 queued)
 [2026-08-13 09:10:09]   [20 d0*] https://johnbedini.net/john34/bediniaudio.jpg  (20 OK, 20 queued)
+/Users/esaruoho/work/merlib-mirror/mirror.py:89: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "ts_iso": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
 [2026-08-13 09:10:12]   [25 d0*] https://johnbedini.net/john34/Wiona1.jpg  (25 OK, 15 queued)
 [2026-08-13 09:10:14]   [30 d0*] https://johnbedini.net/john34/Math1.jpg  (30 OK, 10 queued)
 [2026-08-13 09:10:17]   [35 d0*] http://johnbedini.net/john34/rense3.mp3  (35 OK, 62 queued)
@@ -148,6 +67,8 @@ Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/johnbedini.net
 [2026-08-13 09:12:01]   [215 d0*] http://johnbedini.net/john34/1tesla22.jpg  (215 OK, 6 queued)
 [2026-08-13 09:12:03]   [220 d0*] http://johnbedini.net/john34/1moray.jpg  (220 OK, 7 queued)
 [2026-08-13 09:12:06]   [225 d0*] http://johnbedini.net/john34/healing.htm  (225 OK, 2 queued)
+/Users/esaruoho/work/merlib-mirror/mirror.py:1005: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  lines.append(f"mirror_date: {datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')}")
 [2026-08-13 09:12:08] Generating index...
 [2026-08-13 09:12:08] Index: 228 files
 [2026-08-13 09:12:08]   .jpg: 174
@@ -167,3 +88,10 @@ Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/johnbedini.net
 [2026-08-13 09:12:08] ============================================================
 [2026-08-13 09:12:08] 
 Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/johnbedini.net
+site_to_paper: johnbedini.net — 19 HTML page(s)
+site_to_paper: entry=index.html · reachable=6 · unreached=13
+site_to_paper: wrote /Users/esaruoho/work/merlib-mirror/sites/johnbedini.net/_paper/johnbedini.net-CONSOLIDATED.md (432,169 chars from 19 pages)
+site_to_paper: wrote 19 per-page markdown files to /Users/esaruoho/work/merlib-mirror/sites/johnbedini.net/_paper/pages
+site_to_allpages: johnbedini.net — 19 page(s), entry=index.html, reachable=6, orphans=13
+site_to_allpages: wrote /Users/esaruoho/work/merlib-mirror/sites/johnbedini.net/_paper/allpages.html (593,040 chars, 19 pages, 18 internal links → anchors, 279 asset paths fixed)
+site_to_allpages: weasyprint not found — skipping PDF (install it, or open allpages.html and ⌘P → Save as PDF)
