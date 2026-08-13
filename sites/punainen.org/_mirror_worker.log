@@ -1,65 +1,3 @@
-[2026-05-08 12:48:43] ============================================================
-[2026-05-08 12:48:43] LIVE MIRROR: punainen.org
-[2026-05-08 12:48:43] Seed: https://punainen.org/~biotek/physics/
-[2026-05-08 12:48:43] Seed path: /~biotek/physics
-[2026-05-08 12:48:43] Max link depth: 5
-[2026-05-08 12:48:43] Output: /Users/esaruoho/work/merlib-mirror/sites/punainen.org
-[2026-05-08 12:48:43] ============================================================
-[2026-05-08 12:48:43] Crawling /~biotek/physics (download-as-you-go)...
-[2026-05-08 12:48:43]   [1 d0*] https://punainen.org/~biotek/physics/  (1 OK, 0 queued)
-[2026-05-08 12:48:43]     +37 links (38 total known)
-[2026-05-08 12:48:44]   [2 d0*] https://punainen.org/~biotek/physics/negative_mass/  (2 OK, 36 queued)
-[2026-05-08 12:48:44]     +1 links (39 total known)
-[2026-05-08 12:48:44]   [3 d0*] https://punainen.org/~biotek/physics/negative_mass/negative_mass.pde  (3 OK, 36 queued)
-[2026-05-08 12:48:45]   [4 d0*] https://punainen.org/~biotek/physics/lattice/  (4 OK, 35 queued)
-[2026-05-08 12:48:45]     +1 links (40 total known)
-[2026-05-08 12:48:45]   [5 d0*] https://punainen.org/~biotek/physics/lattice/test.pde  (5 OK, 35 queued)
-[2026-05-08 12:48:46]   [6 d0*] https://punainen.org/~biotek/physics/particle/  (6 OK, 34 queued)
-[2026-05-08 12:48:46]     +1 links (41 total known)
-[2026-05-08 12:48:47]   [7 d0*] https://punainen.org/~biotek/physics/particle/wave.pde  (7 OK, 34 queued)
-[2026-05-08 12:48:47]   [8 d0*] https://punainen.org/~biotek/physics/wave/  (8 OK, 33 queued)
-[2026-05-08 12:48:47]     +1 links (42 total known)
-[2026-05-08 12:48:48]   [9 d0*] https://punainen.org/~biotek/physics/wave/wave.pde  (9 OK, 33 queued)
-[2026-05-08 12:48:48]   [10 d0*] https://punainen.org/~biotek/physics/monopole2/  (10 OK, 32 queued)
-[2026-05-08 12:48:48]     +1 links (43 total known)
-[2026-05-08 12:48:51]   [15 d0*] https://punainen.org/~biotek/physics/fluid3/test2.pde  (15 OK, 30 queued)
-[2026-05-08 12:48:54]   [20 d0*] https://punainen.org/~biotek/physics/box1d/  (20 OK, 27 queued)
-[2026-05-08 12:48:54]     +1 links (48 total known)
-[2026-05-08 12:48:57]   [25 d0*] https://punainen.org/~biotek/physics/?C=N;O=A  (25 OK, 25 queued)
-[2026-05-08 12:49:00]   [30 d0*] https://punainen.org/~biotek/physics/visscher1d/  (30 OK, 22 queued)
-[2026-05-08 12:49:00]     +1 links (53 total known)
-[2026-05-08 12:49:03]   [35 d0*] https://punainen.org/~biotek/physics/?C=S;O=D  (35 OK, 20 queued)
-[2026-05-08 12:49:06]   [40 d0*] https://punainen.org/~biotek/physics/randomwalk/  (40 OK, 17 queued)
-[2026-05-08 12:49:06]     +1 links (58 total known)
-[2026-05-08 12:49:09]   [45 d0*] https://punainen.org/~biotek/physics/plate/plate.pde  (45 OK, 15 queued)
-[2026-05-08 12:49:12]   [50 d0*] https://punainen.org/~biotek/physics/scatter/  (50 OK, 12 queued)
-[2026-05-08 12:49:12]     +1 links (63 total known)
-[2026-05-08 12:49:14]   [55 d0*] https://punainen.org/~biotek/physics/gravity/test.pde  (55 OK, 10 queued)
-[2026-05-08 12:49:17]   [60 d0*] https://punainen.org/~biotek/physics/harmonic3/  (60 OK, 7 queued)
-[2026-05-08 12:49:17]     +1 links (68 total known)
-[2026-05-08 12:49:20]   [65 d0*] https://punainen.org/~biotek/physics/harmonic4/timeplot1d.pde  (65 OK, 5 queued)
-[2026-05-08 12:49:23]   [70 d1] https://punainen.org/icons/folder.gif  (69 OK, 1 queued)
-[2026-05-08 12:49:24] Generating index...
-[2026-05-08 12:49:24] Index: 70 files
-[2026-05-08 12:49:24]   .html: 30
-[2026-05-08 12:49:24]   .pde: 29
-[2026-05-08 12:49:24]   .gif: 3
-[2026-05-08 12:49:24]   .html__c%3dd%3bo%3da: 1
-[2026-05-08 12:49:24]   .html__c%3dd%3bo%3dd: 1
-[2026-05-08 12:49:24]   .html__c%3dm%3bo%3da: 1
-[2026-05-08 12:49:24]   .html__c%3dm%3bo%3dd: 1
-[2026-05-08 12:49:24]   .html__c%3dn%3bo%3da: 1
-[2026-05-08 12:49:24]   .html__c%3dn%3bo%3dd: 1
-[2026-05-08 12:49:24]   .html__c%3ds%3bo%3da: 1
-[2026-05-08 12:49:24]   .html__c%3ds%3bo%3dd: 1
-[2026-05-08 12:49:24] 
-============================================================
-[2026-05-08 12:49:24] LIVE MIRROR COMPLETE
-[2026-05-08 12:49:24] Downloaded: 71, OK: 70, Failed: 1
-[2026-05-08 12:49:24] Total URLs seen: 71
-[2026-05-08 12:49:24] ============================================================
-[2026-05-08 12:49:24] 
-Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/punainen.org
 [2026-08-13 09:54:12] ============================================================
 [2026-08-13 09:54:12] LIVE MIRROR: punainen.org
 [2026-08-13 09:54:12] Seed: https://punainen.org/~biotek/physics/
@@ -87,6 +25,8 @@ Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/punainen.org
 [2026-08-13 09:54:16]     +1 links (43 total known)
 [2026-08-13 09:54:19]   [15 d0*] https://punainen.org/~biotek/physics/barrier/wave.pde  (15 OK, 26 queued)
 [2026-08-13 09:54:21]   [20 d0*] https://punainen.org/~biotek/physics/box1d/  (20 OK, 23 queued)
+/Users/esaruoho/work/merlib-mirror/mirror.py:89: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "ts_iso": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
 [2026-08-13 09:54:21]     +1 links (48 total known)
 [2026-08-13 09:54:24]   [25 d0*] https://punainen.org/~biotek/physics/string/string.pde  (25 OK, 21 queued)
 [2026-08-13 09:54:27]   [30 d0*] https://punainen.org/~biotek/physics/?C=M;O=A  (30 OK, 18 queued)
@@ -101,6 +41,8 @@ Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/punainen.org
 [2026-08-13 09:54:42]   [60 d0*] https://punainen.org/~biotek/physics/randomwalk/  (60 OK, 3 queued)
 [2026-08-13 09:54:42]     +1 links (68 total known)
 [2026-08-13 09:54:44]   [65 d0*] https://punainen.org/~biotek/physics/particles/test2.pde  (65 OK, 1 queued)
+/Users/esaruoho/work/merlib-mirror/mirror.py:1005: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  lines.append(f"mirror_date: {datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')}")
 [2026-08-13 09:54:46] Generating index...
 [2026-08-13 09:54:46] Index: 70 files
 [2026-08-13 09:54:46]   .html: 30
@@ -122,3 +64,10 @@ Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/punainen.org
 [2026-08-13 09:54:46] ============================================================
 [2026-08-13 09:54:46] 
 Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/punainen.org
+site_to_paper: punainen.org — 30 HTML page(s)
+site_to_paper: entry=~biotek/physics/index.html · reachable=30 · unreached=0
+site_to_paper: wrote /Users/esaruoho/work/merlib-mirror/sites/punainen.org/_paper/punainen.org-CONSOLIDATED.md (9,210 chars from 30 pages)
+site_to_paper: wrote 30 per-page markdown files to /Users/esaruoho/work/merlib-mirror/sites/punainen.org/_paper/pages
+site_to_allpages: punainen.org — 30 page(s), entry=~biotek/physics/index.html, reachable=30, orphans=0
+site_to_allpages: wrote /Users/esaruoho/work/merlib-mirror/sites/punainen.org/_paper/allpages.html (72,904 chars, 30 pages, 29 internal links → anchors, 65 asset paths fixed)
+site_to_allpages: weasyprint not found — skipping PDF (install it, or open allpages.html and ⌘P → Save as PDF)

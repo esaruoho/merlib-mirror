@@ -1,0 +1,5 @@
+target: https://punainen.org/~biotek/physics/
+mode: live
+path_filter: /~biotek/physics
+title: Index of /~biotek/physics
+mirror_date: 2026-08-13T06:54:46Z
