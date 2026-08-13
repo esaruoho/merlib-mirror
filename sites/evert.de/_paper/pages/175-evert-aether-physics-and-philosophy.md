@@ -1,0 +1,123 @@
+---
+title: "evert aether-physics and -philosophy"
+source_domain: evert.de
+source_path: ap0105e.htm
+order: 175
+reachable_from_entry: true
+images: 0
+internal_links: 2
+extracted: 2026-08-13T06:39:10Z
+extractor: site_to_paper.py (builtin)
+---
+
+# evert aether-physics and -philosophy
+
+*Source page: `ap0105e.htm`*
+
+Alfred Evert
+
+18.02.2003
+
+01.05. Space and Time
+
+Space-Time-Continuum
+
+Thinking about space and time is superfluous as everybody knows we live within a bended four-dimensional space-time-continuum. Everyone knows the picture of a dented plate and planets are falling around the Sun at circled respective elliptic tracks. However one may doubt, if anybody - inclusive Einstein - could imagine this nice picture really in total. Appropriate sciences generously renounces to imagine concretely also a fourth dimension. As a substitute, three space-dimensions mentally are reduced to two in order to make time-dimension ´visible´. So a totally abstract operation is necessary for ´concrete´ understanding.
+
+This worldview is the generally accepted opinion, regardless of various criticism and precise hints to inconsistency. Presented approvals for relativity-theory were also ´relativated´ by many authors. I won´t add further comments of this kind. However, I will discuss Einstein´s statements of 1925 (see previous chapter), where he made three findings (by these words):
+
+- The total negation of an aether means, the empty space no longer would have any physical quality.
+
+- Space however has physical qualities, so by this sense aether is existent.
+
+- Space without aether is unthinkable.
+
+Previous ´by this sense´ is only to interpret that kind, Einstein´s space has physical qualities, which all are contributed by an aether resp. which all are represented by the aether. For space by itself, thus only physical quantities would remain (because it´s common understanding, quantity is the single complement for quality).
+
+These are most interesting aspects and it´s only the question, which physical qualities the aether contributes to that space-aether-construction and which physical quantities (besides common length-width-height) space by itself contributes. ´By this sense´ (using Einstein´s words once more), one simply has to state: there is an aether with certain properties within a totally normal three-dimensional space.
+
+One could follow unrestricted these - rarely published - findings of Einstein and probably everyone could imagine this simple reality - if the time is not added as fourth ´imaginary´ dimension.
+
+Reflected Being
+
+Men however don´t like simplicity - because we all are philosophers. Our brain, by his self-consciousness, puts itself steadily outside of surrounding nature as ´objective´ viewer. Brain continuously makes conclusions by abstract terms. It´s a most difficult exercise to be pure spectator, to switch off thinking (like eastern wise men recommend), in order to realize ´qualities´ of being directly, i.e. un-reflected).
+
+Air has a quality - however we pulled it to pieces, to nitrogen and oxygen and other particles. Water by sure has special qualities - however common sciences did find nothing else than H2O. Time has a quality, earlier or later for diverse actions - however we cut time into days, hours, minutes, seconds. By this quantity-viewing we forgot - at least at the western world - to realize real qualities of real being.
+
+We (western men) practically live only for planning - and to ´pass away´ schedules resp. check-off life. Continuously we think about best coordination of all facts and next activities, thus practically we ´live´ within the future and forget to live the short (however steady given) present moment. If reality of life occasionally conflicts with our plans, we withdraw into past times and ´re-live´ loved memories.
+
+Real Being
+
+Here I make sober-minded considerations to current physics. For a short moment however, I ask the readers to feel qualities of ´old elements´ (and not to reflect about). Please imagine this scenario:
+
+You feel the air at your skin and the air is flowing and wavering. You see clouds moving and bubbling up. The Sun is shining through cloud´s gaps and illuminates the clouds and the earth by fantastic colours. You sit at a warm stone at a beach and the water mirrors the light rays. Waves come and go by unsteady movements, nevertheless by unlimited repeating motions. A fire burns at the beach and flames leap up, even higher fly some sparks. Everything is in motion, most different and same time by great harmony.
+
+If you managed to realize these feelings - that´s real being, to look at and take it without contribution of your brain. My abstract words were only necessary, because you was not really there at this place and that time. That real being described above, however, is completely independent of the abstract names, which we assign to things. That real being is independent of our collective words we need for easier communication.
+
+Real Aether
+
+Once more I ask you for a short moment, to realize quality of the age-old element aether. Please imaging this scenario:
+
+You still sit at that stone and still observe this spectacle of nature. Only one fact has changed: you look through things, into a transparent and pervious matter, which exists real and continuous, and everything exists of and is included within that substance.
+
+Air, clouds, sun, water, sand and stones, burning wood - all exists of this matter. However, at each location this substance is moving other kind, molecules appear like twisting tiny pearls, multiple embedded into others, partly far reaching movements. All is turning, never straight ahead, only by spiral tracks, narrow curves or wide ones, slower or faster, everywhere nothing else than swinging motions on unlimited including tracks. Also the light is nothing else than some special movement of this substance, is reflected by other movements or is penetrating into and accelerating other motion´s pattern.
+
+The aether is anywhere, there is nothing else but diverse variations of movements of that single stuff. Naturally you by yourself are also a rather complex whirlpool of aether, not outside of but totally integrated within. You can see, but must not view, because no motion ends anywhere. Your aether-whirlpool can feel every pattern of movements, no matter how far its core might be, large or small, from all sides you directly get the impressions of everything.
+
+It´s like a bath within an unlimited surrounding sea with unlimited various waves of all kind. Each single movement one can filter-out, depending only on the focus, no matter were this special vortex was, no matter how long time ago it was most intensive. One even can imagine inevitable further development of some movement´s pattern, practically viewing into the future. Everything and everybody continuously gives his ´vibrations´ into this unbelievable variously moved sea, makes input by actions or thoughts, no matter if conscious or unconsciously.
+
+It´s only that single matter, anywhere in steady most different movements - thus that One produces an unlimited variety of all appearances, each of other kind, nevertheless all appearances mutually are connected by direct resonance of the all-including medium.
+
+This report might not be misunderstood as enthusiasm of an esoteric aesthete (however spiritually ´touched´ readers will understand better). This report describes rather concrete physical qualities of the real fact of aether, like mentioned above by Einstein´s quote. For example, Einstein did well find the necessity of bends - however he called the inevitable curved aether movements a quality of space (only at his early workouts, much later he corrected this misunderstanding).
+
+Space
+
+Once more I ask ´realists´ for patience and to listen to ´a short story of space´.
+
+A group of young people invaded that beach, marked a field and installed a net for volleyball. They probably were students of physics, amusing about quotes of their professor. Everyone talked about x- and y-coordinates, which must show ´normal´ angles, also z must show perpendicular, all scalar values must correspond to the norm, because only by these prerequisites objectively reproducible results of planed experiment could be measured with certainty.
+
+This discussion obviously enjoyed everyone more than the ball-game by itself. They commented each of their movements and every (miss-) stroke, by constant of impulse and kinetic energy, gravity and ballistics, heat and entropy, velocity and vector, twist and momentum etc. etc. etc., thus in reality they made up a competition about best handling of physical terms.
+
+What happened to that scenario, viewed before and realized directly?
+
+Before, there was only the reality of that single substance of aether with its reality of unlimited and various movements, resulting the variety of diverse appearances. Also these occurrences were real, however they have no stand-alone reality as separated stable bodies or ´physical force-particle´, but these occurrences are only the result of aether-movements. ´By this sense´ occurrences have no primary, substantial reality, but are a secondary ´kinetic´ reality, existing only as aether-movements. It´s only (primary) existing the aether with (secondary) existing aether-movements.
+
+Which ´reality-third-kind´ now brought these (future) scientists into that game?
+
+They restricted their interests at only some few occurrences, as they observed only the elements demanded for their game. They introduced abstract terms, by which they thought and communicated. They reduced their attention to observing and judging only physical occurrences. As they didn´t include primary nor secondary realities, they practically discussed only the outer criteria of the appearances.
+
+Lastly they produced the ´space´, measurable by three planes right-angled to each other with voluntarily chosen coordinates and voluntary zero point. Within that space they acted, were able to measure distances and speeds, to calculate and judge events. They used stable bodies for marking their space and they observed movements of bodies - however the abstract term of space, lastly was (and is in general) only necessary for exact counting, measuring, weighting and calculating.
+
+If this group would have been interested in the ball-playing by itself (and not in ´scientific word-game´), they would have needed only a ball (no ´field´ nor ´space´ and no discussions with (empty-) words). With that word-game they made up their own ´abstraction third kind´.
+
+Just this is the relation between the reality of the aether and the exclusively abstract term of space: the aether simply exists and plays its ´game of movements´ - and this reality for itself is not depending on any abstract term, thus existing regardless of the term ´space´. The universe (as synonym for ´all´) is the aether, simply existing by this substance, totally real and totally independent of any abstract term. ´Space´ is a human invention, a mental tool for brain´s understanding - reality however is not affected by abstract terms, so ´by this sense´ the aether exists without space.
+
+Time
+
+Primary, material reality is the existence of aether as the unique substance universe-wide. This reality exists completely independent of our abstract term of space (nevertheless, aether naturally is also the ´storage-medium´ e.g. for our terms, thus indeed their exists ´reality third kind´, described much later). Space is a mental ´stage´ for description of certain location, relative to voluntary chosen zero-point of a coordinate-system and voluntary fixed planes, however right-angled to each other.
+
+Secondary (above called ´kinetic´) reality is the existence of steady movements of aether within the aether. A movement means changing of locations (to describe relative within a coordinate-system) and speed is a movement within a time-unit.
+
+Again, really existing is only that motion of aether. This movement will occur totally independent of our mental measurement-tool of ´time´. Reality is only the motion of aether. Only if we want to determine ´exactly´, how fast a portion of aether is moving from one location to an other - then we need time-units.
+
+We do hard with time-measurement, just because time doesn´t exist as an original reality. Naturally it gets lighter and darker and we call this day and night - however these are indirect appearances (resp. abstract terms), while reality by itself are only some movements of aether. For time-measurement, we only can take a seemingly constant motion resp. constantly repeated event as comparison, build fictive time-intervals and thus ´measure´ (compare) the speed of other movements.
+
+At the one hand, time-measurement is a technical problem, at the other hand it is based only at the ´relative´ exact repetition of comparable events, third however it´s only a pure mental tool for observation or prediction of movement processes resp. events.
+
+The aether moves this very moment, did move before and will move further on. We name this before-now-afterwards as past, present and future. Nevertheless, also these are only abstract terms for mental handling and communication - while regardless of these considerations about time, there is the only reality of moving aether on and on (moving ahead or circled, never backwards, so ´backward-directed-time-arrow´ would be ´double-fictive´ term).
+
+Fictions
+
+It´s true, a ´portion´ of aether can´t be accelerated relative to surrounding aether on and on. Relativity Theory now tells, change of speed (at upper end near light-speed) would change the time. This is a mixing up reality (of the aether and its limited possibility of movements) with an abstract term (mental tool of time) - that´s miss-understanding basic logic, so that´s pure fiction.
+
+Time-measurement lastly is nothing else than comparing different movements. There is no reason given, why high accelerated motion here could have any influence to an other motion there, far away, used for comparison. There is no real nor logic cause, why signal speed of light should have any influence to both motions.
+
+It´s true, the possibilities for aether-movements are limited that kind, the motions are done only at bended tracks. However, any bending can only by stated by comparison with mentally, absolute straight lines of an abstract coordinate-system. Nevertheless, common science calls Euclide (straight lines) superfluous and claims a bended space. However, that´s mixing up reality (the aether movements at bended tracks) with pure mental tools (of abstract coordinates).
+
+That´s why it must be differed strictly between real certain knowledge (respective terms for real facts) and only mental tools (abstract terms resp. collective terms without direct relation to real facts). Absolutely certain are only facts of the aether and its movements. Besides this, abstract terms are absolutely necessary and useful. However, mixing up both ´worlds´ inevitably results pure fictions.
+
+Certainly it will be hard for many people to accept space and time as pure illusions and ´looking´ at the invisible aether as single real existing substance, above this to ´visualize´ the aether movements. However, Euclide´s Space and any voluntary time-unit will do. So all we need for considerations about reality, are three rods right-angled to each other and any chronometer (both showing / going straight ahead) as mental tool (and some people are able to exist, some even to live without these tools).
+
+01.06. Boundary or Boundless
+
+Aether-Physics and -Philosophy
