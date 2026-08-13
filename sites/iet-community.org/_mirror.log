@@ -149,3 +149,87 @@ Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/iet-community.o
 [2026-03-05 14:48:09] ============================================================
 [2026-03-05 14:48:09] 
 Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/iet-community.org
+[2026-08-13 09:40:20] ============================================================
+[2026-08-13 09:40:20] LIVE MIRROR: iet-community.org
+[2026-08-13 09:40:20] Seed: https://iet-community.org/
+[2026-08-13 09:40:20] Seed path: /
+[2026-08-13 09:40:20] Max link depth: 5
+[2026-08-13 09:40:20] Output: /Users/esaruoho/work/merlib-mirror/sites/iet-community.org
+[2026-08-13 09:40:20] ============================================================
+[2026-08-13 09:40:21] Crawling / (download-as-you-go)...
+[2026-08-13 09:40:21]   [1 d0*] https://iet-community.org/  (1 OK, 0 queued)
+[2026-08-13 09:40:21]     +14 links (15 total known)
+[2026-08-13 09:40:21]   [2 d0*] https://iet-community.org/research/research.html  (2 OK, 13 queued)
+[2026-08-13 09:40:21]     +5 links (20 total known)
+[2026-08-13 09:40:22]   [3 d0*] https://iet-community.org/research/dropchannel.html  (3 OK, 17 queued)
+[2026-08-13 09:40:22]     +9 links (29 total known)
+[2026-08-13 09:40:23]   [4 d0*] https://iet-community.org/bilder/exswdelogga.jpg  (4 OK, 25 queued)
+[2026-08-13 09:40:23]   [5 d0*] https://iet-community.org/bilder/images/dropchannel02_02.jpg  (5 OK, 24 queued)
+[2026-08-13 09:40:24]   [6 d0*] https://iet-community.org/bilder/expopen.jpg  (6 OK, 23 queued)
+[2026-08-13 09:40:24]   [7 d0*] https://iet-community.org/bilder/images/dropchannel02_01.jpg  (7 OK, 22 queued)
+[2026-08-13 09:40:25]   [8 d0*] https://iet-community.org/bilder/images/dropchannel01_02.jpg  (8 OK, 21 queued)
+[2026-08-13 09:40:25]   [9 d0*] https://iet-community.org/bilder/images/dropchannel01_01.jpg  (9 OK, 20 queued)
+[2026-08-13 09:40:26]   [10 d0*] https://iet-community.org/bilder/expside.jpg  (10 OK, 19 queued)
+[2026-08-13 09:40:28]   [15 d0*] https://iet-community.org/iwone/IWONE2/iwone2_info.html  (15 OK, 24 queued)
+[2026-08-13 09:40:31]   [20 d0*] https://iet-community.org/iwone/IWONE2/Skaneliten.jpg  (20 OK, 33 queued)
+[2026-08-13 09:40:33]   [25 d0*] https://iet-community.org/iwone/IWONE2/register.html  (25 OK, 28 queued)
+[2026-08-13 09:40:36]   [30 d0*] https://iet-community.org/iwone/IWONE7/  (30 OK, 23 queued)
+[2026-08-13 09:40:36]     +6 links (59 total known)
+[2026-08-13 09:40:38]   [35 d0*] https://iet-community.org/iwone/IWONE7/focus.html  (35 OK, 24 queued)
+[2026-08-13 09:40:41]   [40 d0*] https://iet-community.org/iwone/IWONE7/images/Skane.jpg  (40 OK, 23 queued)
+[2026-08-13 09:40:43]   [45 d0*] https://iet-community.org/iwone/IWONE4/iwone.png  (44 OK, 24 queued)
+[2026-08-13 09:40:46]   [50 d0*] https://iet-community.org/iwone/IWONE6/focus.html  (48 OK, 29 queued)
+[2026-08-13 09:40:49]   [55 d0*] https://iet-community.org/iwone/IWONE6/images/Hoor%20City.jpg  (53 OK, 28 queued)
+[2026-08-13 09:40:51]   [60 d0*] http://www.iet-community.org/iwone/IWONE5/presentations.html  (58 OK, 23 queued)
+[2026-08-13 09:40:51]     +1 links (84 total known)
+[2026-08-13 09:40:54]   [65 d0*] https://iet-community.org/iwone/IWONE1/iwone20.jpg  (63 OK, 25 queued)
+[2026-08-13 09:40:56]   [70 d0*] https://iet-community.org/iwone/IWONE1/report.html  (68 OK, 22 queued)
+[2026-08-13 09:40:56]     +2 links (94 total known)
+[2026-08-13 09:40:59]   [75 d0*] https://iet-community.org/iwone/IWONE5/  (73 OK, 19 queued)
+[2026-08-13 09:41:01]   [80 d0*] https://iet-community.org/iwone/IWONE9/Invitation_to_IWONE_2019.pdf  (78 OK, 25 queued)
+[2026-08-13 09:41:04]   [85 d0*] https://iet-community.org/iwone/IWONE9/a-quick-glimpse.html  (83 OK, 20 queued)
+[2026-08-13 09:41:06]   [90 d0*] https://iet-community.org/iwone/IWONE9/images/Hoor%20City.jpg  (88 OK, 19 queued)
+[2026-08-13 09:41:09]   [95 d0*] https://iet-community.org/iwone/IWONE8/topic-discussions.html  (93 OK, 22 queued)
+[2026-08-13 09:41:11]   [100 d0*] https://iet-community.org/iwone/IWONE8/images/Skaneliten.jpg  (98 OK, 21 queued)
+[2026-08-13 09:41:14]   [105 d0*] https://iet-community.org/bilder/coffeecycloid.jpg  (103 OK, 16 queued)
+[2026-08-13 09:41:17]   [110 d0*] https://iet-community.org/iwone/IWONE3/schedule.html  (107 OK, 17 queued)
+[2026-08-13 09:41:17]     +1 links (128 total known)
+[2026-08-13 09:41:19]   [115 d0*] https://iet-community.org/bilder/Morten.jpg  (112 OK, 45 queued)
+[2026-08-13 09:41:22]   [120 d0*] https://iet-community.org/bilder/images/arla_05.jpg  (117 OK, 40 queued)
+[2026-08-13 09:41:24]   [125 d0*] https://iet-community.org/bilder/images/dropchan_01.jpg  (122 OK, 35 queued)
+[2026-08-13 09:41:27]   [130 d0*] https://iet-community.org/bilder/images/stone_01.gif  (127 OK, 30 queued)
+[2026-08-13 09:41:29]   [135 d0*] https://iet-community.org/bilder/images/arla_01.jpg  (132 OK, 25 queued)
+[2026-08-13 09:41:32]   [140 d0*] https://iet-community.org/bilder/images/augustenborg_10.jpg  (137 OK, 20 queued)
+[2026-08-13 09:41:34]   [145 d0*] https://iet-community.org/bilder/images/arla_09.jpg  (142 OK, 15 queued)
+[2026-08-13 09:41:37]   [150 d0*] https://iet-community.org/bilder/images/knossos_03.gif  (147 OK, 21 queued)
+[2026-08-13 09:41:39]   [155 d0*] https://iet-community.org/bilder/images/knossos_08.gif  (152 OK, 16 queued)
+[2026-08-13 09:41:42]   [160 d0*] https://iet-community.org/publications/index.html  (157 OK, 11 queued)
+[2026-08-13 09:41:42]     +9 links (180 total known)
+[2026-08-13 09:41:45]   [165 d0*] https://iet-community.org/publications/reports/IET%20Forskningsrapporter%20Nr%202.pdf  (162 OK, 16 queued)
+[2026-08-13 09:41:47]   [170 d0*] https://iet-community.org/publications/reports/IET%20Forskningsrapporter%20Nr%201.pdf  (167 OK, 12 queued)
+[2026-08-13 09:41:50]   [175 d0*] https://iet-community.org/bilder/history.jpg  (172 OK, 14 queued)
+[2026-08-13 09:41:52]   [180 d0*] https://iet-community.org/contact/Contact.html  (177 OK, 11 queued)
+[2026-08-13 09:41:52]     +2 links (193 total known)
+[2026-08-13 09:41:55]   [185 d0*] https://iet-community.org/bilder/images/topbar_02.jpg  (182 OK, 9 queued)
+[2026-08-13 09:41:57]   [190 d0*] https://iet-community.org/bilder/logo.gif  (187 OK, 5 queued)
+[2026-08-13 09:42:00]   [195 d0*] http://www.iet-community.org/iwone/IWONE10/Schedule_Iwone_2023.pdf  (192 OK, 8 queued)
+[2026-08-13 09:42:02]   [200 d0*] http://www.iet-community.org/iwone/IWONE10/images/topic-discussions.jpg  (197 OK, 7 queued)
+[2026-08-13 09:42:05]   [205 d0*] http://www.iet-community.org/iwone/IWONE10/images/Hoor%20City.jpg  (202 OK, 6 queued)
+[2026-08-13 09:42:07]   [210 d0*] http://www.iet-community.org/iwone/IWONE10/presentations.html  (207 OK, 1 queued)
+[2026-08-13 09:42:10] Generating index...
+[2026-08-13 09:42:10] Index: 211 files
+[2026-08-13 09:42:10]   .jpg: 90
+[2026-08-13 09:42:10]   .html: 73
+[2026-08-13 09:42:10]   .gif: 21
+[2026-08-13 09:42:10]   .pdf: 16
+[2026-08-13 09:42:10]   .png: 8
+[2026-08-13 09:42:10]   .md: 2
+[2026-08-13 09:42:10]   .css: 1
+[2026-08-13 09:42:10] 
+============================================================
+[2026-08-13 09:42:10] LIVE MIRROR COMPLETE
+[2026-08-13 09:42:10] Downloaded: 213, OK: 210, Failed: 3
+[2026-08-13 09:42:10] Total URLs seen: 213
+[2026-08-13 09:42:10] ============================================================
+[2026-08-13 09:42:10] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/iet-community.org
