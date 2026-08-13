@@ -1,0 +1,99 @@
+---
+title: "evert aether-physics and -philosophy"
+source_domain: evert.de
+source_path: ap0401e.htm
+order: 196
+reachable_from_entry: true
+images: 9
+internal_links: 2
+extracted: 2026-08-13T06:39:10Z
+extractor: site_to_paper.py (builtin)
+---
+
+# evert aether-physics and -philosophy
+
+*Source page: `ap0401e.htm`*
+
+Alfred Evert
+
+22.06.2006
+
+04.01. Subject
+
+God and the World, Everything and Nothing
+
+It´s just two years ago when I published first three parts of Aether-Physics and -Philosophy at my website. At introduction-part were defined terms used, second part described the Universal Aether-Movement and third part described the principle of Local Aether-Movements. I got lots of mails and additional hints, exchanged ideas with some hundred readers.
+
+The reactions to the published ideas showed me where my explications were not sufficiently clear or where readers could not follow the line of thoughts. I had to learn how difficult it is to achieve an agreement about even simple terms. For example, I really did try to describe real simple mechanic motions - however practically all critic readers argued with abstract terms, without direct relation to simple reality, e.g. instead of ´movement´ using ´forces´ or even more abstract the empty-word of ´energy´.
+
+As single absolute sure bases of all considerations I stated: there is Something (at picture 04.01.05 represented by blue circle surface). Opposite to Something (which really exists) is Nothing (not existing), here marked by ´not-colour´ black. For me it´s logic, a Nothing excludes any existence - however I had many discussions what ´real existence´ would mean - and if Nothing could not be also some relative-nothing - just like ´space of universe´ commonly is called ´vacuum´ - thus an emptiness which is not quit empty - so talking at logic level of ´little-bit-pregnant´.
+
+This blue surface e.g. could represent total Something which we call the universe. Some critic readers urge, thus I also should have to name God as creator of the universe - even I excluded this question clearly, because this question is beyond our horizon. I exclude this question concerning the ´creator´ or ´constructor´ of the universe, simply because men all times are creating or constructing - nevertheless this does not exclude other possibility for producing existence in general. Above this, no science can approve why lastly something exists. One can calculate backward - by fictive formula, based on questionable parameters - when the universe probably became existing by big-bang - why and who or what however big-bang started and all questions concerning status before that explosion, still are without an answer.
+
+Other critic readers accuse me to ´materialize´ God as everything should exist of aether. I also made the clear statement concerning this question: aether is the medium of all occurrences and nothing else than a medium. Everything we know as physical-material are (relative coarse) aether-movements and I am sure, everything we know as mental-spiritual are also represented by this medium (by essentially finer movements pattern). It well could be, God uses this medium - and the medium thus might be morphogenetic for other occurrences - however a medium rests a medium and by itself nothing else (so the medium is never equal to God).
+
+Pressure through Nothing
+
+It´s an open question whether the total Something (whole universe) is finite or infinite, i.e. if an outer border must exist. I leave open also this question, however everyone has to think about most questionable conditions which are demanded for the existence of an outer border. Such faces next to Nothing come up also at any ´twisted universe´ or additional ´parallel-universes´ or ´worm-holes´ and other hypothetic suggestions of different researchers - and none of them produced a convincing answer concerning demanded borders.
+
+The problem of a border between Something and Nothing (resp. what should be outside of Something) however exists not only at outer border of an universe, but numberless times within an universe and within our world. Common science tells, not only the universe is empty, but ´vacuum´ exists also between all parts. At Sun-system or at atoms, all times is assumed the existence of a core (plus planets or electrons or something else) - and Nothing between. Here at picture 04.01.06 and at this animation, any parts again are marked by blue colour and between of that Nothing is marked by black colour.
+
+Whenever one is thinking by parts, inevitably come up gaps between - and common science eliminated the aether to fill up this space. As a substitute that space is called ´vacuum´ and this relative emptiness is filled up by ´fields´ - which again is only an abstract empty-word. Critics might argue, the fields naturally are real and represent exact calculable forces. However, why and how the forces of all fields should affect - is a totally open question.
+
+In principle, there are only two forces of pushing or dragging affects. Fairly reasonable are affects of rejection (like sketched at these pictures). The parts could show some ´radiation´ and its pressure could affect versus other parts thus enlarging the distances between. If parts at their flight collide with other parts, also elastic push would be reasonable by these mutual radiations.
+
+By this ´radiations´ thus would come up a mechanic effect between material particles - however how could ´pressure´ be transported, if not by likely ´material-mechanic´ means? Or in general, the common understanding will finally be, any kind of radiation lastly is some motion - and any movement implies Something-in-motion - and ´vacuum´ by sure is too empty for, contains too less movable somethings - and ´fields´ are only abstract numbers and thus are nothing which could achieve real affects by themselves.
+
+Certainly many specialists can explain the affects of fields by many words, nevertheless all common analogism can not plausibly explain, why these effects come up and can even less explain why some affects inevitably work by strange vectors. These ´phenomena´ are only to explain, if all spaces between are filled up not by - nearby empty - vacuum, but by a real material aether.
+
+Drag through Nothing
+
+Long time ago, Newton recognized ´how apples fall from trees´ and by inertia- and gravity-forces he was able to calculate the tracks of planets. He mentioned on and on, the phenomenon of gravity is calculable however this occurrence does not imply any ´dragging force´. For example he wrote ´... a body affecting to an other body via distance through vacuum without mediation by some medium, for me is most great absurdity, so no man able to consider any philosophic question can really think about ...´. Nevertheless this mental picture of ´attracting forces´ became common understanding.
+
+There were and are scientists who consider space to be filled up with a fluid-like aether. The tracks of turning and rotating planets well could be explained by flux-technologic calculations.
+
+The problem however exists in general as attraction can also affect between non-turning and non-rotating particles, e.g. between unlike magnetic poles or charged particles. However, how should one imagine any ´attraction´ via Nothing? Sure, there are fields and forces to calculate, however this does not contribute to a real explanation of the essential processes.
+
+At picture 04.01.08 and this animation are sketched three material parts (blue Somethings) swimming within Nothing (black emptiness). The parts should mutually get in touch anyhow, here symbolized by red ´feelers´. If these (magnetic) ´field-lines´ meet, they develop a tendency to become shorter resp. to reduce the distance between the parts in general. How they produce that behaviour - still rests their secrete miracle.
+
+As a substitute here are marked light-red fields between the parts, within which attraction could occur. At the other hand this picture obviously suggests, between these parts could come up a ´protected´ area and the parts are not really dragging mutually - but are pressed together by any force from outside. As mentioned upside, the idea of pressure-forces affecting from outside onto parts is much more plausible than any ´mysterious elastic rubber bands´ of dragging forces.
+
+Indeed, some scientists suggest the gravity resulting of pressure forces, however these theories describe properties of demanded medium rather different (or prefer not to define their medium and properties at all). Unlike magnetic poles obviously seem to demonstrate attraction - however also magnetism could alternatively be explained by pressure forces. It´s common understanding, unlike stuff works attracting and likely stuff works rejecting - and it rests unexplained e.g. why likely charged particles of atomic nucleus should keep together unbelievable dense and strong (and no ´glue´ can explain that miracle sufficiently).
+
+Naive and off the Mark
+
+Here it´s not previous spiritual question whether or why or how any God or any Spirit created the universe. The general problem of attracting or rejecting affects - via distances and via the Nothing of suggested vacuum - is the basic question within the material word, thus direct in front of the door of all nature sciences. By this point of view, all suggestions of common explanations of the main stream sciences indeed are ´unbelievable mysterious´.
+
+This broad generalization naturally does not meet all positive achievements of nature sciences and techniques. Indeed, people without technical interest and knowledge can use many useful machines. One well can drive a car knowing function of only few parts. Nearby all technical tools demand basic knowledge of only few Somethings (E, German Etwas) in order to profit of the performance of remaining ´black-box´ (BB). This disc at picture 04.01.10 visualizes e.g. a relation of 5 percents knowledge and 95 percent ignorance.
+
+For example this is the actual status of knowledge at astronomic science: as known are assumed materia with their masses and inertia and weights, speed of light and its bending and red-shifting, physical forces  of electric and magnetic nature, great number of so-called nature-constants, everything well calculated by well known formula. However, if the calculations should fit to the observed reality of total universe, missing are further 95 percent of ´unknown, dark, abnormal masses or energies´. Is this a neglectable tiny ´mistake´ or a clear case of ´totally missing the target´?
+
+Here it´s not previous spiritual question whether or why or how any God or any Spirit created universe. General problem of attracting or rejecting affects - via distances, thus via Nothing of vacuum - is basic question within material word, thus direct in front of door of all nature sciences. By this point of view, all suggestions of common explanations of main stream sciences indeed are unbelievable ´mysterious´.
+
+This broad generalization naturally does not meet all positive achievements of nature sciences and techniques. Indeed, people without technical interest and knowledge can use many useful machines. One well can drive a car knowing function of only few parts. Nearby all technical tools demand basic knowledge of only few Somethings (E, German Etwas) in order to profit of performance of remaining ´black-box´ (BB). This disc at picture 04.01.10 visualizes e.g. relation of 5 percents knowledge and 95 percent ignorance.
+
+For example this is actual status of knowledge at astronomic science: as known are assumed materia with their masses and inertia and weights, speed of light and its bending and red-shifting, physical forces e.g. of electric and magnetic nature, great number of so-called nature-constants, everything well calculated by well known formula. However, if calculations should fit to reality of total universe, missing are further 95 percent of ´unknown, dark, abnormal mass or energy´. Is this neglectable tiny ´mistake´ or clear case of ´totally missing the target´?
+
+Aether, particle-less
+
+This ´stuff unknown´ one could simply call the old-fashioned ´aether´ - and re-define its properties by actual clear physical terms. There are missing ´masses´, so the aether must be a substantial matter. Previous relation well could fit, as All is aether and all aether is in motion - and only a small part shows motion pattern resulting these physical occurrences, which we are used to measure, weight and count.
+
+Indeed, the discussions about the aether came up by many physicists and explorers. For example, my workouts concerning the aether resulted questions and comments and hints all day long, by hundreds of emails. Many colleges ´agree in total´ - and next moment they try to convince me by opposite positions. Many other collegues think these aether-considerations are totally in vain, as the Relativity- and Quant-Theories explain everything. Most people however did not really realize, ´my aether´ is part-less substance and thus totally different to common understanding. Up to now, practically nobody did really follow this idea of an absolute continuum, as nobody can imagine any motion within a gapless solid material substance (so I have to describe these necessities and possibilities at following chapters once more in details).
+
+Present-days physics can not solve the problems as long as bound to think-by-particles and to the suggestion the affects between parts could work via Nothing. Further on: if this Nothing is replaced by an aether - and that aether again is assumed to exist by particles - same unsolved problems are only placed at a lower level.
+
+So I am forced to ask this ´killer-question´ on and on: no matter which kind of particles, why should particles not disperse into the emptiness, which inevitably exists between parts. What else could result than (at picture 04.01.11 grey) a mixture of Nothing and Something? The existence resp. Non-Existence of Nothing and Something is mutually excluding, logical like physical. Thinking by parts implies prerequisites and affects - which physics up to now were not able to explain. The physicists disregard these essential problems as negligible ´phenomena´ or side-aspects.
+
+I did not receive any acceptable answer to previous question (of dispersion of parts into vacuum). As a substitute ´elastic-swinging´ aether or likely constructions are suggested, which however demand numberless additional prerequisites (which practically no author mentions precisely). For example, within a particle-aether or elastic-aether could not exist real constant of energies - all would end into ´heat death´, this grey stuff of previous picture.
+
+Subject
+
+The basic subject of Aether-Physics thus is the question, ´what the world keeps together most inside´ - like Goethe´s Faust asks urgently. At following parts of these workouts however, I will not discuss philosophic aspects, i.e. all ´mental-spiritual´ stuff is excluded and only pure physical questions are considered.
+
+At first I will show once more, why the problems of actual physics find ´reasonable´ answers only when the aether is assumed to be the general medium for all occurrences. I will define demanded properties really exact and I will describe the possibilities and necessities of its motion pattern.
+
+A ´magician´ designed this well known cube with its possibilities of movements into all three directions. Complex motions are necessary to produce an optimum order. Above this, some might think about the construction of the ´inner gear´, which results the cohesion of the cube and nevertheless allows these movements. The aether functions just like this - and totally opposite to.
+
+04.02. Space-Time-Quant-Zero-Point-Energy
+
+Aether-Physics and -Philosophy

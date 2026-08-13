@@ -1,0 +1,4 @@
+target: http://evert.de/
+mode: live
+title: www.evert.de
+mirror_date: 2026-08-13T06:38:49Z

@@ -1,0 +1,4443 @@
+{
+  "domain": "evert.de",
+  "source_url": "http://evert.de/",
+  "entry": "index.htm",
+  "pages_total": 215,
+  "pages_reachable": 214,
+  "pages_unreached": 1,
+  "body_chars": 4604290,
+  "extractor": "builtin",
+  "generated": "2026-08-13T06:39:10Z",
+  "pages": [
+    {
+      "order": 1,
+      "title": "www.evert.de",
+      "path": "index.htm",
+      "slug": "001-wwwevertde",
+      "reachable_from_entry": true,
+      "images": [
+        "npuls.gif",
+        "avard3.GIF"
+      ],
+      "internal_links": [
+        "indexe.htm",
+        "indexa.htm",
+        "indexf.htm",
+        "autor.htm",
+        "news.htm"
+      ],
+      "chars": 745
+    },
+    {
+      "order": 2,
+      "title": "www.evert.de/indexe.htm",
+      "path": "indexe.htm",
+      "slug": "002-wwwevertdeindexehtm",
+      "reachable_from_entry": true,
+      "images": [
+        "npuls.gif",
+        "avard3.GIF"
+      ],
+      "internal_links": [
+        "index.htm",
+        "indexae.htm",
+        "indexfe.htm",
+        "author.htm",
+        "newse.htm"
+      ],
+      "chars": 735
+    },
+    {
+      "order": 3,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "indexa.htm",
+      "slug": "003-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap00.htm",
+        "ergebnis.htm",
+        "ap09.htm",
+        "buch.htm",
+        "index.htm"
+      ],
+      "chars": 1642
+    },
+    {
+      "order": 4,
+      "title": "evert fluid-technologie",
+      "path": "indexf.htm",
+      "slug": "004-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap05.htm",
+        "ap06.htm",
+        "ap07.htm",
+        "buchf.htm",
+        "ergebf.htm",
+        "index.htm"
+      ],
+      "chars": 1038
+    },
+    {
+      "order": 5,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "autor.htm",
+      "slug": "005-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "autor.jpg"
+      ],
+      "internal_links": [
+        "index.htm"
+      ],
+      "chars": 3102
+    },
+    {
+      "order": 6,
+      "title": "evert fluid-technologie",
+      "path": "news.htm",
+      "slug": "006-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap050301.gif",
+        "ap060701.gif",
+        "ap050402.gif",
+        "ap052206.gif",
+        "ap082301.gif",
+        "ap082102.gif",
+        "ap082109.gif",
+        "ap082304.gif",
+        "ap090802.gif",
+        "tesla2.JPG",
+        "pierce2.JPG",
+        "senke6.gif",
+        "eft950.jpg",
+        "npuls.gif",
+        "nrandall1.jpg",
+        "ap090805.gif",
+        "ap091408.gif",
+        "ap091320.gif",
+        "ap091504.gif",
+        "ap052210.gif",
+        "ap052107k.gif",
+        "ap052002.gif",
+        "buchf2.gif",
+        "ap051906.gif",
+        "buchf.gif"
+      ],
+      "internal_links": [
+        "ergebf.htm",
+        "indexf.htm",
+        "ergebnis.htm",
+        "indexa.htm",
+        "ap0821.htm",
+        "ap0823.htm",
+        "ap09.htm",
+        "ap0901.htm",
+        "ap0904.htm",
+        "ap0905.htm",
+        "ap0914.htm",
+        "ap0816.htm",
+        "ap0810.htm",
+        "ap0522.htm",
+        "ap0521.htm",
+        "buchf.htm",
+        "ap0519.htm",
+        "ap0518.htm",
+        "ap0517.htm",
+        "ap06.htm",
+        "ap0516.htm",
+        "index.htm"
+      ],
+      "chars": 27880
+    },
+    {
+      "order": 7,
+      "title": "indexae",
+      "path": "indexae.htm",
+      "slug": "007-indexae",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap00e.htm",
+        "result.htm",
+        "ap09e.htm",
+        "book.htm",
+        "indexe.htm"
+      ],
+      "chars": 1556
+    },
+    {
+      "order": 8,
+      "title": "evert fluid-technologie",
+      "path": "indexfe.htm",
+      "slug": "008-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap05e.htm",
+        "ap06e.htm",
+        "ap07e.htm",
+        "bookf.htm",
+        "resultf.htm",
+        "indexe.htm"
+      ],
+      "chars": 1042
+    },
+    {
+      "order": 9,
+      "title": "evert aether-physics and -philosophy",
+      "path": "author.htm",
+      "slug": "009-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "autor.jpg"
+      ],
+      "internal_links": [
+        "indexe.htm"
+      ],
+      "chars": 2933
+    },
+    {
+      "order": 10,
+      "title": "evert fluid-technologie",
+      "path": "newse.htm",
+      "slug": "010-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap050301.gif",
+        "ap060701.gif",
+        "ap050402.gif",
+        "ap052206.gif",
+        "ap082301.gif",
+        "ap082102.gif",
+        "ap082109.gif",
+        "ap082304.gif",
+        "ap090802.gif",
+        "tesla2.JPG",
+        "pierce2.JPG",
+        "senke6.gif",
+        "eft950.jpg",
+        "npuls.gif",
+        "nrandall1.jpg",
+        "ap090805.gif",
+        "ap091408.gif",
+        "ap091320.gif",
+        "ap091504.gif",
+        "ap052210.gif",
+        "ap052107k.gif",
+        "ap052002.gif",
+        "bookf2.gif",
+        "ap051906.gif",
+        "bookf.gif"
+      ],
+      "internal_links": [
+        "resultf.htm",
+        "indexfe.htm",
+        "result.htm",
+        "indexae.htm",
+        "ap0821e.htm",
+        "ap0823e.htm",
+        "ap09e.htm",
+        "ap0901e.htm",
+        "ap0904e.htm",
+        "ap0905e.htm",
+        "ap0914e.htm",
+        "ap0816e.htm",
+        "ap0810e.htm",
+        "ap0522e.htm",
+        "ap0521e.htm",
+        "bookf.htm",
+        "ap0519e.htm",
+        "ap0518e.htm",
+        "ap0517e.htm",
+        "ap06e.htm",
+        "ap0516e.htm",
+        "indexe.htm"
+      ],
+      "chars": 25826
+    },
+    {
+      "order": 11,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap00.htm",
+      "slug": "011-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap01.htm",
+        "ap02.htm",
+        "ap03.htm",
+        "ap04.htm",
+        "ap08.htm",
+        "ap09.htm",
+        "buch.htm",
+        "ergebnis.htm",
+        "index.htm"
+      ],
+      "chars": 1498
+    },
+    {
+      "order": 12,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ergebnis.htm",
+      "slug": "012-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "index.htm",
+        "buch.htm",
+        "ap00.htm"
+      ],
+      "chars": 18954
+    },
+    {
+      "order": 13,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap09.htm",
+      "slug": "013-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0901.htm",
+        "ap0902.htm",
+        "ap0903.htm",
+        "ap0904.htm",
+        "ap0905.htm",
+        "ap0906.htm",
+        "ap0907.htm",
+        "ap0908.htm",
+        "ap0909.htm",
+        "ap0910.htm",
+        "ap0911.htm",
+        "ap0912.htm",
+        "ap0913.htm",
+        "ap0914.htm",
+        "ap0915.htm",
+        "ap00.htm"
+      ],
+      "chars": 2132
+    },
+    {
+      "order": 14,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "buch.htm",
+      "slug": "014-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "indexb.gif"
+      ],
+      "internal_links": [
+        "indexa.htm",
+        "ap00.htm"
+      ],
+      "chars": 1187
+    },
+    {
+      "order": 15,
+      "title": "evert fluid-technologie",
+      "path": "ap05.htm",
+      "slug": "015-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0501.htm",
+        "ap0502.htm",
+        "ap0503.htm",
+        "ap0513.htm",
+        "ap0604.htm",
+        "ap0607.htm",
+        "indexf.htm"
+      ],
+      "chars": 1319
+    },
+    {
+      "order": 16,
+      "title": "evert fluid-technologie",
+      "path": "ap06.htm",
+      "slug": "016-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0504.htm",
+        "ap0512.htm",
+        "ap0509.htm",
+        "ap0508.htm",
+        "ap0515.htm",
+        "ap0516.htm",
+        "ap0517.htm",
+        "ap0518.htm",
+        "ap0519.htm",
+        "ap0521.htm",
+        "ap0522.htm",
+        "indexf.htm"
+      ],
+      "chars": 2725
+    },
+    {
+      "order": 17,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap07.htm",
+      "slug": "017-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0705.htm",
+        "ap0707.htm",
+        "ap0708.htm",
+        "ap0709.htm",
+        "ap0710.htm",
+        "ap00.htm"
+      ],
+      "chars": 1119
+    },
+    {
+      "order": 18,
+      "title": "evert fluid-technologie",
+      "path": "buchf.htm",
+      "slug": "018-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "indexf.htm"
+      ],
+      "chars": 724
+    },
+    {
+      "order": 19,
+      "title": "evert fluid-technologie",
+      "path": "ergebf.htm",
+      "slug": "019-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "indexf.htm"
+      ],
+      "chars": 12149
+    },
+    {
+      "order": 20,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0821.htm",
+      "slug": "020-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap082101.gif",
+        "ap082102.gif",
+        "ap082103.gif",
+        "ap082104.gif",
+        "ap082105.gif",
+        "ap082106.gif",
+        "ap082107.gif",
+        "ap082108.gif",
+        "ap082109.gif",
+        "ap082110.gif",
+        "ap082111.gif"
+      ],
+      "internal_links": [
+        "ap0822.htm",
+        "ap08.htm"
+      ],
+      "chars": 43244
+    },
+    {
+      "order": 21,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0823.htm",
+      "slug": "021-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap082301.gif",
+        "ap082302.gif",
+        "ap082303.gif",
+        "ap082304.gif",
+        "ap082305.gif",
+        "ap082306.gif",
+        "ap082307.gif",
+        "ap082308.gif",
+        "ap082309.gif"
+      ],
+      "internal_links": [
+        "ap08.htm"
+      ],
+      "chars": 21606
+    },
+    {
+      "order": 22,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0901.htm",
+      "slug": "022-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090101.jpg",
+        "ap090102.jpg"
+      ],
+      "internal_links": [
+        "ap0902.htm",
+        "ap09.htm"
+      ],
+      "chars": 11832
+    },
+    {
+      "order": 23,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0904.htm",
+      "slug": "023-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090401.gif",
+        "ap090402.gif",
+        "ap090403.gif",
+        "ap090404.gif",
+        "ap090405.gif"
+      ],
+      "internal_links": [
+        "ap0905.htm",
+        "ap09.htm"
+      ],
+      "chars": 22614
+    },
+    {
+      "order": 24,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0905.htm",
+      "slug": "024-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090501.gif",
+        "ap090502.gif",
+        "ap090503.gif",
+        "ap090504.gif",
+        "ap090505.gif",
+        "ap090506.gif"
+      ],
+      "internal_links": [
+        "ap0906.htm",
+        "ap09.htm"
+      ],
+      "chars": 27639
+    },
+    {
+      "order": 25,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0914.htm",
+      "slug": "025-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap091401.gif",
+        "ap091402.gif",
+        "ap091403.gif",
+        "ap091404.gif",
+        "ap091405.gif",
+        "ap091406.gif",
+        "ap091407.gif",
+        "ap091408.gif"
+      ],
+      "internal_links": [
+        "ap0915.htm",
+        "ap09.htm"
+      ],
+      "chars": 18657
+    },
+    {
+      "order": 26,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0816.htm",
+      "slug": "026-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081601.gif",
+        "ap081602.gif",
+        "ap081603.gif",
+        "ap081604.gif",
+        "ap081605.gif",
+        "ap081606.gif",
+        "ap081607.gif",
+        "ap081608.gif",
+        "ap081609.gif",
+        "ap081610.gif",
+        "ap081611.gif",
+        "ap081612.gif",
+        "ap081613.gif",
+        "ap081614.gif",
+        "ap081615.gif",
+        "ap081616.gif",
+        "ap081617.gif",
+        "ap081618.gif",
+        "ap081619.jpg"
+      ],
+      "internal_links": [
+        "ap0817.htm",
+        "ap08.htm"
+      ],
+      "chars": 81875
+    },
+    {
+      "order": 27,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0810.htm",
+      "slug": "027-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081001.gif",
+        "ap081002.gif",
+        "ap081003.gif",
+        "ap081004.gif",
+        "ap081005.gif",
+        "ap081006.gif"
+      ],
+      "internal_links": [
+        "ap0811.htm",
+        "ap08.htm"
+      ],
+      "chars": 28916
+    },
+    {
+      "order": 28,
+      "title": "evert fluid-technologie",
+      "path": "ap0522.htm",
+      "slug": "028-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap052201.gif",
+        "ap052202.gif",
+        "ap052203.gif",
+        "ap052204.gif",
+        "ap052205.gif",
+        "ap052206.gif",
+        "ap052207.gif",
+        "ap052208.gif",
+        "ap052209.gif"
+      ],
+      "internal_links": [
+        "buch.htm",
+        "ap0822.htm",
+        "indexa.htm",
+        "ap09.htm",
+        "ap0512.htm",
+        "ap0504.htm",
+        "ap0521.htm",
+        "ap0516.htm",
+        "ap0509.htm",
+        "ap0604.htm",
+        "ap06.htm"
+      ],
+      "chars": 29074
+    },
+    {
+      "order": 29,
+      "title": "evert fluid-technologie",
+      "path": "ap0521.htm",
+      "slug": "029-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap052101.gif",
+        "ap052102.gif",
+        "ap052103.gif",
+        "ap052104.gif",
+        "ap052105.gif",
+        "ap052106.gif",
+        "ap052107.gif",
+        "ap052108.gif"
+      ],
+      "internal_links": [
+        "ap06.htm"
+      ],
+      "chars": 16053
+    },
+    {
+      "order": 30,
+      "title": "evert fluid-technologie",
+      "path": "ap0519.htm",
+      "slug": "030-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap051901.gif",
+        "ap051902.gif",
+        "ap051903.gif",
+        "ap051945.gif",
+        "ap051906.gif",
+        "ap051907.gif"
+      ],
+      "internal_links": [
+        "ap0521.htm",
+        "ap06.htm"
+      ],
+      "chars": 18792
+    },
+    {
+      "order": 31,
+      "title": "evert fluid-technologie",
+      "path": "ap0518.htm",
+      "slug": "031-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap051801.gif",
+        "ap051802.gif",
+        "ap051803.gif",
+        "ap051804.gif",
+        "ap051805.gif"
+      ],
+      "internal_links": [
+        "ap0519.htm",
+        "ap06.htm"
+      ],
+      "chars": 16992
+    },
+    {
+      "order": 32,
+      "title": "evert fluid-technologie",
+      "path": "ap0517.htm",
+      "slug": "032-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap051701.gif",
+        "ap051702.gif",
+        "ap051703.gif",
+        "ap051704d.gif",
+        "ap051705d.gif",
+        "ap051706.gif"
+      ],
+      "internal_links": [
+        "ap0518.htm",
+        "ap06.htm"
+      ],
+      "chars": 22948
+    },
+    {
+      "order": 33,
+      "title": "evert fluid-technologie",
+      "path": "ap0516.htm",
+      "slug": "033-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap051601.gif",
+        "ap051602.gif",
+        "ap051603.gif",
+        "ap051604.gif",
+        "ap051605.gif",
+        "ap051606.gif",
+        "ap051607.gif",
+        "ap051608d.gif",
+        "ap051609d.gif",
+        "ap051610d.gif",
+        "ap051611.gif",
+        "ap051612.gif",
+        "ap051613d.gif"
+      ],
+      "internal_links": [
+        "ap0517.htm",
+        "ap06.htm"
+      ],
+      "chars": 36213
+    },
+    {
+      "order": 34,
+      "title": "evert aether-physics und -philosophy",
+      "path": "ap00e.htm",
+      "slug": "034-evert-aether-physics-und-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap01e.htm",
+        "ap02e.htm",
+        "ap03e.htm",
+        "ap04e.htm",
+        "ap08e.htm",
+        "ap09e.htm",
+        "book.htm",
+        "result.htm",
+        "indexe.htm"
+      ],
+      "chars": 1505
+    },
+    {
+      "order": 35,
+      "title": "evert aether-physics and -philosophy",
+      "path": "result.htm",
+      "slug": "035-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "indexe.htm",
+        "book.htm",
+        "ap00e.htm"
+      ],
+      "chars": 18524
+    },
+    {
+      "order": 36,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap09e.htm",
+      "slug": "036-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0901e.htm",
+        "ap0902e.htm",
+        "ap0903e.htm",
+        "ap0904e.htm",
+        "ap0905e.htm",
+        "ap0906e.htm",
+        "ap0907e.htm",
+        "ap0908e.htm",
+        "ap0909e.htm",
+        "ap0910e.htm",
+        "ap0911e.htm",
+        "ap0912e.htm",
+        "ap0913e.htm",
+        "ap0914e.htm",
+        "ap0915e.htm",
+        "ap00e.htm"
+      ],
+      "chars": 2026
+    },
+    {
+      "order": 37,
+      "title": "evert aether-physics and -philosophy",
+      "path": "book.htm",
+      "slug": "037-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "indexeb.gif"
+      ],
+      "internal_links": [
+        "indexae.htm",
+        "ap00e.htm"
+      ],
+      "chars": 1188
+    },
+    {
+      "order": 38,
+      "title": "evert fluid - technolgy",
+      "path": "ap05e.htm",
+      "slug": "038-evert-fluid-technolgy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0501e.htm",
+        "ap0502e.htm",
+        "ap0503e.htm",
+        "ap0513e.htm",
+        "ap0604e.htm",
+        "ap0607e.htm",
+        "indexfe.htm"
+      ],
+      "chars": 1264
+    },
+    {
+      "order": 39,
+      "title": "evert fluid - technolgy",
+      "path": "ap06e.htm",
+      "slug": "039-evert-fluid-technolgy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0504e.htm",
+        "ap0512e.htm",
+        "ap0509e.htm",
+        "ap0508e.htm",
+        "ap0515e.htm",
+        "ap0516e.htm",
+        "ap0517e.htm",
+        "ap0518e.htm",
+        "ap0519e.htm",
+        "ap0521e.htm",
+        "ap0522e.htm",
+        "indexfe.htm"
+      ],
+      "chars": 2484
+    },
+    {
+      "order": 40,
+      "title": "evert ether-physics and -philosophy",
+      "path": "ap07e.htm",
+      "slug": "040-evert-ether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0705e.htm",
+        "ap0707e.htm",
+        "ap0708e.htm",
+        "ap0709e.htm",
+        "ap0710e.htm",
+        "ap00e.htm"
+      ],
+      "chars": 1036
+    },
+    {
+      "order": 41,
+      "title": "evert fluid-technologie",
+      "path": "bookf.htm",
+      "slug": "041-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "indexfe.htm"
+      ],
+      "chars": 686
+    },
+    {
+      "order": 42,
+      "title": "evert fluid-technologie",
+      "path": "resultf.htm",
+      "slug": "042-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "indexfe.htm"
+      ],
+      "chars": 11250
+    },
+    {
+      "order": 43,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0821e.htm",
+      "slug": "043-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap082151.gif",
+        "ap082102.gif",
+        "ap082103.gif",
+        "ap082104.gif",
+        "ap082105.gif",
+        "ap082106.gif",
+        "ap082107.gif",
+        "ap082108.gif",
+        "ap082109.gif",
+        "ap082110.gif",
+        "ap082111.gif"
+      ],
+      "internal_links": [
+        "ap0822e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 39808
+    },
+    {
+      "order": 44,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0823e.htm",
+      "slug": "044-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap082301.gif",
+        "ap082302.gif",
+        "ap082303.gif",
+        "ap082304.gif",
+        "ap082305.gif",
+        "ap082306.gif",
+        "ap082307.gif",
+        "ap082308.gif",
+        "ap082309e.gif"
+      ],
+      "internal_links": [
+        "ap08e.htm"
+      ],
+      "chars": 21645
+    },
+    {
+      "order": 45,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0901e.htm",
+      "slug": "045-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090101.jpg",
+        "ap090102.jpg"
+      ],
+      "internal_links": [
+        "ap0902e.htm",
+        "ap09e.htm"
+      ],
+      "chars": 10590
+    },
+    {
+      "order": 46,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0904e.htm",
+      "slug": "046-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090401.gif",
+        "ap090402.gif",
+        "ap090403.gif",
+        "ap090404.gif",
+        "ap090405.gif"
+      ],
+      "internal_links": [
+        "ap0905e.htm",
+        "ap09e.htm"
+      ],
+      "chars": 20537
+    },
+    {
+      "order": 47,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0905e.htm",
+      "slug": "047-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090501.gif",
+        "ap090502.gif",
+        "ap090503.gif",
+        "ap090504.gif",
+        "ap090505.gif",
+        "ap090506.gif"
+      ],
+      "internal_links": [
+        "ap0906e.htm",
+        "ap09e.htm"
+      ],
+      "chars": 25430
+    },
+    {
+      "order": 48,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0914e.htm",
+      "slug": "048-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap091401.gif",
+        "ap091402.gif",
+        "ap091403.gif",
+        "ap091404.gif",
+        "ap091405.gif",
+        "ap091406.gif",
+        "ap091407.gif",
+        "ap091408.gif"
+      ],
+      "internal_links": [
+        "ap0915e.htm",
+        "ap09e.htm"
+      ],
+      "chars": 17257
+    },
+    {
+      "order": 49,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0816e.htm",
+      "slug": "049-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081601.gif",
+        "ap081602.gif",
+        "ap081603.gif",
+        "ap081604.gif",
+        "ap081605.gif",
+        "ap081606.gif",
+        "ap081607.gif",
+        "ap081638.gif",
+        "ap081609.gif",
+        "ap081610.gif",
+        "ap081611.gif",
+        "ap081612.gif",
+        "ap081643.gif",
+        "ap081614.gif",
+        "ap081615.gif",
+        "ap081616.gif",
+        "ap081617.gif",
+        "ap081618.gif",
+        "ap081619.jpg"
+      ],
+      "internal_links": [
+        "ap0817e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 76814
+    },
+    {
+      "order": 50,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0810e.htm",
+      "slug": "050-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081001.gif",
+        "ap081002.gif",
+        "ap081003.gif",
+        "ap081004.gif",
+        "ap081005.gif",
+        "ap081006.gif"
+      ],
+      "internal_links": [
+        "ap0811e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 25723
+    },
+    {
+      "order": 51,
+      "title": "evert fluid-technologie",
+      "path": "ap0522e.htm",
+      "slug": "051-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap052201.gif",
+        "ap052202e.gif",
+        "ap052203.gif",
+        "ap052204.gif",
+        "ap052205.gif",
+        "ap052206.gif",
+        "ap052207.gif",
+        "ap052208.gif",
+        "ap052209.gif"
+      ],
+      "internal_links": [
+        "book.htm",
+        "ap0822e.htm",
+        "indexae.htm",
+        "ap09e.htm",
+        "ap0512e.htm",
+        "ap0504e.htm",
+        "ap0521e.htm",
+        "ap0516e.htm",
+        "ap0509e.htm",
+        "ap0604e.htm",
+        "ap06e.htm"
+      ],
+      "chars": 28699
+    },
+    {
+      "order": 52,
+      "title": "evert fluid-technology",
+      "path": "ap0521e.htm",
+      "slug": "052-evert-fluid-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "ap052101.gif",
+        "ap052102.gif",
+        "ap052103.gif",
+        "ap052104.gif",
+        "ap052105.gif",
+        "ap052106.gif",
+        "ap052107.gif",
+        "ap052108.gif"
+      ],
+      "internal_links": [
+        "ap06.htm"
+      ],
+      "chars": 15082
+    },
+    {
+      "order": 53,
+      "title": "evert fluid-technology",
+      "path": "ap0519e.htm",
+      "slug": "053-evert-fluid-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "ap051901.gif",
+        "ap051902.gif",
+        "ap051903e.gif",
+        "ap051945.gif",
+        "ap051906.gif",
+        "ap051907e.gif"
+      ],
+      "internal_links": [
+        "ap0521e.htm",
+        "ap06e.htm"
+      ],
+      "chars": 17713
+    },
+    {
+      "order": 54,
+      "title": "evert fluid-technology",
+      "path": "ap0518e.htm",
+      "slug": "054-evert-fluid-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "ap051801.gif",
+        "ap051802.gif",
+        "ap051803.gif",
+        "ap051804.gif",
+        "ap051805.gif"
+      ],
+      "internal_links": [
+        "ap0519e.htm",
+        "ap06e.htm"
+      ],
+      "chars": 15717
+    },
+    {
+      "order": 55,
+      "title": "evert fluid-technology",
+      "path": "ap0517e.htm",
+      "slug": "055-evert-fluid-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "ap051701.gif",
+        "ap051702.gif",
+        "ap051703.gif",
+        "ap051704e.gif",
+        "ap051705e.gif",
+        "ap051706.gif"
+      ],
+      "internal_links": [
+        "ap0518e.htm",
+        "ap06e.htm"
+      ],
+      "chars": 21036
+    },
+    {
+      "order": 56,
+      "title": "evert fluid-technology",
+      "path": "ap0516e.htm",
+      "slug": "056-evert-fluid-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "ap051601.gif",
+        "ap051602.gif",
+        "ap051603.gif",
+        "ap051604.gif",
+        "ap051605.gif",
+        "ap051606.gif",
+        "ap051607.gif",
+        "ap051608e.gif",
+        "ap051609e.gif",
+        "ap051610e.gif",
+        "ap051611.gif",
+        "ap051612.gif",
+        "ap051613e.gif"
+      ],
+      "internal_links": [
+        "ap0517e.htm",
+        "ap06e.htm"
+      ],
+      "chars": 32520
+    },
+    {
+      "order": 57,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap01.htm",
+      "slug": "057-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0101.htm",
+        "ap0102.htm",
+        "ap0103.htm",
+        "ap0104.htm",
+        "ap0105.htm",
+        "ap0106.htm",
+        "ap0107.htm",
+        "ap0108.htm",
+        "ap00.htm"
+      ],
+      "chars": 1959
+    },
+    {
+      "order": 58,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap02.htm",
+      "slug": "058-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0201.htm",
+        "ap0202.htm",
+        "ap0203.htm",
+        "ap0204.htm",
+        "ap0205.htm",
+        "ap0206.htm",
+        "ap00.htm"
+      ],
+      "chars": 736
+    },
+    {
+      "order": 59,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap03.htm",
+      "slug": "059-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0312.htm",
+        "ap0301.htm",
+        "ap0302.htm",
+        "ap0303.htm",
+        "ap0304.htm",
+        "ap0305.htm",
+        "ap0306.htm",
+        "ap0307.htm",
+        "ap0309.htm",
+        "ap0310.htm",
+        "ap0311.htm",
+        "ap00.htm"
+      ],
+      "chars": 2191
+    },
+    {
+      "order": 60,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap04.htm",
+      "slug": "060-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0401.htm",
+        "ap0402.htm",
+        "ap0403.htm",
+        "ap00.htm"
+      ],
+      "chars": 792
+    },
+    {
+      "order": 61,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap08.htm",
+      "slug": "061-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0801.htm",
+        "ap0802.htm",
+        "ap0803.htm",
+        "ap0804.htm",
+        "ap0805.htm",
+        "ap0806.htm",
+        "ap0807.htm",
+        "ap0808.htm",
+        "ap0809.htm",
+        "ap0810.htm",
+        "ap0811.htm",
+        "ap0812.htm",
+        "ap0813.htm",
+        "ap0814.htm",
+        "ap0815.htm",
+        "ap0816.htm",
+        "ap0817.htm",
+        "ap0818.htm",
+        "ap0819.htm",
+        "ap0820.htm",
+        "ap0821.htm",
+        "ap0822.htm",
+        "ap0823.htm",
+        "ap00.htm"
+      ],
+      "chars": 3346
+    },
+    {
+      "order": 62,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0902.htm",
+      "slug": "062-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090201.gif",
+        "ap090202.gif",
+        "ap090203.gif",
+        "ap090204.gif",
+        "ap090205.gif",
+        "ap090206.gif"
+      ],
+      "internal_links": [
+        "ap0903.htm",
+        "ap09.htm"
+      ],
+      "chars": 26467
+    },
+    {
+      "order": 63,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0903.htm",
+      "slug": "063-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090301.gif",
+        "ap090302.gif",
+        "ap090303.gif",
+        "ap090305.gif",
+        "ap090306.gif",
+        "ap090307.gif",
+        "ap090308.gif",
+        "ap090309.gif",
+        "ap090310.gif",
+        "ap090311.gif",
+        "ap090312.gif"
+      ],
+      "internal_links": [
+        "ap0904.htm",
+        "ap09.htm"
+      ],
+      "chars": 38520
+    },
+    {
+      "order": 64,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0906.htm",
+      "slug": "064-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090601.gif",
+        "ap090602.gif",
+        "ap090603.gif",
+        "ap090604.gif",
+        "ap090605.gif"
+      ],
+      "internal_links": [
+        "ap0907.htm",
+        "ap09.htm"
+      ],
+      "chars": 26480
+    },
+    {
+      "order": 65,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0907.htm",
+      "slug": "065-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090701.gif",
+        "ap090702.gif",
+        "ap090703.gif",
+        "ap090704.gif",
+        "ap090705.gif",
+        "ap090706.gif"
+      ],
+      "internal_links": [
+        "ap0908.htm",
+        "ap09.htm"
+      ],
+      "chars": 26011
+    },
+    {
+      "order": 66,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0908.htm",
+      "slug": "066-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090801.gif",
+        "ap090802.gif",
+        "ap090803.gif",
+        "ap090804.gif",
+        "ap090805.gif",
+        "ap090806.gif",
+        "ap090807.gif"
+      ],
+      "internal_links": [
+        "ap0909.htm",
+        "ap09.htm"
+      ],
+      "chars": 24267
+    },
+    {
+      "order": 67,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0909.htm",
+      "slug": "067-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090901.gif",
+        "ap090902.gif",
+        "ap090903.gif",
+        "ap090904.gif",
+        "ap090905.gif",
+        "ap090906.gif",
+        "ap090907.gif",
+        "ap090908.gif",
+        "ap090909.gif",
+        "ap090910.gif"
+      ],
+      "internal_links": [
+        "ap0910.htm",
+        "ap09.htm"
+      ],
+      "chars": 42392
+    },
+    {
+      "order": 68,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0910.htm",
+      "slug": "068-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap091001.gif",
+        "ap091002.gif",
+        "ap091003.gif",
+        "ap091004.gif"
+      ],
+      "internal_links": [
+        "ap0911.htm",
+        "ap09.htm"
+      ],
+      "chars": 19164
+    },
+    {
+      "order": 69,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0911.htm",
+      "slug": "069-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap091101.gif",
+        "ap091102.gif",
+        "ap091103.gif",
+        "ap091104.gif",
+        "ap091105.gif",
+        "ap091106.gif",
+        "ap091107.gif",
+        "ap091108.gif",
+        "ap091109.gif"
+      ],
+      "internal_links": [
+        "ap0912.htm",
+        "ap09.htm"
+      ],
+      "chars": 22502
+    },
+    {
+      "order": 70,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0912.htm",
+      "slug": "070-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap091201.gif",
+        "ap091202.gif",
+        "ap091203.gif",
+        "ap091204.gif",
+        "ap091205.gif",
+        "ap091206.gif",
+        "ap091207.gif"
+      ],
+      "internal_links": [
+        "ap0913.htm",
+        "ap09.htm"
+      ],
+      "chars": 22414
+    },
+    {
+      "order": 71,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0913.htm",
+      "slug": "071-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap091320.gif",
+        "ap091301.gif",
+        "ap091302.gif",
+        "ap091303.gif",
+        "ap091304.gif",
+        "ap091305.gif",
+        "ap091306.gif",
+        "ap091307.gif",
+        "ap091309.gif",
+        "ap091308.gif",
+        "ap091310.gif",
+        "ap091311.gif"
+      ],
+      "internal_links": [
+        "ap0914.htm",
+        "ap09.htm"
+      ],
+      "chars": 42884
+    },
+    {
+      "order": 72,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0915.htm",
+      "slug": "072-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap091501.gif",
+        "ap091502.gif",
+        "ap091503.gif",
+        "ap091504.gif",
+        "ap091505.gif",
+        "ap091506.gif",
+        "ap091507.gif",
+        "ap091508.gif",
+        "ap091509.gif",
+        "ap091510.gif",
+        "ap091511.gif"
+      ],
+      "internal_links": [
+        "ap09.htm"
+      ],
+      "chars": 34012
+    },
+    {
+      "order": 73,
+      "title": "evert fluid-technologie",
+      "path": "ap0501.htm",
+      "slug": "073-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap050101.gif",
+        "ap050102.gif",
+        "ap050103.gif",
+        "ap050104.gif",
+        "ap050105.gif",
+        "ap050106.gif",
+        "ap050107.gif",
+        "ap050108.gif"
+      ],
+      "internal_links": [
+        "ap0502.htm",
+        "ap05.htm"
+      ],
+      "chars": 18986
+    },
+    {
+      "order": 74,
+      "title": "evert fluid-technologie",
+      "path": "ap0502.htm",
+      "slug": "074-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap050201.gif",
+        "ap050202.gif",
+        "ap050203.gif",
+        "ap050204.gif",
+        "ap050205.gif",
+        "ap050206.gif",
+        "ap050207.gif",
+        "ap050208.jpg",
+        "ap050209.gif",
+        "ap050210.jpg",
+        "ap050211.gif"
+      ],
+      "internal_links": [
+        "ap0503.htm",
+        "ap05.htm"
+      ],
+      "chars": 35172
+    },
+    {
+      "order": 75,
+      "title": "evert fluid-technologie",
+      "path": "ap0503.htm",
+      "slug": "075-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap050301.gif",
+        "ap050302.gif",
+        "ap050303.gif",
+        "ap050304.gif"
+      ],
+      "internal_links": [
+        "ap0513.htm",
+        "ap05.htm"
+      ],
+      "chars": 13656
+    },
+    {
+      "order": 76,
+      "title": "evert fluid-technologie",
+      "path": "ap0513.htm",
+      "slug": "076-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap051301.gif",
+        "ap051302.gif",
+        "ap051304.gif",
+        "ap051305.gif"
+      ],
+      "internal_links": [
+        "ap0604.htm",
+        "ap05.htm"
+      ],
+      "chars": 28128
+    },
+    {
+      "order": 77,
+      "title": "evert fluid-technologie",
+      "path": "ap0604.htm",
+      "slug": "077-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap060401.gif",
+        "ap060402.gif",
+        "ap060403.gif",
+        "ap060404.gif",
+        "ap060405.gif",
+        "ap060409.gif"
+      ],
+      "internal_links": [
+        "ap0607.htm",
+        "ap05.htm"
+      ],
+      "chars": 10854
+    },
+    {
+      "order": 78,
+      "title": "evert fluid-technologie",
+      "path": "ap0607.htm",
+      "slug": "078-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap060701.gif",
+        "ap060702.gif",
+        "ap060703.gif"
+      ],
+      "internal_links": [
+        "ap05.htm",
+        "indexf.htm"
+      ],
+      "chars": 15534
+    },
+    {
+      "order": 79,
+      "title": "evert fluid-technologie",
+      "path": "ap0504.htm",
+      "slug": "079-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap050401.jpg",
+        "ap050402.gif",
+        "ap050403.gif",
+        "ap050404.gif",
+        "ap050405.gif",
+        "ap050406.gif",
+        "ap050407.gif",
+        "ap050408.gif",
+        "ap050409.gif"
+      ],
+      "internal_links": [
+        "ap0512.htm",
+        "ap06.htm"
+      ],
+      "chars": 31868
+    },
+    {
+      "order": 80,
+      "title": "evert fluid technologie",
+      "path": "ap0512.htm",
+      "slug": "080-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap051201.jpg",
+        "ap051202.gif",
+        "ap051203.gif",
+        "ap051204.gif"
+      ],
+      "internal_links": [
+        "ap0509.htm",
+        "ap06.htm"
+      ],
+      "chars": 21363
+    },
+    {
+      "order": 81,
+      "title": "evert fluid-technologie",
+      "path": "ap0509.htm",
+      "slug": "081-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap050901.gif",
+        "ap050902.jpg",
+        "ap050903.gif",
+        "ap050904.gif",
+        "ap050905.gif",
+        "ap050906.gif",
+        "ap050907.gif",
+        "ap050908.gif",
+        "ap050909.gif",
+        "ap050913.gif",
+        "ap050914.gif",
+        "ap050912.jpg"
+      ],
+      "internal_links": [
+        "ap0508.htm",
+        "ap06.htm"
+      ],
+      "chars": 33127
+    },
+    {
+      "order": 82,
+      "title": "evert fluid-technologie",
+      "path": "ap0508.htm",
+      "slug": "082-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap050801.gif",
+        "ap050802.gif",
+        "ap050803.gif",
+        "ap050804.gif",
+        "ap050805.gif",
+        "ap050806.gif",
+        "ap050807.gif",
+        "ap050808.gif",
+        "ap050809.gif",
+        "ap050810.gif"
+      ],
+      "internal_links": [
+        "ap0515.htm",
+        "ap06.htm"
+      ],
+      "chars": 23763
+    },
+    {
+      "order": 83,
+      "title": "evert fluid-technologie",
+      "path": "ap0515.htm",
+      "slug": "083-evert-fluid-technologie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap051501.gif",
+        "ap051502.gif",
+        "ap051503.gif",
+        "ap051504.gif"
+      ],
+      "internal_links": [
+        "ap0516.htm",
+        "ap06.htm"
+      ],
+      "chars": 15761
+    },
+    {
+      "order": 84,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0705.htm",
+      "slug": "084-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap070501.gif",
+        "ap070502.gif",
+        "ap070503.gif",
+        "ap070504.gif",
+        "ap070505.gif",
+        "ap070506.gif",
+        "ap070507.gif",
+        "ap070508.gif",
+        "ap070509.gif",
+        "ap070510.gif",
+        "ap070511.gif",
+        "ap070512.gif",
+        "ap070513.gif",
+        "ap070514.gif",
+        "ap070515.gif",
+        "ap070516.gif",
+        "ap070517.gif"
+      ],
+      "internal_links": [
+        "ap0707.htm",
+        "ap07.htm"
+      ],
+      "chars": 54277
+    },
+    {
+      "order": 85,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0707.htm",
+      "slug": "085-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap070701.jpg",
+        "ap070702.gif",
+        "ap070703.gif",
+        "ap070704.gif",
+        "ap070705.gif",
+        "ap070706.gif",
+        "ap070707.gif",
+        "ap070708.gif",
+        "ap070709.gif",
+        "ap070710.gif",
+        "ap070711.gif",
+        "ap070712.gif",
+        "ap070713.gif",
+        "ap070714.gif",
+        "ap070715.gif",
+        "ap070716.gif",
+        "ap070717.gif",
+        "ap070718.gif"
+      ],
+      "internal_links": [
+        "ap0708.htm",
+        "ap07.htm"
+      ],
+      "chars": 51279
+    },
+    {
+      "order": 86,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0708.htm",
+      "slug": "086-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap070801.gif",
+        "ap070802.gif",
+        "ap070803.gif",
+        "ap070804.gif",
+        "ap070805.gif",
+        "ap070806.gif",
+        "ap070807.gif",
+        "ap070808.gif",
+        "ap070809.gif"
+      ],
+      "internal_links": [
+        "ap0709.htm",
+        "ap07.htm"
+      ],
+      "chars": 31283
+    },
+    {
+      "order": 87,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0709.htm",
+      "slug": "087-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap070901.jpg",
+        "ap070902.gif",
+        "ap070903.gif",
+        "ap070904.gif",
+        "ap070905.gif",
+        "ap070906.gif",
+        "ap070907.gif"
+      ],
+      "internal_links": [
+        "ap0710.htm",
+        "ap07.htm"
+      ],
+      "chars": 25152
+    },
+    {
+      "order": 88,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0710.htm",
+      "slug": "088-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap071001.gif",
+        "ap071002.gif",
+        "ap071003.gif",
+        "ap071004.gif",
+        "ap071005.gif",
+        "ap071006.gif"
+      ],
+      "internal_links": [
+        "ap07.htm"
+      ],
+      "chars": 32712
+    },
+    {
+      "order": 89,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0822.htm",
+      "slug": "089-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap082200.gif",
+        "ap082201.gif",
+        "ap082202.gif",
+        "ap082203.gif",
+        "ap082204.gif",
+        "ap082205.gif",
+        "ap082206.gif",
+        "ap082207.gif",
+        "ap082208.gif",
+        "ap082209.gif",
+        "ap082210.gif",
+        "ap082211.gif",
+        "ap082212.jpg",
+        "ap082213.gif",
+        "ap082214.gif",
+        "ap082215.gif",
+        "ap082216.gif",
+        "ap082217.gif",
+        "ap082218.gif",
+        "ap082219.gif",
+        "ap082220.gif",
+        "ap082221.gif",
+        "ap082222.gif"
+      ],
+      "internal_links": [
+        "ap08.htm"
+      ],
+      "chars": 94499
+    },
+    {
+      "order": 90,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0817.htm",
+      "slug": "090-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081701.gif",
+        "ap081702.gif",
+        "ap081703.gif",
+        "ap081704.gif",
+        "ap081705.gif",
+        "ap081706.gif",
+        "ap081707.gif",
+        "ap081708.gif",
+        "ap081709.gif",
+        "ap081710.gif",
+        "ap081711.gif",
+        "ap081712.gif",
+        "ap081713.gif",
+        "ap081714.gif",
+        "ap081715.gif",
+        "ap081716.gif",
+        "ap081717.gif",
+        "ap081718.gif",
+        "ap081719.gif",
+        "ap081720.gif",
+        "ap081721.gif",
+        "ap081722.gif",
+        "ap081723.gif",
+        "ap081724.gif",
+        "ap081725.gif"
+      ],
+      "internal_links": [
+        "ap0818.htm",
+        "ap08.htm"
+      ],
+      "chars": 102191
+    },
+    {
+      "order": 91,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0811.htm",
+      "slug": "091-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081101.gif",
+        "ap081102.gif",
+        "ap081103.gif",
+        "ap081104.gif"
+      ],
+      "internal_links": [
+        "ap0812.htm",
+        "ap08.htm"
+      ],
+      "chars": 19926
+    },
+    {
+      "order": 92,
+      "title": "evert aether-physics und -philosophy",
+      "path": "ap01e.htm",
+      "slug": "092-evert-aether-physics-und-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0101e.htm",
+        "ap0102e.htm",
+        "ap0103e.htm",
+        "ap0104e.htm",
+        "ap0105e.htm",
+        "ap0106e.htm",
+        "ap0107e.htm",
+        "ap0108e.htm",
+        "ap00e.htm"
+      ],
+      "chars": 1967
+    },
+    {
+      "order": 93,
+      "title": "evert aether-physics und -philosophy",
+      "path": "ap02e.htm",
+      "slug": "093-evert-aether-physics-und-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0201e.htm",
+        "ap0202e.htm",
+        "ap0203e.htm",
+        "ap0204e.htm",
+        "ap0205e.htm",
+        "ap0206e.htm",
+        "ap00e.htm"
+      ],
+      "chars": 749
+    },
+    {
+      "order": 94,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap03e.htm",
+      "slug": "094-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0312e.htm",
+        "ap0301e.htm",
+        "ap0302e.htm",
+        "ap0303e.htm",
+        "ap0304e.htm",
+        "ap0305e.htm",
+        "ap0306e.htm",
+        "ap0307e.htm",
+        "ap0309e.htm",
+        "ap0310e.htm",
+        "ap0311e.htm",
+        "ap00e.htm"
+      ],
+      "chars": 1961
+    },
+    {
+      "order": 95,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap04e.htm",
+      "slug": "095-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0401e.htm",
+        "ap0402e.htm",
+        "ap0403e.htm",
+        "ap00e.htm"
+      ],
+      "chars": 786
+    },
+    {
+      "order": 96,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap08e.htm",
+      "slug": "096-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0801e.htm",
+        "ap0802e.htm",
+        "ap0803e.htm",
+        "ap0804e.htm",
+        "ap0805e.htm",
+        "ap0806e.htm",
+        "ap0807e.htm",
+        "ap0808e.htm",
+        "ap0809e.htm",
+        "ap0810e.htm",
+        "ap0811e.htm",
+        "ap0812e.htm",
+        "ap0813e.htm",
+        "ap0814e.htm",
+        "ap0815e.htm",
+        "ap0816e.htm",
+        "ap0817e.htm",
+        "ap0818e.htm",
+        "ap0819e.htm",
+        "ap0820e.htm",
+        "ap0821e.htm",
+        "ap0822e.htm",
+        "ap0823e.htm",
+        "ap00e.htm"
+      ],
+      "chars": 3156
+    },
+    {
+      "order": 97,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0902e.htm",
+      "slug": "097-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090201.gif",
+        "ap090202.gif",
+        "ap090203.gif",
+        "ap090204.gif",
+        "ap090205.gif",
+        "ap090206.gif"
+      ],
+      "internal_links": [
+        "ap0903e.htm",
+        "ap09e.htm"
+      ],
+      "chars": 23721
+    },
+    {
+      "order": 98,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0903e.htm",
+      "slug": "098-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090301.gif",
+        "ap090302.gif",
+        "ap090303.gif",
+        "ap090305.gif",
+        "ap090306.gif",
+        "ap090307.gif",
+        "ap090308.gif",
+        "ap090309.gif",
+        "ap090310.gif",
+        "ap090311.gif",
+        "ap090312.gif"
+      ],
+      "internal_links": [
+        "ap0904e.htm",
+        "ap09e.htm"
+      ],
+      "chars": 35339
+    },
+    {
+      "order": 99,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0906e.htm",
+      "slug": "099-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090601.gif",
+        "ap090602.gif",
+        "ap090603.gif",
+        "ap090604.gif",
+        "ap090605.gif"
+      ],
+      "internal_links": [
+        "ap0907e.htm",
+        "ap09e.htm"
+      ],
+      "chars": 24664
+    },
+    {
+      "order": 100,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0907e.htm",
+      "slug": "100-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090701.gif",
+        "ap090702.gif",
+        "ap090703.gif",
+        "ap090704.gif",
+        "ap090705.gif",
+        "ap090706.gif"
+      ],
+      "internal_links": [
+        "ap0908e.htm",
+        "ap09e.htm"
+      ],
+      "chars": 25538
+    },
+    {
+      "order": 101,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0908e.htm",
+      "slug": "101-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090801.gif",
+        "ap090802.gif",
+        "ap090803.gif",
+        "ap090804.gif",
+        "ap090805.gif",
+        "ap090806.gif",
+        "ap090807.gif"
+      ],
+      "internal_links": [
+        "ap0909e.htm",
+        "ap09e.htm"
+      ],
+      "chars": 22404
+    },
+    {
+      "order": 102,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0909e.htm",
+      "slug": "102-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap090901.gif",
+        "ap090902.gif",
+        "ap090903.gif",
+        "ap090904.gif",
+        "ap090905.gif",
+        "ap090906.gif",
+        "ap090907.gif",
+        "ap090908.gif",
+        "ap090909.gif",
+        "ap090910.gif"
+      ],
+      "internal_links": [
+        "ap0910e.htm",
+        "ap09e.htm"
+      ],
+      "chars": 39920
+    },
+    {
+      "order": 103,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0910e.htm",
+      "slug": "103-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap091001.gif",
+        "ap091002.gif",
+        "ap091003.gif",
+        "ap091004.gif"
+      ],
+      "internal_links": [
+        "ap0911e.htm",
+        "ap09e.htm"
+      ],
+      "chars": 18105
+    },
+    {
+      "order": 104,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0911e.htm",
+      "slug": "104-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap091101.gif",
+        "ap091102.gif",
+        "ap091103.gif",
+        "ap091104.gif",
+        "ap091105.gif",
+        "ap091106.gif",
+        "ap091107.gif",
+        "ap091108.gif",
+        "ap091109.gif"
+      ],
+      "internal_links": [
+        "ap0912e.htm",
+        "ap09e.htm"
+      ],
+      "chars": 20716
+    },
+    {
+      "order": 105,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0912e.htm",
+      "slug": "105-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap091201.gif",
+        "ap091202.gif",
+        "ap091203.gif",
+        "ap091204.gif",
+        "ap091205.gif",
+        "ap091206.gif",
+        "ap091207.gif"
+      ],
+      "internal_links": [
+        "ap0913e.htm",
+        "ap09e.htm"
+      ],
+      "chars": 20956
+    },
+    {
+      "order": 106,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0913e.htm",
+      "slug": "106-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap091320.gif",
+        "ap091301.gif",
+        "ap091302.gif",
+        "ap091303.gif",
+        "ap091304.gif",
+        "ap091305.gif",
+        "ap091306.gif",
+        "ap091307.gif",
+        "ap091309.gif",
+        "ap091308.gif",
+        "ap091310.gif",
+        "ap091311.gif"
+      ],
+      "internal_links": [
+        "ap0914e.htm",
+        "ap09e.htm"
+      ],
+      "chars": 40885
+    },
+    {
+      "order": 107,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0915e.htm",
+      "slug": "107-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap091501.gif",
+        "ap091502.gif",
+        "ap091503.gif",
+        "ap091504.gif",
+        "ap091505.gif",
+        "ap091506.gif",
+        "ap091507.gif",
+        "ap091508.gif",
+        "ap091509.gif",
+        "ap091510.gif",
+        "ap091511.gif"
+      ],
+      "internal_links": [
+        "ap09e.htm"
+      ],
+      "chars": 31782
+    },
+    {
+      "order": 108,
+      "title": "evert fluid-technology",
+      "path": "ap0501e.htm",
+      "slug": "108-evert-fluid-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "ap050101.gif",
+        "ap050102.gif",
+        "ap050103.gif",
+        "ap050104.gif",
+        "ap050105.gif",
+        "ap050106.gif",
+        "ap050107.gif",
+        "ap050108.gif"
+      ],
+      "internal_links": [
+        "ap0502e.htm",
+        "ap05e.htm"
+      ],
+      "chars": 17008
+    },
+    {
+      "order": 109,
+      "title": "evert fluid-technology",
+      "path": "ap0502e.htm",
+      "slug": "109-evert-fluid-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "ap050201.gif",
+        "ap050202.gif",
+        "ap050203.gif",
+        "ap050204.gif",
+        "ap050205.gif",
+        "ap050206.gif",
+        "ap050207.gif",
+        "ap050208.jpg",
+        "ap050209.gif",
+        "ap050210.jpg",
+        "ap050211.gif"
+      ],
+      "internal_links": [
+        "ap0503e.htm",
+        "ap05e.htm"
+      ],
+      "chars": 31952
+    },
+    {
+      "order": 110,
+      "title": "evert fluid-technology",
+      "path": "ap0503e.htm",
+      "slug": "110-evert-fluid-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "ap050301.gif",
+        "ap050302.gif",
+        "ap050303.gif",
+        "ap050304.gif"
+      ],
+      "internal_links": [
+        "ap0513e.htm",
+        "ap05e.htm"
+      ],
+      "chars": 12540
+    },
+    {
+      "order": 111,
+      "title": "evert fluid-technology",
+      "path": "ap0513e.htm",
+      "slug": "111-evert-fluid-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "ap051301.gif",
+        "ap051302.gif",
+        "ap051304.gif",
+        "ap051305.gif"
+      ],
+      "internal_links": [
+        "ap0604e.htm",
+        "ap05e.htm"
+      ],
+      "chars": 26234
+    },
+    {
+      "order": 112,
+      "title": "evert fluid-technology",
+      "path": "ap0604e.htm",
+      "slug": "112-evert-fluid-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "ap060401.gif",
+        "ap060402.gif",
+        "ap060404.gif",
+        "ap060405.gif",
+        "ap060409.gif"
+      ],
+      "internal_links": [
+        "ap0607e.htm",
+        "ap05e.htm"
+      ],
+      "chars": 9537
+    },
+    {
+      "order": 113,
+      "title": "evert fluid-technology",
+      "path": "ap0607e.htm",
+      "slug": "113-evert-fluid-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "ap060701.gif",
+        "ap060702.gif",
+        "ap060703.gif"
+      ],
+      "internal_links": [
+        "ap05e.htm",
+        "indexfe.htm"
+      ],
+      "chars": 15610
+    },
+    {
+      "order": 114,
+      "title": "evert fluid-technology",
+      "path": "ap0504e.htm",
+      "slug": "114-evert-fluid-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "ap050401.jpg",
+        "ap050402.gif",
+        "ap050403.gif",
+        "ap050404.gif",
+        "ap050405.gif",
+        "ap050406.gif",
+        "ap050407.gif",
+        "ap050408.gif",
+        "ap050409.gif"
+      ],
+      "internal_links": [
+        "ap0512e.htm",
+        "ap06e.htm"
+      ],
+      "chars": 29765
+    },
+    {
+      "order": 115,
+      "title": "evert fluid-technology",
+      "path": "ap0512e.htm",
+      "slug": "115-evert-fluid-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "ap051201.jpg",
+        "ap051202.gif",
+        "ap051203.gif",
+        "ap051204.gif"
+      ],
+      "internal_links": [
+        "ap0509e.htm",
+        "ap06e.htm"
+      ],
+      "chars": 20276
+    },
+    {
+      "order": 116,
+      "title": "evert fluid-technology",
+      "path": "ap0509e.htm",
+      "slug": "116-evert-fluid-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "ap050901.gif",
+        "ap050902.jpg",
+        "ap050903.gif",
+        "ap050904.gif",
+        "ap050905.gif",
+        "ap050906.gif",
+        "ap050907.gif",
+        "ap050908.gif",
+        "ap050909.gif",
+        "ap050913.gif",
+        "ap050914.gif",
+        "ap050912.jpg"
+      ],
+      "internal_links": [
+        "ap0508e.htm",
+        "ap06e.htm"
+      ],
+      "chars": 29798
+    },
+    {
+      "order": 117,
+      "title": "evert fluid-technology",
+      "path": "ap0508e.htm",
+      "slug": "117-evert-fluid-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "ap050801.gif",
+        "ap050802.gif",
+        "ap050803.gif",
+        "ap050804.gif",
+        "ap050805.gif",
+        "ap050806.gif",
+        "ap050807.gif",
+        "ap050808.gif",
+        "ap050809.gif",
+        "ap050810.gif"
+      ],
+      "internal_links": [
+        "ap0515e.htm",
+        "ap06e.htm"
+      ],
+      "chars": 22695
+    },
+    {
+      "order": 118,
+      "title": "evert fluid-technology",
+      "path": "ap0515e.htm",
+      "slug": "118-evert-fluid-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "ap051501.gif",
+        "ap051502.gif",
+        "ap051503.gif",
+        "ap051504.gif"
+      ],
+      "internal_links": [
+        "ap0516e.htm",
+        "ap06e.htm"
+      ],
+      "chars": 14481
+    },
+    {
+      "order": 119,
+      "title": "evert ether-physics and -philosophy",
+      "path": "ap0705e.htm",
+      "slug": "119-evert-ether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap070501.gif",
+        "ap070502.gif",
+        "ap070503.gif",
+        "ap070504.gif",
+        "ap070505.gif",
+        "ap070506.gif",
+        "ap070507.gif",
+        "ap070508.gif",
+        "ap070509.gif",
+        "ap070510.gif",
+        "ap070511.gif",
+        "ap070512.gif",
+        "ap070513.gif",
+        "ap070514.gif",
+        "ap070515.gif",
+        "ap070516.gif",
+        "ap070517.gif"
+      ],
+      "internal_links": [
+        "ap0707e.htm",
+        "ap07e.htm"
+      ],
+      "chars": 50308
+    },
+    {
+      "order": 120,
+      "title": "evert ether-physics and -philosophy",
+      "path": "ap0707e.htm",
+      "slug": "120-evert-ether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap070701.jpg",
+        "ap070702.gif",
+        "ap070703.gif",
+        "ap070704.gif",
+        "ap070705.gif",
+        "ap070706.gif",
+        "ap070707.gif",
+        "ap070708.gif",
+        "ap070709.gif",
+        "ap070710.gif",
+        "ap070711.gif",
+        "ap070712.gif",
+        "ap070713.gif",
+        "ap070714.gif",
+        "ap070715.gif",
+        "ap070716.gif",
+        "ap070717.gif",
+        "ap070718.gif"
+      ],
+      "internal_links": [
+        "ap0708e.htm",
+        "ap07e.htm"
+      ],
+      "chars": 45049
+    },
+    {
+      "order": 121,
+      "title": "evert ether-physics and -philosophy",
+      "path": "ap0708e.htm",
+      "slug": "121-evert-ether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap070801.gif",
+        "ap070802.gif",
+        "ap070803.gif",
+        "ap070804.gif",
+        "ap070805.gif",
+        "ap070806.gif",
+        "ap070807.gif",
+        "ap070808.gif",
+        "ap070809.gif"
+      ],
+      "internal_links": [
+        "ap0709e.htm",
+        "ap07e.htm"
+      ],
+      "chars": 28080
+    },
+    {
+      "order": 122,
+      "title": "evert ether-physics and -philosophy",
+      "path": "ap0709e.htm",
+      "slug": "122-evert-ether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap070901.jpg",
+        "ap070902.gif",
+        "ap070903.gif",
+        "ap070904.gif",
+        "ap070905.gif",
+        "ap070906.gif",
+        "ap070907.gif"
+      ],
+      "internal_links": [
+        "ap0710e.htm",
+        "ap07e.htm"
+      ],
+      "chars": 22207
+    },
+    {
+      "order": 123,
+      "title": "evert ether-physics and -philosophy",
+      "path": "ap0710e.htm",
+      "slug": "123-evert-ether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap071001.gif",
+        "ap071002.gif",
+        "ap071003.gif",
+        "ap071004.gif",
+        "ap071005.gif",
+        "ap071006.gif"
+      ],
+      "internal_links": [
+        "ap07e.htm"
+      ],
+      "chars": 29186
+    },
+    {
+      "order": 124,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0822e.htm",
+      "slug": "124-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap082200.gif",
+        "ap082201.gif",
+        "ap082202.gif",
+        "ap082203.gif",
+        "ap082204.gif",
+        "ap082205.gif",
+        "ap082206.gif",
+        "ap082207.gif",
+        "ap082208.gif",
+        "ap082209.gif",
+        "ap082210.gif",
+        "ap082211e.gif",
+        "ap082212.jpg",
+        "ap082213.gif",
+        "ap082214.gif",
+        "ap082215.gif",
+        "ap082216.gif",
+        "ap082217.gif",
+        "ap082218.gif",
+        "ap082219.gif",
+        "ap082220.gif",
+        "ap082221.gif",
+        "ap082222.gif"
+      ],
+      "internal_links": [
+        "ap08e.htm"
+      ],
+      "chars": 89638
+    },
+    {
+      "order": 125,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0817e.htm",
+      "slug": "125-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081701.gif",
+        "ap081702.gif",
+        "ap081703.gif",
+        "ap081704.gif",
+        "ap081705.gif",
+        "ap081706.gif",
+        "ap081707.gif",
+        "ap081708.gif",
+        "ap081709.gif",
+        "ap081710.gif",
+        "ap081711.gif",
+        "ap081712.gif",
+        "ap081713.gif",
+        "ap081714.gif",
+        "ap081715.gif",
+        "ap081716.gif",
+        "ap081717.gif",
+        "ap081718.gif",
+        "ap081719.gif",
+        "ap081720.gif",
+        "ap081721.gif",
+        "ap081722.gif",
+        "ap081723.gif",
+        "ap081724.gif",
+        "ap081725.gif"
+      ],
+      "internal_links": [
+        "ap0818e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 95141
+    },
+    {
+      "order": 126,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0811e.htm",
+      "slug": "126-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081101.gif",
+        "ap081102.gif",
+        "ap081103.gif",
+        "ap081104.gif"
+      ],
+      "internal_links": [
+        "ap0812e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 17669
+    },
+    {
+      "order": 127,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0101.htm",
+      "slug": "127-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0102.htm",
+        "ap01.htm"
+      ],
+      "chars": 8093
+    },
+    {
+      "order": 128,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0102.htm",
+      "slug": "128-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0103.htm",
+        "ap01.htm"
+      ],
+      "chars": 11654
+    },
+    {
+      "order": 129,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0103.htm",
+      "slug": "129-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0104.htm",
+        "ap01.htm"
+      ],
+      "chars": 9667
+    },
+    {
+      "order": 130,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0104.htm",
+      "slug": "130-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0105.htm",
+        "ap01.htm"
+      ],
+      "chars": 13538
+    },
+    {
+      "order": 131,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0105.htm",
+      "slug": "131-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0106.htm",
+        "ap01.htm"
+      ],
+      "chars": 16225
+    },
+    {
+      "order": 132,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0106.htm",
+      "slug": "132-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0107.htm",
+        "ap01.htm"
+      ],
+      "chars": 13196
+    },
+    {
+      "order": 133,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0107.htm",
+      "slug": "133-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0108.htm",
+        "ap01.htm"
+      ],
+      "chars": 9587
+    },
+    {
+      "order": 134,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0108.htm",
+      "slug": "134-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap01.htm"
+      ],
+      "chars": 5848
+    },
+    {
+      "order": 135,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0201.htm",
+      "slug": "135-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0202.htm",
+        "ap02.htm"
+      ],
+      "chars": 3910
+    },
+    {
+      "order": 136,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0202.htm",
+      "slug": "136-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap020201.gif",
+        "ap020202.gif"
+      ],
+      "internal_links": [
+        "ap0203.htm",
+        "ap02.htm"
+      ],
+      "chars": 2694
+    },
+    {
+      "order": 137,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0203.htm",
+      "slug": "137-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap020301.gif",
+        "ap020302.gif"
+      ],
+      "internal_links": [
+        "ap0204.htm",
+        "ap02.htm"
+      ],
+      "chars": 4525
+    },
+    {
+      "order": 138,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0204.htm",
+      "slug": "138-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap020401.gif",
+        "ap020402.gif"
+      ],
+      "internal_links": [
+        "ap0205.htm",
+        "ap02.htm"
+      ],
+      "chars": 4307
+    },
+    {
+      "order": 139,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0205.htm",
+      "slug": "139-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap020501.gif"
+      ],
+      "internal_links": [
+        "ap0206.htm",
+        "ap02.htm"
+      ],
+      "chars": 5255
+    },
+    {
+      "order": 140,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0206.htm",
+      "slug": "140-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap020601.gif",
+        "ap020602.gif",
+        "ap020603.gif",
+        "ap020604.gif",
+        "ap020605.gif"
+      ],
+      "internal_links": [
+        "ap02.htm"
+      ],
+      "chars": 11339
+    },
+    {
+      "order": 141,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0312.htm",
+      "slug": "141-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0301.htm",
+        "ap03.htm"
+      ],
+      "chars": 1807
+    },
+    {
+      "order": 142,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0301.htm",
+      "slug": "142-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0302.htm",
+        "ap03.htm"
+      ],
+      "chars": 6158
+    },
+    {
+      "order": 143,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0302.htm",
+      "slug": "143-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap030201.gif",
+        "ap030202.gif",
+        "ap030203.gif"
+      ],
+      "internal_links": [
+        "ap0303.htm",
+        "ap03.htm"
+      ],
+      "chars": 7961
+    },
+    {
+      "order": 144,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0303.htm",
+      "slug": "144-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap030301.gif",
+        "ap030302.gif",
+        "ap030303.gif",
+        "ap030304.gif",
+        "ap030305.gif"
+      ],
+      "internal_links": [
+        "ap0304.htm",
+        "ap03.htm"
+      ],
+      "chars": 13760
+    },
+    {
+      "order": 145,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0304.htm",
+      "slug": "145-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap030401.gif",
+        "ap030402.gif",
+        "ap030403.gif",
+        "ap030404.gif"
+      ],
+      "internal_links": [
+        "ap0305.htm",
+        "ap03.htm"
+      ],
+      "chars": 7812
+    },
+    {
+      "order": 146,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0305.htm",
+      "slug": "146-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap030501.gif",
+        "ap030502.gif",
+        "ap030503.gif",
+        "ap030504.gif",
+        "ap030505.gif",
+        "ap030506.gif",
+        "ap030507.gif"
+      ],
+      "internal_links": [
+        "ap0306.htm",
+        "ap03.htm"
+      ],
+      "chars": 17522
+    },
+    {
+      "order": 147,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0306.htm",
+      "slug": "147-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap030601.gif",
+        "ap030603.gif",
+        "ap030602.gif",
+        "ap030604.gif",
+        "ap030605.gif",
+        "ap030606.gif",
+        "ap030607.gif",
+        "ap030608.gif"
+      ],
+      "internal_links": [
+        "ap0307.htm",
+        "ap03.htm"
+      ],
+      "chars": 10608
+    },
+    {
+      "order": 148,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0307.htm",
+      "slug": "148-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap030700.gif",
+        "ap030701.gif",
+        "ap030702.gif",
+        "ap030703.gif",
+        "ap030704.gif"
+      ],
+      "internal_links": [
+        "ap0309.htm",
+        "ap03.htm"
+      ],
+      "chars": 13177
+    },
+    {
+      "order": 149,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0309.htm",
+      "slug": "149-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap030901.gif",
+        "ap030902.gif",
+        "ap030903.gif",
+        "ap030904.gif",
+        "ap030906.gif"
+      ],
+      "internal_links": [
+        "ap0310.htm",
+        "ap03.htm"
+      ],
+      "chars": 17753
+    },
+    {
+      "order": 150,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0310.htm",
+      "slug": "150-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap031001.gif",
+        "ap031002.jpg",
+        "ap031003.jpg"
+      ],
+      "internal_links": [
+        "ap0311.htm",
+        "ap03.htm"
+      ],
+      "chars": 24954
+    },
+    {
+      "order": 151,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0311.htm",
+      "slug": "151-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap031101.gif",
+        "ap031102.jpg",
+        "ap031103.gif",
+        "ap031104.gif",
+        "ap031105.gif",
+        "ap031106.gif",
+        "ap031107.gif",
+        "ap031108.gif",
+        "ap031109.gif"
+      ],
+      "internal_links": [
+        "ap03.htm"
+      ],
+      "chars": 38582
+    },
+    {
+      "order": 152,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0401.htm",
+      "slug": "152-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap040105.gif",
+        "ap040106.gif",
+        "ap040107.gif",
+        "ap040108.gif",
+        "ap040109.gif",
+        "ap040110.gif",
+        "ap040111.gif",
+        "ap040112.gif",
+        "ap040113.gif"
+      ],
+      "internal_links": [
+        "ap0402.htm",
+        "ap04.htm"
+      ],
+      "chars": 15342
+    },
+    {
+      "order": 153,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0402.htm",
+      "slug": "153-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap040201.jpg",
+        "ap040202.gif",
+        "ap040203.gif",
+        "ap040204.jpg",
+        "ap040205.jpg"
+      ],
+      "internal_links": [
+        "ap0403.htm",
+        "ap04.htm"
+      ],
+      "chars": 21728
+    },
+    {
+      "order": 154,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0403.htm",
+      "slug": "154-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap040301.jpg",
+        "ap040302.gif",
+        "ap040303.gif",
+        "ap040304.gif",
+        "ap040305.gif",
+        "ap040306.gif",
+        "ap040307.gif",
+        "ap040308.gif",
+        "ap040309.gif"
+      ],
+      "internal_links": [
+        "ap04.htm"
+      ],
+      "chars": 24973
+    },
+    {
+      "order": 155,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0801.htm",
+      "slug": "155-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0802.htm",
+        "ap08.htm"
+      ],
+      "chars": 11381
+    },
+    {
+      "order": 156,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0802.htm",
+      "slug": "156-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0803.htm",
+        "ap08.htm"
+      ],
+      "chars": 1250
+    },
+    {
+      "order": 157,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0803.htm",
+      "slug": "157-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0804.htm",
+        "ap08.htm"
+      ],
+      "chars": 14955
+    },
+    {
+      "order": 158,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0804.htm",
+      "slug": "158-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap080401.gif",
+        "ap080402.gif"
+      ],
+      "internal_links": [
+        "ap0805.htm",
+        "ap08.htm"
+      ],
+      "chars": 7523
+    },
+    {
+      "order": 159,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0805.htm",
+      "slug": "159-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap080501.gif",
+        "ap080502.gif",
+        "ap080503.gif"
+      ],
+      "internal_links": [
+        "ap0806.htm",
+        "ap08.htm"
+      ],
+      "chars": 15706
+    },
+    {
+      "order": 160,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0806.htm",
+      "slug": "160-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap080601.gif",
+        "ap080602.gif",
+        "ap080603.gif"
+      ],
+      "internal_links": [
+        "ap0807.htm",
+        "ap08.htm"
+      ],
+      "chars": 6964
+    },
+    {
+      "order": 161,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0807.htm",
+      "slug": "161-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap080701.gif",
+        "ap080702.gif",
+        "ap080703.gif",
+        "ap080704.gif",
+        "ap080705.gif",
+        "ap080706.gif"
+      ],
+      "internal_links": [
+        "ap0808.htm",
+        "ap08.htm"
+      ],
+      "chars": 13191
+    },
+    {
+      "order": 162,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0808.htm",
+      "slug": "162-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap080801.gif",
+        "ap080802.gif",
+        "ap080803.gif",
+        "ap080804.gif"
+      ],
+      "internal_links": [
+        "ap0809.htm",
+        "ap08.htm"
+      ],
+      "chars": 11359
+    },
+    {
+      "order": 163,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0809.htm",
+      "slug": "163-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap080901.gif",
+        "ap080902.gif",
+        "ap080903.gif",
+        "ap080904.gif"
+      ],
+      "internal_links": [
+        "ap0810.htm",
+        "ap08.htm"
+      ],
+      "chars": 16845
+    },
+    {
+      "order": 164,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0812.htm",
+      "slug": "164-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081201.gif",
+        "ap081202.gif",
+        "ap081203.gif",
+        "ap081204.gif",
+        "ap081205.gif",
+        "ap081206.gif",
+        "ap081207.gif",
+        "ap081208.gif",
+        "ap081209.gif",
+        "ap081210.gif"
+      ],
+      "internal_links": [
+        "ap0813.htm",
+        "ap08.htm"
+      ],
+      "chars": 32828
+    },
+    {
+      "order": 165,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0813.htm",
+      "slug": "165-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081301.gif",
+        "ap081302.gif",
+        "ap081303.gif",
+        "ap081304.gif",
+        "ap081305.gif",
+        "ap081306.gif",
+        "ap081307.gif",
+        "ap081308.gif",
+        "ap081309.gif",
+        "ap081310.gif",
+        "ap081311.gif",
+        "ap081312.gif"
+      ],
+      "internal_links": [
+        "ap0814.htm",
+        "ap08.htm"
+      ],
+      "chars": 86873
+    },
+    {
+      "order": 166,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0814.htm",
+      "slug": "166-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081401.gif",
+        "ap081402.gif",
+        "ap081403.gif",
+        "ap081404.gif",
+        "ap081405.gif",
+        "ap081406.gif"
+      ],
+      "internal_links": [
+        "ap0815.htm",
+        "ap08.htm"
+      ],
+      "chars": 32348
+    },
+    {
+      "order": 167,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0815.htm",
+      "slug": "167-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081501.jpg",
+        "ap081502.gif",
+        "ap081503.jpg",
+        "ap081504.jpg",
+        "ap081505.jpg",
+        "ap081506.gif",
+        "ap081507.jpg",
+        "ap081508.jpg",
+        "ap081509.gif",
+        "ap081510.gif",
+        "ap081511.jpg",
+        "ap081512.gif",
+        "ap081513.jpg",
+        "ap081514.gif",
+        "ap081515.gif",
+        "ap081516.gif"
+      ],
+      "internal_links": [
+        "ap0816.htm",
+        "ap08.htm"
+      ],
+      "chars": 132812
+    },
+    {
+      "order": 168,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0818.htm",
+      "slug": "168-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081801.gif",
+        "ap081802.gif",
+        "ap081803.gif",
+        "ap081804.gif",
+        "ap081805.gif",
+        "ap081806.gif",
+        "ap081807.gif",
+        "ap081808.gif",
+        "ap081809.gif",
+        "ap081810.gif",
+        "ap081811.gif",
+        "ap081812.gif",
+        "ap081813.gif",
+        "ap081814.gif",
+        "ap081815.gif",
+        "ap081816.gif",
+        "ap081817.gif",
+        "ap081818.gif",
+        "ap081819.gif"
+      ],
+      "internal_links": [
+        "ap0819.htm",
+        "ap08.htm"
+      ],
+      "chars": 84444
+    },
+    {
+      "order": 169,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0819.htm",
+      "slug": "169-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081901.gif",
+        "ap081902.gif",
+        "ap081903.gif",
+        "ap081904.gif",
+        "ap081905.gif",
+        "ap081906.gif",
+        "ap081907.gif",
+        "ap081908.gif",
+        "ap081909.gif",
+        "ap081910.gif",
+        "ap081911.gif",
+        "ap081912.gif",
+        "ap081913.gif",
+        "ap081914.gif",
+        "ap081916.gif",
+        "ap081917.gif",
+        "ap081918.gif",
+        "ap081915.gif"
+      ],
+      "internal_links": [
+        "ap0820.htm",
+        "ap08.htm"
+      ],
+      "chars": 48419
+    },
+    {
+      "order": 170,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0820.htm",
+      "slug": "170-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap082001.gif",
+        "ap082002.gif",
+        "ap082003.gif",
+        "ap082004.gif",
+        "ap082005.gif",
+        "ap082006.gif",
+        "ap082007.gif",
+        "ap082008.gif",
+        "ap082009.gif",
+        "ap082010.gif",
+        "ap082011.gif",
+        "ap082012.gif",
+        "ap082013.gif",
+        "ap082014.gif",
+        "ap082015.gif",
+        "ap082016.gif",
+        "ap082017.gif",
+        "ap082018.gif",
+        "ap082019.gif",
+        "ap082020.gif",
+        "ap082021.gif",
+        "ap082022.gif"
+      ],
+      "internal_links": [
+        "ap0821.htm",
+        "ap08.htm"
+      ],
+      "chars": 67097
+    },
+    {
+      "order": 171,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0101e.htm",
+      "slug": "171-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0102e.htm",
+        "ap01e.htm"
+      ],
+      "chars": 7038
+    },
+    {
+      "order": 172,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0102e.htm",
+      "slug": "172-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0103e.htm",
+        "ap01e.htm"
+      ],
+      "chars": 10224
+    },
+    {
+      "order": 173,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0103e.htm",
+      "slug": "173-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0104e.htm",
+        "ap01e.htm"
+      ],
+      "chars": 9011
+    },
+    {
+      "order": 174,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0104e.htm",
+      "slug": "174-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0105e.htm",
+        "ap01e.htm"
+      ],
+      "chars": 12612
+    },
+    {
+      "order": 175,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0105e.htm",
+      "slug": "175-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0106e.htm",
+        "ap01e.htm"
+      ],
+      "chars": 15280
+    },
+    {
+      "order": 176,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0106e.htm",
+      "slug": "176-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0107e.htm",
+        "ap01e.htm"
+      ],
+      "chars": 12585
+    },
+    {
+      "order": 177,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0107e.htm",
+      "slug": "177-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0108e.htm",
+        "ap01e.htm"
+      ],
+      "chars": 8751
+    },
+    {
+      "order": 178,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0108e.htm",
+      "slug": "178-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap01e.htm"
+      ],
+      "chars": 5174
+    },
+    {
+      "order": 179,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0201e.htm",
+      "slug": "179-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0202e.htm",
+        "ap02e.htm"
+      ],
+      "chars": 3529
+    },
+    {
+      "order": 180,
+      "title": "evert aether-physics und -philosophy",
+      "path": "ap0202e.htm",
+      "slug": "180-evert-aether-physics-und-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap020201.gif",
+        "ap020202.gif"
+      ],
+      "internal_links": [
+        "ap0203e.htm",
+        "ap02e.htm"
+      ],
+      "chars": 2424
+    },
+    {
+      "order": 181,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0203e.htm",
+      "slug": "181-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap020301.gif",
+        "ap020302.gif"
+      ],
+      "internal_links": [
+        "ap0204e.htm",
+        "ap02e.htm"
+      ],
+      "chars": 4157
+    },
+    {
+      "order": 182,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0204e.htm",
+      "slug": "182-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap020401.gif",
+        "ap020402.gif"
+      ],
+      "internal_links": [
+        "ap0205e.htm",
+        "ap02e.htm"
+      ],
+      "chars": 3836
+    },
+    {
+      "order": 183,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0205e.htm",
+      "slug": "183-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap020501.gif"
+      ],
+      "internal_links": [
+        "ap0206e.htm",
+        "ap02e.htm"
+      ],
+      "chars": 4853
+    },
+    {
+      "order": 184,
+      "title": "evert aether-physics und -philosophy",
+      "path": "ap0206e.htm",
+      "slug": "184-evert-aether-physics-und-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap020601.gif",
+        "ap020602.gif",
+        "ap020603.gif",
+        "ap020604.gif",
+        "ap020605.gif"
+      ],
+      "internal_links": [
+        "ap02e.htm"
+      ],
+      "chars": 10854
+    },
+    {
+      "order": 185,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0312e.htm",
+      "slug": "185-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0301e.htm",
+        "ap03e.htm"
+      ],
+      "chars": 1613
+    },
+    {
+      "order": 186,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0301e.htm",
+      "slug": "186-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0302e.htm",
+        "ap03e.htm"
+      ],
+      "chars": 5608
+    },
+    {
+      "order": 187,
+      "title": "evert aether-physicd and -philosophy",
+      "path": "ap0302e.htm",
+      "slug": "187-evert-aether-physicd-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap030201.gif",
+        "ap030202.gif",
+        "ap030203.gif"
+      ],
+      "internal_links": [
+        "ap0303e.htm",
+        "ap03e.htm"
+      ],
+      "chars": 7550
+    },
+    {
+      "order": 188,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0303e.htm",
+      "slug": "188-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap030301.gif",
+        "ap030302.gif",
+        "ap030303.gif",
+        "ap030304.gif",
+        "ap030305.gif"
+      ],
+      "internal_links": [
+        "ap0304e.htm",
+        "ap03e.htm"
+      ],
+      "chars": 12882
+    },
+    {
+      "order": 189,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0304e.htm",
+      "slug": "189-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap030401.gif",
+        "ap030402.gif",
+        "ap030403.gif",
+        "ap030404.gif"
+      ],
+      "internal_links": [
+        "ap0305e.htm",
+        "ap03e.htm"
+      ],
+      "chars": 7601
+    },
+    {
+      "order": 190,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0305e.htm",
+      "slug": "190-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap030501.gif",
+        "ap030502.gif",
+        "ap030503.gif",
+        "ap030504.gif",
+        "ap030505.gif",
+        "ap030506.gif",
+        "ap030507.gif"
+      ],
+      "internal_links": [
+        "ap0306e.htm",
+        "ap03e.htm"
+      ],
+      "chars": 16207
+    },
+    {
+      "order": 191,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0306e.htm",
+      "slug": "191-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap030601.gif",
+        "ap030603.gif",
+        "ap030602.gif",
+        "ap030604.gif",
+        "ap030605.gif",
+        "ap030606.gif",
+        "ap030607.gif",
+        "ap030608.gif"
+      ],
+      "internal_links": [
+        "ap0307e.htm",
+        "ap03e.htm"
+      ],
+      "chars": 9893
+    },
+    {
+      "order": 192,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0307e.htm",
+      "slug": "192-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap030700.gif",
+        "ap030701.gif",
+        "ap030702.gif",
+        "ap030703.gif",
+        "ap030704.gif"
+      ],
+      "internal_links": [
+        "ap0309e.htm",
+        "ap03e.htm"
+      ],
+      "chars": 11205
+    },
+    {
+      "order": 193,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0309e.htm",
+      "slug": "193-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap030901.gif",
+        "ap030902.gif",
+        "ap030903.gif",
+        "ap030904.gif",
+        "ap030906.gif"
+      ],
+      "internal_links": [
+        "ap0310e.htm",
+        "ap03e.htm"
+      ],
+      "chars": 15843
+    },
+    {
+      "order": 194,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0310e.htm",
+      "slug": "194-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap031001.gif",
+        "ap031002.jpg",
+        "ap031003.jpg"
+      ],
+      "internal_links": [
+        "ap0311e.htm",
+        "ap03e.htm"
+      ],
+      "chars": 23078
+    },
+    {
+      "order": 195,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0311e.htm",
+      "slug": "195-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap031101.gif",
+        "ap031102.jpg",
+        "ap031103.gif",
+        "ap031104.gif",
+        "ap031105.gif",
+        "ap031106.gif",
+        "ap031107.gif",
+        "ap031108.gif",
+        "ap031109.gif"
+      ],
+      "internal_links": [
+        "ap03e.htm"
+      ],
+      "chars": 36540
+    },
+    {
+      "order": 196,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0401e.htm",
+      "slug": "196-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap040105.gif",
+        "ap040106.gif",
+        "ap040107.gif",
+        "ap040108.gif",
+        "ap040109.gif",
+        "ap040110.gif",
+        "ap040111.gif",
+        "ap040112.gif",
+        "ap040113.gif"
+      ],
+      "internal_links": [
+        "ap0402e.htm",
+        "ap04e.htm"
+      ],
+      "chars": 15436
+    },
+    {
+      "order": 197,
+      "title": "evert aether-physics und -philosophy",
+      "path": "ap0402e.htm",
+      "slug": "197-evert-aether-physics-und-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap040201.jpg",
+        "ap040202.gif",
+        "ap040203.gif",
+        "ap040204.jpg",
+        "ap040205.jpg"
+      ],
+      "internal_links": [
+        "ap0403e.htm",
+        "ap04e.htm"
+      ],
+      "chars": 20443
+    },
+    {
+      "order": 198,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0403e.htm",
+      "slug": "198-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap040301.jpg",
+        "ap040302.gif",
+        "ap040303.gif",
+        "ap040304.gif",
+        "ap040305.gif",
+        "ap040306.gif",
+        "ap040307.gif",
+        "ap040308.gif",
+        "ap040309.gif"
+      ],
+      "internal_links": [
+        "ap04e.htm"
+      ],
+      "chars": 23691
+    },
+    {
+      "order": 199,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0801e.htm",
+      "slug": "199-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0802e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 10386
+    },
+    {
+      "order": 200,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0802e.htm",
+      "slug": "200-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0803e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 1057
+    },
+    {
+      "order": 201,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0803e.htm",
+      "slug": "201-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "ap0804e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 13460
+    },
+    {
+      "order": 202,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0804e.htm",
+      "slug": "202-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap080401.gif",
+        "ap080402.gif"
+      ],
+      "internal_links": [
+        "ap0805e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 6847
+    },
+    {
+      "order": 203,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0805e.htm",
+      "slug": "203-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap080501.gif",
+        "ap080502.gif",
+        "ap080503.gif"
+      ],
+      "internal_links": [
+        "ap0806e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 14249
+    },
+    {
+      "order": 204,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0806e.htm",
+      "slug": "204-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap080601.gif",
+        "ap080602.gif",
+        "ap080603.gif"
+      ],
+      "internal_links": [
+        "ap0807e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 6493
+    },
+    {
+      "order": 205,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0807e.htm",
+      "slug": "205-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap080701.gif",
+        "ap080702.gif",
+        "ap080703.gif",
+        "ap080704.gif",
+        "ap080705.gif",
+        "ap080706.gif"
+      ],
+      "internal_links": [
+        "ap0808e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 11972
+    },
+    {
+      "order": 206,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0808e.htm",
+      "slug": "206-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap080801.gif",
+        "ap080802.gif",
+        "ap080803.gif",
+        "ap080804.gif"
+      ],
+      "internal_links": [
+        "ap0809e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 9766
+    },
+    {
+      "order": 207,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0809e.htm",
+      "slug": "207-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap080901.gif",
+        "ap080902.gif",
+        "ap080903.gif",
+        "ap080904.gif"
+      ],
+      "internal_links": [
+        "ap0810e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 15528
+    },
+    {
+      "order": 208,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0812e.htm",
+      "slug": "208-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081201.gif",
+        "ap081202.gif",
+        "ap081203.gif",
+        "ap081204.gif",
+        "ap081205.gif",
+        "ap081206.gif",
+        "ap081207.gif",
+        "ap081208.gif",
+        "ap081209.gif",
+        "ap081210.gif"
+      ],
+      "internal_links": [
+        "ap0813e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 29080
+    },
+    {
+      "order": 209,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0813e.htm",
+      "slug": "209-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081301.gif",
+        "ap081302.gif",
+        "ap081303.gif",
+        "ap081304.gif",
+        "ap081305.gif",
+        "ap081306.gif",
+        "ap081307.gif",
+        "ap081308.gif",
+        "ap081309.gif",
+        "ap081310.gif",
+        "ap081311.gif",
+        "ap081312.gif"
+      ],
+      "internal_links": [
+        "ap0814e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 79972
+    },
+    {
+      "order": 210,
+      "title": "evert aether-physics und -philosophy",
+      "path": "ap0814e.htm",
+      "slug": "210-evert-aether-physics-und-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081401.gif",
+        "ap081402.gif",
+        "ap081403.gif",
+        "ap081404.gif",
+        "ap081405.gif",
+        "ap081406.gif"
+      ],
+      "internal_links": [
+        "ap0815e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 29260
+    },
+    {
+      "order": 211,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0815e.htm",
+      "slug": "211-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081501.jpg",
+        "ap081502.gif",
+        "ap081503.jpg",
+        "ap081504.jpg",
+        "ap081505.jpg",
+        "ap081506.gif",
+        "ap081507.jpg",
+        "ap081508.jpg",
+        "ap081509.gif",
+        "ap081510.gif",
+        "ap081511.jpg",
+        "ap081512.gif",
+        "ap081513.jpg",
+        "ap081514.gif",
+        "ap081515.gif",
+        "ap081516.gif"
+      ],
+      "internal_links": [
+        "ap0816e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 121460
+    },
+    {
+      "order": 212,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0818e.htm",
+      "slug": "212-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081801.gif",
+        "ap081802.gif",
+        "ap081803.gif",
+        "ap081804.gif",
+        "ap081835.gif",
+        "ap081806.gif",
+        "ap081807.gif",
+        "ap081808.gif",
+        "ap081809.gif",
+        "ap081810.gif",
+        "ap081811.gif",
+        "ap081812.gif",
+        "ap081813.gif",
+        "ap081814.gif",
+        "ap081815.gif",
+        "ap081816.gif",
+        "ap081817.gif",
+        "ap081818.gif",
+        "ap081819.gif"
+      ],
+      "internal_links": [
+        "ap0819e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 76987
+    },
+    {
+      "order": 213,
+      "title": "evert \u00e4ther-physik und -philosophie",
+      "path": "ap0819e.htm",
+      "slug": "213-evert-ather-physik-und-philosophie",
+      "reachable_from_entry": true,
+      "images": [
+        "ap081901.gif",
+        "ap081902.gif",
+        "ap081903.gif",
+        "ap081904.gif",
+        "ap081905.gif",
+        "ap081906.gif",
+        "ap081907.gif",
+        "ap081908.gif",
+        "ap081909.gif",
+        "ap081910.gif",
+        "ap081911.gif",
+        "ap081912.gif",
+        "ap081913.gif",
+        "ap081914.gif",
+        "ap081916.gif",
+        "ap081917.gif",
+        "ap081918.gif",
+        "ap081915.gif"
+      ],
+      "internal_links": [
+        "ap0820e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 44432
+    },
+    {
+      "order": 214,
+      "title": "evert aether-physics and -philosophy",
+      "path": "ap0820e.htm",
+      "slug": "214-evert-aether-physics-and-philosophy",
+      "reachable_from_entry": true,
+      "images": [
+        "ap082001.gif",
+        "ap082002.gif",
+        "ap082003.gif",
+        "ap082004.gif",
+        "ap082005.gif",
+        "ap082006.gif",
+        "ap082007.gif",
+        "ap082008.gif",
+        "ap082009.gif",
+        "ap082010.gif",
+        "ap082011.gif",
+        "ap082012.gif",
+        "ap082013.gif",
+        "ap082014.gif",
+        "ap082015.gif",
+        "ap082016.gif",
+        "ap082017.gif",
+        "ap082018.gif",
+        "ap082019.gif",
+        "ap082020.gif",
+        "ap082021.gif",
+        "ap082022.gif"
+      ],
+      "internal_links": [
+        "ap0821e.htm",
+        "ap08e.htm"
+      ],
+      "chars": 61922
+    },
+    {
+      "order": 215,
+      "title": "www.evert.de",
+      "path": "index.html",
+      "slug": "215-wwwevertde",
+      "reachable_from_entry": false,
+      "images": [
+        "npuls.gif",
+        "avard3.GIF"
+      ],
+      "internal_links": [
+        "indexe.htm",
+        "indexa.htm",
+        "indexf.htm",
+        "autor.htm",
+        "news.htm"
+      ],
+      "chars": 745
+    }
+  ]
+}
