@@ -1,0 +1,5 @@
+target: https://meyl.eu/go/indexb830.html
+mode: live
+path_filter: /go/indexb830.html
+title: Meyl - Scalarwave-Technology - The international website of www.k-meyl.de
+mirror_date: 2026-08-13T06:46:51Z
