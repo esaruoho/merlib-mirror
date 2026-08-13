@@ -1,0 +1,4984 @@
+
+
+*******************************************************************
+*                                                                 *
+*  Kapitel 3                         Chpater 3                    *
+*  ---------                         ---------                    *
+*                                                                 *
+*  MATERIENS ELEKTROMAGNETISKA       ELECTROMAGNETIC PROPERTIES   *
+*  ---------------------------       -------------------------    *
+*  EGENSKAPER                        OF MATTER                    *
+*  ----------                        ---------                    *
+*                                                                 *
+*  * Allmänt                         * General                    *
+*  * Vacuum eller tomrummet          * Vacuum or empty space      *                                                         *
+*  * Grunläggande regler för         * Basic rules for interac-   *                              *
+*    växelverkan mellan par-           tion between particle      *                                            *
+*    tikel och vacuum space.           and vacuum space.          *                                        *
+*  * Elektriska fält                 * Electrical fields          *
+*  * Magnetiska fält                 * Magnetical fields          *
+*  * Maxwells ekvationer             * Maxwell's equations        *
+*                                                                 *
+*                                                                 *
+*******************************************************************
+
+
+
+ALLMŽNT                              ABSTRACT
+-------                              --------
+Elektromangetisk   teori  såsom      Electromagnetic theory as deve-
+den utvecklats  av många  stora      loped by many  great scientists
+vetenskapsmän under mera än två      during   more  than  two  cent-
+decennier   har  varit   mycket      uries has  been very successful
+framgångsrik i  syftet att  be-      in  describing  electromagnetic
+skriva  elektromagnetiska feno-      phenomena  in nature.  But many
+men i naturen.Men många problem      problems     remain   unsolved.
+återstår  olösta. Källa och ur-      Source and  origin  of electro-
+sprung till  elektromagnetismen      magnetism  and  its true  basic
+och  dess  sanna  grundläggande      nature   are  still  not  fully
+natur är  fortfarande inte för-      understood.
+stådda.
+
+Det kommer här att prtesenteras      It  is  here  presented  a  new
+en ny teoretisk  och matematisk      theoretical   and  mathematical
+modell,  som  tillämpade  på de      model,  which  applied on these
+elektromagnetiska    fenomenen,      problems will offer  a new  and
+kommer  att  ge en helt ny för-      different understanding.As base
+ståelse.  Som grund är Newton's      for this model, Newton's second
+andra  lag  använd,  kombinerat      law of force is used,  combined
+med   nya  grundläggande  hypo-      with new  basic  assumptions of
+teser om egenskaper hos elemen-      properties of elementary partic-
+tära  partiklar   samt  vakuum-      les and the vacuum space. As re-
+rummets egenskaper. Som ett re-      sult, new  basic   insights  of
+sultat  erhåller  vi nya insik-      electromagnetic mechanisms  are
+ter om de elektromagnetiska me-      received  together  with  known
+kanismerna tillsammans med här-      results from common electromag-
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.01
+--------------------------------------------------------------------- 
+ 
+ 
+ledningar av redan kända resul-      netic theory.
+tas   från  elektromagnetismen.
+
+
+                           --------------
+
+
+
+
+Vacuum eller "tomrummet"            Vacuum or "empty space"
+------------------------            -----------------------
+
+Vakuum,  eller  "tomrummet"  är      Vacuum, or  "empty space"  is a
+det allmänna begrepp som använ-      common concept  used  when try-
+des  då  man  försöker  ge   en      ing to describe  a void in lack
+beskrivning av ett  tillstånd i      of matter. However,  since Max-
+fullständigt  avsaknad av mate-      well's days,  this vacuum space
+ria. Emellertid, alltsedan Max-      has been allotted physical pro-
+wells  tid,  har  detta  vakuum      perties by associating physical
+tilldelats egenskaper i form av      constants to it,indicating that
+fysikaliska  konstanter, vilket      this vacuum may have properties
+indikerar  att vakuum har fysi-      which can be  expressed in phy-
+kaliska  egenskaper  vilka  kan      sical meaningful terms like for
+uttryckas  i   fysikaliskt  me-      instance  mass  and energy. Two
+ningsfulla  termer.  Två sådana      such constants are, Eo,the per-
+konstanter  är, Eo, permittivi-      mittivity  of  vacuum constant,
+teten   hos vakuum   konstanten      and, uo,  the  permeablility of
+samt,  uo ,   permebliteten   i      vacuum constant,associated with
+vakuum  konstanten,  nära asso-      the  electrical  and the magne-
+cierade till  de elektriska och      tical  properties of the  elec-
+magnetiska   egenskaperna   hos      tromagnetical field respective-
+materien.                            ly.
+
+När en  elektrisk  spänning an-      When  an  electric  voltage  is
+slutes  till två  metallplattor      connected to two  metal platens,
+som  ej  är  galvaniskt anslut-      not being  in galvanic  contact
+na  till  varandra,  uppstår en      with  each other, a dispacement
+förskjutningsström   genom  den      current  seems to  flow through
+"tomma rymd"  som  omsluter  de      the  "empty void"  situated be-
+två  plattorna.  En motsvarande      tween the two platens.A corres-
+elektrisk  ström  av elektroner      ponding   electric  current  of
+kommer  då  att  flyta genom de      electrons then flow through the
+metalltrådar  som  förbinder de      wires  connecting  the two pla-
+två  plattorna  samt  genom det      tens  via the  supplier  source
+elektriska batteriet.                (the battery).
+
+Den fråga  vi bör ställa oss är      The  question  we  may  ask  is
+således  huruvida  den rymd som      wether  this  void  between the
+finns  mellan  de två plattorna      two  platens  is  empty  or  if
+är tomt eller döljer någon sub-      there is something hidden there
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.02
+--------------------------------------------------------------------- 
+ 
+ 
+stans  som  förmedlar den elek-      which mediate the current ?
+triska sdtrömmen ?
+
+Hur  som  helst  med detta, det      In any case  it seems  hard  to
+är  svårt  att  förklara  dessa      explain this phenomenon without
+fenomen utan  att göra antagan-      doing the assumption that some-
+det  att  det  verkligen  finns      thing  really  is hidden in the
+någonting  gömt  mellan  de två      space between the  two platens.
+plattorna.
+
+När   spänningen  över  de  två      When  the  voltage over the two
+plattorn  har  växt  upp (kapa-      platens has grown up (the capa-
+citansen  har  blivit  laddad),      citor has been charged), it has
+så  har  den  lagrat upp energi      stored  electric  energy  which
+som  vid  ett  senare tillfälle      later on can be supplied  to an
+kan  plockas  ut  av  en  yttre      outer user.Then the interesting
+användare. Den intressanta frå-      question is,  where is the seat
+gan är då,  var finns denna en-      of this energy ?
+ergi lagrad ?
+
+Ett  liknande  problem  uppstår      A  similar  problem arises when
+när  man  låter  en   elektrisk      letting   an  electric  current
+ström genomflyta  en metalltråd      flow through a metallic wire (a
+(en konduktor).  Ett magnetiskt      conductor). A magnetic field is
+fält uppstår därvid och som ger      created  around  the conductor,
+upphov till  magnetiska krafter      giving rise  to magnetic forces
+på en magnet eller annan ström-      on a  magnet or another conduc-
+förande ledare i närheten. Žven      tor in the  vicinity. Even here
+här upplagras energi och frågan      energy is stored and the quest-
+bör   upprepas,  var någonstans      tion may be repeated,  where is
+finns denna energi lanrad ?          the seat of this energy ?
+
+
+I det magnetiska fallet kan ett      In the  magnetic case one sugg-
+förslag vara att energin lagras      estion  may be  that the energy
+i  form av kinetisk energi i de      is stored  in kinetic energy of
+rörliga elektronerna i ledaren.      the  moving  electrons  in  the
+Emellertid, en  grov  uppskatt-      conductor.   However,  a  rough
+ning  visar att detta inte  kan      estimation  shows  that  it not
+vara   riktigt,  den  kinetiska      can be true, this energy is too
+energin är för liten. Och i fal-     small. And  in  the   capacitor
+let  med  kondensatorn går  det      case  there  is  no  chance  to
+överhuvud taget  inte  motivera      motivate   energy   stored   by
+energinlagringen i rörliga elek-     moving electrons.
+troner.
+
+Därför,  svaret på frågan måste      Therefore,  the  answer  of the
+vara något  annat.  I  ett  om-      question must be something else.
+sorgsfullt  studium  kommer  vi      In a careful study,we will here
+här nedan  att  komma fram till      come  to  the  conclusion  that
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.03
+--------------------------------------------------------------------- 
+ 
+ 
+slutsatsen  att  det  är vakum-      vacuum itself is responsible of
+rummet  självt som är ansvarigt      this energy  storing  and  that
+för  denna  energilagring   och      the principles  for it has much
+att  processen  påminner om hur      in common to how energy is sto-
+energi  lagras i flödande medi-      red in a flowing  medium, water
+er,  vatten,  luft  osv.  Detta      or air for  instance. That will
+konstaterande  kommer  att leda      lead  us to  a  hydromechanical
+oss fram  till en hydromekanisk      model  of  electromagnetism,  a
+modell  av  elektromangetismen,      model  which  we here  will di-
+en modell som vi här kommer att      scuss and which we shall inves-
+diskutera  och  undersöka  mera      tigate more carefully.
+omsorgsfullt.
+
+                          ----------------
+
+
+Energi   definieras  vanligtvis      Energy is by common  definition
+som en  kvantitet  innehållande      dependent  of two  main variab-
+två  dimensioner,   massa   och      les, mass  and movement. Trans-
+rörelse.  Om  vi överför  dessa      mitting   this   definition  to
+definitioner till rymden och de      space   and     electromagnetic
+elektromagnetiska     fenomenen      fields means, that space itself
+innebär detta, att rymden själv      has   capabilities  of  storing
+har förmåga att lagra massa och      mass and energy. We can imagine
+energi.  Vi kan  föreställa oss      that  property  of  space  as a
+denna egenskap  hos rymden  som      field  of  an invisible and un-
+ett  osynligt  och   oberörbart      touchable  fluidum, responsible
+fluidum,  ansvarigt  för  denna      for this energy storing.
+lagring av energi.
+
+Emellertid  måste här noggrannt      However, it must here carefully
+utsägas  att dessa  hypotetiska      be accentuated that these hypo-
+egenskaper  hos rymden inte har      thetical  properties  of  space
+någonting   att  göra  med  det      has nothing to do with the "old
+"gamla eterbegreppet", en före-      aether concept", used solely as
+ställd  egenskap hos rummet an-      a  carrier  of light  in accord
+vändt   enbart  för  att  kunna      with  old light  wave theories.
+förklara  ljusets fortplantning      The  medium  here postulated is
+i enlighet  med den  gamla före-     of common nature and not speci-
+ställningen  om  ljuset  som en      ficely aimed to support proper-
+vågrörelse.  Det medium som här      ties  of  light  propagation in
+postulerats är  av allmän natur.     the free space.
+
+Det postulerade  fältet bör ses      The field may be seen as a pre-
+som ett förstadium till det som      stage of what we normally defi-
+vi i dagligt tal benämner mate-      ne as matter.Material particles
+ria. Materiella partiklar utgör      then is parts of this field be-
+sedan   fluktuationer  i  detta      ing fluctuations like condensed
+fält,  likt kondenserade kärnor      cores  or  drops in  a cloud of
+eller  droppar  i  ett regnmoln.     rain.  Particles  interact with
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.04
+--------------------------------------------------------------------- 
+ 
+ 
+Partiklar växelverkar med detta      this field by exchanging energy
+fält  genom  att  utbyta energi      and matter  with it continously.
+och materia med fältet kontinu-      This  interacting  process then
+erligt.   Denna   växelverkande      is a  part of the electromagne-
+process  utgör  en  del  av det      tic field.
+elektromagnetiska fältet.
+
+Som en konsekvens av dessa ide-      As a  consequence of these ide-
+er är  partiklar,  till exempel      as,  elementary  particles,  as
+elektroner,  uppbyggda av stoff      for  instance   electrons,  are
+från  detta  fält  men omfattar      built up by stuff of this field
+en annorlunda  och mera  ordnad      but having a different and more
+struktur än fältet. Denna "ord-      ordered structure.  This "order
+ning i kaos"  som partikeln ut-      in chaos" then make it possible
+gör,  gör det sedan möjligt att      for us to understand electromag-
+förstå elektromagnetismen.           netism.
+
+
+                    ---------------
+
+
+
+GRUNDLŽGGANDE REGLER FÖR             BASIC RULES OF INTERACTION
+--------------------------           ---------------------------
+VŽXELVERKAN MELLAN PATIKEL           BETWEEN PARTICLE AND VACUUM
+--------------------------           ---------------------------
+OCH VAKUUM RUMMET.                   SPACE.
+------------------                   ------
+
+
+
+==== Equilibrium between mass inflow and outflow ============= 3.05A
+Den mängden materia  som ström-      The  amount of  mass  streaming
+mar in  till  en  partikel från      in to a particle from the field
+fältet  är   densamma  som  den      is  the same  amount of mass as
+mängd  materia  som strömmar ut      that mass streaming out from it
+från  partikeln under samma tid.     during the same amount of time.
+
+
+
+==== Equilibrium between external and internal forces ======== 3.05B
+Yttre impakt krafter  genererat      Outer  impact  forces from  the
+av  fältet,  verkande på parti-      field impinging on the limiting
+kelns  begränsningsyta är i ba-      surface of the  particle is  in
+lans med de inre verkande kraf-      balance with inherent forces in
+terna i partikel plasmat.            the particle plasma.
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.05
+--------------------------------------------------------------------- 
+
+
+==== Equilibrium in energy density of particle and field  ==== 3.05C
+
+Energitätheten  eller energipo-      The energy density or the ener-
+tentialen  är  densamma  i både      gy  potential  is  the  same in
+partikel och fält.                   particle and field.
+
+
+==== Equilibrium in impulse inflow and outflow ================ 3.06A
+
+Täthet och  hastighet hos mass-      Density  and  velocity  of  the
+an som  strömmar  in till eller      mass  streaming  in to  or  out
+ut  från  en  partikel  skiljer      from the particle  differ  from
+sig  från   varandra.  Dock  är      each other.  The impulse,  mea-
+impulsen densamma,  dvs produk-      ning the  product of  mass  and
+ten av  massa  och hastighet är      velocitiy is the same  for both
+densamma både  för inflödet och      inflow and outflow to  the par-
+utflödet till eller från parti-      ticle.
+keln.
+
+
+
+==== Inflow and outflow of matter, to and from a particle ==== 3.06B
+
+           in field        particle          out field
+          ---------->                       ---------->
+          ---------->                       ---------->
+          ---------->                       ---------->
+          ---------->                       ---------->
+          ---------->                       ---------->
+          ---------->                       ---------->
+
+
+
+Text till figuren :                  Text to the figure :
+-------------------                  -------------------
+
+Vår  ide är  att  elektromagne-      Our idea is  that electromagne-
+tism  är   ett  resultat  av en      tism is a result  of a continu-
+kontinuerlig växelverkande pro-      ous  interaction  process  bet-
+cess   mellan   partikeln   och      ween particle and space. Inter-
+vakuum rummet.  Inre krafter  i      nal   forces  of  particle  and
+partikeln   och   externa  kraf-     external  forces  generated  by
+ter  från  vakuum  fältet  är i      space  are   in  balace.  Space
+balans.   Rymdmateria  strömmar      matter is  streaming  in to the
+in   till  partikeln  och samma      particle  and  the same  amount
+mängs  materia strömmar ut från      of  matter  is   streaming  out
+densamma,  mätt under samma tid-     from  it during the same period
+rymd.                                of time.
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.06
+--------------------------------------------------------------------- 
+
+
+
+==== flow of matter between particle and vacuum space ======= 4.06C
+ 
+           in field        particle          out field
+          ---------->                       ---------->
+          ---------->                       ---------->
+          ---------->                       ---------->
+          --q,C ---->      qp,c             ---qe,c--->
+          ---------->                       ---------->
+          ---------->                       ---------->
+
+
+TEXT TILL FIGUREN                    TEXT TO THE FIGURE
+-----------------                    ------------------
+Massa från fältet  med densite-      Mass from the field of density,
+ten, q ,  och  hastigheten, C ,      q,  and velocity,  C  (Obs not
+(Observera,  inte  ljusets has-      light velocity), streams in to
+tighet),  strömmar in till par-      the particle  and the particle
+tikeln och partikeln konverte-       convert this mass into another
+rar denna massa till ett annat       mass   field  streaming   out,
+massafält som strömmar ut från       having density, qp , and velo-
+partiklen,  med densiteten, qp,      city, c ,(light velocity). The
+och  hastigheten, c , (ljusets       product  of  these  quantities
+hastighet). Produkten av dessa       are the same over time, giving
+kvantiteter  är dennsamma över       balance  in  the  hydrodynamic
+tiden, vilket ger balans i den       process.   The  mass   impulse
+hydromekaniska  processen. Det       streaming  out  is  equivalent
+massafält  som  strömmar ut är       with  the   electric     field
+ekvivalent  med den elektriska       strength as defined  by common
+fältstyrkan  såsom  definierad       electromagnetic  theory.
+från  allmän  elektromagnetisk
+teori.
+
+
+Den    fysikaliska/matematiska       The  physical/mathematical base
+basen  för  denna  vår  modell       for our model  will be the com-
+kommer  att  vara de Newtonska       mon Newtonian  mechanical  laws
+mekaniska  lagarna samt de van-      and common hydromechanical laws.
+liga   hydromekaniska  lagarna.      It  will  here  be  of  special
+Speciellt är intressant att no-      interest to note  that Newton's
+tera att Newtons lagar är fullt      laws are fully  applicable even
+tillämpliga  för hela  fysiken,      on  this very  basic  level  of
+således  även  på denna  grund-      matter.
+läggande nivå av materian.
+
+
+                          ----------------
+
+
+
+Newtons andra lag för kraft är       Newton's second law of force is
+känd under relationen (se for-       knwon by the relation (see for-
+med 1.22E ) :                        mual 1.22E) :
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.07
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+
+==== Newton's second law of force ============================ 3.08A
+
+   F= d/dt(m.v) = (dm/dt).v + m.(dv/dt)
+
+=======================================
+
+
+eller i ord: kraft är tidsderi-      or in words: force  is the time
+rivatan av produkten  massa och      derivative  of  the  product of
+hastighet,  impulsen,   hos  en      mass and velocity, the momentum,
+kropp i rörelse.                     of a moving body.
+
+I de flesta fall är massan kon-      In most  cases the  mass  is  a
+stant under rörelsen och därför      constant  entity  and  then the
+kan den  första  termen ignore-      first term  may be ignored. The
+ras.  Uttrycket  3.08A  kan  då      expression  3.08A then  can  be
+förenklas till :                     simplified to :
+
+
+
+==== Newton's second law of force simplified ================= 3.08B
+
+    F.dt = m.dv     for the case of mass invariance.
+
+=================
+
+
+Som  en   konsekvens  av  dessa        As a  consequence  of   these
+lagar  kan  en  uppsättning  av        laws  a  set  of  other  well
+andra  väl  kända  samband defi-       known results are established,
+nieras,  i korthet presenterade        briefly presented as follows:
+nedan :
+
+
+==== Acceleration force ====================================== 3.08C
+    F = m.a
+
+
+==== Constant acceleration =================================== 3.08D
+         2  2
+    a= d s/dt = dv/dt
+
+
+==== Relation distance/time ================================= 3.08E
+    ds= v.dt
+
+
+ 
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.08
+--------------------------------------------------------------------- 
+ 
+ 
+==== Relation energy, mass and velocity ====================== 3.09A
+
+       s                 2
+    E= I (F.ds) = 1/2.m.v
+
+==== Devoloped force at spinning movement ==================== 3.09B
+
+           2       2
+    F = m.v/r = m.w.r
+-----------------------
+
+
+En relation som användes inom        A  relation  used  in  hydrome-
+hydromekaniken  för  flödande        chanics of flowing matter is as                                     follows,some simplified with no
+materia,  något förenklad, är        use of vector notation:
+som följer, utan vektorer :
+
+
+==== simplified equation for streaming matter ================ 3.09C
+                         The mass, dm, streams out through a
+    dm = q.dA.dt.v       window, dA , with velocity, v , on
+                         the time, dt. The field mass density
+                         is, q.
+
+
+
+En del  konsekvenser  av  detta      Some consequences  of that com-
+vid en  kombination med  resul-      bined  with  result from 3.08B,
+tat från 3.08B, ger :                gives :
+
+
+
+============================================================== 3.09D
+
+   m = q.A.t.v                total field mass streaming out
+                              through a window, A, during time,
+             2                t, when field mass density is, q,
+   m= q.A.t.v = F.t           with streaming velocity, v.
+
+             2                Field mass impulse pressure on a
+   F/A = q.v                  closed area, A , where the field
+                              mass velocity is, v, and the field
+                              density is , q.
+
+---------------------------------------------------------------
+
+
+
+Detta  kommer  tillsvidare  att       That will  be the  main base to
+utgöra  basen för vår teori. Vi       start with.  We will  now apply
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.09
+--------------------------------------------------------------------- 
+ 
+ 
+kommer  nu  att  tillämpa dessa       these  laws on electromagnetism
+lagar  på    elektromagnetismen       and  derive  most of  all impor-
+och med  detta som utgångspunkt       tant  relationsships known from
+härleda   de  flesta  av  kända       this  part of  science, also by
+samband från etablerad elektro-       adding of some new results.
+magnetisk  teori  samt även  en
+del nya resultat.
+
+
+                           --------------
+
+
+Till att  börja med, definierar      To  start with,  we  define  an
+vi en elementär partikel  (till      elementary particle  (an  elec-
+exempel  en  elektron)  som  en      tron for instance)  as a closed
+sluten  enhet  med  begränsande      entity  with limiting area,  A.
+ytan, A.  Det  externa  trycket      The  pressure  on  its  surface
+mot denna yta kan beräknas från      from space is computed by 3.09D
+3.09D enligt följande :              as follows :
+
+
+==== Vacuum field pressure =================================== 3.10B
+
+                        q = vacuum field density
+            2           C = vacuum field velocity
+   F/A = q.C            F/A = vacuum field pressure
+
+======================
+
+Denna kraft  verkar  utifrån på      This  force is acting from out-
+partikelytan,  genererat av det      side  of the  particle actuated
+ytte  inflödet  från space. Men      by the mass inflow  from space.
+materien  innuti  partikeln rör      But the matter into the partic-
+sig  som partiklarna  i en gas-      le  itself move  in a "stochas-
+massa  och skapar på detta sätt      tic" way  in a  similar  way as
+en inre expanderande kraft, som      matter  in  a gas,  creating an
+på samma sätt som för den yttre      internal    counter   expanding
+kraften kan beräknas till :          pressure calculated by :
+
+
+
+==== Internal pressure of a particle ========================= 3.10C
+
+                         Internal pressure of particle
+            2            with mass density, qp,  and internal
+   F/A = qp. c           velocity  c.
+
+======================
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.10
+--------------------------------------------------------------------- 
+ 
+ 
+
+Den yttre  kraften  från fältet      The  external pressure  and the
+och  den  inre kraften i parti-      internal pressure are in balan-
+keln  är  i balans,  dvs det är      ce,  giving  equality   between
+likhet mellan 3.10B  och 3.10C:      3.10B and 3.10C :
+
+
+
+==== Equality between external and internal forces =========== 3.11A
+
+                         q  = vacumm field mass density
+      2        2         C  = vacuum field velocity
+   q.C  = qp. c          qp = particle mass density
+                         c  = the standard velocity of light
+
+
+
+==== Particle mass density  ================================== 3.11B
+
+   qp  = Mp/Vp       Mp = particle mass
+                     Vp = particle volume
+
+
+Från  ekvation  3.11A  erhålles      From the equation 3.11A is got:
+att :
+
+              2 2
+     qp = q .C/c
+
+
+Insättning i 3.11B ger :             Inserting in 3.11B gives :
+
+
+        2 2
+     q.C/c  = Mp/Vp
+
+
+och utlösning av, q , från           and   solving, q,   from   this
+detta uttryck ger :                  expression gives :
+
+
+==== Vacuum field mass density =============================== 3.11C
+
+          2          c = velocity of light
+         c .Mp       C = velocity of space
+    q = --2-----     q = vacuum mass density
+         C .Vp
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.11
+--------------------------------------------------------------------- 
+ 
+ 
+Med hjälp  av formel 3.09C  för      By  aid  of our  formula  3.09C
+ett flödande medium  kan vi be-      for a  flowing medium, we calcu-
+räkna  inflödet  av  massa till      late the mass inflow to the par-
+partikeln till :                     ticle to :
+
+
+
+==== The flow formula for streaming mass ===================== 3.12B
+
+                      Mass streaming in from space to particle
+   Min = q.Ap.tp.C    during time, tp. Ap, is the particle active
+                      interacting area.
+
+
+
+Och  det  motsvarande  utflödet      And the  corresponding  outflow
+från partikeln  under samma tid:     from the  particle  during  the
+                                     same time :
+
+
+==== Mass streaming out from the particle ==================== 3.12C
+
+
+   Mout = qout.Ap.tp.c  Mass streaming out from the particle
+                        during time, tp.
+
+
+För  stablitet  hos  partikeln,      For stability reasons, it claim
+krävs balans mellan inflöde och      balance between  inflow and out-
+utflöde, sålunda balans  mellan      flow, hence equivalence between
+ekvationerna 3.12B  och 3.12C :      equation 3.12B and 3.12C :
+
+
+
+==== Equality in inflow and outflow ========================== 3.12D
+
+
+   q.Ap.tp.C = qout.Ap.tp.c
+
+
+och från detta uttryck :             and from this expression :
+
+
+
+
+==== Density of outflow field mass =========================== 3.12E
+
+    qout = q.C/c         Density of outflow field mass from
+                         a particle
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.12
+--------------------------------------------------------------------- 
+ 
+ 
+
+och  härifrån  kan  vi  beräkna      and from that we can calaculate
+densiteten  av  utflödet på ett      the  outflow  density  from the
+godtyckligt  avstånd, r ,  från      particle on distance , r , from
+partikelns centrum till :            its center point to :
+
+
+==== mass field density outside a particle =================== 3.13A
+
+                   2        rp is particle radius
+                 rp         r is radius of distance
+   qr = q(C/c). ---2--      C is vacuum field velocity
+                 r          q is vacuum mass field density
+                            c is light standard velocity
+                            qr is field density on distance r.
+
+======================================
+
+
+
+För en elektron  eller liknande      For  an  electron  or   similar
+partikel, konverteras dess mas-      particle, the mass of this par-
+sa   fullständigt  under  tiden      ticle is completely   converted
+för  en  spinrörelse,  ett varv      to  space  during  one  turn of
+av  dess  rotation. Detta ger :      its spin movement, givning :
+
+
+==== Converting mass of an electron to space ================= 3.13B
+
+                         The electron mass is completely
+     me = q.Ae.te.C      converted by interaction with space
+                         during the electron's converting
+            me           time, te.
+     q= -----------
+          Ae.te.C
+
+=====================
+
+Likhet  mellan 3.13B och 3.11C        Equality   between   3.13B  and
+ger :                                 3.11C then gives :
+
+
+
+==== Equality between 3.11C and 3.13B ======================== 3.13C
+
+                  2
+       me        c .Mp
+     -------- = --2------
+     Ae.te.C     C .Vp
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.13
+--------------------------------------------------------------------- 
+ 
+ 
+
+Från detta uttryck  löser vi nu      From  this  expression  we  now
+ut värdet på vacuum fälthastig-      extract   the   vacuum    field
+heten , C , till :                   velocity , C , to :
+
+
+
+==== The vacuum field velocity ============================== 3.14A
+
+                           solving out the space velocity, C ,
+          2                from 3.13C
+         c.Mp.Ae.te
+    C = -------------
+            me.Vp
+
+============================
+
+där ,  C , är  den    effektiva      where,  C , is  the   effective
+hastigheten  av entiteter i det      velocity of field  entities  of
+fria  vakuum fältet. Insättning      the free space.  Inserting this
+av  detta  resultat  i   formel      result in  formula   3.13B,  we
+3.13B  ger  att vi kan  lösa ut      can  solve out the vacuum space
+vakuums masstäthet till :            density to :
+
+
+
+==== The vacuum mass density ================================= 3.14C
+
+                              2         The vacuum mass density
+          me.me.Vp          me .Vp      expressed by particle
+    q= -------2-------- = ---2--2-2---  parameters
+       Ae.te.c.Mp.Ae.te    Ae.te.c.Mp
+
+=======================================
+
+
+
+I  syfte  att  något   förenkla      In  aim to  simlify  and making
+framställningen  och  göra  den      our    idea  more  clear    and
+mera tydlig, definierar vi  här      obvious, we  define  a  set  of
+ett    uppsättning   parametrar      relations    between   particle
+för en elementär  partikel, så-      properties such  as interacting
+som dess växelverkande yta,dess      area, volume,  radius  and mass
+volym  dess rumsliga  utsträck-      converting time for each speci-
+ning (radie) samt  dess konver-      fic particle form.  The assump-
+teringstid. Vår hypotes är att       tion is that a charged particle
+elementära partiklar  har toro-      have torus  form  and  that the
+id form  och att  den effektivt      effective interacting  area  is
+växelverkande   arean   är  den      the integrale part of the torus
+totala ytan hos  en sådan  form.     in- or inflow side.   (Also see
+(Se även kapitel 2 om detta).        chapter 2 in this task).
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.14
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+
+==== Parameters of common point particles ==================== 3.15A
+
+              2
+     Ap = Ka.Rp             Ka = 4.Pi  (appr)
+
+               3
+     Vp = Kv.Rp             Kv = 4.Pi  (appr)
+
+     tp = Kt.Rp/vp          Kt = 2.Pi  (appr)
+
+     Kav = Ka/Kv            Kav = 1    (appr)
+
+
+==== Parameters for electrons, special case ================== 3.15B
+
+              2
+    Ae = Ka.re  ;           Ka = 4.Pi (appr)
+              3
+    Ve = Kv.re  ;           Kv = 4.Pi (appr)
+
+    te = Kt.re/c ;          Kt = 2.Pi (appr)
+
+    Kav = Ka/Kv             Kav = 1   (appr)
+
+
+Genom att använda dessa defini-      By  using  these   definitions,
+tioner kan några  av  formlerna      some of the expressions for, C,
+för, C , q,  och, qp ,omskrivas      q, and, qp , can  be rewritten
+till :                               to :
+
+
+
+          2                 2         2
+         c.Mp.Ae.te        c .me.Ka.re .Kt.re/c
+    C = -------------   = ------------3--------- = c.(Ka/Kv).Kt
+            me.Vp            me. Kv.re
+
+
+      = c.Kt.Kav
+
+
+==== Velocity of entities of vacuum space ==================== 3.15C
+
+
+     C = Kt.Kav.c
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.15
+--------------------------------------------------------------------- 
+ 
+ 
+===================
+
+
+
+            me            me                        me
+     q= ----------- = ------2----------------- = ------2------ 3
+          Ae.te.C      Ka.re .Kt.re/c.Kt.Kav.c    Ka.Kt .Kav.re
+
+
+
+
+=== The vacuum psedo mass density ============================ 3.16A
+
+             me                 me. Kv
+     q = ------2----- 3  =   --2---2---3--
+          Ka.Kt.Kav.re       Ka .Kt .re
+
+===========================================
+
+
+och  formel   3.13A   omskriven      and  the formula  3.13A  rewrit-
+till :                               ten to :
+
+
+
+==== The outfield mass density from, N , particles =========== 3.16B
+==== on distance , r , from its center point ================
+
+                      2
+                    rp
+   qr = q.Kt.Kav. ----2-.N
+                     r
+
+=============================
+
+Vi skall senare se  att kvanti-      We  will  later  see  that  the
+teten,  qr,   multiplicerat med      quantity, qr ,  multiplied with
+utflödeshastigheten  hos parti-      the particle  outflow  velocity,
+keln, vp , (vilket för elektro-      vp, (which for an  electron = c,
+nen är lika med ljusets hastig-      the light velocity,  is  equiva-
+het,  är   ekvivalent  med  den      lent with  the  electric  field
+elektriska   fältstyrkan  (van-      strength (commonly  denoted  by,
+ligtvis betecknat  med  vektor-      vector 'E' in common theory).
+symbolen, 'E' i allmän teori.
+
+
+                       -------------
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.16
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+HŽRLEDNING AV COULOMBS  LAG FÖR      DERIVING  THE  COLOUMB'S LAW OF
+-------------------------------      -------------------------------
+ELEKTRISKA KRAFTVERKAN               THE ELECTRIC FORCE
+----------------------               ------------------
+
+
+
+
+          o  o        ---->         o   o
+       o         o    <----      o          o
+      o      R1   o   ---->     o        R2  o
+       o         o    <----      o          o
+          o  o         ---->         o  o
+
+
+Coulombs lag för den elektriska      Coulomb's law of electric force
+kraften är kanske den mest väl-      is  the most  well known law in
+kända lagen  inom elektromagne-      electromagnetism,  a law mostly
+tismen, en lag som till största      derivied   on  pure   emperical
+delen har härletts  på rent em-      basis.  We will  here show that
+pirisk basis. Vi skall dock här      this force is an  effect of the
+visa, att denna  lag kan härle-      in- and  outflow  as  described
+das  som en effekt  av  ett in-      by formulae  3.15B   and 3.15C,
+och utflöde såsom såsom beskri-      and the  internal  spin of  the
+vits  av  formlerna  3.15B  och      particle :
+3.15C, tillsammans  med ett in-
+re spin hos partikeln själv.
+
+Vi  studerar  två  punkter inne-     Studying two points, containing
+hållande  elektroner,  protoner      electrons,  protons (or similar
+(eller  liknande  partiklar  av      particles  of point nature), in
+punktnatur).I varje sådan punkt      each point thera are , N1, and,
+finns,  N1 ,  och , N2 , sådana      N2 , such particles, with radii,
+partiklar,   med  radien,  R1 ,      R1 ,  and ,  R2 ,  respectively,
+och , R2 ,  spektive,  samt har      having  spin   velocities , v1 ,
+spinhastigheten, v1,  och,  v2.      and , v2 .
+
+
+
+Från formel 3.13A :                   From the formula 3.13A :
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.17
+--------------------------------------------------------------------- 
+
+
+==== Field mass density in a point, r , from a source ======== 3.17A
+==== particle ======================================================
+                         2
+                       r1
+     qr = q.Kt.Ka/Kv. --2-- .N1
+                       r
+
+===============================
+
+
+Vi använder  oss nu  av flödes-      We now uses the flowing formu-
+formeln  3.09C.  Inflödesmassan      la  3.09C.   The  inflow  mass
+som  träffar  ytan  av en annan      hitting the surface of another
+partikel  på  avstånd, r , blir      particle   on  distance  , r ,
+då:                                  then will be :
+
+
+to :
+
+
+     min = (qr.v1). (A2.t2.N2)
+
+
+Vi utvecklar detta villjor :         We develope this experession :
+
+                       2
+  min = (qr.v1). (Ka.r2 .Kt.r2/v2 . N2)   =
+
+                         2
+                       r1                    2
+        (q.Kt.Kav) . ---2--. N1 . v1). (Ka.r2 .Kt.r2/v2. N2)  =
+                       r
+
+              2                    2   3               2
+         q. Kt .Ka.(Kav). N1.N2. r1 .r2 .v1.(1/v2).(1/r )
+
+
+==== min, inflowing mass from particle 1 to particle 2 =====  3.18A
+
+              2                   2   3               2
+   min = q. Kt .Ka.Kav). N1.N2. r1 .r2 .v1.(1/v2).(1/r )
+
+=============================================================
+
+
+där,  min,  är  den  massa  som      where, min ,is that mass which
+fångas upp av den andra  parti-      is captured by the  second par-
+keln givet av den första parti-      particle from the first partic-
+kelns  utflöde.  När  inflödes-      le's mass outflow. When the in-
+massan  fångas  upp kastas  den      flow mass is captured,this mass
+ut igen p.g.a  partikelns rota-      is thrown out again,  caused by
+tion  och  därvid  genereras en      the particle's own rotation mo-
+impulskraft som  är  den elekt-      vement, which is the electrical
+riska Coulombkraften.                coulomb force generated.
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.18
+--------------------------------------------------------------------- 
+ 
+ 
+
+Genom att använda Newtons form-      Using Newton's formula for rota-
+mel  för  roterande  rörelser ,      ting   movement  (3.09B)  ,  the
+(3.09B) kommer den  absorberade      absorbed  mass  give  rise  to a
+massan att generera en motkraft      counter  reaction  force  on the
+då den kastas  ut av spinrörel-      second particle.
+sen.
+
+
+
+==== Mass inertial force generated by spin movement ========== 3.19A
+
+
+              2
+   _   min.v2  _
+   F = -------.n   =
+         r2
+
+
+
+              2                   2   3               2      2
+  _      q. Kt .Ka.Kav . N1.N2. r1 .r2 .v1.(1/v2).(1/r ) . v2
+  F =  -------------------------------------------------------   =
+                             r2
+
+                 2                  2   2
+         4.pi .Kt .Ka.Kav. N1.N2. r1 .r2 .v1.v2
+       ---------------------------------2--------  =
+                         4.pi . (1/q) .r
+
+
+
+                          2                                  2
+  (2.Kt.sqrt(Ka.Kav.Pi).r1 .v1.N1) . (2.Kt.sqrt(Ka.Kav.Pi).r2 .v2.N2)
+  ---------------------------------2---------------------------------- =
+                       4.Pi.(1/q).r
+
+
+                         2                                2
+  (2.Kt.Ka.sqrt(Pi/Kv).r1 .v1.N1) .(2.Kt.Ka.sqrt(Pi/Kv).r2 .v2.N2 )
+  ---------------------------------2--------------------------------
+                       4.Pi.(1/q).r
+
+
+==== The mutual electric force on particles =================  3.19B
+
+                         2                                2
+  (2.Kt.Ka.sqrt(Pi/Kv).r1 .v1.N1) .(2.Kt.Ka.sqrt(Pi/Kv).r2 .v2.N2 )
+  ---------------------------------2--------------------------------
+                       4.Pi.(1/q).r
+ 
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.19
+--------------------------------------------------------------------- 
+
+Från  detta  uttryck   kan   vi      From  this  expression  we  can
+identifiera  följande kvantite-      identify the  following quanti-
+ter såsom definierade av vanlig      ties as defined by common elec-
+elektromagnetisk teori :             tromagnetic theory :
+
+
+=============================================================== 3.20A
+                                 2
+a)    Q1 = 2.Kt.Ka.sqrt(Pi/Kv).r1.v1.N1   elementary charge of
+                                          an arbitrary particle
+
+                                 2
+b)    Q2 = 2.Kt.Ka.sqrt(Pi/Kv).r2.v2.N2   elementary charge of
+                                          an arbitrary particle
+
+
+c)    1/q = Eo  ; q = 1/Eo                Mass density of vacuum is
+                                          the inverse value of the
+                                          "dielectricity of vacuum
+                                          constant Eo ".
+
+                                2
+d)    eo= 2.Kt.Ka.sqrt(Pi/Kv).re .c      elementary charge of an
+                                         electron particle
+
+           me.Kv
+e)   q = ---2--2--3--                     Vacumm space pseudo mass
+          Ka.Kt.re                        density
+
+
+
+där, Q1 , och Q2, är laddnings-      where,  Q1 , and, Q2 , are  the
+kvantiteterna i  varje  enskild      charge quantities of each point
+punkt av  en  elektrisk  laddad      of an electric charged particle
+partikel och, eo, är motsvaran-      and, eo ,is the charge quantity
+de storhet för en  enskilt lad-      of a singular  charge, an elec-
+dad partikel,  en elektron till      tron for instance,as defined by
+exempel,  såsom  definierad  av      common  theory.  The inverse or
+allmän teori.  Det inversa vär-      reciprocal value of, q,is iden-
+det  av, q ,  kan  identifieras      tified   as  the  dielectricity
+som  den  s.k. dielektricitets-      constant of vacuum, Eo ,  hence
+konstanten för vakuum,  Eo ,så-      being defined as a mass  densi-
+lunda  definierad som en massa-      ty, reciprocal. By these  defi-
+täthet i vakuum, reciprokt. Med      nitions  then we  can formulate
+hjälp  av  dessa   definitioner      Coulomb's  law  in   its   more
+kan  vi  nu skriva  ut Coulombs      common form  from electromagne-
+lag  såsom  allmänt  definierad      tic theory, to :
+elektromagnetisk teori :
+ 
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.20
+--------------------------------------------------------------------- 
+ 
+ 
+
+==== Coulomb's law for electrostatical forces between ======== 3.21A
+==== charged particles =======================================
+
+   _     Q1 . Q2   _  3                             -
+   F = ----------. r/r             (the unit vector n here repla-
+         4.Pi. Eo                          _
+                                    ced by r/r, which is the same
+=================================
+
+
+
+
+
+Coulombkraften uttryckt utan         The Coulomb force expressed
+----------------------------         ---------------------------
+hjälp av laddningsbegreppet.         without the charge concept.
+----------------------------         ----------------------------
+
+
+
+           Q1.Q2     _  3
+     F = --------- . r/r    =
+          4.Pi.Eo
+
+             2   2           4  2
+         4.Kt .Ka .Pi/Kv . re .c .N1.N2  .me.Kv   -  3
+         ---------------------2---2---3---------. r/r   =
+                    4.Pi   .Ka .Kt .re
+
+             2
+         me.c .re         _
+         ----2---- N1.N2. n
+            r
+
+
+==== The Coulomb law expressed without using the charge  ===== 3.21B
+==== concept =================================================
+
+             2
+         me.c .re           _
+     F = ----2---- . N1.N2. n
+            r
+========================
+
+
+Vi vet att den elektriska ladd-      We  know  that  the  electrical
+ningen är konstant  för både en      charge is constant for  both an
+proton  och en  elektron  eller      proton and  an electron  or for
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.21
+--------------------------------------------------------------------- 
+ 
+ 
+annan punktformig partikel.Där-      any  pointformed  particle.  Of
+för  måste  kvantiteten  bildat      that reason  the quantity crea-
+              2                                          2
+av produkten r .v vara konstant      ted by the product r .v nust be
+för  alla sådana  partiklar, så-     the same for all such particles,
+lunda :                              hence :
+
+
+
+============================================================== 3.22A
+
+     2       2
+    r .v = re .c
+
+==================
+
+
+
+Som antaget i 3.13B konverteras      As assumed in 3.13B,the mass of
+massan hos en punktformig  ele-      a pointformed, elementary  par-
+mentär partikel under tiden för      ticle  is  converted  to  space
+ett omlopp Kt.r/v. Av detta fås      during appr.  one  envelop   of
+att m/t = konstant, vilket ger:      its spin movement.  That give :
+
+
+
+            3          3
+       qp.rp      qp.rp                 2
+m/t = -------- = ---------  = qp/Kt . rp .vp  =  constant
+         tp       Kt.rp/vp
+
+
+Vi antar vidare att massatäthe-      Furthermore,  we assume,  quite
+ten hos  alla elementära punkt-      logical,  that the mass density
+partiklar =  konstant, dvs qp =      of true  pointformed  particles
+en konstant storhet. Därmed har      is the  same.  Of these reasons
+vi motiverat att :                   we have motivated the relations:
+
+
+
+==== equality for all true point charged particles ============ 3.22B
+
+      2       2       2
+    r1.v1 = r2.v2 = re.c
+
+==========================
+
+
+och från  detta  kan vi även be-     and from that we also can calcu-
+räkna  sambandet mellan spinhas-     late the  relationships between
+tigheterna  hos  de olika parti-     between spin  movements of  the
+kelformerna :                        different particle forms :
+ 
+
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.22
+--------------------------------------------------------------------- 
+
+
+
+==== Spin velocities for all true point charged particles ==== 3.23A
+
+              2  2
+    vp = c.(re/rp)
+
+=====================
+
+
+
+==== For exactness compared with common theory =============== 3.23B
+
+                            2
+2.Kt.Ka.sqrt(pi/Kv) = eo/(re.c) =
+                               2
+1.602 177E-19/(2.8179409238E-15. 2.99792458E8) =
+
+=  67.301712096
+
+===================================
+
+På basis av dessa siffror mätta      On  basis of  these figures  we
+genom experiment  skall vi sena-     later  shall  try  to   exactly
+ri  i  denna  framställning  så      estimate the Kt, Ka, Kv parame-
+exakt som möjligt försöka beräk-     ters of electrons, protons  and
+na parametrarna  Kt, Ka och, Kv,     similar   elementary   particle
+för protoner,  elektroner eller      forms.
+liknande partikelformer.
+
+Tas antagna  siffor  från 2,20C      If we take the assumed  figures
+för Kt, Ka, Kv som närmevärden,      in 2.20C for Kt, Ka , and , Kv,
+erhålles  värdet 78.956 för vår      as   approximary   values,   we
+motsvarande teori.                   achieve the value 79.956 for our
+                                     theory.
+
+
+                        ---------------------
+
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.23
+--------------------------------------------------------------------- 
+
+
+DEN ELEKTRISKA FŽLTSTYRKAN           THE ELECTRIC FIELD STRENGTH
+--------------------------           ---------------------------
+OMKRING EN LADDAD PARTIKEL           AROUND A CHARGED PARTICLE
+--------------------------           -------------------------
+
+Den  elektriska  fältstyrkan är      Electric   field   strenght  is
+vanligtvis     definierad   som      commonly defined as  the elect-
+elektrisk kraft per enhetsladd-      ric force per unit charge,hence
+ning, sålunda genom att beräkna      by calculating the relation F/Q.
+kvoten  F/Q. Genom att  använda      Using  results  from  3.21A and
+resultat från 3.21A samt  3.20A      3.20A then we get the following
+erhåller vi då  följande resul-      result :
+tat :
+
+
+
+==== Electric field strength as defined by common ============ 3.24A
+==== theory building =========================================
+   _
+   E = Fq/Q
+
+===================
+
+
+
+Insättning av våra egna värden       Inserting values our  values in
+i detta samband, ger :               it, gives :
+
+
+                       2                                2
+(2.Kt.Ka.sqrt(Pi/Kv).r1 .v1.N1) .(2.Kt.Ka.sqrt(Pi/Kv).r2 .v2.N2 ) _
+--------------------2---------------------------2----------------.r/r
+       4.Pi.(1/q).r    . (2.Lt.Ka.sqrt(Pi/Kv).r1 .v1.N1)
+
+
+
+==== Electric field strength from a charged particle ========= 3.24B
+
+                            2
+    q.2.Kt.Ka.sqrt(Pi/Kv).re.c.N  _  3
+   ------------------------------.r/r  =
+              4.Pi
+
+
+=========================================
+
+Men från vår teori är den elek-      But from  our theory,  electric
+triska  fältstyrkan  definierad      field  strength is  defined  as
+som impulstätheten som strömmar      the  mass    impulse    density
+ut från partikeln.Denna kvanti-      momentum density) streaming out
+tet är definierad genom produk-      from the particle.That quantity
+ten, qr ,  i formel  3.16B  och      is defined  by the  product of,
+spinhaetigheten,   vp ,  enligt      qr, in 3.16B and the spin velo-
+formel 3.22A  utgörande  utflö-      ocity of  the outflow  field as
+des hastigheten från partikeln :     defined in 3.22A, giving :
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.24
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+==== Electric field strength in accord with out theory ======= 3.25A
+
+   _ '      _
+   E = qr. vp
+
+
+                     2
+   _               r1             2   2  _
+   E =  q.Kt.Kav. --2-- .N1 . c.re /r1 . n =
+                   r
+
+
+   _              2   _  3
+   E = q.Kt.Kav.re.c. r/r .N1
+
+
+===========================
+
+
+
+==== Relation between electric field strenth from common ===== 3.25B
+==== theory and our theory ===================================
+    
+                                    2
+            q.2.Kt.Ka.sqrt(Pi/Kv).re.c.N  _  3
+           ------------------------------.r/r
+                      4.Pi
+E/E'=  ---------------------------------------
+
+                            2   _  3
+             q.Kt.(Ka/Kv).re.c. r/r .N1
+
+
+    E/E' = 1/2. sqrt(Kv/Pi)
+
+    If Kv = 4.Pi as assumed in 2.20C E/E' = 1
+
+
+                   ------------------
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.25
+--------------------------------------------------------------------- 
+
+
+BERŽKNING AV DEN LAGRADE             CALCULATING THE STORED ENERGY
+------------------------             -----------------------------
+ENERGIN I EN PLAN ELEKTRISK          IN A PLANE ELECTRICAL CAPACITOR
+---------------------------          -------------------------------
+KONDENSATOR
+ 
+
+
+                          ______________________
+                          !                    !
+                  area A  !                    !  -
+                  ========!========           ----  +
+                  volume = A.D              --------
+                  ========!========            !
+                          !                    !
+                          !____________________!
+
+
+
+
+För att  praktiskt  demonstrera      For  demonstration we will here
+vår teori,  tillämpar vi den på      apply  our ideas of electromag-
+ett  praktisk  fall,  utgörande      netism  on  an  electric  plane
+en plan  elektrisk kondensator.      capacitor.  For  simplicity, we
+För  enkelhets  skull väljer vi      choose  a capacitor  with plane
+en plan,  parallell kondensator      parallel  metal   platens  with
+bestående  av två metallplattor      each area, A , on distance, D ,
+med arean,  A , på inbördes av-      from each  other.  We know that
+stånd, D.  Vi  känner  till att      this arrangement  is capable of
+ett  sådant  arrangemang har en      storing  electric energy in the
+förmåga  att  lagra   elektrisk      space  between the  two platens,
+energi, och  denna  energi lag-      and that  the energy  stored is
+ras upp i vakummfältet med den-      in the  common field of density,
+siteten, q ,såsom tidigare här-      q , as derived by our theory in
+letts i 3.16A :                      formula 3.16A .
+
+För att göra  det  möjligt  att      For  making it possible to exp-
+förklara energilagringen i kon-      lain the energy storing of that
+densatorn,  förmodar vi att det      capacitor,  we  assume that the
+allmänna vakuum-fältet med tät-      common  field with  denstiy, q,
+heten, q, som befinner sig mel-      between  the  two  platens   is
+lan  plattorna, sätts i rörelse      actuated by  the free electrons
+av  utflödet från de fria elek-      situated on the two platens.
+tronerna i metallplattorna.
+
+Den volym  som  inneslutes mel-      The volume enclosed  by the two
+lann platorna är :                   platens is :
+
+
+==== The volume enclosed by the capacitor platens ============ 3.26A
+
+   V = A.D
+
+===========
+ 
+
+sålunda, den  inom denna  volym      hence, the  enclosed mass  with
+inneslutna massan med tätheten,      density,  q, within  this volu-
+q , kan beräknas till :              me is calculated by :
+
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.26
+--------------------------------------------------------------------- 
+
+
+==== The total field mass enclosed between the two plane ===== 3.27A
+==== parallel platens in a capacitor =========================
+
+   Mq = q.A.D
+
+==============
+
+
+Vi antar att denna massa trans-      We  assume  that  this  mass is
+porteras  med  hastigheten, vf,      transported  with  a  velocity,
+pådriven  av  utflödet  från de      vf, activated by the free elec-
+fria    laddade  partiklarna  i      trons  acting as  small genera-
+metallplattorna, fungerande som      tors holding  the flow  active.
+små generatorer.Den mängd massa      The transport of  mass over the
+som då  transporteras over kon-      capcaitor  area, A , during the
+densatorns yta, A,  under  kon-      converting   time, te , of  the
+verteringstiden  för de laddade      free electron then is:
+partiklarna, blir :
+
+
+
+==== The inflow of mass to  the capacitor during ============= 3.27B
+==== the convering time, te, of electrons on the platens =====
+
+   min = (me.N) = q.A.te.vf
+
+===========================
+
+
+Denna mängd matera är  densamma      This amount of mass is the same
+som den materia som omsättes av      as that mass converted  by  the
+de fria elektronerna under sam-      free   electrons  on  the  same
+samma tidsrymd, dvs är lika med      time, hence being  eual  to the
+antalet  elektroner multiplice-      electron mass times the  number
+rat  med elektronens massa.Från      of free  electrons.  From  that
+denna  ekvivalens  kan vi sedan      equality,we solve out the field
+lösa ut  hastigheten hos fältet      velocity between  the two  pla-
+mellan kondensatorplattorna  :       tens to :
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.27
+--------------------------------------------------------------------- 
+ 
+ 
+==== The interposed velocity of the, q, field ================ 3.28A
+==== enclosed in a capacitor
+
+   vf = me.N/(q.A.t)
+
+
+Eftersom   Newtons  förenklade       Beqause   Newton's   simplified
+energiformel gäller  så  länge       energy formula is valid as long
+som massan hålls konstant, kan       as the mass  involved  is  held
+energin   beräknas  ur  formel       constant,  the  energy  can  be
+1.26A till :                         calculated by formula 1.26A :
+
+
+
+==== The energy stored in the capacitor ====================== 3.28B
+
+                 2
+   W' = 1/2.Mq.vf  =
+
+                 2 2  2 2 2
+   1/2.(q.A.D).me.N/(q.A.te)  =
+
+         2 2         2
+   1/2.me.N.D/(q.A.te ) =
+
+
+          2 2   2  2   3 2
+        me.N.D.Ka.Kt.re.c
+   1/2.--------------------------
+                   2  2
+            me.A.Kt.re.Kv
+
+               2       2    2
+    W' = 1/2.Ka/Kv.me.c.re.N.(D/A)
+==================================
+
+Vi  konverterar  detta  uttryck      In purpose to make  it possible
+till en mera konventionell form      to compare  this result by com-
+för  att kunna verifiera resul-      ventional  theory,  we  make  a
+tatet  med konventionell teori,      convertion,  using  earlier got
+genom att använda  tidigare er-      results :
+hållna resultat.
+
+          2       2    2
+W'= 1/2.Ka/Kv.me.c.re.N.(D/A)  =
+                                              2   2   3
+        2       2     2   2                 Ka .Kt .re
+= 1/2.Ka/Kv.me.c .re.c. N .(D/A). (1/Eo). ------------
+                                              me.Kv
+
+         4   2   2   4  2
+= 1/2. Ka .Kt /Kv .re .N .(D/A).(1/Eo)
+
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.28
+--------------------------------------------------------------------- 
+
+
+
+
+                            2                       2
+  1/2.(D/A).(1/Eo).(Ka.Kt.re.c/sqrt(1/Kv)).(Ka.Kt.re.c.sqrt(1/Kv))   2
+= ----------------------------------------------------------------.Ka
+                           Kv
+
+
+                             2                         2
+ 1/2.(D/A).(1/Eo).(2.Ka.Kt.re.c.sqrt(pi/Kv).(2.Ka.Kt.re.c.sqrt(pi/Kv))   2
+= --------------------------------------------------------------------.Ka
+                         4.Pi.Kv
+
+
+================================================================= 3.29A
+
+         '   1/2.(D/A).(1/Eo).Q1.Q2   2
+        W =  ----------------------.Ka
+                 4.Pi.Kv
+
+======================================
+
+
+Från  etablerad   elektromagne-      From  common    electromagnetic
+tisk teori kan energin i en så-      theory,  the energy  in such  a
+dan kondensator beräknas  från:      capacitor is calculated by :
+
+
+                             Q1.Q2
+                   W = 1/2. -------. (D/A)
+                              Eo
+
+sålunda, relationen  mellan det      hence, the relationship between
+etablerade  uttrycket  och vårt      that and our result will be:
+resultat blir :
+
+
+
+==== The relationship between energy in a capacitor as ======= 3.29B
+==== as calculated from common theory and our theory =========
+
+
+                2
+              Ka
+    W'/W = --------
+            4.Pi.Kv
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.29
+--------------------------------------------------------------------- 
+ 
+ 
+this relation is = 1 if Ka = 4.Pi and Kv = 4.Pi
+which is the same result as in 3.2.20C above.
+
+===============================================
+
+
+
+
+DEFINITION AV ELEKTRISK              DEFINITION OF ELECTRIC
+-----------------------              ----------------------
+SPŽNNING                             VOLTAGE
+----------                           -------
+
+Elektrisk  spänning är i allmän      Electric  voltage is by  common
+teori definierad som längdinte-      theory  defined  as  the length
+gralen av den  elektriska fält-      integral of the  electric field
+styrkan, sålunda :                   strength, hence :
+
+
+
+==== ELectric voltage as defined by common theory ============ 3.30A
+
+       s _    _
+   U = I E.ds.n            in integrale form
+
+
+   U = dU/ds = grad(U)     in differential form
+
+
+utförande  en  del  matematiska      performing  some   mathematical
+manipulationer  på  detta  ger:      manipulations on it give :
+
+
+   div(E) = div grad(U) =
+
+        2       2        2
+       d U     d U      d U
+   K.(---2- + ---2-- + ---2--)
+       dx      dy       dz
+
+
+
+
+==== Relation between electric field strength and electric === 3.30B
+==== voltage in vector form ========================================
+       _    __2
+   div(E) = !/  U
+
+(OBS "d" är  här  symbolen  för      (OBS "d"  is here the partial
+den partiella derivatan) :           derivative symbole) :
+ 
+
+
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.30
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+
+
+
+DEN ELEKTRISKA  SPŽNNINGEN ÖVER      THE ELECTRIC VOLTAGE OVER A
+-------------------------------      ----------------------------
+EN PLAN ELEKTRISK KONDENSATOR        PLANE CAPACITOR
+-------------------------------      ---------------
+
+I enlighet men nu  gjorda defi-      In accordance with done defini-
+nitioner och erhållna  resultat      tion and  results  we will  now
+vill vi nu beräkna  den  elekt-      calculate   the  voltage over a
+riska  spänningen över en plan,      plane,  parallel electric capa-
+parallell  elektrisk  kondensa-      citor. We make use the  defini-
+tor. Vi  använder  oss  då   av      tions  of  the  electric  field
+definitionen för den elektriska      strength from formula 3.25A and                                     the definition of electric vol-
+fältstyrkan  från  formel 3.25A      from 3.30A :
+och 3.30A .
+
+
+   _ '                    2   _  3
+   E = qr.c  = q.Kt.Kav.re.c. r/r .N
+
+
+    '  s  _       s              2      2  _
+   U = I  E.ds  = I q.Kt.Ka/Kv.re.c.N /r . n   =
+
+                    2        2     _
+       q.Kt.Ka/Kv.re .c .N /r .D . n    =
+
+
+Från 3.21A :                         From 3.21A :
+
+                                2
+      eo= 2.Kt.Ka.sqrt(Pi/Kv).re .c      elementary charge of an
+                                         electron particle
+
+                   .............. Q ................
+                                2
+    1   4.Pi.D   . Kt. Ka. c. re. N . 2 . sqrt(Pi/Kv)  -
+   ---.-------2- ------------------------------------ .n  =
+   Eo   4.Pi.r .     Kv   .           2 . sqrt(Pi/Kv)
+
+
+
+    Q.D      4.Pi            _
+  -----. ------------------ .n
+   Eo.A  2. SQRT(Kv.Pi) .Kv
+ 
+
+
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.31
+--------------------------------------------------------------------- 
+
+
+
+==== The electric voltage over a kapacitor in accord with ==== 3.32A
+==== with our theory ===============================================
+
+      '    Q.D
+    U  = ------- / (2.SQRT(Pi/Kv). (4Pi/Kv)
+           Eo.A
+==========================================
+
+
+Detta resultat jämfört  med re-      That  result   compared    with
+sultat  från vanlig elektromag-      result from common  electromag-
+netisk teori :                       netic theory :
+
+
+     Q .D
+U = -------                          from common theory
+     Eo.A
+
+2.sqrt(pi/Kv) . (4.Pi/Kv)  must be = 1. That is got if Kv = 4.pi
+as before .
+
+                     --------------------
+
+
+
+ELEKTRISK STRÖM                      ELECTRIC CURRENT
+---------------                      ----------------
+
+Elektrisk  ström är  vanligtvis      Electric  current  usually  is
+definierad     som   den  mängd      defined   as  the  amount   of
+"elektrisk laddning" som passe-      "charge" passing  a cross area
+rar  genom  tvärsnittet  av  en      of a conductor per time unit .
+ledare per tidsenhet.
+
+Ett  annat  sätt  att  definera      Another  way to define electric
+elektrisk  ström är helt enkelt      current would  simply be by the
+genom att  ange det antal elek-      number of  unit charges passing
+triska   enhetsladdningar   som      the same  area  per  time  unit,
+passerar en yta per  tidsenhet,      hence not  using the charge con-
+sålunda att  inte alls  använda      cept at all.
+laddningsbegreppet.
+
+Därför kan finnas två olika sätt     Then, there  may be two ways of
+att definiera  elektrisk  ström,     defining current in accord with
+sålunda enligt följande :            these two principles, namely :
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.32
+--------------------------------------------------------------------- 
+ 
+ 
+
+==== Electric current as defined by common theory ============ 3.33A
+
+   i = Q/t
+
+
+==== Electric current as defined by our theory ============== 3.33B
+
+   In = N/t
+
+==============
+
+Relationen   mellan  dessa  två       The relationship between these
+sätt  att  definiera  ström kan       two ways  of defining electric
+därför uttryckas enligt följan-       current then will be :
+de :
+
+
+
+==== The relation between the two ways to define ============= 3.33C
+==== electric current ========================================
+
+   In = N.i/Q
+   i = Q.In/N
+
+=============
+
+
+
+1 ampere är  definierad som den      1 ampere  is  defined  as  this
+elektriska ström som samlar upp      current which deposit 0.0011180
+0.00111800 gram rent  silver ur      grams of  pure  silver  from  a
+en silver nitrat lösning, ekvi-      silver  nitrate  solution  each
+valent  med  N=6E18  elektroner      second,  equivalent  to  N=6E18
+per sekund som  passerar  tvär-      electrons per  second,  passing
+snittet av en ledare.                the same cross area.
+
+En annan metod som användes för      Another method used to determi-
+att  bestämma 1  ampere är  att      ne 1  ampere is to  measure the
+mäta kraften  mellan  två raka,      force    effect   between   two
+parallella strömförande ledare.      straight  parallel  conductors.
+1 ampere  är  då den  ström som      1 ampere is that  current which
+producerar en kraft av 2E7N per      produces a  force  of 2E-7N per
+meter  av  denna  ledare. Denna      meter on these conductors. That
+metod  är  till  största  delen      method  mostly  is  founded  on
+baserad på rent teoretisk grund      pure theoretical  basis, on the
+genom  relationer  mellan   det      relations  between magnetic and
+elektriska  och  det magnetiska      electric  field theory as deri-
+fältet  såsom   härlett    från      ved by Maxwell and others.
+Maxwells teorier.
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.33
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+
+                           --------------
+
+
+DEFINITION AV ELEKTRISK RESI-        DEFINITION OF ELECTRIC RESISTAN-
+-----------------------------        -------------------------------
+STANS OCH IMPEDANS                   CE AND IMPEDANCE
+-----------------                    ----------------
+
+I allmän teori definieras resi-      In common theory, resistance of
+stans i en elektrisk ledare som      a current  flow in  a conductor
+kvoten   mellan  den   drivande      is defined as the  quotient be-
+spänningen och den  resulteran-      tween the  driving voltage  and
+de elektriska  strömmen i leda-      the   resulting  current  flow,
+ren, sålunda :                       hence :
+
+
+
+==== Electric impedance and recistance as defined by  ======== 3.34A
+==== common theory ===========================================
+
+   Z = U/i ; R= U/i
+
+===================
+
+
+Vi  använder oss här av defini-      We uses this definition to cal-
+tionen  för  vakuums noll impe-      culate   the  vacuum zero impe-
+dance.  Grundiden för beräkning      dance.  The idea of calculating
+av  denna  fysikaliska  storhet      this   physical  entity  is  to
+är att studera det gränsfall av      study   this  case   where  the
+en  elektrisk  kondensator  där      limit value  of a plane capaci-
+två enskilda  elektroner befin-      tor  are  two  naked  electrons
+ner sig på ett inbördes avstånd      and where  the distance between
+av 2  radier  sålunda utgörande      these  electrons  is  two times
+ett gränsfall  för en elektrisk      the electron  radius,giving the
+kondensator.                         relation :
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.34
+--------------------------------------------------------------------- 
+
+
+==== Vacuum zero impedance =================================== 3.34B
+
+   Z'= U'/i'
+
+
+      '    Q.D
+    U  = ------- / (2.SQRT(Pi/Kv). (4Pi/Kv)
+           Eo.A
+
+
+      '    eo.(2.re)
+    U  = ---------2-- / (2.SQRT(Pi/Kv). (4Pi/Kv)
+          Eo.Ka.re
+
+           eo     eo.c
+    i' = ----- = --------
+           te     Kt.re
+
+   '    eo.(2.re)  . (4.Pi)     .    Kt.re
+  Zo = ---------2----------------------------    =
+        Eo.Ka.re .(2.sqrt(pi/Kv) .Kv .eo.c
+
+
+              4.Pi . Kt
+        -----------------------------
+          Eo. c . Ka. Kv .sqrt(pi/Kv)
+
+                                   1
+ Zo for established theory is  ---------
+                                 Eo. c
+
+
+                    '
+==== The relation Zo/Zo ===================================== 3.35A
+
+   '      Ka. sqrt(pi.Kv)       which is =1 for Kv = 4.Pi
+ Zo/Zo = --------------------                   Ka = 4.Pi
+              4.Pi.Kt                           Kt = 2.Pi
+                                (as assumed before, see 2.20C)
+=========================================================
+
+
+
+                          ----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+BEGREPPET KAPACITANS HOS EN          THE CAPACITANCE CONCEPT OF AN
+---------------------------          -----------------------------
+ELEKTRISK KONDENSATOR                ELECTRIC CAPACITOR
+---------------------                ------------------
+
+Det  finns  ett  behov  av  ett      There is a need of describing a
+sätt att kunna  beskriva förmå-      capacitor's  ability of storing
+gan hos en elektrisk  kondensa-      electric energy in terms of the
+tor att lagra energi i relation      capacitor's   geometrical   and
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.35
+--------------------------------------------------------------------- 
+ 
+ 
+till dess geometriska, rumsliga      spatial extension and perfoman-
+utsträckning  och utförande. Vi      ce.  We  wish  to  express this
+vill uttrycka denna förmåga som      ability as a function where the
+en   funktion , f(x) , där  den      stored  energy  , W ,  and  the
+lagrade energin ,  W ,  och den      stored  voltage , U ,  are  the
+lagrade spännningen , U , är de      two other parameters.
+två andra parametrarna.
+
+
+                     2
+   W' = 1/2.f(x).(U')
+
+
+                      2                                             2
+    1/2.(D/A).(1/Eo).Q       2            ! Q.D   4.Pi/Kv         !
+    ----------------------.Ka = 1/2.f(x) .! --------------------- !
+           4.Pi.Kv                        ! Eo.A .(2.sqrt(Pi/Kv)  !
+
+    .......... W ............             .......... U ...........
+
+                    2   2   2  2  2                 2
+         (1/2).D. Q .Ka .Eo .A .2 .Pi           .Kv
+ f(x) = ----------------------------2--2--2---2--------
+         4.Pi.Kv. A.Eo .(1/2) .Kv .Q .D .4 .Pi
+
+
+==== The capacitance of an electric capacitor ================ 3.36A
+
+                       2
+          A .Eo     Ka           if Ka = 4.Pi (as assumed before)
+ f(x) = -------.  -----2-        the result will be the same
+           D      16.Pi          as in established theory
+                                 (see 2.20C)
+ ==========================
+
+
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.36
+--------------------------------------------------------------------- 
+
+
+DET MAGNETISKA FŽLTET OCH DESS      THE MAGNETIC FIELD AND ITS
+------------------------------      --------------------------
+FYSIKALISKA KONSEKVENSER            PHYSICAL CONSEQUENCES
+-------------------------           ---------------------
+
+                    o dm= q.dV     The moving charge
+                   . .             in the conductor create
+                  .   .            a torsional effect in a
+                 .  b  .              space element outside
+    c = outflow .       . C = inflow    a conductor by reason
+               .         .             of a time phase shift
+              .           .          between in and out streaming
+             .             .         field
+            . a             .
+       ----!------------------!--------
+           !    --------> v   !   conductor
+       ----!------------------!---------
+           !    ds=v.dt       !
+           !<---------------->!
+
+
+
+När en elektriskt laddad parti-      When  an charged particle move,
+kel  förflyttar  sig,  påverkas      the  environment  void  will be
+den  omgivande  rymden  på  ett      effected in a very special man-
+mycket   speciellt   sätt.   De      ner.  The  phhysical  phenomena
+fysiska fenomen  och egenskaper      and  properties  of  the  space
+som  sammanhänger med detta be-      associated to it has been given
+nämnes allmänt för "magnetism".      the name of " magnetism ".
+
+Det  elektriska  fältet, liksom      The electric field,  as well as
+det magnetiska  fältet och där-      the magnetic field with associ-
+till associerade fenomen är väl      ated physical  fenomen are well
+beskrivna  av existerande elek-      described by existing  electro-
+tromagnetiskt teori, baserat på      magnetical  theory, resting  on
+arbeten av  de stora  forskarna      works  by the great  investiga-
+såsom Ampere,  Faraday, Maxwell      tors of Ampere, Faraday,Maxwell
+och många andra, alla stora pi-      and  many  others,  all   great
+onjärer och  bidragsgivare till      pioneers   and  contributors of
+kunskaper inom den grundläggan-      the fundamental physics.
+de fysiken.
+
+Speciellt har Maxwells  arbeten      In  particular  Maxwell's  work
+varit av stor  betydelse emedan      has been of significant  impor-
+han  förstod  att  visa  på ett      tance since he suggested to de-
+nära släktskap mellan  de elek-      monstrate  close  relationships
+triska och de  magnetiska feno-      between  the electric  and  the
+menen genom att  sammanföra dem      magnetic phenomena by arranging
+i en  gemensam  teori.  Maxwell      them in a common theory.Maxwell
+klargjorde  att  de  elektriska      made clear  that  electric  and
+och  de  magnetiska   fenomenen      magnetic phenomena had a common
+hade en gemensam källa  och var      source,  being  only  different
+olika sidor av samma sak.            sides of the same thing.
+
+Ett enkelt  sätt  att  klargöra      A  simple  way  to  distinguish
+skillnaden   mellan  elektriska      between  electric  and magnetic
+och magnetiska  fenomen  är att      phenomena is  to say that elec-
+säga, att elektriska fenomen är      tric  phenomena  are  result of
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.37
+--------------------------------------------------------------------- 
+ 
+ 
+en fråga  om  elektriska  ladd-      charges  in  rest and  magnetic
+ningar i vila, medan magnetiska      phenomena  are  associated with
+fenomen är elektriska laddning-      charged particles when moving.
+ar i rörelse.
+
+Maxwells teori  var grundad  på      Maxwell's theory was founded on
+en mekanisk föreställning om en      existence of a mechanical aeth-
+eter i  vakuum  där all  vanlig      er where alla  matter was taken
+ma teria tagits bort.  Men idag      away.Today only a barren mathe-
+återstår tyvärr bara en matema-      matical formalism remains as re-
+tisk formalism av dessa ide'er.      sult of his thinking.
+
+Vi   skall  dock  här  försökra      We shall  here make  an attempt
+reparera denna  skada genom att      to repair this damage and allot
+tilldela     elektromagnetismen      electromagnetism    substantial
+substansiella   egenskaper  hos      properties of space and matter.
+rymd och materia. Vi kommer att      We will do that by applying the
+göra detta  genom att  tillämpa      same basic  ideas  as  we  have
+samma ide'er  som  de vi  till-      used  before  when treating the
+lämpat tidigare  i våra  försök      electric field with its associ-
+att tolka det elektriska fältet      ated phenomena.
+med dess tillhörande fenomen.
+
+Vi startar från en utgångspunkt      We start from  the  most simple
+utgörande  ett enkelt  arrange-      arrangement, a straight  metal-
+mang bestående av en rak ledare      lic wire  in which  an electric
+genomfluten   av  en  elektrisk      current   flows. This  electric
+ström.  Denna  ström  består av      current consists  of free char-
+fria elektriska laddningar, ut-      ges  carrying  the     electric
+görande bärare av den elektris-      current,   put  forwarded by an
+ka  strömmen,  framdrivna av en      external  voltage   source   to
+elektrisk spänningskälla anslu-      the end point of the wire loop.
+ten till ändarna av ledaren.
+
+I syfte att  grafisk något de-       In aim  to  demonstatrate  this
+monstrera  detta   arrangemang,      arrangement, we make use of the
+använder  vi  oss  av  figuren       adjoining  figure . The wire is
+ovan.  Tråden  är  utplacerad i      placed out in a x,y,z coordina-
+ett x,y,z  koordinatsystem.  De      te system. The current carrying
+strömbärande partiklarna -  här      particles- here the electrons -
+förmodade varande  elektroner -      are  supposed  to  be  smoothly
+antas vara  jämnt fördelade ut-      distributed over the whole wire
+med ledarens  hela längd.  I en      length. In a small section, ds,
+liten sektion, ds ,antar vi att      we suppose there  are, N , free
+det befinner sig, N ,   stycken      charging   carrying   particles
+fria sådana  laddade  partiklar      with unit charge,  then we find
+och med vardera  en enhetsladd-      that the relation, N/s, will be
+ning. Då finner vi att relatio-      a constant  entity, giving  our
+nen N/s ,  är  konstant, vilket      first formula :
+ger :
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.38
+--------------------------------------------------------------------- 
+ 
+ 
+
+==== The number of free unit charged particles are constant == 3.39A
+==== distributed over the conductor length =========================
+
+   K = Ns/s  ; N = ds.K
+
+========================
+
+De   fria laddningsbärande par-     The free charge  bearing partic-
+tiklarna  (här  elektroner)   i     les   (the  electrons)  in  this
+detta  segment   genererar  ett     segment    generates   a  static
+statiskt elektriskt fält,vilket     electric   field,   which  in  a
+i en punkt utanför ledarens kan     point  outside the  conductor is
+uppmätas till (se formel 3.16B):    determined by (see 3.16B ) :
+
+
+
+==== The electric field mass density in a point outside  ===== 3.39B
+==== the conductor segment =========================================
+
+                      2
+                    re
+   qr = q.Kt.Ka/Kv.--2--.N
+                    r
+
+===========================
+
+
+och  sedan  är  den  elektriska      and   then  the   corresponding
+fältstyrkan i  denna punkt lika      electric   field  strenght   in
+med :                                this point then  is equal  to :
+
+
+
+==== The electric field strength in a point outside a ======== 3.39C
+==== a conductor from a segment of it ========================
+   _      _
+   E = qr.c ; qr = E/c
+
+=======================
+
+
+Nu, i syfte att uppnå en grund-     Now, in aim to get an understan-
+läggande  förståelse  av magne-     ding of  the  nature of the mag-
+tismens  natur  studerar vi fi-     netic  field, we  will study the
+guren ovan. I den valda punkten     figure  above.  In  the   chosen
+utanför ledaren  strömmar fält-     point   outside the   conductor,
+massan   in-  och  ut  till  de     field  mass is  streaming in and
+elektroner som är inneslutna  i     out  from  the  electrons in the
+det givna segmentet av ledaren.     chosen  segment  of the  conduc-
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.39
+--------------------------------------------------------------------- 
+ 
+ 
+Den massa  som strömmar  in rör     tor.  The  mass  streaming in is
+sig snabbare  än den  massa som     faster  (see 2.12C)   than   the
+strömmar ut (see 2.12C), vilket     corresponding   mass   streaming
+är detsamma som ljusets hastig-     out,  having  only the  velocity
+het, c.Effekten av  detta blir,     of light, c. The effect  of that
+att  då  elektronerna  rör sig,     when  the  electrons move,  will
+uppstår  en   torsionseffekt  i     be a  torsional  effect  in this
+rummet i den punkt  vi  betrak-     space  point, creating two sepa-
+tar,skapande två separata fält-     rate  field   vectors   with  an
+vektorer  med en inbördes  vin-     angle , a , between   them.   In
+kelvridning med  vinkeln, a.  I     accord with the  "sinusial theo-
+enlighet    med    matematikens     reme"  then the  following rela-
+sinusteorem erhålles då :           tion is valid :
+
+
+
+==== The sinusial theoreme applied on the two field vecotrs == 3.40A
+
+   sin(a)   sin(b)
+  ------ = ------- ;     sin(b)= (v/c).sin(a)
+   c.dt      v.dt
+
+================================================
+
+
+Vi  definerar   den  magnetiska      We  define the  magnetic  field
+fältstyrkan,  B', som producten      strenght,  B' ,  as the product
+av den  elektriska  fältmassans      of  the   electric  field  mass
+densitet i denna punkt och fas-      strength in  this point and the
+vridningsfaktorn , sin(b), vil-      sin(b)  factor,  giving     the
+ket ger :                            following relations :
+
+
+==== Our definition of magnetic flux density  ================ 3.40B
+
+   _'
+   B = qr.sin(b)
+
+=================
+
+Användning av definitionen ovan      Using the  definition  above of
+for sin(b) enligt 3.40A faktor,      the  sin(b)  factor  in  3.40A,
+ger:                                 gives:
+
+
+============================================================== 3.40C
+
+   _'      _
+   B = qr.(v/c).sin(a)
+
+=======================
+
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.40
+--------------------------------------------------------------------- 
+
+
+Vi använder oss nu av en allmän      We now  make  use of  a  common
+matematisk funktion  för vecto-      vector mathematical function in
+rer enligt följande :                accord with the following :
+
+
+
+==== Definition of a vectorial cross product as done in ====== 3.41A
+==== common vector mathematical theory =============================
+
+    _   _  ! !   ! !
+    A x B =!A! . !B! .sin(a)
+           ! !   ! !
+============================
+
+
+         _ ,
+==== The E  field expressed in vector notation form ========== 3.41B
+
+    _ ,     _        _  _    !  ,  !
+    E = qr. c  ; qr= E'/c  = ! E/c !
+                             !     !
+=====================================
+
+
+och av  detta kan  B-fältet  en-     and in  accord  with  that  the
+ligt  ekvation 3.40C uttryckas :     B-field    from  3.40C  can  be
+                                     expressed :
+
+
+
+==== Combining 3.40C and 3.41B for the magnetic field  ======= 3.41C
+==== strength ======================================================
+
+     _    !      !  !     !            _   _   2
+     B' = ! E'/c ! .! v/c !.sin(a) =   E x v /c
+          !      !  !     !
+==============================================
+
+
+Sålunda,  förhållandet   mellan      Hence, the relation between the
+det elektriska fältet, det mag-      electric  field, the   magnetic
+netiska fältet och strömstyrkan      field and the  current strenght
+i ledaren är :                       in the conductor is defined by :
+
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.41
+--------------------------------------------------------------------- 
+
+
+==== The relation between the electric field strength, ======= 3.41D
+==== the magnetic field strength and the current ===================
+==== strength in a conductor =======================================
+
+   _    _    _    2
+   B' = E' x v /c
+
+=====================
+
+
+HŽRLEDNING AV BIOT-SAVARTS           DERIVING BIOT-SAVART'S LAW OF
+--------------------------           -----------------------------
+LAG FÖR DET MAGNETISKA FŽLTET        THE MAGNETIC FIELD STRENGTH
+-----------------------------        ---------------------------
+
+Biot-Savarts lag  för den mag-      Biot-Savart's law  of the magne-
+netiska fältstyrkan utanför en      tic  field  strenght  outside  a
+elektrisk ledare, är en lag av      a  conductor  is  a law of simi-
+samma  betydelse som  Coulombs      lar importance  as Coulomb's law
+lag för det  elektriska fältet.     of the  electric field.  Our aim
+Vårt syfte är  här att härleda      is here to derive  this law with
+denna lag  med start från våra      start from now achieved results.
+här erhållna resultat. Vi bör-      We start by repeating the  defi-
+jar med  att repetera  defini-      nition   of  electric   current,
+tionen  för   den   elektriska      using  results  from  3.33B and
+strömmen  enligt   3.33B   och      3.33C :
+3.33C :
+
+==== Definition of the current vector as result of a  ======= 3.42A
+==== moving chgarge ===============================================
+
+    _        _
+    i = Q/dt.n               the current of a moving charge
+
+    _          _
+    v = (ds/Q).i             velocity vector of the current
+    _    _           _ _
+    ds = v.dt ; dt =ds/v     the length and time derivative
+
+=========================
+
+
+Insättning av dessa  parametrar      Inserting  these  parameters in
+i ekvatione 3.41C för  den mag-      the equation 3.41C for the mag-
+netiska  fältstyrkan,  tillsam-      netical field strength, togeth-
+mans   med  tidigare   erhållna      er with earlier achieved result,
+resultat, ger :                      gives :
+
+
+============================================================== 3.42B
+    _    _     ds    _
+   dB' = E' x ---2-. i
+              Q.c
+
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.42
+--------------------------------------------------------------------- 
+
+
+    _       _     ds    _
+   dB' = qr.c x ----2--.i  =
+                 Q.c
+
+
+                    2                      _
+                  re       _           ds .i                   2
+   q.Kt.(Ka/Kv). ---2--.N. c x ----------------------2----.(1/c )=
+                  r            2.Kt.Ka.sqrt(Pi/Kv).re.c.N
+
+               _
+     q         r     _          4.Pi.Kt.Ka/Kv
+   ------2- . --3- x i.ds . ----------------------  =
+   4.Pi.c      r              2.Kt.Ka.sqrt(Pi/Kv)
+
+                _
+     1          r     _
+  ---------2 . --3- x i.ds . 2.pi/sqrt(pi.Kv)
+  4.Pi.Eo.c     r
+
+
+
+Genom att integrera  i avseende      By  integrating in  respect  to,
+på sträckna,  ds,  erhålles  så      ds , the Biot-Savart's  law  for
+Biot Savarts lag för den magne-      the magnetic  field strenght  is
+tiska fältstyrkan :                  achieved :
+
+
+==== The Biod Savart' s law of the magnetic field strenght === 3.43A
+==== outside a conductor ===========================================
+
+                         _
+   _        1         s  r     _
+   B' = --------- 2 . I --3- x i .ds .2.pi/sqrt(pi.Kv)
+         4.Pi.Eo.c       r            ................
+                                       is equal to = 1
+                                       if Kv = 4.Pi as
+                                       assumed before
+
+======================================================
+
+
+           1                                       1
+Faktorn  ----2-  är vanligtvis       The factor  -----2-    usually
+         Eo.c                                     Eo.c
+ersatt av symbolen,  uo,  lika       is replaced by the symbole, uo,
+med den s.k. permeabilitetskon-      equivalent with the permeabili-
+stanten  för  vakuum,  sålunda :     ty constant  of vacumm, hence :
+ 
+
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.43
+--------------------------------------------------------------------- 
+ 
+
+
+
+
+==== Relationship between elektrical and magnetical  ======== 3.44A
+==== constants ====================================================
+
+           1
+   uo = -----2--
+         Eo.c
+
+=================
+
+
+                         ----------
+
+
+
+
+HUR EN ELEKTROMOTORISK KRAFT         HOW AN ELECTROMOTORIC FORCE IS
+----------------------------         ------------------------------
+UPPSTÅR GENOM INDUKTION I ETT        GENERATED BY INDUCTION IN A
+-----------------------------        ---------------------------
+ELEKTROMAGNETISKT FŽLT               IN A MAGNETIC FIELD
+-----------------------------        -------------------
+
+
+När en metallisk ledare rör sig      When a metallic  conductor move
+i ett magnetisk  fält genereras      in a magnetic field,an electro-
+en elektromotorisk kraft,repre-      motoric force is generated,rep-
+senterad av en  elektrisk ström      resented by  a flowing  current
+över ledaren eller en elektrisk      in the conductor or an electric
+spänning över densamma.              votage over it.
+
+Effekten  ifråga  vill uppstå i      The effect will arise mainly by
+huvudsak av  två orsaker  1) om      two reasons  1) if the magnetic
+den magnetiska fältstyrkan änd-      field  density  is  changed  in
+ras som funktion av tiden 2) om      accord  with  time or 2) if the
+ledaren  accelererar eller  re-      conductor  accelerate or retard
+tarderar i B-fältet.                 in the B-field.
+
+Det finns flera  olika  orsaker      There  are  several  reasons to
+till en ändring i B fältet,till      change of the  B field, for in-
+exempel strömmen i ledaren för-      stance  the current in the con-
+ändras eller  att en trådslinga      ductor is  changed  or  a  wire
+rör sig  i ett konstant magnet-      loop is moved in a  homogeneous
+fält och  den  omslutna   arean      B field.  The  source  for  the
+förändras.Källan för den elekt-      electromotoric force generated,
+romotoriska  kraften härstammar      mainly emannates  from  the two
+i huvudsak från de två termerna      terms in  Newton's  second law.
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.44
+--------------------------------------------------------------------- 
+ 
+ 
+i Newtons andra lag. Grundat på      Based on earlier achieved resu-
+tidigare   erhållnade  resultat      sults   the  voltage  generated
+beräknar  vi  så den elektriska      changing when  the B field will
+spänningen som erhålles då mag-      be :
+netfältet förändras :
+
+
+==== Newton's second law of force ============================ 3.45A
+
+     F = dm/dt.v + m.dv/dt
+
+===========================
+
+Om vi  inte  har  någon rörelse      If we have no change in moveme-
+hos ledaren, då är termen dv/dt      of the conductor,the term dv/dt
+lika med noll.  Då  har vi bara      is zero.  Then  we only  have a
+en förändring  av  masstätheten      change in the  mass  density in
+som funktion av tiden, sålunda:      accord with time, hence ;
+
+     F= dm/dt. v
+
+Vi dividerar båda leden av den-      We divide both  sides  of  this
+na ekvation  med  ett volymele-      equation with  a small   volume
+ment, dV :                           element, dV :
+
+
+            (dm/dV)
+     F/dV = ------.v   =  d/dt(q).V
+              dt
+
+
+Mellan  den  laddade  partikeln      Between  the  charged  particle
+och en  punkt utanför  ledaren,      and a point outside the conduc-
+uppstår en spänning i E-fältets      tor, a stretch  is generated in
+massatäthet  på grund av rörel-      the E-field mass density,  cau-
+sen. Denna  differens  i massa-      sed by the movemeng of  the par-
+tätheten bestämmes av :              ticle. This differense is deter-
+                                     mined by :
+
+
+delta(qe) = qe.(v/c). cos(a)
+
+
+Emedan a= 180-90-B = 90-B är då      Because a= 180-90-B = 90-B,then
+cos(a) = sin(b) , dvs                cos(a) = sin(b), hence :
+
+
+delta(qe) = qe.(v/c).sin(a),var-     delta(qe) = qe.(v/c).sin(a) and
+vid  vi finner att detta är det-     vi find  that  equivalent  with
+samma som B i formel 3.40C ovan :    the B value from formula 3.40C:
+ 
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.45
+--------------------------------------------------------------------- 
+ 
+ 
+
+Sålunda kan uttrycket ovan skri-     Hence,our expression can be re-
+vas :                                written to :
+
+
+F/dV = d/dt(B) .v
+
+
+sedan multiplicerar vi båda le-      then  we  multiply  both  sides
+den  med ett  litet  tidsinter-      with a small time interwall, dt,
+vall, dt, samt ett litet längd-      and a small length interwall in
+intervall i ledarens riktning,       the direction of the leader, ds,
+ds , sålunda :                       hence :
+
+
+     F.dt.ds
+     ------- = (dB/dt).v.dt.ds
+       dV
+
+Impulsen  sker  med hastigheten      The mass impulse  propagates in
+i den  elektriska  fältstyrkans      the E-field  direction with the
+riktning v=c  under det tidsin-      velocity v=c  during  this time
+tervall  som  impulser  tar för      interwall it takes for  the im-
+att passerare ett  kubiskt flö-      pulse to pass a  cubical volume
+deselement  med  sidan, dr, dt=      element in space with side, dr,
+dr/c, vilket ger :                   dt = dr/c, which gives :
+
+
+   F.(dr/c).ds
+   -----------   = (dB/dt).c. dr/c.ds
+       dV
+  ............
+     Voltage
+
+
+
+Produkten dr.ds är  en yta vin-      The product dr.ds  is a surface
+kelrät mot ledaren. Sålunda:         transvese towards the conductor,
+                                     hence :
+
+
+==== The voltage induced when a B field change as accord ======== 3.46A
+==== with time ========================================================
+
+   U = dB/dt . dr.ds   = dB/dt . dA
+
+===================================
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.46
+--------------------------------------------------------------------- 
+ 
+ 
+Den andra termen i Newtons and-      For the other term in Newton's
+ra lag ger följande :                law give the result:
+
+
+    F = m.dv/dt
+
+    F/dV = (m/dV).dv/dt = B.dv/dt
+
+    F.dt.ds
+    ------- = B.(dv/dt).dt.ds
+      dV
+
+    For F.dr.ds/dV = U, dt = dr/c gives :
+
+
+==== The induced voltage in a conductor when accelereted ===== 3.47A
+==== in in a constant magnetic field ===============================
+
+    U = B/c.(dv/dt).dr.ds = B/c.(dv/dt).dA
+
+==========================================
+
+
+och om  dessa två  effekter  är      and if  these  two  effects are
+närvarande samtidigt :               present at the same time :
+
+
+
+==== The induced voltage in a conductor if the B filed ======= 3.47B
+==== is changen and the acceleration of the conductor  =======
+==== is changed ==============================================
+
+       !                     !
+   U = ! dB/dt + (B/c).dv/dt !.dA
+       !                     !
+
+====================================
+
+
+I allmän  teori förekommer inte      In common theory only the first
+den  andra  termen  i uttrycket      term is present. The reason for
+ovan.   Anledningen  till detta      that  may  be  that  the second
+är att effekten  blir liten och      term   will be  relative  small.
+kan i praktiska fall ignoreras.      Hence,  a voltage  is generated
+Sålunda, en  elektrisk spänning      if the, B , field is changed in
+genereras då, B fältet ändras i      accord with time , or, if  the ,
+tiden  eller om  fältet är kon-      B , field is constant, the velo-
+stant,  om  ledaren accelereras      city of a conductor in this con-
+i fältet.  Om  ledaren  rör sig      stant field is  accelerated. If
+med  konstant  hastighet  i ett      the  conductor   move  with con-
+konstant magnetisk fält, kommer      stant  velcocity  in a constant,
+erhålles  en emk  endast om den      magnetical field, an emk is ge-
+omslutande ytan, A , ändrar sig.     nerated only in case the enclo-
+                                     sed area, A, is changed.
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.47
+--------------------------------------------------------------------- 
+ 
+ 
+det  inte att  genereras  någon      B field, there will be no elect-
+elektromotorisk kraft.               romotoric force generated.
+
+
+                      ------------------------
+
+
+MAGNETISK FLÖDE OCH INDUK-           MAGNETIC FLUX AND THE INDUC-
+-------------------------            ---------------------------
+TANS BEGREPPET                       TANCE CONCEPT
+--------------                       -------------
+
+
+Magnetiskt flöde  defineras som      Magnetic flux is defined as the
+produkten  av,  B - fältet  och      product  of the,  B- field  and
+den  yta  som  fältet  omsluter.     this area which the field enclo-
+Enligt  denna   definition  kan      ses.  Then  the  definition  of
+magnetiskt flöde skrivas :           flux is :
+
+
+==== Definition of magnetic flux ============================= 3.48A
+
+   fi  = B.dA
+
+==============
+
+
+
+vilket ger att formel 3.47B kan      giving that the  formula 3.47B,
+skrivas om till :                    can be rewritten to :
+
+
+==== Induced voltage defined by the magnetic flux  =========== 3.48C
+==== parameter instead of the magnetic flux density ==========
+==== B parameter =============================================
+                                       In the first term an
+        !                         !    electric voltage is
+    U = ! d(fi)/dt + (fi/c).dv/dt !    induced when the magnetic
+        !                         !    flux change with time,
+                                       in the second case the flux
+                                       is constant but the conductor's
+                                       velocity is changed in accord
+                                       with time (accelerated or
+                                       retardated)
+
+
+                       -----------
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.48
+--------------------------------------------------------------------- 
+ 
+ 
+INDUKTANS BEGREPPET                  THE INDUCTANCE CONCEPT
+--------------------                 ----------------------
+
+På samma sätt som för den elek-      In  the  same  way  as  for the
+triska kondensatorn,  finns det      electric  capacitor, there is a
+ett behov av att  beskriva för-      need of describing  the ability
+mågan hos en elektriska  ledare      of a conductor of  storing mag-
+att  kunna  lagra  upp energi i      netic energy in it, in terms of
+det magnetiska fältet, i termer      the  conductors     geometrical
+av  ledarens  geometriska egen-      properties.
+skaper.
+
+För fullständighets skull utför      For completeness,  we perform a
+vi en beräkning  av induktansen      calcualtion  of the inducatance
+för en enkel strömslinga :           factor  for a simple  case of a
+                                     single wire loop :
+
+
+     U = dB/dt.dA
+
+     _    uo   s   _  3   _        uo  s _  3 _
+     B = --- . I ( r/r) x i.ds  = ----.I(r/r)xi.D.da
+         4.Pi                     4.Pi
+
+     _
+     r = D.cosa.i + D.sin(a).j + z.k  ;
+
+               2  2
+     r = SQRT(D +z )
+     _
+     i = -i.sin(a).i + i.cosa.j =
+
+         i.(-sin(a).i + cosa.j)
+
+     _   _
+     r x n = -z-cosa.i + z.sin(a).j + D.k
+
+     _           uo  a,z,A  -z-cosa.i + z.sin(a).j + D.k
+     B =(di/dt).----. I   --------2---2-3/2------------.D.da.dA
+                4.Pi            (D + z )
+
+
+     By performing integration of this expression gives:
+
+     a= 0 --> 2.Pi, z= -z ---> +z,  A= 0 -->A
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.49
+--------------------------------------------------------------------- 
+
+
+==== The induced voltage in a single loop conductor ========== 3.49A
+
+                         2
+                   uo.A.N
+     U = (di/dt).-------2--2--
+                  sqrt(D +z )
+
+
+där, A, är arean hos den omslu-      where, A, is  the  area  of the
+tande strömslingan, N , är and-      enclosed wire  loop , N is  the
+talet varv i spolen och , z, är      total  number  of turns  in the
+spolens längd. Sålunda definie-      coil  and, z, is the  length of
+rar vi  spolens induktansfaktor      the coil.  Hence, the inductan-
+till :                               ce factor is :
+
+
+==== The inductance factor of the coil ======================= 3.50A
+
+           uo.A       2       If the coil is winded arount
+     L = ------2--2-.N        a material, the permeability
+         sqrt(D +z)           uo is replaced by u.uo, where
+                              u is a relative factor >=1.
+=========================
+
+
+                --------------------------
+
+
+
+KRAFTVERKAN PÅ EN ELEKTRISK          THE FORCE EFFECT ON A CONDUCTOR
+---------------------------          -------------------------------
+LEDARE BELŽGEN I ETT KONSTANT        SITUATED IN A CONSTANT MAGNETI-
+------------------------------       -------------------------------
+MAGNETISK FŽLT                       CAL FIELD
+---------------                      ---------
+
+B- fältet representeras  av ett      The  B- field represents a mass
+massa  flöde med  tätheten,  B.      field with density, B.This mass
+Detta massafält ger upphov till      field give rise to an inflow of
+ett  inflöde  av  materia i den      matter  to a  charged  particle
+laddade  partikeln (en elektron      (the electron  in  a  metal for
+i en metall  som  exempel)  och      instance)  and this  matter  is
+denna  materia  absorberas  och      absorbed  and  thrown  out   by
+kastas ut  av partikeln  i  ett      effect of  the  particle's spin
+senare skede  genom  partikelns      or rotation, creating a counter
+rotation. Detta ger upphov till      reaction force.
+en motkraft.
+
+Genom att  använda sig av ide'n      Using this idea on how a force
+av hur en kraft utvecklas på en      is  generated  on a  conductor
+elektrisk  ledare i ett magnet-      moving in a B field gives:
+fält, erhålles :
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.50
+--------------------------------------------------------------------- 
+ 
+ 
+
+    Min = q.A.t.v
+
+    Min = B.Ao.ds.N                   q, is here  substituted by the
+                                      magnetic flux density, B , and
+                                      v,  the  mean  velocity of the
+                                      current  flow,  substituted by
+                                      v= ds/dt
+
+               2                  2
+          min.c    B.(Ao.N.to.c).c.ds.t
+    dF = ------ = ------------------------- =
+           re            re.t
+
+
+       t= Kt.re/c :
+
+                 2              2
+         B.(Ka.re.c.N.Kt.re/c).c.ds .Kt.re/c
+         ----------------------------------- =
+                        re.t
+                                   2
+          B.(2.Kt.Ka.sqrt(Pi/Kv).re.c.N).ds
+         ------------------------------------- =
+                    t.2.sqrt(pi/Kv)
+
+          B.(Q/t).ds. Kt/sqrt(Pi/Kv) =
+
+          B.i.ds . Kt/(2*sqrt(pi/Kv) )
+
+
+==== The force developed on a conductor or charged particle == 3.51A
+==== when moving in a constant magnetic field ================
+
+        s
+    F = I B.i.ds              If Kv = 4.Pi and Kt = 2.Pi
+                              as before assumed
+
+==========================
+
+
+
+
+                       -----------------
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.51
+--------------------------------------------------------------------- 
+
+
+ENERGIN LAGRAD I  ETT MAGNE-         THE ENERGY STORED IN A MAGNETIC
+----------------------------         -------------------------------
+TISK FŽLT                            FIELD
+---------                            -----
+
+Vi har nu  beräknat  den magne-      We have now calculated the mag-
+tiska  fältstyrkan,  B ,  i ett      netic field strength, B , in a
+magnetiskt   fält   utanför  en      magnetic  field outside a con-
+elektrisk ledare. Uppenbarligen      ductor. Obviously,this B-field
+representerar  detta  B-fält en      represents an energy stored in
+upplagrad energi  på samma sätt      the same  way as for the elec-
+som den elektriska energin i en      electric  field in a capacitor.
+elektrisk kondensator.
+
+Den magnetiska energin som lag-      The magnetic  energy  stored is
+ras i form  av mekanisk  energi      a form of  mechanical energy in
+lagras  på  samma  sätt som för      the same  way  as for energy in
+den elektriska energin.  Massan      the electric  field.  The move-
+rör  sig  relativt  långsamt  i      ment  of  mass  in  the  field,
+fältet i förhållande till ljus-      moving  slowly  in  relation to
+hastigheten , c, och  basen för      the limit velocity of matter,c,
+vår  beräkning  av den  lagrade      then  is the  base for calcula-
+energin   kan   ske  med  hjälp      tion  of  this  energy   stored.
+av Newtons vanliga energiformel.     Newton's ordinary nergy formula.
+
+
+============================================================== 3.52A
+                 2
+    W = (1/2).m.v
+======================
+
+
+Massan, m ,representeras här av      The mass, m , is here represen-
+massainnehållet i ett litet vo-      ted  by  the  mass  in  a small
+lymelement i space med densite-      volume  element  in the  common
+ten, q, såsom tidigare beräknad      space  field  of denisty, q, as
+i  3.20A  ovan. Hastigheten, v,      calculated before in 3.30A. The
+är här den momentana hastighet-      velocity, v , is  the momentary
+en  hos  denna  massa,  sålunda      velocity  of  this mass,  hence
+inte  densamma  som hastigheten      not equivalent  with  the  flow
+hos  den  utströmmande   massan      veleocity  in the conductor. As
+från  partikeln.  Som beräknats      calculated before, in the  for-
+tidigare är den magnetiska flö-      mula 3.40B of the magnetic flux
+destätheten lika med (3.40B) :       density, equal to :
+B.qr.sin(a),                         B=qr.sin(a),
+och kvantiteten B.c represente-      and   B.c  represents  a   mass
+rar en massaimpuls i det utval-      impulse  density in the  volume
+da volymselementet,dV, på samma      element, dV , in the way it has
+sätt som vi behandlat principen      been  generated of the movement
+för  hur  elektrisk  ström  kan      of the electric current and the
+induceras  genom   rörelser   i      associated  electric field.
+elektriska laddningar.
+
+När  denna  impuls  växelverkar      When  this impulse hit the uni-
+med det universella massafältet      versal mass field in space with
+som  har tätheten, q,  omtrans-      density, q, this impulse is re-
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.52
+--------------------------------------------------------------------- 
+ 
+ 
+formeras  denna impuls till, q-      transformed  to  the,  q- field
+fältet  som då påverkas  med en      which  get the velocity of, vf.
+hastighet, vf.Detta kan beskri-      From that the following equali-
+vas av följande samband :            ty is achieved :
+
+
+==== The B field impulse of velocity, c, is transformed ======= 3.53A
+==== to the , q, field with velocity, vf. =====================
+
+    _       __
+    B.c = q.vf
+    __    _
+    vf = (B/q).c
+======================
+
+Vi beräknar även den  fältmassa      We  also  calculate  the  field
+som är  innesluten i  volymele-      mass enclosed  into  the volume
+mentet,    dV,  i  den  utvalda      element, dV, in the space point
+punkten i rummet till:               to :
+
+
+
+==== The field mass enclosed in the space point of =========== 3.53B
+==== volume, dV , and density , q ============================
+
+    m = dV.q
+
+============
+
+Insättning av dessa delresultat      Inserting these partial results
+i vår energiformel, 3.52A ,ger:      sults in  our  energy  formula,
+                                     3.52A, gives :
+
+
+                       2 2 2
+     W'= (1/2).(dV.q).B.c/q
+
+                    2 2
+     W'/dV = (1/2).B.c /q
+
+                2                    in a magnetic field
+    W' = (1/2).B/uo                  per volume unit.
+
+
+
+==== Energy per volume unit stored in a magnetical field ===== 3.53C
+
+                2
+    W' = (1/2).B/uo
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.53
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+BESTŽMNING AV EN PARTIKELS           DETERMINING PARTICLE PARA-
+--------------------------           --------------------------
+PARAMETRAR Ka,Kv och Kt              METERS Ka,Kv,Kt
+------------------------             ---------------
+
+==== Figures from measurement ================================ 3.54A
+
+eo = 1.60217733E-19;      Unit charge, measured
+re = 2.8179409238E-15;    Classic electron radius, calculated
+Eo = 8.854187817E-12;     Vacuum constant, measured
+me = 9.109389754E-31;     Electron rest mass, measured
+c  = 2.99792458E8;        Light velocity, measured
+================================================
+
+
+                       2
+==== Calculating the eo/Eo quotient ========================== 3.54B
+        2
+      eo/Eo = 2.899161E-27
+
+===========================
+
+                                  2
+==== Calculating the 4.Pi.re.me.c factor ===================== 4.54C
+
+                 2
+     4.Pi.re.me.c = 2.899161E-27;
+
+=================================
+
+
+
+==== Comparision between our theory and common theory ======== 3.54D
+                                       Ka    Kv    Kt
+    E/E' = 1/2. sqrt(Kv/Pi)
+---- for equivalence ----------------  x     4.pi  x   ------
+
+                2
+              Ka
+    W'/W = --------
+            4.Pi.Kv
+---- for equivalence ----------------  4.pi  4.pi  x   ------
+
+      '
+    U/U  = 1 / (2.SQRT(Pi/Kv). (4Pi/Kv)
+---- for equivalence ----------------  4.pi  x     x   ------
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.54
+--------------------------------------------------------------------- 
+ 
+ 
+
+   '      Ka. sqrt(pi.Kv)
+ Zo/Zo = --------------------
+              4.Pi.Kt
+---- for equivalence ----------------  4.pi  4.pi  2.pi -----
+
+                  2
+     '          Ka
+ f(x)/f(x) =  ------
+               16.Pi
+---- for equivalence ----------------  4.pi  x     x    -----
+
+   B'/B = 2.pi/sqrt(pi.Kv)
+---- for equivalence ----------------  x     4.pi  x    -----
+
+                                2
+    2.Kt.Ka.sqrt(pi/Kv) = eo/(re.c)
+---- for equivalence ----------------  4.pi  4.pi  5.35566 --
+
+       2  2  3
+     Ka.Kt.re
+     -------- = Eo
+      me.Kv
+---- for equivalence ----------------  4.pi  4.pi  5.35566 --
+
+
+eo, Eo och Zo är de enda enhet-     eo,Eo and Zo are the only units
+erna som  innehåller   tidskon-     which contain the time constant,
+stanten, Kt.  De 2 första enhe-     Kt, eo,  and, Eo, are  more ex-
+terna är mera  noggrannt  fast-     act experimentally  established,
+ställda än den  förra, så , Kt,     so, Kt,  has  to  be  determined
+bär av denna  anledning avgöras     by, eo, and Eo.
+av, eo , och, Eo.
+
+På detta sätt  finner  vi   att      In this  way we  find that  the
+följande konstanter syns  gälla      following constants ought to be
+generellt för hela elektrofysi-      applicable for the whole  elec-
+ken :                                tro physics :
+
+
+==== Particle constants satisfying the electromagnetic ======= 3.55A
+==== properties of matter ====================================
+
+     Ka = 4.pi
+     Kv = 4.Pi
+     Kav =1
+     Kva =1
+     Kt = 5.35556
+=====================
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.55
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+MAXWELLS EKVATIONER FÖR DET         MAXWELL'S EQUATIONS OF THE
+---------------------------         --------------------------
+ELEKTROMAGNETISKA FŽLTET            ELECTROMAGNETIC FIELD
+------------------------            ---------------------
+
+
+James Clerk Maxwell  publicera-      James Clerk  Maxwell  published
+de sin  elektromagnetiska fält-      his electromagnetic field theo-
+teori  år  1873  "Treatise   on      ry in 1873 "Treatise  on Elect-
+Electricity  and Magnetism", en      ricity and  Magnetism",  one of
+av de  mest storslagna verk ut-      the  most  gigantic  scientific
+fört av en  enskild vetenskaps-      work of a single scientist ever.
+man, någonsin.  Ett viktigt re-      An  important   result  of  his
+sultat av  hans  teori var  att      theory  was  that  he  found  a
+han  fann  samband  mellan  det      close realtionship between  the
+elektriska fältet och  det mag-      electric field and the magnetic
+netiska fältet,  vilket  visade      field,  two sides  of  the same
+sig vara två sidor av samma sak      thing and from the same source.
+och från samma källa.  En annan      Another  interpretation  of the
+tolkning   av  teorin  var  att      theory was that electromagnetic
+elektromagnetisk   energi fort-      energy was  propagating in free
+plantade sig i fritt vacuum med      space  with  finite  speed, c ,
+begränsad och  konstant hastig-      equivalent with the light velo-
+het , c, lika med  ljusets has-      city in free space.
+tighet.
+
+Kärnan i  denna  teori  var  en      The nucleus of this theory  was
+matematisk tolkning av de elek-      a  mathematical  interpretation
+tromagnetiska  fenomenen summe-      of the  electromagnetic  pheno-
+rade  i ett  set av formler som      mena summarized  in a couple of
+går under namnet "MaxWells  ek-      formulae named "Maxwell's equa-
+vationer" för det elektromagne-      tions of the  electric and mag-
+tiska fältet så  som det  fort-      netic field as  propagating  in
+plantas i det fria rummet.           free space .
+
+Maxwells teori var  uppbyggd på      Maxwell's  theory  was  built on
+antagandet att det  skulle fin-      the assumption of existence of a
+nas  en  mekanisk  eter, bärare      mechanical aether carrying light
+för ljus  och elektromagnetiska      and "electromagnetic waves".This
+fält. Denna hypotes om förekom-      assumption  was  later  on faded
+sten av en aktiv eter plockades      out and  today only a  shell  of
+så småning bort  och idag åter-      a mathematical formalism remains
+står   endast  den  matematiska      of his theories.
+formalismen.
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.56
+--------------------------------------------------------------------- 
+
+Trots  denna  framgång har teo-      In spite of great successes,the
+rin inte undgått kritik.             theory has  not   escaped  from
+                                     criticism.
+
+En punkt  kan anföras,  även om      One point is,although the theo-
+teorin  förmodas ge en  korrekt      ry is assumed to give a correct
+beskrivning av elektromagnetis-      description   of  electromagne-
+men, är att den  inte förklarar      tism,  it does not explain any-
+någonting   egentligen,  endast      thing about  electromangnetism,
+beskriver   elektromagnetismen.      only describe it. Other critic-
+Annan  kritik  anför  att  hans      ism is that  the equations  not
+ekvationer  inte är symmetriska      are  symmetric  in  respect  to
+i relation till  Lorenz  trans-      Lorentz   transform   and   the
+form  eller  relativitetsteori,      theory of relativity basic con-
+vilket   naturligtvis  är   ett      cept, a statement we  not have
+mindre bekymmer  eftersom dessa      to worry so much about,because
+teorier i  sig själva kan ifrå-      both these theories can be put
+gasättas.                            into question.
+
+Men  den  mest  allvarliga  an-      But the most  serious remark is
+märkningen är att elektromagne-      the idea  that  electromagnetic
+tisk energi alltid formodas rö-      energy is  assumed to propagate
+ra sig  som vågor  eller  stör-      like waves or  disturbances  in
+ningar i en  eter,  denna  eter      an aether sea,this aether which
+som dock aldrig har  kunnat de-      never was detected  experiment-
+tekteras i  experiment. Maxwell      ally. Maxwell come to this con-
+kom till  denna  slutsats genom      clusion   by   comparing    the
+att jämföra den allmänna, eller      common, or general,  wave equa-
+generella vågekvationen med re-      tion   with  results  from  his
+sultat från  hans elektromagne-      electromagnetic theory  because
+tiska teori, i huvudsak motive-      of  symmetry   reason in  these
+rat av matematiska symmetriskäl.     equations, mainly.
+
+Inspirerad av  Maxwells  teori,      Inspired  by Maxwell's  theory,
+utförde  Michelson  och  Morely      Michelson and Morley 1887  per-
+1887 ett experiment vars avsikt      formed an  experiment amimed to
+var att  mäta jordens hastighet      measure  the earth  velocity in
+i denna eter.Försöket var emel-      that assumed aether.The attempt
+lertid  misslyckat,  sålunda  i      was failed,  hence  denying the
+princip motbevisande existensen      Maxwellian aether wave hypothe-
+av  den  eter  Maxwell hade som      sis.
+grund för sin teori.
+
+Detta resultat  gav upphov till      That gave  rise to  an  exhalted
+en exhalterad debatt om ljusets      debate of the  nature  of  light
+natur under den senare delen av      during  the  subsequent  part of
+1800-talet, en  debatt  som av-      the nineteenth century, a debate
+klingade först vid  tillkomsten      which  declined  by the birth of
+av relativitetsteorin 1905. Men      the  theory  of relativity 1905.
+de  problem  som   diskuterades      But  the  problems  still remain
+kvarstår fortfarande  som olös-      unsolved  and   the    questions
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.57
+--------------------------------------------------------------------- 
+ 
+ 
+ta och frågorna  står obesvara-      remain unanswered.
+de.
+
+Vår ambition är här är inte att      Our  ambition  here are  not  to
+diskutera eller penetrera varje      discuss and penetrate everything
+aspekt av Maxwells arbete, inte      in Maxwell's work, not either to
+heller  att  gräva   oss  genom      dig our way  through  all  these
+alla de  formler som teorin om-      formuale  contained in this work.
+fattar.  Vårt  huvudintresse är      Our main interest is only to in-
+endast att ytligt undersöka hur      vestigate if similarely  results
+vi kan komma fram till liknande      can be achieved  with start from
+resultat  med  start  från  vår      our own theory and try to under-
+egen teori  och på så sätt för-      stand his way of thinking.
+stå hur han tänkte.
+
+Vi börjar med att göra  en kort      We begin  by making a brief list
+översikt av  några av hans mest      over  some of  the  most  common
+kända  ekavationer  vilket hans      used equations which is enclosed
+teroi  omfattar, och som vanli-      in  his  theory,  with  name  of
+gen går under  namnet "Maxwells      "Maxwell's   equation   of   the
+ekvationer  för det elektromag-      electromagnetic field" :
+netiska fältet.
+
+
+
+==== A set of the Maxwellian equation of the  ================ 3.58A
+==== electromagnetic field ===================================
+
+    _      _                       _
+    D = Eo.E                (a)    D is defined as a velocity
+                                   vector of the electric field
+
+         A _  _
+    Qf = I D.dA             (b)    Qf is the total amount of
+                                  "charge" enclosed within
+                                   the closed area A.
+
+    __ _
+    !/ D = qf               (c)    qf is the charge density in
+                                   case of a non polarized field
+
+     !/ E = 0               (d)    Valid at free radiation from a
+                                   point electric source
+     __ _
+     !/ B = 0               (e)    Valid at free radiation from a
+                                   point electric source
+    __   _     _
+    !/ x E = -oB/dt         (f)    Relationships between the
+                                   electric and the magnetic
+                                   field (o = the partial derivative)
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.58
+--------------------------------------------------------------------- 
+ 
+ 
+
+    __   _      2   _
+    !/ x B =(1/c ).oE/dt    (g)    Relationships between the
+                                   electric and the magnetic
+                                   field (o= the partial derivative)
+
+    __ _
+    !/ E = qf/Eo            (h)    Valid at poliarization
+                                   point magnetic source
+
+
+                       --------------
+
+
+
+
+HŽRLEDNING AV EKAVTION 3.58A/a       DERIVING THE EQUATION 3.58A/a
+------------------------------       -----------------------------
+
+Vi vill nu härleda Maxwells ek-      We will now derive  these  Max-
+vationer  med  start  från  vår      wellian   equations  with start
+egen  teori  for  elektromagne-      from  our  own  electromagnetic
+tismen. Vi starar med  ekvation      theory. We start with the equa-
+3.58A/a,  där  vi definierar en      tion 3.58A/a, where  we  define
+vektorkvantitet,  D,  som är en      a vectorial quantity, D , which
+hastighet  hos  det  elektriska      is a  velocity  of the elektric
+fältet.                              field.
+
+Från ekvation  3.20A :               From equation 3.25A,
+
+   _                2      2 _
+   E = q.Kt.Ka/Kv.re.c.(1/r).n
+
+
+Från ekvation 3.20A/c                From equation 3.20A/c
+
+   Eo = 1/q
+
+                                     Combinging :
+Kombinering :
+
+
+==== Equation 3.58A/a derived ===============================  3.59C
+
+    _   _                 2      2 _               2  2   _
+    D = E.Eo = Kt.Ka/Kv.re.c.(1/r).n   = (Kt.Kav.re /r ). c
+=============================================================
+
+sålunda, är en hastighet.            hence, is a velocity.
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.59
+--------------------------------------------------------------------- 
+ 
+ 
+HŽRLEDNING AV EKAVTION 3.59A/b       DERIVING THE EQUATION 3.58A/b
+------------------------------       -----------------------------
+              _                                         _
+Vi integrerar D över en flödes-      We intergrate  the D flow  over
+                      2                                       2
+vektor area da= 4.Pi.r  :            a vector area dA = 4.Pi.r :
+
+
+    0 _ __              2          2  2               2
+X = I D.da = Kt.Ka/Kv.re.c . 4.Pi.r /r  = Kt. Ka/Kv.re .c . 4.Pi
+
+
+I enlighet med 3.20A/a,den elek-     According to 3.20A/a, the charge
+triska laddningen är :               is equal to :
+
+
+                          2               2
+Q = 2.Kt.Ka.sqrt(Pi/Kv).re .c  = Kt.Ka. re .c
+
+
+
+Kv = 4.Pi (se resultat 2.20C) :      Kv= 4.Pi (see result 2.20C) :
+
+
+                              2             2
+Q = 2.Kt.Ka.sqrt(Pi/(4.Pi)).re. c = Kt.Ka.re .c
+
+
+
+Ka = 4.Pi (se resultat 2.20C):       Ka = 4.Pi (see result 2.20C) :
+
+
+                       2                 2
+X = Kt. (4.Pi/(4.Pi).re .c. Ka = Kt.Ka.re .c
+
+
+Således är X=Q dvs :                 Hence, X = Q and :
+
+
+
+==== Equation 3.58A/b derived ================================ 3.60A
+
+         a _ __       Kv = 4.Pi
+     Q = I D.dA       Ka = 4.Pi
+
+===============================
+
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.60
+--------------------------------------------------------------------- 
+
+
+HŽRLEDNING AV 3.58A/c                DERIVING EQUATION 3.58A/c
+----------------------               -------------------------
+
+
+Vi börjar med att definiera ett      We  start defining  the  vector
+            _      _      _                 _         _      _
+vektorfält  D, där D = Eo.E (se      field  D,  where D = Eo.E  (see
+3.59C/b ovan).Vi selekterar ett      3.59C).We select a small volume
+litet volymelement inom vektor-      element   within  this   vector
+       _                                    _
+fältet D med sidorna /!x,  /!y,      field  D with sides /!x./!y./!z
+                           _                             _
+/!z, (se  figuren  nedan). D är      (see figure below). D constitu-
+då en fältvektor där varje term      tes a field vector  where  each
+Dx, Dy, Dz innehåller  en  viss      term Dx, Dy, Dz contain a quan-
+kvantitet laddning som funktion      tity  of  charge  expressed  in
+av  rumsvariablerna  x,y och z.      varibles   of,  x, y  and,   z.
+
+Sålunda definierar vi var fält-       Hence we define our field vec-
+vektor på följande sätt :             tor D in the following way :
+
+
+
+==== The D vector expressed as a field vector by  ============ 3.61A
+==== componenets, Dx, Dy, Dz ==================================
+    _
+    D = Dx.i + Dy.j + Dz.k
+============================
+
+                                      Dy
+                        y             !        Dz
+                        !             !      /
+                        !           __ _   /
+                        !          /___/!
+                        !   /     !    !!  ---> Dx
+                        ! /       !____!/
+        x---------------!---------------------
+                      / !
+                    /   !
+                 z      !
+                        !
+
+
+I  tillägg  härtill,  med start      In addition,with start from the
+från vår ekvation 3.20A/a defi-      equation 3.20A/a, we denote the
+nierar vi  den  partiella ladd-      partial  charge  streaming  out
+ningsmängden  som  strömmar  ut      from one of  the unit  surfaces
+genom   ytorna  definierade  av      limited  by the  edges /!!x,/!y,
+kantlängderna, /!x, /!y , /!z :      /!z by :
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.61
+--------------------------------------------------------------------- 
+
+
+    dQ1 = (dDx/dx)./!x.(/!y./!dz)
+
+    dQ2 = (dDy/dy)./!y.(/!x./!z)
+
+    dQ3 = (dDz/dz)./!z.(/!x./!y)
+
+    dQ = dQ1 + dQ2 + dQ3
+
+    dQ = dV.(dDx/dx) + dV.(dDy/dy) + dV.(dDz/dz)
+
+            __ _
+    dQ/dV = !/ D      or
+
+
+         _
+==== The D field divergence is equal to the charge of ======== 3.62A
+==== density in a field point ================================
+
+     __ _
+     !/ D = qf
+===============
+
+
+Och som vi kommer  att se  även      As we will see, and as a remark
+i   fortsättningen,  finner  vi      to Maxwell's  equations,  is to
+att  Maxwells  ekvationer  inte      say  that  it contains not much
+säger   speciellt  mycket    om      of  information  of  the   real
+elektromangetismens   egentliga      source  and nature  of electro-
+natur, utan  verkar  till stör-      magnetism.  And as we even will                                      manipulations  of already known
+sta delen utgöras av matematis-      see in the preceding investiga-
+ska  manipulationer  av   redan      tions, most of it is mathemath-
+kända fakta.                         ical   manipulations  of  facts
+                                     basically already known.
+
+                          --------------
+
+
+
+
+Härledning av ekvation 3.58A/d       Deriving equation 3.58A/d
+
+
+    _      _  3                           2
+    E = K. r/r    where K = q.Kt.Kav.N1.re.c  
+
+
+       _            _  3                   2  2  2
+   Div(E) =K . Div( r/r )   where r= sqrt(x +y +z )
+
+
+        xi + yj +zk
+   Div ----------------  =
+           2  2  2 3/2
+        ( x +y +z )
+
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.62
+--------------------------------------------------------------------- 
+
+
+              2  2  2 1/2    2     2  2  2 3/2
+       3/2.(x +y +z )  . 2.x  - (x +y +z )    +
+
+             2  2  2 1/2    2     2  2  2 3/2
+       3/2.(x +y +z )  . 2.y  - (x +y +z )    +
+
+             2  2  2 1/2    2     2  2  2 3/2
+       3/2.(x +y +z )  . 2.z  - (x +y +z )
+    --------------------------------------------  = 0
+                   2  2  2 3
+                 (x +y +z )
+
+
+==== Div(E) for the electrical field from a point source ===== 3.63A
+        _
+    div(E) = 0
+
+================
+
+                       -----------------
+
+
+Härledning av ekvation 3.58A/e       Deriving equation 3.58A/e
+------------------------------       -------------------------
+
+Från ekvation 3.25A  har vi för      From the equation 3.25A,for the
+det elektriska fältet :              electrical field, we have :
+
+
+   _              2   _  3
+   E = q.Kt.Kav.re.c. r/r .N1
+
+
+and from 3.41C :                     and from 3.41C :
+
+   _    _   _  2
+   B  = E x v/c
+
+
+Kobinering  ger :                    Combining gives :
+
+
+    _              2  _  3  _  2
+    B = q.Kt.Kav.re.c.r/r x v/c
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.63
+--------------------------------------------------------------------- 
+ 
+ 
+
+       _          _  3  _                         2  2  2
+   Div(B) = Div(( r/r x v ) * K    where r= sqrt(x +y +z )
+
+                                                 2
+                                   K= q.Kt.Kav.re/c
+
+ _   _
+ r x v  =    !    i      j      k   !
+             !                      !
+             !    x      y      z   !     =
+             !                      !
+             !    v1     v2     v3  !
+
+
+(y.v3 - z.v2)i + (z.v1 - x.v3)j + (x.v2 - y.v1)k
+
+
+     (y.v3 - z.v2)i + (z.v1 - x.v3)j + (x.v2 - y.v1)k
+Div  -------------------------------------------------     =
+                   2    2    2   3/2
+                 (x  + y  + z  )
+
+       2   2   2 1/2
+3/2.( x + y + z )   .2x.(y.v3 - z.v2) +
+
+      2   2   2 1/2
+3/2( x + y + z )    .2y.(z.v1 - x.v3) +
+
+      2   2   2 1/2
+3/2( x + y + z )    .2z.(x.v2 - y.v1)
+
+----------------------------------------------    =
+                   2    2     2
+                  x  + y   + z
+
+
+
+
+2.x.y.v3 -2x.z.v2 +2.y.z.v1 - 2.y.x.v3 + 2.z.x.v2 - 2.z.y.v1
+-------------------------------------------------------------- =  0
+                     2   2   2  1/2
+             2/3 . (x + y  +z  )
+
+
+
+==== Equation 3.58A/e derived ================================ 3.64A
+      _
+  Div(B) = 0
+ 
+=============
+
+
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.64
+--------------------------------------------------------------------- 
+
+
+                      -------------------
+
+
+
+
+HŽRLEDNING AV EKVATION 3.58A/f       DERIVING THE EQUATION 3.58A/f
+------------------------------       ------------------------------
+
+Ekvationen   3.58A/f   erhålles      The equation 3.58A/f  is achie-
+genom  att man  ändrar B-fältet      ved when changing the, B, field
+som   funktion  av  tiden.  Det      as function  of  time. There is
+finns  flera  orsaker  till  en      many reasons for change  of the,
+sådan förändring.  En orsak kan      B, field. One  reason  may   be
+vara   ändring  i   strömflödet      change in the  current  flow in
+genom  en  ledare eller rörelse      the conductor or  when  the con-
+i ett ohomogent magnetiskt fält.     ductor moves in  an inhomogeneo-
+Vi begränsar här undersökningen      us magnetic field. We limit our
+till det första fallet.              investigations  for  the  first
+                                     mentioned case.
+
+
+Vi börjar med vår ekvation           We begin with out equation
+3.41C :                              3.41C :
+
+            _   _
+            E x v
+      B  = ---2--
+             c
+
+Derivering av  båda sidorna   i      Deriving both sides  in respect
+avseende på tid, ger :               to time, gives :
+
+                     _   _
+      _              E x v
+     dB/dt = d/dt ( ----2-- ) =
+                       c
+
+           __ _
+    d/dt = !/.v
+
+
+    __ _  2 _   _
+    !/ v/c.(E x v ) =
+
+     _ _  2 _   __       2 2 __   _
+    (v.v/c.(E x !/) = - v/c.(!/ x E )
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.65
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+==== Equation 3.58A/f derived ================================ 3.66A
+
+     _        2 2 __   _
+    dB/dt = -v/c.(!/ x E )
+
+===================================
+
+
+Således,  endast i  det fall en      Hence,  only in  case of a free
+fri våg  har  hastigheten  v=c,      wave  where, v=c,  the   result
+gäller  Maxwells   ursprungliga      correspond with  Maxwell's  re-
+formel. Vi gissar,att han gjor-      sult. We may guess that Maxwell
+de  detta   antagande  for  att      did this  assumption to achieve
+erhålla ekvation 3.58A/f.            the result of equation 3.58A/f.
+
+
+
+
+                        ----------------
+
+
+
+
+HŽRLEDNING AV EKVATION 3.58A/g      DERIVING THE EQUATION 3.58A/g
+------------------------------      -----------------------------
+
+Ekvationen vi skall härleda:
+
+
+    __   _      2   _
+    !/ x B =(1/c ).oE/dt    (3.58A/g)
+
+
+Vi   börjar   med    ekvationen      We  begin  with  the   equation
+3.41C för sambandet mellan  det      3.41C   for  the   relationship
+magnetiska  och  det elektriska      between  the  magnetic  and the
+fältet :                             electric field :
+
+        _   _  2
+    B = E x v/c
+
+
+Vi deriverar vänster sida :          We derive the left side :
+
+                __   _
+    LEFT SIDE = !/ x B
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.66
+--------------------------------------------------------------------- 
+ 
+ 
+Vi deriverar höger sida :            We derive the right side :
+
+
+                __    _   _  2
+    RIGT SIDE = !/ x (E x v/c )
+
+
+
+Vi utför en  del vektor  analyt-     Performing  some vector  analy-
+iska   manipulationer   för  den     tic manipulations of  the right
+högra sidan, vilket ger :            side, gives the result :
+
+
+   __         __         __         __
+(v.!/)E  - v.(!/.E) - (E.!/).v + E.(!/.v)
+
+!--1--/    !--2---/   !--3---/   !--4---/
+
+
+Vi analyserar varje del av hög-      We  analyses  each part of this
+ra ledet enligt följande :           relation and study the physical
+                                     content in it, giving :
+
+
+Höger sida, del 1 :                  Right side parth 1 :
+-----------------                    --------------------
+
+ _ __ _
+(v.!/)E  =
+
+(v1.d/dx +v2.d/dy + v3.d/dz).(E1.i+E2.j+E3.k) =
+
+v1.dE1/dx.i + v2.dE2/dy.j + v3.dE3/dz.k =
+
+dE1/(dx/dv1).i + dE2/(dy/dv2).j + oE3/(dz/dv3).k = dE/dt
+
+
+Höger sida, del 2 och 4              Right side , part 2 and 4 :
+-----------------------              ---------------------------
+
+
+      __            __             _            _
+ - v.(!/.E) -  + E.(!/.v)  = -v.( !/.E ) + v.( !/E) = 0
+
+
+Höger sida, del 3 :                  Right side, part 3 :
+-------------------                  --------------------
+
+     _  _
+   -(E.!/).v =
+ 
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.67
+--------------------------------------------------------------------- 
+
+
+-(E1.d/dx + E2.d/dy + E3.d/dz).(v1.i+v2+j+v3.k) =
+
+-(E1.v1.dv1/dt.i -E2.v2.dv2/dt.j - E3.v3.dv3/dt.k = 0
+
+
+då ingen acceleration av fältet      at no acceleration of the sour-
+förekommer. Sålunda, vid noll        ce. Hence,  at  no acceleration
+acceleration gäller :                of  the  source  we get the re-
+                                     sults:
+
+
+==== Equation 3.58A/g derived at zero acceleration =========== 3.68A
+    __   _    _
+    !/ x B = dE/dt
+
+==================
+
+
+
+
+DEN ALLMŽNNA VÅGEKVATIONEN           THE GENERAL WAVE EQUATION
+--------------------------           --------------------------
+
+Den allmänna      vågekvationen      The general wave  equation des-
+beskriver hur energi i ett fält      cribes how matter and energy in
+förflyttar sig  som funktion av      a field is transported as func-
+tiden. Ekvationen var även känd      tion of time.  The equation has
+på Maxwells tid då han formule-      since long time been  known, so
+rade sin elektromagnetiska teo-      even on Maxwell's time when  he
+ri. Eftersom  ekvationen  i hu-      formulated his  electromagnetic
+vudsak användes för att beskri-      theory.  Because  the  equation
+va hur vågor fortplantar  sig i      mainly is used  for  describing
+medier  var det  naturligt  för      how  waves  are transported  in
+Maxwell att jämföra den med hur      mediums,  it  was  natural  for
+elektriska och magnetiska vågor      Maxwell to do a comparison bet-
+förflyttade  sig  i den hypote-      ween how  electric and magnetic
+tiska etern.  Enligt denna upp-      waves moved  through that hypo-
+fattning var  då  även ljus vå-      thetic light aether.  According
+gor, elektromagagnetiska vågor.      to  this idea, even  light  was
+Vid  en  jämförelse  mellan  de      such  waves,  electro  magnetic
+matematiska  uttryck  som   den      waves.  In this comparison  the
+elektromagnetiska    teorin gav      mathematical   expression   got
+med den allmänna vågutbredning-      from the  electromagnetic theo-
+sekvationen fann Maxwell direkt      ry was in agree with the common
+överensstämmelse. Därmed ansågs      wave equation.  By that Maxwell
+vara bevisat, dels att ljus var      considered it proved that light
+elektromagnetiska  vågor,  dels      was  electromagnetic waves  and
+att dessa vågor förflyttade sig      that these waves were transpor-
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.68
+--------------------------------------------------------------------- 
+ 
+ 
+i  en  eter på samma  sätt  som      ted  in  an aether in the  same
+ljud i luft.                         way as sound in air.
+
+Senare exeperiment  kunde emel-      However, experiments later per-
+lertid ej bekräfta  eterhypote-      formed  could  not  confirm the
+sen. Orsaken till  detta är att      aether hypothesis.  The  reason
+finna  i en feltolkning av  den      to that is to find in a missin-
+allmänna   vågekvationen.   Den      terpretation of the common wave
+gäller  även för det  fall  att      equation. This  equation is va-
+ljuskällan är en partikelkälla,      lid even for this case when the
+dvs  i  det  fall  att   energi      source is  a  particle  source,
+transporteras  genom   flödande      which  means  this  case  where
+materia  ut  från  källpunkten.      energy is  transported  by flo-
+För att  demonstrera detta görs      wing  matter  from  the  source
+här  en härledning av den  all-      point. To demonstrate this fact
+männa   vågekvationen   med ut-      we here  investigate the  back-
+gångspunkt  både från vågfallet      ground of this equation and how
+och partikelfallet.                  to derive it.
+
+
+
+Den allmänna vågekvationen           The  general wave equation
+--------------------------           --------------------------
+Steg 1                               Step 1
+------                               ------
+
+Vi börjar med att betrakta  ett      In this  purpose  we begin with
+litet  volym element  i rummmet      studying a small volume element
+utanför   källpunkten. Vi låter      in the room outside  the emitt-
+sidorna på detta  element utgö-      ing source  point.  We let  the
+ras av en kub dx,dy,dz och des-      edges   of  the  cube   element
+sa sidor ligger parallellt  med      dx,dy,dz  be parallel with  the
+axlarna i ett rätvinkligt koor-      axis of the   used   coordinate
+dinatsystem x,y and z.               system with axis x,y and z.
+
+
+Några definitioner:                  Some definitions:
+
+---- om/ot --------------------------------------------------------
+
+tidsderivatan av den totalt ut-      the time derivative of the
+strömmande materien                  total matter streaming out
+
+
+---- om/otx -------------------------------------------------------
+tidsderivatan  av  utströmmande      the time derivative  of matter
+materia  i   x-axelns  riktning      streaming  out in  the  x-axis
+                                     direction
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.69
+--------------------------------------------------------------------- 
+ 
+ 
+---- om/oty --------------------------------------------------------
+tidsderivatan av utströmmande        the time  derivative of  matter
+materia  i  y-axelns  rikting        steaming   out  in  the  y-axis
+                                     direction
+
+---- om/otz -------------------------------------------------------
+tidsderivatan  av  utströmmande      the  time  derivative of matter
+materia i z-axelns riktning          streaming out  in  the   z-axis
+                                     direction
+
+
+
+---- v = vx.i+vy.j+vz.k --------------------------------------------
+en   hastighetsvektor  för  den      is the  velocity  of the  strea-
+strömmande materian                  ming matter
+
+
+---- q -------------------------------------------------------------
+densiteten   hos  massan   inom      the density of the  mass within
+volymelementet  (antas vara den-     the volume element (is supposed
+densamma i alla riktningar.          being the same in all direction.
+
+
+
+---- dV ------------------------------------------------------------
+elementets volym                     the volume of the element
+
+
+
+om/ot= om/otx + om/oty + om/otz =
+
+       om/(ox/vx) + om/(oy/vy) + om/(oz/vz) =
+
+       om/ox.vx + om/oy.vy + om/oz.vz =
+
+       (om/ox.i + om/oy.j + om/oz.k).(vx.i + vy.j + vz.k) =
+
+       V(m).v =
+
+       V(m/dV).dV.v =
+
+       V(q).v.dV =
+
+       V(q.v).dV
+
+       om/dt= o/ot(m/dV).dV =
+
+       oq/ot.dV
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.70
+--------------------------------------------------------------------- 
+
+
+============================================================ 3.70A
+
+     oq/ot= V(q.v)
+
+==================
+
+
+Detta gäller generellt för våg-      This  result is  general  valid
+fallet om  q=massa/volym  eller      for   the   wave   case   where
+för  partikelfallet  q=N/volym,      q=mass/volume  or if  particles
+där N=  antalet  entiteter  per      q=N/volume, where N= the number
+volymsenhet.                         of emitted particles per volume
+                                     unit.
+
+
+
+Den allmänna vågekvationen           The  general wave equation
+--------------------------           --------------------------
+Steg 2                               Step 2
+------                               ------
+
+Den  propagerande  vågen  eller      The  propagating   wave  or the
+materiaförflyttningen genererar      transport of matter generate  a
+ett tryck i  den  riktning  som      pressure  in  the  direction of
+förflyttningen sker.  Den kraft      movement.  The force acting  on
+som verkar på elementet  i res-      the  element  in   each  single
+pektive rörelseriktning är:          direction is:
+
+    dFx= dAx.p
+    dFy= dAy.p
+    dFz= dAz.p
+
+    dF = dFx + dFy + dFz = p.(dAx.i + dAy.j + dAz.k ) =
+
+    p.dA.n
+
+    V.dF= V.(p.dA.n)
+
+============================================================== 3.71A
+
+     V(dF)= V(p).dA
+
+===================
+
+
+     dFx= d/tx(mx.vx) =
+
+     d/dtx(vx.mx/dV).dV =
+
+     d/dtx(vx.qx).dAx.dx =
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.71
+--------------------------------------------------------------------- 
+ 
+ 
+     d(Fx)/dx = d/dtx(vx.qx).dAx
+
+     d(Fx)/dx + d(Fy)/dy + d(Fz)/dz = V(dF)
+
+============================================================== 3.72A
+
+     V(dF)= o/ot(v.q)
+
+=======================
+
+
+Sammanställning av 3.70A   samt      Placing   together  3.70A   and
+3.72A ger:                           3.72A together gives:
+
+
+============================================================== 3.72B
+
+     V(p)= o/ot(v.q)
+
+====================
+
+vilket gäller under  förutsätt-      which is valid presupposed  the
+ning  att fältets täthet, q, är      field  density, q, is the  same
+detsamma i alla riktningar vil-      in all directions,which we here
+ket  kan  antas vara sannt  med      can assume being true with good
+god approximation.                   approximation.
+
+
+
+Den allmänna vågekvationen           The  general wave equation
+--------------------------           --------------------------
+Steg 3                               Step 3
+------                               ------
+
+Detta steg  omfattar  en studie      This step  encloses  a study of
+av  relationen mellan tryck och      the  relationship between pres-
+täthet (om i ett  medium) eller      sure and density  (if a medium)
+hur antalet partiklar i  fältet      or the number of particles in a
+förhåller sig till volym (i det      particle field related to volu-
+fall  fältet  är ett  partikel-      me   (in  case  of a   particle
+fält).                               field).
+
+
+OM FŽLTET ŽR ETT MEDIUM              IF THE FIELD IS A MEDIUM
+-----------------------              -------------------------
+
+I det fall  utbredningen sker i      In the case of energy transport
+ett  medium kan vi använda  oss      in a  medium  we  make  use  of
+av Boyles lag  som  utsäger att      Boyle's law which says that the
+produkten   mellan  tryck   och      product of pressure and density
+täthet är konstant.                  is a constant entity.
+ 
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.72
+--------------------------------------------------------------------- 
+ 
+ 
+
+    p= po.q/qo  ;    q= p.qo/po
+
+    q=m/v       ;    qo= mo/Vo
+
+    dq= q-qo = p.qo/po - qo =
+
+    qo.(p/po - 1 )= qo/po.(p-po) =
+
+    qo/po.dp
+
+
+============================================================  3.73A
+
+     dq= qo/po.dp
+
+=================
+
+
+    dq= m/v - mo/Vo =
+
+    (mo/Vo).(V-Vo)/V =
+
+    qo.dV/V
+
+============================================================== 3.73B
+
+     dq= qo.dV/V
+
+=================
+
+
+Vi   kombinerar    ekvationerna      We  combine the equations 3.73A
+3.73A  samt 3.73B , vilket ger:      and 3.73B, giving:
+
+     qo/po.dp = qo.dV/V
+
+     po= dp.V/dV
+
+
+============================================================== 3.73D
+
+     Em= po= dp.V/dV : E/dp = V/dV
+
+====================================
+
+
+'Em'   betecknar  här   mediets     'Em' here denotes the 'elastici-
+'elasticitetsmodul',ett begrepp     ty module' of the medium, a con-
+ 
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.73
+--------------------------------------------------------------------- 
+
+ 
+som är en karaktäristiskt egen-     cept  constituting  a  characte-
+skap hos mediet  och som påver-     ristic  property of  the  medium,
+kar hastighet varmed energin  i     determining    the  velocity  by
+mediet transporteras.               which it is transported.
+
+
+
+
+OM KŽLLAN ŽR EN PARTIKELKŽLLA        IF THE  SOURCE  IS  A  PARTICLE
+-----------------------------        -------------------------------
+                                     SOURCE
+                                     ------
+
+Om  källan är en  partikelkälla      If  the  source  is a  particle
+erhålles  trycket   över en yta      source,  the  pressure  over  a
+per  ytenhet  från  vår  formel      surface  per  unit area is  got
+1.41B till :                         from  formula 1.41B to:
+
+
+         2                 2
+po= qo.vo      ;    p= q.v
+
+
+och  partikeltätheten  inom  en      and the  particle  density in a
+given volymsenhet, V, lika med :     given volume unit, V ,is  equal
+                                     to :
+
+
+q= m/V         ;    qo= mo/Vo
+
+
+Ur  dessa samband  erhåller  vi      From  these  relationships   is
+följande:                            achieved;
+
+
+p/po= q/qo     ;    p= po + dp  q= qo + dq
+
+
+po + dp    qo + dq                dp         dq
+------- = ---------      ;    1 + --- = 1 + ----
+   po         qo                  po          qo
+
+
+============================================================== 3.74A
+
+                  qo        dV
+     Ep= po= dp. ---- = dp.----
+                  dq        Vo
+
+=================================
+ 
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.74
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+vilket  sålunda  är  "elastici-      hence being the elasticity  mo-
+tetsmodulen"  för   ett  medium      dule for a  medium constituting
+bestående  av  en  longitudiell      a longotudinal energy transport
+transport av partiklar.              by moving particles.
+
+
+
+Den allmänna vågekvationen           The  general wave equation
+--------------------------           --------------------------
+Steg 4                               Step 4
+------                               ------
+
+I syfte att få fram  en vektor-      In aim of constructing a vector
+formel  som  beskriver  energi-      formula for  the energy  trans-
+ransporten   från   källpunkten      port from the  source  point we
+använder  vi oss av en  del  av      make  use of some  of  received
+erhållna resultat ovan.              results above.
+
+En  fluktuation i den  propage-      A  fluctuation in  the propaga-
+rande   energitransporten   kan      ting  energy transport  can  be
+tecknas:                             expressed:
+
+
+
+    dq= q-qo = m/V - mo/Vo =
+
+    (mo/Vo).(m/V.Vo/mo-1) =
+
+    qo.(Vo/V-1) = qo.((Vo-V)/V)=
+
+    qo.dV/V
+
+
+=============================================================  3.75A
+
+     dq= qo.dV/V   ; dV/V = dq/qo   : V/dV = qo/dq
+
+===================================================
+
+
+
+Genom att   utnyttja   resultat      By using results from the equa-
+från  ekvationen 3.73D erhåller      tions 3.73D we get:
+vi:
+
+
+     dq/qo = dp/E
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.75
+--------------------------------------------------------------------- 
+ 
+ 
+     dq=(qo/E).dp
+
+     d/ds(q)= (qo/E).(d/ds)dp
+
+     d/ds(q)= (qo/E).(d/ds)p
+
+     V(q)= (qo/E).V(p)
+
+============================================================== 3.76A
+
+     V(p)= (E/qo).V(q)
+
+======================
+
+
+
+Vi  kombinerar  detta  resultat      We  combine  this  result  with
+med   resultat  från   ekvation      result from the  equation 3.72B
+3.72B vilket ger:                    which gives:
+
+
+
+     o/ot(q.v) = (E/qo).V(q)
+
+     v= ds/dt
+
+     o/ot(q.ds/dt)= (E/qo).V(q)
+
+     d/ds(o/ot.q.ds/dt)  =  d/ds(E/qo.V(q))
+
+      2   2             2
+     o /ot(q) = (E/qo).V (q)
+
+
+============================================================  3.76C
+
+              2    2      2
+     (qo/E).(o q/ot ) - V (q)= 0
+
+=================================
+
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.76
+--------------------------------------------------------------------- 
+
+
+ELASTRICITETSMODULEN  I VÅG-         THE  ELASTICITY  MODULE IN  THE
+----------------------------         -------------------------------
+FALLET                               WAVE CASE
+-------                              ---------
+
+     dF.dt= m.v
+ 
+     dF.dt= (m/dV).dV.v
+
+     dF.dt= qo.dV.v
+
+     dF.dt/V = qo.(dV/V).v
+
+     dF.dt/(A.ds) = qo.(dV/V).v
+
+                        2
+     dF/A = qo.(dV/V).v
+
+                    2
+     dp= qo.(dV/V).v
+
+                   2
+     dp.V/dV = qo.v
+
+Av resultat från ekvation 3.73D      From results from 3.73D  we now
+erhåller vi nu:                      achieve:
+
+
+============================================================== 3.77A
+
+            2                2
+     E= qo.v     ;  qo = E/v
+
+===============================
+
+
+
+ELASTICITETSMODULEN I PARTIKEL-      THE  ELASTICITY MODULE  IN  THE
+------------------------------       -------------------------------
+FALLET                               PARTICLE CASE
+------                               -------------
+
+Från ekvation 1.41B erhåller vi      From the equation  1.41B we get
+för partikelfallet E=po. sålun-      in the particle case when E=po,
+da:                                  hence:
+
+
+=============================================================  3.77B
+
+            2
+     E= q.v
+         o
+
+==================
+
+
+varvid  vi sålunda finner,  att      where we find that the E-module
+elasticitetsmodulen   även  har      even  has its  equivalence  for
+sin  motsvarighet för partikel-      particle sources.
+källor.
+
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.77
+--------------------------------------------------------------------- 
+ 
+ 
+E-moludel är  representerad  av      is  represented  by  the   same
+samma   matematiska  uttryck  i      mathematical expression in both
+båda fallen.                         cases.
+
+
+
+
+SAMMANFATTNING                       CONCLUSION
+--------------                       ----------
+Genom att   kombinera  resultat      By   combining  results    from
+från 3.76C, 3.77A  håller vi nu      3.76C, 3.77A  we achieve an end
+ett slutresultat  som utgör den      result  which is  the  searched
+sökta ekvationen:                    equation:
+
+
+
+=============================================================  3.78A
+
+ 2          2    2    2
+V (q) = (1/v ).(o t/ot ) q
+
+=============================
+
+Vi sammanställer denna ekvation      We  put together this  equation
+med  resultat från vår elektro-      with result  from  our electro-
+magnetiska teori sålunda:            magnetic theory, giving:
+
+
+============================================================== 3.78B
+
+      2       2    2    2
+     V Y = 1/v .( o t/ot )Y        Den allmänna vågekvationen
+                                   The general wave equation
+      2       2    2    2
+     V E = 1/c .( o t/ot )E        Utbredning av elektriska fält
+                                   Distribition of electric fields
+      2       2    2    2
+     V B = 1/c .( o t/ot )B        Utbredning av magnetiska fält
+                                   Distribution of magnetic fields
+===============================
+
+
+Det finns  en symmetri i  dessa      There are  symmetry  properties
+ekvationer  och som ledde  Max-      in these equations,  which lead
+well  till den  föreställningen      Maxwell to the idea  that light
+att ljuset var en elektromagne-      was an electromagnetical aether
+tisk  etervåg.  Men eftersom en      wave.  But because  a  particle
+partikelkälla ger samma matema-      source  give rise  to the  same
+tiska spridningsekvationer, var      spreading  equations,  that was
+detta ett vilseledande resultat.     an erroneous result.
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.78
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+
+
+                         ------------
+
+
+
+
+LJUS OCH ELEKTROMAGNETISKA           LIGHT AND ELECTRO MAGNETIC
+--------------------------           --------------------------
+VÅGOR                                WAVES
+-----                                ------
+
+Vi har  nu  härlett  några   av      We have  now  derived  some  of
+Maxwells mest kända  ekvationer      Maxwell's most famous equations
+genom att tillämpa vektoropera-      by applying  vector  operations
+tioner på några av de grundläg-      on some of the results achieved
+gande  samband som  vi erhållit      from  our own  physical theory.
+från vår egen teori. Matematis-      Mathematical   operations   can
+ka manipulationer kan förtydli-      make  relationships  more clear
+ga  samband, dock  inte  i  sig      and  obvious but do not in  it-
+tillföra  något  som inte redan      self supply anything  which not
+fanns med i de grundkomponenter      was present from the beginning.
+som ingår i teorin. Det är ann-      It is a common  miss-conception
+ars en vanlig  felföreställning      that  mathematics supply infor-
+att matematik  kan tillföra nya      mation which not was present in
+element som  inte  redan  fanns      the basic concepts.  But so  is
+med i grundkoncepten.Så är dock      not the case.  Mathematics only
+inte   fallet.  Matematiken  är      is  a more comfortable and con-
+enbart  ett  mera  koncentrerat      centrated way of expressing and
+sätt   att  beskriva  en  tanke      describing   complicated   rela-
+eller en ide' och tillför inget      tions  which would be nearly im-
+som ej  redan  från  början var      possible to express clearly  by
+närvarande.                          worlds.
+
+En  annan del av Maxwells  teo-      An important  part of Maxwell's
+rier  omfattar  ide'er  om  hur      theory  include  ideas  of  how
+elektriska  och magnetiska fält      electric  and  magnetic  fields
+fortplantar  sig   i  fri rymd.      propagate in free space. By ma-
+Genom  att manipulera  ekvatio-      nipulating the  equations 3.25A
+nerna 3.25A samt 3.41C  som be-       and 3.41C, which describe basic
+skriver de  grundläggande  sam-      relations between  electric and
+ban den  mellan  elektriska och      magnetic   fields,  he  showed,
+magnetiska fält, kunde  han vi-      that these  fields  were spread
+sa att dessa fält  sprider  sig      in the the same way as waves in
+i omgivningen på samma sätt som      a medium, for instance sound in
+vågor i medier, exempelvis ljud      air.  However, his  conclusions
+i luft. Hans slutsats var också      was, that these "electro magne-
+den, att dessa  vågor, elektro-      tic  waves", were  fluctuations
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.79
+--------------------------------------------------------------------- 
+ 
+ 
+magnetiska  vågor, var fluktua-      in a  mechanic  aether, a hypo-
+tioner i en mekanisk  eter, ett      thetic  medium  through   which
+hypotetiskt  medium   varigenom      these waves were transmitted.He
+energin i dessa vågor förmedla-      arrived  to these  insights  by
+des.   Detta kom han fram  till      manipulating  results  from his
+genom att jämföra  de manipule-      electromagnetic  theory  and by
+rade    resultaten  från   hans      comparing the  result  with the
+elektromagnetiska teori med den      common  wave equation,  descri-
+allmänna    vågekvationen   för      bing how waves in common medium
+medier.                              are spread and propagating.
+
+Vi  skall  här i  korthet  visa      We shall here briefly  show the
+förfaringssättet  vid dessa ma-      way  how  to  by   mathematical
+tematiska  manipulationer.  Ut-      manipulations get these results.
+gångsformlerna  är 3.58A/f samt      Our  formulae are  3.58A/f  and
+3.58A/g  vilka vi  härlett från      3.58A/g, which we  earlier have
+vår egen teori, sålunda:             derived  from  or  own  theory,
+                                     hence ;
+
+
+   !/ x E = dB/dt
+
+   __   _      2      _
+   !/ x B = 1/c .d/dt.E
+
+   __  __   _       __ 2_   __ __ _     __2_
+   !/x(!/ x E ) = - !/  E + !/(!/.E) = -!/ E
+
+   __ _
+ ( !/ E is equal to zero for a non accelerated point source,
+   see equation 3.58A/d ).
+
+ __    __   _     __  _             __   _
+ !/ x (!/ x E ) = !/(dB/dt) = d/dt (!/ x B) =
+
+         2              2  2  2 _
+ d/dt(1/c .d/dt.E) = 1/c .d/dt .E
+
+
+     __2_      2  2  2_
+    -!/ E = 1/c .d/dt E
+
+==========================
+
+Vi utför en  liknande manipula-      We perform  a similar manipula-
+tion med  start från det magne-      tion  with  start from  the, B,
+tiska fältet, B :                    field :
+
+   __   _    _
+   !/ x E = dB/dt
+ 
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.80
+--------------------------------------------------------------------- 
+ 
+ 
+
+   __   _      2      _
+   !/ x B = 1/c .d/dt.E
+
+   __    __   _       __2_   __ __ _      __2 _
+   !/ x (!/ x B ) = - !/ B + !/(!/ B) = - !/ .B
+
+ __                                   __ _
+(!/B är lika  med  noll för  en      (!/ B  is equal  to zero  for a
+icke  accelererande punkt källa      non  accelerated  point  formed
+på samma sätt som för det elek-      source in the  same way  as for
+triska  fältet, E  (se ekvation      the electrical field, E , se ek-
+3.58A/e).                            vation 3.58A/e).
+
+
+__  __   _     __    2      _
+!/x(!/ x B ) = !/(1/c .d/dt E ) =
+
+   2      __   _        2  2   2 _
+1/c .d/dt(!/ x E ) = 1/c .d /dt .B
+
+----------------------------
+     __ 2_      2  2   2 _
+    -!/  B = 1/c .d /dt .B
+----------------------------
+
+Dessa resultat var jämförda med      These   results  were  compared
+resultat från den allmänna våg-      with the general wave equation,
+ekvationen  såsom  härledd ovan      describing  the  way  by  which
+och som  beskriver hur fält ut-      fields are  propagated into the
+breder sig i rymd eller i media.     free space och media.
+
+
+    __2_      2  2   2 _
+    !/ Y = 1/v .d /dt .Y
+
+
+och där vi med  lätthet  kan se      where  we easily  can  see that
+att denna matematiska  struktu-      the  mathematical  structure is
+ren är densamma.                     the same.
+
+Det  dessa ekvationer beskriver      What these  equations describes
+är hur fältet  fördelas omkring      is how the field is distributed
+en  källpunkt som  funktion  av      round a source point, giving no
+tiden, och ger  inte mycket in-      much    information  of  nature
+formation  om  elektromagnetis-      of  electromagnetism. The equa-
+mens verkliga natur. Och därut-      tions are  true both for a wave
+över,  viktigt att påpeka, gäl-      source   and  particle  source,
+ler  ekvationerna  lika bra för      hence do  not support  light or
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.81
+--------------------------------------------------------------------- 
+ 
+ 
+en  partikelkälla  som  för  en      electromagnetism  as  a  aether
+vågkälla.                            phenomenon specificely.
+
+Eftersom ljus alstras av sväng-      Because  light is generated  by
+ande laddade  partiklar i mate-      oscillating  charged  particles
+rien  postulerade  Maxwell  att      in  matter, Maxwell  postulated
+även ljus var ett elektromagne-      that even light was an electro-
+tiskt fenomen,   sålunda  vågor      magnetic  phenomenon, hence wa-
+fortplantade  genom en mekanisk      ves propagating in a mechanical
+eter.  Vid  tolkning av matema-      aether. However, when interpre-
+tiska resultat  måste man emel-      ting  mathematical  results one
+lertid vara   mycket  försiktig      must be very careful  regarding
+vad  gäller kopplingen till den      the coupling to the real physi-
+verkliga  fysikaliska  världen.      cal world.  Subsequent  experi-
+Senare  experiment visade också      ments have  shown  that Maxwell
+på att Maxwell hade fel på den-      was  wrong on this point.   Why
+na punkt.  Varför och var detta      and where he was wrong we shall
+fel finns  skall  vi  undersöka      be investigate later.
+senare.
+
+
+
+SOME DEFINITION OF USED SYMBOLES
+--------------------------------
+
+q   mass density of a a quasi material vacuum space
+
+qp  mass density of electron or proton
+
+qr  electric mass field density on distance, r, from a
+    source point
+
+c   the velocity of matter inside a point particle, equal
+    to the standard velocity of light as leaving a source
+    pint in rest relative an observer in rest.
+
+C   the effective velocity of the vacuum matter
+    (even used as symbole form electric capacitance)
+
+me  the electron rest mass
+
+Mp  the proton rest mass or the mass of any point like
+    elementary charged particle
+
+Vp  volume of a point particle (electron or proton)
+
+Ap  effective interacting area of a point particle in
+    relation to space
+
+Rp  radius of a point particle
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.82
+--------------------------------------------------------------------- 
+ 
+ 
+
+re  radius of the electron in rest (the classical radius)
+
+tp  mass converting time of a point particle
+
+Ka,v,av, se definitions above
+
+
+Q   electric charge of an arbitrary particle  or a collection
+    of particles
+
+eo  electron unit charge of an electron
+
+N   the number of unit charges in a charged point of charge Q
+_                          _
+n   a unit vector entity = r/r for a point source
+
+W   energy stored in an electric or magnetic field in accord
+    with common theory
+
+W'  energy stored in an electric or magnetic field in accord
+    with our theory
+_
+B   magnetic field strenght in accord with common theory
+_
+B'  magnetic field strenght in accord with our theory
+
+L   the inductance factor of a conductor
+
+L'  the same for our theory
+
+C   the capacitance factor for a capacitor in accord with common
+    theory
+
+C'  the same for our theory
+
+i   electric current in accord with common definition
+
+I   electric current as defined as the number of unit charges
+    passing a cross area per time unit
+
+uo  the permittivity of vacuum constant
+
+uo' the same for our theory
+
+Eo  the permeability of vacuum constant
+
+Eo' the same for our theory
+_
+E   electric field density in common theory
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.83
+--------------------------------------------------------------------- 
+ 
+ 
+_
+E'  the same in our theory
+
+U   electric voltage
+
+U'  electric voltage in accord with our theory
+
+Z   electric impedance in common theory
+
+Z'  the same as in our theory
+
+Zo  zero impedance of vacuum space
+
+Zo' the same in our theory
+
+
+
+
+
+DEN MAGNETISKA KRAFTEN MELLAN        THE  MAGNETIC  FORCE  BETWEEN
+-----------------------------        -----------------------------
+TVÅ STRÖMFÖRANDE LEDARE              TWO CONDUCTORS
+--------------------------           --------------
+
+Om  man  har  två   parallella,      If we have two parallel conduc-
+strömförande  ledare som genom-      tors, through which flow a cur-
+flytes av vardera strömmen, I1,      rent I1 , and I2  respectively,
+och, I2 , uppstår  en ömsesidig      a mutual  force  between  them
+kraft mellan dem.                    arises.
+
+Kraften  står i  relation  till      The force stands in relation to
+ladarnas längd.                      the length of conductors.
+
+Om  man har  två sådana  ledare      If you have these  two  conduc-
+med  vardera  längden 1  meter,      tors with  length  1 metre  and
+placerade på det gemensamma av-      place them on  distance 1 metre
+ståndet 1 meter kan en kraft av      from each other, a force 2.1E-7
+2.1E-7 N/meter  uppmätas. Detta      N/metre will  be measured. This
+mått användes numera som en en-      measurement is  now used in aim
+het för strömstyrkan  1 ampere,      to   determine   the    current
+som  tidigare  definerades  som      strength of  1 ampere,  earlier
+den   ström  vilken  fällde  ut      defined    as   this    current
+0.00111800  gram silver per se-      which extracted 0.00111800 gram
+kund ur en silvernitratlösning.      of silver from a silver nitrate
+                                     solution.
+
+Ett  annat  sätt att  definiera      Another way of defining current
+ström  är det antal enhetsladd-      is  the method of defining  the
+ningar  som  passerar  en tvär-      number electrical  unit charges
+snittsarea av en ledare per se-      passing a cross  area each  se-
+kund, som för en ampere är 6E18.     cond,  which  for 1  ampere  is
+                                     6E18.
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.84
+--------------------------------------------------------------------- 
+ 
+ 
+
+Om  ström  flyter  genom en rak      If  current  flow   through   a
+ledare  kan  B-fältets styrka i      straight conductor, the B-field
+en punkt utanför ledaren beräk-      strenght  outside the conductor
+nas med formeln :                    is calculated by the formula :
+
+
+
+============================================================== 3.85A
+
+        L1
+          /  _
+    uo   I   r     _
+B= ----. I ----- x i.ds          (Biot-Savarts lag för B-fältet)
+   4.Pi  I   3                   (The Biot Savart's law for the
+        /   r                     magnetic field).
+     L2
+
+=============================
+
+
+In this formula :
+
+============================================================== 3.85B
+                     _
+I denna formel är :  r = x.i + y.j + z.k      (z= 0)
+
+                              2  2  2
+                     r= SQRT(x +y +z )        (z=0)
+
+                     _
+                     i = I1.i
+
+                     ds = dx
+
+===============================================================
+
+
+Krossprodukten  av  de två vek-      The cross  product  of the  two
+torerna  bakom  integraltecknet      vectors  behind  the  intergral
+kan då beräknas till:                sign can be calulated to :
+
+
+                i          j           k
+
+                x          y           0       = I.y.k
+                I          0           0
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.85
+--------------------------------------------------------------------- 
+ 
+ 
+vilket ger :                         which gives :
+
+
+============================================================== 3.86A
+                    /
+          uo.I1.y  I     dx           uo.I1.y  I     x          I
+    B = ---------- I -----------   = --------. I -------------- I
+           4.Pi    I    2  2 3/2       4.Pi    I  2   2  2 1/2  I
+                   /  (x +y )                    y  (x +y )
+
+==============================================================
+
+
+Man tänker  sig nu två oändligt      The two conductors are infini-
+långa  ledare  och väljer ut en      nity in length. A medium point
+mittpunkt  från en  av ledarna.      is selected,  then the B-field
+Man integrerar sedan från denna      is integrated  from this point
+mittpunkt  mot  oändligheten  i      to infinity in both directions
+båda riktningarna utmed x-axeln      in line  with the  x-axis,  in
+som i detta fallet  är den rik-      this case in the directions of
+ning  vari  ledaren  utsträcker      the conductors.  Inserting x=0
+sig.  Insättning av x =0 ger 0.      give zero, inserting x=oo give
+Insättning  av x=oo ger 1/y(2).      1/y(2).  And because the inte-
+Och eftersom integrationen sker      gration  is performed  on both
+i  vardera  riktningen om noll-      sides of the medium point, the
+punkten måste  uttrycket vidare      received  expression  shall be
+multipliceras med 2.  Detta ger      multiplied with, 2. That gives
+för , B , i  en  punkt  utanför      for , B ,in an arbitrary point
+ledaren :                            outside the conductor :
+
+
+============================================================== 3.86B
+        2.uo.I1
+    B= ----------
+        4.Pi .y
+==================
+
+Allmänt vet  vi, att kraften på      In  common we  know,  that  the
+en ledare med längden L och som      force   on  a  conductor   with
+genomflytes av strömmstyrkan I2      length , L ,and with the current
+är den kraft som påverkar leda-      flow of , I2 ,is actuated by the
+ren lika med :                       force on the conductor :
+
+============================================================== 3.86C
+    F= B.I2.L
+==============
+
+Vi insätter vårt värde på B och      We insert our value of, B , and
+erhåller sålunda :                   get :
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.86
+--------------------------------------------------------------------- 
+ 
+ 
+
+============================================================== 3.87A
+        2.uo.I1.I2.L
+    F= --------------       och kraften per meter :
+          4.Pi.y            and the force per neter :
+======================
+
+
+
+============================================================== 3.87B
+           2.uo.I1.I2.L       2. I1.I2.L
+    F  = -------------- = ----------------
+              4.Pi.y                    2
+                             4.Pi.y.Eo.c
+=========================================
+
+
+Vi vet att uo= 4.Pi.1E-7. Om vi      We  know  that  uo= 4.PiE-7. If
+sätter I1= 1  ampere  och I2= 1      we insert I1= 1 ampere  and I2=
+ampere  samt  avståndet  mellan      1 ampere, and the  distance be-
+ledarna  y=1  meter,   erhålles      tween the  conductor y=1 meter,
+kraften :                            we get the force :
+
+F/L = 2.1E-7 N/m vilket  är det      F/L = 2.1E-7 N/m, which is this
+det referensmått man numera an-      reference  which today  is used
+vänder som  mått  på  elektrisk      as a measurement refence on  on
+strömstyrka genom en ledare.         a current flow in a conductor.
+
+En del vill hävda, att elektrisk     Someone  assert  that  electric
+strömstyrka  är  en  godtyckligt     current  flow  is an  arbitrary
+vald  fysikalisk  enhet,  liksom     chosed physical unit,as well as
+även definitionen  för elektrisk     the definition  of the electric
+laddning.Men detta är inte sannt.    charge  magnitude. But  that is
+                                     not true.
+
+
+                         ------------------
+
+
+
+
+DEN KRAFT SOM UTVECKLAS I ETT        THE FORCE DEVELOPED IN A MAGNE-
+-----------------------------        -------------------------------
+MAGNETISKT FŽLT                      TIC FIELD
+----------------                     ---------
+
+Vi  antar  att  ett  magnetiskt      We  suppose a magnetical  arma-
+ankare  rör sig i luftgapet  av      move in an  air gap of 2 magne-
+2  magnetiska  poler. Vi stude-      tical  polses.  We make a study
+rar  den magnetiska  energität-      of the magnetical energy densi-
+heten  i  två fall  där ankaret      ty in 2 cases where the armatu-
+har  läget, S1, respektive, S2.      re is situated in position, S1,
+                                     and, S2, respectively.
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.87
+--------------------------------------------------------------------- 
+ 
+ 
+
+I läge 1 är den magnetiska flö-      In the position 1, the magneti-
+destätheten, B1 , i läge 2, B2.      ca field density is, B1, and in
+                                     the position 2, b2.
+
+För läge  1 skriver vi följande      In position 1,the energy densi-
+samband för energidensiteten :       sity is written ;
+
+
+
+============================================================== 3.89A
+                       E1            2
+                      ---- = 1/2 . B1 /uo
+                       V1
+===========================================
+
+och i det andra läget :              and in the atoher psotion :
+
+
+============================================================== 3.89B
+                       E2           2
+                      ---- = 1/2 .B2 /uo
+                       V2
+========================================
+
+
+Den energi som tillföres det         The energy  supplied the magne-
+magnetiska ankaret under rö-         tical armature then is calcula-
+relsen blir :                        ted to :
+
+
+============================================================== 3.89C
+                            1      2         2
+             dE = E1-E2 = ----- (B1 . V1 - B2 .V2 )
+                           2.uo
+====================================================
+
+
+Vi  antar att  den   magnetiska      We  asume the  magnetical field
+flödesstyrkan  är  ungefär kon-      strength  is approximately  the
+stant under rörelsen:                same in case 1 and 2 :
+
+
+============================================================== 3.89D
+                      1     2
+               dE = ----- .B .dV
+                     2.uo
+==================================
+ 
+
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.88
+--------------------------------------------------------------------- 
+ 
+
+
+============================================================== 3.90A
+               dV = A .ds  ; dE = F.ds
+========================================
+
+
+vilket ger:                          which gives :
+
+
+                        1    2
+               F.ds = -----.B .A.ds
+                      2.uo
+
+
+=============================================================  3.90B
+                        2
+                      B .A         the magnetic force on an
+                F = --------       armature in a magnetical
+                      2.uo         air gap
+
+===============================================================
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1008, ISBN 91-973340-0-6, O.Tedenstig/Sweden    3.89
+--------------------------------------------------------------------- 
+ 
+ 

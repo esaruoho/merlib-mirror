@@ -1,0 +1,816 @@
+---
+title: "ElectroMagnetic Properties of matter 1 of 2 941007"
+source_domain: newphysics.se
+source_path: teden/Tedenstig/ElectroMagnetic Properties of matter 1 of 2 941007.html
+order: 167
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-12T20:40:30Z
+extractor: site_to_paper.py (builtin)
+---
+
+# ElectroMagnetic Properties of matter 1 of 2 941007
+
+*Source page: `teden/Tedenstig/ElectroMagnetic Properties of matter 1 of 2 941007.html`*
+
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII
+Content-Transfer-Encoding: 7BIT
+
+********************************************************
+* ElectroMagnetic Properties of matter derived from a  *
+* new model of interaction between mattern and vacuum  *
+* space.                                               *
+********************************************************
+
+(Updated 7/10 1994)
+
+---------------------------
+By Ove Tedenstig
+Idungatan 37, 19551 Maersta
+Sweden
+---------------------------
+
+PART 1(2)
+
+ABSTRACT
+Electromagnetic theory as developed by many great scientists
+during more than two centuries has been very successful
+in describing electromagnetic phenomena in nature. But
+many problems remain unsolved. Source and origin of electro-
+magnetism and its true basic nature are still not fully
+understood.
+
+It is here presented a new theoretical and mathematical
+model, which applied on these problems will offer a new
+and different understanding. As base for this model, Newton's
+second law of force is used, combined with new basic
+assumptions of properties of elementary particles and the
+vacuum space. As result new basic insights of electro-
+magnetic mechanisms are received together with known results
+from common electromagnetic theory.
+
+                    --------------
+
+Vacuum, or "empty space" is a common concept used when
+trying to describe a void in lack of matter. However, since
+Maxwell's days, this vacuum space has been allotted physical
+properites by associating physical constants to it, indicating
+that his vacuum may have properties which can be expressed
+in physical meaningful terms like for instance mass and energy.
+Two such constants are Eo, the permittivity of vacuum constant,
+and uo, the permeablility of vacuum constant, associated with
+the electrical and magnetical properties of the electromagnetic
+field respectively.
+
+When an electric voltage is connected to two metal platens, not
+being in galvanic contact with each other, a dispacement current
+seems to flow through the "empty void" situated between the two
+platens. A corresponding electric current of electrons then
+flow through the wires connecting the two platens via the
+supplier source (the battery).
+
+The question we may ask is wether this void between the two
+platens is empty or if there is something hidden there which
+mediate the current ?
+
+In any case it seems hard to explain this phenomenon without
+doing the assumption that something really is hidden in the
+space between the two platens.
+
+When the voltage over the two platens has grown up (the
+capacitor has been charged), it has stored electric energy which
+later on can be supplied to an outer user. Then the interesting
+question is, where is the seat of this energy ?
+
+A similar problem arises when letting an electric current flow
+through a metallic wire (a conductor). A magnetic field is
+created around the conductor, giving rise to magnetic forces on
+a magnet or another conductor in the vicinity. Even here energy
+is stored and the question may be repeated, where is the seat
+of this energy ?
+
+In the magnetic case one suggestion may be that the energy is
+stored in kinetic energy of the moving electrons in the
+conductor. However, a rough estimation shows that it not can
+be true, this energy is too small. And in the capacitor case,
+there is hard to motivate energy stored by moving electrons.
+
+Therefore, the answer of the question must be something else.
+In a careful study, we will here come to the conclusion that
+vacuum itself is responsible of this energy storing and that
+the principles for it has much in common to how energy is
+stored in a flowing medium, water or air for instance. That
+will lead us to a hydromechanical model of electromagnetism, a
+model which we here will discuss and which we shall investigate
+more carefully.
+
+                      ----------------
+
+Energy is by common definition dependent of two main variables,
+mass and movement. Transmitting this definition to space and
+electromagnetic fields means, that space itself has capabilities
+of storing mass and energy. We can imagine that property of
+space as a field of an invisible and untouchable fluidum, respon-
+sible for this energy storing.
+
+However, it must here carefully be accentuated that these
+hypothetical properties of space has nothing to do with the
+"old aether concept", used solely as a carrier of light in accord
+with old light wave theories. The medium here postulated is
+shown to be a very stiff and a very dense field medium.
+
+The field may be seen as a pre-stage of what we normally
+define as matter. Material particles then is parts of
+this field being fluctuations like condensed cores or
+drops in a cloud of rain. Particles interact with this
+field by exchanging energy and matter with it continously.
+This interacting process then is the electromagnetic
+field.
+
+As a consequence of these ideas, elementary particles,
+as for instance electrons, are built up by stuff of this
+field but having a different and more ordered structure.
+This "order in chaos" then make it possible for us to
+understand electromagnetism.
+
+                    ---------------
+
+BASIC RULES OF INTERACTION BETWEEN PARTICLE AND VACUUM
+SPACE.
+
+*) The amount of mass which streams in to a
+   particle from the field is the same amount of
+   mass which streams out from it during the same
+   time.
+
+*) Outer impact forces from the field impinging on the
+   limiting surface of the particle is in balance with
+   inherent expansive forces.
+
+*) The energy density or the energy potential is the
+   same in particle and field.
+
+* Density and velocity of the mass streaming in to the
+  particle differ from that mass density and velocity
+  which streams out from it.
+
+           in field        particle          out field
+          ---------->                       ---------->
+          ---------->                       ---------->
+          ---------->                       ---------->
+          ---------->                       ---------->
+          ---------->                       ---------->
+          ---------->                       ---------->
+
+                            Figure 1.
+
+TEXT TO THE FIGURE 1:
+---------------------
+
+Our idea is that electromagnetism is a result of a continuous
+interaction process between particle and space. Internal forces
+of particle and external forces generated by space are in
+balance. Space matter is streaming in to the particle and the
+same amount of matter is streaming out from it during the same
+period of time.
+
+           in field        particle          out field
+          ---------->                       ---------->
+          ---------->                       ---------->
+          ---------->                       ---------->
+          --q,C ---->      qp,c             ---qe,c--->
+          ---------->                       ---------->
+          ---------->                       ---------->
+
+                            Figure 2.
+
+TEXT TO FIGURE 2:
+-----------------
+
+Mass from the field of density q and velocity C (Obs not light
+velocity), streams in to the particle and the particle convert
+this mass into another mass field streaming out, having density
+qp and velocity c (light velocity). The product of these quanti-
+ties are the same over time, giving balance in the hydrodynamic
+process. The mass impulse streaming out is equivalanet with the
+electric field strength as defined by common electromagnetic
+theory.
+
+The physical/mathematical base for our model will be
+the common Newtonian mechanical laws and common hydro-
+mechanical laws. It will be of special interest to note
+that Newton's laws are fully applicable even on this
+very basic level of matter.
+
+Of that reason we start repeating these laws in a brief
+resume below.
+
+              -------------------------
+
+Newton's second law of force is knwon by the relation:
+
+1a) ===================================
+   F= d(m.v)dt = (dm/dt).v + m.(dv/dt)
+=======================================
+
+or in words: force is the time derivative of the product
+of mass and velocity (the momentum) of a moving body.
+
+In most cases the mass is a constant entity and then the
+first term may be ignored. The expression 1) then can be
+simplified to :
+
+1b) =============   Newton's second law of force simplified
+    F.dt = m.dv     for the case of mass invariance.
+=================
+
+As a consequence of these laws a set of other well known
+results are established, briefly presented as follows:
+
+1c) ======================   Acceleration force
+    F = m.a
+1d) ----------------------   Acceleration
+         2  2
+    a= d s/dt = dv/dt
+1e) ----------------------   Relation distance/time
+    ds= v.dt
+1f) ----------------------   Non-relativistic energy
+       s                 2
+    E= I (F.ds) = 1/2.m.v
+1g)-----------------------   Force for spinning movements
+           2       2
+    F = m.v/r = m.w.r
+===========================
+
+A relation used in hydromechanics of flowing matter is as
+follows, some simplified with no use of vector notation:
+
+1g) =================  The flow of mass with density q
+    dm = q.dA.dt.v     and velocity v through an area dA
+=====================  during time dt.
+
+Some consequences of that combined with result from 1) gives :
+
+2) =============================
+   m = q.A.t.v                    from 1g)
+
+             2
+   m= q.A.t.v = F.t               from 1b)
+
+                       2
+   F= q.A.v ; F/A = q.v           impact pressure of mass field
+                                  of density q and velocity v.
+================================
+
+That will be the main base to start with. We will now apply
+these laws on electromagnetism and derive most of all important
+relationships known from this part of science, by addition
+of some new results.
+
+                      --------------
+
+To start with, we define an elementary particle (an electron for
+instance) as a closed entity with limiting area, A. The pressure
+on its surface from space is computed by 2) as follows :
+
+3) ===================  q = vacuum field density
+            2           C = vacuum field velocity
+   F/A = q.C            F/A = vacuum field pressure
+======================
+
+This force is acting from outside of the particle actuated by
+the mass inflow from space. But the matter into the particle
+itself move in a "stochastic" way in a similar way as matter in
+a gas, creating an internal counter expanding pressure
+calculated by :
+
+4) ===================   Internal pressure of particle
+            2            with mass density qp and internal
+   F/A = qp. c           velocity c.
+======================
+
+The external pressure and the internal pressure are in balance,
+giving equality between 3) and 4) :
+
+5a) ================ Equality between external and
+      2     2        internal pressure of particle
+   q.C  = qp. c
+
+5b) ---------------- Particle mass density
+   qp  = Mp/Vp       Mp = particle mass
+                     Vp = particle volume
+
+5c) ---------------- Vacuum mass density
+          2          c = velocity of light
+         c .Mp       C = velocity of space
+    q = --2-----     q = vacuum mass density
+         C .Vp
+==================================================
+
+By aid of our formula 1g) for a flowing medium, we calculate
+the mass inflow to the particle to :
+
+6) ================== Mass streaming in from space to particle
+   Min = q.Ap.tp.C    during time tp. Ap is the particle active
+                      interacting area.
+=====================
+
+and the corresponding outflow from the particle during the same
+time :
+
+7) ==================== Mass streaming out from particle
+   Mout = qout.Ap.tp.c  to space during time tp.
+
+=======================
+
+For stability of the particle claims that there is balance
+between in- and outflow, giving equivalence between 6) and
+7) :
+
+8a) ======================== Equality in inflow and outflow
+   q.Ap.tp.C = qout.Ap.tp.c
+
+8b) ------------------------ Density of outflow field mass
+    qout = q.C/c
+============================
+
+and from that we can calaculate the outflow density from the
+particle on distance r from its center point to :
+
+9) ===================================  The outstreaming field
+                  2                2    mass density from particle
+                Rp               Rp     on distance r from its
+   qr = qout. ---2-- = q.(C/c).---2--   center point
+                r                r
+
+======================================
+
+For an electron or similar particle, the mass of this particle
+is completely converted to space during one turn of its spin
+movement, giving:
+
+10a) ================  The electron mass is completely
+     me = q.Ae.te.C    converted by interaction with space
+10b) ----------------  during the electron's converting
+            me         time, te.
+     q= -----------
+         Ae.te.C
+=====================
+
+Equality between 5) and 10) then gives :
+
+11a)========================  equality between 5),10)
+                  2
+       me        c .Mp
+     -------- = --2------
+     Ae.te.C     C .Vp
+
+11b)------------------------  solving out the space velocity
+          2                   from 11a)
+         c.Mp.Ae.te
+    C = -------------
+            me.Vp
+============================
+
+where C is the effective velocity of field entities of space.
+Instering this result in formula 11), we can solve out the
+vacuum space density to :
+
+12)==================================== solving out the vacuum
+                              2         mass density as function
+          me.me.Vp          me .Vp      of particle parameters
+    q= -------2-------- = ---2--2-2---
+       Ae.te.c.Mp.Ae.te    Ae.te.c.Mp
+
+=======================================
+
+In aim to simlify and making our idea more clear and obvious, we
+define a set of relations between particle properties, such as
+interacting area, volume, radius and mass converting time for each
+specific particle form. The assumption is that a charged particle
+has torus form and that the effective interacting area is the
+integrating part of the torus in- or outflow side.
+
+13a) =========================== Effective interacting area
+               2
+     Ap = Ka.Rp
+13b)---------------------------- Particle volume
+               3
+     Vp = Kv.Rp
+13c)---------------------------- Particle converting time
+     tp = Kt.Rp/vp               vp is spin velocity
+
+13d)---------------------------- Relationship between Ka/Kv
+     Kav = Ka/Kv
+
+13e)---------------------------  Paramters of electron
+              2                  (special case)
+    Ae = Ka.re  ;
+              3
+    Ve = Kv.re  ;
+
+    te = Kt.re/c ;
+
+    Kav = Ka/Kv
+13f)-----------------------------------
+               2                                   2
+    Ka = (2.re) = 4.Pi                   A = (2.re).Pi
+
+    Kt = 2.Pi                            t = 2.Pi.re/c
+
+                         2                        2
+    Kv = (pi).2.Pi = 2.Pi                V =(Pi.re ).(2.Pi.re)
+=======================================
+
+Using these definitions, the expression in 12) can be simplified
+to :
+
+14a)=====================  Velocity of free space entities
+                           of the vacuum field
+     C = Kt.Kav.c
+
+14b)------------------------------------- The pseudo mass
+             me                me.Kv      density of vacuum
+     q = ------2------3- =  ---2--2--3-   space
+          Ka.Kt.Kav.re       Ka.Kt.re
+=========================================
+
+and the formula 9) rewritten to :
+
+15)==========================  The outfiled mass density from
+                     2         N particles on distance r from
+                    Rp         its center point.
+   qr = q.Kt.Kav. ----2-.N
+                     r
+=============================
+
+We will later see that the quantity qr multiplied with the
+particle outflow velocity, vp, is equivalent with the electric
+                                 _
+field strength (commonly denoted E) outside the charged
+particle.
+
+                       -------------
+
+DERIVING THE COLOUMB'S LAW OF ELECTRIC FORCE
+
+          o  o        ---->         o   o
+       o         o    
+<
+----      o          o
+      o      R1   o   ---->     o        R2  o
+       o         o    
+<
+----      o          o
+          o  o         ---->         o  o
+
+                   FIGURE 3
+
+Coulomb's law of electric force is the most well known law of
+electromagnetism, a law mostly derivied on pure emperical
+basis. We will here show that this force is an effect of the
+in- and outflow as described by formulae 6),7) and the internal
+spin of the particle.
+
+Studying two points, N1 och N2, containing electrons, protons
+(or similar particles of point nature), in each point and having
+radii R1 and R2 and spin velocity v1,v2 respectively.
+
+Using 2),8),7),9),15) then gives :
+
+16a) =============================  The outfiled mass density
+                       2            from particles on distance r.
+                     Rp
+     qr = q.Kt.Kav. --2-- .N1
+                     r
+16b)------------------------------  The output mass from the
+     min = qr.A2.t2.c =             source particle interacting
+                                    with another particle on
+             2                      distance r.
+     qr.Ka.R2.Kt.(R2/v2).c =
+
+                 2 2          2
+     q.Kt.Kav.(R1/r ).N1.Ka.R2.Kt.(R2/v2).c =
+
+         2         2  3       2
+     q.Kt.Ka.Kav.R1.R2.c.N1/(r.v2)
+=============================================
+
+where, min , is that mass which is captured by the second
+particle from the first particle's mass outflow. Each mass
+particle of the outflowing field is a carrier of mass and spin,
+where the spin velocity is the same as from the mother
+particle. This mass impulse (momentum) is captured by the
+receiving particle and converted to the inherent velocity "c"
+(the particle's inherent velocity), giving the converting
+relation :
+
+17)=================== The input momentum is absorbed and
+   min.v1 = mabs.c     converted by the particle
+
+======================
+
+Using Newton's formula for rotating movement, the absorbed
+mass give rise to a counter reaction force on the second
+particle. This force is primarily calculated, using Newton's
+force formula for cirkular movements (spin 1g), giving :
+
+18)=========================================================
+              2
+   _   mabs.v2 _
+   F = -------.n.N2      =
+         R2
+
+       2         2  2           2
+   q.Kt.Ka.Kav.R1.R2.c.(v1/c).v2  _
+   -----------2------------------.n.N1.N2 =
+             r.v2.R2
+
+                         2                              2
+q.(Kt.2.Ka.sqrt(Pi/Kv).R1.v1.N1).(Kt.2.Ka.sqrt(Pi/Kv).R2.v2.N1)   _  3
+---------------------------------------------------------------.  r/r
+                        4.Pi
+
+=============================================================
+
+>From this expression we can identify the following quantities
+as defined by common electromagnetic theory :
+
+19a)==================================== The "charge" of particle 1
+                               2         using common definitions
+    Q1 = 2.Kt.Ka.sqrt(Pi/Kv).R1.v1.N1
+19b)------------------------------------ The "charge" of particle 2
+                               2         using common definitions
+    Q2 = 2.Kt.Ka.aqrt(Pi/Kv).R2.v2.N2
+19c)------------------------------------ The electron unit charge
+                              2          using common definitions
+    eo= 2.Kt.Ka.sqrt(Pi/Kv).re.c
+19d)-----------------------------------  Assumed equality for all
+      2       2       2                  true point charged particles
+    R1.v1 = R2.v2 = re.c
+19e)-----------------------------------  Spin velocity for all true
+              2  2                       point charged particles
+    vp = c.(re/Rp)
+19f)-----------------------------------  Mass density of vacuum is
+                                         the inverse value of the
+    q = 1/Eo                             "dielectricity of vacuum
+                                         constant Eo ".
+
+19g)-----------------------------------  For exactness compared with
+                                2        common theory
+    2.Kt.Ka.sqrt(pi/Kv) = eo/(re.c)
+
+19h)----------------------------------   For exactness compared with
+                                         common theory
+       2  2  3
+     Ka.Kt.re
+     -------- = Eo
+      me.Kv
+
+=========================================
+
+where Q1 and Q2 are the charge quantities of each point
+of an electric charged particle and, eo , is the charge
+quantity of a singular charge, an electron for instance,
+as defined by common theory. The inverse or reciprocal
+value of, q, is identified as the dielectricity constant
+of vacuum, Eo , hence being defined as a mass density,
+reciprocal. By these definitions then we can formulate
+Coulomb's law in its more common form :
+
+20)==============================
+   _     Q1 . Q2   _  3
+   F = ----------. r/r
+         4.Pi. Eo
+=================================
+
+THE ELECTRIC FIELD STRENGTH AROUND A CHARGED PARTICLE
+
+Electric field strenght is commonly defined as the electric
+force per unit charge, hence by calculated the relation F/Q.
+Using results from 19) and 20) then we get the following
+results :
+
+21)======================================== Electric field
+   _                                        strength in accord
+   E = Fq/Q  =                              with common theory
+
+   Q . Q     _  3      Q     _  3
+   ---------.r/r  = --------.r/r  =
+   4.Pi.Eo.Q        4.Pi.Eo
+
+                            2
+    q.2.Kt.Ka.sqrt(Pi/Kv).re.c   _  3
+   -----------------------------.r/r  =
+           4.Pi
+
+===========================================
+
+But from our theory, electric field strength is defined
+as the mass impulse density (momentum density) streaming
+out from the particle. That quantity is defined by the product
+of qr in 16) and the spin velocity of the outflow field as
+defined in 19e), giving :
+
+22a)================================= Electric field strength
+   _ '      _                         in accord with this
+   E = qr. vp  =                      theory
+
+                 2
+               Rp         _
+   q.Kt.Kav. ---2--. N1 . vp  =
+               r
+
+                2
+              Rp               2  2    _
+   q.Kt.Kav. ---2-- .N1 . c.(re/Rp ) . n   =
+               r
+
+                 2   _  3
+   q.Kt.Kav.N1.re.c. r/r
+
+22b)------------------------------------ Relationsship between
+                                         electric field strenght
+                                         results from common
+                                         theory and this theory
+    
+                                          2
+                  q.2.Kt.Ka.sqrt(Pi/Kv).re.c   _  3
+                ------------------------------.r/r  =
+                              4.Pi
+    E/E' = ------------------------------------------- =
+                                   2   _  3
+                     q.Kt.Kav.N1.re.c. r/r
+
+    E/E' = (1/2).sqrt(Kv/pi)
+
+============================================================
+
+                     ----------
+
+                                        _
+DERIVING ONE OF MAXWELL'S EQUATIONS DIV(E) = 0
+
+For later use when deriving Maxwell's equations of the
+electric field, we will derive one of his famous equation of
+the electric field. Starting from 21) gives :
+
+                                                    _
+23a)=========================================== div(E) for
+    _      _  3                           2     a point charge
+    E = K. r/r    where K = q.Kt.Kav.N1.re.c  
+
+       _            _  3                   2  2  2
+   div(E) =K . div( r/r )   where r= SQRT(x +y +z )
+
+        xi + yj +zk
+   div ----------------  =
+           2  2  2 3/2
+        ( x +y +z )
+
+              2  2  2 1/2    2     2  2  2 3/2
+       3/2.(x +y +z )  . 2.x  - (x +y +z )    +
+
+             2  2  2 1/2    2     2  2  2 3/2
+       3/2.(x +y +z )  . 2.y  - (x +y +z )    +
+
+             2  2  2 1/2    2     2  2  2 3/2
+       3/2.(x +y +z )  . 2.z  - (x +y +z )
+    --------------------------------------------  = 0
+                   2  2  2 3
+                 (x +y +z )
+
+23b)============ for the field strength
+        _        around a point charge
+    div(E) = 0
+================
+
+                 -----------------------
+
+CALCULATING THE STORED ENERGY IN A PLANE ELECTRIC CAPACITOR
+
+                          ______________________
+                          !                    !
+                  area A  !                    !  -
+                  ========!========           ----  +
+                  volume = A.D              --------
+                  ========!========            !
+                          !                    !
+                          !____________________!
+
+                        FIGURE 4
+
+For demonstration we will here apply our ideas of electromagnetism
+on an electric plane capacitor. For simplicity, we choose a
+capacitor with plane parallel metal platens with each area, A ,
+on distance, D , from each other. We know that this arrangement
+is capable of storing electric energy in the space between the two
+platens, and that the energy stored is in the common field of density
+q as derived by our theory in formula 14).
+
+For making it possible to explain the energy storing of that
+capacitor, we assume that the common field with denstiy, q,
+between the two platens is actuated by the free electrons situated
+on the two platens.
+
+25)================== The volume enclosed in a
+   V = A.D            plane capacitor
+
+=====================
+
+hence, the enclosed mass with density, q, within this volume is
+actuated by :
+
+26)================== The total field mass enclosed
+   Mq = q.A.D         between the platens in a plane
+                      electric capacitor
+=====================
+
+We assume that this mass is transported with a velocity, vf,
+activated by the free electrons on the two platens, acting as
+small generators holding the flow active. The transport of
+mass over the capacitor area, A , during the converting time
+, te , of the free electrons then is:
+
+27)========================== The inflow of mass to a
+   min = (me.N) = q.A.te.vf   "charged particle"
+
+=============================
+
+This amount of mass is the same as this mass which is converted
+by the free electrons on the same time, hence being eual to the
+electron mass times the number of free electrons. Hence, there
+is equality between 26) and 27). From this equality we solve out
+the field velcocity between the two platens to :
+
+28)=========================== The interposed velocity of
+   vf = me.N/(q.A.t)           the q field enclosed
+                               in the capacitor
+==============================
+
+When calculated this velocity, we find that the field velocity
+is lower than that compared with the velocity of light, c . Of
+that reason we, for the stored energy make use of Newton's
+ordinary energy formula for low velocities (compared with the
+light velocity). Hence, for the stored field energy we get :
+
+29)=========================================
+                 2
+   W' = 1/2.Mq.vf  =
+
+                 2 2  2 2 2
+   1/2.(q.A.D).me.N/(q.A.te)  =
+
+         2 2         2
+   1/2.me.N.D/(q.A.te ) =
+
+          2 2   2  2   3 2
+        me.N.D.Ka.Kt.re.c
+   1/2.--------------------------
+                   2  2
+            me.A.Kt.re.Kv
+
+               2       2    2
+    W' = 1/2.Ka/Kv.me.c.re.N.(D/A)
+==============================================
+
+We convert this expression to a more conventional form by
+using 14),19) :
+
+30a)=======================================================
+                                            2  2  3
+             2       2    2               Ka.Kt.re
+   W'= 1/2.Ka/Kv.me.c.re.N.(D/A).(1/Eo).---------------.
+                                            me.Kv
+
+                              Q1.Q2
+   ------------------------2-----------------------------2-- =
+    (2.Kt.Ka.sqrt(Pi/Kv).re.c.N). (2.Kt.Ka.sqrt(Pi/Kv).re.c.N)
+
+                              2
+           Q1.Q2            Ka
+     1/2. ------.(D/A) . ---------
+            Eo            4.Pi.Kv
+
+                                             Q1.Q2
+>From common electromagnetic theory W = 1/2. -------. (D/A)
+                                               Eo
+
+hence, the relationship between that and our result will be:
+
+30b)================== The relationship between energy in a
+               2       capacitor as calculated from common
+             Ka        theory and as calcualted from our
+    W/W' = --------    new theory
+            4.Pi.Kv
+======================
+
+                                                       2
+We can see, that for exact agreement, the product of Ka/Kv must
+be equal to 4.Pi.
+
+          ----------------------------------
+
+(to be continued)

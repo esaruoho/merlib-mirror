@@ -1,0 +1,690 @@
+---
+title: "FUNDAMENTAL CONSTANTS AND THE LAWS OF THE ATOM 940801"
+source_domain: newphysics.se
+source_path: teden/Tedenstig/FUNDAMENTAL CONSTANTS AND THE LAWS OF THE ATOM 940801.html
+order: 170
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-08-12T20:40:30Z
+extractor: site_to_paper.py (builtin)
+---
+
+# FUNDAMENTAL CONSTANTS AND THE LAWS OF THE ATOM 940801
+
+*Source page: `teden/Tedenstig/FUNDAMENTAL CONSTANTS AND THE LAWS OF THE ATOM 940801.html`*
+
+FUNDAMENTAL CONSTANTS AND THE LAWS OF THE ATOM DERIVED
+FROM NEW HYPOTHETICAL PROPERTIES OF ELEMENTARY PARTICLES
+
+(Updated 1/8-1994)
+
+By: Ove Tedenstig
+    Idungatan 37, 19551 Maersta Sweden
+    Date: 14/9-1993
+
+ABSTRACT: BY PERFORMING A SIMPLE ANALYSIS OF THE HYDROGEN
+          ATOM, BASED ON SOME NEW ASSUMPTIONS ABOUT THE
+          QUANTUM MECHANICAL BEHAVIOUR OF MATTER, IT IS
+          SHOWN THAT THE PROTON, BEING THE NUCLUES
+          OF THE ATOMIC CORE, IS A PARTICLE WITH A
+          DIMENSIONAL EXTENSION OF 30-35 FERMI ( HENCE 10
+          TIMES LARGER THAN SUGGESTED BY CURRENT PHYSICAL
+          THEORIES ), AND HAVING THE SAME DENSITY OF MASS
+          AS THE ELECTRON.
+
+          THE CONCLUSIONS OF THESE INSIGHTS WILL BE THAT
+          THE IDEA OF QUARKS AS BUILDING BLOCKS OF PROTONS
+
+          THE MODEL GIVES ALSO A NEW UNDERSTANDING OF THE
+          QUANTUM MACHANICAL PROCESSES IN MATTER AS WELL AS
+          A FINAL SOLUTION TO THE BOHR'S QUANTUM CONDITION
+          AND THE REASON OF EXISTENCE OF ATOMIC FUNDAMENTAL
+          CONSTANTS ,h, THE PLANCK'S CONSTANT AND ,a, THE
+          ATOMIC FINE STRUCTURE CONSTANT.
+
+SOME HISTORICAL FACTS AND BACKGROUND
+In fundamental physics, two of the most important elementary
+constants are Planck's constant (h) and the atomic fine structure
+constant (a, or a-1 inverse). These two constants have not been
+explained entirely satisfactory, which has created a handicap in
+the efforts to understand nature.
+
+When Bohr for the first time formulated his atomic
+theory, he used a hypothetical relation denoted m.v.D=h/(2.Pi).
+
+But Bohr never succeeded to give any good motivation for it.
+Later on, his theory was replaced with Schr”dinger's
+wave quantum theory, which in a more complete theoretical
+way described phenomena on atomic level, but however, did
+not clairify some very important things, still not given
+any good solution. Since then, much has been deceloped and
+improved in quantum theory, but still some very fundamental
+questions remains unsolved and unanswered.
+
+           ===============================
+THE NEW THEORY:
+
+The base for our investigation is a new model of the atomic
+system, which contains parts of Bohr's original assumption,
+but complemented by some new ideas, The base idea is visualized
+in the figure 1 for the most simple case, their hydrogen atom.
+
+                               D           /   (Radius Rp)
+                  o ----------------------/ proton
+                  electron               /  oscillates 
+                                            in the electric                                    
+                                            field
+
+                 (Figure 1)
+
+In the simplest atom, the hydrogen atom, the core being a
+proton surrounded by a single electron in orbit. Both these
+particles are electrical charged and attract each other
+with the Coulomb force. The orbiting movement create an
+inertial force which balance with the electrical force.
+
+The proton is surrounded by an electric field and having
+an electric dipol momentum which create a torsional force
+on the proton when the proton twist in the electric field,
+being proportional to the deviation angle.
+
+The proton is regarded a swirl of very fundamental matter,
+having a do-nut form (smooke ring form) where the matter
+into the particle moves regurlarly (spin) as well as in
+a stokastik way. The mass density of the proton is the
+same as in the electron.
+
+The vibrations of the proton create a corresponding
+disturbance in the surrounding electric field, which in
+turn will disturbe the movement of the orbiting electron.
+
+MATHEMATICAL ANALYSIS:
+The Coulomb force between the proton and the electron is:
+
+              2
+1)   Fq = K1/D
+
+where "D" is the momentanoues distans between the orbiting
+electron and the proton nucleus.
+K1 is calculated from Coulomb's law by :
+
+            2    __
+2)   K1 = e /(4.//.Eo)
+ 
+The orbiting electron moves with velocity , v. We suppose this
+velocity is small so that the kinetic energy of the electron
+may be computed by Newton's ordinary formlua :
+
+                     2
+3)   Ekin = 1/2.me.v
+
+The electron is situated in a force field and according to
+classical laws that correspond to a potential energy. The
+potential energy can be computed from
+
+4)  Epot = -K1/D
+
+In a system where the energy content is unchanged,
+(hence with no radiation or no absorbing of energy), the sum
+of kinetic and potential energy is constant; hence;
+
+                                 2
+5)  Etot = Ekin + Epot = 1/2.me.v - K1/D
+
+It is well known that the frequency of the emitted radiation from
+an atom (light) cannot be associated directly with the orbital
+frequency of the orbiting electron, but differs from it. The
+reason for that will be described here in terms of some new
+hypotheses involving the properties of those elementary particles
+contained in the system. Two of these hypotheses are as follows:
+
+6)  Electrons, as well as protons, are here regarded as
+    homogeneous particles having constant mass density and they can
+    be idealized as points.
+
+7) The electrostatic Coulomb force acts in a polarizing way on
+   the proton, much in analogy with how a torsional momentum arises
+   on a current wire loop situated in a  magnetic field.
+
+Hypothesis 6) is contrary to the current belief which states that
+the  extension of a particle (or a particle system) is in an
+inverse proportion to its mass or  energy content. However, this
+belief is, in the author's opinion, founded on a  
+misinterpretation emanating from De Broglie's formula 
+           __
+m.v.w=h/(2.//) applied as an universal rule for all particles, or
+particle systems.
+
+The point 6) hypothesis can be formulated in mathematical terms
+as :
+
+                   1/3
+8)   Rp = re.(Mp/me)
+
+where Rp is the rest radius, or extension, of the proton.
+
+In accordance with the point 7) hypothesis a torsional force is
+created on the proton particle and the magnitude of this
+torsional force or momentum will be in proportion to a divergence
+from a neutral angular position. That we can qualify by the
+formula :
+
+9) Ft = (s/Rp).Fq
+
+where s is a small distance movement of the periphery of the
+proton surface; Rp is the proton radius; and Fq is the maximum
+Coulomb force applied on the proton.
+
+When the particle twist around its own mass center in the
+electrostatic field, inertial forces are created in accordance
+with Newton's second law of force, giving
+
+              2    2
+10)  Fm = Mp.d s/dt
+
+The two forces, Ft and Fm, here defined are in balance at each
+moment of time, creating an electro-mechanical oscillator,
+described by the differential equation
+
+     2    2
+11) d s/dt.Mp -(s/Rp).Fq = 0
+
+Substituting 1) in 11) we can reduce this formula to 
+
+     2    2
+12) d s/dt - s.K2 = 0  ;
+
+                    2
+12a) K2= K1/(Mp.Rp.D )
+
+defined for simplicity
+
+We solve this very simple harmonical differential equation and
+get the period of the vibration, tp, of the proton particle
+            __  ______      __
+13)  tp = 2.//./ 1/K2   = 2.//.K3.D ;
+
+          /--------
+13a) K3= /Mp.Rp/K1
+
+tp is here the oscillating time of the proton particle of the
+atomic system, caused by existing electrostatic forces and mass
+inertial forces that are involved in the system. Because the
+proton, as well as the electron, is an electrical charged
+particle, both particles are surrounded by electrical fields. But 
+there is a great difference between these two particles : they
+differ approximately in the ratio 1:2000 in mass, with the result
+that the lighter particle, here the electron, will be much more
+sensitive to disturbances in the surrounding electrical field. 
+
+Hence  the electron will be disturbed in its movement by the
+angular changing field, and as a disturbance will not disappear
+instantly, a resonance effect will arise between the electron's
+orbital time and the proton's oscillating time. We introduce, in
+a similar way to Bohr, a quantum number, n , constituting an
+integer ratio between these two time periods, giving 
+
+14)  tp.n = torb
+            __
+15) torb= 2.//.D/v
+
+Here, for simplicity, it is supposed that the electron orbit is a
+circle or that D and v represent mean values for distance and
+velocity. We combine 13), 14) and 15) and solve for the orbital
+velocity of the equation as :
+
+16)   v = 1/(n.K3)
+
+Furthermore, we have a balance situation between the orbital
+centrifugal force, an inertial force, and the electrical Coulomb
+centrifugal force, giving :
+
+          2        2
+17)   me.v/D = K1/D
+
+In combination with 16) we solve for the value , D , as
+
+                   2    2
+18)   D = (K1/me).n.(K3)
+
+Now we can compute the total energy stored in the system, using
+
+5),16) and 18)
+                          2
+19)   Etot = 1/2.me/(n.K3)
+
+We make a study of this energy in two different cases, when n=n1
+and when n=n2 respectively, corresponding with the total energy
+in the system of E1 and E2.
+
+When the orbital particle (the electron) jumps between these two
+states of energy, the energy difference E1-E2 is emitted in the
+form of radiation (light) or absorbed by radiation from the
+environment. We find this energy difference to be
+
+                              2        2      2
+20)   dE= E1-E2 = 1/2.me.(1/K3).(.(1/n1 - 1/n2 ) =
+
+                      2
+          1/2.me.(1/K3).f(n)  ;
+
+                  2      2
+20a)    f(n)= (1/n1 - 1/n2 )
+
+As was stated before, the frequency of the radiated energy is not
+the same as the orbital frequency of the electron as computed
+from 15). Instead, the  emitted or absorbed frequency constitutes
+a difference between two succesive proton disturbance frequencies
+at accations n1 and n2 respectively, and a mean value of it
+(compare mixing frequencies in a radio receiver). The factor 1/2
+is motivated by that the proton frequency is successively changed
+from fp1 to fp2 during the jump :
+
+Hence, by this hypothesis we can define
+
+21)   fout = 1/2.(fp1-fp2)
+
+and using 14), 15), 16) 18) and 21) we get :
+
+           __          2   3
+22) tp = 2.//.(K1/me).n. K3
+                                            3 2
+    fp = (1/2).(1/tp) = (1/2).(me/K1).(1/(K3.n ))
+
+                        __      3
+23)   fout = me.f(n)/(4.//.K1.K3 )
+
+We divide the result from 20) by the result of 23) and obtain
+Planck's constant, by definition equal to dE/fout
+                      __
+24)   h = dE/fout = 2.//.K1.K3
+
+From 8), 13) we get 
+
+                 2/3  ___________
+25)   K3 = (Mp/me) . / (me.re/K1)
+                   /
+
+and multiplying both sides by K1:
+
+                       2/3   __________
+26)  K1.K3=     (Mp/me).    / me.re.K1
+                           /
+
+We combine 24), 26) and 2) giving
+
+                            ___________________
+           __       2/3   / 2         __ 
+27)   h= 2.//.(Mp/me).  / (e.me.re/(4.//.Eo))
+                       /
+
+We define
+
+                  2/3
+28) (a-1) = (Mp/me)     which is an approximative value for
+                        the fine structure constant, the inverse
+                        value.
+
+We compute the numerical value of h in 27) by inserting  known 
+                                 -34
+numerical constants, giving 7.3x10 Js, to be compared with 
+      -34
+6.62x10 Js as the  official sanctioned value for this constant. 
+
+The reason for the small discrepancy is that the relation 
+      1/3
+(Rp/re) is some 5% too large. a-1 is axactly 137.02 .
+In turn the reason for this is due to imprecisely
+known parameters of mass distribution on the proton as well as of
+distribution of charge over the proton surface not exactly is 
+known. Bohr's quantum mechanical relation, written 
+           __
+m.v.D=h/(2.//), then  is computed in the following way: Inserting
+the result of 6) and 18) in the product of m.v.D gives
+
+===============================
+                      ___
+29)   me.v.D = n.h/(2.//)
+===============================
+
+which is the quantum mechanical condition Bohr used as a
+fundamental condition for his quantum theory but without givning
+it any physical or logical motivation.
+
+From equation 8) we compute the proton radius to
+                        -15
+34.506545 fermi (1 fermi = 10 meters), the officially sanctioned
+value for the proton radius (or extension) being 1 to 2 fermi
+but these result is based on very unsure estimations. Testing the
+proton radius in relation to experimental results from quantum
+theory we find that the exact value is 32.9874714 fermi, hence
+some 4-5 % lower than out estimated and calculated value.
+
+It is well known that the "classical" electron radius can be
+computed from the relation
+                2
+               e
+30)   re = -------------
+              __        2
+            4.//.Eo.me.c
+
+Using this result in 27), the expression for Planck's constant
+can be simplified  to 
+
+=================================
+            __
+31)   h = 2.//.me.re.c.(a-1)
+=================================
+
+We also compute more define expressions for outgoing
+wavelength and  frequency. Combining 2) and 30) gives :
+
+               2
+             e        1              1
+32)   re = ------. ------- = K1. ----------
+             __         2               2
+           4.//.Eo  me.c           me.c
+
+                  2
+33)   K1 = me.re.c
+
+Combining 25) and 28) gives :
+
+                    __________
+34)   K3 = (a-1).  /(me.re/K1)
+                  /
+
+Using these results and inserting them in 23) we get 
+                                                               
+                     __        2                  _________
+  fout = me.f(n)/(4.//.K1.(a-1).me.re/K1.(a-1). /(me.re/K1
+
+===================================
+                 f(n).c
+35)   fout =  ----------------
+                 __         3
+               4.//.re.(a-1)
+===================================
+
+and the wavelength of the emitted wave :
+
+==========================================
+           c        1     __         3 
+36)   w = ---- = ------.4.//.re.(a-1)
+          fout    f(n)
+==========================================
+
+We compute the energy quantum emitted from 20), inserting the
+constant K1 and K3  into it :
+
+=============================================================
+                            2                     K1
+37)   dE = 1/2.me.f(n).(1/K3 ) = 1/2.me.f(n). ----------- =
+                                                   2
+                                              (a-1).me.re
+                        2        2
+           1/2.f(n).me.c.(1/(a-1) )
+==============================================================
+
+The electron mass converted to energy corresponds to 0.511
+Mev. The official exact value of the atomic fine structure
+constant inverse is 137.03, so that
+
+============================
+38)   dE = 13.6. f(n).eV
+============================
+
+The classical electron radius is computed from 32) and found
+to 
+            -15
+be 2.8179x10 meters. Inserting this value into 36) gives 
+
+=============================
+                         7
+39)   1/w = f(n).1.097x10 m-1     which is Rydberg's constant
+=============================
+
+For completeness we also compute more distinct values of the
+orbital radius, D , and the orbital velocity of the electron,
+v. Inserting the values of K1 and K3 from 33) and 34) in the
+formulae  
+
+18) and 16) respectively, we obtain :
+
+====================================
+         K1  2  2          2 2
+40)  D= ---.n.K3 = re.(a-1).n
+         me
+====================================
+
+and 
+
+====================================
+41)  v = 1/(n.K3) = c/(n.(a-1))
+====================================
+
+If n is put equal to 1, one obtains the limiting values of D
+and
+ 
+                 -31                 5
+v equal to 5.29x10 meters and 2.19x10 m/s respectively. The
+limiting value of Dorb is usually called the Bohr radius.
+
+SHR\DINGER'S WAVE EQUATION
+Shr|dinger's wave equation has been of central importance in
+the development of atomic quantum theory. The equation is
+represented by the function Y and it describes the probability
+of finding an orbital electron at a specific point of the
+atomic volume. Much has been speculated about what this
+"mystical" equation really stands for and what it represents
+or how it should be interpreted physically. It will be  shown
+here that it is, in principle, the same as our equation 12)
+above, but  transformed to conditions at the orbital level of
+the atom. In its most simple form, Shr”dinger's  equation can
+be written as: 
+
+       2           __ 2   
+42)   d Y        4.//
+     -------  - -------.Y = 0
+        2           2
+      ds          w
+
+where      Y   is a wavefunction of probability of finding an  
+               electron of an atom at a specified point in
+               space, or decribing the distribution of energy
+               within a specified space element;
+
+           w   is the wavelength of the emitted radiation from
+               the atom;
+
+           ds  is a small distance element in space
+               represented
+               by a specified coordinate system (x,y,z,O).
+
+We start with our equation 12) giving
+
+          2    
+43)      d s
+        ----  - s.K2 = 0
+           2
+         dt
+                    
+                      2                            2
+where K2 = K1/(Mp.Rp.D ) (from 12a) and K1= me.re.c  (from 33).
+We then rewrite the equation, replacing s by the wavefunction Y
+
+         2
+44)     d Y
+       ----- - K2.Y = 0
+          2
+        dt
+
+Because the emitted radiation moves with the velocity of
+light, c, we can define the  following relations :
+
+                        2    2 2
+45)    dt = ds/c  ;   dt = ds/c   
+
+        2
+46)    d Y     2
+       ---- . c  - K2.Y = 0
+          2
+        ds
+
+The variable K2 is transformed with the aid of 28) and 40) in
+the following way
+
+             K1
+47a)  K2 = ---------
+                2
+         Mp.Rp.D
+                       2
+                me.re.c
+47b)  K2 = ---------------------------------------
+                                    2      4  4
+            (Mp/me).me.(Rp/re).re.re .(a-1) .n
+
+                    2
+                   c
+47c)  K2=  --------------------
+               2        6  4
+             re   .(a-1). n
+
+                      __ 2
+                   4.//
+47d)   K2 = --------------------
+              __         3  2  2
+           (2.//.re.(a-1) .n/c)
+
+Studying equation 36) we can easily see that the product
+within the parenthesis is equal to , wp  ,  giving
+                ___ 2  2
+             4. //.  c
+48)   K2 = --------------
+                  2
+                Wp
+
+We insert this result in 46) to obtain
+ 
+         2       __ 2
+49)     d Y    4.//
+        ---- - ------.Y = 0
+          2        2
+        ds       Wp
+             
+This equation represents oscillations of the proton, not
+vibrations on the orbital level where wavelength are two times
+greater. Hence, this euqtion tranformed to the orbital level
+will be 
+
+==================================
+       2           __ 2
+50)   d  Y      4. //
+      ----- -  ------.Y = 0
+         2         2
+       ds         w
+==================================
+
+on the orbital level of the atom, which is Shr|dinger's wave
+equation in its simplest form.
+
+CONCLUSIONS
+Most of all the results here achieved correspond well with
+knowns results, accepted in current quantum physical theories,
+but there are also differences which deserve attenion. In
+some distinct points we here summarize the most important and
+unique results that have been so far arrived at :
+
+1) Quantum mechanical processes within an atom can be
+   described in terms of well known physical laws from
+   electrophysics and ny Newton's mass inertial laws. The model
+   gives a deterministic description of these processes.
+
+2) Planck's constant is an atomic system constant limited to
+   atomic systems or atomic-like systems, and havning no common
+   use.                                                           
+
+The constant is composed of four other more fundamental
+entities, the electron rest mass, me, the electron rest
+radius, re, the velocity of light, c, and the proton rest
+mass, Mp.
+
+3) The atomic fine structure constant is a realtion between
+   the proton rest mass, Mp, and the electron rest mass, me,
+   raised to 2/3 approximately (the exact value corresponds to
+   the exponent of 0.65467 instead of 2/3= 0.66667). This
+   constant is contained in 
+
+Planck's constant, which can be written h=2.//.me.re.c.(a-1)
+                    2/3
+where (a-1)= (Mp/me)
+approximately.
+
+4) The proton is regarded as a point-formed particle with an
+   isotropic distribution of matter (hence containing no quarks
+   as current theory suggests). Mass density in all point-formed
+   elementary particles is regarded as a constant entity.
+
+5) The proton radius or its extension is much larger, 30-35 fermi
+   approximately, than that accepted by official data, 1 to 2
+   fermi. Our conclusion must be that the official value is based on
+   erroneous and misinterpreted measurements.
+
+6) The frequency of emitted radiation, light for instance,
+   from an atom is not the orbital frequency of the electron, but
+   a mean value of the difference between two successive stable
+   proton oscillating states. A good analogy is how two
+   frequencies are mixed together in a radio receiver.
+
+7) Elementary particles of extreme nature, since they have a
+   point-formed structure, have polarized electrical fields as
+   well as even magnetized polarized fields.
+
+A listing of symboles used, source CERN PARTICLE PROPERTIES
+DATA BOOKLET 1988) :
+                                                     -12   -1
+Eo     the permittivity of vacuum     8.854 187 817x10  F m
+
+                                                     -1
+c      the velocity of light          299 792 458 m s
+                                                        -19
+e      the elementary charge          1.602 177 33(49)x10 C
+       unit
+                                                       -31
+me     the electron rest mass         9.109 389 7(54)x10  kg
+
+Mp     the proton rest mass           1836.152 701(37) x me
+
+                                                        -15
+re     the "classical"                2.817 940 92(38)x10 m
+       electron radius
+                                                       -34
+h      Planck's constant              6.626 075 5(40)x10 J s
+
+(a-1)  the inverse value of           137.035 989 5(61) 
+
+       the atomic fine                (dimensionless)
+
+       structure constant
+                                                          -10
+Bohr radius                           0.529 177 249(24)x10   m
+   
+Rydberg energy                        13.605 698(40) eV
+
+Pi                                    3.141 592 653 589 793 238
+
+References :
+
+1) Particle Properties Data Booklet, april 1988, CERN Scientific
+   Information Service CH-1211 Geneva 23, Switzerlan
+
+2) Physics Handbook, Chartwell-Bratt Ltd, Old Orchard, Bickley
+   Road, Bromley, Kent BR1 2NE, England, ISBN 0-86238-000-6
+
+3) A new way to physics 1990, by O.Tedenstig, ISBN 91 97077534
+
+4) A new model of interaction between matter and vaccum, by
+   O.Tedenstig, Galilean Electrodynamics xxx/yyy 1993.
+
+ (Earlier published in the BASRA Journal and Toth Maatian Review)

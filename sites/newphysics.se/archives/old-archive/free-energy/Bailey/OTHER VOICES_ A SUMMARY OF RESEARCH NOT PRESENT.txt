@@ -1,0 +1,1715 @@
+
+OTHER VOICES:
+A SUMMARY OF RESEARCH NOT PRESENT
+
+by
+
+Patrick G. Bailey, Ph. D. *
+
+
+Abstract
+
+A review is presented from researchers that are not present at this conference
+of the theory and experimental evidence relating to Zero-Point Energy and
+Free-Energy Devices.  It is found that there is increasing momentum and a
+growing network of researchers taking place in these fields, despite widely
+evident efforts to suppress this information.  Nevertheless, sound theoretical
+foundations for understanding so-called "Zero-Point Energy" and "Free-Energy"
+devices have been documented and are available.  There are several reports by
+various authors of experiments that indicate a much higher than normal
+operation efficiency, and even over-unity operation.  Unfortunately, these
+results have to date not been replicated by other researchers.  Since energy
+is conserved, pure perpetual motion cannot exist.  However, several examples
+are known to exist where energy efficiency can appear to be "Over-Unity," and
+the motion can appear to us to be "Perpetual."  For these types of systems,
+the idea of "Free-Energy" can be applied, and lessons learned.  Valuable
+references with real mailing addresses and telephone numbers are included. 
+Networking and replication of these encouraging results are desperately
+needed.
+
+Introduction
+
+"Let God kill him that does not know, yet presumes to show the other the way!"
+ This quote from a Persian dervish in the movie and videotape of "Meetings
+with Remarkable Men" by Gurdjieff (1963) pretty much summarizes my feelings
+toward the whole area of research science.  It's a jungle out there.  The
+dividing line between truth, fiction, what is best, and what sells has never
+been less clearly defined.  Since the advent of the digital information
+explosion, the sea of information has been growing at a pace that few can
+follow.  However, if we are to be responsible and seek the truth, we must
+persevere.  I am dedicated to finding the truth.
+
+To learn about the foundations and current technical knowledge in the
+Zero-Point and free-energy fields is to open a very large Pandora's Box.  One
+finds non-believers, strong supporters, dissenters, and active hard-nosed
+suppressers.  My interest was aroused as a teenager by reading about the life
+and contributions of Nikola Tesla, now available in the books by Walters
+(1961) and Cheney (1981).  He is the one individual responsible for creating
+the entire alternating current network that powers the world today.  He defied
+the science of his day, and designed and built the AC generator that
+transforms "potential" energy into "electrical" energy.  Yet, he is not 
+----------------------------------
+* Vice President, Institute for New Energy, P.O. Box 201, Los Altos, CA
+94023-0201.
+in many school texts, and his basic theories and ideas for larger projects and
+applications were nearly lost to the world.  Why was he not supported?  Why is
+Thomas Edison such a well known name and Nikola Tesla is not?  Why was his
+research not actively continued?  Why does the academic community, within the
+U.S., continually ignore the possible applications of his theories?
+
+Tesla was unceremoniously thrown out of the best technical school in
+Yugoslavia for believing that he could build a generator that would extract
+electrical power from a running stream of water.  His professor called it: 
+"Perpetual Motion!"  This is not so unfamiliar.  We have heard other such
+convenient explanations, such as:  "Heavier than air machines will never fly"
+(Lord Kelvin, 1890's);  "We threw out all of the textbooks, and then we built
+the airplane" (the Wright Brothers);  "The human body will not survive speeds
+of over 40 miles per hour" (early 1900's);  and "Airplanes can not go faster
+than the speed of sound" (1940's).  Other example abound, all spoken by the
+out-spoken "leaders" of their day.  My view is that science continues to grow
+and mature.  Nature is fixed.  Only our understanding of Nature continually
+unfolds.  Sometimes this growth has been only painful, and sometimes it has
+provided great shocks to the system.  Fear of change is not an adequate excuse
+for not actively pursuing the development of our full capabilities as human
+beings, as individuals or as groups.
+
+Definitions
+
+"Energy" cannot be created nor destroyed - it exists throughout space and
+within matter.  "Perpetual Motion" does not exist - long lasting motion is
+easily observable, such as planetary orbits.  "Stupidity" is not hereditary -
+and it is not a survival trait.
+
+"Zero-Point Energy" (ZPE) is known as an energy that fills the fabric of all
+space.  Technically the ZPE results from an electric flux that flows
+orthogonally to our perceived dimension or reality.  The mass equivalence of
+this energy has been calculated by physicists to be on the order of 1093
+gms/cm3.  Henry T. Moray, Walter Russell, and Nikola Tesla described the
+nature of the ZPE and designed and built equipment to engineer its properties.
+ It may be possible to build devices to cohere this energy.  This would result
+in a non-polluting, unlimited supply of virtually free-energy.
+
+"Free-energy" is a term that can have two meanings:   (1) either the
+additional energy that can be obtained from a device at little or no
+additional cost, so the additional energy is essentially free;  or (2) more
+output energy that appears to be available than input energy, such as in the
+case of detonating an atomic bomb.  "Over-Unity Devices" are those systems
+which appear to produce more energy than they use.  In analyzing such systems,
+a box is drawn around the device and energy balances are formulated to measure
+the amounts of energy coming into and out of that box.  Whether or not the
+device is termed an "over-unity" device will depend upon the size of the box. 
+When the box is drawn large enough, all systems or devices will have a net
+energy transfer of zero.  On the other hand, when the box is drawn just small
+enough, the device can be said to be an "over-unity" device, and an
+intelligent physicist will know better.
+
+>From this point of view, examples of existing so-called free-energy devices
+abound:  such as Hoover Dam.  So then is any generator, or any nuclear
+reactor.  More energy certainly comes out of a dam than went in to making it
+(by us, at least).  So it is seen that these generators can be thought of as
+free-energy devices, while they are really only energy conversion devices, and
+obviously not perpetual motion machines.  People who insist that they actually
+are, are either very ignorant or very devious.  In such cases, examine the
+person's true underlying motives.  [Another active "free-energy" device of
+increasingly note-worthy attention is the Federal Reserve, which is not an
+agency of the U.S. government and has never been audited. (Figgie 1992)]
+Sources of Information and Data
+
+Ultimately, the sources for all information in these areas come from the
+inventors, researchers, or investigators themselves.  The U.S. and foreign
+patent offices provide some information into new developments in these areas,
+yet the actual patents usually reveal very little useful information and
+almost no experimental results.  Patent law does not require complete
+disclosure of all data, and patents are held nationally.  An interesting area
+of big business today is the international transfer of patents for national
+corporate financial gain at no cost.
+
+Other sources of information and data include papers, reports, books, and
+conference proceedings.  Papers and books that are of special noteworthy
+attention are those by Hans Coler (1946), the Gravity Research Group (GRG
+1956), Stefan Marinov (1992 and 1994), Hans Nieper (1984), and Shinichi Seike
+(1992).  Conferences that have been recently held to collect and summarize
+information in these areas include the 26th, 27th, 28th, and 29th Intersociety
+Energy Conversion Engineering Conferences (August of 1991, 1992, 1993, and
+1994) and the more recent 1st International Symposium on New Energy (ISNE)
+(April 1993).  All of these materials are available from the sources
+identified in the references section.
+
+Books and Reports
+
+Many books and reports have been published that relate to the free-energy
+fields.  I have listed the ones I have looked at in the references in this
+section.  I have included almost all of Lt. Col. Tom Bearden's books and
+reports.  It should be pointed out that Tom's book entitled AIDS:  Biological
+Warfare (1988) probably has the best description of the pumped phase conjugate
+mirror wave theory model of any of his books.  The book by Moray B. King
+(1989) gives an excellent overview of the definition of Zero-point Energy. 
+Several books and reports have recently emerged regarding gravity and the
+Earth's apparent energy grid network.  Books regarding the Orgonne Accumulator
+and ether vortex mechanics are also included.  The book by Hans Nieper (1984)
+is a great reference book, and sometimes hard to find:  use the source listed.
+ The theories of Victor Schauberger (Alexandersson, 1982) are also very
+interesting, including his descriptions of Natural energy vortices, the
+changing properties of 4 degree C water with the phases of the moon, as
+descriptions of other Natural Wonders.  Stefan Marinov's new book is also
+extremely important as it may well change the mathematics of EM theory
+(Marinov 1994).
+
+Conferences
+
+I am familiar with only a few of the many technical conferences that have been
+held that deal with the Zero-point and free-energy fields.  The one's I have
+recently attended are the 26th Intersociety Energy Conversion Engineering
+Conference (IECEC), held in August 1991 in Boston, MA;  the 1992 International
+Tesla Symposium, held in July 1992 in Colorado Springs, CO;  the 27th IECEC
+held in August 1992 in San Diego, CA, and the 28th IECEC held in August 1993
+in Atlanta, GA.  As I organized the authors and papers for the 26th through
+the 29th IECECs in the "Innovative Concepts" sessions for the "New
+Technologies for Energy Utilization Area," I am familiar with their papers and
+contents.  The material presented in other conferences do relate and overlap
+with much of the material presented in the recent IECEC conferences.  It is my
+desire that future authors will network and exchange information before they
+write their next paper, so we can accelerate and converge the work that is
+being performed in these fields.
+
+Societies and Publications
+
+Some of the ones that I feel are of importance are listed in the references
+for your use.  Make multiple photocopies of all of the references and
+distribute them.  They are also available on disk.
+
+ASK.  If you do not personally get involved and do something, who will?  Make
+it so.
+Areas Of Related Interest
+
+The study of the free-energy field overlaps with quite a number of other areas
+of science and technology, some of which are called "Fringe Areas."  I believe
+that responsible investigations in these areas do uncover important
+information and data that can relate to various questions that occur in the
+study of free-energy.  These questions include:  Why is this research not
+conducted?  Is it suppressed?  Why is it suppressed?  Are there other examples
+of such suppression?  Where can I get more information?  Are there any
+examples of such advanced related technologies?  If such energy sources exist,
+has anyone found out how to use them?  How do they work?  Can I use them, and
+can I use them in a responsible manner?
+
+There is a great outcry by those familiar with our current energy policy and
+the public electricity utility network for need of a new breakthrough in the
+technology of energy production.  Dr. Gary Johnson (1992), a college professor
+and IEEE Senior Member, recently published a short review of the researchers
+in this area in a noted U.S. technical journal and concluded his four page
+report with the statement:  
+
+"There is a great deal of noise in the literature.  Some concepts are
+obviously nonsense.  Others will prove to be in error.  But is there any
+signal in all the noise?  There is if Tesla, Moray, and Bearden are correct. 
+The potential payoff is enormous, so the search should be continued if there
+is any chance at all of success!"
+
+Also, Llewellen King (1991), publisher of The Energy Daily, Defense Week, and
+Environmental Week Newsletters in Washington DC recently strongly and
+dramatically stated in a luncheon speech to an international technical
+audience at the 1991 IECEC:
+
+"We have failed with energy to come up with the 'Great Big Breakthrough!' 
+'The Major Change.'  'The Radically Different Thing.'  'The Quantum Leap
+Forward.'  Where is the jump from a copper wire to a fiber or to a cable? 
+Where is the equivalent of fiber optics for electricity?  ... The new
+technologies (discussed at this conference), such as magnetohydrodynamics,
+(are advancing and coming forth), and yet these things have not fostered - and
+we are still boiling water!  It is theoretically possible that we could at
+some point take this 'Quantum Leap Forward.'  ... And in order to do that, I
+believe that you will need new institutions to deploy new technology.  They
+won't be deployed by the extant of the old institutions.  ... The Challenge in
+Technology is to find It, and then sell It, and finally to deploy It."
+
+Since the status and results in energy technologies and in these other fringe
+areas are seen differently by different persons, many misunderstandings take
+place, people become frustrated, emotions become heated, and eventually
+someone gets sorely offended.  People can range from Apathy, to Denial, to
+Anger, and finally to Acceptance.  So as to not offend anyone in this paper, I
+will limit the areas of my summary introduction investigations to Politics,
+Religion, and Sex:
+
+Politics
+
+"Never give a sucker an even break."  I became very concerned when I became
+aware of first hand and second hand accounts of actual physical, emotional,
+and legal harassment being made to inventors, investigators, and writers in
+these scientific fringe areas.  And I thought all of these suppression stories
+were nonsense.  Upon investigation, harassment always follows those who
+promote a new paradigm.  (Galileo spent a lot of time in jail.  Etc.)
+
+In my view, there is not a determined effort by the government to suppress
+information - because there is no government.  I see instead a collection and
+network of vested interest groups that seem to tightly band together for
+mutual financial profit.  The actions taken by any of these groups may be
+completely independent from the others.  Therefore, I find the "government
+suppression" and "world domination" theories proposed by some to be
+interesting, and probably not applicable.  However, some sort of control and
+suppression in the press seems very evident.
+
+Two historical events are worth including here regarding possible suppression
+and inability to commercialize free-energy devices.  These are the Device of
+T. Henry Moray (Resines, 1988), and the Hindershot Motor (Brown, 1988).  Both
+of these devices were publicly demonstrated to the U.S. press in the 1930's,
+and carefully conducted tests were made to assess these devices.  From the
+newspaper reports and clippings, it appears that both devices passed all
+tests, only to fall into oblivion.  What exactly happened to the devices,
+their inventors, and the technology is not known.  It also appears that the
+secrets of the devices died with their inventors.
+
+It appears that all serious research and development activities in the energy
+conversion tech-nologies will continue to be closely monitored and guarded by
+the existing oil, transportation, and economics industries.  Serious
+researchers in these new advanced energy areas are not allowing "the
+establishment" to buy them out.  At the same time, there is strong evidence of
+aggressive suppression.  The German company Becocraft specializing in the
+development of "new energy devices" was forcibly shut down and its president
+quickly imprisoned on investment fraud charges in a court case that had only
+one plaintiff:  the Utility Company of Cologne!  (Marinov 1992).  All of the
+investors of Becocraft fought the case to no avail.  Closer to home, the U.S.
+Patent Office has classified over 3,000 patent devices or applications under
+the secrecy order, Title 35, U.S. Code (1952) Sections 181-188.  Where did
+that technology go?  Why don't we have that information now?  These patents
+would be a great place to start for a new company involved with defense
+conversion technologies for environmental use!
+
+Religion
+
+"Ask and you shall receive."  Well, if this method can work to get advanced
+technical information - let's sincerely try it.  After all, where do our ideas
+come from in the first place?  Both Tesla and Edison are reported to have made
+their respective amazing discoveries while 'daydreaming' - not actually
+thinking!  References are included for those that would like to seek and
+receive higher technical knowledge from higher sources, regardless of
+religious views.  Books on how to receive higher information from other than
+our own conscious source have been published by the Cameron's, Hatonn, and J.
+J. Hurtak.  Connecting Link Magazine also offers various methods and
+techniques to reach your higher self(s).  Other books by Dion Fortune, Rashid
+et. al., Russell, Festinger et. al., and Findley are also worth reviewing. 
+These methods seem to be very important, as many inventors have claimed to
+have received their ideas directly from "divine guidance" or in person from a
+well-known spiritual figure or entity.
+
+Sex
+
+"It takes two to Tango."  Potentially, things are very interesting.  It seems
+to take two at different potentials to make something happen:  male/female,
+up/down, positive/negative, north/south.  The view being taught today is
+simply given in one or two dimensions.  Electricity is caused by the electrons
+going one way on a wire, and the holes going the other way.  Electrical energy
+is created by chemical reactions that have a lower chemical ground state than
+the reactants.  Chemical reactions are caused by electron bonding where
+electron orbits are finally filled and then higher orbits can be filled. 
+Atomic energy is caused by electrons and nucleons dropping into lower energy
+states (gamma rays and lasers), or by differences in the binding energy of the
+nuclei (fission and fusion).  The Sun gives and the Earth receives.  Viva La'
+Difference.
+
+For energy creation, we have developed the catch-all term:  potential energy. 
+The water behind a dam is said to have a great deal of potential energy, so
+the electricity is said to come out of the power plant.  A battery has a
+stored electrical potential, so it powers your radio.  Men and women all have
+stored potential, and we all know what trouble that can cause.  However, no
+one ever talks about magnets and electromagnetic (EM) fields, and the possible
+potential energies within them.  The Earth, for example is one huge
+oscillating field magnet!  I have found only a few sources that reference the
+modeling of EM fields in three spatial dimensions (e.g. the works of Walter
+Russell 1926, 1947, 1989).  The idea that energy exists in male and female
+vortices that form between this dimension and other dimensions is not new. 
+The idea just hasn't been very useful - yet.  Russell describes three
+dimensional elemental EM fields that can be classified as male and female by
+the spin of their 3-D EM fields, much the same way that we describe the poles
+of a bar magnet.  Russell developed and tested counter-wound sets of coils,
+each in the shape of overlapping (male/female) cones.  Such a coupling and
+cancellation of these fields would open up a whole new way of thinking about
+electricity and EM fields in general.  Also, a new investigation of the
+physics of rotating permanent magnets and rotating EM fields would be very
+interesting.  All reported research in these fields seems to stop in the early
+1950's.  Why?
+
+Possible Misleading Results
+
+"But goodness alone is never enough.  A hard, cold wisdom is required for
+goodness to accomplish good" (Heinlein 1961).
+
+While on one hand some researchers may possibly be overstating the
+capabilities and results of their experiments and devices, on the other hand
+many so-called "scientific experts" are very active in discounting all of the
+research results in these areas without investigating the details of any of
+them.  "The Nobel chemist Irving Langmuir (1881-1957) used to give a
+cautionary talk on pathological science, and ... told a number of stories of
+pathological science and listed the features they have in common."  (Cromer,
+Skeptical Inquirer, 1993).  In his eight page article, Cromer states that
+there are many lessons from this:  "(1)  Scientists themselves are often poor
+judges of the scientific process;  (2) Scientific research is very difficult. 
+Anything that can go wrong will go wrong;  (3) Science isn't dependent on the
+honesty or wisdom of scientists.  (4)  Real discoveries of phenomena contrary
+to all previous scientific experience are very rare, while fraud, fakery,
+foolishness, and error resulting from over enthusiasm and delusion are all too
+common.  Thus, Glashow's closed-minded 'I don't believe a word of it' is going
+to be correct far more often than not."   Also, I should point out that a good
+friend of mine recently published his concern regarding research in 'Energy
+Science,' and cautioned that experimenters must not lose their objectivity
+(Bennett 1993).  A major trait of pathological science is "a readiness to
+discard prevailing ideas and theories."
+
+Our sincere response to all of these arguments is:  If there is no initial
+interest - then there will be no investigation.  If there is no investigation,
+there will be no research to replicate.  Your interest will spark the urge to
+replicate!  If there is interest, research, and no replication, then that fact
+should be published and disseminated with integrity.  If there are witnesses
+to the results and the results were or are repeatable, then we feel the fault
+and blame lies with the critic and not with the researcher.  Therefore, given
+the experiments and devices referenced in these and other conference papers: 
+Demand that they be tested with an open mind!  One success out of all of the
+failures is more than worth the effort!
+
+THE EARTH IS NOT FLAT!  (Although the 'Flat Earth Society' is included in the
+references.)
+
+
+
+Free-Energy Theory, Experiments, and Devices
+
+To handle the mind bending thinking and theoretical insights in the Zero-Point
+and free-energy fields, researchers have, for better or worse (and probably
+for the near term worse) adopted a simple way of describing the results of
+their research, in terms of what they can immediately measure and see.  So
+there are three categories that are generally expounded upon:  "Free-Energy
+Under-Unity," "Free-Energy Over-Unity," and "Zero-Point Energy."  (1)
+"Free-energy Under-unity" would be when I get more energy out than before and
+I only made a small change to my design, like to increase the overall system
+efficiency.  An example might be using those magnets that when placed onto a
+car gas line give 5 miles extra per gallon.  That's Free-Energy dude!  This
+appears to be the case for several motors and generators that utilize magnets
+on their rotating shafts.  (2)  "Free-energy Over-unity" would be where I seem
+to get more energy out than I know am putting in.  Period.  An example would
+be pushing a car over the top of a hill.  When it takes off without you, it
+appears additional energy is coming from somewhere.  And, in all cases, of
+such experiments, the energy MUST be coming from somewhere in some form.  It
+just hasn't been figured out yet, and the researcher has probably not drawn a
+large enough box.  (3)  "Zero-point Energy" can refer to the energy that comes
+from outside your influence:  the wiring in the wall;  the transmission lines
+nearby;  a large EM signal on a specific FM radio station;  the Earth's EM or
+gravitational field;  solar EM energy;  or possibly directed energy from outer
+space.  Just because we can't measure it yet, doesn't mean it's not there!
+
+With these definitions in mind, we see that Hoover Dam is a good example and
+could be considered by some Dam Engineer to be an "over-unity device."  A good
+Dam Scientist would probably point out that the Sun evaporates the oceans and
+lakes, moves the vapor, makes the rain that fills the Dam, and the potential
+energy of the water produces the electrical power.  The Dam Engineer could
+probably care less, and could also say that the Dam is "a perpetual motion
+machine that will last forever;"  which means at least until he retires and
+his kids are out of college.  The Dam Engineer would say:  "The Dam thing runs
+on free-energy out of the air!  The city of Los Angles believes it!"  But -
+you know it won't last forever.  Neither will the Sun.
+
+So we need to be careful in our choice of words.  For the purposes of this
+paper, a free-energy device will appear to produce more energy than it uses,
+because it is not known from what form of potential energy source the other
+required input energy comes from.  Thus, we will allow system efficiencies
+over 100%, and over-unity energy conversion until we are either proven wrong,
+or we finally draw a larger box and understand what is happening inside that
+box.
+
+Also:  It is very important here to be a Fair Witness:  That is a person who
+reports exactly what he or she sees - no more, no less (Heinlein 1961). 
+Researchers and investors really do not give a (guess what) about what you
+think is going on.  They want the facts of exactly what you observed.  If a
+device appears to be promising:  say so, and report it to be so.  If it has a
+problem, say it seems to have a problem.  Only after extensive support,
+testing, and cross-examination should an experiment or a device be classified
+or labeled a fraud or a failure.  Once labeled as such, they will not easily
+obtain further support.  Be Fair.  Be Honest.  Be Responsible.
+
+Jefimenko's Electrostatic Free Energy Generators
+
+Examples of free-energy devices and generators are clearly explained in the
+book Electrostatic Motors (Jefimenko 1973) where one Corona motor having a
+cylindrical rotor instead of a disk operates at 0.1 horse-power from a 6,000
+Volt power supply as well as from an Earth field antenna.  External power
+supplies are not necessary.  These motors operate using the naturally
+occurring large voltage potential within the Earth's atmosphere, from the
+ground up.  Very long running electrostatic devices have been built since the
+1800's.
+
+T. Henry Moray
+
+John and Kevin Moray (1956, 1991) were kind to allow publication of a portion
+of their book The Sea of Energy:  the history of T. Henry Moray and his
+devices, who from the early 1900's to the 1930's demonstrated to the U.S.
+press's satisfaction massive over-unity energy conversion.
+
+"In 1901, T. Henry Moray theorized that energy was coming from within the
+earth.  Through continuous experimentation and in spite of the doubts held by
+the scientific community of the day, he discovered that the energy was not
+coming from the ground but from an outside source away from the earth.  The
+energy came in continuous surges, like waves of the sea, more in the daytime
+than at night.  At this time Moray had enough power to light a 16-candle power
+carbon lamp at about one-half capacity.  He labeled and defined his "Radiant
+Energy:  The source of energy coming from the cosmos to the earth and
+radiating back from whence it came."
+
+"Upon completion of his first Radiant Energy Device, many tests and
+experiments were conducted for the scientific and public communities. 
+Channeling the waves of energy was done by way of an antenna.  When set up and
+connected to the ground, priming and then tuning, the device would draw
+electrical energy.  Results of this experimentation proved that the power
+generation had not originated from within the device.  The device, through
+channeling radiant energy, produced up to 50,000 Watts of power and worked for
+long periods of time.  For political reasons many people, organizations, and
+agencies of the day opposed him strongly.  Despite the deliberate destruction
+of the R. E. Device, threats against his work and his family, and armed
+attacks by unknown assailants, T. Henry Moray continued with his dream of
+harnessing a usable energy that the world could benefit from, and the same
+time save the earth from the many methods of energy retrieval which now scar
+and pollute its land, air, and seas."  
+
+(As a side note, Moray's first germanium solid-state device (semiconductor)
+was submitted to the U. S. Patent Office in 1927, and was rejected on the
+basis that it would not work without a heated cathode.)  (Boy.  Am I glad
+times have changed.  Whew!)  (That's a sick joke folks!  Wake Up!)
+
+Hans Coler
+
+Hans Coler demonstrated two major devices to many amazed witnesses and
+officials in Germany during 1925-1945.  A 60 kW device was built in 1937, and
+the war bombings ended further research in 1944.  A complete 32 page report
+declassified by the British Intelligence Objectives Sub-Committee is available
+from the author, PEA Research, and REX Research (Coler 1946, Nieper 1984). 
+One of Coler's devices consisted of six ferrite permanent magnets placed in
+the form of a hexagon, with overlapping and reversing coil windings placed on
+the surface of each magnet.  The coils were then wired in series as depicted
+in Fig. 2 of that report (Coler 1946).  Reports indicate that 6 kiloWatts was
+produced by one device indefinitely.
+
+Several of the free-energy devices reported historically have also reported to
+have antigravity effects.    The theories expressed in the description of the
+Coler device are very similar to those presented in a comprehensive report
+(GRG 1956) (the latest one we could find so far) on electrogravitics systems,
+interactions of E-M with gravity, or counterbary control devices.  These
+effects have also been actively studied by John Searl (who has a paper at this
+conference) and T. Townsend Brown.
+
+Thomas Townsend Brown
+
+Early in his life, Townsend Brown was demonstrating new methods of
+electrokinetic or space-energy propulsion, and many felt that it could lead to
+a new form of power generation.  From the Office of Naval Research report
+[unclassified in 1952] on his work:  "It is asserted that the force exerted
+upon a negatively charged body by a positively charged body is greater than
+the force exerted upon the latter by the former; that the force differential
+is [proportional to the mass of the dielectric inserted between the bodies;
+and that the phenomena is evidence of a new "electrogravitic" effect."  "At
+Zanesville, Ohio in 1927, Mr. Brown at his then Laboratory of Research
+Physics, performed experiments on the force acting upon charged conductors. 
+The apparatus took two forms, as described in a manuscript "Tapping Cosmic
+Energy," dated 28 October 1927, which was submitted at that time to Physical
+Review [magazine] for publication but which was rejected.  Apparently no basic
+experiments have been performed since 1928."  
+
+An apparatus is described on page 10 of this ONR report where two sets of one
+foot aluminum circular disks are suspended from the ends of a six foot
+horizontal beam. Each disk set contains a top and bottom aluminum disk
+separated by a 18 inch of Plexiglas, where scallops have been indented on the
+leading and trailing edges of the disk and protruding wires inserted.  Such
+wires are designed on both sides of the disk, and wired for opposite voltage
+potential.  Reported test data indicated that when the wires were charged with
+26.2 kiloVolts, the apparatus spun in the direction of the positive wires
+leading with a force of 8.0 +/- 0.5 grams.  The writer concluded that the
+trust observed: "has its origin in the well-known phenomenon of the electric
+wind."
+
+Later in 1953, Brown succeeded in demonstrating much better results with
+two-foot diameter disc-shaped air foils separated by twenty feet.  When
+charged by 50,000 VDC with a continuous input of 50 Watts, the disks rotated
+in air at an observable speed of 17 ft/s, or 11 1/2 miles per hour!  A later
+test used disks of 3 feet in diameter on a 50 foot diameter course, and the
+results were so impressive that they were immediately classified!  As further
+U.S. funding for his research did not materialize, in 1955 Brown sought
+funding in Europe.  In France, Brown succeed in flying some disks in a vacuum,
+and succeeded in proving that the phenomena was more efficient in a vacuum! 
+Estimates could be made of speeds of several hundred miles per hour utilizing
+voltages of 1 or 2 thousand electron Volts.  In 1956 all research was stopped
+by a French corporate merger, and Brown reluctantly returned to the U.S.  He
+continued research on his devices and theories in these areas, and his work
+has gone seemingly unnoticed since then - unless it has already been applied
+to the B-2 bomber as suggested by Paul LaViolette in his paper at the 1st ISNE
+last year entitled "The U.S. Anti-Gravity Squadron" (LaViolette 1993).
+
+T. Townsend Brown's research is also documented in his patent entitled
+"Electrokinetic Apparatus," U.S. Patent No. 2,949,550, filed July 3, 1957, and
+granted Aug. 16, 1960.
+
+Sandy Kidd
+
+ Another inventor experimenting with an anti-gravity device is Sandy Kidd, a
+Scottish engineer, who say his "amazing device defies the accepted laws of
+physics by resisting the Earth's gravitational field and producing more energy
+than is fed into it. He was inspired to develop his device when as a "radar
+technician for the Royal Air Force, he was removing a gyroscope device from a
+bomber when he tried to jump from a ladder to the pavement below.  The still
+spinning gyro flung Kidd violently to the ground.  The scientific explanation
+is mind-numbing to most, but it launched Sandy into a new career that's kept
+him busy for the past 30 years."  "Researchers at Edinburgh University are
+participating in a $1-million project to get the anti-gravity device off the
+ground." [Newspaper article by Arthur Dale.  The newspaper reference and date
+were lost.]
+
+Lester J. Hindershot
+
+Lester Hendershot invented an electrical generator around 1928, which produced
+about 300 watts from what seemed to be the Earth's natural energy fields.  The
+device consisted of old radio parts, a basket weave coil, capacitors, and a
+vibrator circuit that operated in the 500 kHz range.  A key in the design of
+this device may be the use of the five inch diameter, non-inductive,
+basket-weave coil, similar to the coils used by Hooper (1974).  Hindershot
+seemed to be the only person able to make his device work, and died in April
+1961.  The device is summarized in the Electric Spacecraft Journal magazine,
+Issue 7, 1992, and is documented in detail in "The Hindershot Motor Mystery"
+by Borderland Sciences (Brown 1988).
+
+William Hooper
+
+>From the Preface (Hooper 1974):  "This treatis presents newly discovered
+unique and startling properties of one of our induced electric fields.  It
+gives this new field a new status among our force fields.  Its unusual
+properties are possessed only by gravity.  While it is too early to claim
+complete identification of this field and the gravitational field, the
+similarities are amazingly alike."
+
+>From Chapter 7, entitled "Some Confirming Experiments:"  "During the years
+1968 to 1969 the writer devoted his full time to the task of producing
+experimental sources of B x V fields which speak for themselves.  Nature has
+the last word in any controversy in physics and when she speaks her words are
+final."  "A generator of a motional electric field, all electric and with no
+mechanical motions involved, has been built and experimentally demonstrated." 
+"One of the most fascinating aspects of our discoveries is that by the use of
+the phenomenon of superposition of fields, electromagnetic induction can
+seemingly be separated from magnetic flux energy.  In other words, our
+all-electric motional electric field generator operates without the presence
+of detectable magnetic flux energy as such.  It is a non-inductive device!" 
+"It is this virtual field which produces the pure motional field in the space
+surrounding the generator.  This newly discovered pure B x V field is the most
+unique phenomenon known to electromagnetism because it is devoid of the
+electrostatic and magnetic field characteristics we have hitherto known.  It
+is a B x V field with the resultant B = 0.  Its immunity to shielding gives it
+a stature and a character of its own, beautifully unique and isolated from all
+hitherto known spatial fields!  Our generator produces nothing but this
+previously unknown field!"
+
+A very interesting Appendix entitled "Similarities of the Motional Electric
+and Gravitational Fields," was also written and published by Hooper just two
+weeks before his sudden passing in 1971, that summarizes his theory and
+experimental work up to that time.
+
+Hooper also found (Gibson 1983) that he was able to make specially constructed
+coils that could produce a field that could not be shielded and had other
+features in common with the gravitational field.  One such coil is constructed
+from a long conductor folded at its midpoint then coiled into a non-inductive
+flat pancake form.  Hooper (1974) states:  " ...and electronic generator of
+... the ultra-high frequency direct pulsing motional electric fields ... with
+its B x V field acting in the opposite direction to the Earth's B x V gravity
+field on the already polarized atoms in the [generator] would proceed to
+depolarize them and release them from the earth's gravitational pull." 
+
+Hooper was granted U.S. patent No. 3,610,971 on the "All-Electric Motional
+Field Generator" in 1971, and claimed to have witnessed anomalous forces when
+high currents and electrostatic shielding were used.
+
+Paul Baumann:  The Methernitha Free-Energy Machine
+
+Also known as the "Swiss M-L Converter" or the "Thesta-Distatica."  The
+spiritual and communal group of Methernitha is located in Switzerland, and a
+videotape may be available on loan from the Space Energy Association that
+summarizes their community and shows the device in operation.  An English
+transcription of that video is also available (Methernitha, 1989).  The device
+contains two counter-rotating disks (about two feet in diameter) that are set
+in motion by hand.  They continue to spin thereafter, and the machine
+generates usable power that lights or powers small tools.  The device appears
+to operate continuously and generates a continuous 3 to 4 kiloWatts power at
+about 220 Volts and about 10 Amps DC.  From an analysis of Wimshurst
+electrostatic generators, this would require a power increase factor, or
+over-unity factor of about 20.  Groups of investigative scientists from Europe
+and Japan have been allowed to examine the device in the 1980's, and have all
+verified these claims without understanding the machines principles of
+operation (Nieper 1984).
+
+Paul Baumann is the inventor of the Thesta-Distatica, and is today the
+spiritual head of the Christian Community Methernitha in the village Linden,
+near Bern, Switzerland.  He claims to have received the design and operating
+principles of the device while in deep meditation.  Two machines have been
+described by a member of their community, Stefan Marinov:  one machine has a
+disk diameter of 20 cm and delivers some 200 Watts of power, and another has a
+disk diameter of 2 meters that continuously gives 30 kiloWatts of electrical
+power.  Methernitha is committed to not release details on their device, as
+they believe that present mankind is not ready for such advanced energy
+technology.  Their point of view is adequately summarized in a quote from a
+typed letter from Methernitha in 1988 (Kelly 1988):  
+
+"To surprise present mankind with a free-energy device would literally mean to
+pour oil into a world which is already set on fire in too many places and
+domains of human life.  What mankind needs is peace, peace of mind to start
+with, to have a chance to find back to nature and god, and not more and
+further technological support in his strife for pleasure, which would rather
+drown him in an ocean of noise, over-action and pollution in general.  If you
+can not accept this point of view please discover a new 'free'-energy device
+by yourself.  The responsibility for its publication with all of its
+consequences will then be yours only.  May peace be with you.  Methernitha."
+
+>From the videotape (or the transcription published in 1989), Methernitha
+states:
+
+"This wondermachine is lurked from nature, nothing else.  Nature is the
+greatest source of power as well as knowledge which man has, and it still
+conceals many secrets, which are only revealed to those, who approach and tie
+in them with highest respect and responsibility."  "In order to understand
+nature and to perceive its voice, man is obliged to experience silence and
+solitude, and it was there, where the knowledge about this technology was
+obtained."  "To the educated physicist many a thing of this machine may seem
+impossible, maybe even crazy.  Maybe he is also offended by the conceptions
+used to explain the whole.  Only partly we could use the concepts of
+conventional physical terminology in order to explain and define only
+approximately the functions and properties of the various parts of the
+machine."  "It has to be remembered that the established sciences were already
+many times forced to change or give up some of their very fundamental
+concepts.  Think about Galileo Galilei, in order to name only one example. 
+Our human society almost condemned this man as a sorcerer and magician, just
+because he investigated and discovered a truth which seemed unacceptable by
+the established science of the days."  "The book of knowledge is not wrong,
+but it is incomplete, and therefore allows to draw wrong conclusions."  "We
+are part of a new era which brings to light many new facts and new knowledge. 
+The clothes of nowaday science have become too tight and should be stripped
+off, just like the larva of an insect does with its skin.  Only this will
+allow a true metamorphosis to take its course, and finally, at the limits and
+at the destination of all worldly knowledge, a universal and unlimited
+spiritual science, radiating and beautiful, just as the completed imago of an
+insect, may give its blessings and benediction to a renovated humanity."
+
+Floyd Sweet
+
+Floyd Sweet demonstrated his vacuum triode device to at least two expert
+electronics technicians that have documented their observations in sworn
+affidavits.  A videotape was also made during a demonstration.  From a nine
+Volt battery starter unit, nearly continuous output powers of 500 W to 50 kW
+have been reported to be observed.  Experimentation is still in progress to
+further refine the device and to improve its operational capabilities.
+
+Tom Bearden (1991) described a Vacuum Triode developed by Sweet.  I have seen
+Tom's videotape of this device in operation, when it was operating.  Tom
+considers the highly nonlinear nucleus of the atom as a pumped phase conjugate
+mirror (PPCM).  He likens this effect to a triode tube since the amplified
+phase conjugate replica of the signal wave is much like the amplified output
+of a triode, and the input to a PPCM is much like a triode's grid signal
+input. 
+Sweet has developed working devices based upon this vacuum triode concept
+utilizing paired barium ferrite magnets and resonant circuits.  It should be
+noted that in order for the device to work, the magnets were preconditioned by
+an undisclosed process.  Devices have been reported and demonstrated to
+reliable witness that have produced continuous 6, 500, and 5,000 Watts output
+from a nine Volt DC battery.  Through Tom's theoretical suggestions, the
+circuit was modified to test possible antigravity effects.  The test results
+performed by Sweet alone indicated a 90% weight reduction of the device
+itself, from 6 pounds to about 20 ounces on a spring scale, when the external
+load was increased from 0 to 10 Watts.  To my knowledge, no further tests have
+been performed with this device, as Sweet has had severe heath and family
+difficulties.
+
+On the Mathematical Formulation of EM Theory:  Barrett, Bearden, and Marinov
+
+For those that need to review the basics of electromagnetic (EM) theory and
+its orthodox mathematical representation, Rice gives a very good overview and
+derivation of the familiar electromagnetic equations in a five part magazine
+article (Rice 1991).  However, it is increasingly obvious that these
+traditional EM equations just are not applicable to many of the experiments
+and devices that are being built and tested today.  THEORY FOLLOWS FROM
+EXPERIMENT!  Not the other way around!  Our limited theories need to be
+expanded.  One way to expand the EM equations is to go back to the original
+Maxwell's Equations in "Quaternions."
+
+>From the Quaternions Overview given by Barrett (1991):  "The algebra of
+quaternions is the even subalgebra of a three-dimensional Clifford algebra
+with Euclidean metric.  A quaternion is:
+
+x = x0 l + x1 i + x2 j + x3 k,  where i, j, k, and l are related by
+
+i2 = j2 = k2 = - l2
+
+li =  il = i,  lj =  jl = j,  lk =  kl = k, 
+ij = -ji = k,  jk = -kj = i,  ki = -ik = j
+
+[While i, j, and k form a normal orthogonal 3-D vector coordinate system set,
+we see that the l vector could be thought of as a some sort of complex vector
+direction, since the dot product of l with itself is opposite to those of the
+other quaternion components.]  The set of quaternions is a division ring.  It
+satisfies all the axioms for a field except the commutative law of
+multiplication.
+
+Page 36 (Barrett 1991) is a direct reference to the theoretical operation of
+the Floyd Sweet Vacuum Triode Assembly over-unity device (that Tom Bearden has
+explained operates as a pumped phase conjugate mirror:  "Higher-order
+oscillator-shuttle-circuit (OSC) arrangements permit more complex dynamics. 
+For example, due to parametric process, third-order OSC device non-linear
+susceptibilites permit 'phase conjugate mirror' -like signal reception and
+communication with cancellation of noise-in-medium similar to that achieved
+with phase conjugate mirrors based on radiation-matter interaction."
+
+Also, according to Barrett:  "This higher topology approach is extremely
+important.  Note that you cannot properly analyze Tesla's type of circuits
+with normal EE;  you miss all of the higher symmetries.  We can eventual do
+free energy with circuits and components alone, if we can only learn to
+analyze in this manner - quaternions are the minimum, and Clifford algebra is
+better."  "And a normal EM analysis won't even see it or deal with it!"
+
+In the report by Tom Bearden describing "Maxwell's Original Quaternion Theory
+Was a Unified Field Theory of Electromagnetics and Gravitation" (Bearden,
+1988), an example of a quaternion formed by a 3-D vector with an additional
+potential term is presented.  It is mathematically shown that the vector
+cross-product of the quaternion results in an additional term called a Scalar
+wave, that vector analysis totally ignores.  This scalar wave "represents a
+scalar EM stress wave -- an oscillation of the local curvature of the vacuum,
+since it is varying the amplitude of the local energy density of vacuum as a
+periodic function of time."  "Rigorously, this constitutes a powerful
+electrogravitational wave -- which I have dubbed a scalar EM wave.  Applied to
+the highly nonlinear nucleus, this wave constitutes a pump wave in the
+nonlinear phase conjugate mirror for the production of time-reversed EM waves,
+time-reversed gravity (i.e. antigravity), and time-reversed entropy (i.e.
+negentropy)."  "Thus there are two kinds of electromagnetics and two kinds of
+EM waves:  (1) the normal translation force vector kind, which translates
+charged particles and interacts primarily with the electron shells, and (2)
+the artificial scalar potential kind, which does not translate charged
+particles, and interacts primarily with the atomic nucleus."
+
+[For a detailed exposition of time reversal in physics, see Robert G. Sachs,
+The Physics of Time Reversal, University of Chicago Press, Chicago, 1987.  For
+a discussion of negative energy with respect to the binding energy of the
+nucleons in the atomic nucleus, see C. W. Rietdijk, "How do 'virtual' photons
+and mesons transmit forces between charged particles and nucleons?,"
+Foundations of Physics, 7(5-6), June 1977, pp 351-374.
+
+Stefan Marinov has also suggested corrections to the mathematical description
+of Maxwell's electromagnetism equations.  In his recent letter to New Energy
+News (Marinov 1994), he states:
+
+"Today's physics asserts that the fundamental equation in electromagnetism is
+the Lorentz equation.  This is a fraud.  I showed theoretically and
+experimentally that the fundamental equation in electromagnetism is the
+Newton-Lorentz equation (as called by me) which is:
+
+m u0 = - q * grad f - (q/c)   A/  t + (q/c) V * rot A - (q/c) * div A
+
+where f and A are the electric and magnetic potentials of an electromagnetic
+system at a point crossed by a particle with mass m, electric charge q, and
+velocity V.  The acceleration of the charge is u0 and c is the velocity of
+light.  THE LAST TERM IS MISSING in the Lorentz equation.  And exactly this
+term is responsible for the rotating of the rotating Ampere bridge."
+
+Also:  "Today's physics asserts that when one has in one's hand a magnet and
+in the other a wire, then at the motion of the wire as well as at the motion
+of the magnet the same electrical intensity
+
+Emot = (V/c) * rot A
+
+acts on the charges in the wire.  This is a fraud.  The above motional
+intensity acts only at the motion of the wire.  At motion of the magnet the
+motionaltransformer electric intensity I discovered:
+
+Emot-tr = (1/c) (V * grad) A
+
+acts on the charges in the wire.  I demonstrated this by many experiments, the
+most eloquent of which is the quasi-Kennard experiment.  When wire and magnet
+move together, then, according to today's physics, no electric intensity has
+to act in the wire.  As a matter of fact the sum of the above two intensities
+acts and this can be observed on the famous Faraday disk.  This effect was
+observed by Faraday in 1831 but until today physics cannot explain it."
+
+Stefan has just completed a book entitled Divine Electromagnetism (Marinov
+1994) that summarizes his most recent findings and describes many experiments
+that prove these findings.  A recent reviewer said that:  "This is one of the
+potentially world changing books" in its field!"
+
+Tom Bearden
+
+For several years, Tom Bearden (1991) has worked on an extended
+electromagnetics theory, involving the scalar component of the quaternion.  (A
+scalar is a number with no vector direction, like speed.  A vector has
+numerical values in each defined direction, like velocity.  A quaternion is
+like a 4-component vector in a real-complex plane space.  See above.)  In
+MAXWELL'S ORIGINAL QUATERNION THEORY, this scalar component often remains when
+the directional components zero.  Further, it enfolds vectors and functions of
+vectors inside, in a hidden variable manner.  Specifically, Tom has patterned
+a unified field theory concept upon the previously unnoticed but remarkable
+early work of E. T. Whittaker.  "In 1903 and 1904, Whittaker showed that all
+present day vector EM can be replaced by scalar potential interferometry, and
+that bi-directional harmonic EM plane wave sets could be used to produce a
+standing wave of force-field-free potential.  In modern terms, this shows how
+to turn EM wave energy into electrogravitional potential energy, then how to
+interfere two such scalar potentials to recover the EM energy, even at a
+distance.  This unrecognized work is of great importance:  when applied to
+modern physics, it produces supersets of quantum mechanics, classical
+electromagnetics, and general relativity.  Further, all three extended
+disciplines unify on their common Whittaker subset, in a testable and
+engineerable fashion."  All of Tom's theories to unify electromagnetics,
+general relativity, and quantum mechanics are summarized in his 1991 paper,
+which is only six pages long!  These are all available from the Association of
+Distinguished American Scientists (ADAS).
+
+
+
+Bearden (1992) points out that:  "By utilizing fundamental new definitions for
+energy, potential, and scalar potential, the mass of the atomic nucleus may be
+considered a powerful electrostatic scalar potential, referred to as the mass
+potential.  The Whittaker EM bi-wave structure of the scalar potential then
+becomes a new and universal internal EM structure for mass, including the
+atomic nucleus.  This structure can be directly manipulated
+electromagnetically, which allows direct EM alternation of the mass potential,
+and the nucleus itself.  This totally new class of nuclear interactions is
+briefly explored, and several hypothesized mechanisms advanced for
+neutralizing or processing nuclear wastes.  Additional applications are
+hypothesized for experimental falsification or verification.  We have
+previously pointed out two successful experiments by Floyd Sweet, one for
+extracting useful EM energy from the vacuum, and one for the production of
+unilateral forces, including antigravity.  We have also pointed out the
+implications of the approach for possible testable unification of
+electromagnetics, general relativity, and quantum mechanics.  The cited
+Whittaker theory establishes a greatly expanded but engineerable EM, with
+external (spatial) and internal (hyperspatial) subsets.  Scientists and
+engineers are urged to seriously study the two cited Whittaker papers and
+their implications, and to set up experiments to falsify or verify the
+hypotheses advanced."
+
+Glen Rein
+
+While not specially related to energy conversion devices, Glen Rein (1991), at
+Quantum Biology Research Laboratory, presented results of his research with
+cell culture bioassays and the effects of time varying quantum potentials.  I
+feel this work is extremely important!  A modified caduceus coil was used to
+test the hypothesis that bucking (opposite) electromagnetic fields can cancel
+their vector fields and generate a time varying quantum potential (the "A
+field," for those in the know).  These experiments prove the existence of the
+"A field" that Tom Bearden and others refer to that has been excluded from the
+simplified EM equations (thanks to the simplifications of Heavyside) taught in
+physics today.  The coil was shown to dramatically stimulate the growth of
+lymphocytes in culture cells, both directly in proximity and indirectly
+through storing its information in water.  For those in the health fields: 
+think very carefully about what is being said here!  Then contact Glen!
+
+
+Wilhelm Reich
+
+Wilhelm Reich has become famous for his discovery of Orgone Energy, and the
+rather incredible effects of its use.  The results and applications of his
+research are documented by DeMeo (1989), and further research is being carried
+out at the Orgone Biophysical Research Laboratory.  The relationship between
+Orgonne Energy to the EM fields of the Earth and possibly to other fields is -
+at the present time - completely NOT understood.
+
+Bruce Cathie
+
+Bruce Cathie has made several important contributions to field energy research
+and is the author of several books.  His paper is also contained in these 2nd
+ISNE Proceedings (Cathie 1994).  He observes that the Earth is surrounded by
+several interlocking grids in a structure formed by a series of great circles
+around the Earth's surface.  He finally discovered "that angular measure, in
+minute of arc values, and a time unit based on twenty-seven units for one
+revolution of the Earth, was the key to unlocking the grid secrets."  His
+theories are very interesting, and are supported by various structures that
+can be seen constructed, even very deep underwater, at intersection points of
+these grids.  He concludes that this grid establishes a grid of energy
+completely around the Earth that he feels is known by a select and powerful
+group of international interests and scientists.  His paper includes a
+complete set of harmonic unified tables which "demonstrate the linkage of
+gravitational ad electromagnetic forces."
+
+William Hyde
+
+William Hyde has stated that he developed an over-unity device and patented it
+with full disclosure of all of its details in his U.S. Patent "Electrostatic
+Energy Field Power Generating System," U.S. Patent No. 4,897,592, granted
+January 30, 1990.  Since then, several researchers have been in contact with
+the inventor trying to replicate this device.  Moray B. King has become a
+central researcher in this effort, and has issued a list of technical items
+that are not in the patent that may be necessary for the successful operation
+of this device (King 1992).  To my knowledge, no one has yet replicated the
+over-unity operation of the device as stated by Hyde.
+
+Troy and Evelyn Reed
+
+The Reed (1991) Magnetic Motor is an electromechanical device that Troy Reed
+says runs on magnetic power.  The author has developed a small prototype and a
+larger unit that have both undergone several demonstrations and testing
+programs.  He has also filed for a Patent with the Patent Office and the
+Foreign PTO/EPO.  In his design, eight permanent magnets are placed on each of
+four disks.  Two outer disks remain stationary while the two inner ones are
+mounted on a common shaft and are allowed to turn freely.  Videotapes and
+other information are available.
+
+Bruce dePalma
+
+Bruce dePalma (1991) points out that the key to understanding and explaining
+the baffling situation of anomalous excess electrical energy generation in
+free-energy machines lies in a re-interpretation of magnetism as not being a
+property of the magnet, but of space itself.  The Primordial Energy Field is
+then also distorted as a consequence of the spatial reaction to the
+centripetal force field existing within a ROTATING magnetized conductor. 
+Bruce says that a N- machine/Space Power Generator is an electrical machine
+which has the capability of producing electrical energy with significantly
+less mechanical power input than the presently employed induction machines. 
+In 1978, he constructed such a rotating device, the Sunburst machine, that was
+advertised to be 110% to 120% efficient (10 to 20% over-unity).  In 1985,
+tests were per-formed under the direction of a well-known Professor Emeritus
+of Electrical Engineering from Stanford University.  The test report quotes: 
+"Known for over 150 years, the Faraday homopolar generator has been claimed to
+provide a basis for so-called free-energy generation, in that under certain
+conditions the extraction of electrical output energy is not reflected as a
+corresponding mechanical load to the driving source.  During 1985 I was
+invited to test such a machine.  While it did not perform as claimed,
+repeatable data showed anomalous results that did not seem to conform to
+traditional theory.  ... dePalma may been right in that there is indeed a
+situation here whereby energy is being obtained from a previously unknown and
+unexplained source."
+
+General Atomics (1991), a well known "high-tech" company located near San
+Diego, CA, has also been interested in exploring the capabilities of
+N-Machines.  A "High Voltage Homopolar Generator" is described in a General
+Atomics marketing brochure dated in February 1991.
+
+Paul Brown
+
+Paul Brown (1991) describes a resonant circuit device containing a nuclear
+isotope that reportedly extracts energy from the Beta-decay from the isotope
+and uses it for useful work.  The focus of his research has been to develop
+isotopic power sources in the range of 10 to 5000 milliWatts with a working
+life of 10 years.  He states:  "A phenomena known as the 'Beta Voltaic Effect'
+is used to directly convert radioactive decay energy into electricity without
+going through a thermal cycle.  A great attraction of isotopic power sources
+is that radioactive decay energy is several orders of magnitude greater than
+chemical energy."  Specifically Paul uses a strong beta-emitting nuclide, like
+Krypton-85 or Strontium-90 as the radioactive material and places it directly
+into a tunable LC tank circuit.  He claims that results of 50% conversion
+efficiencies have been demonstrated, and greater efficiencies are hoped for in
+the future.  I have heard that T. Henry Moray also had used radioactive
+substances in his device in the 1930's.  I wonder if charged particles or
+charged ions play an important role in these effects.  Moray King (1992)
+thinks they do.
+
+Paul Brown (1992) describes recent developments in materials technology that
+now make it possible to fabricate non-thermal thin-film isotopic energy
+converters with a specific power of 24 kiloWatts/kilogram and 5 to 10 years
+working life at 5 to 10 Watts.  He states:  "This creates applications never
+before possible, such as placing the power supply directly on integrated
+circuit chips.  The efficiency of the converters is about 25%, which is two to
+three times greater than the 6 to 8% capabilities of current thermoelectric
+systems."
+
+Panos Pappas
+
+Professor P. T. Pappas (1991) from Greece gave an informative review of the
+theory and his experiments with the creation of energy in sparks and
+discharges.  Pappas points out that in Maxwell's theory, it is assumed that
+there is continuity and the closeness of the path for the flow of every
+current.  He examines the Cardinal current force law of Ampere, and claims
+that energy creation is considered as not binding, but as possible, according
+to this Cardinal law as an alternative principle to the continuous creation
+hypothesis of Astronomy.  Various inherent arc oscillations are presented as
+direct evidence of energy creation.
+
+Gary Johnson
+
+Gary Johnson (1992) reported that electrically induced explosions in water
+exhibiting free-energy are relatively easy to produce with a 2 micro-farad
+capacitor charged to 10 kiloVolts.  "Expanding steam does not seem to be the
+main cause for the explosions.  Similar explosions are obtained with
+significantly different peak currents, which raises questions about the
+longitudinal Ampere forces being the primary cause.  It is therefore
+conceivable that we are tapping a new energy source."  (Of course, this
+technique may not be the optimum one to extract this energy.  But it could
+lead us toward a better understanding of this source.)
+
+Robert Adams
+
+The Adams motor has been of considerable interest in the past year, and many
+researchers have obtained the plans for the motor and have replicated its
+design and results (Adams 1993).  Using the equations given with the plans,
+many claims of over-unity operation have been claimed and replicated. 
+However, from a copy of a letter from W. G. McMurthy to Robert Adams, Harold
+Aspden reports (Aspden 1994 NEN) that McMurthy stressed that:  "though he had
+replicated a working version of the motor, he could not vouch for any
+over-unity performance claims.  He was obviously not impressed by the
+'harmonic theory' that Adams was using to evolve the design concepts and had
+come to realize that earlier reports on how efficiency was measured by Adams
+were not sound.  Also, he questioned the relevance of the motor remaining
+cool, having regard to the relatively large mass of its core system and
+windings in relation to power throughout."  
+The reader is referred to the papers by Harold Aspden and W. G. McMurthy for
+further information and details regarding the Adams Motor and specifically the
+equations that are used to measure its input power, output power, and the
+motor's resulting efficiency.
+
+Joseph Newman
+
+>From Newman (1984):  "I question what I learn.  I will not be intimidated by
+people.  They say that the energy in a magnetic field is the result of moving
+a conductor through a magnetic field, a result of electrical flow within the
+conductor.  They maintain that the energy you get is because of the energy you
+put into the system.  I listened to that and I read the material and felt very
+uncomfortable."  "Then I understood the mechanical essence of what I saw in
+that gyroscope.  As soon as I understood that, I instantly understood the
+answer to my question of what that energy was in the magnetic field." 
+[Interviewer:  You're saying it's mechanical energy in the magnetic field?] 
+"Yes, that's what I'm saying.  What's extremely interesting is that's exactly
+what Michael Faraday and James Clark Maxwell stated better than 100 years ago
+and it's been totally ignored. ... Scientifically this analogy is exact." 
+"Electricity is the movement of these gyroscopic particles.  When you move a
+conductor these particles are deflected and go down that conductor."  "I have
+spend 15 years writing a scientific document that mechanically explains
+gravity, electricity, magnetism, inertia, planetary motion, and a new source
+of energy, all by one single mechanical explanation, by this gyroscopic
+action.  I can explain why magnets attract and repel, why electrical charges
+attract and repel, all of those things."  [The 1994 2nd Edition of his book
+and a videotape are now available.  (Newman 1994)]
+
+Recent Documented Examples of Suppression
+
+>From Paul Brown's written Open Letter (Brown 1991):  "I have been involved
+with alternative energy research since 1978, while still a college student. 
+Over the years I have heard many nightmare stories about people who developed
+something significant only to be persecuted, harassed, prosecuted, and even
+killed. ...  As time went on, and in about 1982, I became involved in work of
+some significance and received some minor criticism and skepticism that I
+found to be beneficial as well as practical ... However, things began to
+change, slowly and alarmingly.  The more success I had in my endeavors, the
+more I began to attract dishonest and greedy people.  In 1987 we decided it
+was time to let the world know what we were working on and the results we were
+getting.  ...  But this was the real beginning of the worst.  Since that
+February 1987, I or my company have been persecuted by the State Dept. of
+Health; then the Idaho Dept. of Finance filed a civil complaint; ... I began
+to receive threats;  securities fraud charges were then filed against my
+company and my self;  then the tax man;  then the SEC;  then my wife was
+assaulted;  my house was robbed three times;  twice I was accused of drug
+manufacturing; I lost my home;  and most recently my mother's car was pipe
+bombed. ... I am here to tell you it is not coincidence.  I now understand why
+some inventors drop out from society.  My advice to you is keep a low profile
+until you have completed your endeavor; be selective in choosing your business
+partners; protect yourself and your family;  know that the nightmare stories
+are true."  "God speed, Good Luck in your endeavors, and Never lose The
+Faith."
+
+>From the letter for "Urgent Appeal" by inventor and patent recent holder
+William Hyde (Hyde 1992):  "The United States Department of Energy and various
+large corporations have and are attempting to suppress this new emerging
+energy technology.  They use harassment, death threats, blackmail, extortion
+and employ people to file frivolous lawsuits to drain off resources to stop
+development and manufacture.  I have been in court for five years over every
+conceivable frivolous matter one could think of.  Unless I receive help from
+the American people, I will not be able to work in this important energy
+technology area, as the costs of fighting a cabinet level federal bureaucracy
+and billion dollar corporations is prohibitive.  My legal costs over the last
+five years has been over $35,000.  I have lost over 30 foreign patents because
+of the government action."  "Again, I ask for you help in this important
+matter.  I personally thank all of you in advance for your help.  I look
+forward to hearing from you all."
+
+There are other examples of evident suppression of advanced research and of
+newsworthy stories in the U.S. media.  "Project Censored" at Sonoma State
+University in California publishes a newsletter and a yearly compilation of
+what journalism students at that university think are the most actively
+suppressed stories by the U.S. media.  The are many theories as to the reasons
+for such suppression and the groups that could be performing it.  A good
+review of such groups is given by John Coleman in his book Conspirators'
+Hierarchy:  The Story of the Committee of 300, (Coleman 1992).  Possible
+reasons for such control are the main subject of another book, Bankruptcy
+1995, (Figgie Jr. 1992).  These and other valuable books are also available
+from the Liberty Library - get their free catalogue using their 800 number.
+
+Cold Fusion Over-Unity Research
+
+The verified and repeatable over-unity effects and phenomena of 'Cold Fusion'
+also will just not go away.  Edmund Storms of Los Alamos National Laboratory
+has reviewed much of the work done internationally in the so-called area of
+cold fusion and has documented the results of the now world-wide research in
+this area (Storms 1993).  Carol White has documented a summary of research and
+repeated results presented at the 3rd International Cold Fusion Conference
+(White 1993).  Within the U.S., Bob Shaubach at Thermacore has presented a
+paper entitled "Electrolysis of Light Water Produces Excess Energy - 78 Watts
+Output with 28 Watts Input."  Also, the Electric Power Research Institute
+(EPRI) research at the Stanford Research Institute (SRI) will be published
+this August that verifies the existence of the cold fusion phenomena,
+including nuclear product formation (McKubre 1994).  How such cold fusion
+systems could be commercialized in the near future is summarized in a recent
+paper by Hal Fox (Fox 1993).
+
+U.S. Patents
+
+There are several patents of equipment and devices that are of interest and
+could be very important to researchers in the free-energy areas.  All of the
+patents that I am currently aware of that relate to these areas are all listed
+in their own section in the references.  Copy it.
+
+It is important to note that you can quickly obtain any patent from a local
+U.S. patent clearinghouse, such as the one in Sunnyvale, California, by a
+telephone call or a FAX once an account has been set up for you.  If you are
+not in a hurry, you can order a copy of any patent for $3.00 (three dollars)
+each from the Commissioner of Patents and Trademarks in Washington DC,
+although it may take 2-6 weeks.  Just provide the long patent number with a
+short letter.
+
+It is also important to know that U.S. Patents undergo a lengthy review
+process.  Part of that process is a detailed review by a committee to see if
+any of the technology within the patent is applicable to "groups" in support
+of the national security.  One panel, called the ASPAB, is set up each year,
+composed of members of the four armed services to perform this function.  If
+ANY member of the panel feels that the patent information could be used "in
+the interest of national security," then the patent is removed from the patent
+process, and the inventor is sent the "Secrecy Order" reprinted at the end of
+this paper.  The inventor is ordered:  "in nowise to publish or disclose the
+invention or any material information with respect thereto, ... ".  In other
+words, they say:  "thank you for the information, now SEND IT IN AND FORGET
+IT!"  Over 3,000 patents have been classified this way (MacNeill 1983).  Each
+of these is supposed to be reviewed on a yearly basis for possible release
+back to the inventor.  I know of only one that was.
+
+It is also interesting to note that the recent passage of NAFTA by the U.S.
+Government is supposed to allow patents that have been granted in Canada and
+Mexico to be also immediately applicable in the U.S.  Joseph Newman is
+actively pursuing this avenue, as he was granted a patent for his device in
+Mexico and has been repeatedly denied the same patent in the U.S.  I strongly
+suggest that others contact him and their own legal councils regarding this
+matter.
+
+Conclusions
+
+"Woe to you, you blind leaders of a hoard of blind, who say:  'This should be
+done and that should not be left undone.'  You only represent a false teaching
+and ignore the laws of Creation" (Rashid 1992).
+
+"It has been said that science is man's futile attempt to understand Nature. 
+While it becomes important to learn, understand, and apply science in our
+everyday lives, it is equally important to continue the pursuit of unraveling
+the secrets of Nature."  (ISNE 1993 & 1994, from 'Forward').  
+
+If ignorance was a good enough reason to not try, the light bulb would have
+never been invented and the Earth would still be flat.  Let us be judged by
+our work and repeatable results, and not by hasty words.  If some of these
+works turn out to be not valid:  So Be It;  Let it Be Known;  and Let's Move
+Forward with Integrity!  We are all desperately looking for the next big
+breakthrough in modern physics to assist us in solving the escalating energy
+and environmental crises!  
+
+Do something to promote and encourage the continuation of these researchers
+and these works!  If you don't do it, who will?  If not now, when?
+
+Business Plan
+
+An international organization has been created that is committed to the study
+of these fields and the support of its researchers.  Such an organization
+cannot survive within the United States alone.  What is proposed is a three
+step plan:  (1)  The creation of an annual advanced energy conference to bring
+together those who will openly discuss ideas, experiments, and devices;  (2) 
+The use of an international non-profit corporation that would support these
+activities and extend and network these conferences internationally;  and (3)
+The creation of a financial dividend structure that would allow all
+participants to gain from the success of others.  All we need is a responsible
+team of researchers and repeatable results:  the financial backers will come.
+
+Research and advancement done at the expense of others must become a thing of
+the past.
+
+Acknowledgments
+
+I thank all of the researchers and authors that have promoted these ideas and
+have placed themselves on the line in the face of so-called "adversity."  I
+also thank the staff and promoters of the INE, NEN, and IANS for contributing
+to this conference.  I also gratefully acknowledge these and many other
+researchers, scientists, and skeptics that have contributed serious open
+research and documentation to boldly advance science and technology for the
+benefit of the human race.
+References
+
+Adams, R. (1993), "The Adams Pulsed Motor Generator Manual," Jan. 1993:  Nexus
+New Times Magazine, PO Box 30, Mapleton Qld 4560, Australia, $50.00.
+Alexandersson, Olof (1982).  Living Water, Gateway Books, The Great Tradition,
+CA.
+Aspden, Harold A. (1989).  "The Theory of the Gravitation Constant," Physical
+Essays, Vol. 2, No. 2, pp 173-179, 1989.
+Aspden, Harold A. (1991).  "The Theory of Antigravity," Physical Essays, Vol.
+4, no. 1, pp 13-19, 1991.
+Aspden, H. (1994), "Patents for Cold Fusion," New Energy News, April 1994, p3.
+Barrett, T. W. (1991), "Tesla's nonlinear oscillator-shuttle-circuit (OSC)
+theory," "Appendix:  Quaternions-Overview," Annales de la Fondation Louis de
+Broglie, Vol. 16, No. 1, pp 23-41, 1991.
+Bearden, Thomas E. (1986).  Analysis of Scalar Electromagnetics Technology,
+134 pp, Tesla Book Company.
+Bearden, Thomas E. (1986).  FER-DE-LANCE:  A Briefing on Soviet Scalar E-M
+Weapons, 225 pp, Tesla Book Company.
+Bearden, Thomas E. (1988).  AIDS:  Biological Warfare, 486 pp, Tesla Book
+Company.
+Bearden, Thomas E. (1988).  "Maxwell's Original Quaternion Theory Was a
+Unified Field Theory of Electromagnetics and Gravitation," Proceedings of the
+International Tesla Society Symposium, 1988, 58 pp, Association of
+Distinguished American Scientists, P.O. Box 1472, Huntsville, AL 35807, FAX
+(205) 536-0411.  Also available through ITS Books and PACE.
+Bearden, Thomas E. (1989).  Gravitobiology:  A New Biophysics, 2nd Edition,
+170 pp, Tesla Book Company.
+Bearden, Thomas E., and Walter Rosenthal (1991).  "On A Testable Unification
+of Electromagnetics, General Relativity, And Quantum Mechanics," 26th IECEC,
+Vol. 4, pp 487-492, and Association of Distinguished American Scientists.
+Bearden, Thomas E. and Michrowski, Andrew, Eds. (1990), The Emerging Energy
+Science:  An Annotated Bibliography, 2nd Edition, 1990, available through
+PACE.
+Bearden Thomas E., and Floyd Sweet (1991).  "Utilizing Scalar Electromagnetics
+To Tap Vacuum Energy," 26th IECEC, Vol. 4, pp 370-375, and Association of
+Distinguished American Scientists, 1991.
+Bearden, Thomas E. (1992).  "Background for Pursuing Scalar Electrodynamics,"
+Association of Distinguished American Scientists.
+Bearden, T. E.(1992), "The Emerging New Unified Science of Mind and Matter
+Interaction," 1992 Proceedings of the IANS, available through IANS.
+Bearden, Thomas E. (1992), "An Interpretation of Whittaker's Harmonic Biwave
+Decomposition of the Scalar Potential and His Replacement of Orthodox EM
+Forcefield Waves by Scalar Potential Interferometry," available from the
+author through ADAS, August 1992.
+Bearden, Thomas (1992).  "A Redefinition of the Energy Ansatz, Leading to a
+Fundamentally New Class of Nuclear Interactions," 27th IECEC, pp 4.303-4.310,
+and Association of Distinguished American Scientists.
+Bearden, T. E. (1993), "The Final Secret of Free Energy," 1st International
+Symposium on New Energy paper, April 1993.
+Bennett, Gary L. (1993), "The 'Pathological Science' Syndrome:  A Concern for
+Energy Science," 28th IECEC, pp 2.335-2.340, August 1994.
+Brown, Paul M. (1991).  "Current Status And Future Research With Resonant
+Nuclear Generators," 26th IECEC, Vol. 6, pp 132-134.
+Brown, Paul (1991), "An Open Letter to All Working on Alternate Energy,"
+personal written communication from Paul Brown, dated Nov. 1, 1991.
+Brown, Paul M. (1992).  "Solid State Isotopic Power Source for Computer
+Chips," 27th IECEC, pp 4.345-4.350.
+Brown, T. Townsend (1952), "An Investigation Relative to Thomas Townsend
+Brown" by W. M. Cady, Office of Naval Research, Pasadena, CA, undated,
+Classified Confidential, released to the USAF 18 Sept 1952 [classification
+canceled by ONR, 1 Oct 52].  
+Brown, T. Townsend (undated), "Research File on T. Townsend Brown,"
+Publication No. 4501/4, William L. Moore Publications and Research, 4219 West
+Olive Ave., Suite 247, Burbank, CA 91505, $15.00, undated.
+Brown, T. Townsend (undated), "The Townsend Brown Electro-Gravity Device, A
+Comprehensive Evaluation by the Office of Naval Research, with Accompanying
+Documents," 15 September 1952, Publication R-503, William L. Moore
+Publications and Research, PO Box 1845, Prescott, AZ 86302, $10.00, undated.
+Brown, Tom (1988).  The Hindershot Motor Mystery, Borderland Sciences.
+Cameron, Pam and Fred (1991).  Bridges of Light, 1991, Access Center, P.O. Box
+2517, Pagosa Springs, CO 81147-2517, $12.00.
+Cathie, Bruce L. (1990).  The Energy Grid - Harmonic 695:  The Pulse of the
+Universe, 1990.
+Cathie, Bruce L. (1994), "Harmonics and the Unified Field Theory," 2nd ISNE,
+1994;  Quark Enterprises LTD, 158 Shaw Road, Oratia, Auckland, New Zealand,
+Phone 818-4291.
+Cheney, Margaret (1981).  Tesla:  Man Out of Time, 1981, Prentice Hall
+Publishing, NY.
+Childress, David H. (1992).  Anti-Gravity and the World Grid, 1992, ITS Books.
+
+
+Childress, Hatcher (1985).  The Anti-Gravity Handbook, 1985, Adventures
+Unlimited Press, IL.
+Cleaver, A. V. (1957), "Electro-Gravitics:  What it is - or Might Be," Journal
+of the British Interplanetary Society, Vol. 16, No. 2, April-June 1957, pp
+84-94.
+Coleman, Dr. John (1992).  Conspirators' Hierarchy:  The Story of the
+Committee of 300, 1992.
+Coler, H. (1946), "The Invention of Hans Coler, Relating to an Alleged New
+Source of Power," British Intelligence Objectives Sub-Committee report No.
+1043 Item 31, 32 pp, Now Unclassified, Summer 1946.  (Available from the
+author for $5.00 per copy)
+Cromer, A. (1993), "Pathological Science: An Update," Skeptical Inquirer, Vol.
+17, pp 400-407, 1993.
+DeMeo, James (1989).  The Orgone Accumulator Handbook:  Construction Plans,
+Experimental Use, and Protection Against Toxic Energy, ITS Books.
+dePalma, Bruce (1991).  "Magnetism As A Distortion Of A Pre-Existent
+Primordial Energy Field And The Possibility Of Extraction Of Electrical Energy
+Directly From Space," 26th IECEC, Vol. 4, pp 429-432.
+Festinger, Leon, Henry W. Riecken, and Stanley Schachter (1956).  When
+Prophecy Fails, Harper Torchbooks, Harper and Row Publishers, NY.
+Figgie, H. E. Jr. (1992), Bankruptcy 1995:  The Coming Collapse of America and
+How to Stop It, Little, Brown and Company, U.S. and Canada, 1992.
+Findley, Paul (1985).  They Dare to Speak Out, Lawrence Hill Books, IL.
+Fortune, Dion (1957).  Psychic Self-Defense, The Aquarian Press, England.
+Fox, Hal (1993), "Commercialization of Enhanced Energy Systems," 28th IECEC
+paper, pp 2.321-2.328, August 1993.
+Fox, Hal, Ed., (undated), Impact Articles on Cold Fusion, Fusion Information
+Center, P.O. Box 58639, Salt Lake City, Utah 84158-0369, TEL (801) 583-6232,
+FAX (801) 583-6245.
+General Atomics (1991), "High Voltage Homopolar Generator," described in a GA
+marketing brochure 2-28-91.
+Gibson, F. G. (1983), "The All-Electric Motional Field Generator and its
+Potential," Second International Symposium on Non-Conventional Energy
+Technology, Atlanta, GA, Sept. 1983, [available from Hathaway Consulting
+Services].
+GRG, Gravity Research Group (1956), "Electrogravitics Systems:  An Examination
+of Electrostatic Motion, Dynamic Counterbary, and Barycentric Control," Feb.
+1956:  Gravity Research Group report GRG-013/56, Wright Patterson AFB
+Technical Library, Catalog No. TL 565 A9, WPAFB, Ohio 45433.
+Gurdjieff, G. I. (1963).  Meetings With Remarkable Men, page 185, E. P.
+Dutton, NY.
+Hathaway, G. D. (1991), "From Anti-Gravity to Zero Point Energy:  A Technical
+Review of Advanced Propulsion Concepts," IEPC-91-127, AIDAA/AIAA/DGLR/JSASS
+22nd International Electric Propulsion Conference, October 14-17, 1991,
+Viareggio, Italy (Hathaway Consulting Services, 39 Kendal Ave., Toronto,
+Ontario, Canada M5R 1L5.
+Hatonn and St. Germain (dharma) (1991).  Phone Home E. T. - Reach Out and
+Touch Someone - Like God, Tehachapi Distributors, 1991.
+Heinlein, Robert (1961).  Stranger in a Strange Land, Ace/Putnam Books, NY.
+Hooper, W. J. (c1974), "New Horizons in Electric, Magnetic, and Gravitational
+Field Theory," 86 pp, Electrodynamic Gravity, Inc., 35 W. Tallmadge Ave.,
+Akron, Ohio 44310.
+Hooper, W. J. (1971), "Similarities of the Motional Electric and Gravitational
+Fields,"  22 pp, Appendix to the Hooper report, c1974 
+Hurtak, J. J. (1978).  The Book of Knowledge:  The Keys of Enoch, Acad. for
+Future Sciences.
+Hyde, William (1992), "Appeal to the American People for Help with Government
+and Big Business Suppression of New Emerging Technology," written
+communication from William Hyde April 1992;  William Hyde, 1685 Whitney, Idaho
+Falls, ID 83402-1768.
+Jefimenko, Oleg D. (1973).  Electrostatic Motors, Their History, Types, and
+Principles of Operation, ITS Books.
+Johnson, Gary (1992).  "Electrically Induced Explosions in Water," 27th IECEC,
+pp 4.335-4.338.
+Johnson, Gary L. (1992).  "Searchers for a New Energy Source," IEEE Power
+Engineering Review, pp 20-23, January 1992.
+Kelly, Don (1988), Letter to Don Kelly from Methernitha, dated 9.2.1988.
+Kelly, Donald A. and Patrick G. Bailey (1991).  "The Methernitha Free-Energy
+Machine, The Swiss M-L Converter," 26th IECEC, Vol. 4, pp 467-472.
+King, Llewellen (1991).  "On Solving the Great Problems of the World," 26th
+IECEC Luncheon Speech, Boston, MA, August 8, 1991.
+King, Moray B. (1989).  Tapping the Zero-Point Energy, ITS Books.
+King, M. B. (1992), "Update on the Hyde Invention,"  personal written
+communication from Moray B. King, January 1992.
+Krafft, C. F. (1955).  The Ether and its Vortices, ITS Books.
+Langmuir, I. (1989),  "Pathological Science," Physics Today, 42: 36-48,
+October 1989.
+LaViolette, Paul A. (1993), "The U.S. Antigravity Squadron," Proceedings of
+the 1st International Symposium on New Energy, p469.
+MacNeill, Ken (1983).  "Insights into the Proprietary Syndrome," 2nd
+International Symposium on Non-Conventional Energy Technology, Atlanta, GA, pp
+125-126, Sept. 9-11, 1983.
+Marinov, S. (1992), "Regarding Becocraft - Letter to Mr. Richard von
+Weizsacker, President of the German Federal Republic, 10 October 1992" ,
+Deutsche Physik, No. 7, East-West Publishers, Morellenfeldgasse 16, A-8010
+Graz, Austria.
+Marinov, Stefan (1994), "Letter to Germany's President," New Energy News,
+April 1994, p16.
+Marinov, Stefan (1994), Divine Electromagnetism, East-West Publishers,
+Morellenfeldgasse 16, 8010 Graz, Austria, Tel (0316) 37 70 93, $70.00 (USD). 
+(The funds go to aid Stefan in continuing his experimental discoveries).
+McKubre, Michael et. al. (1994), "An Overview of Excess Heat Production in the
+Deuterated Palladium System at SRI," 29th IECEC paper (to be presented August
+1994).
+McKubre, Michael et. al. (1994), "The Evidence for Anomalous Heat and Nuclear
+Product Formation in the Deuterated Palladium System at SRI," 29th IECEC paper
+(to be presented August 1994).
+Methernitha (1989).  "Informationsfilm Thesta-Distatica:  Sound Track
+Transcription," Tagungsband Proceedings, Internationaler Kongress fur Freie
+Energie, Einsiedeln, Switzerland 1989, ISBN 3-9520025-1-8.
+Moray, John and Kevin (1956).  The Sea of Energy in Which the Earth Floats,
+COSRAY, The Research Institute, Inc., 2505 South Forth Street East, P.O. Box
+651045, Salt Lake City, UT 84165-1045.
+Moray, John E., and Kevin R. Moray (1991).  "The Sea Of Energy:  A Means For
+The Preservation Of The Environment By Drawing Kinetic Energy From Space,"
+26th IECEC, Vol. 4, pp 347-351.
+Newman, Joe (1984), "Free Energy:  An Interview with Mr. Joe Newman," The
+Moneychanger, Vol. 4, No. 8, Sept. 1984, pp 1-5.
+Newman, J. (1994), The Energy Machine of Joseph Newman, a New Edition is to be
+released in about May 1994 (an older edition is also available):  Joseph
+Westley Newman, Route 1, Box 52, Lucedale, Miss. 39452, $60.00.  A videotape
+is also available for $25.00.
+Nieper, H. A. (1984), Revolution in Technology, Medicine and Society, MIT
+Verlag, Germany, 1984 (In English):  Tesla Book Company, PO Box 121873, Chula
+Vista, CA 91912, $27.00.
+Pappas, P. T. (1991).  "Energy Creation In Electrical Sparks And Discharges: 
+Theory And Direct Experimental Evidence," 26th IECEC, Vol. 4, pp 416-423.
+Rashid, Isa, and Edward Meier, English translation by J. H. Ziegler and B. L.
+Greene (1992).   The Talmud of Jmmanuel, 24:29-30, Wild Flower Press, P.O. Box
+230893, Tigard, OR 97224, 1992, $17.20.
+Reed, Troy G. (1991).  "The Reed Magnetic Motor:  The Motor Of Tomorrow," 26th
+IECEC, Vol. 4, pp 484-486.  Troy Reed, PO Box 471613, Tulsa, OK 74147, (918)
+664-0100.
+Rein, Glen (1991).  "Utilization Of A Cell Culture Bioassay For Measuring
+Quantum Potentials Generated From A Modified Caduceus Coil," 26th IECEC, Vol.
+4, pp 400-403.
+Resines, Jorge (1988).  The Complex Secret of T. Henry Moray, ITS Books.
+Rice, William P. (1991), "An Intuitive Look at Electromagnetic Theory,"
+Radio-Electronics Magazine, 5 Part Article, August - December 1991.
+Russell, Walter (1926).  The Universal One, Univ. of Science and Philosophy.
+Russell, Walter (1947).  The Secret of Light, Univ. of Science and Philosophy.
+Russell, Walter (1989).  A New Concept of the Universe, Univ. of Science and
+Philosophy.
+Russell, Walter and Lao (1981).  Atomic Suicide,  Univ. of Science and Philosophy.
+Sigma, Rho (1977).  Ether-Technology, A Rational Approach to Gravity Control,
+ITS Books.
+Seike, S. (1992), The Principles of Ultra Relativity, 11th Ed., 1992:  Space
+Research Institute, Box 33, Uwajima, Ehime (798), Japan, $70.00 (USD).
+Shaubach, R. (1992), "Electrolysis of Light Water Produces Excess Energy - 78
+Watts Output with 28 Watts Input," 27th IECEC informal paper, Aug. 7, 1992,
+Thermacore, Inc., 780 Eden Road, Lancaster, PA 17601.
+Storms, E. (1993), "The Status of 'Cold Fusion'," 28th IECEC paper, pp
+2.315-2.320, August 1993.
+Valone, Thomas (1991).  "Non-Conventional Energy And Propulsion Methods," 26th
+IECEC, Vol. 4, pp 439-444.
+Valone, Thomas (1991).  "The One-Piece Faraday Generator:  Research Results,"
+26th IECEC, Vol. 4, pp 473-478.
+Valone, Thomas (undated), "Non-Conventional Energy & Propulsion Source
+Database," Integrity Institute, 1377 K Street, NW, Suite 16, Washington DC,
+TEL (202) 682-7371, FAX (202) 543-3069.
+Walters, Helen B. (1961).  Nikola Tesla - Giant of Electricity, Thomas Y.
+Crowell Comp., NY.
+White, Carol (1993), "A Summary Review of the 3rd International Conference on
+Cold Fusion," 28th IECEC paper, pp 2.309-2.314, 1993.
+
+Patents Information and Ordering
+
+Commissioner of Patents and Trademarks, Box 9, Washington DC 20231;  $3.00 per
+patent.
+Patent Information Clearinghouse, 1500 Partridge Avenue, Building 7,
+Sunnyvale, CA 94087, (408) 730-7290, FAX (408) 735-8762.
+
+Patents of Interest
+
+Alexander, Robert W. (1975), "Method and Apparatus for Increasing Electrical
+Power," U.S. Patent No. 3,913,004, Oct. 14, 1975.
+Aspden, Harold (1990), "Switched Reluctance Motor with Full Accommutation,"
+U.S. Patent No. 4,975,608, Dec. 4, 1990.
+Brown, Paul (1989), "Apparatus for Direct Conversion of Radioactive Decay
+Energy to Electrical Energy," U.S. Patent No. 4,835,433, May 30, 1989.
+Brown, T. Townsend (1960), "Electrokinetic Apparatus," U.S. Patent No.
+2,949,550, Aug. 16, 1960.
+Cap, Ferdinand (1986), "Parametric Electric Machine," U.S. Patent No.
+4,622,510, Nov. 11, 1986.
+Carr, Otis (1959), "Amusement Device," (i.e. A 'Flying Saucer'), U.S. Patent
+No. 2,912,244.
+de Rivas, Villasenor (1977), "Electromagnetic Generator," U.S. Patent No.
+4,006,401, Feb. 1, 1977.
+de Rugeris, John (1975), "Carburetor Apparatus Having an Improved Fuel
+Metering Arrangement," U.S. Patent No. 3,920,778, November 18, 1975.
+Del Vecchio, Robert M. (1986), "Low Core Loss Rotating Flux Transformer," U.S.
+Patent No. 4,595,843, Jun. 17, 1986.
+Ecklin, John W. (1086), "Biased Unitized Motor Alternator with Stationary
+Armature and Field," U.S. Patent No. 4,567,407, Jan. 28, 1986.
+Garron, Carlos S. (1968), "Transformer in Combination with Permanent Magnet,"
+U.S. Patent No. 3,368,141, Feb. 6, 1968.
+Gray, Edwin V. (1975), "Pulsed Capacitor Discharge Electric Engine," U.S.
+Patent No. 3,890,548, Jun. 17, 1975.
+Gundlach, Robert W. (1986), "Electrostatic Generator," U.S. Patent No.
+4,595,852, Jun. 17, 1986.
+Hayasaka, Enakichi (1989), "Homopole Type AC Generator," U.S. Patent No.
+4,831,299, May 16, 1989.
+Hickox, Barbara, (1981), "Electric Dynamo," U.S. Patent No. 4,249,096, Feb. 3,
+1981.
+Hooper, William W. (1971), "All-Electric Motional Electric Field Generator,"
+U.S. Patent No. 3,610,971, Oct. 5, 1971.
+Hyde, William (1990), "Electrostatic Energy Field Power Generating System,"
+U.S. Patent No. 4,897,592, Jan. 30, 1990.
+Johnson, Howard (1979), "Permanent Magnetic Motor," U.S. Patent No. 4,151,431,
+Apr. 24, 1979.
+Koenig, Earl (1989), "Electrical Circuit for Inductance Conductors,
+Transformers and Motors," U.S. Patent No. 4,806,834, Feb. 21, 1989.
+Kromrey, Raymond (1968), "Electric Generator," U.S. Patent No. 3,374,376, Mar.
+19, 1968.
+Lien, Charles (1987), "Buck - Boost Parallel Resonant Converter with Inductive
+Energy Recovery Circuit," U.S. Patent No. 4,709,323, Nov. 24, 1987.
+McKie, Richard L. (1992), "A Power Supply Comprising Two Tank Circuits," U.S.
+Patent No. 5,146,395, Sep. 8, 1992.
+Merestsky, Paul L. et. al. (1980), "Inductive Device Having Orthogonal
+Windings," U.S. Patent No. 4,210,859, Jul. 1, 1980.
+Merritt, Thomas, and Mario Pasichinskyj (1985)., "Linear Reciprocating
+Electrical Generator," U.S. Patent No. 4,500,827, Feb. 19, 1985.
+Pasichinskyj, Mario (1990), "Magnetic Motion Electrical Generator," U.S.
+Patent No. 4,904,926, Feb. 27, 1990.
+Pinkerton, Joseph F. (1990), "High Efficiency Electrical Machine," U.S. Patent
+No. 4,945,273, Jul. 31, 1990.
+Regan, Dennis J. (1989), "Magnetic Power Converter," U.S. Patent No.
+4,883,977, Nov. 28, 1989.
+Richardson, Frank B. (1978), "Electromagnetic Converter with Stationary
+Variable-Reluctance Members," U.S. Patent No. 4,077,001.
+Shoulders, Kenneth (1991), "Energy Conversion Using High Charge Density," U.S.
+Patent No. 5,018,180 (in the last pp), May 21, 1991.
+Specht, Theodore R. et. al. (1987), "Oscillating Flux Transformer," U.S.
+Patent No. 4,652,771, Mar. 24, 1987.
+Spence, Geoffery M. (1988), "Energy Conversion System," U.S. Patent No.
+4,772,816, Sep. 20, 1988.
+Tesla, Nikola (1891), "Electro-Magnetic Motor," U.S. Patent No. 464,666, Dec.
+8, 1891.
+Thomas, Friedrich - Werner et. al. (1988), "Inverter with Power Supply to
+Chopper Through Parallel Resonant Circuit Tuned to Twice the Chopper
+Frequency," U.S. Patent No. 4,748,311, May 31, 1988.
+Trombly, Adam (1982), "Closed Path Homopolar Machine," International Patent
+(PCT) H02K 31/00, 39/00, Jun. 24, 1982.
+Richardson, Frank B., "Electromagnetic Converter with Stationary
+Variable-Reluctance Members," U.S. Patent No. 4,077,001, Feb. 28, 1978.
+
+[I am indeed indebted to Samuel Faile, Alexander Peterson, and Walter
+Rosenthal for their past and continuing efforts in searching for and
+identifying U.S. and foreign Patents of interest in these areas.]
+
+Conference Proceedings
+
+1st ISNE, Proceedings of the International Symposium on New Energy, April
+16-18, 1993:  International Association for New Science (IANS), 1304 South
+College Avenue, Fort Collins, CO 80524, (303) 482-3731, $45.00.
+26th IECEC, Proceedings of the 26th IECEC, Volume 4, pp 329-492, August 1991: 
+American Nuclear Society, 555 North Kensington Avenue, La Grange Park, IL
+60525, (708) 352-6611, $275.00.
+27th IECEC, Proceedings of the 27th IECEC, Volume, pp  4.357-4.295, August
+1992:  Society of Automotive Engineers, 400 Commonwealth Drive, Warrendale, PA
+15096-0001, Order No. P-259, (412) 776-4841, $350.00.
+28th IECEC, Proceedings of the 28th IECEC, August 1993:  American Chemical
+Society, Meetings Department, 1155 Sixteenth Street N.W., Washington DC 20036,
+$310.00.
+29th IECEC, Proceedings of the 29th IECEC, August 1994:  American Institute of
+Aeronautics and Astronautics, 370 L'Enfant Promenade, SW, Washington DC 20024,
+TEL (202) 646-7528, FAX (202) 646-7508, to be published August 7, 1994.
+International Tesla Symposium Proceedings (1984, 1986, 1988, 1990, 1992). 
+International Tesla Society, PO Box 5636, Security, CO 80931.
+The Second International Symposium on Non-Conventional Energy Technology,
+September 9-11, 1983, Atlanta, GA.
+
+Periodicals
+
+The American Raum & Zeit (name changed to Explore in 1992), The New Dimension
+in Scientific Approach, P.O. Box 1508, Mount Vernon, Washington 98273, (800)
+845-7866.
+Connecting Link Magazine, 9392 Whitneyville Rd., Alto, MI 49302-9694, (616)
+891-0410, $20/yr.
+Electric Spacecraft Journal, P.O. Box 18387, Asheville, NC 28814, $24/yr, TEL
+(704) 252-8083, FAX (704) 683-3511.
+Explore, The New Dimension in Scientific Approach, P.O. Box 1508, Mount
+Vernon, Washington 98273, $59/yr, (800) 845-7866.
+Flat Earth News, quarterly, from the Flat Earth Society.
+Nexus New Times Magazine, PO Box 30, Mapleton Qld 4560, Australia.
+Project Censored Newsletter, PO Box 310, Cotati, CA 94931, $30/yr.  Yearly
+summary books of the year's most suppressed media stories also are available,
+year by year.
+Space Energy Association (SEA) Newsletter, Space Energy Association (SEA),
+P.O. Box 11422, Clearwater, FL 34616, TEL (813) 442-3923, FAX (813) 446-5290.
+Tuning In, Free Energy Connection, P.O. Box 255, Ivanhoe, 3079, Victoria,
+Australia, $25/yr, Phone 03 458 3626 AH.
+Organizations and Societies
+
+Academy for Future Sciences, PO Box FE, Los Gatos, CA 95031.
+AERI, Advanced Energy Research Institute, 14 Devonshire Mews West, London W1N
+1FP, Great Britain.
+ADAS, Association of Distinguished American Scientists, P.O. Box 1472,
+Huntsville, AL 35807, FAX (205) 536-0411.
+Borderland Sciences Research Foundation, PO Box 429, Garberville, CA
+95440-0429.
+Center for Action, Book and Videotape List and Newsletter, PO Box 472, HCR 31,
+Sandy Valley, NV 89019, (702) 723-5266 or (800) 729-4131, Newsletter $24/yr.
+COSRAY, The Research Institute, Inc., 2505 South Forth Street East, P.O. Box
+651045, Salt Lake City, UT 84165-1045.
+Electrodynamic Gravity, Inc., 35 W. Tallmadge Ave., Akron, Ohio 44310.
+Flat Earth Society, P.O. Box 2533, Lancaster, CA 93539, (805) 727-1635,
+$10.00/yr.
+Fusion Information Center, P.O. Box 58639, Salt Lake City, Utah 84158-0369,
+TEL (801) 583-6232, FAX (801) 583-6245.
+Gravity Power Research Association, 36 Mountain Road, Burlington, MA 01803.
+GRI, Group Research Institute, PO Box 438, Nelson, New Zealand.
+High Energy Enterprises, P.O. Box 5636, Security, CO 80931, TEL (719)
+475-0918, FAX (719) 475-0582.
+Institute for Advanced Studies at Austin, 4030 Braker Lane W., Suite 300,
+Austin, TX 78759.
+INE, Institute for New Energy, 1304 South College Avenue, Fort Collins, CO
+80524, $40.00/yr.
+Integrity Institute, 1377 K Street, NW, Suite 16, Washington DC, TEL (202)
+682-7371, FAX (202) 543-3069.
+ITS Books (International Tesla Society Books), High Energy Enterprises, PO Box
+5636, Security, CO 80931, TEL (719) 475-0918, FAX (719) 475-0582.
+ISNE, International Association for New Science (IANS), 1304 South College
+Avenue, Fort Collins, CO 80524, (303) 482-3731, $45.00.  IANS supports the
+INE.
+JPI, Japan Psychrotronic Institute, c/o Shiuji Inomata, Electrotechnical
+Laboratory, 1-1-4 Umezono, Tsukuba-shi, Ibaraki 305, Japan.
+Liberty Library, America's Preeminent Source of Patriotic Books and
+Literature, Liberty Lobby, 300 Independence Avenue, SE, Washington DC 20003,
+(800) 522-6292.  Call Now!
+NEN, New Energy News, PO Box 58639, Salt Lake City, UT 84158-8639:  monthly
+newsletter free to INE members.
+Orgone Biophysical Research Laboratory, Inc., P.O. Box 1395, El Cerrito, CA
+94530, TEL/FAX (510) 526-5978.
+Quantum Biology Research Laboratory, Cotati Research Institute, PO Box 60653,
+Palo Alto,   CA 94306.
+PACE, Planetary Association for Clean Energy, 100 Bronson Avenue, Suite 1001,
+Ottawa, Ontario, Canada T1R 6G8, TEL (613) 236-6265.  Many documents are
+available.
+PEA Research, 9638 Soaring Oaks Drive, Elk Grove, CA 95758.  Many documents
+available.
+REX Research, PO Box 19250, Jean, NV 89019.  Many device writeups are
+available.
+SEA, Space Energy Association, PO Box 11422, Clearwater, FL 34616.
+Tehachapi Distributors, PO Box 1911, Suite 122, Tehachapi, CA, 93581, (800)
+800-5565.
+Tesla Book Company, PO Box 121873, Chula Vista, CA 91912, (619) 659-0521.
+Tesla Incorporated, 760 Prairie Avenue, Craig, CO 81625, FAX (303) 824-7864.
+Tesla Incorporated Computer BBS (719) 486-2775 (300/1200/2400, 8, N, 1).
+Tesla Memorial Society, Inc., 453 Martin Road, Buffalo, New York 14218. 
+Videos and books are available.  Quarterly Newsletters are $1 each.
+USP, University of Science and Philosophy, Swannanoa, PO Box 520, Waynesboro,
+VA 22980, (703) 942-5161, (800) 882-5683.
+
+
+SECRECY ORDER
+(Title 35, United States Code (1952), sections 181-188)
+
+NOTICE:  To the applicant above named, his heirs, and any and all of his
+assignees, attorneys and agents, hereinafter designated principals:
+
+You are hereby notified that your application as above identified has been
+found to contain subject matter, the unauthorized disclosure of which might be
+detrimental to the national security, and you are ordered in nowise to publish
+or disclose the invention or any material information with respect thereto,
+including hitherto unpublished details of the subject matter of said
+application, in any way to any person not cognizant of the invention prior to
+the date of the order, including any employee of the principals, but to keep
+the same secret except by written consent first obtained of the Commissioner
+of Patents, under the penalties of 35 U.S.C. (1952) 182, 186.
+
+Any other application already filed or hereafter filed which contains any
+significant part of the subject matter of the above identified application
+falls within the scope of this order.  If such other application does not
+stand under a security order, it and the common subject matter should be
+brought to the attention of the Security Group, Licensing and Review, Patent
+Office.
+
+If, prior to the issuance of the secrecy order, any significant part of the
+subject matter has been revealed to any person, the principals shall promptly
+inform such person of the secrecy order and the penalties for improper
+disclosure.  However, if such part of the subject matter was disclosed to any
+person in a foreign country or foreign national in the U.S., the principals
+shall not inform such person of the secrecy order, but instead shall promptly
+furnish to the Commissioner of Patents the following information to the extent
+not already furnished:  date of disclosure;  name and address of the
+disclosee;  identification of such part;  and any authorization by a U.S.
+government agency to export such part.  If the subject matter is included in
+any foreign patent application, or patent, this should be identified.  The
+principals shall comply with any related instructions of the Commissioner.
+
+This order should not be construed in any way to mean that the Government has
+adopted or contemplates adoption of the alleged invention disclosed in this
+application;  nor is it any indication of the value of such invention.
+
+It is my feeling that something on the order of a so-called "free-energy
+device" would receive this treatment.  My only approach would be to go to the
+public domain.  That is, get the information or the device out there to enough
+people that they could not stop you.  This group looks like the best group to
+give this information to.  Hopefully it will forthcoming in the next three
+days.
+
+-------
+
+Transcribed from:  PROCEEDINGS;  The Second International Symposium on
+Non-Conventional Energy Technology, September 9-11, 1983, Atlanta, GA, pp
+125-126.
+
+Contact Ken MacNeill at Cadake Industries, P.O. Box 1866, Clayton, GA 30525.
+
+[I also have a copy of such an order that was actually sent to a friend of
+mine that is dated Mar. 17, 1964.  The Secrecy Order was fortunately withdrawn
+and his data and material declassified at a later date.  He was lucky.]
+
+

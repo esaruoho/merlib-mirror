@@ -1,0 +1,1004 @@
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII
+Content-Transfer-Encoding: 7BIT
+
+
+By O. Tedenstig
+Idungatan 37
+19551 Maersta/Sweden
+
+
+
+(*** Programmer/inventor Ove Tedenstig/Sweden 1994        ***)
+(* This program illustrate the mechanism behind the strong  *)
+(* nuclear force. The idea is that two bodies outplaced in  *)
+(* a random impact particle field will be effected by a     *)
+(* resulting impact force. The effect will be an equivalent *)
+(* attracting force, hence the two bodies will move towards *)
+(* each other.                                              *)
+(* The field is equivalent with the vacuum field with       *)
+(* mass density 1/Eo kg/m(3) with free particle velocities  *)
+(* equal to 2.Pi.c m/s, see my electromagnetical theory     *)
+(************************************************************)
+(* The program must be compiled by a TurboPascal program    *)
+(* in order to get an executive file "shadow.exe"           *)
+(* A graphical card/and file EGAVGA.BGI must be used        *)
+(* The program is run on an IBM compatible PC               *)
+(************************************************************)
+
+
+program shadow;
+uses
+Crt,graph;
+label     1;
+var
+n,nnn,w,graphdriver,graphmode,errorcode,detect:integer;
+x1,x2,y1,y2:real;                   (*parameters of line*)
+maxi,test:real;                     (*common parameters*)
+radius:real;                        (*common parameters*)
+RC0,X0C0,Y0C0:real;                 (*parameter of large circle*)
+RC1,X0C1,Y0C1:real;                 (*parameters of left circle*)
+RC2,X0C2,Y0C2:real;                 (*parameters of right circle*)
+X1C1,X2C1,Y1C1,Y2C1:real;           (*circle-line coordinates left circle*)
+X1C2,X2C2,Y1C2,Y2C2:real;           (*circle-line coordinates right circle*)
+X1C0,Y1C0,X2C0,Y2C0:real;
+k:real;                             (*tangens factor of line*)
+seed,f,Pi:real;                     (*common parameters*)
+hit_left,hit_right:boolean;         (*true if hit between line and circle*)
+L: array(.1..2,0..2,0..2.) of real; (*parameter of two lines, LINE_nr,X,Y*)
+alfa,d:real;                        (*angle between lines*)
+text_string:string;                 (*common text string*)
+posx,posy,a,pp,max:real;            (*common variables*)
+tal,tal_in:real;
+angle_alfa,angle_beta,angle_grad,angle_new,scale,k1,k2,k3:real;
+ch:char;
+signum,arrow1,arrow2,arrow3,arrow4:boolean;   (*common parameter*)
+f_left,f_right,df:real;             (* force effects on circles *)
+damp_factor:real;                   (* dam p_factor of each hit *)
+n_left,n_right,circle_max:integer;  (* total number of hits, left,right circle*)
+x11,x12,x21,x22,y11,y12,y21,y22:real;
+reflex,reflex_right,reflex_left,large:boolean;
+number_hits:integer;                (* maximum number of hits *)
+start,hl,hr:boolean;
+pppp,mmm,nnnn:integer;
+seeed:real;
+
+
+(* 6a ************** writing arrow pointing right *****************)
+(*   inputs: no   *)
+(*   output: writing arrow pointing right on screen *)
+Procedure Arrow_point_right;
+var       x1,x2,x3,x4,x5,x6,x7,y1,y2,y3,y4,y5,y6,y7:real;
+          x,y:array(.1..8.) of real;
+          px,py,nn:integer;
+begin
+k1:=0.670*60;k2:=0.670*25;k3:=0.670*10;
+for nn:=1 to 2 do begin
+x(.1.):=trunc(posx+scale*k1);y(.1.):=trunc(posy+scale*k2);
+x(.2.):=trunc(posx-scale*k1);y(.2.):=y(.1.);
+x(.3.):=x(.2.);y(.3.):=y(.2.)+trunc(scale*k3);
+x(.4.):=x(.3.)-trunc(scale*k2);y(.4.):=y(.1.)-trunc(scale*k2);
+x(.5.):=x(.3.);y(.5.):=posy-trunc(scale*k2+scale*k3);
+x(.6.):=x(.3.);y(.6.):=y(.5.)+trunc(scale*k3);
+x(.7.):=x(.1.);y(.7.):=y(.6.);
+x(.8.):=x(.7.);y(.8.):=y(.1.);
+
+k1:=k1*0.97;k2:=k2*0.97;k3:=k3*0.97;
+for n:=1 to 7 do begin
+line(trunc(x(.n.)),trunc(y(.n.)),trunc(x(.(n+1).)),trunc(y(.(n+1).)));
+end;
+end;
+
+end;
+
+
+(* 6b ************* writing arrow pointing left **************)
+(* inputs: no *)
+(* output: writing arrow pointing left on screen *)
+procedure arrow_point_left;
+var       x1,x2,x3,x4,x5,x6,x7,y1,y2,y3,y4,y5,y6,y7:real;
+          x,y:array(.1..8.) of real;
+          nn:integer;
+begin
+k1:=0.670*60;k2:=0.670*25;k3:=0.670*10;
+for nn:=1 to 3 do begin
+x(.1.):=trunc(posx-scale*k1);y(.1.):=trunc(posy+scale*k2);
+x(.2.):=trunc(posx+scale*k1);y(.2.):=y(.1.);
+x(.3.):=x(.2.);y(.3.):=y(.2.)+trunc(scale*k3);
+x(.4.):=x(.3.)+trunc(scale*k2);y(.4.):=posy;
+x(.5.):=x(.3.);y(.5.):=posy-trunc(scale*k2+scale*k3);
+x(.6.):=x(.5.);y(.6.):=y(.5.)+trunc(scale*k3);
+x(.7.):=x(.1.);y(.7.):=y(.6.);
+x(.8.):=x(.1.);y(.8.):=y(.1.);
+k1:=k1*0.97;k2:=k2*0.97;k3:=k3*0.97;
+for n:=1 to 7 do begin
+line(trunc(x(.n.)),trunc(y(.n.)),trunc(x(.(n+1).)),trunc(y(.(n+1).)));
+end;
+end;
+end;
+
+
+
+(* 0a *********** arrow pointing right, left side **********)
+(* input: no *)
+(* output: arrow poiting right on left part of screen *)
+procedure arrow_right_left;
+begin
+posx:=trunc(X0C1);posy:=trunc(Y0C1);
+setcolor(red);
+arrow_point_left;
+setcolor(yellow);
+arrow_point_right;   (* --->  6 *)     (*write arrows*)
+end;
+
+(* 0b *********** arrow pointing left, left side ***********)
+(* input: no *)
+(* output: arrow poiting left on left side of screen *)
+procedure arrow_left_left;
+begin
+posx:=trunc(X0C1);posy:=trunc(Y0C1);
+setcolor(red);
+arrow_point_right;
+setcolor(yellow);
+arrow_point_left;
+end;
+
+(* 0c ************ arrow pointing right, right side *********)
+(* input: no *)
+(* output: arrow pointing right on right part of screen *)
+procedure arrow_right_right;
+begin
+posx:=trunc(X0C2);posy:=trunc(Y0C2);
+setcolor(red);
+arrow_point_left;
+setcolor(yellow);
+arrow_point_right;
+end;
+
+(*0d ************* arrow poiting left,right side ************)
+(* input: no *)
+(* output: arrow pointing left on right side of screen *)
+procedure arrow_left_right;
+begin
+posx:=trunc(X0C2);posy:=trunc(Y0C2);
+setcolor(red);
+arrow_point_right;
+setcolor(yellow);
+arrow_point_left;
+end;
+
+
+(* 1 ******* convert integer 0-9 to character 0-9 *****)
+procedure int_alfa;
+begin
+if a=0 then ch:='0';
+if a=1 then ch:='1';
+if a=2 then ch:='2';
+if a=3 then ch:='3';
+if a=4 then ch:='4';
+if a=5 then ch:='5';
+if a=6 then ch:='6';
+if a=7 then ch:='7';
+if a=8 then ch:='8';
+if a=9 then ch:='9';
+end;
+
+(* 2 **** converts a real number to a string of character *****)
+(* input: tal, real number; *)
+(* output: writing number on screen*)
+procedure write_text;
+var       tal1,nn,rest,rest1:real;
+          n,nmax,nrest:integer;
+begin
+setcolor(yellow);
+n:=0;tal1:=tal;nn:=1;signum:=false;
+if trunc(tal1)<(-max) then begin outtextxy(trunc(posx),trunc(posy),'-');signum:=true;
+tal:=tal*(-1);tal1:=tal;end;
+while tal1>=1 do begin
+tal1:=tal1/10;n:=n+1;nn:=nn*10;
+end;
+nmax:=n;tal1:=tal;rest:=tal-nn/10;
+for n:=1 to nmax do begin
+nn:=nn/10;a:=trunc(tal1/nn);tal1:=tal1-a*nn;
+int_alfa;       (* ----> 1 *)
+outtextxy(trunc(posx+n*10),trunc(posy),ch);
+end;
+rest:=tal1;
+nrest:=n+1;
+outtextxy(trunc(posx+nrest*10),trunc(posy),'.');
+rest1:=rest;
+setcolor(yellow);
+for n:=1 to 5 do begin
+rest1:=rest1*10;a:=trunc(rest1);rest1:=rest1-a;
+int_alfa;      (* -----> 1*)
+outtextxy((trunc(posx)+(nrest+n)*10),trunc(posy),ch);
+end;
+end;
+
+(* 3 *****************************************************)
+(************ procedure init graph ***********************)
+procedure init_graph;
+begin
+graphdriver:=0;
+graphdriver:=detect;
+setgraphmode(graphmode);
+initgraph(graphdriver,graphmode,'');
+errorcode:=graphresult;
+if errorcode <>grok then
+begin
+writeln('Graphics error: ',grapherrorMsg(errorCode));
+writeln('program aborted..');
+halt(1);
+end;
+end;
+
+
+(* 4 ****** produces a random number between 0 to 1 ********)
+function randomm(seed:real):real;
+(*random number 0-1*)
+(*define seed as input*)
+const pi=3.14159;
+var x:real;
+    rand:integer;
+begin (*random*)
+pppp:=pppp+1;
+if pppp=100 then begin randomize;pppp:=0;end;
+rand:=random(3600);
+seed:=(rand/3600);
+randomm:=seed;
+if seed<=0.1 then seed:=0.1;
+end(*random*);
+
+procedure loop;
+var n:integer;
+    x:real;
+begin
+for n:=1 to w do begin
+x:=sin(20*n);
+end;
+end;
+(* 5  ************* wait time loop if wait condition is true ** )
+(* input: hit_left,hit_right:boolean *)
+(* output: wait_loop *)
+procedure wait;
+begin
+if ((hit_left=true) or (hit_right=true)) then begin loop;end;
+end;
+
+
+(* 8 *************** painting screen ***********************)
+procedure paint_screen;
+var       n:integer;
+begin
+for n:=1 to 500 do begin
+setcolor(2);
+line(0,n,700,(n+1));
+setcolor(2);
+end;
+end;
+
+(* 9 ******************* painting base circles ************)
+procedure paint_circles;
+var       rdx,dxx:real;
+
+begin
+setcolor(blue);
+dxx:=RC1/300;
+if start=false then begin circle_max:=300;end;
+if start=true then begin circle_max:=16;end;
+for n:=1 to circle_max do begin
+if n=45 then setcolor(magenta);
+circle(trunc(X0C1),trunc(Y0C1),trunc(1+RC1-dxx*n));
+circle(trunc(X0C2),trunc(Y0C2),trunc(1+RC2-dxx*n));
+end;
+start:=true;
+
+circle(trunc(X0C0),trunc(Y0C0),trunc(RC0));
+
+end;
+
+(* 9a paint area of text *******************)
+(* input: posx,posy * )
+(* output: painting text area green *)
+procedure paint_text_area;
+begin
+setcolor(lightblue);
+for n:=1 to 30 do begin
+line((trunc(posx)-10),(trunc(posy)-10+n),(trunc(posx)+100),(trunc(posy)-10+n));
+end;
+end;
+
+(* 10 ************** write text in left circle *********************)
+procedure text_left;
+var       tal_r:real;
+begin
+setcolor(yellow);
+if arrow1=true then arrow_left_left;
+if arrow2=true then arrow_right_left;
+posx:=trunc(X0C1-50);
+posy:=trunc(Y0C1+150);
+paint_text_area;          (* -----> 9a *)
+write_text;               (* ------> 2 *)
+arrow1:=false;arrow2:=false;
+if signum=false then begin arrow_left_left;arrow1:=true;end;
+if signum=true  then begin arrow_right_left;arrow2:=true;end;
+end;
+
+
+(* 11 ************** write text in right circle *******************)
+procedure text_right;
+begin
+setcolor(yellow);
+if arrow3=true then arrow_left_right;
+if arrow4=true then arrow_right_right;
+posx:=trunc(X0C2-60);
+posy:=trunc(Y0C2+150);
+paint_text_area;            (* -------> 9a *)
+write_text;                 (* -------> 2 *)
+arrow3:=false;arrow4:=false;
+if signum=false then begin arrow_left_right;arrow3:=true;end;
+if signum=true then begin arrow_right_right;arrow4:=true;end;
+end;
+
+(* 11a calculus of impulse force ********************************)
+(* input:  angle_alfa,angle_beta,left,right,damp_factor *)
+(* output: dF,F_left,F-right *)
+procedure compute_force;
+var       r_left,r_right:real;
+begin
+df:=-cos(angle_alfa)*cos(angle_beta);
+
+if (hit_left=true) then begin F_left:=F_left+df;
+n_left:=n_left+1;
+r_left:=F_left/n_left;
+tal:=trunc(r_left*10000)/100;end;
+
+if (hit_right=true) then begin F_right:=F_right+df;
+n_right:=n_right+1;
+r_right:=F_right/n_right;
+tal:=trunc(r_right*10000)/100;end;
+
+end;
+
+
+
+(* 12 *********** compute angle between two lines *************)
+(* input: L(.line_nr,x_parameter,y_parameter.);*)
+(* output: angle between lines *)
+procedure angle_lines;
+var  p1,p2,p3,p4,p5,p6,sina,cosa,a_b:real;
+
+begin
+p1:=L(.1,1,0.)-L(.1,2,0.);
+p2:=L(.1,0,1.)-L(.1,0,2.);
+p3:=L(.2,1,0.)-L(.2,2,0.);
+p4:=L(.2,0,1.)-L(.2,0,2.);
+p5:=(p1*p3+p2*p4);
+p6:=sqrt(p1*p1+p2*p2)*sqrt(p3*p3+p4*p4);
+if abs(p3)<max then p3:=max;
+if abs(p6)<max then p6:=max;
+cosa:=p5/p6;
+if cosa<max then cosa:=max;
+sina:=sqrt(1-cosa*cosa);
+angle_alfa:=abs(arctan(sina/cosa));(* angle betwwen infalling line and radius *)
+angle_grad:=angle_alfa*360/(2*pi);
+(*tal:=angle_grad;*)
+a_b:=abs(arctan(p4/p3)); (* angle between infalling line and horizontal line *)
+
+(* if the line two is in the 1st quadrant *)
+if ((L(.2,1,0.)>=L(.2,2,0.)) and
+    (L(.2,0,1.)>=L(.2,0,2.))) then angle_beta:=a_b;
+
+(* if the second line is in the 2nd quadrant *)
+if ((L(.2,1,0.)<=L(.2,2,0.)) and
+    (l(.2,0,1.)>=L(.2,0,2.))) then angle_beta:=pi-a_b;
+
+(* if the second line is in the 3rd quadrant *)
+if ((L(.2,1,0.)<=L(.2,2,0.)) and
+    (L(.2,0,1.)<=L(.2,0,2.))) then angle_beta:=pi+a_b;
+
+(* if the second line is in the 4th quatrant *)
+if ((L(.2,1,0.)>=L(.2,2,0.)) and
+    (L(.2,0,1.)<=L(.2,0,2.))) then angle_beta:=2*pi-a_b;
+
+angle_grad:=angle_beta*360/(2*pi);
+
+(*tal:=angle_grad;*)                 (* angle between in-line horizontal line *)
+compute_force;                       (* --------> 10a *)
+end;
+
+(* 13 ************** calculus of a new random line **********)
+(*   input: seed                 *)
+(*   output: x1,y1,x2,y2,seed    *)
+procedure line_random;
+begin
+setcolor(red);
+f:=randomm(seeed);seeed:=f;x1:=trunc(X0C0+RC0*cos(2*pi*f));
+y1:=trunc(Y0C0+RC0*sin(2*pi*f));
+f:=randomm(seeed);seeed:=f;x2:=trunc(X0C0+RC0*cos(2*pi*f));
+y2:=trunc(Y0C0+RC0*sin(2*pi*f));
+end;
+
+procedure korr_k;
+var       sign:real;
+begin
+if k<=0 then sign:=-1;
+if k>=0 then sign:=1;
+if (abs(k)<max) then k:=(max)*sign;
+end;
+
+
+(* 14 ***************** calculus of k-value of line ***************)
+(*  inputs: x1,y1,y1,y2                                       *)
+(*  output: k                                                 *)
+procedure k_value_of_line;
+var       dx,dy:real;
+          sign:integer;
+begin
+dx:=x1-x2;dy:=y1-y2;
+If dx<(-max) then sign:=-1;
+if dx>=0 then sign:=1;
+if (abs(dx)<max) then dx:=sign*max;
+k:=dy/dx;                  (*calc/ulus of the k parameter*)
+korr_k;                    (* control and correct zero of k *)
+end;
+
+(* 15 ************ defining start parameters ***************)
+(*                  no inputs                          *)
+procedure init;
+begin
+start:=false;
+w:=50;
+d:=25;
+write('Scale factor 0 -->1 ');readln(scale);
+number_hits:=10;
+if scale<=0.1 then scale:=0.1;
+if scale>=1 then scale:=1;
+RC1:=trunc(scale*100.5);          (*radius of left circle*)
+RC2:=trunc(scale*100.5);          (*radius of right circle*)
+RC0:=300;                         (*radius of large circle*)
+write('Global radius 300---> 3000 ');readln(RC0);
+if RC0<300 then RC0:=300;
+X0C0:=320;Y0C0:=235;              (*center of large circle*)
+X0C1:=X0C0-100;Y0C1:=Y0C0;        (*center of left circle*)
+X0C2:=X0C0+100;Y0C2:=Y0C0;        (*center of right circle*)
+seeed:=0.60;                       (*start value for random calculation*)
+pi:=3.141592;                     (*constant of pi*)
+df:=0;f_left:=0;f_right:=0;       (*reset force parameters*)
+nnn:=0;                           (* number of tries *)
+n_left:=0;n_right:=0;             (* number of hirts left,right circles *)
+max:=0.0001;
+end;
+
+
+(** 16 ****  solving equations of firts hit circles and line ****)
+(*  inputs: x1,y1,k                                             *)
+(* global X0C1,Y0C1,X0C2,Y0C2 *)
+(*  output: x2,y2                                               *)
+procedure first_hit;
+var       A,B,D1,D2,D3,D4,R,Z:real;
+          tt,tf,ft:boolean;
+begin
+tt:=false;ft:=false;tf:=false;
+hit_left:=false;hit_right:=false;
+
+Z:=((y1-k*x1)+X0C1*k)/k;
+A:=(Z*k+Y0C1*k*k)/(1+k*k);
+B:=k*k*(Y0C1*Y0C1+Z*Z-RC1*RC1)/(1+k*k);
+R:=A*A-B;
+if (R>max) then begin
+Y1C1:=A+SQRT(R);X1C1:=(Y1C1-(y1-k*x1))/k;
+Y2C1:=A-SQRT(R);X2C1:=(Y2C1-(y1-k*x1))/k;
+D1:=(X1C1-x1)*(X1C1-x1)+(Y1C1-y1)*(Y1C1-y1);
+D2:=(X2C1-x1)*(X2C1-x1)+(Y2C1-y1)*(Y2C1-y1);
+hit_left:=true;end;
+
+Z:=((y1-k*x1)+X0C2*k)/k;
+A:=(Z*k+Y0C2*k*k)/(1+k*k);
+B:=k*k*(Y0C2*Y0C2+Z*Z-RC2*RC2)/(1+k*k);
+R:=A*A-B;
+if R>max then begin
+Y1C2:=A+SQRT(R);X1C2:=(Y1C2-(y1-k*x1))/k;
+Y2C2:=A-SQRT(R);X2C2:=(Y2C2-(y1-k*x1))/k;
+D3:=(X1C2-x1)*(X1C2-x1)+(Y1C2-y1)*(Y1C2-y1);
+D4:=(X2C2-x1)*(X2C2-x1)+(Y2C2-y1)*(Y2C2-y1);
+hit_right:=true;end;
+
+if ((hit_left=true) and (hit_right=false)) then tf:=true;
+if ((hit_left=false) and (hit_right=true)) then ft:=true;
+if ((hit_left=true) and (hit_right=true)) then tt:=true;
+if ((hit_left=false) and (hit_right=false)) then tt:=false;
+
+(* sorting out the correct hit coordinate of first hit                   *)
+(* If only hit_left is true, then the hit is on the left circle          *)
+(* If only hit_right is true, then the hit is on the right circle        *)
+(* If both hit_left/right is true, then sort on min length of D1-D4      *)
+(* If only one circle true, then sort on min length of D1-d2,D3-D4       *)
+if ((tf=true) and (D1<D2)) then begin x2:=X1C1;y2:=Y1C1;end; (*left true *)
+If ((tf=true) and (D2<D1)) then begin x2:=X2C1;y2:=Y2C1;end; (*left true *)
+If ((ft=true) and (D3<D4)) then begin x2:=X1C2;y2:=Y1C2;end; (*right true*)
+If ((ft=true) and (D4<D3)) then begin x2:=X2C2;y2:=Y2C2;end; (*right true*)
+
+If ((tt=true) and (D1<D2) and (D1<D3) and (D1<D4)) then
+    begin x2:=X1C1;y2:=Y1C1;hit_right:=false;end; (* left and right true *)
+If ((tt=true) and (D2<D1) and (D2<D3) and (D2<D4)) then
+    begin x2:=X2C1;y2:=Y2C1;hit_right:=false;end; (* left and right true *)
+If ((tt=true) and (D3<D1) and (D3<D2) and (D3<D4)) then
+    begin x2:=X1C2;y2:=Y1C2;hit_left:=false;end;  (* left and right true *)
+If ((tt=true) and (D4<D1) and (D4<D2) and (D4<D3)) then
+    begin x2:=X2C2;y2:=Y2C2;hit_left:=false;end;  (* left and right true *)
+
+end;
+
+(* 17  write line on screen ***********************************)
+(* inputs: x1,x2,y1,y2 *)
+(* output: line on screen *)
+procedure write_line;
+begin
+setcolor(red);
+line(trunc(x1),trunc(y1),trunc(x2),trunc(y2));
+end;
+
+Procedure wr_text;
+begin
+if (hit_left=true) then text_left;
+if (hit_right=true) then text_right;
+end;
+
+(* 18 compute angles and forces of first hit, printing result *)
+(* input: x1,y1,x2,y2 of first line *)
+(* output: angle_alfa between first line and radius line *)
+(* output: angle_beta between radius line and horizontal line *)
+(* output: resulting force impulse on left or right circle *)
+procedure ang_force_one;
+begin
+L(.1,1,0.):=x1;
+L(.1,0,1.):=y1;
+L(.1,2,0.):=x2;
+L(.1,0,2.):=y2;
+L(.2,1,0.):=x2;
+L(.2,0,1.):=y2;
+if (hit_left=true) then
+    begin L(.2,2,0.):=X0C1;L(.2,0,2.):=Y0C1;end;
+if (hit_right=true) then
+    begin L(.2,2,0.):=X0C2;L(.2,0,2.):=Y0C2;end;
+if (hit_left=true) then begin angle_lines;end;
+if (hit_right=true) then begin angle_lines;end;
+end;
+
+(* Compute the refelx angle angle_new and the k-value of this new line  *)
+(* The input parameters are start-coordinate x1 and x2 on the perephery *)
+(* on the left or right circle. Precomputed parameters are also         *)
+(* angle_beta, the angle of radius and horisontal line (0-2*Pi)         *)
+(* and the angle_alfa, the absolute angle value (0-pi/2) between the    *)
+(* in-line and the radius line.                                         *)
+(* First the angle of in line in relation to the horisontal line        *)
+(* (0-2*Pi) is calculated (angle_in), then this result is compared      *)
+(* with the radius-horisontal line angle (angle-beta). If               *)
+(* angle_in>angle_beta then angle_new:=angle_beta-angle_alfa, if        *)
+(* there is the opposite situation angle_new:=angle_beta+angle_alfa;    *)
+(* 19 compute reflex angle **************************** *)
+(* input: x1,y1, start on circle new line  *)
+(* output: angle_new,k *)
+Procedure comp_angle_reflex;
+var k1,k2,k3,k4:boolean;
+    sina,cosa,kk,abso,angle_one,angle_two,angle_in:real;
+    begin
+    k1:=false;k2:=false;k3:=false;k4:=false;
+    abso:=sqrt((x1-x2)*(x1-x2)+(y1-y2)*(y1-y2));
+    if abso<=max then abso:=max;
+    sina:=(y1-y2)/abso;
+    if abs(cosa)<max then cosa:=max;
+    cosa:=(x1-x2)/abso;
+    if cosa<=max then cosa:=max;
+    kk:=sina/cosa;
+    alfa:=abs(arctan(kk));
+    if ((sina>=max) and (cosa>(-max))) then angle_one:=alfa;
+    if ((sina>=max) and (cosa<(-max))) then angle_one:=pi-alfa;
+    if ((sina<(-max)) and (cosa<(-max))) then angle_one:=pi+alfa;
+    if ((sina<(-max)) and (cosa>(-max))) then angle_one:=2*pi-alfa;
+
+angle_in:=angle_one;
+
+(*tal:=angle_in*360/(2*pi);*)
+(*tal:=angle_beta*360/(2*pi);*)
+(*tal:=angle_alfa*360/(2*pi);*)
+
+(* Comparing angle_beta and angle_in, normal conditions :       *)
+if (angle_in>angle_beta) then angle_new:=angle_beta-angle_alfa;
+if (angle_in<angle_beta) then angle_new:=angle_beta+angle_alfa;
+
+(* Comparing angle_beta and angle_in, special cases :           *)
+if ((angle_beta>(-max)) and (angle_beta<=(pi/2)) and (angle_in>(3*Pi/2)) and
+    (angle_in<=(2*pi))) then angle_new:=angle_beta+angle_alfa;
+if ((angle_beta>=(3*pi/2)) and (angle_beta<=(2*pi)) and
+    (angle_in>=0) and (angle_in<=(pi/2))) then
+    angle_new:=angle_beta-angle_alfa;
+
+if (angle_new>=(2*pi)) then angle_new:=angle_new-2*pi;
+if (angle_new<=(-max)) then angle_new:=2*pi+angle_new;
+(*tal:=angle_new*360/(2*pi);*)
+sina:=sin(angle_new);
+cosa:=cos(angle_new);
+if abs(cosa)<max then cosa:=max;
+k:=sina/cosa;
+korr_k;                           (* control and correct zero of k *)
+end;
+
+
+procedure new_hit;
+var       D1,D2,D3,D4:real;
+begin
+
+(* If the initial line hit the left circle and there is a reflex  *)
+(* solution of the right circle, then the distance between the    *)
+(* initial hit point x1,y1 and the two point X1C2,Y1C2..X2C2,Y2C2 *)
+(* is calculated                                                  *)
+if ((hit_left=true) and (hr=true)) then begin
+    D1:=(x1-X1C2)*(x1-X1C2)+(y1-Y1C2)*(y1-Y1C2);
+    D2:=(x1-X2C2)*(x1-X2C2)+(y1-Y2C2)*(y1-y2C2);end;
+
+(* If the initial line hit the right circle and there is a reflex  *)
+(* solution of the left circle, then the distance between the      *)
+(* initial hit point x1,y1 and the two point X1C1,Y1C1..X2C1,Y2C1  *)
+(* is calculated                                                   *)
+if ((hit_right=true) and (hl=true)) then begin
+    D1:=(x1-X1C1)*(x1-X1C1)+(y1-Y1C1)*(y1-Y1C1);
+    D2:=(x1-X2C1)*(x1-X2C1)+(y1-Y2C1)*(y1-Y2C1);end;
+
+(* The rule is, that 1) if there is no reflex on the opposite      *)
+(* circle, the pre-computed values of x2 and y2 are keeps          *)
+(* unchanged. If there exist a reflex, then you have to investi-   *)
+(* gate if this reflex i permitted or not                          *)
+
+(******************************************************************)
+If ((hit_left=true) and (hr=true) and
+   (abs(x1-X1C1)<max) and (abs(y1-Y1C1)<max) and
+   ((X2C1-x1)<(-max)) and ((X1C2-x1)>(-max)) and
+   ((Y2C1-y1)>(-max)) and ((Y1C2-y1)<(-max)) and (D1<=D2)) then begin
+   x2:=X1C2;y2:=Y1C2;end;
+If ((hit_left=true) and (hr=true) and
+   (abs(x1-X1C1)<max) and (abs(y1-Y1C1)<max) and
+   ((X2C1-x1)<(-max)) and ((X1C2-x1)>(-max)) and
+   ((Y2C1-y1)>(-max)) and ((Y1C2-y1)<(-max)) and (D2<=D1)) then
+   begin x2:=X2C2;y2:=Y2C2;end;
+
+If ((hit_left=true) and (hr=true) and
+   (abs(x1-X1C1)<max) and (abs(y1-Y1C1)<max) and
+   ((X2C1-x1)<(-max)) and ((X1C2-x1)>(-max)) and
+   ((Y2C1-y1)<(-max)) and ((Y1C2-y1)>(-max)) and (D1<=D2)) then
+   begin x2:=X1C2;y2:=Y1C2;end;
+If ((hit_left=true) and (hr=true) and
+   (abs(x1-X1C1)<max) and (abs(y1-Y1C1)<max) and
+   ((X2C1-x1)<(-max)) and ((X1C2-x1)>(-max)) and
+   ((Y2C1-y1)<(-max)) and ((Y1C2-y1)>(-max)) and (D2<=D1)) then
+   begin x2:=X2C2;y2:=Y2C2;end;
+
+If ((hit_left=true) and (hr=true) and
+   (abs(x1-X1C1)<max) and (abs(y1-Y1C1)<max) and
+   ((X2C1-x1)>(-max)) and ((X1C2-x1)<(-max)) and
+   ((Y2C1-y1)>(-max)) and ((Y1C2-y1)<(-max)) and (D1<=D2)) then
+   begin x2:=X1C2;y2:=Y1C2;end;
+If ((hit_left=true) and (hr=true) and
+   (abs(x1-X1C1)<max) and (abs(y1-Y1C1)<max) and
+   ((X2C1-x1)>(-max)) and ((X1C2-x1)<(-max)) and
+   ((Y2C1-y1)>(-max)) and ((Y1C2-y1)<(-max)) and (D2<=D1)) then
+   begin x2:=X2C2;y2:=Y2C2;end;
+
+If ((hit_left=true) and (hr=true) and
+   (abs(x1-X1C1)<max) and (abs(y1-Y1C1)<max) and
+   ((X2C1-x1)>(-max)) and ((X1C2-x1)<(-max)) and
+   ((Y2C1-y1)<(-max)) and ((Y1C2-y1)>(-max)) and (D1<=D2)) then
+   begin x2:=X1C2;y2:=Y1C2;end;
+If ((hit_left=true) and (hr=true) and
+   (abs(x1-X1C1)<max) and (abs(y1-Y1C1)<max) and
+   ((X2C1-x1)>(-max)) and ((X1C2-x1)<(-max)) and
+   ((Y2C1-y1)<(-max)) and ((Y1C2-y1)>(-max)) and (D2<=D1)) then
+   begin x2:=X2C2;y2:=Y2C2;end;
+
+(******************************************************************)
+If ((hit_left=true) and (hr=true) and
+   (abs(x1-X2C1)<max) and (abs(y1-Y2C1)<max) and
+   ((X1C1-x1)<(-max)) and ((X1C2-x1)>(-max)) and
+   ((Y1C1-y1)>(-max)) and ((Y1C2-y1)<(-max)) and (D1<=D2)) then begin
+   x2:=X1C2;y2:=Y1C2;end;
+If ((hit_left=true) and (hr=true) and
+   (abs(x1-X2C1)<max) and (abs(y1-Y2C1)<max) and
+   ((X1C1-x1)<(-max)) and ((X1C2-x1)>(-max)) and
+   ((Y1C1-y1)>(-max)) and ((Y1C2-y1)<(-max)) and (D2<=D1)) then
+   begin x2:=X2C2;y2:=Y2C2;end;
+
+If ((hit_left=true) and (hr=true) and
+   (abs(x1-X2C1)<max) and (abs(y1-Y2C1)<max) and
+   ((X1C1-x1)<(-max)) and ((X1C2-x1)>(-max)) and
+   ((Y1C1-y1)<(-max)) and ((Y1C2-y1)>(-max)) and (D1<=D2)) then
+   begin x2:=X1C2;y2:=Y1C2;end;
+If ((hit_left=true) and (hr=true) and
+   (abs(x1-X2C1)<max) and (abs(y1-Y2C1)<max) and
+   ((X1C1-x1)<(-max)) and ((X1C2-x1)>(-max)) and
+   ((Y1C1-y1)<(-max)) and ((Y1C2-y1)>(-max)) and (D2<=D1)) then
+   begin x2:=X2C2;y2:=Y2C2;end;
+
+If ((hit_left=true) and (hr=true) and
+   (abs(x1-X2C1)<max) and (abs(y1-Y2C1)<max) and
+   ((X1C1-x1)>(-max)) and ((X1C2-x1)<(-max)) and
+   ((Y1C1-y1)>(-max)) and ((Y1C2-y1)<(-max)) and (D1<=D2)) then
+   begin x2:=X1C2;y2:=Y1C2;end;
+If ((hit_left=true) and (hr=true) and
+   (abs(x1-X2C1)<max) and (abs(y1-Y2C1)<max) and
+   ((X1C1-x1)>(-max)) and ((X1C2-x1)<(-max)) and
+   ((Y1C1-y1)>(-max)) and ((Y1C2-y1)<(-max)) and (D2<=D1)) then
+   begin x2:=X2C2;y2:=Y2C2;end;
+
+If ((hit_left=true) and (hr=true) and
+   (abs(x1-X2C1)<max) and (abs(y1-Y2C1)<max) and
+   ((X1C1-x1)>(-max)) and ((X1C2-x1)<(-max)) and
+   ((Y1C1-y1)<(-max)) and ((Y1C2-y1)>(-max)) and (D1<=D2)) then
+   begin x2:=X1C2;y2:=Y1C2;end;
+If ((hit_left=true) and (hr=true) and
+   (abs(x1-X2C1)<max) and (abs(y1-Y2C1)<max) and
+   ((X1C1-x1)>(-max)) and ((X1C2-x1)<(-max)) and
+   ((Y1C1-y1)<(-max)) and ((Y1C2-y1)>(-max)) and (D2<=D1)) then
+   begin x2:=X2C2;y2:=Y2C2;end;
+
+
+(******************************************************************)
+If ((hit_right=true) and (hl=true) and
+   (abs(x1-X1C2)<max) and (abs(y1-Y1C2)<max) and
+   ((X2C2-x1)<(-max)) and ((X1C1-x1)>(-max)) and
+   ((Y2C2-y1)>(-max)) and ((Y1C1-y1)<(-max)) and (D1<=D2)) then
+   begin x2:=X1C1;y2:=Y1C1;end;
+If ((hit_right=true) and (hl=true) and
+   (abs(x1-X1C2)<max) and (abs(y1-Y1C2)<max) and
+   ((X2C2-x1)<(-max)) and ((X1C1-x1)>(-max)) and
+   ((Y2C2-y1)>(-max)) and ((Y1C1-y1)<(-max)) and (D2<=D1)) then
+   begin x2:=X2C1;y2:=Y2C1;end;
+
+If ((hit_right=true) and (hl=true) and
+   (abs(x1-X1C2)<max) and (abs(y1-Y1C2)<max) and
+   ((X2C2-x1)<(-max)) and ((X1C1-x1)>(-max)) and
+   ((Y2C2-y1)<(-max)) and ((Y1C1-y1)>(-max)) and (D1<=D2)) then
+   begin x2:=X1C1;y2:=Y1C1;end;
+If ((hit_right=true) and (hl=true) and
+   (abs(x1-X1C2)<max) and (abs(y1-Y1C2)<max) and
+   ((X2C2-x1)<(-max)) and ((X1C1-x1)>(-max)) and
+   ((Y2C2-y1)<(-max)) and ((Y1C1-y1)>(-max)) and (D2<=D1)) then
+   begin x2:=X2C1;y2:=Y2C1;end;
+
+If ((hit_right=true) and (hl=true) and
+   (abs(x1-X1C2)<max) and (abs(y1-Y1C2)<max) and
+   ((X2C2-x1)>(-max)) and ((X1C1-x1)<(-max)) and
+   ((Y2C2-y1)>(-max)) and ((Y1C1-y1)<(-max)) and (D1<=D2)) then
+   begin x2:=X1C1;y2:=Y1C1;end;
+If ((hit_right=true) and (hl=true) and
+   (abs(x1-X1C2)<max) and (abs(y1-Y1C2)<max) and
+   ((X2C2-x1)>(-max)) and ((X1C1-x1)<(-max)) and
+   ((Y2C2-y1)>(-max)) and ((Y1C1-y1)<(-max)) and (D2<=D1)) then
+   begin x2:=X2C1;y2:=Y2C1;end;
+
+If ((hit_right=true) and (hl=true) and
+   (abs(x1-X1C2)<max) and (abs(y1-Y1C2)<max) and
+   ((X2C2-x1)>(-max)) and ((X1C1-x1)<(-max)) and
+   ((Y2C2-y1)<(-max)) and ((Y1C1-y1)>(-max)) and (D1<=D2)) then
+   begin x2:=X1C1;y2:=Y1C1;end;
+If ((hit_right=true) and (hl=true) and
+   (abs(x1-X1C2)<max) and (abs(y1-Y1C2)<max) and
+   ((X2C2-x1)>(-max)) and ((X1C1-x1)<(-max)) and
+   ((Y2C2-y1)<(-max)) and ((Y1C1-y1)>(-max)) and (D2<=D1)) then
+   begin x2:=X2C1;y2:=Y2C1;end;
+
+(******************************************************************)
+If ((hit_right=true) and (hl=true) and
+   (abs(x1-X2C2)<max) and (abs(y1-Y2C2)<max) and
+   ((X1C2-x1)<(-max)) and ((X1C1-x1)>(-max)) and
+   ((Y1C2-y1)>(-max)) and ((Y1C1-y1)<(-max)) and (D1<=D2)) then begin
+   x2:=X1C1;y2:=Y1C1;end;
+If ((hit_right=true) and (hl=true) and
+   (abs(x1-X2C2)<max) and (abs(y1-Y2C2)<max) and
+   ((X1C2-x1)<(-max)) and ((X1C1-x1)>(-max)) and
+   ((Y1C2-y1)>(-max)) and ((Y1C1-y1)<(-max)) and (D2<=D1)) then
+   begin x2:=X2C1;y2:=Y2C1;end;
+
+If ((hit_right=true) and (hl=true) and
+   (abs(x1-X2C2)<max) and (abs(y1-Y2C2)<max) and
+   ((X1C2-x1)<(-max)) and ((X1C1-x1)>(-max)) and
+   ((Y1C2-y1)<(-max)) and ((Y1C1-y1)>(-max)) and (D1<=D2)) then
+   begin x2:=X1C1;y2:=Y1C1;end;
+If ((hit_right=true) and (hl=true) and
+   (abs(x1-X2C2)<max) and (abs(y1-Y2C2)<max) and
+   ((X1C2-x1)<(-max)) and ((X1C1-x1)>(-max)) and
+   ((Y1C2-y1)<(-max)) and ((Y1C1-y1)>(-max)) and (D2<=D1)) then
+   begin x2:=X2C1;y2:=Y2C1;end;
+
+If ((hit_right=true) and (hl=true) and
+   (abs(x1-X2C2)<max) and (abs(y1-Y2C2)<max) and
+   ((X1C2-x1)>(-max)) and ((X1C1-x1)<(-max)) and
+   ((Y1C2-y1)>(-max)) and ((Y1C1-y1)<(-max)) and (D1<=D2)) then
+   begin x2:=X1C1;y2:=Y1C1;end;
+If ((hit_right=true) and (hl=true) and
+   (abs(x1-X2C2)<max) and (abs(y1-Y2C2)<max) and
+   ((X1C2-x1)>(-max)) and ((X1C1-x1)<(-max)) and
+   ((Y1C2-y1)>(-max)) and ((Y1C1-y1)<(-max)) and (D2<=D1)) then
+   begin x2:=X2C1;y2:=Y2C1;end;
+
+If ((hit_right=true) and (hl=true) and
+   (abs(x1-X2C2)<max) and (abs(y1-Y2C2)<max) and
+   ((X1C2-x1)>(-max)) and ((X1C1-x1)<(-max)) and
+   ((Y1C2-y1)<(-max)) and ((Y1C1-y1)>(-max)) and (D1<=D2)) then
+   begin x2:=X1C1;y2:=Y1C1;end;
+If ((hit_right=true) and (hl=true) and
+   (abs(x1-X2C2)<max) and (abs(y1-Y2C2)<max) and
+   ((X1C2-x1)>(-max)) and ((X1C1-x1)<(-max)) and
+   ((Y1C2-y1)<(-max)) and ((Y1C1-y1)>(-max)) and (D2<=D1)) then
+   begin x2:=X2C1;y2:=Y2C1;end;
+
+reflex:=false;
+if ((hit_left=true) and (hl=false) and (hl=true)) then begin
+reflex:=true;end;
+if ((hit_right=true) and (hr=false) and (hr=true)) then begin
+reflex:=true;end;
+
+end;
+
+(** 20 ****  solving equations of reflex data               *** *)
+(*  inputs: x1,y1,k                                             *)
+(* global X0C1,Y0C1,X0C2,Y0C2 *)
+(*  output: x2,y2                                               *)
+procedure reflex_data;
+var       A,B,R,Z:real;
+          kL11X,kL11Y,kL12X,kL12Y,kL13X,kL13Y:real;
+          kR11X,kR11Y,kR12X,kR12Y,kR13X,kR13Y:real;
+
+begin
+large:=false; (* hit of first line *)
+hl:=false;hr:=false;
+
+(* Input is x1,y1 and k of reflex line from reflex line         *)
+(* Solving out x2,y2 on large circle                            *)
+Z:=((y1-k*x1)+X0C0*k)/k;
+A:=(Z*k+Y0C0*k*k)/(1+k*k);
+B:=k*k*(Y0C0*Y0C0+Z*Z-RC0*RC0)/(1+k*k);
+R:=A*A-B;
+if (R>=max) then begin
+Y1C0:=A+SQRT(R);X1C0:=(Y1C0-(y1-k*x1))/k;
+Y2C0:=A-SQRT(R);X2C0:=(Y2C0-(y1-k*x1))/k;
+end;
+
+(* Investigating if there is a solution of the reflex line on the left *)
+(* circle. If there is a solution, the solve out coordinates X1C1,Y1C1 *)
+(* and X2C1,Y2C1 respectively. Make hit with hl=true                   *)
+Z:=((y1-k*x1)+X0C1*k)/k;
+A:=(Z*k+Y0C1*k*k)/(1+k*k);
+B:=k*k*(Y0C1*Y0C1+Z*Z-RC1*RC1)/(1+k*k);
+R:=A*A-B;
+if (R>=max) then begin
+Y1C1:=A+SQRT(R);X1C1:=(Y1C1-(y1-k*x1))/k;
+Y2C1:=A-SQRT(R);X2C1:=(Y2C1-(y1-k*x1))/k;
+hl:=true;end;
+
+(* Investigating if there is a solution of the reflex line on the right *)
+(* circle. If there is a solution, the solve out coordinates X1C2,Y1C2 *)
+(* and X2C2,Y2C2 respectively. Make hit with hr=true                   *)
+Z:=((y1-k*x1)+X0C2*k)/k;
+A:=(Z*k+Y0C2*k*k)/(1+k*k);
+B:=k*k*(Y0C2*Y0C2+Z*Z-RC2*RC2)/(1+k*k);
+R:=A*A-B;
+if (R>=max) then begin
+Y1C2:=A+SQRT(R);X1C2:=(Y1C2-(y1-k*x1))/k;
+Y2C2:=A-SQRT(R);X2C2:=(Y2C2-(y1-k*x1))/k;
+hr:=true;end;
+
+(* The correct direction of the reflex has do be choosen because there  *)
+(* is two possible solutions. You have to choose this direction which   *)
+(* is directed towards the other circle which is hitted by the reflex   *)
+(* The way to do this is by comparing the k-value of two lines          *)
+(* The first case is when the reflex not is reflected towards another   *)
+(* circle but is reflected out to the large circle perifery             *)
+if ((hit_left=true) and
+(abs(x1-X1C1)>max) and (abs(y1-Y1C1)>max)) then begin
+kL12X:=trunc(x1-X1C1);kL12Y:=trunc(y1-Y1C1);x2:=X1C0;y2:=Y1C0;end;
+
+if ((hit_left=true) and
+(abs(x1-X2C1)>max) and (abs(y1-Y2C1)>max)) then begin
+kL12X:=trunc(x1-X2C1);kL12Y:=(y1-Y2C1);x2:=X1C0;y2:=Y1C0;end;
+kL13X:=trunc(x1-X1C0);kL13Y:=(y1-Y1C0);
+
+if ((hit_left=true) and
+(KL12X<(-max)) and (KL12Y<(-max)) and
+(KL13X<(-max)) and (KL13Y<(-max))) then
+begin x2:=X2C0;y2:=Y2C0;end;
+if ((hit_left=true) and
+(KL12X>(-max)) and (KL12Y>(-max)) and
+(KL13X>(-max)) and (KL13Y>(-max))) then
+begin x2:=X2C0;y2:=Y2C0;end;
+if ((hit_left=true) and
+(KL12X>(-max)) and (KL12Y<(-max)) and
+(KL13X>(-max)) and (KL13Y<(-max))) then
+begin x2:=X2C0;y2:=Y2C0;end;
+if ((hit_left=true) and
+(KL12X<(-max)) and (KL12Y>(-max)) and
+(KL13X<(-max)) and (KL13Y>(-max))) then
+begin x2:=X2C0;Y2:=Y2C0;end;
+
+if ((hit_right=true) and
+(abs(x1-X1C2)>max) and (abs(y1-Y1C2)>max)) then begin
+kR12X:=trunc(x1-X1C2);kR12Y:=trunc(y1-Y1C2);x2:=X1C0;y2:=Y1C0;end;
+
+if ((hit_right=true) and
+(abs(x1-X2C2)>max) and (abs(y1-Y2C2)>max)) then begin
+kR12X:=trunc(x1-X2C2);kR12Y:=(y1-Y2C2);x2:=X1C0;y2:=Y1C0;end;
+kR13X:=trunc(x1-X1C0);kR13Y:=(y1-Y1C0);
+
+if ((hit_right=true) and
+(kR12X<(-max)) and (kR12Y<(-max)) and (kR13X<(-max)) and (kR13Y<(-max))) then
+begin x2:=X2C0;y2:=Y2C0;end;
+if ((hit_right=true) and
+(kR12X>(-max)) and (kR12Y>(-max)) and (kR13X>(-max)) and (kR13Y>(-max))) then
+begin x2:=X2C0;y2:=Y2C0;end;
+if ((hit_right=true) and
+(kR12X>(-max)) and (kR12Y<(-max)) and (kR13X>(-max)) and (kR13Y<(-max))) then
+begin x2:=X2C0;y2:=Y2C0;end;
+if ((hit_right=true) and
+(kR12X<(-max)) and (kR12Y>(-max)) and (kR13X<(-max)) and (kR13Y>(-max))) then
+begin x2:=X2C0;y2:=Y2C0;end;
+
+
+begin new_hit;end;
+
+end;
+
+Procedure describe;
+begin
+writeln('This program compute the impact shadow force got by impact ');
+writeln('from random particles falling in towards the limit of two circular ');
+writeln('bodies placed out in space. The infalling particles are goming in ');
+writeln('from a distant source randomly and are hit some of those circels');
+writeln('and reflected back again. In some cases there will also be a second ');
+writeln('reflex. At earch hit the vectorial force impact is computed and ');
+writeln('the resulting force will be ackumulated and presented by figures ');
+
+writeln('below the two circles. The direction of force is shown by arrows ');
+end;
+
+
+
+(********************* program start ***********************)
+begin
+randomize;
+describe;
+init;                (* ---> 15 *)     (* define start parameters *)
+init_graph;          (* --->  3 *)     (* start graph mod *)
+paint_screen;        (* --->  8 *)     (* paint screen *)
+paint_circles;       (* --->  9 *)     (* pain circles *)
+
+while (nnn<number_hits)
+                     do begin       (* start random lines *)
+
+line_random;                        (* ------> 13 *)
+k_value_of_line;                    (* ------> 14 *)
+first_hit;                          (* ------> 16 *)
+reflex:=true;
+
+while (reflex=true) do begin
+reflex:=true;
+if keypressed then goto 1;
+setcolor(red);
+write_line;
+(* ----> 17 *)  (* write first line on screen *)
+ang_force_one;          (* ----> 18 *)  (*ang+force first line *)
+comp_angle_reflex;      (* 19 ---> compute reflex angle and new k_value *)
+x1:=x2;y1:=y2;          (* x1,y1 = input data to refelx *)
+reflex_data;            (* give x2,y2 and reflex=true/false *)
+write_line;
+wr_text;
+(*wait;*)               (* ----> 5 *)   (* waiting loop *)
+nnn:=nnn+1;
+nnn:=1;
+nnnn:=nnnn+1;
+if ((nnnn>250)) then begin paint_circles;nnnn:=0;end;
+end;
+end; (* end first while loop *)
+
+1: closegraph;
+end.
+

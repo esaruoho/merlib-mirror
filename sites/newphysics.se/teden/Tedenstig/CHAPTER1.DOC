@@ -1,0 +1,2400 @@
+
+*******************************************************************
+* *************************************************************** *
+* *                                                             * *
+* *         KAPITEL 1             CHAPTER 1                     * *
+* *         ---------             ---------                     * *
+* *         GrunlÑggande begrepp  Basic concepts                * *
+* *         --------------------  --------------                * *
+* *                                                             * *
+* *        * KORT HISTORIK         HISTORY IN BRIEF             * *
+* *                                                             * *
+* *        * MATERIA               MATTER                       * *
+* *                                                             * *
+* *        * DISTANS               DISTANCE                     * *
+* *                                                             * *
+* *        * TID                   TIME                         * *
+* *                                                             * *
+* *        * HASTIGHET             VELOCITY                     * *
+* *                                                             * *
+* *        * ACCELERATION          ACCELERATION                 * *
+* *                                                             * *
+* *        * KRAFT                 FORCE                        * *
+* *                                                             * *
+* *        * ENERGI                ENERGY                       * *
+* *                                                             * *
+* *        * YTA                   AREA                         * *
+* *                                                             * *
+* *        * VOLYM                 VOLUME                       * *
+* *                                                             * *
+* *        * MASSATéTHET           MASS DENSITY                 * *
+* *                                                             * *
+* *        * TRYCK                 PRESSURE                     * *
+* *                                                             * *
+* *        * EFFEKT                POWER                        * *
+* *                                                             * *
+* *        * IMPULS MOMENT         IMPULS MOMENTUM              * *
+* *                                                             * *
+* *        * KRAFTMOMENT           FORCE MOMENTUM               * *
+* *                                                             * *
+* *        * FREKVENS              FREQUENCY                    * *
+* *                                                             * *
+* *        * VéNGD                 WAVELENGTH                   * *
+* *                                                             * *
+* *        * VINKELFREKVENS        ANGULAR FREQUENCY            * *
+* *                                                             * *
+* *        * TEMPERATUR            TEMPERATURE                  * *
+* *                                                             * *
+* *        * FLôDANDE MATERIA      FLOWING MATTER               * *
+* *                                                             * *
+* *                                                             * *
+* *                                                             * *
+* *************************************************************** *
+* *************************************************************** *
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden     1.01
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+KORT HISTORIK                        HISTORY IN BRIEF
+-------------                        ----------------
+
+Vad  Ñr materia, varifrÜn kommer     What is matter, where does  eve-
+allt som omger oss, finns det en     rything   surrounding   us  come
+îvergripande tanke bakom skapel-     from, do it exists a supernormal
+sen eller Ñr  det  naturens egen     thought hidden behind  the Crea-
+inneboende  kraft och dess strÑ-     tion  or is it the nature's  own
+van efter ordning som styr natu-     inherent force and  striving for
+ren ?                                order which rules nature ?
+
+FrÜgor av detta slag tillsammans     Questions of this kind  together
+med  en mÑngd andra  nÑrliggande     with a lot  of   other   closely
+spîrsmÜl av  existensiell natur,     allied   things  of  existential
+livet och livets mening osv, har     nature, life and  the meaning of
+i alla  tider   sysselsatt   den     life  etc.,  in all  times  have
+mÑnskliga  tanken.  Religion och     engaged the human thought. Reli-
+filosofi har i mycket tagit hand     gion  and philosophy have  taken
+om  dessa problem och gett  mÑn-     charge  of  these  problems  and
+niskor svar pÜ deras  djupa frÜ-     given  peoples answers on  their
+gor.                                 deep questions.
+
+DÜ Galileo, Kepler, Newton m.fl      When  Galileo,  Kepler,  Newton
+stora mÑn  trÑdde  in pÜ scenen      and other great men entered the
+infîrdes  ett nytt  och  ratio-      scene a new and rational way of
+nellt sÑtt att  tÑnka.   DÑrmed      thinking  was  introduced.   By
+brîts  religionens och  kyrkans      that the  power  of  church and
+makt îver mÑnniskorna och en ny      religion  was broken and a  new
+fruktbar  era i  mÑnsklighetens      and productive era in the  his-
+historia pÜbîrjades.                 tory of mankind began.
+
+Newton infîrde en strÑng deter-      Newton  introduced a strict de-
+ministisk  ordning,  omfattande      terministic  order  of  things,
+en stark koppling  mellan orsak      containing  a  strong  coupling
+och verkan i fysikaliska skeen-      between  cause  and  effect  in
+den.   Detta  synsÑtt  hade  en      physical events.  That approach
+stark    stÑllning   Ütskilliga      had a powerful position several
+hundra Ür  efter  honom.  Fîre-      hundreds of  years  after  him.
+stÑllningar  fanns, att om  man      There were  ideas  that if just
+bara tillrÑcklig vÑl kÑnde till      the  initial  conditions  of  a
+ingÜngsvillkoren i ett  system,      system were  enough well known,
+skulle  dess  historia   i  all      its  future  history  for  ever
+framtid  kunna fîrutsÑgas.   Ur      could be predicted. Seen from a
+rent teoretisk  utgÜngspunkt Ñr      pure theoretical point of view,
+detta ocksÜ sannt, dock har det      that could be true, but  nature
+visat sig att  naturen ej Ñr sÜ      never can be so exact as theory
+exakt  som teorin krÑver.   SmÜ      demand.   Small    fluctuations
+fluktuationer ger pÜ sikt rela-      rapidly  will  give   cause  to
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.02
+--------------------------------------------------------------------- 
+ 
+ 
+tivt  snabbt upphov  till  helt      completely   different   output
+andra utgÜngsvillkor.                conditions.
+
+UpptÑckten  att naturen  ej  sÜ      The  discovery  that things  in
+vÑl lÑt  sig  bestÑmmas  har sÜ      nature not were so  easy to de-
+smÜningom fîrÑndrat en stor del      termine to a great extent chan-
+av vetenskapens sÑtt att hante-      ged the way of handling  physi-
+ra verkliga problem och man har      cal  problems.  Of that  reason
+dÑrfîr idag i stor utstrÑckning      one have to a  great extent ta-
+tagit  avstÜnd frÜn Newtons de-      ken  exception to Newton's  de-
+terministiska  vÑrldsÜskÜdning.      terministic ideology.   The re-
+Resultaten  av  detta nya  sÑtt      sults of this new way of  thin-
+att tÑnka kan   sammanfattas  i      king can be  summarized  in the
+den s.k.  moderna fysiken,  som      ideas of the "modern  physics",
+framfîr  allt  grundar  sig  pÜ      above  all  founded  on quantum
+kvantumteori och  relativitets-      theory  and relativity  theory.
+teori.  TyvÑrr  har  det  visat      Unfortunately,  all these theo-
+sig,  att  dessa  teorier  inte      ries  have  not contributed  to
+tillfîrt de  insikter  som  man      those deep insights  which from
+frÜn bîrjan hoppades.  IstÑllet      the  beginning were   expected.
+fîr en îvertro  pÜ  en determi-      Instead of a  blind  faith of a
+nistisk vÑrldsordning har  pen-      deterministic  order of  things
+deln svÑngt  îver till ett mot-      the pendulum has turned over to
+satt  lÑge  dÑr man  mer  eller      the opposite position were more
+mindre  ÜsidosÑtter   logik och      or less logics and common sense
+sunt fîrnuft.  De flesta frÜgor      have  been put aside.  Of  that
+av elementÑr  grundlÑggande na-      reason,most questions of basic,
+tur  stÜr  dÑrfîr   fortfarande      fundamental  nature  are  still
+kvar obesvarade. Man kan dÑrfîr      being unanswered, and today  we
+idag  tala  om den  teorietiska      therefore  can  talk   about  a
+fysikens kris, dÑr man desperat      crisis  in the  modern  physics
+sîker  efter  de  grundlÑggande      where one desperately are sear-
+principer   varmed   man skulle      ching for those  basic princip-
+kunna skapa en enhetlig fysika-      les by which it would be possi-
+lisk teori.       Misslyckandet      ble to get  a uniting  descrip-
+framstÜr  idag som mer och  mer      tion  of  nature.  The   fiasco
+uppenbart.                           apperar as more and more obvio-
+                                     us.
+
+
+MATERIA                              MATTER
+-------                              ------
+
+Med materia avses vanligtvis den     With matter we mean this touch-
+berîringsbara och  med vÜra sin-     able  and perceptible substance
+nen  fîrnimbara  substans  varav     by  which  our world,  together
+vÜr  vÑrld  tillsammans  med oss     with our own bodies,  is suppo-
+sjÑlva tycks vara sammansatt.        sed to be made of.
+
+InnehÜllet av  materia  inom en      The amount of  matter contained
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.03
+--------------------------------------------------------------------- 
+ 
+ 
+"solid"  kropp" kan inte  mÑtas      in  a  "solid body"  cannot  be
+direkt, enbart pÜ  indirekt vÑg      measured  directly,  just indi-
+genom  de krafter  som  uppstÜr      rectly  by for  instance  those
+exempelvis dÜ  man fîrÑndrar en      forces   created   when  a body
+kropps  rîrelsetillstÜnd  eller      changes its moving state or  by
+genom  den  kraft  som en mate-      this force a  material  body is
+riell  kropp pÜverkas av i  ett      actuated by in a  gravitational
+gravitatationsfÑlt.                  field.
+
+Begreppet massa Ñr den uppmÑtta      The  concept  of  mass  is the
+mÑngden substans i ett fîremÜl,      amount of  substance  in an ob-
+dÑr massa Ñr nÜgonting  som har      ject, where mass is "something"
+annorlunda  egenskaper  Ñn  den      having   different   properties
+rymd det befinner sig i. Massa-      compared with space.  The  mass
+begreppet  anvÑndes  av  Newton      concept was  used by Newton who
+som  fîrstod  att  massa  trots      understood  that mass in  spite
+sin   metafysiska   natur   var      of its methaphysical nature was
+en nîdvÑndig  egenskap  fîr att      a necessary property for making
+kunna  utfîra meningsfulla  be-      a  meaningful  description   of
+rÑkningar.  Begreppet massa har      nature possible. The concept of
+synonymer  i  substans,  stoff,      mass has synonyms in words like
+materia osv. SÜ lÑnge mera fun-      substance ,stuff, matter and so
+damentala och enkla  definitio-      on.As long as more  fundamental
+ner saknas  mÜste dessa begrepp      definitions are lacking ,we are
+tillsvidare anvÑndas.                forced to use them as they are.
+
+Materia Ñr den fysikaliska  fî-      Perhaps matter is that physical
+reteelse som  kanske Ñr svÜrast      phenomenon in nature being most
+av allt i naturen att i grunden      hard to grasp and describe. Our
+fîrstÜ eller   beskriva.   VÜrt      intellect  and  knowledges  are
+fîrstÜnd  och vÜr kunskap  vill      insufficient  to understand how
+inte riktigt rÑcka till fîr att      nature has brought forth such a
+kunna  fatta  hur  naturen  har      remarkable and mysterious subs-
+kunnat   frambringa   nÜgot  sÜ      tance  which  matter  is,  that
+mÑrklig och mystiskt som  mate-      "something" which  fills up the
+ria Ñr, detta nÜgot som uppfyl-      empty space, the  universe, and
+ler universum och ger det form,      give it form, content and  mea-
+innehÜll och mening.                 ning.
+
+Vi kan kÑnna och fîrnimma mate-      We can feel and be  sensible of
+ria med vÜra  sinnen  men  ÑndÜ      the  presence of matter by  our
+inte  fîrstÜ dess  sanna  vÑsen      senses, yet not understand  its
+och innebîrd. Vi  uppfattar ma-      true essence and meaning.  Com-
+teria vanligtvis som nÜgot hÜrt      monly  we  apprehend  matter as
+och obÑndigt, men dÜ vi skrapar      something hard and intractable,
+pÜ dess yta finner vi att detta      but when scratching on its sur-
+obÑndiga  Ñndock  till  stîrsta      face we find that matter to the
+delen  utgîres av  tomrum,  dvs      greatest part consists of empty
+ingenting.                           space, which means, nothing.
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.04
+--------------------------------------------------------------------- 
+ 
+ 
+Genom   fysikaliska  experiment      By aid of physical experiments,
+hade man  sÜ smÜningom mer  och      physicists  gradually  more and
+mer lyckats skaffa  sig djupare      more have succeeded to get dee-
+kunskaper om materiens innersta      per knowledges  of the inherent
+natur.  Detta  hade  bl.a skett      nature of matter. That has been
+genom att man sînderdelat mate-      done by  an  ever  dividing  of
+ria i allt mindre frÜn varandra      matter  in smaller and  smaller
+avskiljbara  delar.   Redan  de      pieces.   Already   the ancient
+antika  filosoferna spekulerade      philosophers  were  speculating
+och  fîrestÑllde sig tanken att      in this direction  and imagined
+materia kunde sînderdelas  till      that matter could be divided in
+en  minsta odelbar enhet.   Att      smaller and smaller units fore-
+denna tanke  till  stor del var      ver. In spite of the fact  that
+riktigt  kunde emellertid  inte      this idea in its  most part was
+bekrÑftas  fîrrÑn kemisterna sÜ      correct,  it  was not confirmed
+smÜningom  upptÑckte, att vissa      until  the  chemists  gradually
+Ñmnen hade en fîrmÜga att  all-      discovered that  substances had
+tid  fîrena sig i bestÑmda pro-      the ability  to combine  in di-
+portioner. Av  detta drog   man      screte proportions. Of that the
+den   riktiga  slutsatsen,  att      correct conclusions were drawn,
+materien innehîll delar som var      that   matter  contained  parts
+fîr sig innehîll Ñmnets elemen-      which separately  included  the
+tÑra egenskaper. Detta blev det      substance's all basic properti-
+fîrsta  egentliga indiciet  fîr      es. That was the indications on
+att atomen verkligen existerade.     the existence of the atom.
+
+I  bîrjan  av  vÜrt  Ürhundrade      In the beginning of our  centu-
+upptÑckte Ernest Rutherford att      ry,  Ernest Rutherford discove-
+atomen hade en  liten  men kom-      red  that the atom had a  small
+pakt kÑrna, omgiven av ett skal.     but compact core, surrounded by
+Materien fanns  sÜlunda  samlad      a shell. Hence, matter  in  the
+inom en  relativt  liten volym,      atom was collected in a relati-
+det mesta syntes var fîr îvrigt      vely  small volume, the rest of
+vara tomrum.                         it was empty space.
+
+Annan  forskning  upptÑckte  sÜ      Other research gradually disco-
+smÜningom, att Ñven  atomkÑrnan      vered that even the atomic core
+och atomens skal kunde uppdelas      and the content of the shell of
+i mindre delar, s.k. elementÑra      it could be divided into pieces,
+partiklar. Idag kÑnner man till      or particles. Today  is known a
+en  hel  flora av  sÜdana  s.k.      whole  spectrum  of  elementary
+elementÑra partiklar. Misstanke      particles, but there are suspi-
+finns  emellertid,  att   denna      cions that this fauna  in  turn
+fauna av  partiklar  Ñven i sin      consist  of  smaller  entities,
+tur bestÜr av mindre  bestÜnds-      perhaps  by a common   building
+delar,  kanske  av  en gemensam      block.
+byggsten.
+
+éven  om  sÜ Ñr  fallet  skulle      Even  if so, the eternal  ques-
+Ñndock den eviga  frÜgan  kvar-      tion would remain,  namely what
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.05
+--------------------------------------------------------------------- 
+ 
+ 
+stÜ, vad egentligen  materia  i      matter  basically  consists of.
+grunden bestÜr.  Att fîrmoda Ñr      As a  qualified  guess it is to
+dÑrfîr,  att  vi aldrig  kommer      be  assumed  that we  never can
+att fÜ nÜgot  fullstÑndigt svar      get  any   complete  answer  on
+pÜ denna fundamentla frÜga.          that question.
+
+En av fysikens mest tillfîrlit-      In addition, one of the physics
+liga lagar tycks vara att mate-      most  reliable laws seems to be
+ria och energi  ej  kan fîrstî-      that matter and energy  not can
+ras, de upptrÑder endast i oli-      be destroyed, just appearing in
+ka skepnader.  Ur  detta skulle      different  shapes.  Perhaps  we
+man ocksÜ kunna dra den omvÑnda      from  that  also  can  make the
+slutsatsen  att   materia   och      reverse conclusion  that matter
+energi ej  heller  kan  skapas,      and  energy  not  either can be
+vilket dÜ  skulle  innebÑra att      created,  meaning  that  matter
+materia  Ñr naturens eviga  och      and energy  are the natural and
+naturliga tillstÜnd.                 eternal state of nature.
+
+Med denna  osÑkerhet om vad ma-      With this uncertainty as a base
+teria  egentligen  Ñr mÜste  vi      we  likely instead may ask  HOW
+sannolikt istÑllet  stÑlla frÜ-      MATTER  IS  or  how  it  behave,
+gan  HUR MATERIA éR , dvs  sîka      which means, trying to find out
+finna  de   elementÑra  samband      those elementary  relationships
+varav  naturen innehÜllande ma-      which rule the nature on a more
+teria  uppfîr  sig  pÜ  en mera      complex level of matter.
+komplex nivÜ.
+
+Framfîr allt kÑnnetecknas mate-      Above everything matter is cha-
+ria av tvÜ egenskaper som tycks      racterized  by  two  properties
+vara   allmÑngiltiga,   det  Ñr      which  seem  to be of universal
+motstÜnd mot  rîrelsefîrÑndring      nature,  that   is   resistance
+och  pÜverkan  av  gravitation.      against change in moving  state
+Orsaken  till bÜda dessa effek-      (inertia) and influence by gra-
+ter Ñr fortfarande hîljt i dun-      vitational forces. The  reasons
+kel och Ñr inte pÜ  nÜgot  sÑtt      of  these   effects  still  are
+fîrklarade.                          wrapped in obscurity, and hence
+                                     in no way explained.
+
+Om materien, som ett tankeexpe-
+riment, skulle sînderdelas till      If matter, as a thought,  would
+grÑnsen av sin minsta partikel,      be broken  up  to  the limit of
+skulle  frÜgan   Ñndock  uppstÜ      its smallest elements,the ques-
+huruvida  denna  minsta   enhet      tion still  would remain wether
+fortfarande  skulle  uppvisa de      these  fundamental units  would
+fundamentala   egenskaper   som      show up properties as for ordi-
+kÑnnetecknar  materia.  Det kan      nary matter. Perhaps these com-
+mycket vÑl vara sÜ, att de all-      mon properties of matter, iner-
+mÑnna egenskaper som tycks kÑn-      tia  and  gravitational  forces
+neteckna  all materia ej gÑller      only are properties  on complex
+fîr dessa grundlÑggande entite-      level of matter.
+ter.
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.06
+--------------------------------------------------------------------- 
+ 
+ 
+
+I den teori som hÑr presenteras      In the theory here put forward,
+Ñr egenskaper  pÜ  makroskopisk      properties valid on macroscopic
+nivÜ av materien ej tillÑmpliga      level of  matter  are not valid
+pÜ  en tÑnkt absolut  elementÑr      applied on an imagined absolute
+entitet av materien,  masstrîg-      elementary  entity  of  matter.
+het och gravitation Ñr en mani-      Inertia   and  gravitation  are
+festation av kollektiv  samver-      properties caused  by collecti-
+kan mellan fundamentala entite-      ve  manifestations in  interac-
+ter  inblandade.   SÜlunda  kan      tion between  fundamental enti-
+dessa entiter ej vÑxelverka med      ties  involved.   Hence,  these
+varandra   genom   gravitation,      entities   cannot   interact by
+elektriska   eller   magnetiska      gravitation, electrical or mag-
+fÑlt eller  annan  form av kÑnd      netic fields or  other forms of
+vÑxelverkan. Ej heller uppvisar      well  known interaction at dis-
+dessa    entiteter    fenomenet      tance.  Neither these fundamen-
+masstrîghet.                         tal entities show up inertia.
+
+Den  tÑnkbara  mîjligheten  fîr      Hence, the only thinkable  alt-
+vÑxelverkan  Ñr direkt stît el-      ernative of interacting then is
+ler  berîring  ungefÑr  sÜ  som      by direct touch  in like a man-
+partiklar i en gas vÑxelverkar.      ner as for  particles in a gas.
+
+Detta synsÑtt skall ligga  till      This  philosophy will  here  be
+grund  fîr  hÑrledning  av bl.a      the ground  for  deriving  New-
+Newtons  andra lag, som Ñr  den      ton's second law of force, that
+universella lag varpÜ alla kÑn-      law  constituting  the base for
+da fysikaliska lagar Ñr grunda-      all known phenomena in nature.
+de.
+
+
+
+DISTANS                              DISTANCE
+-------                              --------
+
+Begreppet distans har synonymer      The  concept  of  distance  has
+i  lÑngd, utstrÑckning, strÑcka      synonyms  in length, extension,
+osv.  Dessutom, fîr att markera      way and so on.   Moreover,  for
+ett  lÑge  i rummet i  relation      indicating a place of an object
+till andra  ting  anvÑndas beg-      in a room in relation  to other
+reppet  position, varvid man dÜ      things, the conception of posi-
+ofta relaterar till ett pÜ fîr-      tion is used, where usually one
+hand definierat referenssystem.      on beforehand defined reference
+Det mest kÑnda och mest anvÑnda      system is used. The most common
+referenssystemet inom vetenska-      reference system used in scien-
+pen  Ñr  koordinatsystemet  be-      ce is a rectangular co-ordinate
+stÜende  av ett  antal  mot va-      system  made up of a number  of
+randra vinkelrÑta och graderade      perpendicular graduated axes.
+axlar.
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.07
+--------------------------------------------------------------------- 
+ 
+ 
+
+Distans Ñr ett relativt begrepp      Distance  is a relative concept
+i sÜ motto att  det  alltid ges      in the sense that  distance al-
+mÜtt  och  dimension av  en  pÜ      ways is measurement by means of
+fîrhand bestÑmd  referensenhet.      one  on  beforehand  determined
+FîrutsÑttningen  fîr  att   ett      reference unit.  The  condition
+mÑtsystem  fîr   distans  skall      for a reliable  system  of dis-
+vara  anvÑndbart  Ñr,  att  den      tance  measurement is that  the
+anvÑnda  referensen   Ñr en fîr      used reference  is well  known,
+alla vÑl kÑnd, tillgÑnglig  och      common   obtainable  and  being
+stabil enhet.     I gammal tid,      stable.  In  ancient time, when
+dÜ  kraven pÜ precision i  all-      the claim of precision was less
+mÑnhet inte  var  sÜ stor som i      than today, the  reference of a
+vÜra  dagar, anvÑnde man sig av      thumb, a hand, an arm or a foot
+lÑngden hos en tumme,  en hand,      were used. Some  of these units
+en  arm eller en fot.  Vissa av      are  still in use but  assigned
+dessa enheter lever fortfarande      more precise  definitions  than
+kvar in i vÜr tid, dock har  de      in  its  origin shape,  all  in
+dÜ getts mycket  exaktare defi-      order to satisfy  an increasing
+nitioner  fîr att mîta upp  mot      claim of precision.
+îkade krav pÜ precision.
+
+I  Europa anvÑndes till stîrsta      In  Europe the metre mostly  is
+delen metern    som    referen-      used as the reference unit.From
+enhet.   Metern var frÜn bîrjan      the  beginning, the  metre  was
+definierad som en 1/40000000 av      defined as one  1/40000000 part
+avstÜndet runt jordens ekvator,      of   the  distance  around  the
+men numera  relateras  den till      earth's  equator,  but nowadays
+den s.k.  arkivmetern som Ñr en      it  is  related to the  archive
+mÑtstav  tillverkad  i  en spe-      metre, a measuring  rod made of
+ciell   stabil   metallegering,      a special metallic alloy stored
+fîrvarad under mycket  kontrol-      under exceptional careful envi-
+lerade fîrhÜllanden.                 ronment conditions.
+
+Under senare  Ür  har  man Ñven      During  later  years  even  the
+bîrjat anvÑnda sig av  vÜglÑng-      wave length of laser  light has
+den hos  laserljus.   Dock, det      begun to be used.But still, the
+gemensamma fîr all lÑngdmÑtning      common  thing  for  all  length
+Ñr fortfarande  att den anvÑnda      measurement  is the  same,  the
+referensen Ñr vÑl kÑnd och rep-      reference  used  shall  be well
+roducerbar av alla som vill an-      known  and be easy reproducible
+vÑnda sig av den vid mÑtning.        for everyone using it.
+
+
+
+TID                                  TIME
+---                                  ----
+
+Begreppet  "tid" Ñr kanske  ett      The concept of time is  perhaps
+av de mest  omdiskuterade  beg-      the most  discussed  concept in
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.08
+--------------------------------------------------------------------- 
+ 
+ 
+reppen  inom  filosofi och  ve-      philosophy and science. Time is
+tenskap.  Tid Ñr nÜgot vi mÑter      measured by our watches, but is
+med  vÜra klockor, men Ñven nÜ-      even something which is subjec-
+got som vi i hîgsta grad upple-      tively experienced as something
+ver som verkligt och pÜtagligt.      real  and substantial.  Peoples
+Tiden  har  i  dagens   jÑktade      today  being in a hurry, appre-
+vÑrld   blivit   nÜgot   nÑstan      hend  time  of that  reason  as
+reellt och pÜtagligt,  Ñven  om      something  very   real  and ob-
+vi naturligtvis mycket vÑl vet,      vious,  even if everybody  well
+att tid endast  Ñr ett  fiktivt      know that time only is a ficti-
+och inbillat begrepp.                ve and imagined thing.
+
+Tid Ñr ett mÜtt pÜ rîrelse  el-      Time is a measurement of change
+ler  fîrÑndring  och  Ñr liksom      and  is, in the same way as for
+begreppet distans i viss mening      the  concept  of  distance,  to
+ett relativt  begrepp,  detta i      some extent to be regarded as a
+sÜ  motto  att vi mÑter  tid  i      relative   concept   because we
+mÜtt  av  period  hos  en redan      always  make use of a reference
+kÑnd  och  definierad   rîrelse      period by an   already  defined
+eller fîrlopp.  Referenser  som      and  known period or  interval.
+anvÑndes skall vara en  allmÑnt      The  reference  used  shall  be
+kÑnd fîreteelse  och skall vara      common  known and  stable  over
+stabil  îver  lÜnga   perioder.      a long period of  time.  In the
+Under   tidernas   lopp har man      course  of the years  one  have
+dÑrfîr  anvÑnt sig av skiftande      made use  of  shifting  methods
+metoder fîr att mÑta  tid, till      for  time  measurement, in  the
+en bîrjan med hjÑlp av  allmÑnt      beginning with aid  of periodic
+kÑnda periodiska rîrelser, jor-      movements  of the earth  around
+dens  rîrelse kring solen  (ett      the sun  (a year), the movement
+Ür), mÜnens rîrelse  kring jor-      around  the  earth  (a  month),
+den (en mÜnad), vÑxling  mellan      change between day and night (a
+dag och natt (en dag).  Behovet      day).  The need for shorter and
+îkade successivt fîr noggranna-      more precise time  measurements
+re tidmÑtning liksom  Ñven tid-      was  successively  accentuated.
+mÑtning under kortare perioder.
+                                     Of that reason one began to use
+Man bîrjade dÜ att  anvÑnda sig      sand-glass, sun-watches, pendu-
+av  timglas,  solur,  pendelur,      lum watches, watches with inge-
+klockor med  allehanda sinnrikt      nious  mechanisms which divided
+konstruerade   mekanismer   som      larger time periods  in smaller
+hackade sînder  stîrre perioder      intervals and so on.
+i mindre intervaller.
+
+Alltefter som behovet av preci-      As the need of precision  stea-
+sion îkade,  delade man Ñven in      dily increased, one began divi-
+timman i minuter, sekunder, och      ding  hours in minutes, minutes
+senare Ñven  sekunden  i tusen-      in seconds,and later on seconds
+dels sekunder, milliondels  se-      in  milliseconds, microseconds,
+kunder, nanosekunder ...    Vid      nanoseconds ...         In this
+dessa perioder dîg ej lÑngre de      dividing the mechanical methods
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.09
+--------------------------------------------------------------------- 
+ 
+ 
+mekaniska metoderna, man anvÑn-      not longer were  precise enough
+de sig istÑllet av  svÑngnings-      and  of  that reason they  were
+perioden hos atomer och elemen-      replaced by  oscillating  move-
+tÑra  partiklar  i  svÑngnings-      ments  of atoms or by  oscilla-
+kretsar.                             ting electrical circuits.
+
+SÜlunda Ñr tid   uppmÑtning  av      Hence, time is  measurement  of
+hur  mÜnga perioder som fîrbru-      how many periods have been con-
+kas i en process  eller skeende      sumed in a process  or a  cause
+i mÜtt av en redan kÑnd period.      of event as defined from an al-                             Seen
+I sÜ motto Ñr  tid  en  digital      ready  well  known  and defined
+fîreteelse,  dvs kan  rÑknas  i      periode.  In this sense time is
+hela enheter  eller intervaller      a  digital   phenomenon,  which
+av  en  kÑnd  rîrelsecykel. Tid      means,  can  be  expressed in a
+Ñr sÜlunda ett mÜtt  pÜ det an-      fixed  number  of intervalls of
+tal  "tick" en pÜ fîrhand  kÑnd      a known cyclic event.  In other
+och   definierad   oscillerande      worlds, time  is the  number of
+rîrelse utfîr under det skeende      "ticks" consumed  during an in-
+eller  intervall  under  vilket      terval. One "tick"  then is the
+tidmÑtninen  pÜgÜr.  Om vi  gîr      used reference  interval. If we
+oss  medvetna  om  detta faktum      make  ourselves  aware of these
+fîrsvinner mycket av den mystik      facts, the concept of time will
+som annars omger tidsbegreppet.      apperar some less mystical.
+
+
+
+HASTIGHET                            VELOCITY
+---------                            --------
+
+Enligt vÜr  definition  pÜ beg-      According to our definition  of
+reppet  tid fîrbrukar ett  fîr-      time,  a  process  or course of
+lopp eller ett   skeende  "tid"      event   will  consume  time  or
+eller  "tick" av en redan defi-      "ticks" from an already  on be-
+nierad  enhetsperiod.  Ett fîr-      forehand defined unit period. A
+lopp  som  fîregÜr îver en viss      course taking  place  over cer-
+distans  kan   fîrbruka   olika      tain distance  will  consume  a
+mÑngd  tid.  Fîr att dÜ  fÜ  en      different  amount of time.   To
+enkel mÜttstock fîr  hur snabbt      get a  simple  measurement  how
+en  fîrÑndring av lÑge  hos  en      fast  change in position is ta-
+kropp i rîrelse  fîrsiggÜr, har      king place, the concept  of ve-
+begreppet hastighet definierats      locity   has  been  introduced,
+som en kvot  mellan  tillrygga-      defined as a  quotient  between
+lagd distans per tidsenhet (per      covered distance per unit  time
+tick hos en   vald   referens).      (per tick) of a chosen referen-
+Uttryckt  i matematisk form  Ñr      ce. Expressed in a mathematical
+detta:                               form that is:
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.10
+--------------------------------------------------------------------- 
+
+
+
+==== The definition of velocity ============================== 1.10A
+                          ds is a small limiting distance
+v= ds/dt                  dt is a small limiting time interval
+                          v  is the velocity calculated
+================
+
+
+Om  en rîrelse  fîrbrukar  lika      If a movement   consumes  equal
+mÜnga "tick"  per tillryggalagd      number   of  "ticks"  for  each
+distansenhet,  sÑger  man   att      covered distance unit, one says
+hastigheten  Ñr   en  konstant.      that the velocity is invariant.
+Observera sÜlunda, att  begrep-      Hence,  observe,  that the con-
+pet hastighet Ñr ett sammansatt      cept  of velocity is a  complex
+begrepp,  beroende  av  tvÜ  av      entity,  composed  by two sepa-
+varandra  oberoende  storheter,      rately independent units,  dis-
+distans  och tid.  Hastighet Ñr      tance and time.  Hence velocity
+sÜlunda fîrÑndring  av  distans      is change of distance over time
+per tidsenhet (per tick hos  en      (or change per tick of a  given
+given referensperiod).               reference period).
+
+
+
+ACCELERATION                         ACCELERATION
+------------                         ------------
+
+Om hastigheten i ett fîrlopp ej      If the  velocity  in  a process
+Ñr konstant  îver  tiden  finns      not  is constant over time  but
+Ñven hÑr ett behov att beskriva      varies,there also exists a need
+detta  i  kvantitativa  termer.      for describing that in quantita-
+Detta sker genom begreppet acce-     tive terms. That is  done  with
+leration (eller  om  hastighets-     the concept of acceleration (or
+fîrÑndringen  Ñr  negativ,  med      if  the change  in  velocity is
+retardation).   Acceleration re-     negative, by retardation).Hence,
+spective retardation Ñr sÜlunda      acceleration  and   retardation
+hastighetsÑndring   per  tidsen-     respectively  are   change   of
+het, vilket i  matematisk  form      velocity over time,or expressed
+kan uttryckas som :                  in a mathematical form:
+
+
+==== Definition of the concept of acceleration/retardation === 1.11A
+
+                     2    2
+ a= dv/dt eller  a= d s/dt
+
+ ===========================
+
+vilket  Ñr fîrsta tidsderivatan      which  is the first  derivative
+av hastighet och  andra tidsde-      of  velocity   and  the  second
+rivatan av distans.                  derivative of distance.
+
+Massa, distans, tid,  hastighet      Mass,  distance, time, velocity
+och  hastighetsfîrÑndring  îver      and change of   velocity   over
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.11
+--------------------------------------------------------------------- 
+ 
+ 
+tid (acceleration  och retarda-      time (acceleration and retarda-
+tion)  har nu  definierats  som      tion) have now been  defined as
+fysikaliska anvÑndbara begrepp.      physical accessible concepts.
+
+Massa,  distans och  tid  eller      Hence,  mass  distance and time
+massa,   hastighet   och tid Ñr      or mass, velocity  and time are
+dock  de grundlÑggande  enheter      those fundamental entities  ma-
+som behîvs fîr  att kunna utfî-      king it possible to make a mea-
+ra en  meningsfull  beskrivning      ningful description of the who-
+av hela den  fysikalsika  vÑrl-      le physical  world. (In  accor-
+den. (Enligt   uppfattningen  i      dance with this theory).
+denna teori).
+
+
+============================================================== 1.12A
+
+Massa, tid och  distans  Ñr de       Mass, time and distance are the
+grundlÑggande begreppen.             basic concepts or units.
+
+Alla  andra  enheter  Ñr  sedan      Then,all other units  are redu-
+reducerbara  till  dessa  enkla      cible  to  these  fundamenthal
+grundlÑggande begrepp.               units and concepts.
+
+====================================================================
+
+
+
+Det Ñr mycket viktigt fîr varje      It  is very important to accen-
+fysikalisk teori, att de grund-      tuat that for   every  physical
+lÑggande begrepp och definitio-      theory,  all fundamental   con-
+ner som gjorts ligger fast  och      cepts and  definitions used are
+inte  utsÑttes  fîr  fîrÑndring      invariable  and well consolida-
+inom ramen fîr teorin.               ted throughout the whole theory.
+
+(Obs: Inom  dagens  etablerade       (Obs: Within limits of establi-
+fysikteori  kan  de elektriska       shed physical theory,  it's not
+enheterna  inte  uttryckas   i       possible  to express  the elec-
+heltal av massa, tid och lÑngd.      trical units in integer  values
+Detta Ñr  mîjligt  inom  ramen       of mass, time and  length. That
+fîr  den  teori  som hÑr skall       is  possible  in  this  theory,
+redovisas fîr).                      for which  shall  be  accounted
+                                     for later.
+
+
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.12
+--------------------------------------------------------------------- 
+
+
+
+EINSTEINS RELATIVITETSTEORI HAR      EINSTEIN'S THEORY OF RELATIVITY
+VèLDFôRT SIG Pè DE GRUNDLéGGAN-      HAS VIOLATED  FUNDAMENTAL REFE-
+DE REFERENSER VARMED MASSA, TID      RENCES  BY WHICH MEASUREMENT OF
+OCH  DISTANS MéTES.  DETTA  HAR      MASS,  TIME  AND  DISTANCE  ARE
+SKAPAT EN  FôRVIRRAD  SITUATION      PERFORMED.   THAT HAS CREATED A
+SOM  I GRUNDEN SKADAT  TILLTRON      CONFUSED  SITUATION  WHICH  HAS
+TILL   DEN   MODERNA   FYSIKENS      CAUSED HARM  AND DESTROYED  THE
+RESULTAT OCH METODER. MASSA,TID      CONFIDENCE OF  MODERN  PHYSICAL
+OCH  DISTANS  HAR  GJORTS  TILL      RESULTS AND METHODS. MASS, TIME
+OKONTROLLERADE ELASTISKA  STOR-      AND DISTANCE HAVE BEEN ALLOTTED
+HETER OCH DéRMED UTLéMNATS TILL      UNCHECKED ELASTIC ENTITIES  AND
+ETT ALLMéNT GODTYCKE. ATT EINS-      BY THAT BEEN GIVEN UP TO COMMON
+TEINS FôRVIRRADE TéNKANDE GETTS      WILL.  THAT EINSTEIN'S CONFUSED
+Sè  STORT UTRYMME AVSLôJAR  DET      THINKING HAS BEEN GIVEN SO MUCH
+BEDRôVLIGA  TILLSTèND   OCH DEN      ATTENTION CONCEAL THE MISERABLE
+SORGLIGA  MENTALITET SOM  SEDAN      AND SAD  MENTALITY  WHICH SINCE
+LèNG TID  TILLBAKA  VARIT  FôR-      LONG  TIME BACK HAS BEEN PREDO-
+HéRSKANDE  INOM DEN  TEORETISKA      MINANT IN THE AREA  OF PHYSICAL
+FYSIKFORSKNINGEN. FôR ATT KOMMA      THEORETICAL  RESEARCH.  TO MAKE
+VIDARE MèSTE DETTA TILLSTèND AV      PROGRESS  IT  IS  NECESSARY  TO
+FôRLAMNING OCH FôRVIRRING  BRY-      BREAK  THIS STATE OF  PARALYCIS
+TAS.                                 AND CONFUSION.
+
+
+====================================================================
+
+
+
+
+
+KRAFT                                FORCE
+-----                                -----
+
+Som  vi nu sett Ñr de grundlÑg-      As we now have seen, basic con-
+gande begrepp som anvÑndes inom      cepts  used in physics are pri-
+fysiken  primitiva  och  ganska      mitive and hard to  understand.
+svÜra att fîrnuftsmÑssigt grep-      One concept which in particular
+pa.   Ett begrepp som  Ñr  spe-      is troublesome  is  the concept
+ciellt besvÑrligt  Ñr begreppet      of  force.  Force is an  entity
+kraft.  Kraft Ñr en storhet som      which in physics is measured by
+man inom fysiken mÑter men Ñven      varying   methods,   but   even
+nÜgonting  som vi ocksÜ  starkt      something  which   we  strongly
+upplever   som   verkligt   och      experience  as  most  real  and
+pÜtagligt i mÜnga sammanhang.        obvious in many different ways.
+
+Den kraft som vi kanske Ñr mest      This  force  which  we  perhaps
+fîrtrogna med, men  som vi ÑndÜ      know  best,  yet  not  think so
+inte  funderar sÜ mycket  îver,      much  about, is the gravitation
+Ñr gravitationen,  den kosmiska      force,this cosmical force which
+kraft  som  drar  alla  fîremÜl      attracts  all physical  objects
+tillsammans med oss  sjÑlva mot      together with  our  own  bodies
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.13
+--------------------------------------------------------------------- 
+ 
+ 
+jordens yta och fîrhindrar  att      toward   the  earth's  surface,
+allt varpÜ jorden Ñr slungas ut      preventing  everything   to  be
+i vÑrldsrymden.                      thrown out into universe.
+
+En  annan  vÑlbekant  kraft  Ñr      Another well known force is the
+masstrîghetskraften. Det Ñr den      mass inertial  force.   That is
+kraft som uppstÜr  dÜ ett fîre-      the force which is created when
+mÜl  eller vi  sjÑlva  fîrsîker      a body tries to  change its mo-
+Ñndra hastighet.  Speciellt vÑl      ving  state.  In particular  we
+mÑrker  vi  denna kraft  om  vi      observe this force when travel-
+Üker med ett fordon som hastigt      ling with a vehicle which  has-
+accelererar eller bromsar.           tily accelerate or retard.
+
+DÜ vi slÜr med  hammaren  pÜ en      When we hit a hammer on a nail,
+spik  Ñr det samma typ av kraft      that is the  same sort of force
+som verkar.  Trîghetskraften  i      which acts.  The mass  inertial
+hammarens massa fîrhindrar ham-      force  prevents  the  hammer to
+maren att omedelbart stanna och      immediately   stop  and the re-
+resultatet   blir  att   spiken      sult is that the nail is driven
+drivs in i trÑplankan.               into the wood.
+
+Mellan elektriskt laddade  par-      Between electrical charged par-
+tiklar eller  mellan magnetiska      ticles or between magnetic  po-
+poler   finns  ocksÜ   verkande      les there also  are acting for-
+krafter,  liksom   Ñven  starka      ces,  as  well as  even  strong
+krafter finns mellan elementÑra      forces between  elementary par-
+partiklar i atomens kÑrna.           ticles in the atomic core.
+
+Dessa fyra typer av krafter  Ñr      These  four types of forces are
+de som man idag klassificerar i      those which now are  classified
+fysiken.  Spekulationer  finns,      in physics.  There are specula-
+att samtliga  kan hÑnfîras till      tions that they  all can be de-
+en  gemensam princip, dock  har      rived from a common  principle,
+inte vetenskapen Ñnnu kommit sÜ      yet  science has not  succeeded
+lÜngt som gîr detta mîjligt.         to  bring  them together.
+
+Maxwell kunde  pÜvisa,  att  de      Maxwell  was able to show  that
+elektrostatiska  krafterna  och      the  electro  statical  and the
+de magnetiska krafterna hade en      magnetic  forces  had a  common
+gemensam kÑlla. Einstein gjorde      source. Einstein did an attempt
+fîrsîk att samordna  trîg massa      to  co-ordinate  inertial  mass
+(inertial  massa) med  gravite-      and   gravitating   mass by the
+rande massa (gravitation) genom      equivalence  principle by  sta-
+den  s.k.  ekvivalensprincipen.      ting  that  gravitation  not is
+Gravitationen   Ñr   dÑr  ingen      any  force,  just a bending  in
+kraft utan enbart en geometrisk      the    space-time    continuum.
+krîkning i rumtiden. Fîr îvrigt      Moreover,  there are  a lot  of
+finnes  idag en mÑngd nya  teo-      other new  theories  with  name
+rier, s.k.  "GUT, Grand UNIFIED, "GUT, Grand Unified  Theories",
+Theories"  som fîrsîker inordna      which try  to  incorporate  all
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.14
+--------------------------------------------------------------------- 
+ 
+ 
+samtliga krafter  i en gemensam      forces  in  a  common   theory.
+teori.   Dock Ñr man idag lÜngt      However, science today is  very
+ifrÜn  att  lyckas   med  dessa      apart  from a solution  of  the
+fîrutsatser.                         force problem.
+
+Det  konstanta  trycket  i  ett      The constant pressure in a  car
+bildÑck eller i en spÑnd fjÑder      deck or the  force in  a stret-
+brukar vi vanligtvis benÑmna en      ched steel  spring, usually  is
+statisk  kraft.   En  stît  som      regarded as a statical force. A
+skjuter ivÑg  en  kanonkula, en      push  which throw  away a  can-
+hammare som driver in en spik i      non-ball  or  a  hammer   which
+en trÑplanka  osv brukar vi be-      drives a  nail into  the  wood,
+nÑmna  dynamiska  krafter.   Ur      usually are classified as dyna-
+praktisk  synpunkt kan en sÜdan      mical forces.  In  a  practical
+indelning av krafter vara befo-      point of  view such a  subdivi-
+gad, dock skall vi i denna teo-      ding of forces may be motivated,
+ri visa, att denna indelning Ñr      yet this theory will show  that
+ytligt och  av   enbart  fiktiv      this categorization is superfi-
+natur.                               cial and only of fictive nature.
+
+Vi kommer att finna,  att samt-      We will find,  that  all  known
+liga  kÑnda  kraftverkningar  i      actions by force can be related
+naturen  kan  hÑnfîras  till en      to one single  universal  prin-
+enda universell princip. Det Ñr      ciple.  That is Newton's second
+Newtons andra  kraftlag  som Ñr      law of force, which constitutes
+grunden fîr alla av de nu nÑmn-      the  base  for  all  now  known
+da kraftverkningarna  i naturen      forces in  nature  and the only
+och  den  enda  princip  varmed      principle  by which  forces  in
+krafter kan Üstadkommas.             nature can be created.
+
+Vi  mÜste fîrestÑlla oss  feno-      We must understand the phenome-
+menet  kraft som materiens beg-      non of  force  as  the matter's
+rÑnsade fîrmÜga att pÜ obegrÑn-      limited  capacity to on unlimi-
+sat kort tid  îverfîra  ett rî-      ted  short  time  transmit  one
+relsetillstÜnd  till  en  annan      state of motion to another sta-
+del av materien.   De mikrokos-      te of motion.  The micro cosmi-
+miska entiteter som  materien i      cal  entities, being the  basic
+grunden  bestÜr,  rîr  sig  med      constituents  of   matter, move
+begrÑnsade  hastigheter  och en      with  limited velocities and  a
+îverfîring  av lÑge och hastig-      change in position and velocity
+het kan dÑrfîr ej  ske pÜ obeg-      cannot  be  transmitted  on  an
+rÑnsat kort tid.  Under îverfî-      unlimited short period of time.
+ringsfasen sker en omstrukture-      During the transmission  phase,
+ring  av materien pÜ  mikrosko-      a restructuring  of material is
+pisk nivÜ,  vilket manifesterar      taking  place  on micro  cosmic
+sig i de fenomen som vi uppfat-      level, which  is  manifested in
+tar som att krafter Ñr i rîrel-      phenomena which we interpret as
+se.                                  forces.
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.15
+--------------------------------------------------------------------- 
+
+ 
+Ibland (vid  vÜldsam  kollision      Sometimes  (at  violent  colli-
+mellan  massor) sker omstruktu-      sions) a  restructuring of mat-
+rering av materien, deformation      ter, a deformation occur, which
+dvs.  en bestÜende  verkan upp-      implies that a remaining effect
+stÜr. Denna  effekt fÜs, dÜ den      is achieved. This effect is got
+yttre  pÜtvingade  effekten  Ñr      when the outer  force effect is
+stîrre Ñn den inre balanserande      larger than the inherent balan-
+effekten  i materien  (deforma-      cing  effect  (the  deformation
+tionsgrÑnsen îverskrides).           limit is exceeded).
+
+Vi vill nu sîka en fîrenad teo-      We will now  search  for a uni-
+ri  som ger en samlad  beskriv-      ting theory, which gives a col-
+ning av begreppet kraft.  DÜ Ñr      lected view of  the  concept of
+det  nîdvÑndigt  att i  grunden      force.  Then it is necessary to
+fîrsîka  fîrstÜ  vad  kraft Ñr.      achieve a  basic  understanding
+Endast pÜ detta sÑtt finns mîj-      what  force basically is.  Only
+lighet att  finna den enhetliga      in this way it  is  possible to
+beskrivning  av naturen som ef-      obtain a uniting description of
+terstrÑvas.                          the concept of force.
+
+
+
+==== Verbal definition of the concept of force =============== 1.16A
+
+VÜr  utgÜngspunkt Ñr, att kraft      Our  starting  point  is,  that
+enbart Ñr ett dynamiskt fenomen      force only is a dynamical  phe-
+som uppstÜr dÜ en massa  fîrsî-      nomenon risen when a mass tries
+ker fîrÑndra  sitt rîrelsetill-      to change its   moving   state.
+stÜnd.  Emedan  îverfîring   av      Because transmitting of  infor-
+information  konsumerar tid  Ñr      mation consumes  time, force is
+kraft det dynamiska fenomen som      this dynamical phenomenon which
+uppstÜr i îvergÜngsfasen mellan      appears  in   the  transmission
+tvÜ statiska tillstÜnd av  jÑm-      phase  between  two   stational
+vikt.                                states.
+
+====================================================================
+
+
+
+
+
+EN MATEMATISK ANALYS AV BEGREP-      A MATHEMATICAL ANALYSIS  OF THE
+------------------------------       -------------------------------
+PET KRAFT                            CONCEPT OF FORCE
+---------                            ----------------
+
+I syfte att  skaffa  oss en ac-      In aim to get   an   acceptable
+ceptabel  fîrstÜelse av begrep-      understanding of the concept of
+pet kraft och dessutom kunna ge      force, and moreover, giving the
+begreppet en kvantitativ  fysi-      concept a quantitative physical
+kalisk   innebîrd   kommer vi i      interpretation, we will in this
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.16
+--------------------------------------------------------------------- 
+ 
+ 
+denna teori att beskriva  kraft      theory describe force as a col-
+som en  kollektiv effekt mellan      lective bulk   effect   between
+materiens fundamentala delar.        fundamental entities of matter.
+
+DÑrmed  avses, att kraft  skall      That means, that force shall be
+betraktas som en enbart kollek-      regarded as a purely collective
+tiv manifestation hos  materien      manifestation of matter and not
+och  ej  en  egenskap  som  kan      as any property of single enti-
+tillskrivas   de   individuella      ties of the  participating par-
+delarna i sig sjÑlva. Det skul-      ticles  themselves.  Hence,  it
+le  alltsÜ finnas en nedre nivÜ      should exists a lower  level of
+i materien dÑr  egenskaper  som      matter  were common  properties
+normalt tilldelas materia, sak-      usually associated with matter,
+nas. Detta kan vara  lite svÜrt      is lacking. Maybe  that is some
+att acceptera men Ñr Ñndock den      hard to accept,  yet it is this
+utgÜngspunkt  som  vi hÑr skall      starting point we here will use
+ha  fîr att kunna hÑrleda  New-      when deriving  Newton's  second
+tons andra lag,  den lag som Ñr      law  of  force, this law  which
+grunden  fîr  all verkan i  den      constitutes  the  base  for the
+fysikaliska vÑrlden (enligt upp-     whole physical world (according
+fattningen i denna teori).           this theory).
+
+Fîr  att gîra en analys  mîjlig      In  order to make  an  analysis
+betraktar vi  ett  enkelt  fall      possible, we  make a study of a
+dÑr tvÜ samlingar av  partiklar      case  were  two collections  of
+sammanstîter  med  varandra med      particles  collide   with  each
+en  viss relativ hastighet.   I      other, with a certain  relative
+den ena  samlingen  finns , n ,      velocity.  In   one  collection
+entiteter och i den andra , N ,      there are , n , entities and in
+antal entiteter  av samma slag.      the other there are , N , enti-
+Fîr  enkelhets  skull antar  vi      ties of the same kind.For simp-
+dessutom, att , N ,  Ñr  mycket      licity we assume that the , N ,
+stîrre  Ñn , n  , och  att  den      collection is much larger than
+stîrre samlingen , N , befinner      the , n , collection and that ,
+sig i vila i ett givet referens-     N , is in rest in a given refe-
+system.                              rence system.
+
+
+
+                -----> v
+                                          ooooo
+                 oo                     ooooooooo
+                oooo   n               ooooooooooo     N
+                 oo                   ooooooooooooo
+                                       ooooooooooo
+                                        ooooooooo
+                                          ooooo
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.17
+--------------------------------------------------------------------- 
+ 
+ 
+VÜr utgÜngssituation Ñr sÜlunda      Hence, our starting position is
+att vi  har  , n ,  resp , N  ,      that we have , n ,  respective,
+antal   fundamentala  entiteter      N , number of fundamental enti-
+ansamlade i de bÜda samlingarna.     ties collected  in the two  sy-
+Den  mindre  samlingen  rîr sig      stems.The smallest system moves
+med hastigheten , v , mot , N ,      with  a  velocity , v , in  the
+och entiteternas rîrelser îver-      direction of , N ,and the move-
+fîres  i  sin  helhet  till den      ment is completely  transmitted
+stîrre samlingen.  Vi vill  be-      to it.  We will  here  describe
+skriva  hur  îvergÜngsfîrloppet      how this transmission is taking
+sker.                                place.
+
+Processen  Ñr som  fîljer: alla,     The process is thought to be as
+n , partiklarna  i  den  mindre      follows: all the, n , particles
+samlingen  kommer  sÜ smÜningom      in the smaller system successi-
+att stîta pÜ en partikel i  den      vely will collide with entities
+stîrre samlingen. DÑrvid kommer      in the other system. When  that
+ett stîrre antal partiklar  att      occur, a large amount  of enti-
+deltaga i rîrelsen, dock med en      ties will participate, yet with
+lÑgre hastighet beroende pÜ att      a some lower velocity dependent
+den  tillgÑngliga   hastigheten      of that the velocity  available
+mÜste fîrdelas till ett  stîrre      is  distributed  over  a larger
+antal partiklar. Man kan fîrmo-      amount  of entities.   One  can
+da  att hastigheten halveras dÜ      assume, on a statistical basis,
+antalet   inblandade  partiklar      that the velocity will be divi-
+fîrdubblas.  Efter  ytterligare      ded by half the  previous value
+en period Ñr  antalet partiklar      for  each  new group  collision
+i rîrelse 4 gÜnger sÜ mÜnga som      and where the  number  of enti-
+frÜn  bîrjan,  dock  enbart med      ties are doubled. After a furt-
+1/4 av den ursprungliga hastig-      her period,4 times more partic-
+heten. Detta  fortgÜr till dess      les  participate but with  only
+att alla  partiklar , n , och ,      1/4 of  the   origin  velocity.
+N , sammanblandade har  antagit      This   process  will  continue
+samma gemensamma hastighet.DÑr-      until all entities  have  got a
+med  har ett  nytt  balanstill-      common velocity. A new equilib-
+stÜnd uppnÜtts.                      rium state has been achieved.
+
+Vi skall dÜ hÑr i nÜgot fîrenk-      We   will  here  in a  somewhat
+lad  matematisk  form  beskriva      brief and simplified mathemati-
+och tolka vad som  sker i îver-      cal  way describe the  process.
+gÜngsprocessen.   Vi tÑnker oss      For that  aim  we  imagine  the
+en fri medeldistans  mellan en-      excistence of a free mean  dis-
+skilda  entiteter   i  de  bÜda      tance between  entities in both
+samlingarna och benÑmner  denna      the  systems and denoting  this
+distans, s. Varje entitet mÜste      distance with letter, s. Hence,
+sÜledes  fîrflytta   sig  denna      each   entity  must  move  this
+distans  innan den kan  pÜverka      minimum distance before  it can
+en annan  entitet  i samlingen.      influence  another particle  in
+Fîr  varje fullbordad stît mel-      the system. For  each completed
+lan, n , entiteter med, n , nya      strike  between , n ,  entities
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.18
+--------------------------------------------------------------------- 
+ 
+ 
+entiteter  halveras hastigheten      with , n , new  entities in the
+hos de involverade  partiklarna      larger collection, the velocity
+i samlingen. Om  antalet stîtar      of  involved  entities  will be
+Ñr, nx,  fram  till det att det      divided  by two. If  the  total
+stabila tillstÜndet uppnÜs, kan      numbers of pushes to the equili-
+den totala tiden som konsumeras      brium state is, nx , the  total
+berÑknas ur en summaserie:           time consumed is calculated by:
+
+
+T= SUM(s/vn)= s/v+ s/(v/2)+ s/(v/4)+...+ s/(v/nx)              1.19A
+
+
+T = s/v * (1+2+4+8+..+nx)                                      1.19B
+
+             nx
+           2    -1       nx
+T = s/v. ----------- =  2  -1                                  1.19C
+             2 - 1
+
+============================================================== 1.19D
+ nx
+2  -1 = T.v/s
+===================
+
+Om det totala antalet gruppkol-      If  the total number  of  group
+litioner fram till det statiska      collisions preceding the stati-
+vilotillstÜndet Ñr, nx , fÜr vi      cal rest state is, nx, we get a
+en  serie av termer vars  summa      limited numbers of  terms which
+vi kan berÑkna med  hjÑlp av en      we calculate by aid of a mathe-
+matematisk summeringsregel.          matical summary rule:
+
+Vid den fîrsta gruppkollisionen      At the first group collision, n,
+Ñr, n, entiteter involverade. I      entities are  involved.  In the
+den andra  gruppkollisionen  Ñr,     second   group  collision, 2.n,
+2.n, antal entiteter i  rîrelse,     entities are   involved,  which
+dvs antal  entiteter fîrdubblas      means,   a  doubling  for  each
+fîr varje gruppkollision.   Vid      group  collision.  At each such
+varje  sÜdan  hÑndelse  sjunker      event, the velocity of  partic-
+hastigheten  hos de involverade      les involved is reduced to half
+partiklarna  till   hÑlften  av      the  magnitude of the  previous
+sitt fîregÜende vÑrde  (statis-      value (statistically). When all
+tiskt).DÜ alla entiterna, (n+N),     entities, n+N, are engaged, the
+Ñr i rîrelse har jÑmviktstills-      equilibrium  state is achieved.
+tÜnd uppnÜtts. Ur detta resone-      From this discussion we conclu-
+mang erhÜlles:                       de:
+
+
+N = n+ 2.n+ 4.n + 8.n + ...+ nx.n) =                           1.19E
+
+N = n.(1+2+4+8+...+nx)                                         1.19F
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.19
+--------------------------------------------------------------------- 
+ 
+
+
+         nx
+        2  -1       nx
+N = n.---------  = 2   -1                                      1.20A
+        2-1
+
+============================================================== 1.20B
+     nx
+    2  -1  = N/n
+====================
+
+
+Vi kombinerar  1.19D och  1.20B      We  combine  1.19D  and   1.20B
+vilket ger:                          which gives:
+
+=============================================================== 1.20C
+   T.v/s = N/n   : n.T.v/s = N
+==================================
+
+Vi  multiplicerar  bÜda sidorna      We   multiply   both  sides  of
+av 1.20C  med hastigheten , V ,      1.20C by the velocity  of , V ,
+som  Ñr  den  hastighet, N, har      which is this velocity, N , has
+efter  fullbordad  stît, vilket      after  a   completed    impact,
+ger :                                giving :
+
+
+
+V.n.T.(v/s)= N.V  ;  T.(v.n.V/s) =N.V                          1.20D
+
+
+RîrelsemÑngden, n.v ,  Ñr  kon-      The  momentum, n.v, is constant
+stant ofîrÑndrad  under   reak-      unchanged during  the reaction,
+tionen, vilket innebÑr,  att om      which implies that if the whole
+hela rîrelsemÑngden, n.v, îver-      momentum, n.v,  is  transferred
+fîres till, N, gÑller att, n.v=      the  relation, n.v=N.V , is va-
+NV, under den fîrutsÑttning som      lid  at  the  some   simplified
+hÑr  approximativt  gÑller  att,     assumption that,  n<<N.
+n<<N.
+
+Ekvationen  1.20D  beskriver en      The  equation 1.20D describes a
+transformation  dÑr tiden , T ,      transformation  where the  time,
+Ñr inblandad  tillsammas med en      T, is  involved  together  with
+annan term, (v.n.V/s), en funk-      another term, (v.V.n/s), a func-
+tion   som  Newton  gav  namnet      tion which Newton gave the name
+kraft. I relationen 1.20D benÑm-     of force. In the relation 1.20D
+ner vi nu  dÑrfîr det  som stÜr      we  of that reason  denote  the
+innanfîr  parentesen med  symbo-     expression  within   the  paren-
+len, F, och in- eller  utgÜende      thesis bracket with the symbole,
+rîrelsemÑngd, n.v , och , N.V ,      F, and the momentum, n.v ,  and,
+respektive,   med  symbolen, I.      N.V, respectively  by  the  sym-
+DÜ kan ekvationen 1.20D omskri-      bole, I.  1.20D   then  can re-                                          rewritten to:
+vas till :                           written to :
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.20
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+T.v.V.n/s = N.V                                                1.21A
+
+F = v.V.n/s                                                    1.21B
+
+T.F = N.V                                                      1.21C
+
+I = N.V                                                        1.21D
+
+I = F.T                                                        1.21E
+
+
+
+dÑr, n,N, omvandlar mÑngden en-      where, n,N,converts the number
+titeter,ett digitalt vÑrde,till      of entitities, a digital value,
+dimensionen  massa   (kg).  Det      to the dimension  of mass (kg).
+antas  sÜlunda hÑr, att en  di-      Hence, it  is  here   supposed,
+rekt   proportionalitet   rÜder      that there exists a direct pro-
+mellan antal entiteter och mas-      portionality between the number
+sa mÑngden enligt konventionell      of  entities and mass according
+definition.                          to conventional notation.
+
+Med  utgÜngspunkt frÜn  det  nu      With  start  from  what  we now
+sagda ska  vi  hÑrleda  Newtons      have  said we now shall  derive
+andra  kraftlag, vilken Ñr  den      Newton's  second  law of force,
+grund varpÜ alla naturens lagar      which constitutes the ground on
+vilar. Fîr detta ÑndamÜl tÑnker      which all of the nature's inhe-
+vi oss tvÜ stîtsituationer, som      rent laws rest. For that aim we
+definieras pÜ fîljande sÑtt med      imagine two impact  situations,
+hjÑlp av ekvation 1.21E till:        defined with aid of 1.21E to:
+
+
+============================================================== 1.21F
+I1= T1.F1    ;  I2= T2.F2
+===========================
+
+Vi gîr nu  nÜgra  smÜ manipula-      We now do some small  manipula-
+tioner  med 1.21F  pÜ  fîljande      tions with 1.21F in the  follo-
+sÑtt:                                wing way:
+
+
+I1- I2= T1.F1- T2.F2                                           1.21G
+
+
+dÑr  F2= (F1+dF), dÑr  dF Ñr en      where F2=(F1+dF),where dF deno-
+liten  kraftdifferens i den pÜ-      tes a small force difference of
+gÜende stîten vid tidpunkt, T1,      the impact  at the  time  event
+respektive , T2. Vi  definierar      of , T1 , and , T2 ,  respecti-
+vidare att T2= T1+dT,  dÑr, dT,      vely.  Moreover  we define, T2=
+Ñr den  motsvarande  tidsdiffe-      T1+dT,   where ,  dT,  is   the
+rensen. Vi definierar  ocksÜ pÜ      corresponding  time  difference
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.21
+--------------------------------------------------------------------- 
+ 
+ 
+motsvarande  sÑtt I2= I1+dI dÑr      and in a  similar  way  we also
+dI Ñr en liten differens  i rî-      define I2=I1+dI, where , dI, is
+relsemÑngd vid de tvÜ tidstill-      a small difference  element  of
+fÑllena , T1 ,  resp.  T2.  Men      the momentum  at two  different
+hjÑlp av dessa definitioner er-      occasions at times, T1 ,and, T2,
+hÜller vi fîljande:                  respectively. By aid  of  those
+                                     defintions we get :
+
+
+I1- (I1+dI)= T1.F1- (T1+dT).(F1+dF)                            1.22A
+
+-dI= T1.F1- T1.F1- T1.dF- dT.F1- dT.dF
+
+-dI= -T1.dF- dT.(F1+dF)                                        1.22B
+
+
+LÜt nu, dF, gÜ  mot grÑnsvÑrdet      Now let, dF,  goes  towards the
+noll, varvid vi fÜr:                 limit of zero, where we get:
+
+
+
+dI/dT= F1                                                      1.22C
+
+
+
+eller i allmÑn form:                 or expressed in a common form:
+
+============================================================== 1.22D
+
+ F= d(I)/dt = d(m.v)/dt
+
+=======================
+
+
+Genom  matematiska  regler  fîr      By aid of some mathematical ru-
+derivering, kan 1.22D delas upp      les 1.22D can be  divided  into
+i tvÜ var  fîr   sig  oberoende      two independent  terms, namely:
+termer, nÑmligen:
+
+
+==== Common definition of the concept of force ==============  1.22E
+
+ F= d(m.v)/dt= v.dm/dt + m.dv/dt
+
+================================
+
+
+1.22E Ñr det  exakta  uttrycket      1.22E is  the exact  expression
+fîr kraft, men i praktiska sam-      of force, but commonly the term
+manhang  brukar   man  ignorera      dm/dt is  ignored.  That is the
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.22
+--------------------------------------------------------------------- 
+ 
+ 
+termen dm/dt, dvs  dÜ massan Ñr      case when the  mass of the body
+konstant under rîrelsen. I sÜda-     is  constant  during  the whole
+na fall kan 1.22A fîrenklas till:    movement.  In such  cases 1.22A
+                                     can be simplified to :
+
+
+
+===== The concept of force when mass is unchanged ============ 1.23A
+
+                                     Giltig endast i fall att
+ F.dt= m.v  ; F= m.dv/dt             massan = konstant.
+                                     Valid only for case that
+                                     mass = constant
+==========================
+
+
+Termen  dv/dt Ñr accelerationen      The term dv/dt is the accelera-
+hos  massan.   Om  vi betecknar      tion term  of  the  mass. If we
+denna  med bokstaven, a, erhÜl-      denote it with the  letter, a ,
+les:                                 we get:
+
+
+==== Common definition of the concept of acceleration ======== 1.23C
+
+     a= dv/dt                  AllmÑn definition fîr begreppet
+         2    2                ascceleration.
+     a= d s/dt                 Common definition for the concept
+                               of acceleration.
+
+     a= F/m ; F=m.a            Giltigt fîr fall dÑr  accelerationen
+                               Ñr konstant.
+                               Valid for the case  when the  accele-
+                               leration is constant.
+==============================
+
+
+
+
+NèGRA  SAMBAND FôR LINJéR ACCE-      SOME RELATIONS FOR LINEAR ACCE-
+------------------------------       ------------------------------
+LERATION:                            LERATION:
+--------                             ---------
+
+Med  utgÜngspunkt frÜn vÜr  fî-      On basis of our some simplified
+renklade formel  1.23A dÑr mas-      formula  1.23A  where the  mass
+san Ñr konstant  kan ett  antal      i regarded constant, number  of
+praktiskt   anvÑndbara  formler      practical  useable formulae can
+hÑrledas:                            be derived:
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.23
+--------------------------------------------------------------------- 
+ 
+ 
+F= m.dv/dt  --> F.ds= m.dv.ds/dt ---> F.ds= m.v.dv  --->
+
+                                                   2
+                                  2              v
+I (F.ds)= I (m.v.dv) --> F.s= m.v /2 --> s= -----------
+ s         v                                  2.(F/m)
+    
+
+
+============================================================== 1.24A
+        2           Tillryggalagd strÑcka om accelerationen
+      v             Ñr konstant îver tiden.
+ s= ------          Done distance in case the acceleration is
+     2.a            a constant entity.
+================
+
+
+
+F= m.dv/dt --> F.dt= m.dv --> I (F.dt)= I (m.dv) -->
+                               t         v
+
+F.t = m.v -->  v=  (F/m).t -->     v= a.t
+
+
+============================================================== 1.24B
+             GÑller om accelerationen Ñr konstant îver tiden
+ v=a.t       Valid if the acceleration is constant over time
+
+===========
+
+
+
+    2    2               2     2                  2    2
+a= d s/dt -->  (a)dt= (d s/dt)dt --> I (a)dt= I (d s/dt )dt --->
+                                      t        t
+
+                                                      2
+a.t= ds/dt --> (a.t)dt= ds --> I(a.t)dt= I(ds) --> a.t /2= s
+                                t         s
+
+============================================================== 1.24C
+             2
+ s= (1/2).a.t
+
+==============
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.24
+--------------------------------------------------------------------- 
+
+
+
+
+
+Begreppet ENERGI                     The concept of ENERGY
+----------------                     ---------------------
+
+DÜ en kropp i rîrelse Ñr pÜver-      When a moving body is  actuated
+kad av en kraft tillfîres eller      by a force, a  work is supplied
+utrÑttas ett  arbete.   Arbetet      or received. The work, or ener-
+stÜr  i direkt proportion  till      gy, stands in a  direct propor-
+kraftens storlek samt fîrflytt-      tion  to  the magnitude of  the
+ningsstrÑckans lÑngd.   Matema-      force and to the distance. Mat-
+tiskt  definieras dÑrfîr energi      hematically therefore energy is
+pÜ fîljande sÑtt:                    defined in the following way:
+
+============================================================== 1.25A
+                      Energi, eller arbete Ñr produkten
+ dE= (F)ds            av kraft och distans.
+                      Energy, or work is the product of
+ E= I (F)ds           force and distance.
+     s
+================
+
+
+Energi  Ñr ett vÑlkÑnt  begrepp      Energy  is the most well  known
+inom  fysiken.   Energi  Ñr den      and discussed  concepts in phy-
+fysikaliska ande som driver vÜr      sics.  Energy is the spirit  of
+vÑrld och Ñr  motorn  till alla      the world and the motor  of all
+fîrÑndringar.   Hur  energi  en      changes.  How energy in the be-
+gÜng har  skapats  Ñr lika fîr-      ginning was created is the same
+borgat som hur materien en gÜng      hidden  mystery as for how mat-
+frambringats.  1.25A   Ñr  dock      ter was  created. 1.25A  is the
+den  allmÑnna  definitionen  pÜ      common   definition  about  how
+begreppet  energi och  fîr  hur      the concept of energy  is defi-
+energi berÑknas.                     ned nad how to calculate it.
+
+
+
+
+Begreppet RôRELSEENERGI              The concept of KINETIC ENERGY
+-----------------------              -----------------------------
+
+Man skiljer pÜ en kropps totala      There is a difference between a
+energi och  dess  rîrelseenergi      body's  total  energy  and  its
+(kinetisk energi). I den totala      moving energy (kinetic energy).
+energin Ñr kroppens inre energi      In the total  energy the body's
+inkluderad.  FrÜn formel  1.23A      inherent  energy  is  included.
+kan   rîrelseenergin   berÑknas      From 1.23A the  kinetic  energy
+till:                                can be calculated to:
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.25
+--------------------------------------------------------------------- 
+
+
+
+
+F= m.v/dt --> (F)ds= m.v.ds/dt = (m.v)dv --->
+                                            2
+   I (F)ds= I (m.v)dv --> F.s= E= (1/2).m.v
+    s        v
+
+============================================================== 1.26A
+
+             2
+ E= (1/2).m.v
+
+=================
+
+
+Om massan samtidigt  fîrÑndras i     If the mass  change in time  to
+takt  med  rîrelsen,  fÜr vi ett     the movement,we get a different
+annat  uttryck fîr den kinetiska     expression of the kinetic ener-
+energin. Exempel pÜ detta Ñr vid     gy.  As an  example  of that is
+acceleration av partiklar i par-     when  particles are accelerated
+tikelacceleratorer, dÑr Ñven ett     in particle accelerators, where
+tillskott  av   elektromagnetisk     electromagnetic mass is catched
+massa erhÜlles frÜn det  accele-     from the  accelerating electro-
+rerande elektromagnetiska fÑltet.    magnetic field. More about that
+Mer om detta senare i denna teo-     later in this theory.
+ri.
+
+
+Begreppet POTENTIELL ENERGI          The concept of POTENTIAL ENERGY
+---------------------------          -------------------------------
+
+Om en kropp  befinner sig i ett      If a body is situated in a for-
+kraftfÑlt och  pÜverkas av det-      ce  field  and is  actuated  by
+ta  fÑlt,  sÑger  man  att  det      that field by a force, then one
+finns en  potentiell energi, en      say that there  are a potential
+lÑgesenergi.  Ett exempel pÜ en      energy stored.  One example  on
+sÜdan   lÑgesenergi  Ñr  dÜ  en      such an  energy is  when a mass
+massa  befinner  sig i ett gra-      is  situated  in a  gravitating
+vitationsfÑlt.  Ett annat exem-      field.   Another  case  is    a
+pel  Ñr  en  uppspÑnnd  fjÑder.      loaded  steel spring.  Signifi-
+KÑnnetecknande  fîr en potenti-      cantly for  potential energy is
+ell energi Ñr  att denna vilan-      that this  resting energy later
+de energi  senare  kan omsÑttas      can be  replaced  by a  work or
+i mekaniskt arbete  eller i ki-      by kinetic energy.
+netisk energi.
+
+Formoda att vi vill berÑkna lÑ-      Assume we want to calculate the
+gesenergin  fîr en  massa i ett      potential energy  for a mass in
+gravitationsfÑlt. Vi lÜter mas-      a gravity field.We let the mass
+san  rîra  sig frÜn  avstÜendet      move  from infinity  (oo)  to a
+oÑndligheten (oo) till ett spe-      specified distance D, giving  :
+cifikt avstÜnd = D :
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.26
+--------------------------------------------------------------------- 
+ 
+ 
+
+                               oo
+                oo   ds         !
+      Epot = k . I  --2--  = k. ! 1/D1 -1/D2   = k/D           1.27A
+                D    D          !
+                                D
+
+
+
+
+LAGAR FôR IMPULSENS  OCH  ENER-      RULES FOR PRESERVING MOMENTUM
+------------------------------       -----------------------------
+GINS BEVARANDE                       AND ENERGY
+---------------                      ----------
+
+
+===== Preserving laws of mass, impuls and energy ============= 1.27B
+En kropps impuls,massa och ener-     A  body's  momentum,  mass  and
+gi  bevaras  alltid  i en  fysi-     energy, always is  preserved in
+kalisk reaktion.  Detta innebÑr,     a physical process.  That means
+att  impuls,  massa  och  energi     that momentum,  mass and energy
+alltid Üterfinns i reaktionspro-     always is recovered in the  re-
+produkterna men med en annan fas     action products,  but with  an-
+och fîrdelning.                      other phase and distribution.
+====================================================================
+
+
+En  klassisk  reaktion  Ñr stît      A classical reaction is  impact
+mellan tvÜ massor.  Om vi  til-      between two masses. If we apply
+lÑmpar  dessa  regler   pÜ  ett      these rules on such a relative-
+sÜdant  relativt enkelt  system      ly  simple system, we can learn
+kan vi lÑra oss  ganska  mycket      much  about how basic processes
+av hur  grundlÑggande processer      in matter are going on.
+i naturen fîregÜr.
+
+
+
+============================================================== 1.27C
+                     M
+                    O---> u                      Fîre trÑff
+             !                 m
+             !                o ----> v          Before impact
+             !
+        -----o------
+             !
+             !
+
+                     M
+                    O ---> U                     Efter trÑff
+ 
+ 
+ 
+             !                 m
+             !                o ----> V          After impact
+             !
+        -----o------
+             !
+             !
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.27
+--------------------------------------------------------------------- 
+
+
+Fîljande  balansekvationer  fîr      The following balance equations
+impuls och energi  kan nu stÑl-      for momentum and energy now can
+las upp:                             be constructed:
+
+
+==== Impulse before and after hit ============================ 1.28A
+
+m.v + M.u = m.V + M.U                Fîr rîrelsemÑngd
+---------  ---------                 For momentum
+Before hit  After hit
+
+====================
+
+
+
+==== Energy before and after hit ============================= 1.28B
+
+    2     2     2     2
+ m.v + M.u = m.V + M.U          Fîr energi
+ ---------   ---------          For energy
+ Before hit  After hit
+
+=======================
+
+
+Vi lîser  ut, U , frÜn  ekvation     We  solve  out, U ,  from   the
+1.28A :                              equation 1.28A :
+
+
+       m.v + M.u - m.V
+    U= ---------------                                         1.28C
+             M
+
+
+Sedan sÑtter vi in detta vÑrde i     Then  inserting this  value  in
+1.28B :                              1.28B :
+
+
+       2    2    2  M                2
+    m.v+ M.u- m.V = - (m.v+ M.u- m.V)                          1.28D
+                     2
+                    M
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.28
+--------------------------------------------------------------------- 
+ 
+ 
+
+         2  2 2      2            2  2 2
+    M.m.v+ M.u- M.m.V = (m.v+ M.u)+ m.V- 2.m.V.(m.v+ M.u)
+
+         2  2 2      2   2 2  2 2             2 2    2
+    M.m.v+ M.u- M.m.V = m.v+ M.u+ 2.M.m.v.u+ m.V- 2.m.V.v- 2.M.m.V.u
+
+     2  2                    2     2 2                 2
+    V.(m+ M.m)- 2.V.(M.m.u+ m.v)+ m.v+ 2.M.m.v.u- M.m.v = 0
+
+     2                          2             2
+    V.(M+m)- 2.V.(M.u+ m.v)+ m.v+ 2.M.v.u- M.v = 0
+                      __________________________________________
+                     /
+                    / 2 2  2 2                2    2      2 2
+                   / M.u +m.v +2.M.m.u.v-M2m.v -2.M.v.u+ M.v -
+       M.u+ m.v+- /   2 - 2.M.m.v.u+ M.m.v
+                 V   m.v
+    V= ---------------------------------------------------------- =
+                             M+m
+                      ________________
+                     /
+                    / 2 2  2 2    2
+       M.u +m.v +- V M.u +M.v -2.M.v.u   M.u +m.v +-M.(u-v)
+       --------------------------------= ------------------
+                   M+m                         M+m
+
+
+                    _____________________________________________
+                   / M.u +m.v +2.M.m.u.v-M2m.v -2.M.v.u+ M.v -
+       M.u+ m.v+- /   2 - 2.M.m.v.u+ M.m.v
+                 V   m.v
+    V= ---------------------------------------------------------- =
+                             M+m
+
+
+
+
+============================================================== 1.29A
+                      ________________
+                     /
+                    / 2 2  2 2    2
+       M.u +m.v +- V M.u +M.v -2.M.v.u   M.u +m.v +-M.(u-v)
+       --------------------------------= ------------------
+                   M+m                         M+m
+
+==============================================================
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.29
+--------------------------------------------------------------------- 
+ 
+ 
+Om vi vÑljer roten innehÜllande      If we chose the root containing
+-M.(u-v) erhÜlles, V=v,  vilket      -(M.(u-v),  we  achieve,  V=v ,
+Ñr det fall dÜ ingen  kollision      which  is  this  case  when  no
+intrÑffar,  vilket Ñr ett oint-      collision at all occur. Of that
+ressant fall.  Vi vÑljer dÑrfîr      reason we chose the other root,
+den andra  roten  och  fÜr:          giving:
+
+
+=============================================================  1.30A
+     2.M.u +v.(m-M)    2.u + v.(m/M-1)
+  V= -------------- =  ---------------
+          M+m              1+m/M
+=======================================
+
+
+LÜt  oss  studera hur  de  bÜda      Let's make a study  how the two
+massorna, M, respektive, m, upp-     masses, M ,  and, m , behave in
+fîr sig i olika situationer:         some different situations:
+
+
+
+
+M >> m   u =/= 0    V= -v +2.u    If v = 2u, m stops           1.30B
+                                  If v > 2u, m reverse
+                                  If v < 2u, m procede/
+                                         reduced velocity
+
+
+=============================================================== 1.30C
+
+a)  M =  m   u =/= 0    V= u
+b)  M >> m   u =/= 0    V= 2.u -v
+c)  M << m   u =/= 0    V = (2.u + v.(m/M-1))/(m/M+1)
+d)  M =  m   u =0       V= 0
+e)  M >> m   u =0       V= -v  If v<2u, m procede in same direction
+f)  M << m   u =0       V = v . (m/M-1)/(m/M+1)
+
+
+Om ljuset Ñr  sannt ballistiska      If  light is  true  ballistical
+partiklar,  skall  formel 1.30B      particles,  the  formula  1.30B
+tillÑmpas  fîr fotonen.  Som vi      shall be applied for the photon.
+senare  skall se fîrefaller det      But later on we  shall see that
+dock  som  om  fotonen  inte Ñr      the photon not seems to be pure
+ballistisk pÜ detta sÑtt.            ballistic  particles   as  here
+                                     sketched.
+
+                      ----------------------
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.30
+--------------------------------------------------------------------- 
+ 
+ 
+YTTERLIGARE NèGRA                    SOME FURTHER BASIC
+-----------------                    ------------------
+GRUNDLéGGANDE BEGREPP                CONCEPTS
+---------------------                --------
+
+Basbegreppen Ñr sÜlunda  massa,      Hence,  the basic concepts  are
+tid och lÑngd. Med utgÜngspunkt      mass, time  and  length.   With
+frÜn  dessa storheter skapas en      start from these basic concepts
+mÑngd andra  storheter  av mera      a lot of more complex  concepts
+komplex natur. Fîr fullstÑndig-      can  be created.  For complete-
+hetens skull anges hÑr nÜgra av      ness some of  them  which occur
+de storheter som ofta  fîrekom-      frequently  in   physics   here
+mer inom fysiken, dock med  un-      will be   discussed,  yet  with
+dantag av de  elektromagnetiska      exception  from the electromag-
+enheterna.                           netic units.
+
+
+
+
+Begreppet YTA,AREA                   The concept of SURFACE, AREA
+------------------                   ----------------------------
+
+Ñr  den  begrÑnsande  geometrin      constitutes the limiting geome-
+fîr  en  fysikalisk  kropp  och      try of a  physical body, having
+har  dimensionen  lÑngd i kvad-      dimension   of   length  times
+rat.   Som  nÜgra  exempel   Ñr      length.As an example, the limi-
+begrÑnsningsytan fîr  ett klot:      ting   area  of a sphere is :
+
+
+-------------------------------------------------------------  1.31A
+
+         __  2                 Ytan av en sfÑrisk kropp
+    A= 4.//.r                  The surface of a sperical body
+
+
+         __ 2                  Ytan av en toroid kropp
+    A= 4.//. R.r               The surface of a torus body
+
+
+
+Begreppet VOLYM                      The concept of VOLUME
+---------------                      ---------------------
+
+Ñr ett mÜtt pÜ det  fysikaliska      is a measurement of the  physi-
+utrymme ett  fîremÜl disponerar      cal space which  is occupied by
+frÜn sin omgivning. Volym mÑtes      a physical body. Volume is exp-
+i dimensionen  lÑngd  upphîjt i      ressed in  dimensions of length
+kub.  Som nÜgra exempel pÜ van-      risen to the power of cube.  As
+liga volymer Ñr, fîr ett klot:       an example, for a sphere :
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.31
+--------------------------------------------------------------------- 
+ 
+ 
+
+-------------------------------------------------------------- 1.32A
+          __  3              Volymen av en sfÑrisk kropp
+     V= 4.//.r /3            The volume of a sperical body
+
+          __ 2               Volymen av en toroid kropp
+     V= 4.//. R.r.dr         The volume of a torus body
+
+
+
+
+Begreppet MASSATéTHET                The concept of MASS DENSITY
+---------------------                ---------------------------
+
+MassatÑthet   Ñr  ett  mÜtt  pÜ      Mass  density is the amount  of
+mÑngden  materia  uttryckt  per      matter into a body expressed in
+volymsenhet.    Fîr  exempelvis      mass per unit volume. For water
+vatten  Ñr  massatÑtheten  1000      the mass  density is 1000 kilo-
+kilogram per kubikmeter.             grams for each cubic metre.
+
+
+-------------------------------------------------------------- 1.32B
+          3
+   q = m/L                 MasstÑthet eller densitet Ñr mÑngd
+                           massa per volymsenhet.
+                           Mass density is the amount of mass
+                           per each volume unit.
+
+
+
+
+Begreppet TRYCK                      The concept of PRESSURE
+---------------                      -----------------------
+
+Tryck Ñr en mÜttenhet fîr kraft      Pressure is  a  measurement  of
+per ytenhet.  Exempelvis uppmÑ-      force per  unit area.  For in-
+tes luftens  tryck vid jordytan      stance,the pressure of air near
+till 10N per kvadratcentimeter,      at the earth surface is 10N per
+(approximativt).                     square centimetre (appr.).
+
+
+-------------------------------------------------------------- 1.32C
+
+   p = F/A                Tryck Ñr kraft per ytenhet hos en
+                          kropp.
+                          Pressure is force per area unit of
+                          a body.
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.32
+--------------------------------------------------------------------- 
+ 
+ 
+
+Begreppet EFFEKT                     The concept of POWER
+----------------                     --------------------
+
+Effekt Ñr  en   mÜttenhet   fîr      Power is a measurement of ener-
+utvecklad  energi eller  arbete      gy or work   developed   during
+per tidsenhet.  Den  vanligaste      each unit time. The most common
+enheten fîr effekt Ñr watt.          unit for power is watt.
+
+
+-------------------------------------------------------------- 1.33A
+
+   P = E/t               Effekt Ñr mÑngden energi som genereras
+                         eller fîrbrukas per tidsenhet.
+                         Power is the amount of energy generated
+                         or consumed per each time unit.
+
+
+
+
+Begreppet IMPULS MOMENT              The concept of IMPULSE MOMENTUM
+-----------------------              -------------------------------
+
+Om exempelvis en massa, m , ro-      If for instance a mass, m , re-
+terar med  hastigheten, v ,  pÜ      volves with velocity, v, around
+ett visst avstÜnd, r , frÜn ett      a centre with  radius ,  r, the
+givet rotationscentrum, kan im-      impulse momentum can be  calcu-
+pulsmomentet berÑknas ur:            lated by:
+
+
+
+-------------------------------------------------------------- 1.33B
+
+  IM= m.v x r            Impulsmoment Ñr den vektoriella
+                         produkten av impuls (m.v) och
+                         momentarmen, r. v, och, r, Ñr vektorer.
+                         Impulse momentum is the vectorial
+                         product of the body's impulse (m.v)
+                         and the momentum arm, r . r, and, v ,
+                         are vectors.
+
+
+
+
+Begreppet KRAFT MOMENT               The concept of FORCE MOMENTUM
+----------------------               -----------------------------
+
+Om  en kraft verkar pÜ  en hÑv-      If a force  acts on  a rod,  a
+stÜng erhÜlles ett kraftmoment,      force momentum is received,con-
+utgîrande  produkten  av  kraft      stituting  the product  between
+och    hÑvstÜngsarmens   lÑngd.      the force and the length of the
+Matematiskt:                         rod. In mathematical terms :
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.33
+--------------------------------------------------------------------- 
+
+
+
+-------------------------------------------------------------- 1.34A
+
+   M= F x r              Kraftmoment Ñr produkten kraft och
+                         momentarm, dÑr kraft, (F), och momentarm,
+                         (r), bÜda Ñr vektorer.
+                         Force momentum is the product of force
+                         and momentum arm, where force, (F), and
+                         momentum arm ,(r) , both are vectors.
+
+
+
+
+Begreppet FREKVENS                   The concept of FREQUENCY
+------------------                   ------------------------
+
+Frekvens Ñr det antal svÑngnin-      Frequency is the  number of os-
+gar per tidsenhet som en oscil-      cillating periods per time unit
+lerande  rîrelse  eller fîrlopp      of an   oscillating   movement.
+utfîr.  Frekvens mÑtes i perio-      Frequency  is measured  in  pe-
+der per sekund:                      riods per second:
+
+
+-------------------------------------------------------------- 1.34B
+
+   f=1/dt                Frekvens Ñr antalet periodiska
+                         fîrlopp per tidsenhet av ett
+                         cykliskt svÑngningsfîrlopp. dt,
+                         Ñr periodtiden fîr ett cykliskt
+                         fîrlopp.
+                         Frequency is the number of periodical
+                         envelopes per each time unit of a
+                         cyclical process. dt ,is the periode
+                         time of this envelope.
+
+
+
+
+
+Begreppet WAVELENGTH                 The concept of WAVELENGTH
+--------------------                 -------------------------
+
+AvstÜndet mellan tvÜ noder i en      The distance between two sucessive
+framrusande vÜg.                     nodes in an onrushing wave train.
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.34
+--------------------------------------------------------------------- 
+ 
+ 
+-------------------------------------------------------------- 1.35A
+
+
+   W = v/f               VÜglÑngden Ñr det rumsliga avstÜndet
+                         mellan tvÜ nÑrliggande toppar eller
+                         dalar i en framrusande vÜg.
+                         Wavelength is the spatial distance
+                         between two closely situated nodes in
+                         an unrushing wave envelope.
+
+
+
+
+Begreppet VINKELFREKVENS             The concept of ANGULAR FREQUENCY
+------------------------             --------------------------------
+
+Vinkelfrekvens  Ñr ett  begrepp      Angular  velocity  is a concept
+som fîrekommer  i  samband  med      which  can be found in associa-
+roterande rîrelser och mÑtes  i      tion with   rotating  movements
+radianer per sekund, dÑr radia-      and is measured in dimension of
+ner Ñr ett vinkelmÜtt som inde-      radians per  second,  where ra-
+lar cirkeln i  definierade  de-      dians  are  an  angular  entity
+lar.                                 which divide  the  circle  into
+                                     equal parts.
+
+
+-------------------------------------------------------------- 1.35B
+          __
+     W= 2.//.f           Vinkelfrens fîr ett periodiskt
+                         fîrlopp med frekvensen, f.
+                         Angular frequency for a periodical
+                         envelope with the frequency, f.
+
+
+
+
+
+FLôDANDE MATERIA:                    FLOWING MATTER:
+----------------                     ---------------
+
+All vÑxelverkan i naturen  sker      All  kinds  of  interactions in
+genom     flîdande    processer      nature  are  based  on  flowing
+dÑr materia strîmmar in till en      processes, where matter streams
+mottagare  eller  ut  frÜn   en      in to a receiver  point or  out
+kÑllpunkt.  Att  det  fîrhÜller      from a source  point. This fact
+sig sÜ  kommer  vi att  visa  i      will be shown in  the preceding
+fortsÑttningen av denna teori.       chapters of this theory.
+
+Fîr att pÜ ett teoretiskt  plan      In  order to  on a  theoretical
+kunna hantera  dessa  processer      plane handle these processes we
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.35
+--------------------------------------------------------------------- 
+ 
+ 
+mÜste vi Ñgna lite  uppmÑrksam-      devote  some  attention  of how
+het Üt hur sÜdana flîdesproces-      such  flowing  processes can be
+ser kan beskrivas matematiskt.       described mathematically.
+
+Fîr att till att bîrja med gîra      To begin with,  in  aim to make
+framstÑllningen  enkel och tyd-      the description clear and simp-
+lig, utan anvÑndning av vektor-      le without use  of vector nota-
+notation, betraktar vi fîljande      tions,  we regard the following
+nÜgot fîrenklade fall:               simplified situation:
+
+
+
+-------------------------------------------------------------- 1.36A
+
+    _________________           Elementet med volumen, dV,
+   /               / !          innehÜller massan, dm. Under
+ /______________ /   !          tiden, dt, flîdar denna mÑngd
+ !              !    ! ---> v   materia ut genom sidan med ytan,
+ !  dm= q.dV    ! dA !          dA, med hastigheten, v.
+ !              !    !          The element with volume, dV ,
+ !       ds     !  /            contains the mass, dm. During
+ !______________!/              the time, dt, this amount of mass
+                                flows out through the element side
+                                with area dA, with velocity, v.
+
+
+
+
+Vi fîrestÑller  oss  ett  litet      We imagine a  small volume ele-
+volymselement, dV, innehÜllande      ment, dV, containing the  small
+materiamÑngden,dm. MasstÑtheten      amount of matter, dm. Hence,the
+i elementet Ñr sÜlunda q=dm/dV.      mass  density in the element is
+Denna materia strîmmar ut genom      q=dm/dV.This matter streams out
+ena  sidan   av  elementet  med      through one side of the element,
+arean, dA ,och med hastigheten,      having the area of, dA, and the
+v. Om elementets sida  Ñr, ds ,      velocity of, v.  If the edge of
+sÜ kommer massan, dm,  att pas-      the  element  is, ds , then the
+sera ut genom ytan, dA, pÜ  ti-      mass,  dm ,  will pass  through
+den, dt , som kan  berÑknas ut:      that  area,  dA,  on time, dt ,
+                                     which  can be calculated  from:
+
+dt= ds/v --> ds=dt.v
+                      --> dt.v=dV/dA --> dV= dt.v.dA -->
+ds.dA=dV --> ds=dV/dA                                   !
+                                                        !
+dm= q.dV --> dV= dm/q --------------------------------->!
+                                                        !
+!<------------------------------------------------------!
+!
+!-->- dm/q= dt.v.dA --> dm= q.dA.dt.v
+ 
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.36
+--------------------------------------------------------------------- 
+
+
+
+=== Formula of streaming mass without vector notation ======== 1.37A
+
+    dm= q.dA.dt.v
+
+==========================
+
+
+
+I ord sÑger detta  samband att:      In words, this  relation  says:
+Om ett medium har massadensite-      If a medium having the density,
+ten, q , och  som  strîmmar  ut      q , is  streaming  out  through
+genom ytan, dA , med  hastighe-      an area, dA , with  a  velocity
+ten,  v ,  kommer  massan, dm ,      of, v ,  the  mass, dm ,   will
+att passera ut genom ytan under      pass through  the  area  during
+tiden, dt.                           the time, dt.
+
+Fîr en mera fullstÑndig matema-      For a more  complete mathemati-
+tisk behandling av flîde krÑves      cal treatment  of flowing  pro-
+i allmÑnhet   att   vektoriella      cesses, vectorial  methods  are
+storheter  anvÑndes i  beskriv-      demanded in the description. In
+ningen.  Vi  skall dÑrfîr hÑr i      brief  here  such  a  treatment
+korthet Ñven behandla detta.         shall be described.
+
+
+
+
+FLôDE MED ANVéNDNING AV              FLOWING PROCESSES WITH
+-----------------------              ----------------------
+VEKTOR NOTATION                      USE OF VECTOR NOTATIONS.
+---------------                      ------------------------
+
+Vi utgÜr frÜn  vÜr formel 1.37A      Starting from the formula 1.37A
+som ger:                             gives:
+
+
+
+dm= q.dA.dt.v ---> dm/dt= q.dA.v
+                    _         _               _
+I (dm/dt) = I (q.dA.v) = I (q.v).dA = I div(q.v).dV
+             A            A            V
+                         --------------------------
+                                 Gauss' law
+
+=============================================================  1.37C
+
+  I (dm/dt)= I  div(q.v).dV
+              V
+======================
+ 
+
+
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.37
+--------------------------------------------------------------------- 
+ 
+ 
+
+Ett   allmÑnt  samband   mellan      A common relation between mass,
+massa, volym och tÑthet Ñr:          volume and density is:
+
+
+dm= q.dV --> dm/dt= ((q.dV)/dt)
+
+
+I (dm/dt) = I (q.dV/dt)  = I (q/dt).dV
+             V              V
+
+
+
+
+============================================================== 1.38A
+
+     I (m/dt) = I  (q/dt).dV
+                 V
+
+===============================
+
+SammanstÑllning  av  1.37C   och     Placing  together  1.37C   and
+1.38A ger :                          1.38A gives :
+
+         _
+I  div(q.v).dV = I (q/dt).dV                                   1.38B
+ V                V
+
+      _
+div(q.v) = d/dt(q)                                             1.38C
+
+
+Fîr en punktkÑlla gÑller dÜ:         Then, for a point point  source
+                                     is valid:
+
+
+
+============================================================== 1.38D
+                         Obs ! dq/dt Ñr hÑr den partiella
+  dq/dt = div(q.v)       tidsderivatan av, q.
+                         Obs ! dq/dt here is the partial
+                         time derivation of, q.
+==============================================================
+
+
+
+Detta  resultat   kommer  senare     This result later  will be used
+till  anvÑndning vid  derivering     when deriving  Maxwell's  equa-
+av Maxwells  ekvationer  och den     tions and the common wave equa-
+allmÑnna vÜgekvationen.              tion.
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.38
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+                    -----------------------
+
+
+NèGRA  VEKTORNOTATIONER SOM         SOME VECTOR NOTATIONS WHICH
+---------------------------         ---------------------------
+KOMMER ATT ANVéNDAS I DENNA         WILL BE USED INTO THIS THEORY
+---------------------------         -----------------------------
+TEORI
+-----
+
+
+Fîr tydlighetens skull gîres hÑr    For clearness we  will here make
+nÜgra allmÑnna  definitioner fîr    some common  definitions of vec-
+vektorer:                           tors:
+
+
+================================================================= 1.vec
+     _
+     V   Ñr symbolen fîr "nabla" ;
+         is the symbole for "nabla"
+     _
+     A   Ñr en vektor ;
+         is a vector
+
+     d/dx, d/dy, d/dz  Ñr symbolen fîr partiell derivering
+                       is the symbole for partial derivation
+     _
+     V = ( d /dx )i + ( d /dy )j + ( d /dz )k   (nabla)
+         _    _   _
+     div A =  V . A                             (divergence)
+          _   _   _
+     curl A = V x A                             (curl)
+          _   _
+     grad A = V  (A)                            (gradient)
+     _
+     A = A1.i + A2.j + Ak.k                     (vector)
+
+     I (area)                                   (area integral)
+      A
+
+     I (volume)                                 (volume integral)
+      V
+
+=================================================================
+
+
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.39
+--------------------------------------------------------------------- 
+ 
+ 
+
+
+BEGREPPET TEMPERATUR                 THE CONCEPT OF TEMPERATURE
+--------------------                 --------------------------
+Ett begrepp som ofta fîrekommer      A   concept  which   frequently
+i  fysiken Ñr  temperatur.   Vi      occurs in physics is temperatu-
+kommer  vid  nÜgot  tillfÑlle i      re.   On  some  place  in  this
+denna  teori att anvÑnda oss av      theory we will make use of this
+detta begrepp och  av denna an-      concept and of that reason it's
+ledning skall dÑrfîr hÑr mycket      suitable to  here  some briefly
+kort berîras vad begreppet stÜr      describe   what  the   concepts
+fîr.                                 stands for.
+
+Redan under 1800-talet hade man      Already during the 17th sentury
+klart  fîr sig, att  temperatur      it was well known that tempera-
+hos ett fîremÜl  var associerat      ture was associated with  small
+med smÜ rîrelser, vibrationer ,      movements, vibrations, of small
+hos smÜ delar av materien. Mes-      parts of the   matter.   Mostly
+tadels  utfîrdes experiment  pÜ      these experiments were  perfor-
+olika sorts  gaser  och  benÑm-      med on gases and of that reason
+ninggen  pÜ teorin  blev dÑrfîr      the  theory was named,  kinetic
+kinetisk gasteori.En av de for-      gas theory.  One  of the scien-
+skare som gjorde stora insatser      tists who made great  contribu-
+pÜ  omrÜdet var  Maxwell,  Ñven      tions in this area was Maxwell,
+kÑnd  fîr  banbrytande  teorier      even known for his revolutiona-
+inom elektromagnetismen.             ry electromagnetic theory.
+
+Man fann sÜlunda, att det fanns      Hence, it was found  that there
+en koppling mellan rîrelseener-      was  a coupling  between  move-
+gin hos materiens  smÜpartiklar      ments of small  parts in matter
+och den temperatur som uppvisa-      and that temperature the object
+des.  Approximativt Ñr  samban-      was producing.    Approximately
+det:                                 the relation is given by:
+
+============================================================== 1.40A
+         2
+  1/2.m.v = k.T
+
+===============
+
+
+dÑr, k, Ñr Boltzmanns  konstant,     where, k, is Boltzmann's  cons-
+fîr  gaser bestÑmt till  vÑrdet      tant, for  gases  determined to
+1.38E-23 J/K, dÑr  definitionen      the  value  of  1.38E-23   J/K,
+Ñr  gjord i relation till  1000      where the definition is done in
+molekylenheter     av     gasen      relation to 1000 molecule units
+(1Kmol).                             of the gas (1Kmol).
+
+Temperatur Ñr sÜlunda  en mani-      Hence,  temperature is a  mani-
+festation  av  smÜ  vibrations-      festation of  small  vibrations
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.40
+--------------------------------------------------------------------- 
+ 
+ 
+rîrelser hos  smÜdelarna  i ma-      of  the  small parts of  matter
+materien (atomer och molekyler).     (atoms and molecules). In order
+Fîr  en  enkel, dock  ej exakt,      to give a simple ,but not exact,
+beskrivning av  hur konstanten,      description by  the way, k, can
+k, kan  framrÑknas  fîr en vÑt-      be calulated for a fluid, water,
+ska,  vatten,  gîres  fîljande       the following  calculations are
+kalkyl :                             done :
+
+
+Vi utgÜr frÜn masstrîmningsfor-      We start with  our mass  strea-
+meln 1.37A   vilket ger:             ming formula 1.37A,which gives:
+
+
+                            m= q.A.t.v
+
+
+dÑr, q , Ñr  tÑtheten  hos  det      where, q , is  the  density  of
+tempererade  mediet, A , Ñr  en      the tempered  medium, A ,  is a
+yta varemot  de smÜ vibrations-      surface  on  which  the   small
+rîrelserna  av materien verkar,      vibrations  of the matter  act,
+t , Ñr en godtycklig tid, v, Ñr      t,  is  an  arbitrary  time  of
+den   hastighet  varmed  vibra-      action, v , is  the velocity by
+tionsrîrelserna utfîres och, m,      by  which  the movements  occur
+Ñr den mÑngd massa som Ñr i rî-      and, m , is the amount of  mass
+relse och till vilket rîrelsen,      participating in the  movement,
+v , Ñr associerad.                   associated to  the velocity  v.
+
+Vi  multiplicerar   ekvationens      We multiply  both  sides of the
+bÜda sidor med  hastigheten, v,      equation  with the velocity, v,
+samt tillÑmpar formel 1.23A  pÜ      and applies  the formula 1.23A,
+resultatet, sÜ att:                  on the result, so that:
+
+
+
+=============================================================  1.41A
+              2
+  m.v= q.A.t.v = F.t
+
+=====================
+
+
+
+Tidsfaktorn, t ,kan eleimineras      The time  factor, t,  is  ruled
+och genom en  enkel  omformning      out and by a simple transforma-
+fÜs:                                 tion is got :
+
+
+
+============================================================== 1.41B
+           2
+   F/A= q.v
+
+==================
+
+utgîrande trycket pÜ en yta.         constituting the pressure on a
+                                     surface.
+
+
+---------------------------------------------------------------------
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.41
+--------------------------------------------------------------------- 
+
+
+Temperaturen 100 grader Celsius      The   temperature  100  degrees
+Ñr  faststÑllt   vid   vattnets      Celsius is  determined  at  the
+kokpunkt  och dÜ den  omgivande      boiling  point of water at  the
+luftens tryck Ñr ca 1 atm. vil-      air  pressure  of  appr. 1 atm,
+ket    motsvarar     1kp/cm(2),      which   is   equivalent    with
+10N/cm(2),  1000N/dm(2)   eller      1kp/cm(2),    10N/cm(2),     or
+100000N/m(2). SÜlunda sÑtter vi      1000N(dm(2)   or  100000N/m(2).
+att F/A= 100000 (appr.)              Hence we put F/A= 100000 (appr).
+
+Temperatur  inom fysiken  anges      Temperature  in   physics  most
+mest korrekt i  grader  Kelvin,      often  is given in  degrees  of
+vilket Ñr den absoluta tempera-      Kelvin, which  is  the absolute
+turskalan som startar vid abso-      temperature scale, starting  at
+luta nollpunkten 0K (dÑr ingen-      the  absolute  zero   point  0K
+ting kan bli kallare). 100 gra-      (where nothing can be  colder).
+der  Celsius  motsvarar 373  K.      100 degrees Celsius corresponds
+                                     to 373K.
+
+TÑtheten hos   vatten  Ñr  1000      The density  of  water  is 1000
+Kg/m(3).  SÑtter vi in samtliga      Kg/m(3).   If we input all  now
+dessa vÑrden i formel 1.41B er-      received values in  the formula
+hÜlles sÜlunda fîr hastigheten ,     1.41B for the velocity , v , is
+v :                                  got :
+
+
+============================================================== 1.42A
+
+v= SQRT((F/A)/q) = SQRT(100000/1000)= 10 m/s
+
+============================================
+
+
+Ytterligare fakta vi bîr  kÑnna      A further fact we ought to know
+till Ñr vikten hos en Kgmolekyl      is the  weight  of  a  kilogram
+hos vatten. Den kemiska formeln      molecule  (Kmol) of water.  The
+fîr vatten Ñr H2O, dvs 2 vÑtea-      chemical  formula  of  water is
+tomer   plus  en  syreatom  fîr      H2O, which is 2 hydrogen  atoms
+varje vattenmolekyl.  En vÑtea-      plus one  oxygen  atom for each
+tom  motsvarar  ungefÑr  vikten      molecule  of water.  A hydrogen
+hos protonen som Ñr 1.6E-27 kg.      atom  approximately is the same
+En syreatom  innehÜller 16 pro-      as  a proton, weighting 1.6E-27
+toner  och  16  neutroner  (med      kg.  An oxygen atom contains 16
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.42
+--------------------------------------------------------------------- 
+ 
+ 
+ungefÑr samma  vikt  som proto-      protons  and 16 neutrons  (with
+nen).   Den  totala vikten  fîr      appr. the same  weight   as for
+1000 Kmol vatten blir dÑrfîr :       the  proton).  Then, the  total
+                                     weight of 1000  Kmol water is :
+
+
+
+==== weight of 1 Kgmol water ================================= 1.43A
+
+m= 1000*1.6E-27*(2+16+16)= 5.4E-23 kg
+
+=====================================
+
+
+Vi  insÑtter nu kÑnda vÑrden  i      We  insert now known values  in
+formel 1.40A och  finner dÜ fîr      formula 1.40A and  find for the
+konstanten k:                        constant of k:
+
+
+==== approximater calculation of factor, k =================== 1.43B
+
+         2                              2
+  1/2.m.v = k.T  ;  k= 0.5 * 5.4E-23 *10 /373 = 0.7E-23
+
+=======================================================
+
+
+Fîr gaser Ñr det  exakta vÑrdet      For  gases  the exact value  of
+pÜ  k=1.38E-23 J/K.  Vi  finner      k= 1.38E-23 J/K. Hence we find,
+sÜlunda, att  som  ett ungefÑr-      that a some approximative value
+ligt  îverslagsvÑrde fîr k  kan      of k of 1E-23  can  be used for
+anvÑndas k=1E-23 J/K fîr gaser,      most  cases, gases, fluids  and
+vÑtskor eller fasta fîremÜl.         solid state objects.
+
+ 
+--------------------------------------------------------------------- 
+MATTER UNIFIED, 1998, ISBN 91-973349-0-6, O.Tedenstig/Sweden    1.43
+--------------------------------------------------------------------- 
+ 
+ 

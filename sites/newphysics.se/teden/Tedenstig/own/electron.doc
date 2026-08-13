@@ -1,0 +1,318 @@
+
+SPATIAL EXTENSIONS AND MAGNETIC MOMENTUM OF THE
+ELECTRON, THE PROTON AND THE MUON
+---------------------------------------------
+
+
+By Ove Tedenstig, Sweden 20/8 -1998
+
+
+
+Performing calculations on the spatial extensions of
+protons and electrons, show that the proton is able
+to be inhoused into the limits of an electron.
+
+The electron, as well as the proton, are supposed being torus
+particles, having radii, R , and , r , respectively, where
+, R , is the radius associated to a main spin axis and
+, r , is associated to the spin movements of matter in
+the outer parts of the torus ring.
+
+We start with investigating the dimensions of an
+electron, based on calculations done in our electro-
+magnetic theory and in our particle theory  (see my
+book "Matter Unified" ).
+
+
+
+The magnetic momentum of the electron is determined by
+the area enclosed by the radius, R , and the equivalent
+electric current flow produced by its spin around
+the main axis.
+
+The velocity  around the main axis is equal to the limit
+velocity of space, C , calculated to :
+
+            1) ===================      see 3.15C
+                   C = Kt. c
+               ===================
+
+            2) ===================      see 3.54D
+               where Kt = 5.3557
+               ===================
+
+and by analogy of a higher spin velocity around, R , compared
+with, r , where r = re (the classical electron radius), we get :
+
+        2         2
+   me. c     me. C                2        2
+   -----  = -------   ;  R = (C/c) .re = Kt .re
+     re        R
+
+
+            3) ===================     the electron main
+                            2          axis radius
+                  R = re. Kt
+               ===================
+
+Hence, the spin time around the electron main axis will be :
+
+                             2
+        2. Pi.R     2. Pi. Kt .re     2.Pi.re
+  te = --------- = --------------  = -------- .Kt
+           C            Kt.c             c
+
+
+
+            4) =================    the spin time of
+                      2.Pi.re       electron round the
+                te = --------.Kt    main axis, R. re =
+                        c           classic electron radius
+               =================
+
+Magnetic momentum is calculated by the product of current and
+the area enclosed by this current loop, hence :
+
+            5) ===============   common formula for
+                                 calculation of magnetic
+                u = i. A         momentum, u , of a
+               ===============   current loop.
+
+
+The area enclosed for the electron will be :
+
+            6) ===============
+                           2
+                 Ae = Pi. R
+               ===============
+
+Inserting known values of the electron as calculated above, then
+gives :
+
+
+                                e          2   2
+   ue = i . A  = e/te . Ae = --------- .(Kt.re)    =
+                              2.Pi.re
+                              -------.Kt
+                                 c
+        e.re.c     3
+     = --------. Kt
+          2
+
+
+            7) ========================
+                      e.re.c     3
+                ue = -------- .Kt
+                        2
+                =======================
+
+For common use, we calculated the product e.re.c/2 to
+
+1.6021773349E-19 x 2.8179409238E-15 x 2.99792458E8/2 =
+
+6.7675765E-26
+
+Hence :
+
+            8) =======================
+                                    3
+                ue = 6.7676E-26 x Kt
+               =======================
+
+Kt has been calculated to 5.3557 before (formula 2) givning :
+
+
+            9) ======================  the measured value is
+                ue = 1039,64 E-26      928.49E-26, hence some
+               ======================  10% too large.
+
+
+The radius, R , then will be :
+
+
+            10) =========================
+                       2
+                 R = Kt .re = 80.8 fermi
+                =========================
+
+The electron volume is mostly empty, meaning having the same
+mass density as for vacuum itself. The matter is concentrated
+into a thin shell. We will calculate the thickness of this
+shell. From 3.54D we have found, that the effective active
+area of the electron, taking part in different electromagnetic
+processes, is equal to :
+
+
+            11) ==========================   the effective
+                                 2           active area
+                    Ae = 4.Pi. re            of the electron
+                ==========================   taking part in
+                                             physical processes
+
+This area is represented by the area of the thin skin of matter
+flowing out continuously from the electron surface, represented
+by the product :
+
+
+            12) =========================
+                                           d = then shell
+                     Ae = 2.Pi.R x d       thickness
+
+                =========================
+
+Equalizing 11), 12) gives :
+
+         2                           2. re
+  4.Pi.re  = 2.Pi. R x d   ;   d = ---------
+                                       R
+
+
+            13) =======================    the shell thickness
+                      2. re                of an electron
+                 d = -------  = 0.2 fermi
+                        R
+                =======================
+
+For the mu-on and the proton, it's also true that they are
+torus particles, but their spin velocities are much slower.
+Of that reason the radii, R , and , r , are near the same,
+giving that the area on which the magnetical momentum shall
+be calcualted on  :
+
+
+             14) ==================================
+                                 2
+                  Aup = Pi. (R+r)   (where r = R )
+                 ==================================
+
+The radius, R , is calcualted from 2.17A to :
+
+
+             15) =======================
+                            1/3
+                  R = (M/me)  . re
+                 =======================
+
+
+and the spin velocity from 3.23A  to :
+
+
+             16) =======================
+                                2/3
+                   v = c. (me/M)
+                 =======================
+
+
+On basis on that, the magnetic momentum for the muon and the
+proton can be calcualted from :
+
+
+           e               2         e                         2/3
+   uup = ------- . Pi.(R+R)     = ----------------. 4.Pi.(M/me)    =
+         2.Pi.R                   2.Pi.re
+         ------                   ------- . (M/me)
+           v                         c
+
+          e.re.c            1/3
+      =  --------. 4. (me/M)
+            2
+
+
+       17) =================================  common formula for
+                                         1/3  magnetical momentum
+            uup = 6.7676E-26 . 4.(me/Mup)     of muon, k-on, proton
+           =================================  and similar particles
+
+
+Hence we see, that for a muon, the magnetical momentum  will be
+(the muon mass = 206.77 electron masses ) :
+
+     uu = 6.7676E-26 x 4 x 0.16911 = 4.5779E-26
+               The measured value is 4.49047E-26
+
+For the proton of mass 1836.12 electron masses we get :
+
+     up = 6.6767E-26 x 4 x 0.081685 = 2.18E-26
+                The measured value is 1.441062E-26
+
+
+Taking the relation ue/uu (formula 7 and formula 17) gives :
+
+                                  3
+              6.7676E-26        Kt                      3
+     ue/uu = ----------- . ---------1/3 -- = 1.4783 x Kt    =
+              6.7676E-26   4.(me/Mu)
+
+
+           = 227
+
+That is near the mass relation between the muon and the electron,
+206.77, and taking this realtion with start from the measured,
+exact values we confirm that:
+
+
+             ue/uu = 928.49E-26/4.49047E-26 = 206.77
+
+
+Another observed fact is that if ue is devided by the factor
+
+e.re.c/2, as in the formula 7) above, we get :
+
+             928.49E_26/6.7676E-26 = 137.196.
+
+That figure is very near the fine structure constant as
+apperaring in the quantum physics, inverse, equal to 137.035989..
+
+Perhaps all that is a matter of coincidence, perhaps not because
+the equivalence not is perfectly exact.
+
+Observe, hovewer, that generating particle masses in accordance
+with my particle theory, also is a function of a constant, Kt,
+or Pi, rised to cube , see 8.42A.
+
+
+
+The extension of a proton then will be :
+
+
+          18) ==========================================
+                                       1/3
+              Rp = 2* R = 2.re. (Mp/me)       = 69 fermi
+
+              (re = 2.817 940 92(38) fermi )
+              ==========================================
+
+
+The main radius of the electron (10) , was 80.8 fermi, hence
+the proton get place into the electron. There is 5.5 fermi
+space between the proton surface and the inner electron surface.
+
+Interesting, indeed !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

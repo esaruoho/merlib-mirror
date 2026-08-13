@@ -1,0 +1,52 @@
+
+Newsgroups: sci.physics.electromag
+Path: columba.udac.uu.se!sunic!pipex!uknet!EU.net!uunet!news.crd.ge.com!crd.ge.com!mallick
+From: mallick@crd.ge.com (John Mallick)
+Subject: Re: Free-floating magnet possible?
+Message-ID: <Cn0rtt.A0u@crdnns.crd.ge.com>
+Sender: mallick@proteus (John Mallick)
+Nntp-Posting-Host: proteus.crd.ge.com
+Reply-To: mallick@crd.ge.com
+Organization: GE Corp. Research And Development
+References: <CMszzK.5qx@cnsnews.Colorado.EDU> <CMu24F.Dwt@caracara.cdev.com> <CMv4ID.Esr@crdnns.crd.ge.com> <CMx6F0.27w@caracara.cdev.com>
+Date: Mon, 21 Mar 1994 14:49:05 GMT
+Lines: 36
+
+In article <CMx6F0.27w@caracara.cdev.com>, jad@harrierx.cdev.com (James A.Dahlberg  490TX) writes:
+|> In article <CMv4ID.Esr@crdnns.crd.ge.com> mallick@crd.ge.com writes:
+|> >In article <CMu24F.Dwt@caracara.cdev.com>, jad@harrierx.cdev.com (James A.Dahlberg  490TX) writes:
+|> >|> In article <CMszzK.5qx@cnsnews.Colorado.EDU> roh@spot.Colorado.EDU (ROH JOHN J) writes:
+|> >|> >In article <2m7oeu$43l@agate.berkeley.edu>,
+|> >|> >Amnon Silverstein <amnon@adage.Berkeley.EDU> wrote:
+|> >|> >>   Question: Can an object be made to float with magnets in such a way that
+|> >|> >> it is not touching anything?
+|> >|> 
+|> >|> I read an article in Extraordinary Science, a publication of the
+|> >|>...
+|> 
+|> >If you spin the conducting disks fast enough (so that the transit time of the
+|> >is less than the magnetic diffusion time of the conductor), then the material 
+|> 
+|> "... transit time of the ?????? is less than ..."
+
+Sorry about that... it should read "the transit time of the material past a 
+magnetic pole".  This dimensionless number is the "magnetic Reynolds number".
+|> 
+|> >Nothing magic about this as far as I can see.
+|> 
+|> Who said anything about magic?
+
+You're right.  It's just that this device is nothing really special and its
+action can be explained easily in terms of well-known physical principles.
+
+-- 
+.... ..     .... ..     .... ..     .... ..     .... ..     .... ..
+John A. Mallick WA1HNL                    E-mail: mallick@crd.ge.com
+GE Corporate Research and Development     Phone: (518)-387-7667 (W)
+Schenectady, NY 12301                     FAX:   (518)-387-6560 (W)
+.... ..     .... ..     .... ..     .... ..     .... ..     .... ..
+
+"Work like hell.  Tell everyone everything you know.  Close a deal
+ with a handshake.  Have fun." --- "Doc" Edgerton
+
+

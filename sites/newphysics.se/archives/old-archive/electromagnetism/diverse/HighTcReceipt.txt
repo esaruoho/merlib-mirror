@@ -1,0 +1,180 @@
+From SSSPH@jazz.ucc.uno.edu Mon Dec 13 01:37 MET 1993
+Return-Path: <SSSPH@jazz.ucc.uno.edu>
+Received: from jazz.ucc.uno.edu by bellatrix.tdb.uu.se (5.0/SMI-SVR4)
+	id AA24046; Mon, 13 Dec 93 01:37:05 +0100
+Received: from jazz.ucc.uno.edu by jazz.ucc.uno.edu (PMDF #2820 ) id
+ <01H6EHHYABPS8X9OQ8@jazz.ucc.uno.edu>; Sun, 12 Dec 1993 18:35:05 CST
+Date: 12 Dec 1993 18:35:05 -0600 (CST)
+From: SSSPH@jazz.ucc.uno.edu
+Subject: Re: High Tc superconductor receipt
+To: t89djo@tdb.uu.se
+Message-Id: <01H6EHHYABPU8X9OQ8@jazz.ucc.uno.edu>
+X-Vms-To: IN%"t89djo@tdb.uu.se"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7BIT
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII
+Content-Length: 6239
+Status: RO
+
+Hi David,
+	Here is the recipe for H-Tc superconductor, it is true that you will
+need to blow oxygen at the sample at high temprature, but if you have a furnace
+capable of about 1000 degree C and a simple quartz or vicor tube, it is quite
+easy to make it.  You need to have the furnace in any event.  I am sending
+you a small report that I wrote, if you have any questions please don't 
+hessitate to ask.  By the way what is your position at Uppasala?
+
+Sincerely,
+Siddharth Saxena.
+UNO Physics.
+
+================================================================================
+              PREPARATION OF HIGH TC SUPERCONDUCTOR
+
+
+
+                       Siddharth S. Saxena
+        Department of Physics, University of New Orleans
+
+                           4 May 1992
+
+
+     There is a class of metals and compounds whose resistivity goes to zero
+below a certain temperature Tc, called the critical temperature.  
+These materials are known as superconductors.  Here we will discuss the 
+preparation of a High Tc superconductor.  This particular type of 
+superconductor is formulated as MBa2Cu3Ox, where M = Rare Earth.  
+
+
+
+INTRODUCTION :
+
+     As temperature is lowered considerably, some metals undergo a
+change of phase into what is called a super conducting state. A
+superconductor has many unusual thermal, electrical, magnetic. and
+optical properties The most amazing characteristic of a super
+conductor is its electrical resistance.  Every metallic conductor
+opposes the passage of electrical charge through it.  This
+opposition arises because of the moving charges collide with
+vibrating atoms in crystal structure of solids and other particles
+of the conductor.  In doing so, the moving charges give up energy. 
+In perfect single crystal-no dislocations, no impurities, and no
+lattice vacancies-at low temperatures, electrical resistance will
+be at a minimum.  Some super conducting metals and compounds, when
+cooled to low temperatures, carry currents without diminutions. 
+This is mainly because electrons can slip through crystal lattices
+at low temperatures with little loss of energy.
+
+     Superconductivity above the boiling point of liquid nitrogen,
+which is 77K, was first noticed in the compound YBa2Cu3O7.  This type
+of superconductor is known as High Tc super conductor.  Now we will
+go on to describe to how to prepare this super conducting sample.
+
+
+APPARATUS:
+
+     The apparatus needed to produce a YBa2Cu3Ox sample includes an
+accurate balance, a set of pastel and mortar, a crucible, and a
+good thermocouple.  Procedure also requires a Quartz or Vicor tube
+of about two inch diameter and 2.5 feet length.  This tube should
+be sealed at one end with only a point hole in it and the other end
+should be fitted with a rubber cork so that the cork can be removed
+to place the crucible in the tube.  The cork should have a small
+hole in it to support a delivery tube for oxygen flow.   Also
+needed is an oven capable of producing temperatures up to 950 c,
+for the heat treatment of the sample, and a tank of oxygen.
+
+MATERIALS:
+
+     The materials needed to prepare a YB2Cu3Ox superconductor are
+listed below:
+
+     COMPOUND                       FORMULA           PURITY
+
+     Yttrium oxide         Y2O3                   99.99%           
+           
+     Barium Carbonate      BaCO3                  99.80%
+     
+     Cupric Oxide          CuO                    99.50%
+
+
+QUANTITY:
+
+      COMPOUND              MOLECULAR WEIGHT
+
+      Y2O3       1/2         225.81 g
+    
+      BaCO3      2           197.35 g
+
+      CuO        3           79.546 g
+
+Molar Calculation:          
+
+Actual Masses Used
+
+      Y1O1.5                  1.121 g 
+
+      BaCo3                   3.947 g 
+
+      CuO                     2.386 g
+
+
+PROCEDURE:
+
+     The first step in the preparation is the accurate calculation
+of the molar amounts of the materials to be used.  The amounts must
+be accurately measured to ensure the correct 123 phase of the High
+Tc superconductor.  The purity of the materials is also a factor in
+final results.  
+
+     After the compounds are measured, they are placed in the
+mortar and mechanically grounded with the mortar for a period of
+approximately thirty minutes to acquire a thorough mixing of the
+constituents an to provide spatial uniformity.  Then this finely
+grounded mixture is placed into a crucible, which in turn, is
+placed in an oven.  The temperature of the oven is maintained at
+890 c for about 25 hours and at this temperature the sample is
+allowed to react in air.  Then the oven is cooled down to room
+temperature at the rate of 5 c per minute and regrounded and placed
+in the oven again for another round of heating at 890 c for 25
+hours.  This process is repeated once again.  Now the mixture is
+taken out and grounded once again and then placed in the crucible. 
+Once the mixture is in the crucible, it is slightly pressed to form
+a pellet.   The crucible then is placed into the glass tube.  Now
+the glass tube is placed in the oven and is corked up.  At this
+point a thin delivery tube is fitted into the hole in the cork and
+the tube is connected to the Oxygen tank via rubber hose.  Oven,
+now is heated up to 950 c and the Oxygen is turned on.  The flow of
+the oxygen is maintained at a low rate.  The hole at the end of the
+tube should small enough to build up a slight pressure in the tube. 
+The apparatus is kept in this condition for 45 hours and then
+cooled down to 500 c at the rate of 2.5 c per minute.  This
+condition is maintained for 6 hours and then the apparatus is
+cooled down to the room temperature at the rate of 2.5 c per
+minute.
+
+     The YBa2Cu3O7, 123 phase superconductor is now ready.  The
+pellet is now taken out of the crucible, filed into the desired
+shape, and polished.
+
+
+OBSERVATIONS:
+
+     Now the pellet is immersed in the liquid Nitrogen.  At this
+time a small magnet is placed on the pellet and it can be observed
+that the magnet is levitated into the air.
+
+
+PRECAUTIONS:
+
+     Yttrium Oxide is a hygrophobic compound and its contact with
+the body and inhalation should avoided.  Other chemicals should be
+treated with care also.  Great caution should be taken while
+handling hot apparatus and electrical equipment.
+ 
+
+
+            
+    
+      
+

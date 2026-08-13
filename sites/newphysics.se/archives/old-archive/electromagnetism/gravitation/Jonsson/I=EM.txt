@@ -1,0 +1,64 @@
+
+The mass of the electron as an electromagnetic effect
+
+by David Jonsson, Uppsala , Sweden
+
+
+Take a look at the equation for the magnetic flux around a moving electron in the
+nonrelativistic case, the simple Biot-Savarts law
+
+            _   _
+_   mu0 e   v x r
+B = ----- . -----   (1)
+    4 Pi       3
+              r
+
+The energy-density of this field is according to eq. (2)
+
+      _ 2
+      B       _2  _   _
+u = -----  , (B = B * B)   (2)
+    2 mu0
+
+
+In order to calculate the magnetic energy of the moving electron we insert (1)
+into (2) to get (3)
+
+         2    2    2 
+    mu0 e    v  sin (theta)
+u = ------ . -------------   (3)
+         2         4
+    32 Pi         r
+
+
+Lets integrate eq. (3) outside the electron to find out the entire energy of its
+magnetic field.
+
+         2    2 
+    mu0 e    v
+U = ------ . --   (4)
+             r
+    12 Pi     e
+    
+
+Lets install the classical electron radius re,
+
+                 2                 2
+                e             mu0 e
+r   = ------------------- = --------  (5)
+ e                   2       4 Pi m
+      4 Pi epsilon0 c  m           e
+                        e
+
+in (4) to get
+
+         2
+     m  v
+      e
+U= -------
+      3
+
+This reminds very much of the equation of the kinetic energy of the electron.
+Only 1/6 of the kinetic energy is missing but remember that I haven’t included the
+field inside the electron in the calculus.  Can it be so simple that the inertia
+of the electron is due to Lenz’ law only?

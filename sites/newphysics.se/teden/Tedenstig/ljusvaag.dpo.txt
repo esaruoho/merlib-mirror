@@ -1,0 +1,115 @@
+LJUSET-EN VÅG AV PARTIKLAR
+(Från FAKTA 8/87 av O.Tedenstig)
+
+Tack för artiklen om James CLerk Maxwell i VFA nr 4/87.
+Utan att ifrågasätta Maxwells insats inom elektrodynamiken,
+vill jag ändå utnyttja tillfället att påpeka, att hans
+teori om ljusets natur som en vågrörelse egentligen aldrig
+har blivit bevisad.
+
+Maxwells teori utvecklades från början utifrån en föreställ-
+ning om att en eter- ett medium som ljuset fortplantar sig i-
+existerade i vakuum. Med denna utgångspunkt började Maxwell
+använda sig av den generella vågekvationen, som också gäller
+för vågrörelser i luft (ljud) och vågrörelser i värskor och
+andra medier. Genom att gämföra resultaten från den elektro-
+magnetiska teorin med denna ekvation, som alltså är giltig
+under förutsättning att det verkligen finns ett medium, drog
+Maxwell den felaktiga slutsatsen, att ljuset består av eter-
+vågor.
+
+Denna hypotes låg till grund för Michelsons och Morleys ljus-
+eter experiment. Innan de utförde experimentet, beräknade de
+hur stor avvikelsen skulle bli i interrerensen mellan två
+ljusstrålar, som hade gått olika vägar genom denna ljuseter.
+Som bekant uteblev hela effekten och senare har man gjort
+flera liknande experiment, som har bekräftat att det inte
+uppstår någon ljusetereffekt.
+
+Därmed faller hypotesen om ljuset som en vågrörelse i enlig-
+het med konventionella begrepp. Experimentet fungerar däre-
+mot, om man antar att ljuset består av partiklar men en viss
+hastighet, som uppför sig i överensstämmelse med Newtons
+tröghetslagar. Till och med den generella vågekvationen kan
+tolkas och skrivas om, så att den gäller för en partikel-
+källa istället för en vågkälla.
+
+Under dessa förutsättningarn försvinner motsättningarnas
+mellan Maxwells elektromagnetiska teori och de genomförda
+experimenen. Ljuset består av partiklar med en hastighet,
+som är beroende både av källan och observatören.
+
+Einstein ansåg att ljuset var partiklar, och hade rätt i
+så motto. Han misstog sig emellertid tyvärr vad beträffar
+ljushastighetens universella konstans. Ljushastigheten utan-
+för ljuskällan i vakuum varierar, vilket var tråkigt för
+Einstein, men helt i sin ordning för Maxwell.
+
+Vi kan med andra ord konstatera, att både Maxwell och
+Einstein misstog sig på väsentliga punkter i sina respektive
+teorier. Man får hoppas att den allmänna vetenskapen snart
+inser detta.
+
+                ====================
+
+Svarsinlägg av Herman Hanssen (den kommenterade artikelns
+författare):
+
+Min avsikt med episteln i nr 4/87 var att beskriva Maxwells
+imponerande vetenskapliga insats, snarare än att ge en
+situationsbild av vad den moderna ljusteorin står idag.
+Efter att ha läst herr Tedenstigs insprirerande brev,
+inser jag emellertid att jag, i samband med beskrivningen
+av Maxwells ljusvågteori, nog borde ha nämnt Einsteins
+"återinförande" av ljuspartikelbegreppet år 1905 och den
+betydelse som detta fick för den vidare utformningen av
+ljusteorin.
+
+Maxwells elektromagnetiska ljusvågteori utvecklades helt
+riktigt på den tiden då man föreställde sig en  "eter",
+som tänktes fylla världsrymden. Föreställningen om en sådan
+eter var i verkligheten överflödig för Maxwells vågteori
+och påverkar inte dess allmänna giltighet. Maxwells vågteori
+ger en enkel och åskådlig förklaring till optiska problem
+som ljusspridning, ljusbrytning, inteferens (som verkar
+mellan flera vågrörelser) och polarisering. Den är otillräck-
+lig när det gäller den fotoelektriska effekten (som utnyttjas
+i fotoceller) där  Einstein genom att använda  partikel-
+teorin kunde ge en briljant teoretisk förklaring.
+
+Plötsligt satt man alltså med  två ljusteorier, vågteorin
+och partikelteorin, som i litteraturen framställs sida
+vid sida ända fram till våra dagar.
+
+Denna dualism har hela tiden plågat fysikerna. Redan Einstein
+var som bekant inne på tanken att kombinera de två teorierna,
+men på den tiden blev han alltmer upptagen av sitt arbete
+med den allmänna relativitetsteorin. Önskan att närma Maxwells
+ljusvågteori och partikelteorin till varandra har emellertid
+lett till att andra fysiker har formulerat en rad teorier, som
+i hög grad tillfredställer detta krav, även om det återstår
+svåra frågor.
+
+Låt oss göra ett tankeexperiment för att illustrera problema-
+tiken: En monokromatisk, alltså enfärgad, ljusstråle träffar
+ett prisma och bryts i det. Detta är ett tydligt vågfenomen.
+Så låter vi den brutna strålen falla på en fotocell, där
+elektroner frigörs på grund av fotonbombardemanget - ett
+typiskt partikelfenomen. Vår ljusstråle har alltså uppfört
+sig både som en våg och som en partikelström, men inte i
+samma process.
+
+Då den engelse fysikern Paul Adrien Maurice Dirac utförde
+sitt pionjärarbete om denna våg/partikel-dualism, gjorde han
+det genom att använda den nya kvantmekanikens principer på
+Maxwells elektromagnetiska fältekvationer. Om detta säger
+professor Harald Fritzsch: "Det som har förändrats sedan
+1861 är tolkningen av Maxwells ekvationer. Med kvantfälts-
+teorins moderna uttrycksformer säger vi, att Maxwells ekva-
+tioner beskriver utbredningen i rummet av de elektromagnetiska
+kvanta som kallas fotoner".
+
+                 ==========================
+
+
+

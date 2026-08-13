@@ -1,0 +1,112 @@
+From: Richard
+Date: Thu, 20 Jan 1994 00:24:48 GMT
+
+It was in New Mexico. Here is a small sample of the thread dealing
+with Joe Newman from Nov. 1992.
+
+
+In <1992Nov6.211512.3589@nmt.edu> houle@nmt.edu (Paul Houle) writes:
+
+>       Well,  Joe Newman came to NM Tech yesterday along with a group of
+>investors from Albuquerque.  Yesterday,  he got into an argument with my
+>thermodyanmics professor and finally got around to demonstrating his
+>machine.  He powered it with a neon sign transformer through a stack of
+>rectifiers -- ran the wire through a current transformer,  a florescent
+>light bulb and finally the motor.  A neon sign that said "Gyro" was mounted
+>on the top to "bleed excess charge away".  He then connected an osciloscope
+>to the secondary of the current transformer and used that to demonstrate that
+>his motor produces very large inductive spikes.  I tried to tell him that
+>a current transformer doesn't measure current,  but that it does measure the
+>derivative of current,  so it will magnify small changes,  but he started
+>gap,  I guessed there was about 1000 V on the shaft),  while I didn't the
+>day before.  The results with the wattmeter were very interesting,  but
+>certainly not conclusive.  Joe Newman has succeeded in building a motor
+>that challenges the state of the art in measurement technology -- I wouldn't
+>blame him and many other people for being confused and making bad measurements.
+>       At this point,  Joe expected us -- an audience of about seven
+>investors from Albuquerque (from whom Joe is trying to get $2 million),  one
+>professor who stayed a long time,  three lab technicians,  and myself (an
+>undergraduate in physics who works for the EE dept.) to be completely
+>convinced by the truth of his motor.  When I was asked what I thought,  I
+>said that I thought it was a very interesting result,  but very detailed tests
+>would be needed:  i.e.,  get something better than a current transformer for
+>measuring spike currents (really hard if you are looking at 6000 V circuits -
+>maybe could tie your scope across a resistor and look for the voltage drop,
+>and hope that no part of the loop ever gets grounded (or you kill your
+>scope)),
+>investigate how well the wattmeter works in the presence of spikes.
+>The device almost certainly has an attrocious power factor,  so it is good
+>for stealing electricity from your local utility.
+
+>       Anyway,  if all venture capitalists are like the people I met today,
+>I think I just might go into industry after I get out of grad school.  The
+>people were very enthusiatic about the motor and knew very little about
+>electronics,  but at least had enough sense to go to some experts.  One of
+>them told us that if we endorsed the motor,  we could become as famous as
+>"university of Utah did over cold fusion."  I agreed with that.  They didn't
+>seem to know who was in charge here (a motley crew of mostly lab technicians
+>and undergrads),  and even seemed to think that I was at one point (offering
+>to pay for me to go eat with them at a local mexican restaurant).  They
+>ordered a lot of Pizza today,  and also seemed very willing to spend money.
+>I suggested testing the thing with a stack of car batteries big enough to
+>generate 6000 V (Imagine a source of 6000V at 500 A!  This would actually
+>be pretty hazardous) 
+>and they wanted to go down to Ace and buy that many
+>on the spot (which might take a good chunk out of that $2 million :-)
+
+>       Ultimately,  the people ended up contracting (despite Newman's
+>objections) with one of the technicians here to build a device that will
+>power the device from a car battery through an inverter and neon sign
+>transformer,  and redirect the spikes into a special circuit that will step
+>them down and feed them into the battery.  If the battery gets overcharged,
+>the power will be fed into a resisitive load in an oil bath (which will
+>also contain a stirrer to account for the mechanical energy produced),
+>which will then be measured calorimetrically.
+
+
+*************** Here's A Reply from Stefan H.*************************
+
+Well, I did a university study of the Newman machines a while back in
+1987 and 1988 when the thing was still hot...
+
+I also visited Mr. Newman in 1987 in his workshop in the woods of
+Lucedale Mississippi and talked with him for a few hours in 1987...
+
+My rebuild Newman-Machine had about a efficiency of around 70 % up to
+130 %, where the later efficiencies where to unstable to be true...
+
+So we concluded it to be measurement errors...
+
+Well, the only interesting Newman machines are still the very big
+ones, Newman build first...
+
+The newer machines have to huge RF-output, which can only be very hard
+measured due to the immense spike voltage on his mechanically
+commutator switches..
+
+By the way, the negative resistence of the Neon tube does also give
+very often measurement errors  !!!!
+
+You can contact me on every single phaenomen of the Newman-Machine...
+
+I wasted 3-4 years of my live to study them...
+
+BTW, say hello to Mr. Newman... Dis he finnally find new sponsors,
+when we went from Lucedale to Mexico ??
+
+Didn't he wanted to get president of the USA in 1988 ??
+Some people believed he was a littlebit crazy at this time...
+
+Hmm, would be nice to see new very exact measurements on his new
+design...
+
+If you wanna see a working free energy machine, just log via ftp to:
+phoenix.oulu.fi (130.231.240.17)   and get  in  
+pub/bigflis     perpetu4.exe
+
+This is a selfextracting animation, which displays in SVGA quality on
+a PC the Methernitha free energy machine lightning a bulb....
+
+Best regards, Stefan Hartmann, c/o Ingenierbuero Gatz & Hartmann.
+email to:  leo@zelator.in-berlin.de
+

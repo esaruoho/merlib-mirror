@@ -1,0 +1,275 @@
+Ove Tedenstig, Idungatan 37, 19 551 Märsta/Sweden
+30/10-1996
+
+
+
+(Utdrag från "A NEW WAY TO PHYSICS 1990")
+
+KRAFT
+De grundläggande begreppen inom fysiken är i sig primitiva
+men ändock svåra att förnuftsmässigt greppa.
+
+Ett begrepp som är speciellt besvärligt är begreppet "kraft".
+Kraft är den storhet som man inom fysiken mäter men även
+någonting som man ofta starkt upplever som något verkligt,
+påtagligt i många sammanhang.
+
+Den kraft som man kanske mest märker men som man ändock inte
+funderar över så mycket är gravitationskraften, denna kosmiska
+kraft som drar allt och alla föremål mot jordens yta och för-
+hindrar att alla lösa föremål slungas ut i världsrymden.
+
+En annan välbekant kraft är masströghetskraften. Det är den
+kraft som uppstår då ett föremål eller vi själva försöker ändra
+hastighet. Speciellt märker vi denna kraft om vi åker med ett
+fordon som hastigt ökar farten (accelererar) eller bromsar in
+(retarderar).
+
+Då vi slår hammeren på en spik är det samma typ av kraft som
+verkar. Tröghetskraften i hammarens massa förhindrar hammaren
+att omedelbart stanna och resultatet blir att spiken drives in
+träplankan.
+
+Mellan elektriskt laddade partiklar eller mellan magnetiska
+poler finns också verkande krafter, liksom även starka krafter
+i atomkärnan eller mellan elementära partiklar.
+
+Dessa fyra krafter, gravitation (tung kraft), trög kraft,
+elektromagnetiska krafter samt stark kraft är de fyra olika
+krafttyper som vanligtvis brukar klassificeras i fysiken.
+
+James Clerk Maxwell (Skotsk fysiker som bl.a skapade en stor
+elektromagnetisk teori samt gjorde franstående arbeten inom
+gasteori), kunde påvisa, att de elektriska krqafterna och de
+magnetiska krafterna hade en gemensam källa. Einstein gjorde
+försök att samordna trög och tung massa (interial massa) med
+gravitaterande massa genom den s.k. ekvivalensprincipen.
+Dock, i denna teori är gravitationen inte någon egentlig
+kraft utan bara en yttring i "rumtiden". I s.k. GUT teorierna
+(Grand Unified Theories) söker man inordna samtliga kända
+krafter i en gemensam teori med hjälp av partikelteori.
+Dock är man idag långt ifrån
+att lyckas med detta och speciellt är det gravitationskraften
+som är svår att inordna.
+
+Det konstanta trycket i ett bildäck eller i en spänd fjäder
+brukar vi vanligtvis benämna som en "statisk kraft". En
+stöt som skjuter iväg en kanonkula, en hammare som driver
+in en spik i en planka osv brukar gå under benämningen
+dynamiska krafter. Ur praktisk synpunkt kan en sådan indelning
+av krafter vara befogad, dock är detta enbart en ytlig
+betraktelse av kraftbegreppet.
+
+===========================================
+I grunden är alla krafter av dynamisk natur
+===========================================
+
+Därvid kommer vi att finna, att alla krafter i naturen kan
+hänföras till en enda universell princip. Det är Newtons
+andra kraftlag som utgör denna grund som in princip beskriver
+hur dynamiska krafter uppstår genom att materia tvingas att
+förändra sitt rörelsetillstånd som funktion av tid.
+
+Vi måste därför föreställa oss fenomenet kraft som materiens
+begränsade förmåga att på obegränsat kort tid överföra ett
+rörelsetillstånd till en annan del av materien. De mikroskopiska
+enheter varav materien i grunden består, rör sig med begränsad
+hastighet och en överföring av en störning (läge eller hastighet)
+kan därför inte ske momentant. Vi har en överföringsfunktion
+i tiden. Under denna överföringsfas varunder omstrukturering
+sker på mikro-kosmisk nivå av materien, manifesteras fenomen
+som vi uppfattar och definierar under begreppet "kraft".
+
+Ibland (vid våldsam kollition mellan massor) sker en omstruktu-
+rering av materia, en deformation uppstår, utgörande en bestå-
+ende verkan av kraften. Denna effekt fås då den yttre påtvingade
+verkan är större än den inre verkan i materien (deformations-
+gränsen överskrides).
+
+Om vi vill söka en förenad princip för begreppet kraft måste
+vi söka förstå grunden för detta begrepp.
+
+=========================================================
+Vår utgångspunkt är att kraft enbart är av dynamisk natur
+som uppstår då massa försöker ändra sitt rörelsetillstånd
+Emedan överföring av information konsumerar tid är kraft det
+dynaiska tillstånd som kan definieras i övergångsfasen mellan
+två stabila tillstånd.
+=========================================================
+
+Sålunda är alla kända kraftverkningar i naturen att hänföra till
+samma grundläggande princip. De är enbart olika makroskopiska
+yttringar av samma fenomen.
+
+
+
+EN MATEMATISK STUDIE AV KRAFT-BEGREPPET
+
+Kraftbegreppet är svårt att förstå om man inte betraktar
+det som en kollektiv manifestation mellan materiens funda-
+mentala delar. Kraft skall också ses som ett dynamiskt
+fenomen av växelverkan mellan delar i materien som befinner
+sig i olika rörelsetillstånd och som ett övergångsfenomen
+fram till ett stabilare tilstånd.
+
+Med detta synsätt skulle det sålunda finnas en nedre nivå i
+materien där kraftbegreppet upphör att gälla. Dock, för att
+möjliggöra en analys av kraftbegreppet utgår vi ifrån denna
+föreställning om den kollektiva manifestationen. Som utgångs-
+punkt väljer vi två partikelsamlingar med n respektive N
+antal fria entiteter i varje samling. För enkelhets skull
+utgår vi ifrån att N är mycket större än n och att N befinner
+sig i vila i förhållande till ett valt referenssystem.
+
+
+             --------> v
+              n                          N
+              oo                        oooo
+             oooo                     oooooooo
+              oo                     oooooooooo
+                                      oooooooo
+                                        oooo
+
+Utgångspunkten är sålunda att vi har n respektive N entiteter
+i respektive samling. Den minsta samlingen rör sig med hastig-
+heten v mot N och entiteternas rörelser överförs i sin helhet
+till den större samlingen. Vi vill beskriva övergångsförloppet.
+
+Processen blir som följer:
+Alla n partiklarna i den mindre samlingen kommer successivt att
+stöta samman med någon partikel i N samlingen. För varje samman-
+stötning kommer successivt fler och fler partiklar att deltaga
+i rörelsen, dock till priset av en reducerad hastighet för varje
+deltagande partikel.
+
+Man kan förmoda, att hastigheten halveras för varje gång antalet
+deltagande partiklar fördubblas. Efter ytterligare en period
+är antalet deltagande partiklar faktor 4 gånger som från början
+men med endast 1/4 av den ursprungliga hastigheten. Denna process
+fortgår fram till dess att alla partiklarna n+N antagit em gemen-
+sam hastighet.
+
+Vi skall här något förenklat matematiskt söka beskriva förloppet
+ifråga. Vi tänker oss en fri medelvägsdistans mellan enskilda
+entiteter i samlingarna och benämner denna fria medelvägslängd med
+symbolen, s. Varje entitet måste således förflytta sig denna
+distans innan den kan påverka en annan partikel i sin närhet
+genom direkt påverkan (stöt). För varje ny stöt mellan n entiteter
+med n nya entiteter halveras hastigheten hos de involverade
+partiklarna i samlingarna. Om antalat stötar som är inblandade
+fram till stabilt tillstånd är ,nx, kan den totala tiden för
+övergångsfasen beräknas till en summa, lika med :
+
+T= SUM(s/vn)= s/v+s/(v/2)+s/(v/4)+s/(v/8)+....+s/(v/nx)
+
+Om det totala antalet gruppkollitioner fram till det stabila
+vilotillståndet är nx, får vi en serie av termer vars summa vi kan
+beräkna med hjälp av en matematisk summeringsregel :
+
+                                         antal termer
+                     Första termen *(kvot            - 1 )
+                 S = -------------------------------------
+                                 kvot - 1
+
+ger :
+                              nx                    nx
+                 T= (s/v).1.(2  -1)/(2-1) = (s/v).(2   -1)
+
+eller :
+                     nx
+1)                 (2  -1)= T.v/s
+
+Vid den första gruppkollitionen är n entiteter involverade. I
+den andra gruppkollitionen är 2.n antal entiteter i rörelse, dvs
+antalet entiteter fördubblas för varje gruppkollition. Vid varje
+sådan händelse sjunker hastigheten hos de involverade partiklarna
+till hälften av sitt föregående värde (statistiskt). Då alla
+entiteter (n+N) är i rörelse har jämviktstillstånd uppnåtts. Ur
+detta resonemang erhåller vi följande :
+
+    N= n + 2.n + 4.n + 8.n + .... nx.n =
+
+       n.(1+2+4+8+...+ nx) =  nx
+
+           nx                nx
+       n.(2  -1)/(2-1) = n.(2  -1)     vilket ger :
+
+                    nx
+2)                (2  -1) = N/n
+
+Sammanställning av 1) och 2) ger :
+
+
+        T.v/s = N/n    eller  n.T.(v/s) = N
+
+Vi multiplicerar båda sidor av denna ekvation med hastigheten V,
+som är den hastighet N har efter fullbordad stöt, vilket ger:
+
+
+        V.n.T.(v/s) = n.V
+
+3)         T.(v.V.n/s) = N.V
+
+Rörelsemängden n.v är konstant oförändrad under reaktionen
+vilket innebär, att om hela rörelsemängden n.v överförs till
+N gäller att n.v= N.V under den förenklade förutsättning som
+här gäller n<<N.
+
+Ekvationen 3) beskriver en transformationsprocess där tiden T
+är inblandad tillsammans med en annan funktion (v.V.n/s), en
+funktion som Newton gav namnet "kraft". I relation till 3)
+benämner vi nu därför det som står inom parentesen med
+symbolen F (force) och in-eller utgående rörelsemängden multi-
+plicerad med en dimensions-transformerande konstant, med
+symbolen I. 3) kan då omskrivas till formen :
+
+
+         4) I = F.T    ; F= v.V.n.k/s  ;   I= n.k.v
+
+där k omvandlar mängden entiteter, ett digitalt värde, till
+dimensionen "massa" (kg). Det antas sålunda att det existerar
+en direkt proportionalitet mellan antalet entiteter och
+massamängden enligt konventionella definitioner.
+
+Med utgångspunkt från det nu sagda kan vi härleda Newtons
+andra kraftlag, den lag som ligger till grund för hela fysiken.
+För detta ändamål tänker vi oss två tidpunkter i en stöt
+och med hjälp av ekvationen 4) ovan erhåller vi då:
+
+
+       I1= T1.F1  ;      I2= T2.F2
+
+Vi gör nu några små matematiska manipulationer med dessa uttryck,
+sålunda :
+
+       I1-I2= dI = T1.F1 - T2.F2
+
+där F2= (F1+dF), där dF är en liten kraftdifferens i den pågående
+stöten vid tidpunkt T2 respektive T1. Vi definierar vidare att
+T2= T1+dT, där dT är den motsvarande tidsdifferensen. Vi definierar
+också på motsvarande sätt I2= I1+dI, där dI är en liten differens i
+rörelsemängden vid respektive tillfällena.
+
+Med hjälp av dessa definitioner erhåller vi då följande :
+
+       I1-(I1+dI) = T1.F1 - (T1+dT).(F1+dF)
+
+       -dI = T1.F1 - T1.F1 -T1.dF-dT.F1-dT.dF
+
+       -dI= -T1.dF -dT.(F1+dF)
+
+Vi låter nu dF gå mot gränsvärdet noll, varvid vi erhåller :
+
+dI/dT = F   eller i allmän form:
+
+
+
+         =================================
+
+            F = d/dt(I) = d/dt(m.v)
+
+         =================================
+
+vilket är Newtons andra kraftlag, den lag som ligger till grund
+alla kända fenomen inom den fysikaliska världen.
+

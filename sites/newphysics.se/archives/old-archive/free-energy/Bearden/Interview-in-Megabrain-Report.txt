@@ -1,0 +1,1675 @@
+Newsgroups: alt.sci.physics.new-theories,alt.paranormal,sci.electronics,sci.energy,sci.med.physics,sci.misc,sci.physics,[sci.military]
+Subject: Interview With Tom Bearden 
+Summary: Add one more paper to the Bearden File.  ftp site lupulus.ssc.gov archives the Bearden, et al, papers in subdirectory /papers.
+Expires:
+Sender:
+Followup-To:
+Distribution:
+Organization: Netcom - Online Communication Services  (408 241-9760 guest) 
+Keywords:
+
+
+***********************************************************************
+The following interview with Tom Bearden appeared in a magazine called
+"Megabrain Report".  I know little about this magazine.  A photocopy of
+the interview was sent to me by a long time reader of 
+alt.sci.physics.new-theories.  On request, Tom Bearden himself sent me
+an ASCII file of the interview so I didn't have to transcribe it from
+the photocopy.  It is dated 4-Feb-1991.
+
+The interviewers were Terry Patten and Michael Hutchison.
+
+In this interview, Bearden talks about several subjects, thus it will be
+cross-posted to the pertinent newsgroups.
+
+For more of Bearden's papers, as well as papers by Puthoff, Whittaker,
+etc., anonymous ftp to lupulus.ssc.gov .  They are in directory /papers
+***********************************************************************
+
+[preamble to interview text]
+
+"Lt. Col. Thomas E. Bearden is a nuclear engineer, war games and weapons
+analyst, and military tactician.  He has an MS in nuclear engineering
+from Georgia Tech and is a graduate of the US Army Command and General
+Staff College and several US Army artillery and guided missile schools.
+He has over 30 years experience in air defense systems, technical
+intelligence, Soviet electromagnetic weaponry, artificial intelligence,
+computerized war games, and antiradiation missile countermeasures.  He is
+a senior scientist with a large aerospace company [Colsa Corp.]
+
+Col. Bearden personally developed and published the basis for a drastic
+revision of electromagnetic theory and engineering, based on the work of
+Whittaker and Maxwell.  His work is primarily responsible for the widespread
+interest and research into scalar electromagnetic phenomena in this country
+over the past decade.  He is the author of several books on this subject,
+including *Towards a New Electromagnetics*, Parts I-IV (Tesla Book Company)."
+
+[end of preamble]
+
+
+
+Question:   Can you offer the layman an extremely simplified
+summary of  what scalars  are, how  they relate to Maxwell's
+equations, unified  field theory,  and  the  limitations  of
+currently accepted  quantum physics,  relativity theory, and
+electromagnetics?
+
+Whew!   You've asked  for a  complete explanation  of how to
+unify the three major disciplines of physics, specify what's
+wrong with  the three  present versions of those disciplines
+that has  prevented their  unification, and  how this was in
+Maxwell's original  quaternion equations  (some 200 of which
+are actually  his theory, not the pale four vector equations
+written by  Heaviside and  Gibbs).   You also  asked for  an
+explanation of  scalars versus  vectors, and how the present
+vector analysis  (of Heaviside  and Gibbs)  misses the  boat
+with respect  to structured scalars.  And you've asked me to
+do it  simply, in layman's terms.  To say that that's a tall
+order is the understatement of the decade!
+
+Okay, we'll  have a  go at  it anyway.    We'll  start  with
+scalars and vectors.
+
+Basically we  visualize things in the universe as two sorts:
+those that  move (have  motion) and  those that  don't.   In
+physics we  know already  that this is in error; there isn't
+anything in  the universe, anywhere, that is motionless.  At
+least it  is moving  through time,  which is still a special
+kind of  motion.   Also, we know that everything seems to be
+made up  of much  finer things,  and these  finer things are
+always in  motion __  often very violent motion.  So what we
+observe as a passive thing __ sitting still spatially, so to
+speak  __   is  made  up  of  subthings  in  violent  motion
+spatially.    And  the  whole  system  that  is  not  moving
+spatially is  still moving  in time.   However, we don't see
+"time" but  just  space;  therefore  we  see  the  thing  as
+"motionless."  However, the "motionless" thing we look at is
+rather like  a fixed  whirlpool in  a swiftly flowing river:
+the whirlpool  seems to  us to  stay "fixed" and motionless,
+but internally its parts (the flowing water) are in constant
+motion.
+
+Another example is a container of gas under pressure __ such
+as the  air tank  at the service station.  The tank and "the
+air as  a whole spatial volume" isn't going anywhere, and we
+see them  as "motionless."  But inside the gas its molecules
+are in  violent motion, undergoing collisions, etc.  Indeed,
+inside the walls of the tank, the molecules and atoms are in
+vibrational back-and-forth motion in a spatial lattice.
+
+The point  is, physically  "motion"  and  "motionless"  only
+apply to the external characteristics of the object to which
+we pin  the  label.    So  it  represents  only  an  overall
+characteristic  of  the  object,  and  does  not  completely
+describe it.  In a sense "motionless" is filled with motion,
+and all is motion.
+
+In vector  analysis, a scalar quantity is considered to be a
+quantity that  has magnitude  or size,  but no  motion.   An
+example is  pressure; the  pressure of  a gas  has a certain
+value of  so many pounds per square inch, and we can measure
+it, but  the notion  of pressure does not involve the notion
+of movement of the gas through space.  Therefore pressure is
+a scalar quantity, and it's a gross, external quantity since
+it's a  scalar.  Note, however, the dramatic difference here
+between the  physics of the situation and mathematics of the
+situation.   In mathematics,  when you  say something  is  a
+scalar, you're  just speaking  of a number, without having a
+direction attached  to it.   And  mathematically, that's all
+there  is  to  it;  the  number  doesn't  have  an  internal
+structure, it  doesn't have  internal motion,  etc.  It just
+has magnitude  __ and,  of course,  location, which  may  be
+attachment to an object.
+
+However, physically, when we say something has pressure or a
+scalar value,  that is  not  all  there  is  to  it.    That
+particular aspect of the object or system may be scalar, but
+internally the  thing it's  labeling can still be decomposed
+into subsystems  or particles  or small  things  in  violent
+motion.   That  is,  in  physics  the  scalar  quantity  can
+mathematically be  further decomposed  into an  ensemble  of
+vector quantities.   Since these parts are rushing around in
+all directions  but the  whole is  not  translating  through
+space, then  obviously  the  sum  of  all  those  fractional
+motions must  be zero.  Scalar pressure, for example, can be
+decomposed into  a myriad of opposing force vectors per unit
+area.
+
+Mathematically, a vector is an entity that not only may have
+magnitude or  size, but  is translating  through space.   In
+physics, we  apply the  vector concept  to something that is
+moving, and/or to position.  However, when we think further,
+that "something"  is made  of smaller things, which also are
+in violent  motion, and these smaller things may be swarming
+all over  the place  with differing  velocities __  or  even
+flowing at  high speed  in and  out of  the moving  "system-
+thing" represented  by the vector.  So even here, the vector
+thing is a special case of an ensemble of smaller things.
+
+In the  physical world,  in anything __ even inside a single
+point __  there are always infolded vector things in violent
+motion.   We  may  say  that  these  interior  critters  are
+"hyperspatial" or  "infolded" or "virtual" or "hidden".  But
+they're real  and they're  inside the  point, as seen by the
+external observer.
+
+The point  is this:   Everything seen externally is a plenum
+internally.  In the real physical world, both a thing that's
+externally motionless  (a scalar)  and a  thing  (a  vector)
+that's externally  translating through  space,  are  special
+cases of a system whose internal parts are always in motion.
+If the  sum of  the internal  motions is  zero, the external
+object seems  to be  sitting  still  and  motionless  to  us
+(though it's  still moving  through time  with __ usually __
+uniform motion).   We  describe that internal characteristic
+of the  system as a vector zero resultant system. Externally
+we may  also characterize  it as  a scalar, because it still
+possesses attributes  that have  magnitude.   On  the  other
+hand, if the sum of the internal motions is not zero, but is
+a motion  in a  certain spatial  direction, then  to us  the
+external object seems to be moving along in space.  That is,
+it  is  translating  spatially.    Externally  it  has  both
+magnitude and  direction, so  we view  it as  a vector.   To
+label a  thing as  only a  vector is  to look  only  at  its
+external attributes.   To  label a thing as only a scalar is
+to look  only at  its external  attributes.   To look at its
+internal attributes, it must be recognized as a scalar and a
+vector at  the same  time.   That is,  the scalar attributes
+must be recognized to be composed on internal vectors.
+
+Summing that  up, physically  a scalar thing is a thing that
+(1) is  a vector  in  time,  which  is  hidden  from  direct
+observation, (2)  externally is  just a magnitude spatially,
+and (3)  has  an  internal  spatial  vector  structure,  and
+therefore a  hyperspatial or virtual-state vector structure.
+A vector  is a  thing in  motion in  a dimension  (through a
+frame), whether  in space,  hyperspace, or time.  Rigorously
+it is  not possible  to exclusively  separate the notions of
+vector and  scalar,  because  any  scalar,  to  persist,  is
+automatically a vector in time.
+
+These concepts  or vector and scalar are normally not nearly
+so well clarified in standard physics and mathematics texts,
+unfortunately.     Usually  discussions  of  this  type  are
+reserved to  obscure papers  in foundations  of mathematics.
+It may  surprise the  casual student,  for example, that the
+notions of  line, point,  space,  zero,  length,  dimension,
+frame,  time,   and  observer   have  no   truly  acceptable
+definitions.   Neither do the notions of force, mass, field,
+potential, etc.   In fact, mathematics no longer attempts to
+explain how  a line  can be  made of  points.   Instead,  in
+foundations, it  is  simply  stated  as  three  postulations
+thusly: "There  is a class of entities called points.  There
+is another  class of  entities  called  lines.    Lines  are
+composed of points."
+
+>From a  physics viewpoint,  one of the big problems with the
+present vector  mathematics __ which is well-known not to be
+a complete  system of  mathematics in  the first place __ is
+that the presence of a bunch of vectors that sum to zero  is
+just treated  as a  zero or  absence of  any vectors at all.
+That is,  the absence of any internal vectors at all is made
+synonymous to  the presence  of a  bunch of internal vectors
+that are  fighting each  other to a draw.  What this does is
+throw  away   the  internal   energy  and  internal  ordered
+structuring of the medium __ specifically, the energy of all
+the vector  fighters that is continually going on inside the
+local medium  __ inside spacetime itself.  Physically that's
+quite wrong,  and one  is throwing  away  exactly  half  the
+energy of  the situation.   There  is a  very real  physical
+difference between  a system of real vectors that fight to a
+draw and  so do  not translate  en masse, and the absence of
+any vectors  and vector-fighting  at all.  The difference is
+composed of  stress and  its internal vector patterns __ the
+internal energetic engines in local spacetime and local rest
+mass __ in short, the energy trapped in the local medium.
+
+Where electrical  students  meet  this  hidden  problem,  of
+course, is  in the  fact  that  the  four  vector  Heaviside
+equations of  EM are  not closed.   One always has to assume
+that one  or more  of the  "remaining potentials" is zero __
+that  is,  absent.    So  right  there  all  the  texts  and
+professors reduce  even Heaviside's  equations to  a special
+case of  the absence  of any  "left-over and hanging around"
+scalar potentials.   As  an example,  that little assumption
+gets rid  of any  possibility of  the Aharonov-Bohm  effect,
+where potentials alone can interfere, even in the absence of
+EM force  fields, and  produce real force effects in charged
+particle  systems.     That   is,  the  sole  agent  of  the
+interference of  scalar potentials  can induce  EM  changes,
+according to the experimentally proven Aharonov-Bohm effect,
+even in the total absence of EM force fields.
+
+Since 1959,  it has been known in quantum mechanics that the
+EM force fields are not primary agents at all.  We know that
+classical EM  theory is  completely wrong on this.  QM shows
+that it's  the potentials  that are  primary, not  the force
+fields.   In fact,  it can  be shown that the E-field and B-
+field do not exist as such in vacuum; only the potential for
+the E-field  and the  B-field  exist  in  vacuum.    Feynman
+pointed that  out, but nearly all of his modern cohorts seem
+not to  have recognized that fact.  Indeed, vacuum is just a
+conglomerate of potentials, nothing more, nothing less.  And
+if you  just look  carefully at the definitions of force and
+E-field, you see immediately that (1) force (nonrelativistic
+case) consists  of mass  times acceleration.    Therefore  a
+force consists  of an  accelerated mass.   An electric force
+consists of  an accelerated  charged mass,  normalized for a
+unit.   But it  really isn't  treated that  way  in  the  EM
+theory, where  it continues  to  erroneously  considered  to
+exist as a force field in the vacuum.
+
+At least  you've got  to use  the adjectives  "virtual"  and
+"observable" to  differentiate vacuum  things from  material
+things.   One can  correctly state  that a  virtual electric
+force field  exists in  vacuum,  comprised  of  accelerating
+virtual masses,  but not  an observable  force field.    The
+observable electric  force field  requires, and consists of,
+accelerated observable  charged particles.    And  the  only
+place observable  particles exist  are in a physical medium,
+of a  collection of  one or  more  observable  particles  in
+space.
+
+So it doesn't take any special powers of thought to directly
+show that  there are  some very  serious, fundamental things
+wrong with  the present foundations of EM theory.  There are
+lots of  other flaws  in EM, such as the fall of the Lorentz
+force law in modern railgun experiments.  The law has always
+been false,  but is a sufficient approximation if the energy
+regime is not too high.  Peter Graneau's work is fundamental
+in this respect.
+
+To sum  this up another way: The present vector analysis (as
+applied to  electromagnetics) discards the internal, trapped
+EM energy  of local  spacetime.  Now if the internal trapped
+energy of  spacetime varies  from place  to place,  that  is
+called a  curved spacetime,  relativistically speaking.  And
+when a spacetime is curved, there is communication of energy
+between the  internal, infolded, virtual EM energy state and
+the  external,  translating,  observable  EM  energy  state.
+Curved one way, the local spacetime is a sink, with external
+energy pouring  into it  continually, and  disappearing from
+observation of  the external  state.   Curved the other way,
+the local  spacetime is a source, with energy pouring out of
+it continually, and appearing in observation in the external
+state.
+
+What the  present vector  system of  EM does,  therefore, is
+throw out  the ability to use the very strong EM force as an
+agent to  curve  local  spacetime.    The  very  mathematics
+itself, a  priori, assumes  and guarantees  a  locally  flat
+spacetime.   And in  an uncurved  region of  spacetime,  for
+example, you  are never  going to make an over-unity machine
+__ a so-called "free energy" machine that will give you more
+energy out than you put in __ because the application of the
+vector theory  a priori  guarantees the  elimination of  any
+hidden sources  from the  local spacetime  (ST) medium.   If
+you're going  to tap  the trapped  vacuum energy, and make a
+so-called "free  energy" device,  you're going  to  have  to
+curve the  local spacetime.  That is the only way to produce
+a local  energy source  in the  vacuum, from which a current
+issues.   Notice that, when we put a paddlewheel in a river,
+we produce  a free  energy device because we tap some of the
+energy in  the flow.   But  we tap a current, we do not just
+tap a potential per se.  The entire secret of tapping vacuum
+energy, to  build a  free energy  device, is  to  produce  a
+current  in   the  local  vacuum  potential  that  is  self-
+sustained, and then tap that current.
+
+So the  present EM  theory throws  away exactly  half of the
+energetics of the situation involved.  From time to time yet
+another  physicist  discovers  that  astonishing  fact,  and
+publishes a  paper on  it to  point it  out.    Nobody  does
+anything about it, however,  because no one has the foggiest
+notion of  what to  do.   So everybody just lets it pass and
+nothing is changed.
+
+Question:   Can you  give us  a more concrete example of the
+missing half of the energy?
+
+Yes.  Suppose, for example, you connect a voltmeter across a
+wall circuit to measure the voltage.  The meter needle moves
+against a  spring with a force, as a result of the detection
+made  by   the  voltmeter.    The  actual  detection  is  an
+interaction  inside   the  meter's   probe   which   induces
+conduction electrons  to move.   We read the needle movement
+that resulted  from those conduction electrons, and we infer
+so much voltage.  The important point is this: The voltmeter
+is measuring  the energetics  of its own internal change; it
+is not  at all measuring anything external.  All instruments
+measure only  their own  internal  change.    We  infer  the
+external thing  that interacted with the instrument to cause
+the internal  change.  We do not measure the external entity
+directly, but only the results of its interaction inside the
+probe and  meter.   And  even  then,  we  measure  only  the
+external, spatial-translation  energy  of  the  instrumental
+interaction; we  do not  measure or account for the internal
+energy of that interaction.  To state it more precisely: The
+needle moved  because conduction  electrons accelerated away
+from the instrument's interaction area.  This current flowed
+into a  coil and  produced a  force on  the needle movement,
+rotating the  needle against  a spring.   At  the same time,
+another current  __ a time-reversed, phase-conjugate current
+__ was  induced in  the atomic  nuclei of  the atoms  in the
+interaction area.   This  "inner current"  flowed Whittaker-
+wise through  the atomic nuclei of the instrument, producing
+an equal  an opposite  force.   [This is  the mechanism that
+produces Newton's third law in the first place, as suspected
+by Feynman.]   So the entire body mass of the meter recoiled
+slightly from  an equal  and opposite  force, which  we just
+loosely refer  to __  and recognize  as __ Newton's reaction
+force.   It's there, it's real, but we completely neglect it
+in our  electrical measurements   Usually  we don't think it
+had anything  to do with the external entity that interacted
+with the  voltmeter.   But it  was a  product  of  the  same
+interaction of  that external  "something" within the meter.
+It's equal  and opposite  to what  generated our  electrical
+measurement.   So exactly as much energy was produced in the
+"reaction force" energetics as was produced in the "external
+meter needle  force" part  of  the  interaction.    We  only
+measured and  accounted for  half the  true  energy  of  the
+interaction, or  else you've  got to  discard Newton's third
+law.
+
+It follows  that what  actually entered into the interaction
+was a  system of oppositely paired forces __ a stress field,
+which is a scalar potential.  This, of course, is consistent
+with our  observation that  vacuum itself is pure potential.
+As such,  it consists of partial potentials of various kinds
+__ it's  highly  charged,  and  the  ambient  vacuum  scalar
+potential has  very high  magnitude.    Remember  that  this
+ambient vacuum  stress (potential)  can be  decomposed  into
+sets of  bidirectional forces.   In our EM interaction, one-
+half of  the stress  pair __  the half  that is  the  normal
+photon-generated EM forcewas utilized to move the conduction
+electrons, involving  primarily the  electron shells  of the
+atoms imbedded  in the  vacuum potential.  The other half of
+the stress-pair  interacted  with,  and  moved,  the  atomic
+nucleus, causing  it to  recoil.   The recoil of the nucleus
+was slight,  because it  is very, very much heavier than the
+accelerated outer electron.
+
+To sum  it up:  All detection  is actually  binary, it's not
+singular at  all.   When we  detect photons  or EM waves, we
+normally account  for only the externalized translation part
+of the  energetics of  the interaction.   We miss or neglect
+the internalized  translation part,  and we  miss or neglect
+precisely  as   much  internal  energy  as  we  account  for
+externally.   Again, I'm not the first one to point this out
+by any means.
+
+Question:   Can you  give us  a precise summary statement of
+all this?
+
+At the  interaction area,  a part  of the instrument and the
+external causal  agent are  coupled together  as a  compound
+system.   In that area, the mass of the instrument exists as
+atoms, each  of which has an inner part (the nucleus) and an
+outer part  (the electron shells).  In the coordinate system
+centered on  that compound  system, conservation laws apply.
+The compressive  stress of the interaction reacts internally
+__ i.e., against the atoms with their inner and outer parts.
+Reaction from  the nucleus  induces a  tensile stress.  This
+tensile stress, in the simplest case, can be decomposed into
+equal and  opposite forces,  since stress is merely a set of
+such equal  and opposite  forces.   One of the bidirectional
+interaction forces  moves externally out of the atom via the
+electrons,  electromagnetically   producing   a   conduction
+electron current  through the instrument and giving a needle
+reading.   The second  bidirectional interaction force moves
+ever  inward,   since  it   is   a   phase   conjugate   and
+reconcentrates inward  ("crawfishes") rather than scattering
+outward.   This forms a hidden Whittaker current through the
+atomic nuclei, producing a recoil on all of them.  Precisely
+as much  EM energy  went into  the inner system as went into
+the outer  system.  But we normally only measure and account
+for the  external energy,  and  ignore  the  energy  in  the
+internal channel.
+
+Question: Can  you give  us a reference related to this, for
+example?
+
+I'll give  you several  of them  that bear directly on this.
+See R.  Chen, "Cancellation  of internal  forces,"  American
+Journal of Physics, Vol. 49, No. 4, Apr. 1981, p. 372.  Chen
+gives a  discussion of  these summation vectors and internal
+vectors.   He points  out that  the internal forces occur in
+equal and  opposite  pairs;  in  other  words,  as  internal
+stresses.   That's  certainly  pointing  out  the  internal,
+bidirectional force structure of a scalar stress __ a scalar
+potential, if  we're talking  EM stress and EM forces.  Note
+that  this   internal  pattern  is  exactly  what  Maxwell's
+quaternion  theory  captured  and  retained,  and  that  the
+Heaviside and  Gibbs vector  theory discards.   Further, the
+quaternions captured  the internal  order of  this  internal
+force vector  structure as  well.   Second, in  a  beautiful
+article    Kidd     bluntly    states     that    all    our
+measurement/detection is really binocular.  See Richard Kidd
+et al, "Evolution of the modern photon," American Journal of
+Physics, Vol.  57,  No.  1,  Jan.  1989,  p.  27-35.    E.T.
+Whittaker,  of  course,  wrote  the  definitive  engineering
+methodology of  how to  do all  this with EM waves __ how to
+infold the EM waves into a bidirectional wave structure that
+produces a  standing  wave  of  externally  force-field-free
+scalar potential.   The two Whittaker papers are (1) "On the
+partial differential  equations  of  mathematical  physics,"
+Mathematische Annalen,  Vol. 57,  1903, p.  333-355; and (2)
+"On an  expression  of  the  electromagnetic  field  due  to
+electrons by means of two scalar potential functions," Proc.
+Lond. Math. Soc., Series 2, Vol. 1, 1904, p. 367-372.
+
+Now these  hidden internal  wave  structures  exist  in  all
+scalar potentials,  whether they are electromagnetic or not.
+For example,  Ziolkowski has  pointed out  what is  actually
+Whittaker's 1903  infolded bidirectional planar waves inside
+the acoustic  scalar wave,  in work  on  acoustic  missiles.
+Acoustic missiles are slugs of very strong sound energy that
+stay together  in a slug as they travel, and strike a target
+a terrible blow, just as if it were a "missile made of sound
+energy."   [See Richard  Ziolkowski, "Localized transmission
+of  wave  energy,"  Proc.  SPIE  Vol.  1061,  Microwave  and
+Particle Beam  Sources and  Directed  Energy  Concepts, Jan.
+1989, p. 396-397.  Ed.]  A Soviet scientist, Ignatovich, has
+pointed out the same remarkable bidirectional wave structure
+inside the scalar potential associated with the Schroedinger
+wave equation itself.  [See V.K. Ignatovich, "The remarkable
+capabilities of  recursive relations,"  American Journal  of
+Physics, Vol.  57, No. 10, Oct. 1989, p. 873-878.  Ed.]  And
+I've pointed  out a mechanism by means of which you can make
+a quantum  potential, so that separate things __ even widely
+separated __  can interact as if they were all pieces of the
+same system,  and all located together at the same location.
+Further,  I've   pointed  out   that  you  can  deliberately
+structure  that   quantum   potential   with   a   Whittaker
+bidirectional wave structure.
+
+Question:  Can you make that last part a little simpler?
+
+What that  means is  that in  QM, there's  a special kind of
+potential you can make, that can connect spatially separated
+things and  translate energy between them, in hidden fashion
+and essentially  instantaneously.    This  "connection at  a
+distance" directly  results in  action-at-a-distance.   I've
+advanced the  mechanism for  making  one  of  these  quantum
+potentials, so  it is  subject to laboratory test.  Further,
+in that  artificial quantum  potential you make, you can put
+in a  hidden EM  wave Whittaker  structure __  hidden "pipes
+inside spacetime" itself,  so  to  speak.    Then  you  have
+established   hidden    EM-wave-energy   channels    through
+spacetime, connecting  widely separated  entities  together.
+You can  then put  energy and  specific energy  patterns  __
+vacuum engines, if you will __ directly through those hidden
+channels.   You can  have the  hidden  energy  emerge  at  a
+distant point  and interact  in and  on a  distant  physical
+system there.   This  distantly-emerging interaction  energy
+can be  positive (disordering,  or scattering)  or  negative
+(reordering).    Transmitting  scattering  energy,  you  get
+distant heating  __ the  production  of  heat  energy  at  a
+distance.   Transmitting reordering  energy, you can extract
+energy from  the distant  object  or  system  through  those
+hidden   channels,   accomplishing   distant   electrostatic
+cooling.
+
+The other  thing to  note is  that  EM  energy  transmission
+through the  hidden channel  is not  limited to the speed of
+light.   The speed  of light  refers to  energy transmission
+through 3-space,  and the  internal channel refers to energy
+transmission around  3-space, or  in  other  words,  through
+hyperspace.  And it's testable on the laboratory bench.
+
+Question:     Are  you   saying  that  real  energy  can  be
+transmitted faster than the speed of light?
+
+Yes.  But hyperspatially.  Not through 3-space, but "around"
+it.
+
+Again, this  means that  it's possible  to produce energetic
+changes in  a distant  system at  a distant  place,  without
+transmitting energy  "through space"  in the  normal  sense.
+You transmit  "around" space,  so to  speak, and directly in
+time or  through a  higher dimension, depending on the model
+you're using  to understand this.  Further, the speed of the
+internal EM  energy transmission is not limited to the speed
+of light.   Whittaker already specifically pointed this out.
+Quantum mechanics  also predicts  instantaneous action-at-a-
+distance  and  has  essentially  proven  it  experimentally.
+Finally,  you   can  specifically   Whittaker-engineer  this
+"hyperspatial" transmission,  if you will, to do essentially
+whatever you  wish to  do in  that distant  system.   It all
+depends on  how far you develop the technology; the basis is
+there.   Hypothetically, you  can eventually  even develop a
+kind of  teleportation.   Whittaker transmission through the
+internal channel is already "teleportation" of energy, so to
+speak.
+
+Question: Does  this have  anything to  do with  Sheldrake's
+morphogenetic field?
+
+Yes indeed.   Sheldrake's  morphogenetic field  is pure-and-
+simply a  species quantum  potential,  created  amongst  the
+members of  a species.    As  experiences  are  met  by  the
+individual  members,   they  steadily   input  infolded   EM
+structures into  the "inner"  EM channels  of  that  quantum
+potential.   Since  any  infolded  EM  wave  has  its  phase
+conjugate  __  or  time-reversed  replica  __  produced  and
+infolded  automatically,   a  sort  of  "negative  feedback"
+corrective EM  signal pattern  for all  inputs  of  the  bad
+external EM  stuff exists inside the quantum potential.  One
+can show  that, for  detrimental  changes  to  the  species'
+members,  time   reversal  provides  infolded  signals  that
+represent  an  exact  counter  to  the  "overstress  of  the
+species," so to speak.  These "corrective antidotes" for the
+overstressed species,  however, are  in the  virtual  state.
+But as  more of the same detrimental changes are experienced
+over generations,  the countering signal structures residing
+in the  species quantum potential will be increased over the
+same period  of time.   Gradually the hidden EM structure __
+which is  like jillions  of little  "vacuum engines"  __  is
+changing  and   internally  structuring   the   Schroedinger
+potential for that species.
+
+Then one day the internal corrective charge is sufficient to
+breach the  quantum threshold.  One could  also say that the
+spacetime potential  occupied by  the species members is now
+sufficiently curved  and structured  to serve as a specific-
+signal-pattern  energetic   source   for   genetic   change.
+Breaching this threshold causes specific new genetic changes
+to occur  in the  entire species  in a single jump.  At that
+point, the actual genetics of egg fertilization (conception)
+is altered,  and shortly  thereafter members  of the species
+start being  born with the new change, specifically designed
+to counter  or  partially  counter  the  former  detrimental
+aspects in  the species  overstress.  In a dramatic example,
+that's how a reptilian species can "suddenly" develop light,
+air-filled bones;  feathers; and  wings,  for  example,  and
+change from  a  reptile  to  a  bird  in  one  single  jump.
+Sheldrake's  morphogenetic   field  is   a  species  quantum
+potential and  the charged-up  Whittaker  structure  is  the
+inducing agent.
+
+Question:  You're saying, then, that living systems use this
+inner, hidden  EM energy channel in addition to the external
+energy  channel   that  we   know   in   ordinary   external
+electromagnetics?
+
+Absolutely.   In fact,  the  distinction  between  a  living
+system and a nonliving system is precisely the fact that the
+living system deterministically utilizes the inner EM energy
+channels inside Whittaker-structured scalar potentials.  And
+those scalar EM potentials are centered on the atomic nuclei
+of atoms  comprising the  living system's  molecules, cells,
+tissues, and mass.
+
+Question:   How  does  that  relate  to  present  brain-wave
+research,     and      measurements      of      brain-waves
+electromagnetically?
+
+It says  that present research is devoted almost entirely to
+measuring and  pondering the  surface waves in the ocean, so
+to speak.   The  mind, thoughts,  emotions, and  real living
+functioning systems  are deeply  hidden, underwater waves in
+that ocean.   Science  will have to instrument for detection
+and recording  of the  hidden interior energetics region, or
+they will  never solve  the mind/brain/body  problem.    And
+without the  interior energetics, they will never understand
+life, memory,  personality, thought,  and primary biological
+control, or human intent.
+
+Question:   You are  saying, then, that this hidden internal
+electromagnetic energy  channel is intimately connected with
+the mind, life, and personality?
+
+Absolutely.   The  mind  consists  of  stabilized  Whittaker
+structures  inside   the  living   system's   bio-potential.
+Thoughts are  a  special  class  of  changes/waves  in  that
+overall  Whittaker-structure   ensemble.      The   personal
+unconscious is  a single  small, localized  sample of  yet a
+greater   collection    that    represents    even    deeper
+unconsciousness.
+
+The conscious  mind is  a serial processor __ one thing at a
+time.   The unconscious mind is totally conscious, but it is
+a parallel  processor __  jillions of  things at one and the
+same time.  The serial conscious mind can only make sense of
+a "single  slide in the slide projector" at a time.  When it
+looks at the unconscious mind, it sees a multitude of slides
+in the  slide projector simultaneously __ hence it just sees
+blackness, or nothing recognizable at all.
+
+Jung's collective  unconscious,  for  example,  consists  of
+archetypal infolded  EM structures  acting in  common in  an
+overall bio-quantum-potential for the entire species.  Gaia,
+the living earth/biosphere, really does scientifically exist
+as a  common bio-quantum-potential  with infolded  living EM
+structures  for  the  entire  earth  biosphere.    The  bio-
+potential in  a single  body is an overall quantum potential
+that links  and joins  all the  atoms and cells of the body.
+The "spirit"  of the  biosystem, if you will, is its "living
+biopotential" __  its living  quantum potential.  We already
+know that  a potential is everywhere nonzero all the way out
+to infinity.   So  the spirit  of the living system is __ in
+the virtual  state __  everywhere in  the  universe  __  and
+everywhen as  well.   It's all a giant hologram, not only in
+space, but in spacetime.
+
+The entire  universe is  everywhere alive,  with everything.
+Note  that   if  you   simply  examine   the  "ghost  forms"
+requirement  of   quantum  mechanics,   this  conclusion  is
+inescapable.  All life is eternal.  Nothing is ever lost.
+
+A  thought  or  thoughtform  is  just  a  specific,  dynamic
+Whittaker  structure  in  the  hidden  EM  channels  of  the
+biopotential.  Thoughts and thoughtforms are real.  They are
+virtual  spatially,  but  they  occupy  one "real" spacetime
+dimension, time.   Physics and metaphysics share one common,
+nonobservable dimension: time.  So long as physics continues
+to have  to have time, which is nonobservable a priori, then
+it also  must contain  everything that  is  a  structure  or
+action in  time.   Skeptics of  parapsychology, who  believe
+that humans are robots and the mind is just a meat computer,
+just have  little or  no foundations  knowledge.  And if you
+get carried away by the "observable, objective science" bit,
+remember that  the choice  of fundamental  physical units in
+physics is  arbitrary.   You can  __ and  it's actually been
+done __  build all  of  physics  from  time  as  the  single
+fundamental unit.   That  means that you can build the whole
+observable, detectable  physics model  out  of  the  totally
+unobservable and  nondetectable.  Quantum mechanics long ago
+destroyed materialism  for all  time,  but  it  just  hasn't
+percolated through the prevailing scientific dogma yet.
+
+With Whittaker  EM engineering,  you can  conceivably "make"
+thoughtforms to order, and input them directly into the mind
+and longterm  memory.   If we  view the  conscious mind as a
+special  serial  computer,  we  have  now  found  where  the
+software is  __ for  mind, longterm memory, and personality.
+As scalar EM technology develops, we will have direct access
+to the  software, so to speak, for the very first time.  And
+we will be able to engineer it at will.
+
+Question:  But is this good or bad?
+
+Actually it's  either, or  both.  We are describing a set of
+hidden  internal   EM  energy  structures,  the  fundamental
+mechanism for  internal EM  structuring, and a tool.  A tool
+is amoral;  it has  no morality,  and is  inherently neither
+good or  bad.   The intent of the user of the tool, however,
+may be  either good  or bad.  So the tool can always be used
+either way,  for beneficial  purposes or  for evil purposes.
+It's the  hand that  wields  the  knife  that  is  moral  or
+immoral; it  is not the knife.  The same cutting tool can be
+used by the surgeon to heal, or the murderer to kill.  Human
+intent   differentiates    amorality   into   morality   and
+immorality.
+
+Question:   What is the biological impact of the forthcoming
+new technology  that directly  accesses  and  engineers  the
+internal energy regime?
+
+It will  be both a tremendous blessing and a terrible curse.
+It's the  most powerful tool ever conceived.  By engineering
+the   Schroedinger    equation,   for   example,   one   can
+theoretically engineer  physical change  itself.    One  can
+actually engineer  physical  reality,  change  the  laws  of
+nature, and  determine if  a thing  shall even  emerge  into
+physical quantum  change at  all, or  if it shall change its
+physical form.   Mind-wise,  eventually one  will be able to
+directly  input  material  into  the  mind  __  whatever  is
+desired.  Education, for example, will simply be achieved by
+"loading the  proper software."  Everyone will be enormously
+educated, by  today's standards.   That should for the first
+time allow  the complete  alleviation of unemployment due to
+lack of  employable skills,  for  example.    It  should  be
+possible to  virtually eliminate  unemployment and  poverty.
+Any sort of disease whatsoever __ physical or mental __ will
+be rapidly curable, simply and cheaply.  It will be possible
+to reverse  aging and  rejuvenate the  person.   It will  be
+possible to  regrow limbs and straighten misshapen spines __
+and directly  remove the  causes of mental diseases and cure
+them as  well.   Lifespan will  be  staggeringly  increased,
+without "old  age's debilitation."   AIDS, cancer, leukemia,
+and genetic  diseases will  be completely  conquered.    The
+potential for  a  true  golden  era  is  upon  us,  for  all
+humanity.
+
+On the  other hand,  it will also be possible to simply pull
+out a  personality-structure from  a person,  without his or
+her consent,  and insert  another.   Or  to  alter  a  given
+personality structure  by just altering and re-recording the
+software.   This technological  possibility, of course, will
+certainly be  noticed by  would-be egomaniacs and dictators,
+for it can yield the ultimate mind control.  It will also be
+possible  to   provide  direct   input  inside   the   mind,
+surreptitiously, from  a distance  and without the knowledge
+and consent  of  the  individual  affected.    This  can  be
+beneficial  if   it's  just   "instantaneous  telepathy"  __
+instantaneous communications,  so  to  speak,  and  if  it's
+desired by  the recipient.   It can be highly detrimental if
+it is  undesirable material,  or if  it's a  forced internal
+change, or enslavement, or used to overwhelm and destroy the
+mind, or  used to  jam  the  body's  immune  system,  induce
+virulent  diseases  en  masse,  etc.    Unless  the  present
+inhumanity of one human for another is overcome, future wars
+are likely  to take on aspects that stagger the imagination.
+In 1975  Brezhnev called  these new mass destruction weapons
+of the  future "...more  frightful than  the mind of man has
+ever  imagined."    He  should  know.    When  he  made  the
+statement, the Soviets had already been inducing diseases in
+persons in the U.S. Embassy in Moscow for nearly 30 years.
+
+Question:   Can you  explain that  part about direct, forced
+input to the mind,  just a bit more?
+
+Yes.   It involves  a characteristic  of the  mind and brain
+that  has  been  experimentally  shown.    For  example,  if
+anything   (thought,   feeling,   emotion,   image)   arises
+internally  in   one  of   the  cerebral  hemispheres,  that
+hemispheric personality  thinks that it did it.  That is, it
+thinks that  it not  only thought  the thought,  but that it
+also created  the thought.   So if you have a hidden channel
+to pipe  in  inputs,  you  can  take  over  or  implant  the
+thoughts, behavior,  and actions  of a person.  Or of a very
+large group  of persons.   That  alone allows a mind-numbing
+direct control of behavior externally and from a distance.
+
+Question:        Can    you    really    control    behavior
+electromagnetically?  Can you give us an example?
+
+Yes, you can control  it readily  and deeply, if you develop
+and utilize  the internalized  EM energy channel technology.
+As to  proof, Delgado  certainly has  demonstrated  profound
+control over  animal behavior  experimentally, for  all  the
+world to  see, using  implanted probes and precise injection
+of EM  signals.   The Soviet  LIDA machine,  using a  40 MHz
+carrier and  complex waveforms  __ and  actually the  hidden
+Whittaker-infolded  EM   structuring,  unknown   to  Western
+technologists __  has demonstrated  the ability  to place  a
+mammal __  either a human or a cat __ in a cataleptic state.
+That state can be induced in a few minutes exposure and then
+persists for  some minutes  after  the  stimulus  signal  is
+removed.   That proves  that you  can profoundly  alter  the
+mental state, electromagnetically.
+
+Perhaps the  very  best  example  is  provided  by  the  two
+cerebral hemispheres in your own head, or those in a rat, or
+those in a cockroach.  As we know from split-brain research,
+each hemisphere  has  a  separate  personality.    That's  a
+separate being,  if you  will, to  put it bluntly.  Yet even
+though you  are two beings in one body, so to speak, you are
+only conscious  of one  being.   How is that, you might ask,
+since both brain halves are operating?  How do you integrate
+two beings  consciously into one functioning being?  Such as
+is already done in your own head?
+
+The answer  is this.  Suppose your left brain sends a signal
+to your right thumb to move.  While the signal is on the way
+to the  right thumb,  the left brain also sends a replica of
+the signal  over the  connecting corpus  callosum, into  the
+right brain half, where it emerges inside.  [When the signal
+emerges inside a brain half/mind/personality, it thinks that
+it itself  originated it.   That's  because it  perceives no
+time  delay   between  appearance   of  the  signal  in  its
+"transmission" section,  e.g., and  the  appearance  of  the
+signal in  its "receiver"  section.] The ultimate definition
+of identity,  after all,  is the absence of all distinction.
+The absence  of functional  distinction in  time constitutes
+the creation of identity in time.  The whole arises when and
+only when distinction between the parts is lost.]
+
+The right  thumb is  continually communicating  back to  the
+left brain  half, telling  its progress.   Replicas of those
+return signals  from the thumb are continually being sent by
+the left  brain across  the corpus  callosum into  the right
+brain.  The right brain thinks that it originated the thumb-
+move-order, and  that  the  right  thumb  is  reporting  its
+progress.   The right  brain thinks  it did  the whole thing
+itself.   A similar  process occurs,  of course,  from  left
+brain to  right brain.   Each  inputs to the other, at least
+insofar  as   awareness  of  the  order  and  the  event  is
+concerned.   Each thinks that it did it.  In that way, there
+is  a   loss  of   distinction  between  the  parts  of  the
+functionality.   Accordingly, there  is only  one  sense  of
+being in  the bi-system,  even though there are two separate
+beings.
+
+It has  also been  shown that,  when the  corpus callosum is
+severed,  the  two  brain  halves  now  function  much  more
+independently.   In that  case, two  separate  personalities
+really do  emerge and  function in  one body.  That also has
+been shown in the laboratory.
+
+Question:   But aren't you actually saying that the mind and
+thought, then, are not really just electrical wiggles in the
+brain after  all?   That they are actually separate from the
+physical brain,  and the  brain is  just a  special sort  of
+tuner or "workstation"?
+
+Exactly.  The real functioning of mind, thought, memory, and
+personality occurs  in the  infolded Whittaker bidirectional
+EM wave structures of the overall body's scalar potential __
+its bio-potential.   And  one of the great neural scientists
+has already pointed out that mind and memory are not precise
+functions of physical location in the brain.
+
+
+Question:   Is there  any real  proof of the internal energy
+channel operation  of the  mind, or  is it  just all still a
+theory or hypothesis?
+
+The basis  can be  shown, and  it  is  directly  subject  to
+laboratory test,  with a  decent  laboratory  and  a  little
+effort.  Let me give you a very strong datum point.
+
+There  exists   a  rare,   completely   bafflingly   medical
+phenomenon __  which has  until recently  been concealed  __
+called hydrancephaly.   To  the normal materialistic Western
+biologist, this  condition is astonishing, to say the least.
+In hydrancephaly, a person's cranial cavity is filled almost
+totally with  fluid, not  with brain  matter.   There may be
+only 5%  or so  of the  brain in  there; typically  just the
+small portion on the tip of the spine.  The other 95% of the
+brain case  is filled with fluid.  Yet the individual may be
+as normal  as you  or I.   Except, of course, that x-rays of
+his head  will astonish  all the  doctors.  A few years ago,
+for example, such a hydrancephalic individual graduated from
+a university in Great Britain, with a degree in mathematics.
+British news  actually made  a  video  documentary  on  this
+subject, and particularly on that individual.
+
+Now obviously  hydrancephaly proves rather conclusively that
+it isn't  really the  brain matter or the electrical wiggles
+in the  two hemispheres  that constitute  the mind.    Those
+wiggles normally  are correlated  with, and communicate back
+and forth  with, the internal Whittaker dynamics of the bio-
+potential.   The  brain  is  a  special  communications  and
+processing station,  interfacing sensors and processed stuff
+from the  external world  to the Whittaker-sets, and outputs
+from the  Whittaker-sets to  the body  and cells.  If just a
+small functioning  part of  this "way station" remains fully
+functional, the interfacing still exists.
+
+Question:   Can you shed any light on the functioning of the
+fluid  that   fills  95%   of  the   brain   cavity   of   a
+hydrancephalic?
+
+Perhaps a  little bit.   There's  an interesting thing about
+fluid __  about water.   The  hydrogen bonding  structure of
+water is  enormously complex  and  richly  varying.    Bond-
+structuring of  water constitutes  a special  kind of  "neo-
+Whittaker" substructure  inside a  special kind of potential
+for that  particular body  of water.   A glass of water, for
+example, has  an  overall  neo-potential  comprised  of  its
+hydrogen bond  structuring.   That  water  will  change  its
+internal bonding  structure if you enter the room, or if you
+blink your  eye while  observing it.  It continually adjusts
+to  everything   in  its   surroundings.    The  reason  is,
+everything in  its environment  has charges,  and clumps  or
+orderings or  structures of  potential.   And  the  internal
+Whittaker structures of all those potentials overlap because
+the   potentials    overlap.      Therefore   the   internal
+bidirectional Whittaker EM waves intercommute.  The internal
+dynamics of  the water receives inputs from the surroundings
+this  way,   and  the   water's  bonding  structure  changes
+accordingly.   We've only  known the complexity and richness
+of this  water structuring for less than two decades, and so
+far as  I know,  no one  else seems  to be  considering  the
+Whittaker infolded EM wave structure aspects of it.
+
+The point  is this:   In  the fluid  inside the  head  of  a
+functional hydrancephalic,  the water  structuring is  quite
+sufficient to  provide the  rest of  the needed "way-station
+two-way tuner,  processor, and  transmitter-receiver."   The
+reason  is  quite  simple:    The  potential  of  the  fluid
+constitutes a partial potential in the overall bio-potential
+of the  body.  It's like the pressure of a mixture of gases:
+the overall  pressure consists  of the  partial pressures of
+the  component  gases.    The  Whittaker  structures  ensure
+intermingling and  intercommunication through  the  internal
+energy channels  of  the  total  bio-potential  to  all  its
+constituents.   Therefore the water structuring of the fluid
+in the head of the hydrancephalic serves __ bridgewise __ as
+a substitute brain.
+
+Other  supporting  evidence,  of  course,  is  that  quantum
+mechanics experiments  have essentially  established action-
+at-a-distance  and   quantum  correlation.     The   quantum
+potential, therefore, is something real and functional after
+all.
+
+And even  more evidence  is provided  by  the  nature  of  a
+linear  material   versus  the   nature  of  a  nonlinear
+material.   However, that would take a book, and is just too
+much to  cover in  this interview.  Suffice it to say that a
+strong   argument   can   be   made   from   the   nonlinear
+characteristics and phenomena themselves, such as production
+of  time-reversed   waves,  amplification  of  time-reversed
+waves, negentropy (re-ordering of scattering energy), etc.
+
+The bottom line is that there's certainly enough evidence to
+substantially support  these hypotheses,  and move them from
+the realm  of idle  speculation to  the realm of "worthy for
+further experimentation  and  development."    The  ultimate
+proof, of  course, will  be when one demonstrates the actual
+production, recording,  and functioning  of a  living  mind.
+With the  internal energy  approach, that  is hypothetically
+quite possible, and will eventually be lab-demonstrated.
+
+Question:  How is this related to the neurons, synapses, and
+dendrite firings in the normal human brain?
+
+The same  "internal electrical  structure" thing  is true of
+the brain  and its  dendrite firings, EM waves, and tiny but
+extremely  numerous   currents  and   fields.      Take   an
+instantaneous  snapshot  of  all  the  dendrite  firings  __
+billions of  them __  frozen for  an instant.    The  actual
+pattern or  structure represents  the internal  state of the
+brain's  bio-potential   at  that  instant.    Take  another
+snapshot a  moment  later.    The  change  of  the  internal
+structuring represents   the brain's internal structuring at
+a new  moment.   Interfering (subtracting) the two snapshots
+provides a  delta that represents the exact and total change
+that occurred  in the  brain-state during that tiny interval
+between snapshot  one and  snapshot two.   But since thought
+itself is a change in internal brain-state, then the thought
+patterns during  that interval  must be  contained in  those
+changes.   And of  course a  myriad of  other brain  control
+actions are  in there  as well.  Commands to beat the heart,
+direct biochemistry  of cells,  etc.  To detect the internal
+state precisely,  one now  needs  to  decompose  that  delta
+pattern into  its Whittaker-structure  components  and  sort
+them all out.
+
+Question:   How would  one go  about detecting  the internal
+state, to get at the actual thoughts themselves?
+
+Well, one  has rather  much got  involved with  the standard
+chaos problem.   You've  got  hidden  order  (the  thoughts)
+buried up  in a lot of extraneous material.  In other words,
+you're  looking  at  something  statistical,  and  it's  got
+several kinds of hidden order hidden in there in what to you
+appears to  be a  whole lot  of noise.   So you do something
+very similar  to what  we described in the snapshot analogy,
+but apply  Whittaker-channel detection  at  the  same  time.
+Actually,  a   first  step   in  this   direction  has  been
+beautifully done  by Dr.  Hunt.   She divided  the  external
+brain-wave region  into several frequency bands.  (Actually,
+harmonic intervals are best, per Whittaker theory.)  She set
+up individual  detectors  for  all  the  frequency  channels
+simultaneously.   Then she divided each of these channels in
+two branches:  one branch  straight through  without a  time
+delay, and  the other  delayed by a bit, say, 6 milliseconds
+or so.   Then  she mixed all the delay channels onto all the
+nondelay channels,  and recorded  the superposition.  And lo
+and behold,  she got  beautiful traces  of hidden  chaos  in
+brain wave  activity.   The traces  exhibited  the  standard
+chaos attractors.   Her  magnificent  work  is  very  strong
+evidence that the real activity of the mind occurs in hidden
+variables,   in    hidden   channels   inside   the   normal
+"envelope/external electromagnetics"  represented by  normal
+brain wave  measurements.   Hunt has  shown that  there is a
+hidden, deterministic,  dynamic order  "inside"  the  normal
+statistical EM brain activity.
+
+Over  two   decades  ago,  a  Russian  scientist,  Lisitsyn,
+obliquely spoke  of  Russian  breakthroughs  in  this  area.
+Lisitsyn stated that the Soviets had "broken the human brain
+code."   He  further  stated  that  some  23  channels  were
+involved, reaching  all the  way up  to optical frequencies.
+However,  only   11  of   these  frequency   channels   were
+independent.   He also  mentioned that  the brain coding did
+not number over 44 "digits".
+
+Now  I   interpret  his  remarks  as  indicative  of  direct
+application of Whittaker theory.  Lisitsyn of course did not
+give the  details; that's  highly classified  in the  Soviet
+Union, as  witnessed by the Petukov/Toth incident in Moscow.
+However, I  interpret Lisitsyn  as having obliquely referred
+to 11  independent Whittaker  frequencies __ the fundamental
+frequency and  10 harmonics  __ that  are used  by the brain
+workstation to  intercommunicate between  the mind  and  the
+external electrical/physical functioning of the organism.  I
+interpret the  remark about  44 digits to probably mean that
+there are  some 44  different independent Whittaker spectrum
+sets, where each spectrum consists of the fundamental and 10
+harmonics.   And in  each frequency  channel of a set, there
+are two  bidirectional EM  waves __ actually, an EM wave and
+its time-reversed antiwave (phase conjugate replica).
+
+Question:  Can you tell us something more about detection of
+standing scalar EM potential waves?
+
+For fundamental  detection of  the  scalar  wave,  you  must
+realize that  several kinds  of detectors  can be  utilized.
+One kind  is  a  spatially-oriented  detector,  and  detects
+spatial aspects  and changes  of the  scalar  wave  and  its
+internal substructure.  The other kind detects variations in
+the local  rate of  flow of  time, and  then the "finer time
+wave structure"  of that  variation.   With either type, the
+problem has  two parts.   Let's look first at the spatially-
+oriented detector.
+
+First, one  must detect  the absolute potential at the point
+of intersection.   Second,  in this  detected potential, one
+must detect  its internal,  infolded EM  bidirectional  wave
+structure  __   in  short,  its  Whittaker  structure.    An
+additional requirement,  of course,  is that  the instrument
+must be  shielded against the effects of spurious EM signals
+in the  area.  In short, it must be in a Faraday cage.  Even
+more than  that, one  must be  able to  vary  the  grounding
+potential on the shielding cage.  One must be able to let it
+float, have  it at  ambient, or  move it  to  some  specific
+value.
+
+A Geiger  tube, for  example, will  usually detect  a strong
+absolute potential.   That  is, the  potential increases the
+charge on the atoms or molecules of the gas it contains, and
+at the  ionization point,  the gas  starts to  ionize.   The
+counter, of  course, then  counts the  ion discharges, whose
+rate is  correlated to the level of ionization, and hence to
+the strength  of the ionizing agent.  Note that Geiger tubes
+do not  necessarily detect  nuclear radiation;  they  detect
+ionizing radiation,  regardless of  the type.  While nuclear
+radiation is  certainly ionizing  radiation,  so  is  strong
+scalar radiation.  Even though the scalar wave is a standing
+wave, its increased level of potential can ionize the gas in
+the tube.   Of course, if the standing scalar potential wave
+is a  sine wave  function of  the radial  distance from  the
+source, and  the Geiger  counter is at the node, it will not
+read because  there  is  no  difference  there  from  normal
+ambient vacuum potential.
+
+Note also  that the  so-called "microwave  radiation" of the
+U.S. Embassy  in  Moscow  was  detected  originally  with  a
+nuclear radiation  detector __  probably a  Geiger  counter.
+Pure  microwaves   are  non-ionizing,  and  would  not  have
+activated the  counter.  Shortly I will have a new book out,
+Gravitobiology:  A   New  Biophysics,   which  will  explain
+precisely how  the health  changes in  the Moscow  radiation
+were induced in U.S. Embassy personnel.  In the book we will
+also  explain  Kaznacheyev's  "death  photons"  and  the  EM
+induction of  disease at a distance.  We'll also explain the
+mechanism for  producing  an  EM  antidote  signal  for  any
+disease, known or unknown.
+
+The problem  with the  Geiger counter as detector is that it
+only accomplishes  half the  job, even  when it  works.   It
+doesn't break out and measure the Whittaker bidirectional EM
+wave structure of the ionizing potential at all.
+
+Here is  a possible  scheme for  a better  detecting system.
+Use two  detecting probes, some small distance apart, inside
+the  shield.    At  each  probe  point,  use  a  high  input
+resistance, very  low  voltage  detector  __  microvolts  or
+picovolts range, normally.  The signals should then be mixed
+and another  difference frequency  detector of  similar kind
+utilized.   Under  proper  circumstances,  this  produces  a
+normal EM  beat frequency  (via the  Aharonov-Bohm  effect).
+The second  stage of  the detector  can then come into play.
+The  beat  frequency  is  input  into  a  standard  spectrum
+analyzer,  which   should  detect   the  components  of  the
+Whittaker spectrum  as modulations on the detected Aharonov-
+Bohm effect beat frequency.
+
+The disadvantages  of this  detector are two-fold.  One, the
+actual ground  potential at  which  the  shield  is  biased,
+affects whether  or not  you get  a detection.  Second, it's
+basically  a   very  short  wavelength  detector  for,  say,
+millimeter waves  to waves  in the  one meter  band.    That
+should be  good enough  for scalar  communications research,
+however, and  the Soviets  have reported  highly significant
+biological  effects  of  the  Lisitsyn  kind  at  about  2.1
+millimeter wavelengths.
+
+For longer wavelengths, one has to either have rather widely
+separated instruments  operating  in  a  bistatic  reception
+mode, for  the scalar  interferometry, or  else  use  delay-
+materials and  schemes in  probes.   Another way that can be
+worked  out   is  to   use  a  characteristic  of  nonlinear
+materials.  If a sine wave is input to a nonlinear material,
+harmonics are  produced.   By  tailoring  and  choosing  the
+materials, one  should get appreciable frequency shifting up
+the scale via harmonic production.
+
+Another way  is to  realize that a standing scalar potential
+wave can  also be  considered as a standing wave in the rate
+of passage  of time.   So the presence of a scalar potential
+alters the  local rate of time passage.  But since it alters
+time flow, it affects everything else that locally exists in
+time __  and that's  everything.   More exactly,  there is a
+stress effect  on the  rate of  flow of time.  And there are
+certain detectable  functions that  occur in  detectors  and
+solid state  components, for  example, that occur because of
+the time  stream stress changes.  I cannot be more specific,
+because the  effects I  know about  here were  discovered by
+John Schnurer  and are  proprietary to  him.   But John  can
+build a  detector based  on this  effect, at  least for  the
+overall potential.   It  remains to develop detection of the
+EM substructure  and its  spectrum, and  he will have a very
+good scalar EM system detector.
+
+Other things  very useful  in developing detectors have been
+reported by  Hunt,  Bedini,  Beck,  Howonadec,  Golden,  and
+others.     Golden  particularly  has  a  very  good  scalar
+communications   detector,    and   several    good   scalar
+communications transmitters.   One  of his  typical detector
+systems, for  example, will  perform between  20 and  30  dB
+better for  a given  power transmitted  than will  a  normal
+communication system  with high  gain antennas.   And, since
+the detection of scalar involves outfolding the inner energy
+spectrum of  the Whittaker  structure,  a  direction  finder
+cannot get a direction fix on the signal transmitted via the
+scalar system.
+
+Beck has  certainly demonstrated an extremely sensitive coil
+of ultrafine  wire, that  can often  outperform  the  finest
+superconductive quantum  interference detector (SQUID).  The
+use of  extremely fine  wire __ and lots of overlaying coils
+__ drastically  reduces or  blocks the  radial  movement  of
+electrons in  any one  point in the wire in the coil.  Since
+that's the  way  electron  current  actually  moves  __  the
+movement down  the  wire  is  due  to  drift  velocity,  and
+certainly is  not the  signal  __  Beck's  coil  effectively
+prevents most  of the  "external electron bleedoff" from the
+stabilized scalar  potential.   Thus he's able to block most
+of the  external electromagnetics,  and thereby  retain  the
+inner part  as well.   Precisely,  his  coil  is  now  using
+gravitons, not  photons, to  a significant  degree.   So the
+coil as  the interaction  area of  an instrument  is able to
+hold and  pass some  of  the  internalized  EM  energy  that
+normally escapes  into and through the nucleus only.  At the
+output  of  the  coil,  Beck  gets  EM  from  this  internal
+component that  the SQUID  doesn't see because it doesn't do
+the escape-blocking in its interaction area.
+
+There  are  other  detector  schemes,  of  course,  such  as
+holographic interferometry, but this should give you an idea
+of some  of the  things that have to be done to perform good
+laboratory measurement of scalar electromagnetics.
+
+Question:   Could you  return to  your discussion  of what's
+wrong with  present electromagnetics, quantum mechanics, and
+general relativity?   Perhaps  you  could  address  them  in
+order.
+
+Okay.   I've already  stated the  case for electromagnetics.
+Half of  it __  the really  interesting part,  the  internal
+energetics __  was discarded  by Heaviside  and Gibbs.    By
+discarding the  scalar component  of  the  quaternion,  they
+threw out  the internalized EM energy of local spacetime and
+its communication  with distant  spatial points.   Since the
+localized  energy   density  of   spacetime  is  essentially
+synonymous with  gravitational potential, they threw out the
+ability to  turn EM  force field  energy into  gravitational
+potential energy.    They  threw  out  the  interaction  and
+entanglement of  EM and  gravitation, and  wrote the special
+subset of  Maxwell's theory  that is  restricted to the case
+where gravity  and electromagnetics  do not  interact.  As a
+subset, their work is perfectly okay.  However, a priori you
+will never  use their approach __ nor the applied technology
+that    follows     its    principles    __    to    produce
+electrogravitation, over-unity  machines, tapping  of vacuum
+energy sources, etc.  You will never electrically change the
+inertia of  a body  at  rest,  structure  the  electric  and
+magnetic flux  itself, or  achieve and  utilize action  at a
+distance.  And your instruments developed in accord with the
+Heaviside/Gibbs EM  principles will  never detect or measure
+the mind,  thought, and  emotion __  for those instruments a
+priori discard  and ignore  the internal  energy arena where
+mind, thought,  and emotion  reside and function.  And since
+the externalized EM energy is scattering energy, energy once
+scattered will  produce entropy  __ increased  disorder, and
+only the  positive flow  of time.    And  that  science  and
+technology will never be able to translate EM energy into G-
+energy and  vice  versa.    Every  system  built  under  its
+principles will  be at  extreme best  a "break-even" system.
+It will  never produce more energy out than is input in.  It
+is at best a diode engineering technology.
+
+Question:  What about present quantum mechanics?
+
+Quantum mechanics  has a  severe  foundations  problem:  the
+missing chaos, or in other words, the problem of the missing
+hidden order.   Let  me explain  how that  came about.  When
+physicists were  constructing quantum  mechanics, it  was of
+necessity a  statistical theory.   They  simply  lifted  the
+Gibbs thermodynamics  statistics, and  utilized  it  as  the
+quantum statistics.  Furthermore, Gibbs statistics was based
+on the theory of the random variable; that is, the variables
+were  considered   random.    So,  because  random  variable
+statistics were  utilized, the  QM postulate  that  "quantum
+change is  statistical" was  over-restricted to  the special
+case of "quantum change not only is statistical, but also is
+random."   The second  case, "quantum change is statistical,
+but can  contain hidden  order and  be nonrandom,"  was thus
+excluded  a   priori,  simply   because  of  the  statistics
+utilized.   Now  the  random  change  hypothesis  is  easily
+falsified, as  follows:   If you  collect large  numbers  of
+random change,  the resulting  collection is  still  random.
+The next  collection will  not necessarily  produce the same
+collection at all.  (In fact, if it does, then this is prima
+facie evidence that the variables are not all random.)
+
+What this  means is  that, if quantum change is random, then
+collections  of   these  random  tiny  changes  could  never
+integrate to  provide us the ordered macroscopic universe we
+live in and observe.  You couldn't have a flower, or a tree,
+or anything,  for that  matter  __  just  total  randomness.
+Obviously that  is not  true, or else you and I do not exist
+and this macroworld does not exist.
+
+For integration  of the statistical quantum changes to yield
+an ordered macroscopic universe, quantum change must contain
+hidden order.   That  is, the variables must be chaotic, not
+random.   If the  changes are  chaotic, then  integration of
+them will  see large  scale forms  emerge and  stabilize  __
+which is what we actually observe in physical reality.
+
+So ironically,  the biggest  foundations problem  in quantum
+mechanics today is the problem of the missing chaos!  Try as
+they will, quantum physicists cannot find the missing hidden
+order, because  they continue  to use  the Gibbs  statistics
+that already  excludes it.  So they now know that somehow QM
+is wrong, and many of them fear that this most successful of
+physics theories will have to be completely redone.
+
+David Bohm,  of course,  long ago  pointed out  that  hidden
+variables could  contain the  hidden order.  Actually all of
+experimental physics  is consistent with his hidden variable
+theory (HVT).   Mainline  QM  theoreticians,  however,  shun
+hidden variables  (and therefore  hidden order).  They avoid
+hidden variable  theory by applying a kind of Occam's razor:
+They  say   that  Bohm's   HVT  seemingly  predicts  no  new
+phenomena, so  why  adopt  it  at  all,  or  even  seriously
+investigate it?  And since Bohm did not know how to actually
+engineer  his  hidden  variables,  nothing  could  be  found
+experimentally with  it that  could not also be explained by
+the present QM.
+
+Now this is where Whittaker's work __ and Maxwell's original
+quaternion theory  of EM  __ saves  the day  and  decisively
+decides the  issue.   Whittaker's hidden  variable theory is
+directly engineerable  on the lab bench.  It's testable, and
+when applied to quantum mechanics, it predicts hordes of new
+phenomena and  effects, so  it certainly  gets  by  the  old
+"Occam's razor" saw.  When you apply Whittaker's approach to
+QM, again  you provide  testable internal  EM  bidirectional
+wave structures  to  the  scalar  potential,  including  the
+Schroedinger potential.    Whittaker's  work  allows  direct
+engineering  of   quantum  change  itself,  and  constitutes
+testable hidden  order inside  the "Gibbs  statistics."   In
+other  words,  application  of  the  Whittaker  work  to  QM
+produces a  superset of  QM,  where  the  missing  chaos  is
+restored.
+
+The postulate  that "quantum  change is statistical" now has
+three special  cases, theoretically:  (1) the  case where no
+internal order is present, and quantum change is random; (2)
+the case  where some  internal  order,  but  not  total,  is
+present, and  quantum change is already chaotic; and (3) the
+case where  quantum change is perfectly engineered and hence
+perfectly ordered and deterministic.
+
+Notice that, by adding the hidden order and the internalized
+EM energy,  we've now  extended both  QM and EM, and unified
+the two on a common subset: each's Whittaker-applied subset,
+which is the same subset shared by the two.
+
+Question:  So how about general relativity?  How does it fit
+in?
+
+A similar thing also happened to general relativity, believe
+it  or   not!     Einstein  unwittingly  restricted  general
+relativity to  a subset  of the theory he intended to write.
+This over-restriction  was again  an indirect  result of the
+fundamental Heaviside/Gibbs error in electromagnetics.
+
+Unfortunately,   Einstein's    view   of    electromagnetics
+approximated the classical view.  In classical EM theory, EM
+and gravitation  were mutually  exclusive.    That  is,  the
+strong EM  force  was  not  usable  as  an  agent  to  curve
+spacetime.
+
+Therefore, as  a curvature  agent, Einstein  only considered
+the weak  gravitational force due to the attraction of mass.
+Now the  G-force is  far, far  weaker than the E-force.  For
+two electrons,  for example,  the attractive G-force between
+them is on the order of only 10exp-42 times as strong as the
+electrical repulsion.   The  G-force is very, very weak!  If
+only the  weak G-force  is considered for curving spacetime,
+then there  will never be an observable spacetime curvature,
+except in  the immediate  vicinity of  a very  large mass __
+such as on the surface of the sun or a star.
+
+Einstein   reasoned    that   the    laboratory,   and   the
+observer/scientist and  instrument, would  never be  on  the
+surface of  the sun  or of  a star.  Therefore, he reasoned,
+the local spacetime -- where the  lab, the observer, and the
+ instruments  are  --  would  never  be  curved.  The local 
+spacetime would always be flat.
+
+Unfortunately, Einstein  then made  a fundamental error.  He
+overgeneralized his  thought examination.   He stated one of
+his fundamental  postulates of  general relativity  as  "The
+local  spacetime   is  always   flat."     This  is   overly
+restrictive, and  did not  follow from  his thought process.
+His postulate  can be  more accurately  stated  as  follows:
+"The local  spacetime is always flat, whenever only the weak
+gravitational force  is used  for the agent of curvature and
+the local  region of interest is not near a large collection
+of mass."
+
+Notice  the   difference  in   the  two  statements  of  the
+postulate.   Einstein's overstatement does not allow the far
+stronger EM  force to be used for curvature.  In effect, his
+own overstatement  excluded electromagnetics  from curvature
+unity  with  gravitation,  in  his  own  general  relativity
+theory.   Ironically Einstein then tried for the rest of his
+life  to   fit  electromagnetics  back  in  there  __  never
+realizing that  his own  too-strenuous statement of the flat
+local spacetime postulate doomed all his efforts to failure.
+
+On the  other hand, the corrected statement of his postulate
+admits the  following corollary:   "When a very strong force
+such as  the electromagnetic  force is used for the agent of
+curvature, the  local spacetime  may be  curved, even though
+the local  region of interest is not near a large collection
+of mass."
+
+As can  be seen, Einstein unwittingly wrote only a subset of
+his intended  theory.  Correct restatement of his overstated
+postulate of uncurved spacetime dramatically extends general
+relativity, and unites it with electromagnetics in a unified
+field theory.
+
+Einstein's  error   also  excluded   the   present   general
+relativity  from   ever  being   a  laboratory  experimental
+science.   If no detectable spacetime curvature is available
+locally, it  obviously can't  be measured  in the  lab.  The
+vanishingly small local curvature waves following from mass-
+attraction gravitation  are still  predicted to  be  several
+orders  of   magnitude  below  the  ability  of  the  finest
+available detector.  And that detector is a huge, monstrous,
+very costly  thing.   A  priori,  if  the  observer's  local
+spacetime is  always flat,  there is  no local experiment or
+local apparatus  that involves  or  yields  a  curved  local
+spacetime!
+
+Unfortunately,  Einstein's   modern  followers  have  raised
+Einsteinian general  relativity to a dogma.  They ruthlessly
+uphold  the   overstatement  of  the  flat  local  spacetime
+postulate.   Physicists who  would dispute it __ and quite a
+few would  do so  __ are  essentially barred  from obtaining
+funding.     If  they   persist  with  their  heresy,  their
+scientific stature  is lost, and they are ostracized and cut
+off economically.   Simply read Santilli's book, if you wish
+a  clear   inside  picture.    Contrary  to  the  scientific
+propaganda, orthodox  science is  ruthless in  defending its
+doctrine against all would-be heretics.  Much of science has
+been converted  to a  religion, instead  of a  science.  Any
+person knowledgeable of scientific history can cite numerous
+examples of scientific suppression, character assassination,
+and essentially  banishment.   Gauss's  nonlinear  geometry,
+Wegener's  continental   drift,  Mayer's  discovery  of  the
+conservation    of     energy,     Ovshinsky's     amorphous
+semiconductors, physical  therapy, the EKG, and the clinical
+use of  hypnosis come  readily to  mind.   Scientists form a
+distribution, just  like any  other group.  Some of them are
+saints.   Some of  them are  devils.   The broad majority is
+neither, but is made up of just ordinary people like you and
+me, doing  a specialized  job.   Every scientific  model  is
+known to be falsifiable and imperfect in the first place, if
+you believe  Godel's theorem.   Scientific  method does  not
+yield total  truth anyway,  by its own assertion; at best it
+yields a  partial truth.    By  the  Heisenberg  uncertainty
+principle, every  measurement distorts the entity with which
+the instrument  interacts, changing what actually appears to
+be measured.   Real  scientists know  that scientific models
+are progressive.   For  any model,  sooner or later a better
+one, an improvement, will be found.
+
+At any  rate, when one looks at Maxwell's quaternion theory,
+the scalar  component captured  the ability  to  enfold  and
+utilize the  strong electromagnetic  force to make a trapped
+potential filled  with a  structure  of  dynamic  EM  vector
+energy.   However, if  the  translation  components  of  the
+quaternion were zeroed, the system of trapped spatiotemporal
+energy did  not translate  spatially, but  only  temporally.
+That, of  course,  is  a  scalar  EM  potential  without  an
+external force-field  gradient.   Since it is really trapped
+energy that  gravitationally attracts  other trapped energy,
+then all  potentials are  gravitational __ as is well-known.
+
+In fact,  in 1968  Sakharov pointed  out that  gravitational
+field is  not actually  a primary field of nature.  Instead,
+it's always  a conglomerate  produced from other fields.  If
+his hypothesis  is true,  then to  the first  order  gravity
+should be  composed  of  electromagnetics,  since  it's  the
+strongest force we normally will be able to meet or utilize.
+
+Maxwell's quaternions  and Whittaker's  profound two  papers
+directly show that.  They also show how to engineer all this
+on the  laboratory  bench.    So  the  Whittaker  scalar  EM
+approach is  testable, which  meets the  major criterion for
+the difference  between a  hypothesis and  a  theory.    Any
+decent university  physics and/or electromagnetics staff who
+put their minds to it can test the approach.
+
+Question:   Are there other physicists or scientists to whom
+we should also give credit for these things?
+
+Yes.   I'd like  to mention that Nikola Tesla experimentally
+discovered the  standing scalar  EM potential  wave  on  the
+night of July 3-4, 1899, in his Colorado Springs laboratory.
+He found  it being  radiated from  a traveling thunderstorm.
+He recognized  it as  an "electromagnetic sound wave".  This
+was four years before, unknown to the world, Whittaker wrote
+and   published   the   precise   theory   for   that   same
+electrogravitational wave.  Tesla always stated that, in the
+remarkable systems  he later  referred to,  he was not using
+Hertzian waves.   Rather,  he pointed  out, he  was using EM
+sound waves  __ which must be modeled longitudinally.  Today
+we know  Tesla was  correct __  and all  his detractors were
+wrong.
+
+I'd also  like to  point out the patents and work of Hooper.
+Hooper seems  to be the only physicist who ever methodically
+investigated EM stresses, structuring of those stresses, and
+the gravitational  implications of  those  stresses  in  the
+laboratory.
+
+I'd like  to also  point out Sakharov, and honor him for his
+clear statement  that gravitation  is not  primary, but is a
+conglomerated field made from other fields.  One should also
+point  out   the  explosive   progress  made  in  stochastic
+electrodynamics as a result of Sakharov's suggestion, by Hal
+Puthoff  and  others.    And  one  should  definitely  honor
+scientists such  as Peter  Graneau, who  have  struggled  to
+point out  the foundations  problems of electromagnetics and
+experimentally back up their findings.
+
+And finally I'd like to mention that I've been privileged to
+work with  some extraordinary  inventors.   In deference  to
+their requests,  I will  not give  a straightforward list of
+them at  this time.   But  a great deal of any insight I may
+have gained  is in large part due to painstaking, maddening,
+persistent experiments  they have done in the thousands.  We
+will have  more to  say __  and powerfully  __  about  their
+actual contributions  at a  later date, hopefully later this
+year.   Lots of other brilliant inventors __ Moray and Sweet
+come readily  to mind  __ have  also struggled in this field
+and produced astonishing and unrewarded results.
+
+
+Question:  Can you spell out again what effect excluding the
+internal EM  energy had  on physics,  as simply as possible,
+and how that is related to vectors?
+
+The thing  that casting  out the internal order and internal
+structure  of   the  local   ST  does,   is  to  remove  any
+consideration of  hidden, deterministic variables that could
+be manipulated to create and control quantum change itself.
+
+As  can   be  seen,  then,  in  the  physical  world  scalar
+quantities are  very often really zero vector systems, where
+the "scalar"  or motionless  system is  actually filled with
+hosts of smaller "vector" things in violent motion.  We have
+to be  very careful,  therefore, when  we apply  mathematics
+(which does  not decompose fundamental scalars into vectors,
+or identify  them as  vector zeros) to a physical situation.
+To use  an extreme  example, two  elephants pushing strongly
+head-on against  each other  may  produce  a  "two-elephant"
+system of  opposing forces  (vectors), where  the system  is
+stationary.   The system  is thus  a zero  resultant  vector
+system, whose  motion is  represented by a vector zero.  The
+same would  be true for two fleas pushing against each other
+and not  moving as  a system;  the system  would be  a  zero
+resultant vector  system, whose  motion is  represented by a
+vector zero.
+
+And here's  where the  mathematics betrays  us, if  accepted
+unquestioningly.   In vector  analysis, all vector zeros are
+identical.  Here we  are saying that the translatory motions
+of the  flea system  and the  elephant system  are the same.
+That's true,  but there's  a whale of a lot of difference in
+the two  systems that  must be accounted for physically!  If
+you don't  believe that,  put yourself  in between  the  two
+pushing elephants,  and see  if that's  the  same  as  being
+between the  two pushing  fleas!   You'll certainly notice a
+lot more  stress on  you from  the elephants  than from  the
+fleas.
+
+That illustrates a fundamental problem with vector analysis.
+In the  concepts of the math itself, one conceives a "vector
+space" as  a sort  of "place  where one  can  put  vectors."
+Further, no  matter how many vectors we put in there, or how
+they interact,  the vector  space itself  is never under any
+stress.  In other words, in that space, elephant-pushing and
+flea-pushing are  identically the  same.    And  that's  the
+problem.   When  vector  analysis  is  applied  to  physical
+situations,  imbedded   inside  the  mathematics  of  vector
+analysis itself  is the absolute discarding of the stress of
+local space  or spacetime, resulting from the interaction of
+vectors   representing    interacting   motional    physical
+quantities.
+
+Now in  quaternions, that is not the case.  Quaternions that
+interact  capture  this  "local  stress  of  spacetime"  and
+"locally  trapped   energy  of   spacetime"  in  the  scalar
+component,  inside   it.     When  the   motional  parts  of
+interacting   quaternions    produce   a    motionless    or
+translationless state for the interacting parts as a system,
+the stress,  energy, and  exact geometric  patterning of the
+interactants that  are now  locally trapped  in spacetime is
+gathered in  and accounted  for.  The motional aspect may go
+to zero,  but  the  scalar  aspect  will  capture  not  only
+magnitude  but   internal  motion   and  the  exact  dynamic
+structure of that internal motion.
+
+Quaternions already  incorporate a beautiful hidden variable
+theory,  analogous   to  Bohm's   beautiful  work.      They
+incorporate two channels: the external energy channel (which
+is addressed,  for example,  by classical Heaviside/Gibbs EM
+theory), and also a hidden internal energy channel (which is
+not  addressed   by  Heaviside/Gibbs).     Quaternions  also
+incorporate  hyperspatial   aspects,  since   they  are   an
+extension to  complex number  theory.  Notice that Heaviside
+had to  stick back  in complex  numbers, to  get his spatial
+vectors  to   unite  magnetism   and  electricity.    So  he
+essentially added one extra dimension, typified by the first
+hypernumber, the  square root  of minus  one.    Quaternions
+already had  that in  there, and  a lot  more that Heaviside
+threw out.
+
+Question:     Would  you  sum  up  how  general  relativity,
+electromagnetics, and  quantum mechanics  are unified by the
+Whittaker approach?
+
+Yes.   Applying Whittaker's  work to  each of  the three,  a
+superset of  it is  produced.   The  new  superset  has  two
+subsets: the present discipline and the extension containing
+internal EM  energy and  hidden variable  theory.  Since all
+three extensions are actually the same thing, then all three
+supersets superpose  on the  common extension  set.  Each of
+the present  three disciplines  is revealed  to be a special
+case, which  unfortunately omitted  the  unifying  extension
+set.   It's like a topless cardboard box that you've cut the
+bottom out  and outfolded  the  sides  separately.    To  be
+joined, those  separate sides  need the  bottom of  the box.
+Whittaker provides the bottom.  And it's testable.
+
+Question:   Are there  any other fundamental things from all
+this  that  you'd  like  to  point  out,  that  you  haven't
+mentioned, that follow from the eventual development of this
+new physics?
+
+Several.   Please  notice  that  Whittaker's  work  and  the
+characteristics  of   Maxwell's  scalar   component  of  the
+quaternion allow  the direct  electromagnetic engineering of
+the vacuum.   In  fact, they  allow the actually structuring
+and variation of massless electric charge flux itself.  Now,
+in the  new approach,   one  electron can be quite different
+from another, because its electric charge flux can be varied
+and patterned.   Not  only can its overall electrical charge
+be varied,  but its  charge can  be dynamically  structured.
+Now the  charge of an electron or other fundamental particle
+can vary,  and the  charge flux  of a  single particle (or a
+group) can be spatially structured __ or activated.
+
+The activation concept, for example, allows an immediate and
+testable explanation  of the  mechanism by  means  of  which
+homeopathy  works.     Recall   what  I   said  about  water
+structuring and  hydrancephaly.   A chemical  compound has a
+deterministic infolded  EM Whittaker structure.  If you make
+a solution  of the compound, you change this hidden internal
+energy structure  of the  fluid.  If you then get rid of the
+physical carrier __ the mass of the original compound __ and
+just leave the inner energy structure for that compound, you
+have homeopathy.   Chemistry  is totally  due to  charge and
+charge distribution.   In  homeopathy you're  retaining  the
+charge template  in the  potential, and that affects charges
+in the  treated body  just like  the actual  medication.  In
+fact better,  because you  now do  not  have  the  "physical
+residue" to  worry with,  but do things directly.  These new
+concepts are  profound  and  controversial  changes  to  the
+present foundations assumptions of physics and biology.
+
+In the  new approach,  you can't  just  automatically  apply
+random variable  statistics.   You have  to apply chaos.  In
+structuring the  vacuum's virtual  photon exchange  with the
+mass of  a charged  particle, we  have moved to a completely
+new and much more fundamental level of engineering.  Now the
+massless virtual  particle charge flux can be activated with
+a particular  dynamic structure  __ a  vacuum engine, if you
+will __  to perform  a special  job.   Or we  can activate a
+local  spacetime   itself,   curving   it   and   internally
+structuring that curvature to our will.  That locally curved
+spacetime then becomes a continuing, inexhaustible source of
+a specialized  vacuum engine  or engines.  We can tailor the
+local vacuum  so as to be able to violate any and all of the
+present conservation  laws, not just two out of three as the
+present CPT  theorem permits.   Literally  we  can  use  the
+vacuum's  incredibly  powerful  flux  to  produce  localized
+vacuum engines.   We  can reach  directly  into  the  atomic
+nuclei with  magic, gentle,  accurately controlled  fingers.
+
+We can  for the  first time begin to do actual tailoring and
+engineering of  the nucleus itself.  We can further directly
+collect and  integrate virtual  state energy forms, which in
+QM are called "ghost forms."  Literally, eventually anything
+at  all  can  be  materialized  and  brought  into  physical
+reality, or  dematerialized so as to disappear from physical
+reality.   And we  shall be  able to engineer and change the
+local laws  of nature,  since we  can directly  engineer and
+control the  Schroedinger equation,  the quantum potentials,
+and the  entire local  vacuum potential  in all  its partial
+potential parts.
+
+Whether we're  ready or not, God has now seen fit to hand to
+humankind the  ability to  engineer its own physical reality
+and its  own destiny.   We  can make  of the  new engineered
+reality a  heaven or  a hell.  Whichever we do, we will reap
+the benefits  or face  the consequences.  It would indeed be
+wonderful if,  for the  first time,  we could  develop  this
+powerful new tool to save humankind rather than destroy it.
+
+********end of interview**************

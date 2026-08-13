@@ -1,0 +1,637 @@
+LEGEND:
+_text_ = underlined text
+*text* = bold text
+\text\ = italic text
+_\text\_ = underlined and italic text
+x^2 = x squared, or x superscript 2
+x_2 = x index 2, or x subscript 2
+@   = filled black dot (like scalar product) in original text
+Phi = Greek letter Phi for the Scalar Electrostatic Potential field
+Del = Greek letter Nabla (upside down triangle)
+|x| = Absolute value of x (only positive)
+==  = Identity symbol (3 parallel bars)
+uf  = microFarad
+
+
+          *PRACTICAL OVERUNITY ELECTRICAL DEVICES*
+
+                    (C) T.E. Bearden
+                      May 13, 1994
+
+                      *Introduction*
+
+     Recently, my associates and I have filed a patent application 
+on what we believe will at long last reveal the mechanisms for 
+practical overunity electrical devices.  It is my purpose in 
+this paper to provide additional information augmenting my former
+ two papers, (1) "The Final Secret of Free Energy," Feb. 1993, 
+and (2) "Additional Information on the Final Secret of Free 
+Energy," Feb. 1994.  In this present paper, with the permission 
+of my colleagues, I release the gist of our work on separation of 
+electrical charge into two coupled components (Phi)@(m),  where  
+Phi@  represents the massless charge of the charged particle or 
+mass,  @  represents the fact that it is coupled or trying to 
+couple to the special mass that makes up charged particles [i.e., 
+the special kind of mass that will couple to the virtual photon 
+flux density that is represented by the symbol Phi], and m 
+represents the inert mass component of the charged mass.  Since 
+not all masses will couple with  Phi@, we indicate the type of 
+mass that \will\ couple with it, as  @m.  Thus a charged mass is 
+composed of (Phi@)@(@m), which we consolidate to (Phi)@(m).
+     
+                    *Charge Is Not Quantized*
+
+     An interesting immediate result is that the massless charge
+of a fundamental charged particle is not quantized; it changes as
+a function of the background potential in which it is embedded. 
+So it is discretized as a function of the background potential
+(i.e., of the virtual photon flux exchange between it and the
+surrounding vacuum).  Otherwise, e.g., there could be no  Del Phi 
+created on any charged particle q, and hence no E-field, and
+hence electrons would not move in our present circuits.  Since
+they do move in our circuits, charge is not quantized.
+
+             *Electrical Current Has Two Components*
+
+     The first key to understanding free energy electrical and
+magnetic machines is to realize that electrical current actually
+consists of two currents coupled together.  Our treatment of an
+electric charge as a coupled system  (Phi)@(m)  also means that
+electron current  i = dq/dt  is comprised of two coupled
+components  [(dPhi/dt)@(dm/dt)].  This follows from simply
+invoking the operator d/dt;  i.e., d/dt[(Phi)@(m)] =
+(dPhi/dt)@(dm/dt),  which is the same as  [(dPhi/dt@)@(@dm/dt)]. 
+The component  (dPhi/dt)@  is the known but not well understood
+_massless displacement current_, while the component  @(dm/dt) 
+is the _mass displacement current_, and the coupling operator  @ 
+means "coupled to" or "trying to couple to".  The coupling
+operator represents a real physical operation: the exchange of
+virtual photons between the vacuum potential and the charged
+mass.  Any potential  Phi_1@  is considered to be a potential
+that is superposed upon the ambient vacuum potential  Phi_0@,  to
+provide a potential  (Phi_0+Phi_1)@.  The ambient vacuum
+potential does not disappear merely because we add another
+potential to it!  
+
+          *Confusion In Present Electrical Physics*
+
+     We point out that, in physics books of note, the overt
+coupling effect is essentially unknown or ignored because physics
+presently has not defined either the scalar potential or the
+electrical charge.  The conventional theory simply uses an
+"inert" expression  dPhi/dt  to represent the displacement
+current (and another inert expression q for a charged mass), and
+most theoreticians are uncomfortable even with that.  The
+displacement current is also confused with force by equating the
+displacement current  dPhi/dt  to  dE/dt.  In turn, this means
+that  dPhi/dt  is confused with mass, hence with  dm/dt,  which
+latter is also a component of  dq/dt.  m is always an \internal
+component\ of force, as is known in foundations of physics but
+this fact continues to remain completely oblivious to the
+electricians.  [\Good\ electrical theorists do admit that there
+is no force in the vacuum; and that the force associated with the
+E-field is evidenced only in the interacting mass.  However, they
+continue to maintain the E-field (force per point-coulomb of
+charged mass) in the vacuum, when there are no point-coulombs of
+charged mass there!
+
+          *Mass Is an Internal Component of Force*
+
+     It is easy to show that mass is always a component of force: 
+We will simply define \force/ precisely.  We first insist that no
+equation can be used as a definition; an equation simply states
+that the magnitude of one of its sides and the magnitude of the
+other side are equal.  (The length of a board and the length of a
+human may be equal, but writing that as an equation has
+absolutely nothing to do with the definition of either a board or
+a human).  So we will insist that any true definition must be an
+_\identity\_.
+ 
+     We define force F as  F == d/dt(mv), whereupon mass is a
+component of force \a priori\.  It follows that, if we define the
+E-field  E  as the force per coulomb, we are defining it as the
+force existing at a point and having  a point-coulomb of charged
+mass as one of its major components.  We may accurately now
+define E as  E == -[(Del Phi)@(q)]/|q|, where the absolute value
+symbol in the denominator is essential,  q/|q|  being one
+point-coulomb.  [We leave as an exercise for the reader the
+further reduction of this definition by treating  q  as 
+@(Phi@m)].
+
+      At any rate, with the new and correct definition of the
+E-field, one can see that the flow  of displacement current 
+(dPhi/dt)  upon a collector such as a rigid capacitor, containing
+a fixed charge  @(Phi@m), will result in the formation of an
+excess  Del Phi@  upon those restrained charges in the capacitor
+plate, so that there is created an  E == -[(Del Phi)@(q)]/|q|. 
+Since the conventional theory considers the antigradient of the
+potential as an E-field, then one can now see the exact mechanism
+that creates this E-field that grows upon the capacitor (across
+its plates) as it charges.  In fact, the q/|q|  cannot change in
+a capacitor if its plates and dielectric are immovable.  Instead,
+in that case, the  Phi@  portion of the trapped  @(q)  changes,
+producing the  (Del Phi)@  change.  Since the  (Del Phi)@ 
+component  is coupled to the mass component of the fixed  @q  as 
+(Phi+Del Phi)@m,  then an E-field is created and exists as  
+E == -[(Del Phi)@(q)]/|q|.
+
+       *An Ideal Capacitor Is an Electron Current Blocker*
+
+     We point out that, if the capacitor's components are ideal, 
+\completely rigid\, and do not physically move, then the
+capacitor is a "@dm/dt blocker."  If the charges really were
+frozen in place, then the potential would flow across the plates
+at the speed of light, via the flow of excess massless
+displacement current dPhi/dt@.  In that case, an ammeter would
+not show the classical "exponential fall-off" of the current with
+time; the electron current  dq/dt  would occur as a single-point
+Dirac delta function at t=0, and would be zero thereafter.  And
+no electrons would be able to move in zero time.  The voltage
+would show an instantaneous adjustment to the charged value with
+a single step-function, and the capacitor would charge up fully,
+instantly, with no work (energy loss) whatsoever being done.  And
+this charge-up of the capacitor  would not dissipate in the
+slightest the source furnishing the voltage; there would be no
+electron current  dq/dt  through the back EMF of the source,
+hence no work inside it to deplete its separation of charges.
+
+               *Problems With Ordinary Capacitors*
+
+      However, most ordinary capacitors are much more than just
+an ideal capacitor.  The plates move, the dielectric moves, etc.
+due to the forces created upon them by the E-fields created upon
+the trapped charges in them.  The spatial translation of the
+resulting force moving the plates constitutes work; i.e., it
+dissipates some of the flowing  dPhi/dt  energy.  Each movement
+of the plates and/or dielectric carries with it all its
+internally trapped charges.  The movement of those charges
+constitutes a substantial longitudinal electron current  dq/dt, 
+when compared to the longitudinal "drift" electron current in
+normal circuits.  [Electrons spend most of their time moving
+radially in a wire, not down it.]  This "moving plate and its
+transported charges" make an electron current, which pumps the
+inert electrons in the ground return line back through the back
+EMF of the source, depleting the source.  Consequently, the
+ordinary capacitor will simply release as much energy as work (to
+move the plates and dielectric) as it stored.  Hence, it will
+also produce dissipation of the source via the amount of energy
+stored in the capacitor.  You still get "free energy" stored in
+the capacitor, but also dissipate the source by an equal amount.
+
+               *Rigidized Capacitors Must Be Used*
+
+     Only rigidized capacitive collectors are useful in free
+energy devices.  Such capacitors are in fact actually available,
+e.g., as calibration standards, but they are extremely expensive
+($400 to $2,000  or so each, for a capacitance reaching about 1 uf).
+
+     So, capacitive type collectors must be rigidized, if used in
+overunity circuitry.  Even so, in a single integrated circuit,
+although one collects free energy, one will use half of what was
+collected to dissipate the source.  Not all the remaining half
+will be discharged through the load; some will be discharged in
+other circuit and component losses.  Hence, there will always be
+less work done in the load than is done in the source to kill it,
+by a conventional two wire single closed circuit.  In my second
+referenced paper (Feb.94),  I included precise proof that this is
+true.  One must use energy collection and shuttling between two
+isolated circuits, and the load discharge current must not pass
+back through the primary source of potential.
+
+     We have previously provided precisely how to utilize
+capacitive collectors in our two referenced papers.  We point out
+here that the capacitors must be calibration standard capacitors,
+or specially made rigidized capacitors.
+
+*It Does Not Require Electron Current to Charge An Ideal Capacitor*
+
+     For the benefit of the skeptic, this is already proven.  We
+simply list references (2) and point out the equation that
+represents the energy K in a charged capacitor.  Here we have 
+K = 1/2(CV)^2.  It is totally the displacement current  dPhi/dt@ 
+flowing (from a higher potential) onto the charging plate that
+produces the higher potential Phi on that charging  plate, and
+hence a V between the two plates, one of them (the "ground" side)
+being held at a constant potential.  _The mass displacement
+current component dm/dt of the electron current  dq/dt  has
+nothing whatsoever to do with energy accumulation; it has only to
+do with the dissipation of energy that is happening
+simultaneously in all losses and loads in the circuit loop_.
+
+     We reiterate that most ordinary capacitors have terrible
+internal movement, and accomplish as much energy dissipation as
+they do energy collection by permitting  dq/dt  and work
+performed upon the plates and dielectric to move them.  The
+standard two-wire circuit also guarantees that all such  dq/dt 
+current "through" the capacitor is passed back through the source
+against its back EMF, doing an equal amount of work in the source
+to dissipate its separation of charges and "destroy" the source.
+
+     An ideal capacitor does not pass  dq/dt,  but only massless
+displacement current as theorized by Maxwell to save current
+continuity in a circuit containing a capacitor, and hence to save
+Ampere's current law.  That is, an ideal capacitor is a  @dm/dt 
+blocking device.  However, the capacitors utilized in normal
+circuits are not ideal capacitors at all.  By allowing the plates
+to move, electron current  dq/dt  is created on both sides of the
+capacitor.  Otherwise there would not be a ground return  dq/dt, 
+but only a ground return dPhi/dt@.  This  dPhi/dt@  would not and
+does not push electrons back up through the source against its
+back EMF;  else the ground side of the source, which is engaged
+in continuous  dPhi/dt@  exchanges with the vacuum, would produce
+destructive amperage  dPhi/dt@  in the battery or potentialized
+source, against its back EMF, while it was simply sitting on the
+shelf.  In fact, a flow of  dPhi/dt@  continually runs from the
+vacuum to the positive terminal, then through the inside of the
+battery to the negative terminal,  and thence back to the
+surrounding  vacuum.  Also, the incoming flow from the vacuum
+"splits" at the positive terminal, where one branch flows inside
+the source to the negative terminal, and the other branch flows
+through the external circuit to the ground return line, and
+thence to negative terminal and back to the vacuum.  In the
+external circuit, the dPhi/dt@  hooks to free electrons and moves
+them as ordinary  dq/dt.  In the internal circuit inside the
+source, the electrons are restrained, hence they only move when
+their restraint is overcome. 
+
+          *Displacement Current  dPhi/dt  Is Real*
+
+     In recent years, SQUID detectors have been utilized to
+detect the magnetic field created between the plates (at right
+angles) by the displacement current  dPhi/dt  between the plates,
+providing strong evidence that displacement current is physically
+real.  The best proof that it is real is a charge blocking
+device, two isolated circuits using energy collection and
+shuttling, and overunity powering of loads in the secondary
+circuit.
+
+     *A Problem With Ammeters and Measurement of  dPhi/dt*
+
+     Note that an ammeter cannot differentiate between
+displacement current  dPhi/dt@  and normal current  dq/dt.  In
+the ammeter, the sample dPhi/dt@  will couple to free electrons,
+producing a normal  dq/dt inside the ammeter.  The driving of
+this  dq/dt  through a precision resistance, e.g., is measured
+and the instrument is calibrated to show the  dq/dt  amperes
+flowing.  One of the major needs of free energy researchers is
+the development of a good current meter that will differentiate
+between  dPhi/dt@  and  dq/dt,  and measure each one.  Short of
+using a mass spectrometer to differentiate the mass current  
+@dm/dt, and comparison of those mass current measurements with an
+ammeter's measurements of the "current"  dq/dt,  and calculating
+the  dPhi/dt@  from that,  I presently know of no way to
+precisely and simply measure and  separate the two current
+components.  I have been thinking of utilizing a multi-channel
+sampling meter set arrangement, where one channel uses a  @dm/dt 
+blocking device such as the Fogal semiconductor in this respect,
+but have not yet developed the complete concept.
+
+          *Better Solution:  A Charge Blocking Device*
+
+     A better solution than the capacitor or capacitive collector
+is the use of  a  special rigid solid state "charge blocking
+device", such as a Fogal semiconductor, to enable the current
+separation into two components, blocking of the mass flow
+component, and passage of the massless displacement current
+component.  _\In overunity electrical devices, it is massless
+displacement current  dPhi/dt@  that must be separately passed
+down the primary circuit and collected in the collector as an
+E-field or an H-field.  This provides "free" energy that has
+been extracted from the vacuum, via the potential difference
+between the terminals of the source antenna, and collected and
+stored in the appropriate field, without work\_.  The collected
+free energy may then be transferred to the isolated load circuit
+by a variety of means, for separate discharge through the load
+without return of dq/dt through the source. 
+
+*The Fogal Semiconductor Meets the Charge-Blocking Requirements*
+
+     Fogal's marvelous semiconductor blocks passage of electrons
+into its output terminal, but passes displacement current 
+dPhi/dt@  into it.  The semiconductor is powered by (receives)
+normal electron current and excess  dPhi/dt@,  but outputs pure
+massless displacement current  dPhi/dt@.  A charge blocker that
+passes  dPhi/dt@  is ideal for our overunity mechanisms, enabling
+them to be readily obtained as we shall shortly see.  
+
+     *Energy, Flow, Finite Amount of Energy, and Collectors*
+
+     We accent that the flow of _energy_ in an electrical circuit
+is purely by means of the massless displacement current component
+(dPhi/dt)@.  The flow of the mass component  @(dm/dt)  represents
+the "flow of work" (_\energy dissipation\_) in the circuit. 
+Power is rigorously the time rate of doing work, and electron
+current  dq/dt  is a part of power.  It has nothing whatsoever to
+do with the time rate at which \energy is transported without
+loss\; instead, power represents the rate at which energy "leaks"
+or is "lost" during  its transport.
+
+     All measurement is work, not energy.  Energy cannot be
+measured, even in theory, a priori.  Energy is also a flow
+process, and never a finite amount in one location.  A specific
+differential of energy flow may exist on a specific finite
+collector.  However, it only represents a certain constant
+differential amount of energy flow compared to the universal
+vacuum energy flow or some other flow reference point.  It is
+like a whirlpool in the river.  Energy is like the flowing water,
+and an "amount" of energy is like the amount of water in the
+collecting whirlpool form (between its input flow and its output
+flow) at any time.  Obviously, energy (ordering) forms can come
+and go; the water flow itself remains.  Any "magnitude of energy"
+is always a "trapped" amount of energy in a "collector" (form).
+
+     *Decoupling Current Components and Utilizing  dPhi/dt*
+
+     The two components of electron current  dq/dt can be
+decoupled, by blocking the  @dm/dt component  while allowing the 
+dPhi/dt@  displacement current to continue to flow.  In our first
+paper, we pointed out one way:  utilizing a special degenerate
+semiconductor material whose electron gas relaxation time is
+extended, providing a finite time during which the material
+serves as a _\charge (i.e., a charged particle) blocking
+device\_, while passing the flow of potential (the  dPhi/dt@ 
+massless displacement current component) and restraining the mass
+displacement current component  @dm/dt.  With the advent of
+Fogal's semiconductor, the process becomes much easier to obtain
+and utilize in practical machines and circuits.
+
+     In our second paper, we pointed out a second way:  utilize
+an ordinary capacitor and ramp-up step-charging.  We found,
+however, that in most ordinary capacitors, the capacitive aspect
+is defeated by the sloppy movement of the plates and dielectric,
+converting  dPhi/dt@  into dq/dt.  Only a few very carefully
+selected capacitors are sufficiently rigid and can provide
+overunity.  One must use _\rigidized\_ calibration standard
+capacitors for the ramp-charging by series steps method to be
+successful.  With ordinary capacitors, however, one can readily
+demonstrate that the efficiency can approach 1.0 rather than 0.50
+as expected.
+
+*Overunity Secrets:  Charge Blocking, Collection, Shuttling, and
+Two Isolated Circuits*
+
+      The charge (actually \charged mass\)  blocking approach
+provides a massless, free flow of vacuum EM energy that can be
+directed to a collector (capacitive or inductive) where it can be
+stored in either an E-field or a B-field.  This stored energy can
+then be transferred to an isolated load circuit whose electrons
+(and hence their  @dm/dt  mass displacement current) are free to
+flow as  dq/dt.  In the isolated load circuit, then, the two
+components  [(dPhi/dt)@(dm/dt)]  again couple to form  i = dq/dt
+=  [(dPhi/dt)@(dm/dt)],  powering the load.  All work in an
+electrical circuit is due to the mass displacement current 
+@dm/dt  component; the massless displacement current  (dPhi/dt)@ 
+is a flow of pure energy transport without loss, as is
+well-known.  (For example, see Reference 4.)
+
+     Therefore, the first major free energy secret is simply to
+block the "working" component  @dm/dt  of the current  dq/dt 
+while allowing the excess "lossless energy flow" component 
+dPhi/dt@  to flow to collectors to produce either free E-field or
+free B-field thereupon.
+
+     The second major secret is to transfer the collected excess
+free energy (via energy shuttling) to a second, isolated, load
+circuit, where the energy is discharged through the load in the
+conventional fashion (i.e., such that the two current components
+are coupled, and electron current  i = dq/dt  occurs through the
+load).  The second circuit must be isolated from the original
+collection circuit, so that none of the load electron current 
+dq/dt  passes back through the original source, against its back
+EMF.
+
+     Should the grounds be the same between the load circuit and
+the collection circuit so that load electron current is returned
+through the back EMF of the primary source, then exactly as much
+excess work will be done inside the source to dissipate its
+separation of charges as was done in the external load to furnish
+useful work and in the external losses.  In that case, overunity
+is destroyed, because one is using one-half the excess free
+energy to destroy the source faster, while the remaining half is
+distributed among all external loads and losses.  Since there are
+always some external losses besides the load, then the ratio of
+load power to source dissipation power is always less than unity
+in a conventional closed-loop circuit containing both load and
+source.  Hence the necessity for utilizing two isolated circuits:
+one where energy is collected freely from the source, and one
+where energy is dissipated as work in the load without 
+dissipative work in the source, and energy shuttling between
+them.
+
+               *A Simple Open-Loop Overunity Device*
+
+     Figure 1  shows a very simple but very powerfully amplified
+overunity device, using an AC charge blocking semiconductor 
+(CBS) (such as a Fogal semiconductor).  The gist of the circuit
+is that an AC source furnishes AC current  dq/dt  to the CBS,
+which uses some of the power to power itself, but then blocks the 
+@dm/dt  portion of the  dq/dt  input current, passing only the
+massless displacement current component (dPhi/dt@) into its
+output circuit.  The  (dPhi/dt@)  output of the CBS is fed
+through the primary winding of a transformer, in this case a
+step-up transformer.  The "current gain" of the CBS will depend
+upon (1) the load connected to it, and (2) the ability of the CBS
+to continue to block the increasing E-field on its trapped
+charges, as more free energy flow  (dPhi/dt@)  is drawn through
+it by the load.  Thus the load and the CBS must be matched within
+the operational ability of the CBS, so that the CBS does not fail
+catastrophically.
+
+     In the primary winding of the transformer, the  (dPhi/dt@) 
+displacement current produces a magnetic field H, storing the
+excess flowing energy in that field.  This is a normal magnetic
+field; all magnetic fields are produced by the  (dPhi/dt@) 
+component of the current anyway.  This magnetic field, as it
+changes, couples to the secondary winding, producing a normal
+magnetic field H therein by normal means.  In the secondary
+circuit, electrons are not restrained by a CBS.  Hence the 
+(dPhi/dt@)  induced in the circuit on the secondary side couples
+to the unrestrained electrons, producing normal electron current
+dq/dt, and driving it through the load to power it.  Note that
+_\energy\_ is conserved across the primary and the secondary;
+however, _\dissipative power and work\ (energy loss rate and
+energy loss)_ are not conserved, because a free flow of lossless
+excess energy in the form of displacement current is flowing from
+the vacuum through the source antenna, thence to the CBS, through
+it to the primary of the transformer and into the primary
+magnetic field, through it to the secondary magnetic field,
+through it into the  (dPhi/dt@)  induced in the secondary circuit
+and coupled to the electrons, through the resulting  dq/dt  into
+the load, where the scattering of photons as heat dissipates the
+free flowing energy in the displacement current  dPhi/dt@ 
+component flowing through the load as a component of  
+dq/dt = (dPhi/dt@)@( @dm/dt) = (dPhi/dt)@(dm/dt).
+
+                    *Free "Power" Amplification*
+
+     If one places an ammeter in the output from the CBS, between
+it and the primary winding of the step-up transformer, one will
+read the  (dPhi/dt@)  as \normal  dq/dt  in the ammeter itself\. 
+If one calculates the "free power" (i.e., the rate of energy
+dissipation) that is going into the transformer primary using
+this as the "current,"  one will show that energy and "power" are
+conserved between primary and secondary of the transformer. 
+However, the actual dissipative power going into the primary side 
+is zero or, in real circuits, vanishingly small.  Consequently,
+the device has a very high variable power gain that depends upon
+the _rate of energy draw and dissipation_ of the load on the
+secondary side.  If one adds more load, one draws more dq/dt
+current on the secondary side, hence more excess  dPhi/dt@ 
+displacement current on the primary side.  The overall "power
+amplification" is limited by the ability of the transformer to
+handle the power in the secondary and the ability of the  CBS to
+withstand the pressure of the internal charge barrier.  This
+device can be easily "close-looped."
+
+*The Negative Resistor: A Close-Looped "CBS and Shuttle" System*
+
+     Figure 2 shows the close-looping of the device shown in
+Figure 1, in such manner that, once stable operation is underway
+and the load and input stabilized, the ordinary power supply for
+the CBS can be switched out of the circuit.  In this case, the
+circuit operates as a self-powered overunity device; i.e., as a
+_\negative resistor\_.
+
+     A normal resistor receives an ordered energy flow from its
+external circuit and scatters this energy as work out to the
+vacuum.  I.e., it receives  i = (Phi+Del Phi)/dt@(dm/dt)
+(scatters the excess  (Del Phi)/dt@   component (i.e., of the 
+dq/dt  passing into it from the high potential side) by radiating
+it away to the surrounding vacuum as scattered photons (heat)),
+and outputs inert (no excess  (Del Phi)@  component) electron
+current dq/dt  into  the ground side.
+
+     A negative resistor does exactly the opposite:  it accepts
+inert incoming electrons from its "ground" side, also accepts
+incoming (converging)  dPhi/dt@  energy from the vacuum as
+virtual photons being absorbed upon these inert electrons so that
+a  Del Phi@  is added to the electron current, creating an
+excited, excess energy-carrying  i =  (Phi+Del Phi)/dt@(dm/dt), 
+and passes this excited current out of its high side and out into
+the external circuit to power the circuit.  In other words, the
+negative resistor becomes a _\self-contained free power source\_,
+once brought up to stable operation.
+
+     In Figure 1, all that needs to be done is simply to extract
+some of the secondary power and feed it back to create the power
+input consumed by the CBS and the other normal components of the
+primary circuit side of the transformer.
+
+     Multitaps can be added to the secondary side, to provide
+varying voltage power supplies for loads requiring different
+voltages.
+
+     Energy is conserved in the device, because it always
+functions as an open circuit, receiving excess energy from an
+external source (the surrounding vacuum, in its virtual photon
+exchange with the charges in the system).  It is far from
+thermodynamic equilibrium, and classical thermodynamics
+(including the second law) does not apply.
+
+     It is simply a continuous free power supply:  it is a
+\negative resistor\.
+
+     Far more complicated units can be designed and produced. 
+The basic point is that this type of overunity power supply is
+continuous and self-powered, driven by the violent exchange of
+energy from the vacuum, and simply collecting and gating some of
+that energy to the load to power the load.
+
+                         *Conclusion*
+
+     With this third paper, we complete the triad of papers we
+set out to write a little over a year ago.  With the availability
+of charge barrier devices such as the Fogal semiconductor,
+together with the collection, shuttling, and use of free 
+dPhi/dt@  flowing energy, the _\Age of Free, Clean, Electrical
+Energy\_ has finally dawned.
+
+     Let us use it wisely, and for the betterment of humankind,
+not for its destruction. 
+
+[Support of portions of this research by A.D.A.S. is gratefully
+acknowledged.]
+
+                    _*References and Notes*_
+
+1.   Bearden, T.E., Feb. 9, 1993, "The Final Secret of Free 
+Energy," ADAS, distributed over Internet.  The paper was also 
+published in _Magnets_, 7(5), May 1993, p.4-26, in _Explore!_, 
+4(3/4), 1993, p.112-126, and in several other media.  See also 
+Bearden, T.E., "Additional Information on the Final Secret of 
+Free Energy," Feb. 15, 1994, distributed on Internet.
+
+2.   For proof that an ordinary capacitor can be charged almost
+without entropy, see Fundaun, I., C. Reese, and H.H. Soonpaa,
+"Charging a Capacitor," _American Journal of Physics_, 60(11),
+Nov. 1992, p.1047-1048.  See also Calkin, M.G. and D. Kiang,
+"Entropy change and reversibility," _American Journal of
+Physics_, 51(1), Jan. 1983, p.78-79.  See also Heinrich, F.,
+"Entropy change when charging a capacitor: A demonstration
+experiment," _American Journal of Physics_, 54(8), Aug. 1986,
+p.742-744.  See also Gupta, V.K., Gauri Shanker, and N.K. Sharma,
+"Reversibility and step processes: An experiment for the
+undergraduate laboratory," _American Journal of Physics_, 52(10),
+Oct. 1984, p.945-947.
+
+3.   In most texts, the treatment of displacement current is far
+from adequate.  A better treatment than most is given by Krauss,
+John D., _Electromagnetics_, Fourth Edition, McGraw-Hill, New
+York, p.437-439, 547-549.  This treatment must still be augmented
+by treatment from other texts, and the ensemble "synthesized." 
+Even then, it will never be completely clear until the separation
+of mass from the massless charge, and separate accounting of the
+two, is accomplished in the manner pointed out by the present
+paper.
+
+4.   For a typical confirmation that massless displacement
+current is already known to be lossless transport of energy
+without entropy, i.e., without work, see Buchwald, Jed Z., _From
+Maxwell to Microphysics_, University of Chicago Press, Chicago
+and London, 1985, p.44.  Quoting:  "...no energy transformation
+into heat occurs for displacement currents."  It should be
+obvious from this fact alone that the proper way to accomplish
+overunity in electrical devices is to utilize the massless
+displacement current to flow and store excess energy, then use a
+"heat pump" type cycle to transfer the collected energy to a
+separate load circuit and discharge it separately in the load.
+
+5.   For a very recent proof that the potential is a flow
+process, and in fact consists of bidirectional EM waves, see
+Hsue, C.W., "A DC Voltage is Equivalent to Two Traveling Waves on
+a Lossless, Nonuniform Transmission Line," _IEEE Microwave and
+Guided Wave Letters_, 1993, Vol. 3, p.82-84.
+
+6.   For proof that the vacuum EM zero-point energy is
+continually produced by a cosmological feedback from every
+charged particle in the universe, see Puthoff, H.E. , "Source of
+Vacuum Electromagnetic Zero-point Energy," _Physical Review A_,
+40(9), Nov. 1,  1989, p.4857-4862.
+
+7.   For proof that in theory the vacuum energy can be tapped,
+see Cole, daniel C. and Harold E. Puthoff, "Extracting Energy and
+Heat from the Vacuum," _Physical Review E_, Vol. 48, No. 2, 
+Aug. 1993, p.1562-1565.
+
+8.   For proof that a higher topology examination of EM phenomena
+allows energy collection as potentials and energy shuttling in
+circuits, see Barrett, T.W., _Annales de la Fondation Louis de
+Broglie_, Vol.16, No. 1, 1991, p.23-41.  Barrett shows that EM
+expressed in quaternions allows shuttling and storage of
+potentials in circuits, and also allows additional EM functioning
+of a circuit that a conventional EM analysis cannot reveal.  He
+in fact shows that Tesla's patented circuits did exactly this.
+
+9.   Stoney, G.J. (1897)  "XLVII.  On a Supposed Proof of a
+Theorem in Wave Motion, To the Editors of the Philosophical
+Magazine," _Philosophical Magazine_, 5(43), 1897, p.368-373. 
+Stoney first pointed out the bidirectional EM wave decomposition
+of the scalar potential.
+
+10.  Whittaker, E.T.,  "On the Partial Differential Equations of
+Mathematical Physics," _Mathematische Annalen_, Vol. 57, 1903,
+p.333-355;  "On an Expression of the Electromagnetic Field Due to
+Electrons by Means of Two Scalar Potential Functions,"
+_Proceedings of the London Mathematical Society_, Series 2, 
+Vol.1, 1904,  p.367-372. 
+

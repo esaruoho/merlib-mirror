@@ -1,0 +1,36 @@
+From: pscott@gpu.srv.ualberta.ca (Philip Scott)
+Newsgroups: alt.sci.physics.new-theories,sci.energy,sci.skeptic
+Subject: Re: Free Energy Machines
+Date: 26 Jun 1994 02:33:16 GMT
+Organization: University of Alberta
+Lines: 23
+Message-ID: <2uipdc$8s2@quartz.ucs.ualberta.ca>
+References: <2tmakv$bst@ccu2.auckland.ac.nz> <hall.772003341@extro> <CrqK0s.3Mr@egr.uri.edu> <2uagch$48e@herald.indirect.com> <2uda8t$7ik@outage.efi.com> <2uieif$ds7@herald.indirect.com>
+NNTP-Posting-Host: gpu.srv.ualberta.ca
+X-Newsreader: TIN [version 1.2 PL2]
+Xref: columba.udac.uu.se alt.sci.physics.new-theories:1602 sci.energy:3202 sci.skeptic:13889
+
+Michael J. Burns (mburns@indirect.com) wrote:
+
+: Mount a + charge on an arm which rotates counter-clockwise on a frame. 
+: Allow the frame to wobble on a perpendicular axis to the axis of the
+: rotation.  Attach a spring so the frame can resonate in its wobble with
+: the rotation of the arm.  Mount a - charge out of the plane of rotation in
+: the general direction of the axis.  Now mount an N magnetic monopole at
+: the axis of the arm.  The out of plane charge will deflect the charge
+: rotating counter-clockwise into a wobble such that the magnetic monopole
+: will propel the charge forward in its rotation. 
+
+
+: Michael J. Burns			Vectors are male cult objects.
+: mburns@indirect.com			Monopoles imply perpetual motion.
+
+O.K.  now I'm the first to admit that i don't have much experience with 
+Maxwell's equations,  I've delt with the consequences briefly, and some 
+time ago.  But how does the monopole cause perpetual motion?  And i know 
+that monopoles are theoretically possible,  but we haven't found any, 
+(this doesn't disprove the theories, but makes your apparatus impossible 
+to build)  And how does energy get supplied to compensate for friction?
+
+
+

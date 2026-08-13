@@ -1,0 +1,252 @@
+From t89djo@student.tdb.uu.se  Wed May 25 00:40:45 1994
+Received: from vesicle.ibg.uu.se by receptor.ibg.uu.se via SMTP (931110.SGI/930416.SGI.AUTO)
+	for david id AA26905; Wed, 25 May 94 00:40:45 +0200
+Received: from albireo.tdb.uu.se by vesicle.ibg.uu.se via SMTP (931110.SGI/930416.SGI.AUTO)
+	for david@receptor.ibg.uu.se id AA21233; Wed, 25 May 94 00:40:43 +0200
+Received: (from t89djo@localhost) by albireo.tdb.uu.se (8.6.8/8.6.6) id AAA25632 for david@vesicle.ibg.uu.se; Wed, 25 May 1994 00:37:31 +0200
+Date: Wed, 25 May 1994 00:37:31 +0200
+From: David Jonsson <t89djo@student.tdb.uu.se>
+Message-Id: <199405242237.AAA25632@albireo.tdb.uu.se>
+To: david@vesicle
+Subject: (fwd) The FAQ for superconductivity 21/05/1994
+Newsgroups: sci.physics.electromag,sci.physics.fusion
+Reply-To: t89djo@student.tdb.uu.se
+Content-Type: text
+Content-Length: 12683
+Status: RO
+
+Path: columba.udac.uu.se!sunic!pipex!howland.reston.ans.net!vixen.cso.uiuc.edu!sdd.hp.com!think.com!hsdndev!dartvax.dartmouth.edu!Ludwig.Plutonium
+From: Ludwig.Plutonium@dartmouth.edu (Ludwig Plutonium)
+Newsgroups: sci.physics.electromag,sci.physics.fusion
+Subject: The FAQ for superconductivity 21/05/1994
+Date: 21 May 1994 16:20:20 GMT
+Organization: Dartmouth College, Hanover, NH
+Lines: 215
+Message-ID: <2rlcc4$sn4@dartvax.dartmouth.edu>
+NNTP-Posting-Host: at-sn-96.dartmouth.edu
+X-Posted-From: InterNews 1.0@dartmouth.edu
+Xref: columba.udac.uu.se sci.physics.electromag:926 sci.physics.fusion:1696
+
+  Ever notice that new superconductive material is discovered at a hot
+pace. Yet the correct theory of understanding is lagging, is in the
+dark ages, is in the back of the cave. No wonder. The reason is because
+noone has taken the most logical steps forward from here. Noone has
+checked-out whether superconductivity is really 0 electrical
+resistance. Or if they have, they are being very silent about it. No
+wonder, for superconductivity is a technology worth billions, not
+millions of the US microscopic dollars (welfare parasite economies). 
+  Noone has taken the logical steps of setting-up the experimental
+apparatus of checking the known different superconducting materials as
+to electrical resistance. According to my theory of superconductivity,
+all of those different superconducting materials will all, each, have
+different electrical resistances. Very small electrical resistance, to
+be sure, because it is the flow of neutrinos in superconductivity. And
+whereas silver is the highest element conductor of electricity PLUS THE
+HIGHEST REFLECTOR OF PHOTONS. So also, the highest superconductor will
+be the highest reflector of neutrinos.
+  The physics of superconductivity will not progress by much until the
+statement of 0 resistivity is checked and seen for the incorrectness,
+the error that it is. And the theory will not progress until different
+materials have checked and verified different resistivities at the
+superconducting state. 
+  Once different superconducting materials are checked and found to
+have different resistivities. Then the physics of superconductivity can
+progress by using those different numbers to verify and math model the
+superconducting state.
+  The following below is what I believe is the correct theory of
+superconductivity. This material is copyrighted and patent pending to
+the Plutonium Atom Foundation. The reason I can not be more explicit is
+because I am hindered by not having a huge research lab of
+superconducting materials to produce the numbers myself. The purpose of
+this broadcast is to inform and make the science community aware of the
+correct path to take.
+
+   Many to most working scientists now see the BCS theory as not much
+more than a heuristic device. Although one salvageable feature of the
+BCS is the notion of *many atoms behaving as though it were one atom*. 
+    I believe I am on to the correct theory of superconductivity. I
+anticipate changes but for the most part I believe what follows below
+will be the correct theory of superconductivity, once refined and
+turned into math equations. I will need the math data in order to
+figure-out the equations. Since I do not have a superconductor in my
+backyard, and the liquid helium et al ready and available at my
+disposal. I cannot anticipate delivering those equations unless I have
+the number data for various superconducting materials. No
+superconductor has 0 resistivity according to my theory. All
+superconductors have different resistivities as per different chemical
+composition. The correct theory of superconductivity, will hence, be
+got from analysis of those different numbers. Those different numbers
+will eventually lead to a generalized Ohm's law which will include the
+superconductive state.
+So I ask for any data from those privileged person of such data.
+  This is the description of the correct theory of superconductivity
+(broadscale patents pending to Plutonium Atom Foundation (which will
+subsume, or
+supercede the Nobel Foundation.))
+
+  The 4 quantum interactions of physics are quantum duals. These are
+the 4 interactions (1) strong nuclear, (2) gravitation, (3)
+radioactivities, (4) electromagnetism.
+  Just as in QM, where particle is dual to wave and written as such.
+
+             particle-wave. 
+
+The 4 interactions are pairwise duals as follows.
+
+            strongnuclear-gravitation
+
+            radioactivities-electromagnetism
+
+  Note to physics readers that radioactivities comprises much more than
+the simple-minded electro-weak. The electro-weak interaction, before
+these teachings, was merely the tip of the iceberg, where the majority
+of the iceberg is underwater. 
+  Radioactivities comprises the electro-weak but also spontaneous-
+neutron-materialization-from-out-of-nowhere. Radioactivities, after
+these teachings, is almost equal to the strong nuclear interaction. And
+in fact the two pairwise duals above are equal in interaction strengh. 
+  In my theory, radioactivities interaction comprises these three (1)
+radioactive decay (2) radioactive growth (3) spontaneous neutron
+materialization.
+
+  The 4 interactions are quantum duals. And so strong nuclear is dual
+to gravity, but I am not concerned with that.    
+   And Radioactivities is dual to Electromagnetism. Since
+RADIOACTIVITIES is dual to ELECTROMAGNETISM,
+then one can explain superconductivities in two ways. One in terms of
+electron flow and photon carriers. But one can explain
+superconductivity just in terms of radioactivities with neutrinos. And
+in fact, with the recent reifenschweiler radiation supports this model
+that in cold temperature conditions, a material switches from
+electromagnetism to radioactivities.
+  In my model, for electromagnetism, I see electrons associated with
+the Faraday Lines of Force by photon carriers. The Faraday lines of
+Force are what I call the carrier of the signal. And it is the carrier
+which determines the resistivity of the material. In my theory,
+electrons moving involves associated photons.
+  So then in my theory, I must take into account the numerous Collapses
+of
+the Wavefuntion. It is the many Collapses of the Wavefunction that has
+made the quest for the correct theory of superconductivity such a
+monster. To give an example, one collapse of the wavefunction is the
+"putting of a specific electric current, amperes, into the
+superconductor." Another collapse of the wavefunction is the registered
+and observed temperature, such as mercury at 4K. Another collapse of
+the wavefunction is the known chemistry of the superconducting
+material. And another is the observation of how many amperes current
+flows out of the superconducting material. One must list all collapses
+of the wavefunction in order to arrive at and understand a correct
+theory and  hope to figure-out the math equations for
+superconductivity.
+  
+   According to my theory, *at very low temperatures all
+superconducting
+substances act or behave as if it were one atom*. For example, the many
+atoms of mercury at 4k are no longer many atoms of mercury, but
+instead, just *ONE Superconducting Atom*. Hence this frozen mercury is
+one atom which has many electrons in a filled quantum state.  The low
+temperature causes this quantum state. Now one must think of all of the
+electrons of this ONE Atom and the quantum mechanics of this "filled
+state." One can picture that a strip of superconducting mercury at 4k
+is ONE Atom which has perhaps 10^22 electrons and the same number of
+protons.
+
+   When more electrons are attempted to be added to this frozen one
+atom of superconducting mercury and since it is in a "filled state"
+those new
+electrons are switched into the radioactivities interaction as a stream
+of beta (electrons) particles and the carrier for the stream of beta
+electrons is no longer photons of the Faraday Lines of Force, but
+instead the carriers are switched to  neutrinos. 
+  Thus, at the initial end where electric current is put into the
+superconductor of ONE Atom, the ONE Atom electron states are full, and
+trying to put more electrons into this one huge superconducting atom of
+frozen mercury, what happens is that the ONE Atom radioactively emits a
+Beta
+electron stream of current out the other end in the form of beta
+electron decay which had been carried through the ONE Atom mercury
+strip with only the resistance of neutrinos. 
+   One must picture various Collapses of the Wavefunction as I have
+described above. If the current was kept flowing in the superconducting
+material without escape, that is, stored within the superconductor such
+as a SUPERCONDUCTOR RING STORAGE, then the resistance of the
+superconducting
+material, the ONE Atom, is not what is generally stated in every
+textbook that I have seen, as 0 resistance. The resistance of the
+superconductor is not 0, (not zero.) But rather there is a very small
+positive resistance which correlates with the carrier of the current,
+the neutrinos.
+Different superconductors have different resistivity.   Silver
+resistivity Ohm x m is 1.62 x 10^-8 at 293K and for copper at 293K  is
+1.69 x10^-8. The various new ceramic superconductors and the old known
+ones, and the buckyball superconductors, I hypothesize, when
+experimentally checked will all show different positive number
+resistivities which are close to zero, but not equal to zero. It is the
+math data for these various small positive number resistivities for
+different superconducting materials which will derive the equation of
+superconductivity.
+  As to whether a room temperature superconductor is possible and what
+material would it be made of? These questions can be answered because
+once it is known that neutrinos are in fact the carriers of
+superconductive currents then chemical materials will be manufactured
+for that purpose.
+  The equation for superconductivity will be a generalized Ohm's Law,
+and
+derive Ohm's Law as a particular case. The equation (very ugly, and far
+worse than the Schroedinger equation), will have a fall-out that silver
+is the
+highest quantum reflector of photons, the carrier of electric current
+for conductors at room temperature and silver is the highest conductor.
+Likewise, this generalized Ohm's Law will show what material has the
+highest quantum reflection for neutrinos, and hence the highest
+superconductor material.
+
+  What I need now are the math data to show that this is the correct
+theory of superconductivity. I need the superconductivity data of loss
+of current because my theory predicts that it is not 0 resistivity but
+a very small positive number. And those experimental small positive
+number resistivities, I intuit will match the resistivity of neutrinos
+flowing in said material.  And neutrino resistivities will be different
+for the new higher transition temperature ceramic materials. That the
+resistivity of flow of current in a superconducting material will match
+the resistivity of neutrinos within the material. Such a match *by
+math* will imply that electrons flowing in a current, upon reaching a
+superconductor material will switch into neutrino carriers and flow out
+the other end of the superconductor as a stream of beta decay electrons
+of almost but not quite equal amperes as what went initially into the
+superconductor.
+At the other end the current flow is back to usual with photon
+carriers.
+  One support for this theory is that neutrinos have both the
+characteristics of electrons, spin 1/2, and photons, by traveling at
+the speed of light. In other words, neutrinos are anyon particles.
+  Another support for this theory is that of all particles, only
+neutrinos have the characteristics for being able to travel through
+matter with the resistivity found in superconductors. No other particle
+travels in
+materials the way neutrinos do, which matches the superconductivity
+condition. So by process of elimination, the neutrino is the best
+candidate particle to yield superconductive results. 
+
+LP                         94th ELECTRON OF 231PU
+               Very crude dot picture of 5f6, 94TH ELECTRON
+
+                  \ ::| :./.
+                  .\::|::/.:
+                     _ _
+                    (:Y:)
+                     - - 
+                  ::/.|.\.:
+                :: /.:| :\.:
+                  /   |   \.
+        One of those dots is the Sun with 9 smaller dots around it.
+Look in a chemistry textbook or quantum physics textbook of the
+electron cloud dot picture. 
+
+--
+David Jonsson        Voice&Fax +46-18-24 51 52
+P.O Box 353          Postal giro 499 40 54-7
+S-751 06  UPPSALA    Internet E-mail t89djo@student.tdb.uu.se
+SWEDEN               ++++++Cold EMISSION before the end of the century++++++
+
+

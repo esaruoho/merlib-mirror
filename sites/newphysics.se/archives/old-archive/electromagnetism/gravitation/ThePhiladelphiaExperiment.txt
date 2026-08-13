@@ -1,0 +1,549 @@
+From t89djo@student.tdb.uu.se  Fri Jun 17 18:16:44 1994
+Received: from vesicle.ibg.uu.se by receptor.ibg.uu.se via SMTP (931110.SGI/930416.SGI.AUTO)
+	for david id AA16662; Fri, 17 Jun 94 18:16:44 +0200
+Received: from albireo.tdb.uu.se by vesicle.ibg.uu.se via SMTP (931110.SGI/930416.SGI.AUTO)
+	for david@receptor.ibg.uu.se id AA07046; Fri, 17 Jun 94 18:16:41 +0200
+Received: (from t89djo@localhost) by albireo.tdb.uu.se (8.6.8/8.6.6) id SAA10581 for david@vesicle.ibg.uu.se; Fri, 17 Jun 1994 18:15:47 +0200
+Date: Fri, 17 Jun 1994 18:15:47 +0200
+From: David Jonsson <t89djo@student.tdb.uu.se>
+Message-Id: <199406171615.SAA10581@albireo.tdb.uu.se>
+To: david@vesicle
+Subject: (fwd) Re: The Philadelphia-Experiment
+Newsgroups: alt.sci.physics.new-theories
+Reply-To: t89djo@student.tdb.uu.se
+Content-Type: text
+Content-Length: 24543
+Status: RO
+
+Path: columba.udac.uu.se!sunic!EU.net!howland.reston.ans.net!europa.eng.gtefsd.com!newsxfer.itd.umich.edu!zip.eecs.umich.edu!panix!not-for-mail
+From: binesh@panix.com (Binesh Bannerjee)
+Newsgroups: alt.sci.physics.new-theories
+Subject: Re: The Philadelphia-Experiment
+Date: 17 Jun 1994 09:42:02 -0400
+Organization: PANIX Public Access Internet and Unix, NYC
+Lines: 512
+Message-ID: <2ts97a$1qb@panix.com>
+References: <15@micromedia.win-uk.net>
+NNTP-Posting-Host: panix.com
+X-Newsreader: TIN [version 1.2 PL2]
+
+Volker Everts (micmed@micromedia.win-uk.net) wrote:
+: I'm an editor/writer and currently doing
+: research in the fields of scientific research
+: and experiments of the US Navy and Airforce in
+: World War II.
+
+: 1. Does anybody have informations about the
+: so-called "Philadelphia-Experiment" of the US
+: Navy in 1944? The objective of that experiment
+: was to find a way of making ships "invisible"
+: for radar devices via electromagnetic shields.
+: According to some sources the experiment on
+: board a US vessel failed, thus resulting in loss
+: of most of the crew and in an actual
+: "transistion" of the vessel.
+
+Well, I have a file on this, which I'll attach here,
+but for the second question, you might want to rummage
+through ftp.rutgers.edu in /pub/ufo and you might find
+what you're looking for...
+
+Begin Quoted Text: 
+>	From psmith@dg-webo.rtp.dg.com (Peter Smith) Thu Jan  9 13:11:27 1992
+>	Path: aramis.rutgers.edu!paul.rutgers.edu!dorm.rutgers.edu!rutgers!ub!zaphod.mps.ohio-state.edu!swrinde!cs.utexas.edu!uunet!psinntp!dg-rtp!webo!dg-webo!psmith
+>	From: psmith@dg-webo.rtp.dg.com (Peter Smith)
+>	Newsgroups: alt.alien.visitors
+>	Subject: Re: Philadelphia Experiment
+>	Message-ID: <1992Jan9.181127.29251@webo.dg.com>
+>	Date: 9 Jan 92 18:11:27 GMT
+>	References: <3370@ixgch.uucp>
+>	Sender: usenet@webo.dg.com (Usenet Administration)
+>	Distribution: alt
+>	Organization: Data General Corporation, Westboro, MA
+>	Lines: 32
+>	
+>	In article <3370@ixgch.uucp> chris@ixgch.imp.com (Christoph Eckert) writes:
+>	>
+>	>i'm looking for any kind of information about the so-called
+>	>	"Philadelphia Experiment",
+>	
+>	The Philidelphia Experiment story of a ship and its crew disappearing or
+>	demterializing seems to trace back to one Carl Allen, a sailor stationed
+>	at the Philadelphia Navy Yard during WWII and A.A. Merritt, who's
+>	_American_Weekly_ dealt heavily in the paranormal.
+>	
+>	Allen appears to have consolidated several rumor threads current at the
+>	Navy Yard concerning the activities in a sealed-off, top secret area
+>	where large, electricity-hungry machines were installed on one or more
+>	ships and shore-side buildings and visited by various scientists and
+>	engineers, including Albert Einstein.  The Navy's rumor-control cover
+>	story was that they were experimenting with de-gaussing equipment to
+>	make ships undetectable to magnetic mines.  Most rumors around the base
+>	speculated that they were trying to make ships radar-proof, or even
+>	invisible.  After the war, it was revealed that the installation was
+>	part of the Manhattan Project, and contained cyclotrons and cloud
+>	chambers.
+>	
+>	Allen clung to the old rumors, however, and wove in the story of the
+>	merchant ship Mohecan, which had a strange encounter with a "magnetic
+>	cloud" in the Bermuda Triangle.  Merritt published an embellished
+>	recounting of the Mohecan's bizzarre episode which Allen read and saw as
+>	tied to the Navy Yard rumors and began writing to all sorts of
+>	publications about "The Philadelphia Experiment", which since attained
+>	urban-legend status akin to Flight 19.
+>	---
+>	Peter Smith (Peter_Smith@dgc.ceo.dg.com) Data General Corp, Westboro, MA
+>	#include <std_disclaimer.h>
+>	
+>	From jms@vanth.UUCP (Jim Shaffer) Thu Jan  9 13:45:15 1992
+>	Path: aramis.rutgers.edu!rutgers!cbmvax!vanth!jms
+>	From: jms@vanth.UUCP (Jim Shaffer)
+>	Newsgroups: alt.alien.visitors
+>	Subject: Re:  Philadelphia Experiment?
+>	Message-ID: <jms.06i9@vanth.UUCP>
+>	Date: 9 Jan 92 18:45:15 GMT
+>	References: <3370@ixgch.uucp> <1992Jan08.013037.1224@pfm.rmt.sub.org> <30511@mentor.cc.purdue.edu>
+>	Organization: The Search For TERRESTRIAL Intelligence
+>	Lines: 24
+>	
+>	In article <30511@mentor.cc.purdue.edu> hartlemp@mentor.cc.purdue.edu (Michael P. Hartley) writes:
+>	>beleive it was the Battleship Idaho, disapeared from the radar screens.  In fact
+>	>the entire ship vanished from visible sight.  A few minutes later, the ship reappeared, and they turned off the generators.  Then the ship, and the crew even
+>	>after they left the ship, continued to disappear and reappear at random
+>	>intervals for several years.
+>	
+>	In all the versions I've heard, except one mentioned briefly in Moore &
+>	Berlitz's book, it was the destroyer escort "Eldridge".  (I can't remember
+>	the one mentioned, but it definitely wasn't the "Idaho".  The story is that
+>	someone said that the names of the Eldridge and the other ship were
+>	switched afterwards to throw people off the trail.)
+>	
+>	>   An interesting sideline is that the Idaho currently is in mothballs, and it
+>	>never saw action in WWII. (I think I heard that somewhere.  This is all very
+>	>hush hush, so I am just repeating heavily biased rumors.)
+>	
+>	The Eldridge was sold to Greece (minus quite a bit of unidentified weight!)
+>	where it was renamed the Leon.  I think it's still in service.
+>	
+>	--
+>	 *  From the disk of: | jms@vanth.uucp                 | I'm in a groove now
+>	 Jim Shaffer, Jr.     | uunet!cbmvax!vanth!jms         | -- or is it a rut?
+>	 37 Brook Street      | jms%vanth@cbmvax.commodore.com |
+>	 Montgomery, PA 17752 | 72750.2335@compuserve.com      | (Rush, "Face Up")
+>	
+>	From sheaffer@netcom.COM (Robert Sheaffer) Fri Jan 10 19:20:31 1992
+>	Path: aramis.rutgers.edu!paul.rutgers.edu!dorm.rutgers.edu!rutgers!apple!netcomsv!sheaffer
+>	From: sheaffer@netcom.COM (Robert Sheaffer)
+>	Newsgroups: alt.alien.visitors
+>	Subject: Re:  Philadelphia Experiment?
+>	Message-ID: <1992Jan11.002031.7380sheaffer@netcom.COM>
+>	Date: 11 Jan 92 00:20:31 GMT
+>	References: <3370@ixgch.uucp> <6JAN199218113406@utkvx3.utk.edu> <jms.06hf@vanth.UUCP>
+>	Organization: Netcom - Online Communication Services  (408 241-9760 guest)
+>	Lines: 67
+>	
+>	OK, I went digging in my files, and uncovered an article from FATE magazine,
+>	Oct. 1980 by Robert A. Goerman, called "Alias Carlos Allende". Summarizing 
+>	what it says:
+>	
+>	"In 1955 a Washington, DC auto parts salesman named Morris K. Jessup, who
+>	once did graduate work in astronomy at the University of Michigan, wrote 
+>	a book titled "The Case for the UFO" and embarked on a tour to promote it....
+>	
+>	In 1956, "Jessup received a letter from one Carlos Miguel Allende .... (it)
+>	scolded Jessup for suggesting continued research into UFT (Unified Field
+>	Theory). Allende claimed that in October 1943 the United States navy had
+>	used Einstein's theories in an experiment that not only rendered a destroyer
+>	totally invisible but also caused it to be teleported from the Philadelphia
+>	dock to the Norfolk News-Portsmouth area and back again in a matter of
+>	minutes. The experiment succeeded but it left side effects so horrendous
+>	that the navy shut down the project immediately.....
+>	
+>	(in a later letter) "Allende, his name now anglicized to Carl M. Allen, 
+>	could recall no exact dates, either for the experiment or for news accounts;
+>	nor could he remember the names of the crew members or anything else
+>	that mattered...."
+>	
+>	Later, someone at the Office of Naval research in Washington turned up a
+>	copy of Jessup's UFO book that had been "annotated", apparently by three
+>	different persons, "Mr. A", "Mr. B", and "Jemi". "The writers made little
+>	effort to conceal their contempt for mere human beings. Jessup
+>	immediately recognized the handwriting, with its bizarre spelling, 
+>	capitalization and punctuation, as that of his mysterious correspondant
+>	Carl(os) Allen(de)... the three writers continually referred to that
+>	secret 1943 naval experiment."  
+>	
+>	"On April 20, 1959, Jessup committed suicide."
+>	
+>	Late in the summer of 1969, the Aerial Phenomena Research Organization
+>	(APRO) wrote that Allen(de) "had dropped into its Tucson, Ariz. office
+>	and confessed the whole thing was a hoax." But Allen(de) later
+>	apparently recanted this confession.
+>	
+>	Allen's letters carried the return address of a house in New Kensington,
+>	PA, the author's home town, so he investigated. 
+>	
+>	"I learned the whereabouts of all three of Allen(de)'s brothers." He also
+>	located Carl's father, turned out to be his neighbor. Goerman was given
+>	full access to papers that the family had. He concludes, "Carlos loves
+>	to play games with those foolish enough to play audience... Carl is
+>	described as a 'master leg-puller'. Once he purportedly feigned a heart
+>	attack while working ... ". In a letter to his parents, Carl admits
+>	annotating Jessup's book, by himself. 
+>	
+>	"In his letters to Jessup, Carl does not mention the name or number
+>	of his experimental ship. In Moore and Berlitz' book he states, "It
+>	was the DE-173."
+>	
+>	"It is clear that the legend of Carl Allen/Carlos Allende is mostly
+>	fiction. If someone were to write a book telling the *real* story,
+>	its title might be 'The Philadelphia Hoax: Project Gullibility."
+>	
+>	
+>	
+>	-- 
+>	  
+>	        Robert Sheaffer - Scepticus Maximus - sheaffer@netcom.com
+>	  
+>	 Past Chairman, The Bay Area Skeptics - for whom I speak only when authorized!
+>	
+>	       "Simply follow nature, Rousseau declares. Sade, laughing,
+>	        grimly agrees."          - Camille Paglia, "Sexual Personae"
+>	
+>	From jms@vanth.UUCP (Jim Shaffer) Fri Jan 10 15:43:42 1992
+>	Path: aramis.rutgers.edu!rutgers!usc!cs.utexas.edu!uunet!cbmvax!vanth!jms
+>	From: jms@vanth.UUCP (Jim Shaffer)
+>	Newsgroups: alt.alien.visitors
+>	Subject: Re: Philadelphia Experiment
+>	Message-ID: <jms.06k1@vanth.UUCP>
+>	Date: 10 Jan 92 20:43:42 GMT
+>	References: <1992Jan9.162108.8676@cbnewsl.cb.att.com>
+>	Organization: The Search For TERRESTRIAL Intelligence
+>	Lines: 25
+>	
+>	In article <1992Jan9.162108.8676@cbnewsl.cb.att.com> fec@cbnewsl.cb.att.com (f.e.carey) writes:
+>	>
+>	>Ivan Sanderson yalked about this incident in one of his books - probably
+>	>in the sixties.  I seem to recall that a marked up copy of the book was
+>	>received in the mail by the Defense Department and promptly classified
+>	>at a high level.
+>	
+>	Sanderson did talk about it, but the book that Allende marked up and mailed
+>	to the Office of Naval Research was Jessup's first book, "The Case For The
+>	UFO".  The ONR didn't do anything with it *officially* as far as I know,
+>	but several individuals in that office made a couple dozen copies of the
+>	book.  I don't know who they gave all the copies to.  Jessup got at least
+>	one, and he annotated the annotations.  He gave this copy to someone known
+>	to Sanderson (possibly Sanderson himself) with instructions to keep it
+>	secret.  I don't know if anyone knows what happened to it when Sanderson
+>	died, if in fact Sanderson is the one who had it.  Copies of Allende's
+>	annotations, made from one of the extremely rare ONR copies, used to be
+>	available from one UFOlogical publisher, but I don't know if they still
+>	are.
+>	
+>	--
+>	 *  From the disk of: | jms@vanth.uucp                 | I'm in a groove now
+>	 Jim Shaffer, Jr.     | uunet!cbmvax!vanth!jms         | -- or is it a rut?
+>	 37 Brook Street      | jms%vanth@cbmvax.commodore.com |
+>	 Montgomery, PA 17752 | 72750.2335@compuserve.com      | (Rush, "Face Up")
+>	
+>	From sheaffer@netcom.COM (Robert Sheaffer) Fri Jan 10 19:28:31 1992
+>	Path: aramis.rutgers.edu!rutgers!apple!netcomsv!sheaffer
+>	From: sheaffer@netcom.COM (Robert Sheaffer)
+>	Newsgroups: alt.alien.visitors
+>	Subject: Re: Philadelphia Experiment
+>	Keywords: Sanderson
+>	Message-ID: <1992Jan11.002831.8708sheaffer@netcom.COM>
+>	Date: 11 Jan 92 00:28:31 GMT
+>	References: <1992Jan9.162108.8676@cbnewsl.cb.att.com>
+>	Organization: Netcom - Online Communication Services  (408 241-9760 guest)
+>	Lines: 31
+>	
+>	In article <1992Jan9.162108.8676@cbnewsl.cb.att.com> fec@cbnewsl.cb.att.com (f.e.carey) writes:
+>	>
+>	>Ivan Sanderson yalked about this incident in one of his books - probably
+>	>in the sixties.  I seem to recall that a marked up copy of the book was 
+>	>received in the mail by the Defense Department and promptly classified 
+>	>at a high level.
+>	>Does anybody remember anything like this?
+>	
+>	Yes, this "Carlos Allende" character (a.k.a. Carl Allen) marked up a
+>	copy of a wild UFO book by Morris K. Jessup, as if by three separate
+>	extraterrestrials. It had comments like, "these puny earthlings are
+>	getting too close to the secret of Unified Fields!", and other such
+>	drivel. If I understand correctly, there was a corporation, probably a
+>	defense contractor, called Varo, that for reasons I cannot fathom
+>	printed up copies of the annotated book, which came to be known
+>	as "the VARO Edition". I don't think that the thing was ever really
+>	"classified", but *who knows* what the Pentagon might do when 
+>	somebody sends them something like that? In any case, for years
+>	the late Gray Barker was selling "the Varo edition" at some
+>	ridiculously high price (something like $75), hinting that it
+>	contains great unearthly wisdom. Caveat emptor.
+>	
+>	
+>	-- 
+>	  
+>	        Robert Sheaffer - Scepticus Maximus - sheaffer@netcom.com
+>	  
+>	 Past Chairman, The Bay Area Skeptics - for whom I speak only when authorized!
+>	
+>	       "Simply follow nature, Rousseau declares. Sade, laughing,
+>	        grimly agrees."          - Camille Paglia, "Sexual Personae"
+>	
+>	From sys6626!inqmind!turtle@bison.mb.ca Mon Jan 13 04:25:30 1992
+>	Flags: 000000000001
+>	Received: from ccu.umanitoba.ca by aramis.rutgers.edu (5.59/SMI4.0/RU1.4/3.08) 
+>		id AA20265; Mon, 13 Jan 92 04:25:27 EST
+>	Received: from bison.UUCP by ccu.UManitoba.CA with UUCP
+>		(4.1/25-eef) id AA14562; Mon, 13 Jan 92 03:25:19 CST
+>	Received: by bison.mb.ca (1.64/waf)
+>		via UUCP; Mon, 13 Jan 92 02:58:53 CST
+>		for mcgrew@porthos.rutgers.edu
+>	Received: by sys6626.bison.mb.ca (1.64/waf)
+>		via UUCP; Mon, 13 Jan 92 02:28:51 CST
+>		for mcgrew@porthos.rutgers.edu
+>	Received: by inqmind.bison.mb.ca (1.64/waf)
+>		via UUCP; Sun, 12 Jan 92 23:13:17 CST
+>		for mcgrew@porthos.rutgers.edu
+>	To: Charles <mcgrew@porthos.rutgers.edu>
+>	Subject: Re: Philadelphia Experiment?
+>	From: turtle@inqmind.bison.mb.ca (Barry)
+>	Message-Id: <Tk9geB2w164w@inqmind.bison.mb.ca>
+>	Date: Sun, 12 Jan 92 23:13:16 CST
+>	In-Reply-To: <CMM-RU.1.1.695172415.mcgrew@porthos.rutgers.edu>
+>	Organization: The Inquiring Mind  1 204 488-1607
+>	
+>	Charles <mcgrew@porthos.rutgers.edu> writes:
+>	
+>	>Would have saved a ton of money on rocket research if we could just 
+>	>materialized H-bombs in Moscow :-)
+>	
+>	GOOD POINT!!
+>	
+>	        --Barry
+>	
+>	turtle@inqmind.bison.mb.ca
+>	The Inquiring Mind BBS, Winnipeg, Manitoba  204 488-1607
+>	
+>	From mcgrew@cs.rutgers.edu Sun Jan 12 01:17:24 1992
+>	Flags: 000000000001
+>	Received: from porthos.rutgers.edu by aramis.rutgers.edu (5.59/SMI4.0/RU1.4/3.08) 
+>		id AA25766; Sun, 12 Jan 92 01:17:23 EST
+>	Received: by porthos.rutgers.edu (5.59/SMI4.0/RU1.4/3.08) 
+>		id AA16178; Sun, 12 Jan 92 01:17:21 EST
+>	Date: Sun, 12 Jan 92 01:17:21 EST
+>	From: mcgrew@cs.rutgers.edu
+>	Message-Id: <9201120617.AA16178@porthos.rutgers.edu>
+>	To: sheaffer@netcom.com
+>	Cc: mcgrew@cs.rutgers.edu
+>	Subject: Re:  Philadelphia Experiment?
+>	In-Reply-To: USENET article <1992Jan11.002031.7380sheaffer@netcom.COM>
+>	
+>	Hi,
+>	
+>	   Just a quick note to compliment you on your brief (but thorough)
+>	message to alt.alien.visitor.  Nicely done!
+>	
+>	Thanks,
+>	
+>	Charles
+>	
+>	From jms@vanth.UUCP (Jim Shaffer) Sun Jan 12 22:23:04 1992
+>	Path: aramis.rutgers.edu!rutgers!cbmvax!vanth!jms
+>	From: jms@vanth.UUCP (Jim Shaffer)
+>	Newsgroups: alt.alien.visitors
+>	Subject: Re:   Philadelphia Experiment?
+>	Message-ID: <jms.06ld@vanth.UUCP>
+>	Date: 13 Jan 92 03:23:04 GMT
+>	References: <3370@ixgch.uucp> <6JAN199218113406@utkvx3.utk.edu> <jms.06hf@vanth.UUCP> <1992Jan11.002031.7380sheaffer@netcom.COM>
+>	Organization: The Search For TERRESTRIAL Intelligence
+>	Lines: 47
+>	
+>	In article <1992Jan11.002031.7380sheaffer@netcom.COM> sheaffer@netcom.COM (Robert Sheaffer) writes:
+>	>Later, someone at the Office of Naval research in Washington turned up a
+>	>copy of Jessup's UFO book that had been "annotated", apparently by three
+>	>different persons, "Mr. A", "Mr. B", and "Jemi". "The writers made little
+>	>effort to conceal their contempt for mere human beings. Jessup
+>	>immediately recognized the handwriting, with its bizarre spelling,
+>	>capitalization and punctuation, as that of his mysterious correspondant
+>	>Carl(os) Allen(de)... the three writers continually referred to that
+>	>secret 1943 naval experiment."
+>	
+>	Moore & Berlitz only say that it was mentioned a few times in the
+>	annotations.  Of course, they also let out the part about the writers
+>	supposedly being aliens, if that's what they're supposed to be.
+>	
+>	>Allen's letters carried the return address of a house in New Kensington,
+>	>PA, the author's home town, so he investigated.
+>	>
+>	>"I learned the whereabouts of all three of Allen(de)'s brothers." He also
+>	>located Carl's father, turned out to be his neighbor. Goerman was given
+>	>full access to papers that the family had. He concludes, "Carlos loves
+>	>to play games with those foolish enough to play audience... Carl is
+>	>described as a 'master leg-puller'. Once he purportedly feigned a heart
+>	>attack while working ... ". In a letter to his parents, Carl admits
+>	>annotating Jessup's book, by himself.
+>	
+>	I wonder why Moore had such a hard time tracking down information on
+>	Allende?
+>	
+>	>"In his letters to Jessup, Carl does not mention the name or number
+>	>of his experimental ship. In Moore and Berlitz' book he states, "It
+>	>was the DE-173."
+>	
+>	That doesn't necessarily mean anything.
+>	
+>	>"It is clear that the legend of Carl Allen/Carlos Allende is mostly
+>	>fiction. If someone were to write a book telling the *real* story,
+>	>its title might be 'The Philadelphia Hoax: Project Gullibility."
+>	
+>	*Mostly* fiction.  But what about the story of Davis and Huse at the
+>	beginning of Moore & Berlitz's book?  They apparently heard the story
+>	through some route other than Allende.
+>	
+>	--
+>	 *  From the disk of: | jms@vanth.uucp                 | I'm in a groove now
+>	 Jim Shaffer, Jr.     | uunet!cbmvax!vanth!jms         | -- or is it a rut?
+>	 37 Brook Street      | jms%vanth@cbmvax.commodore.com |
+>	 Montgomery, PA 17752 | 72750.2335@compuserve.com      | (Rush, "Face Up")
+>	
+>	From sheaffer@netcom.COM (Robert Sheaffer) Mon Jan 13 11:22:53 1992
+>	Path: aramis.rutgers.edu!rutgers!noao!arizona!arizona.edu!mvb.saic.com!network.ucsd.edu!pacbell.com!decwrl!amdcad!netcomsv!sheaffer
+>	From: sheaffer@netcom.COM (Robert Sheaffer)
+>	Newsgroups: alt.alien.visitors
+>	Subject: Re:   Philadelphia Experiment?
+>	Message-ID: <1992Jan13.162253.29839sheaffer@netcom.COM>
+>	Date: 13 Jan 92 16:22:53 GMT
+>	References: <jms.06hf@vanth.UUCP> <1992Jan11.002031.7380sheaffer@netcom.COM> <jms.06ld@vanth.UUCP>
+>	Organization: Netcom - Online Communication Services  (408 241-9760 guest)
+>	Lines: 25
+>	
+>	In article <jms.06ld@vanth.UUCP> jms@vanth.UUCP (Jim Shaffer) writes:
+>	>
+>	>I wonder why Moore had such a hard time tracking down information on
+>	>Allende?
+>	
+>	What kind of "mystery" would he have if the information was obtainable
+>	so easily?
+>	>
+>	>>"In his letters to Jessup, Carl does not mention the name or number
+>	>>of his experimental ship. In Moore and Berlitz' book he states, "It
+>	>>was the DE-173."
+>	>
+>	>That doesn't necessarily mean anything.
+>	
+>	Originally, Allende *didn't know* any names of any ships. Later, he
+>	did. Possibly understanible, but sounds fishy.
+>	>
+>	-- 
+>	  
+>	        Robert Sheaffer - Scepticus Maximus - sheaffer@netcom.com
+>	  
+>	 Past Chairman, The Bay Area Skeptics - for whom I speak only when authorized!
+>	
+>	       "Simply follow nature, Rousseau declares. Sade, laughing,
+>	        grimly agrees."          - Camille Paglia, "Sexual Personae"
+>	
+>	From hackney@wotan.compaq.com (Greg Hackney) Wed Jan 15 09:52:36 1992
+>	Path: aramis.rutgers.edu!rutgers!cs.utexas.edu!wotan.compaq.com!hackney
+>	From: hackney@wotan.compaq.com (Greg Hackney)
+>	Newsgroups: alt.alien.visitors
+>	Subject: Re:  Philadelphia Experiment?
+>	Message-ID: <1992Jan15.145236.3218@wotan.compaq.com>
+>	Date: 15 Jan 92 14:52:36 GMT
+>	References: <1992Jan08.013037.1224@pfm.rmt.sub.org> <30511@mentor.cc.purdue.edu> <jms.06i9@vanth.UUCP>
+>	Organization: Compaq
+>	Lines: 35
+>	
+>	In article <jms.06i9@vanth.UUCP> jms@vanth.UUCP (Jim Shaffer) writes:
+>	
+>	> In all the versions I've heard, except one mentioned briefly in Moore &
+>	> Berlitz's book, it was the destroyer escort "Eldridge".
+>	> The Eldridge was sold to Greece
+>	> I think it's still in service.
+>	
+>	In article <10338@lectroid.sw.stratus.com> tarl@sw.stratus.com (Tarl Neustaedter) writes:
+>	
+>	> According to the 1990/1991 Combat Fleets, Greek Navy frigate D67 
+>	> "Panthir" is ex-Eldridge DE 173. Transfered from US navy to Greece
+>	> in 1951, still in service at this time though "thoroughly obsolete".
+>	> It's one of four ships in it's class, along with D01 Aetos (ex-Ebert
+>	> DE 768), D31 Hierax (ex-Slater, DE 766), D54 Leon (ex-Garfield Thomas,
+>	> DE 193).
+>	
+>	In article <ewf2.694761618@Isis.MsState.Edu> ewf2@ra.msstate.edu (Eric "JUICE" Fritzius) writes:
+>	
+>	> almost all material on the Eldridge was classified
+>	> and as far as I know remains so to this day.
+>	
+>	Was the USS Eldridge pre-maturely dry docked for a ship of it's class
+>	and age, say in comparison to it's other 3 classmates? Was it sold
+>	as an individual ship or a package sale of a class of ships.
+>	
+>	Was the ship indeed declared off limits and top secret in it's dry docked state.
+>	
+>	Were the names of the crew members of the Eldridge top secret, and are they
+>	still so? If so, is this a standard practice for ships of this class and age?
+>	
+>	Were there any reports of a loss of crew memebers in action? How many of the
+>	original crew members are still alive to talk about it.
+>	
+>	How about the names and status of the crew members of the alleged
+>	observation ship (the Idaho?) ? Also still secret ?
+>	
+>	From jms@vanth.UUCP (Jim Shaffer) Thu Jan 16 13:20:48 1992
+>	Path: aramis.rutgers.edu!rutgers!sun-barr!cs.utexas.edu!uunet!cbmvax!vanth!jms
+>	From: jms@vanth.UUCP (Jim Shaffer)
+>	Newsgroups: alt.alien.visitors
+>	Subject: Re:   Philadelphia Experiment?
+>	Message-ID: <jms.06mz@vanth.UUCP>
+>	Date: 16 Jan 92 18:20:48 GMT
+>	References: <1992Jan08.013037.1224@pfm.rmt.sub.org> <30511@mentor.cc.purdue.edu> <jms.06i9@vanth.UUCP> <1992Jan15.145236.3218@wotan.compaq.com>
+>	Organization: The Search For TERRESTRIAL Intelligence
+>	Lines: 16
+>	
+>	In article <1992Jan15.145236.3218@wotan.compaq.com> hackney@wotan.compaq.com (Greg Hackney) writes:
+>	>In article <10338@lectroid.sw.stratus.com> tarl@sw.stratus.com (Tarl Neustaedter) writes:
+>	>
+>	>> According to the 1990/1991 Combat Fleets, Greek Navy frigate D67
+>	>> "Panthir" is ex-Eldridge DE 173. Transfered from US navy to Greece
+>	>> in 1951, still in service at this time though "thoroughly obsolete".
+>	
+>	That article got lost somewhere on the way to me.  I'm curious as to
+>	whether it was always called the "Panthir", because Moore & Berlitz say it
+>	was called the "Leon".
+>	
+>	--
+>	 *  From the disk of: | jms@vanth.uucp                 | I'm in a groove now
+>	 Jim Shaffer, Jr.     | uunet!cbmvax!vanth!jms         | -- or is it a rut?
+>	 37 Brook Street      | jms%vanth@cbmvax.commodore.com |
+>	 Montgomery, PA 17752 | 72750.2335@compuserve.com      | (Rush, "Face Up")
+>	
+
+: 2. Does anybody have informations about several
+: "Anti-Gravity"-Experiments performed by US
+: Navy and Airforce during World War II? Any
+: Informations about "Project Winterhaven"?
+
+: Any Help in those cases 1 and 2 is very
+: welcome. Names, dates, theories, adresses,
+: clues - every hint in those cases is very,
+: very welcome.
+
+: Please answer in this group or directly by
+: e-mail, or send fax to +49-8121-46587.
+
+: Volker Everts, Munich 
+
+-- 
+* Will sit by a pool and relax and have fun for money. *
+Hey... it's going to work someday...
+
+--
+David Jonsson        Voice&Fax +46-18-24 51 52
+P.O Box 353          Postal giro 499 40 54-7
+S-751 06  UPPSALA    Internet E-mail t89djo@student.tdb.uu.se
+SWEDEN               ++++++Cold EMISSION before the end of the century++++++
+
+

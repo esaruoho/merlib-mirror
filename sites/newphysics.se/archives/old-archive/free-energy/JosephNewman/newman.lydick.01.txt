@@ -1,0 +1,53 @@
+From carl@SOL1.GPS.CALTECH.EDU Tue Apr  5 22:20:37 MET DST 1994
+Article: 22813 of sci.energy
+Path: elwood!zrz.TU-Berlin.DE!netmbx.de!Germany.EU.net!EU.net!howland.reston.ans.net!gatech!swrinde!elroy.jpl.nasa.gov!netline-fddi.jpl.nasa.gov!nntp-server.caltech.edu!SOL1.GPS.CALTECH.EDU!CARL
+From: carl@SOL1.GPS.CALTECH.EDU (Carl J Lydick)
+Newsgroups: sci.energy
+Subject: Re: Energy Machine of Joseph Newman: An
+Date: 4 Apr 1994 18:29:52 GMT
+Organization: HST Wide Field/Planetary Camera
+Lines: 36
+Distribution: world
+Message-ID: <2npmb0$atv@gap.cco.caltech.edu>
+References: <5MEAmd11XA@tron.gun.de>
+Reply-To: carl@SOL1.GPS.CALTECH.EDU
+NNTP-Posting-Host: sol1.gps.caltech.edu
+
+In article <5MEAmd11XA@tron.gun.de>, harti@tron.gun.de (Stefan Hartmann) writes:
+=I think maybe only his very big machines have some kind of effect.
+=I visited Newman 1987 in his lab in Lucedale, but he could not show me
+=his big machines, cause they were inoperatable at this time, cause he
+=wanted to test some new design...
+
+Just like the PMMs from Europe that you tout:  Whenever you go to look at them,
+they're not working for some reason or other.  How long is it going to take
+before you realize that the most likely reason for this is that they simply
+don't work at all?
+
+=> 5.  Newman claims that the tests that the U.S. government performed
+=>     using a model of his energy device were conducted improperly and
+=>     were performed not in agreement with his written and verbal
+=>     instructions, as per the government testing agreement.
+
+He was given a copy of the test procedures proposed by the government.  He
+raised no objections to those procedures until AFTER his machine failed.
+=
+=That is true !
+=The NBS report was totally bullshit !
+=They grounded all the RF-energy by putting a resistor over the coil, so
+=that they canceled all the effects the Newman machines works on....
+=Never trust the NBS....
+
+If that's a problem, then why didn't Newman object to the fact they were
+planning to do this BEFORE they conducted the tests?  He had quite some time in
+which to voice the complaint, but he never did.
+--------------------------------------------------------------------------------
+Carl J Lydick | INTERnet: CARL@SOL1.GPS.CALTECH.EDU | NSI/HEPnet: SOL1::CARL
+
+Disclaimer:  Hey, I understand VAXen and VMS.  That's what I get paid for.  My
+understanding of astronomy is purely at the amateur level (or below).  So
+unless what I'm saying is directly related to VAX/VMS, don't hold me or my
+organization responsible for it.  If it IS related to VAX/VMS, you can try to
+hold me responsible for it, but my organization had nothing to do with it.
+
+

@@ -1,0 +1,573 @@
+Legend:
+_text_ = underlined text
+\text\ = italic text
+_\text\_ = underlined italic text
+B_in = B subscript in
+B^2 = B exponent 2
+B_in^2 = (B subscript in) exponent 2
+{phi} = greek letter phi
+{del} = partial derivative
+{pi} = greek letter pi
+Delta = greek letter delta (triangle)
+{integral over t} = mathematical symbol of integral with t under it
+== = identity relationship (three parallel lines)
+____________________________________________________________________
+
+
+Fax to David Jonsson, Uppsala, Sweden (internet: david@ibg.uu.se)
+(prior to filing of final claim with Patent Office)
+May 28/29, 1995
+
+Dear David:
+
+Sorry to be so seemingly uncommunicative for a while. Hope things 
+go well with you.
+
+Here is our present status, for you to place in your internet 
+files for wide availability if you wish. I believe you will find 
+the information of importance.
+
+Beginning about October/November 1994, we started working toward 
+a new patent application. The effort rapidly picked up in 
+December, and since early January 1995, I have been working 12-16 
+hour days on that project. Just now, we have a formidable (about 
+260 pages) patent application sitting in the Patent Attorney's 
+office, with final claims being prepared, which will be filed 
+with the U.S. Patent Office Friday next or no later than the first 
+part of the week following.
+
+This has been a monstruous effort. The U.S. Patent Office will 
+probably come back in a year or so and direct us to separate it 
+into three separate applications: one for room temperature 
+superconductivity, one for Poynting generators and powering 
+circuits with Poynting field energy density flow, and one for 
+the application of both of these to overunity electrical systems.
+
+We placed full theoretical justification in our application, in 
+addition to exhibiting the embodiement circuits. So I am now 
+feverishly preparing a technical paper on the above, that digests 
+the approach, documents it, and presents the fundamental 
+mechanisms. As ever, it is my intent to fully share the 
+information the moment the patent is filed and our rights are 
+protected. I will send you a copy of the paper just as soon as 
+it is finished, for placing on the internet if you wish. The paper 
+will also be published in \Explore!\ journal if all goes well.
+
+At CTEC, we have been severely crippled by the massive (some 
+6,000) layoff of aerospace engineers here in Huntsville. Of our 
+seven engineers, five are now unemployed (myself included!). So 
+one doesn't get a lot of work done when all the engineers are 
+scrambling and trying to find some way to earn a living for their 
+families. Nevertheless, we are continuing with single-minded 
+concentration upon the task.
+
+We believe that, with this new patent application, we will finally 
+have something of great commercial value to market. Further, 
+perhaps you recall the movie, "Lawrence of Arabia". At one point, 
+the British Commander, facing the map of enemy dispositions and 
+speaking to his Artillery General, struck the map repeatedly with 
+his fist, exclaiming, "Pound them, Charlie! Pound them!" That is 
+precisely what I intend to do with the superconductivity community. 
+Here's the approach:
+
+\Question: What is your statement of the final purpose of 
+superconductivity?\
+
+_Answer:_ Simply put, you have some electrons on the left side 
+of the superconducting (SC) section, where these electrons are 
+overpotentialized (with respect to ground reference) and thus 
+are "loaded up with excess energy". You wish to get electrons 
+on the right side of the SC section that also are 
+overpotentialized and have the same amount of excess energy 
+collected on them.
+
+\Question: How can this purpose be achieved, in your opinion?\
+
+_Answer:_ There are two candidate methods, only one of which has 
+been considered by the superconductivity community:
+
+(1) the \accepted\ way is to try to move the overpotentialized 
+electrons on the left (from the input) across the SC section to 
+the right (to the output), without dissipating any of the excess 
+energy the electrons are carrying. There are a lot of problems 
+with that approach, such as lattice vibrations, electron 
+collisions causing scattering radiation, defects in the lattices 
+"spoiling" the ordering, etc. Essentially, to do it, you have to 
+get a very comprehensive ordering of charges and everything else 
+in the SC section -- in the lattices, the electron gas, the whole 
+works. The conventional approach is to "get rid of" as much 
+disorder as possible \first\. By cooling everything down 
+sufficiently, you get such ordering phenomena, including Cooper 
+pairing of the electrons, and coordination of the remaining 
+electron movements as charge density waves, synchronized with the 
+small remaining lattice vibrations (which also order). After all 
+this ordering gets properly established, you can shove the 
+Cooper-pairs through this highly ordered SC section without 
+spilling any energy. Of course, you have to watch the charge 
+density waves; if they get \commensurate\ with the lattice 
+vibrations, the waves will "hang up" in the "pothole effect" 
+caused by the defects in the lattice. So conventionally, you must 
+have \incommensurate\ charge density waves so they will not stick 
+on the lattice defects. The main purpose of all the cryogenics is 
+just to eliminate the random collisions and vibrations, and to 
+get the ordering phenomena going. \This is a hard way to run a 
+railroad.\ The cryogenics use a lot of power, and so overall, this 
+makes for an inefficient, bulky, worrisome system. Further, all 
+the load current is still conventionally passed back through the 
+source, so even discounting the cryogenic burden losses, the 
+system has a COP<1.0.
+
+Consequently, to get rid of the cryogenic burden, a frantic search 
+for exotic materials (where the \materials\ cause some of the 
+ordering phenomena to occur, rather than just by lowering of the 
+temperature) has been underway for a decade, primarily with the 
+cuprates. That search has peaked out at about 200 degrees Kelvin, 
+and it isn't going to get much higher.
+
+There is a limit to the amount of "ordering" you can get from sheer 
+material characteristics, as the temperature rises. Simply put, 
+the \temperature\ is the measure of how much disordering you have 
+anyway. There's a logical conflict in the notion of loss-free 
+\physical\ transport of energy (perfect ordering) via electrons in 
+dq/dt. The very notion of room temperature for the carriers implies 
+a certain amount of disorder in the physics of carriers. But if 
+this disorder \exists\, a priori you do not have disorder-free 
+transport! So the question of room temperature superconductivity 
+via electron flow simply seems to lead to a logical contradiction. 
+Obviously some other ordered mechanism rather than the dq/dt must 
+be invoked. In other words, the electrons in the dq/dt must remain 
+with some disorder, else one can object that it is not "at room 
+temperature". It follows that at room temperature, \some other\ 
+ordered mechanism must then be present, in addition to the disorder 
+in the dq/dt, so that this other mechanism must then be present, in 
+addition to the disorder in the dq/dt, so that this other mechanism 
+transports the energy without loss. However, \if the dq/dt is 
+permitted to exist, it will still add disorder and dissipate some 
+of the overall energy transport.\ So for room temperature 
+superconductivity, the logical requirements that emerge are 
+(i) the current dq/dt must be blocked so that it is zero, and 
+(ii) some other \nonmaterial\ mechanism must be invoked for the 
+energy transport, since all materials have some disorder at room 
+temperature, the temperature \a priori\ being just a measure of 
+that disorder. Further, it is already known that the Cooper pair 
+theory no longer works in about half the higher temperature 
+experiments, and neither does any of the other alternatives that 
+have been formally proposed to date.
+
+(2) Better yet, you can just make seven the easy way. You can 
+simply block the electrons from flowing in the \conducting\ SC 
+section, so that dq/dt = 0, and let the Poynting field energy 
+density S flow across the SC section and onto the waiting electrons 
+on the other side. This is equivalent to just letting the input 
+voltage flow across the SC section and onto the electrons on the 
+ouput side, without any dq/dt flowing. Voilà! If you check the 
+Poynting equation closely, as we will develop below, you will see 
+that blocking the current term gets rid of all the losses from 
+moving dq/dt. So the Poynting term for "energy loss via 
+displacement of charges" goes to zero. (This was a requirement 
+of our logical analysis anyway). The Poynting divergence loss 
+term also goes to zero because \the Poynting flow S down a wire 
+does not diverge\; instead, the Poynting field energy density flow 
+S tracks the wire like a railroad track or inverse waveguide. 
+However, since the Poynting flow S is essentially an equipotential 
+flow, it also "potentializes" all blocked electrons in the 
+dq/dt-blocked wire, as it flows down the wire at lightspeed. In 
+fact, S will flow right on across the blocked section and onto a 
+separate closed (to dq/dt) current loop to which the blocker's 
+output leads are connected! There, it will simply add excess field 
+energy density and emf, so that the electrons collect excess EM 
+energy and possess an \S-flow\-created E-Field. In short, you simply 
+pipe the energy out of the blocked out potentialized circuit 
+directly onto the separate dq/dt-isolated current loop! So you get 
+your energized electrons on the right side of the SC section, at 
+room temperature, and you did not lose a single bit of it.
+
+You don't need any cryogenics. You don't need any exotic materials. 
+Copper wire is fine. This is what we are filing the patent upon 
+(i.e., it is one aspect of the patent). We then cover several 
+other fundamental new things that allows this to be done in fairly 
+straightforward manner. I will release those things in a couple of 
+weeks. Further, in getting the lossless Poynting energy transport 
+across the SC section, no current dq/dt flowed. Hence none was 
+driven back up through the primary source (the dq/dt-blocked 
+circuit on the left of the SC section) against the back emf of the 
+source. Consequently, there is no degradation of the source, and so 
+the system can exhibit overunity coefficient of performance.
+
+There are several main ways of performing the dq/dt-blocking 
+function. One is to use the Fogal chip, the world's first patented 
+charge-blocking transistor. Although not yet in production and open 
+sales, the chip has now been tested by several independant 
+commercial laboratories and its absence of normal thermal noise 
+validated, in the presence of gain both in current and in voltage. 
+This chip should be in production within a year.
+
+Another way to achieve dq/dt-blocking is to utilize a nonlinear 
+ferroelectric capacitor (FEC) in an unusual manner. One chooses an 
+FEC that has a substantial hysteresis loop in its Q-V curve, so 
+that it Q-saturates at a certain voltage after which no more current 
+can flow into the capacitor even though the voltage can still be 
+increased. Bias the capacitor into its Q-saturated region, well on 
+beyond the initial Q-saturation voltage threshold. Then vary the 
+voltage sinusoidally around the bias point, but so that the FEC 
+capacitor always remains completely above its Q-saturation. In that 
+case, the capacitor will pass only an AC voltage and Poynting field 
+energy density flow S. So it can be emplowed in that manner as a 
+dq/dt-blocking "bridge" -- in short, from an energy flow viewpoint, 
+it can be utilized as a \superconducting bridge\ which passes 
+Poynting field energy density flow S and voltage but does not pass 
+dq/dt. Such a bridge can therefore be used to separate and extract 
+pure EM field energy flow from a dq/dt-blocked, potentialized 
+dq/dt-closed source current loop and simply pipe that energy flow 
+across to a second dq/dt-closed current loop. This fulfills all real 
+requirements for room temperature superconductivity. It also does 
+not dissipate the original source, since no dq/dt is driven back up 
+through the back emf of the original source. Hence this approach 
+can legitimately enable a system COP>1.0 while obeying all the laws 
+of physics and thermodynamics. It is not a perpetuum mobile, but an 
+open system freely extracting, collecting, and utilizing excess 
+energy from an external source. As such, it can permissibly exhibit 
+overunity coefficient of performance, just as can a common heat pump.
+
+We call the dq/dt-blocked pair of lines comprising the new room 
+temperature SC sections a \superconducting bridge\, or just a 
+\bridge\ for short. The bridge consists of the input and output 
+lines plus a dq/dt-blocker (Fogal chip, saturation-biased FEC), or 
+one of several other common things I name in the patent and will 
+release shortly). Now, we can simply extracts and \bridge\ energy 
+flow from one closed (with respect to dq/dt) current loop to 
+another, without the flow of dq/dt. We simply separate, process, 
+and pass the Poynting flow S (which includes the flows d{phi}/dt, 
+dV/dt, dE/dt, dB/dt, and d/dt(emf).
+
+Every closed current loop furnishes its own current dq/dt. No 
+source furnishes a single electron to its closed current loop. 
+It only furnishes potential and Poynting energy density flow.
+
+So our invention and approach simply generates and extracts the 
+"\source function\ of overpotentializing the electron gas in a 
+closed current loop" from that closed loop containing a potential 
+difference and thus a Poynting S-flow, and flows S across the 
+bridge onto another closed (with respect to dq/dt only) current 
+loop, providing an inflow of excess energy and emf into and onto 
+the receiving circuit. The receiving circuit may contain the load. 
+The excess energy and overpotentialization added to the second 
+circuit couples to the electrons and overpotentializes them, 
+forming an E-field which drives the energized electrons around 
+that loop in normal fashion, powering the load.
+
+No load current dq/dt passes back through the primary source, and 
+so the source is not dissipated. The system is capable of 
+overunity COP \a priori.\
+
+Note how strongly conventional researchers have tried to prevent 
+just this very thing. They have been meticulously careful, e.g., 
+not to get \commensurate\ charge density waves, so that the 
+defects in the material lattice don't give them the dq/dt-blocking! 
+They have leaned over backwards to eliminate the very thing they 
+should have been trying -- and may be getting anyway in about half 
+their high temperature experiments.
+
+At any rate, this is the culmination of our intense research. With 
+our patent pending status achieved within the week, we expect to 
+have patent pending claims that are highly commercial, so that we 
+can negotiate a really substantial agreement with a major financial 
+partner. \We are looking for the right one now, one with deep 
+pockets so we can get on with this at great speed and vigor!\
+
+I will be going forward with all this information in detail to the 
+SC community. We expect that they will quickly prove or disprove it 
+in their own multi-million dollar laboratories! In other words, we 
+will substitute their expensive labs for our little $25,000 lab, 
+and let them earn their salaries. As you can well expect, initially, 
+it will be a bumpy ride, for initially, they are almost certain to 
+react angrily and dogmatically to such upstart proposals. But the 
+sharp young postdocs and sharp young graduate students will listen 
+and try it. \We do not have to prove the Poynting flow; it is 
+already established in the literature both theoretically and 
+experimentally.\
+
+Apparently, the SC researchers just never sat down and did a 
+complete, unbiased systems engineering _\requirements analysis\_ of 
+sufficient rigor to show exactly what had to be done for room 
+temperature SC, and what the various options were. They applied 
+what they were already assuming. As a decrepit old systems engineer, 
+a requirements analysis is the first thing I've been trained to do. 
+So I simply did an elementary analysis, once I had read 
+sufficiently into the SC problem to understand it to the necessary 
+systems functional level and in the necessary context that I needed.
+
+The SC researchers came to a fork in the road decades ago and did 
+not realize it. They continued the gross EM error of chasing the 
+current flow in a circuit and confusing it with the energy flow in 
+that circuit. Electromagnetics itself is still fouled up on that 
+one to this day. Everyone just roared off the same fork in the road, 
+and that became the accepted thing to do. It seemed so natural, 
+because physics and engineering still has not adequately applied 
+Poynting theory to circuits. Only the leading EM text even 
+\mention\ that, and then they only give one or two examples, after 
+which, with \great relief\, they rush away from what they perceive 
+as a yawning, bottomless pit, wringling their hands and exclaiming 
+_\"There! By the grace of God, that's enough of that!".\_
+
+Further, the papers in the literature that attempt to address the 
+issue of the energy flow in circuits are a mixed bag. One or two 
+are \quite\ good indeed. A few others are good. The others are 
+flawed, and at least half are \very seriously\ flawed. Some even 
+try to replace the ExH Poynting vector with the old Slepian vector 
+J{phi}. This is replacing a totally \nonmaterial\ thing with 
+something which \contains material.\ It's the same error the 
+electricians originally made with charge q in the first place, and 
+which they continue making to this day. Plus which the Slepian 
+vector has long since been falsified -- e.g., by the experimental 
+proof that fields have momentum, and the theoretical demonstration 
+that such field momentum is absolutely essential to uphold the 
+conservation of momentum law itself. But a whole school persists 
+in the Slepian approach, which puts you back inside the wire, 
+gets rid of the energy flow outside the wire at the speed of 
+light, cannot explain how a transformer works, and discards any 
+possibility of overunity COP.
+
+So one must be very discerning when one reads the Poynting 
+literature with regard to its proposed application to circuits. 
+In passing, you recall that I long since pointed out that, 
+rigorously, q is a system given by q == m_q {phi}_q. Here, you 
+can see the resemblance to the Slepian vector. Essentially 
+Slepian \almost\ discovered what charge really was made of. Note 
+that quantum field theory already treats the charge of the 
+fundamental particle as due to exchange of virtual photons between 
+the mass of the particle and the surrounding vacuum. That's all 
+the term {phi}_q \is\, since any potential is comprised of a 
+virtual particle flux, and the electrostatic scalar potential 
+{phi} is just a change in the virtual photon flux density of the 
+ambient vacuum. But by equating the mass density portion of J as 
+part of the energy flow, Slepian (and his followers today) fell 
+into the same error of \failing to separate that which is material 
+clearly from that which is nonmaterial.\
+
+So the job isn't finished; one still has to completely redo 
+classical EM theory, based on that clear separation. When that 
+is done, q and J will emerge as \systems\ of multiple, coupled 
+entities, \not\ unitary entities of only a single thing. Note that 
+Maxwell formed the theory, everything -- even the ether itself -- 
+was considered material! So there was no such separation to be 
+made, in the minds of the early theoreticians. Consequently, 
+Maxwell simply wrote down hydrodynamics equations for a material 
+fluid model of electricity, and everyone since has just blindly 
+continued with it.
+
+The Poynting equation is
+
+div(S+S') + 1/(8{pi}) {del}/{del}t (B^2 + E^2) 
+          	+ cE(i + i') = 0                            [1]
+
+where S= c/(4{pi})(E x B) is the Poynting vector, and S' is any 
+vector field whose divergence vanishes; div(S) is the rate at 
+which the stored field energy is diminishing in the unit volume 
+in question due to a net outward flow of energy; 
+1/(8{pi}) {del}/{del}t (B2 + E2) is the rate at which the amount 
+of stored field energy in the unit volume is changing, and the 
+third term cE(i + i') is the rate at which the electric field 
+does work on all the moving charges, in unit volume, losing 
+energy at that rate. Further, i represents the ordinary gross 
+macroscopic conduction current while i' represents the net 
+microscopic current (within the molecules or within the atoms).
+
+The curl of any vector field can be added to S, since the 
+divergence of the curl vanishes. In the theoretical case, EM 
+energy which flows along (outside) a wire in an open or 
+dq/dt-blocked electric circuit is just such a divergence-free 
+field. Consequently, an "open conducting circuit" -- i.e., a 
+conducting circuit in which the current dq/dt is blocked in the 
+conducting lines -- may still pass EM energy since all the 
+"energy flow" in a circuit exists in the flow of voltage 
+(potential), and voltage may flow down an ideal conductor without 
+concomitant current.
+
+The Poynting theory of equation [1] deals with the loss of EM 
+field energy from a unit volume. It states that the field energy 
+in a unit volume of interest can be lost by three methods, as 
+previously explained. The three loss terms in the equation 
+[1] do not \overtly\ allow a flow of energy into the unit volume, 
+except by the divergence loss term becoming negative and hence 
+an inflow, and the work term for translation of charged 
+particles becoming negative, in which case the particles are 
+giving up field energy to the volume.
+
+So as far as electrical circuit are concerned, the standard 
+Poynting equation is a very awkward expression, primarily adapted 
+to deal only with energy flow out of unit volume and through unit 
+area thereof. However, this shortcoming can be remedied by 
+rewriting the terms so that all expressions deal both with 
+field energy loss and field energy gain. For clarity, we use 
+the following word equation shown in Figure 1 for a change in 
+the field energy stored in a unit volume:
+
+Initial	   Amount	 Amount	     Amount  	   Amount	 
+Field	+  Gained by  -	 Lost by  -  Lost by    -  to translate  
+Energy	   Inflow	 Outflow     Divergence	   charges	 
+
+   Final
+=  Field
+   Energy
+
+     Figure 1.  Accounting of Poynting-related energy change 
+                in a unit volume.
+
+Figure 1 shows the work equation used to set up the necessary 
+mathematical relationships. One simply starts with an initial 
+amount of field energy in the unit volume, then adds all gains 
+and substracts all losses, to arrive at the final field energy 
+stored in the unit volume. By definition, we take the convention 
+that the algebraic sign of gains is positive, and the sign of 
+losses is negative. So we shall apply these principles to examine 
+the \rates\ of the energy changes as follows:
+
+Rate of	    Rate of	Rate of	       Rate of Loss	  Net Rate
+Gain by  -  Loss by  -	Loss by	    -  in Translating  =  of
+Inflow	    Outflow	Divergence     Charges		  Change
+
+     Figure 2.  Accounting of Poynting-related rate of change 
+		of stored energy.
+
+Figure 2 shows the word equation used to set up the necessary 
+rates of gains or losses of field energy in a unit volume. By 
+integrating each term over a definite time t, that term becomes 
+an amount of change after that time t has elapsed. By then adding 
+the initial EM energy, the final remaining amount of energy in 
+the unit volume can be ascertained as was shown in Figure 1.
+
+We take the initial field energy stored in the unit volume of 
+interest as
+
+	1/(8{pi}) (B_o^2 + E_o^2)				[2]
+
+where the subscript zero means _\initial.\_ We take the amount 
+remaining after the change as
+
+	1/(8{pi}) (B_f^2 + E_f^2)				[3]
+
+where the subscript f means _\final.\_ The amount gained by inflow 
+is the time integral of the instantaneous rate of inflow, or
+
+{integral over t} 1/(8{pi}) {del}/{del}t (B_in^2 + E_in^2)	[4]
+
+The amount lost by outflow is the time integral of the 
+instantaneous rate of outflow, or 
+
+{integral over t} 1/(8{pi}) {del}/{del}t (B_out^2 + E_out^2)	[5]
+
+We shall assume there is no field divergence loss, since the 
+circuitry wires act as waveguides and \energy transport flow\ is 
+confined to the waveguides. The loss in performing work to 
+translate conduction charges is given by the time integral of 
+the instantaneous rate of loss for conduction charge translation, 
+which is
+
+{integral over t} cE.(i+i')					[6]
+
+Note that, if we do not consider the internal atomic or molecular 
+charge movement, this reduces to
+
+{integral over t} cE.i					[no number]
+
+Further, if we block the charge flow i, the remainder of the term 
+reduces to zero.
+
+So with dq/dt-blocking, the instantaneous rate of change of the 
+field energy stored in the unit volume is given by
+
+1/(8{pi}) {del}/{del}t (B^2 + E^2) 
+= 1/(8{pi}) {del}/{del}t (B_in^2 + E_in^2)  
+-  1/(8{pi}) {del}/{del}t (B_out^2 + E_out^2)			[7]
+
+We note specifically that the two terms on the right side of 
+equation [7] need not be equal. If the rightmost term is largest, 
+then the stored energy is discharging. If the leftmost term on the 
+right side of equation [7] is the larger, then the stored energy 
+is increasing. If the two terms on the right side of the equation 
+are of equal magnitude, the term on the left is zero and the 
+Poynting energy is flowing into and out of the reference unit 
+volume at equal rates, so that no net change of the energy occurs 
+in that volume. This is the case for an ideal conductor, or for a 
+dq/dt-blocked, S-conducting line (for a bridge).
+
+We further point out that, if the current-free field energy is 
+being stored in an inductive collector, the B-field increase is 
+significant. If the current-free field energy is being stored in 
+a capacitive collector, the E-field increase is significant.
+
+Note that a dq/dt-blocked conducting circuit is also a conducting 
+circuit having an artificially extended \electron gas relaxation 
+time\, in the sense of our first patent application and in the 
+sense of our original paper, "The Final Secert of Free Energy", 
+released worldwide over the internet in February 1993.
+
+In fact, rigorously the EM energy flowing "in" an electrical 
+circuit does not flow \through\ the wire, but \outside\ it. The 
+wire serves as a sort of waveguide or railroad track for the energy 
+flow outside, as pointed out by Mark M. Heald, "Electric fields and 
+charges in elementary circuits", _American Journal of Physics_, 
+52(6), June 1984, p.522-526. Quoting: "The charge on the surface of 
+the wire provide two types of electric field. The charges provide 
+the field \inside\ the wire that drives the conduction current 
+according to Ohm's law. Simultaneously, the charges provide a field 
+\outside\ the wire that creates a Poynting  flux. By means of this 
+latter field, the charges enable the wire to be a guide (in the 
+sense of a railroad track) for electromagnetic energy flowing in the 
+space around the wire. Intuitively, one might prefer the notion that 
+electromagnetic energy is transported by the current, inside the 
+wires. It takes some effort to convince oneself (and one's students) 
+that this is not the case and that in fact the energy flows in the 
+space \outside\ the wire".
+
+Obviously, if we block the current dq/dt in the wire, we shall block 
+the _\expenditure_ of EM energy as work\ in that blocked current 
+loop. However, we can still pass the Poynting vector flow without 
+any expenditure, and therefore we can still pass EM energy without 
+any dissipation of it in that current loop. Since no work is being 
+performed in the current loop, no work is being done inside the 
+source for that blocked current loop -- the source being in series 
+in that loop.
+
+The primary electrical power source is \not\ dissipated whenever 
+only loss-free field energy density is extracted from it. Any 
+source of potential is \a priori\ a free source of EM field energy 
+density -- the open-circuit or dq/dt-blocked potential flows "for 
+free" and at no dissipation to the source. The Poynting vector S 
+also flows continually from an open or dq/dt-blocked circuit, 
+without dissipation of the source. The potential of the source 
+moves down the dq/dt-blocked open transmission line, so that an 
+equipotential exists everywhere along the positive line with 
+respect to the reference ground line. As is well known, a Poynting 
+vector S flows along an equipotential. Hence there is a Poynting 
+S-flow of EM field energy density, flowing down the positive line 
+and outside it, with reference to the ground return line. The 
+situation is reversed on the ground return line. For a direct 
+illustration, see John D. Kraus, _Electromagnetics_, Fourth 
+Edition, McGraw-Hill, New York, 1992, p.578, Figure 12-60(b). The 
+energy is extracted from the vacuum exchange with the dipolar 
+separation of charges inside the source, and flows along the 
+dq/dt-blocked (S-conducting) circuit wires as lossless flow of 
+potential onto collectors (such as the "electron capacitors" 
+provided by the conduction electrons). Applying this potential 
+to trapped charges in a capacitive collector allows energy to be 
+extracted from the vacuum by the source, and furnished to the 
+collector as excess field energy stored upon the blocked 
+electrical charges of the collector.
+
+At any rate, this will give you the gist of what we are about, 
+our present status, and how we are proceeding.
+
+Our next major effort is two-fold: (1) Alert the community, and 
+(2) seek out a major financial partner for \major\ capitalization 
+of our corporation.
+
+Best wishes to you in all your own endeavours,
+
+Sincerely,
+
+
+
+Tom Bearden
+May 28/29, 1995

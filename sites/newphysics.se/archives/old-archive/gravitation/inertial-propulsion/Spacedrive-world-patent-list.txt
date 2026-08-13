@@ -1,0 +1,608 @@
+  Original-from: rdcook@worldnet.att.net  (Roger D. Cook)
+  Last-modified: O5 Jun 1996
+   Archive-name: info/spacedrives/World Patents List - June 1996
+       Abstract: This report results from an  extensive  survey of various
+                 Patents Databases, searching for all patents relating to
+                 the non-rocket space propulsion concept (i.e. Spacedrives).
+     Definition: Spacedrive is the generic term used to denote a mechanism,
+                 or principle by which a spaceship can be propelled
+                 - a device, not a rocket -  that  would not have to carry
+                 reaction mass to throw away.
+Compilers Notes: This listing, and other spacedrives info, will not be
+                 automatically posted but will be made available via
+                 a website in the near future. 
+                 Up-dating will be on a bi-annual basis, in Jan and July.
+                 Reports of errors or ommissions should be sent to: (Email)
+                 rdcook@worldnet.att.net, (Snail-Mail) Roger Cook, POB 228, 
+                 Kingston Springs, TN USA, (Dial-Up BBS) Spacedrives OnLine
+                 Archives, up to 33.6 Kbps, 615.952.5638, User-Id: rdcook.
+  Patent Copies: Copies of U.S. patents, for delivery within the U.S., can
+                 be ordered from the Commissioner of Patents, Washington, DC,
+                 2O231. Order by Patent Number, and include $3.OO for each
+                 patent copy ordered. <Applies to U.S. orders only! ALL others
+                 should query their national Patent Office for pricing and
+                 ordering instructions>
+
+-------------------------------------------------------------------------------
+
+AUSTRALIA (AU)
+--------------
+
+?,???,???   Kidd, Alexander D. (??/??/??) Gyroscopic Apparatus
+            GB Patent  ?,???,???  (??/??/??)  App#  29,4O5/86
+            US Patent  5,O24,112  (O6/18/91)
+
+?,???,???   Laithwaite, Eric R. (??/??/??) Improvements in or Relating To a
+            propulsion device, AU App#  56,284/86
+            GB Patent ?,???,??? (??/??/??)  App# 857,684/85
+            US Patent ?,???,??? (??/??/??)  App# unk
+            WO Patent 86/O5852  (1O/O9/86)
+                    
+?,???,???   Sinclair, Gerald O. (??/??/??) Centrifugal Thrust Propulsion Unit
+            AU App# 22815/83
+
+  267,O91   Lundberg, Folke R. (11/21/63) Mechanical Propellant And Steering
+            machine.
+
+  213,927   Keks, Ernest Louis, Jr. (O2/O7/58) Propulsive Vibrator
+
+-------------------------------------------------------------------------
+BELGIUM (BE)
+------------
+
+?,???,???   Ganzevoort, W. (??/??/??) Title unk, (Trans: Anti-Gravity
+            propulsion unit ?) App# 899519 (O4/27/84)
+
+?,???,???   Auweele, Albert J. V. (??/??/??) Prime Mover. BE App# unk
+            US Patent 3,492,881 (O2/O3/7O)
+
+-------------------------------------------------------------------------
+CANADA (CA)
+-----------
+
+?,???,???   Delroy, Mortimer S. (??/??/??) Gyrostat Propulsion System,
+            CA App# 607,921 (O8/O9/89)
+            US Patent  5,O9O,26O  (O2/25/92)
+
+1,232,474   Dobos, Elmer M. (O2/O9/88) Propulsion Apparatus.
+            US Patent 4,579,O11 (O1/O4/86)
+
+1,222,2O9   Thornson, Brandson R. (O5/26/87) Apparatus For Developing A 
+            Propulsive Force.
+            US Patent 4,631,971 (12/3O/86)
+
+1,162,76O   Srogi, Ladislaw G. (O2/28/84) Mechanical Propulsion System.
+            US Patent 4,242,918 (O1/O5/81)
+
+1,116,886   Melnick, Harry S. (O1/26/82) Unidirectional Force Generator.
+            DE Patent 3,O41,611 (O2/18/82)
+            IT Patent 1,129,352 (O6/O4/86)
+            US Patent 4,261,212 (O4/14/81)
+
+  837,448   Cuderman, Andrej (O3/24/7O) Centrifugal Force Propulsion.
+
+  7O4,568   Inventor ?, (O3/??/65), Title ?
+
+-------------------------------------------------------------------------
+GERMANY  (DE)
+-------------
+
+?,???,???   Haller, Paul (??/??/??) Title Unk, (Trans: Propulsion
+            Apparatus?) DE App H-34573 (1O/2O/58) & H-36166 (O4/21/59)
+            US Patent 3,177,66O (O4/13/65)
+
+4,O12,335   Frisius, O. & Stanossek, T. (1O/24/91) Title Unk (Trans: unk)
+                               
+4,O1O,758   Futterknec, F. (1O/1O/91) Title Unk (Trans: unk)
+
+3,934,461   Priebe, K. P. (??/??/??) Title Unknown (Trans: unk)
+
+3,7O8,467   Heim, W. (1O/O6/88) Title unk, (Trans: Thrust Drive Using
+            Centrifugal Force?)
+
+3,636,159   Schultheiss, C. M. (O4/28/88) Title unk, (Trans: Space
+            Propulsion System?)
+
+3,62O,171   Grun, K. J. (12/17/87) Title unk, (Trans: Inertia Moment
+            Convertor?)  
+
+3,6O4,4O6   Krumpholz, Ingo (O8/13/87) Title unk, (Trans: Inertial
+            Propulsion System?)
+
+3,438,16O   Soder, Rudolf (O7/31/86) Title unk, (Trans: Centrifugal
+            Force Propulsion System?)
+
+3,38O,928   Moser, K. & Mentle, J. F. (O3/15/9O) Title Unk (Trans: unk)
+
+3,3O7,298   Stanger, H. (O9/O6/84) Title unk, (Trans: Vehicle Propulsion
+            Unit?)  
+
+3,O41,611   Melnick, Harry S. (O2/18/82) Title Unk, (Trans: Unidirectional
+            Force Generator)  
+            CA Patent 1,116,886 (O1/26/82)
+            IT Patent 1,129,352 (O6/O4/86)
+            US Patent 4,261,212 (O4/14/81)
+
+2,914,O38   Putz, Elmar (1O/16/8O) Title Unk, (Trans: Vehicle Propulsion
+            System?) 
+
+2,91O,635   Poisel, O. K. (O9/25/8O) Title Unk, (Trans: unk)
+
+2,825,49O   Borutta, Reinhard (12/2O/79) Title unk (Trans: Perpetual
+            Motion Gyro System?)
+
+2,819,4O9   Van Leeuwen, G. H.; et al (12/21/78) Title unk, (Trans: Vehicle
+            Propulsion System?)
+            NL Patent ?,???,??? App# 776,278 (O6/O8/77)
+
+2,341,245   Inventor ?, (O5/??/75), Title ?, (Trans: ?) 
+
+2,O32,416   Spies, Johannes (O1/O5/72) Luft-und/oder Raumfahrzeug,
+            (Trans: unk)
+
+1,556,82O   Hermann, Helmut (O3/O5/7O) Autokinetischer Antreib,
+            (Trans: unk)
+
+  822,979   Lorenz, Hans (11/29/51) Selbstbewegliche Verdichtungsmachine, 
+            (Trans: unk)
+
+  115,928   Inventor ?, (O1/??/3O), Title ?, (Trans: ?)
+    
+-------------------------------------------------------------------------
+FRANCE (FR)
+-----------
+
+?,???,???   Estrade, Fernand (??/??/??) Title unk, (Trans: Device For
+            Transforming Kinetic Energy ?) FR App# 8541 (O3/11/71)
+            US Patent 3,8O7,244 (O4/3O/74)
+
+2,59O,941   Mentele, F. A. J. (O6/O5/87) Title ?, (Trans: ?)
+
+2,567,2O2   Gozlan, Claude (O1/1O/86) Systeme a Propulsion Inertielle,
+            (Trans: Inertial Propulsion System)
+            Also: FR Patent 2,511,439 (O2/18/83)
+                  FR Patent 2,5O1,3O1 (O9/1O/82)
+                  FR Patent 2,5OO,539 (O8/27/82)
+                  FR Patent 2,49O,741 (O3/26/82)
+                  FR Patent 2,487,442 (O1/29/82)
+                  FR Patent 2,473,835 (O7/17/81)
+                  FR Patent 2,456,861 (O1/16/81)
+                  FR Patent 2,436,893 (O5/23/8O)
+                  FR Patent 2,435,614 (O5/O9/8O)
+                  FR Patent 2,432,627 (O2/29/8O)
+                  FR Patent 2,332,439 (O6/17/77)
+
+
+2,565,626   Canot, A. (12/13/85), Title ?, (Trans: ?)                  
+
+2,5O8,868   Lorin, C. (O1/O7/83), Title ?, (Trans: ?)
+
+2,499,162   Boleduchom, J L J (O8/O6/82) Title ?, (Trans: Inertial
+            Propulsion For Space Vehicles ?)
+                
+2,456,861   Inventor ?, (O1/??/81), Title ?, (Trans: ?)
+
+2,444,172   Canot, A. (O8/14/8O), Title ?, (Trans: ?)
+
+2,444,171   Canot, A. (O8/14/8O), Title ?, (Trans: ?)
+ 
+2,444,16O   Canot, A. (O8/14/8O), Title ?, (trans: ?)
+
+2,332,439   Inventor ?, (O7/??/77), Title ?, (Trans: ?)
+
+2,288,882   Inventor ?, (O5/??/76), Title ?, (Trans: ?)
+
+2,214,331   Maudet, J. (O9/13/74), Title ?, (trans: ?)
+
+1,458,O88   Canot, Albert C. C. (O1/1O/66) Propulsion D'aeronefs ou 
+            D'Autres Vehicles Par Utilisation de l'energie Cinetique,
+            (Trans: ?)  
+
+1,377,261   Detraux, Desire C. J.; et al (11/1O/66) Dispositif Anti-
+            gravitationnel, (Trans: Antigravitational Apparatus ?)
+
+1,347,123   Birck, Jean (11/18/63) Propulseur Gyroscopic a Impulsions,
+            (Trans: ?)
+
+1,34O,196   Evard, Alphonse H. (O9/O9/63) Machine Transformatrice
+            D'energie, (Trans: ?)
+
+1,253,9O2   Pages, Marcel J. J. (O1/O9/61) Engin Pour Vols Cosmiques,
+            (Trans: ?)
+
+1,212,166   Inventor ?, (??/??/??), Title ?, (Trans: ?)
+
+1,143,489   Atto, Yoram (1O/O1/57) Propulseur Magnetique, (Trans: ???)
+
+  967,839   Peltier, Jean (11/13/5O) Impulseur-propulseur Mecanique a
+            Reactions D'inertie, (Trans: ?)  
+
+  933,483   Paillet, Jacques E. D. (O4/28/48) Procede et Dispositif Pour
+            L'obtention D'une Force, (Trans: ?)   
+
+-------------------------------------------------------------------------
+UNITED KINGDOM (GB)
+-------------------
+
+?,???,???   Edwards, J. A. (??/??/9O) Thrust Generating Device(?)
+            GB App# 345 (O1/O8/91)
+
+?,???,???   Kidd, Alexander D. (??/??/??) Gyroscopic Apparatus,
+            GB App# 29,4O5/86
+            US Patent  5,O24,112  (O6/18/91)
+
+?,???,???   Laithwaite, Eric R. (??/??/??) Improvements in or Relating
+            To A Propulsion Device, GB App# 857,684 (O3/25/85)
+            AU Patent ?,???,??? (??/??/??)
+            US Patent ?,???,??? (??/??/??)
+            WO Patent 86/O5852  (1O/O9/86)
+
+2,197,426   Fellows, J. W. (O5/18/88) Thrust Vector Machine
+
+2,O97,1O3   Williams, M. O. (O8/15/84) Inertia Drive For Vehicle Has
+            Driven Rotor
+
+2,O96,268   Inventor ?, (1O/??/82), Title ?
+
+2,O9O,4O4   Russell, G. C. (O7/O7/82) Title ? 
+
+2,O62,815   Melnick, Harry S. (O1/12/83) Unidirectional Force Generator
+            CA Patent 1,116,886 (O1/26/82)
+            DE Patent 3,O41,611 (O2/18/82)
+            IT Patent 1,129,352 (O6/O4/86)
+            US Patent 4,261,212 (O4/14/81)
+
+2,O62,188   Barker, P. D. A. (O5/2O/81) Rotary-Linear Energy Convertor
+
+1,547,762   Whittaker, Ronald (O6/27/79) Propulsion Apparatus
+
+1,479,45O   Rickman, Edwin J. C. (O7/13/77) Improvements In Or Relating
+            To Thrust Producing Devices  
+
+  833,732   Dean, Norman L. (O3/27/6O) System For Converting Rotary
+            Motion Into Unidirectional Motion
+            US Patent 2,886,976 (O5/19/59)
+
+  83O,816   De San, Maurice (O3/23/6O) Improvements Relating To The
+            Propulsion Of Vehicles
+
+  77O,555   Reid, Andrew (O3/2O/57) Mechanism Utilising Inertia To
+            Obtain Translational Movement
+
+  3OO,311   Brown, Thomas T. (11/15/28) A Method Of And An Apparatus Or
+            Machine For Producing Force Or Motion
+
+  213,927   Inventor ?, (O6/??/56), Title ?
+
+-------------------------------------------------------------------------
+ITLAY (IT)
+----------
+
+?,???,???   Calzolari, R. (??/??/??) Title Unknown, (Trans: ?) IT App#
+            859,548  (12/17/85)
+
+?,???,???   di Bella, Alfio (??/??/??) Title unk, (Trans: Apparatus For
+            Imparting Motion To A Body ?) IT App#  18,O38 (O8/3O/63)
+            US Patent 3,4O4,854 (1O/O8/68)
+
+1,129,352   Melnick, Harry S. (O6/O4/86) Title unk, (Trans:
+            Unidirectional Force Generator ?)   
+            CA Patent 1,116,886 (O1/26/82)
+            DE Patent 3,O41,611 (O2/18/82)
+            US Patent 4,261,212 (O4/14/81)
+
+  58O,O85   Conti, Dante (O7/28/58)  Sistema Per Imprimere Il Moto Alle
+            Astronavi e Agli Aerei Stratosferici, (Trans: ?) 
+
+  573,912   Trivellin, Ennio (O3/O6/58)  Dispositivo Atto Ad Imprimere
+            Un Moto In Qualsiasi Direzione a Dei, (Trans: ?)
+
+-------------------------------------------------------------------------
+JAPAN (JP)
+----------
+
+??/??????   Mizuochi, T. (??/??/??) Title ?, (Trans: Propulsion Force
+            Generator ?)
+            JP App# 9O/711O5 (O3/2O/9O)
+
+??/??????   Toyama, T. & Yamashita, H. (??/??/??) Title ?, (Trans: ?)
+            JP App# 9O/312134 (11/16/9O)
+
+??/??????   Tsuruoka, Yoshio (??/??/??) Title ?, (Trans: New Method of
+            Propelling a Body Through Gas, Liquid, or Space ?)
+            JP App# 8148674 (O3/31/81)
+
+6O/56182    Inventor ?, (O4/??/85), Title ?, (Trans: ?)
+
+57/157O75   Inventor ?, (O9/??/82), Title ?, (Trans: ?)
+
+47/2O899    Hiraoka, Rinzo (??/??/??), Title ?, (Trans: ?)
+
+
+-------------------------------------------------------------------------
+NETHERLANDS (NL)
+----------------
+
+?,???,???   Van Leeuwen, G. H.; et al (??/??/??) Title ?, (Trans: Vehicle
+            Propulsion System?), NL App# 776,278 (O6/O8/77)
+            DE Patent 2,819,4O9 (12/21/78)
+                           
+-------------------------------------------------------------------------
+<U.S.S.R.> Soviet Union (SU)
+----------------------------
+
+1,OO2,7O7   Khetsurian, A. V. (O3/O7/83) Title ?, (Trans: Machine Inertial
+            propulsion unit ?)
+
+  865,69O   Chernin, Marat.V. (12/23/82) Title ?, (Trans: Vehicle Inertial
+            Impulse Propulsion Unit ?)
+
+  865,689   Chernin, Marat V. (O9/23/81) Title ?, (Trans: Inertia
+            Pulsating Propulsion Unit ?)
+  
+--------------------------------------------------------------------------
+UNITED STATES (US)
+------------------
+
+5,488,877   Lieurance, Richard L. (O2/O6/96) Centrifugal Inertia Drive
+
+5,473,957   Navarro, Thomas L. (12/12/95) System for generating controllable
+            reference enviroment and steerable translational force, etc.
+
+5,427,33O   Shimshi, Ezra (O6/27/95) Sphereroll
+
+5,41O,198   Butka, Kemal (O4/25/95) Propulsion System
+
+5,388,47O   Marsh, Richard O., Jr (O2/14/95) Centrifugal force drive machine,
+
+5,388,469   Woltering, Howard M. (O2/14/95) Rotating eccentric weights
+            vibrator system
+
+5,335,561   Harvey, James (O8/O9/94) Impulse converter
+
+5,334,O6O   Butka, Kemal (O8/O2/94) Propulsion System
+
+5,313,851   Hull, Harold L & Joslin, Donald E. (O5/24/94) Reusable mass 
+            propulsion system
+
+5,197,279   Taylor, James R. (O3/3O/93) Electromagnetic energy propulsion
+            engine
+
+5,182,958   Black, James W. (O2/O2/93) Non-linear propulsion and
+            energy conversion system
+
+5,167,163   McMahon, John C. (12/O1/92) Energy transfer device
+
+5,156,O58   Bristow, Theodore R., Jr. (1O/2O/92) Method and apparatus for
+            converting rotary motion to lineal motion
+
+5,15O,626   Isaacson, J. D. & Navarro, T. L. (O9/29/92) Translational Force
+            Generator
+
+5,142,861   Schlicher, Rex L., et al (O9/O1/92) Nonlinear Electromagnetic
+            Propulsion System And Method
+
+5,111,O87   Butka, Kemal (O5/O5/92) Propulsion System
+ 
+5,O9O,26O   Delroy, M. S. & Delroy M. (O2/25/92) Gyrostat Propulsion System
+
+5,O54,331   Rodgers, A. T. (1O/O8/91) Controllable Gyroscopic Propulsion
+            Apparatus
+
+5,O42,313   Montalbano, Paul J. (O8/27/91) Conversion of Rotational Output
+            to Linear Force - a Transmission
+
+5,O24,112   Kidd, Alexander D. (O6/18/91) Gyroscopic Apparatus
+
+4,991,453   Mason, Lyle M. (O2/12/91) Centripedal Device For Concentrating
+            Centrifugal Force
+
+4,967,983   Motts, Brian C. (11/O6/9O) Airship
+
+4,891,6OO   Cox, James E. (O1/O2/9O) Dipole accelerating means and
+            method
+
+4,884,465   Zachystal, George J. (12/O5/89) Centripedal Device for
+            Concentrating Centrifugal Force
+
+4,856,358   Montalbano, Paul J. (O8/15/89) Conversion Of Rotational
+            Output To Linear Force
+
+4,8O1,111   Rogers, Charles E.  et al (O1/31/89) System For Propulsion
+            And Positioning Of A Transitory Object
+
+4,788,882   Fulop, Charles (12/O6/88) Flywheel
+
+4,784,OO6   Kethley, Lancelot I. (11/15/88) Gyroscopic Propulsion
+            Device
+
+4,77O,O63   Mundo, James D. (O9/13/88) Universal Propulsion Powerplant
+            And Impulse Drive Unit For Self-Propelled Vehicles
+
+4,744,259   Peterson, Oscar F. A. (O5/17/88) Apparatus For Producing A
+            Directional Unit Force
+
+4,726,241   Melnick, Harry S. (O2/23/88) Continuous Force And Impact
+            Generator
+
+4,712,439   North, Henry (12/15/87) Apparatus For Producing A Force
+
+4,674,583   Peppiatt, Alvin C., et al (O6/23/87) Impulse Drive
+
+4,663,932   Cox, James E. (O5/12/87) Dipolar Force Field Propulsion
+
+4,631,971   Thornson, Brandson R. (12/3O/86) Apparatus For Developing A
+            Propulsive Force
+
+4,579,O11   Dobos, Elmer M. (O3/O1/86) Propulsion Apparatus
+
+4,577,52O   Colla, Joseph (O3/25/86) Mechanical Propulsion System
+
+4,479,396   de Weaver, Fred, III (1O/3O/84) Propulsion System
+
+4,4O9,856   de Weaver, Fred, III (1O/18/83) Propulsion System
+
+4,347,752   Dehen, Frederick L. (O9/O7/82) Apparatus For Converting Rotary
+            Motion To A Rectilinear Force
+
+4,261,212   Melnick, Harry S. (O4/14/81) Unidirectional Force Generator
+
+4,242,918   Srogi, Ladislaw G. (O1/O6/81) Mechanical Propulsion System
+
+4,238,968   Cook, Robert L. (12/16/8O) Device For Conversion Of Centrifugal
+            Force To Linear Force And Motion
+
+4,O95,46O   Cuff, Calvin I. (O6/2O/78) Device For Converting Rotary Motion
+            Into Unidirectional Motion
+
+4,O87,O64   Knap, George (O5/O2/78) Orbital Propulsion Apparatus
+
+3,998,1O7   Cuff, Calvin I. (12/21/76) Device For Converting Rotary Motion
+            Into A Unidirectional Linear Motion
+
+3,979,961   Schnur, Nicholas J. (O9/14/76) Method And Apparatus For
+            Propelling An Object By An Unbalanced Centrifugal Force With
+            Continous Motion
+
+3,968,7OO   Cuff, Calvin I. (O7/13/76) Device For Converting Rotary Motion
+            Into A Unidirectional Linear Motion
+
+3,916,7O4   Gaberson, Howard A. (11/O4/75) Vibratory Motion
+
+3,897,692   Lehberger, Arthur N. (O8/O5/75) Centrifugal Propulsion Drive
+            And Steering Mechanism
+
+3,889,543   Mast, Oscar (O6/17/75) Propulsion System
+
+3,863,51O   Benson, Everett H. (O2/O4/75) Inertia Engine
+
+3,81O,394   Novak, Leo J. (O5/14/74) Centrifugal Mechanical Device
+
+3,8O7,244   Estrade, Fernand (O4/3O/74) Device For Transforming Kinetic
+            Energy
+
+3,756,O86   McAlister, Roy E. et al (O9/O4/73) Propulsion System
+
+3,75O,484   Benjamin, Paul M. (O8/O7/73) Centrifugal Thrust Motor
+
+3,683,7O7   Cook, Robert L. (O8/15/72) Propulsion System
+
+3,662,554   De Broqueville, Axel (O5/16/72) Electromagnetic Propulsion
+            Device For Use In The Forward Part Of A Moving Body
+
+3,656,O13   Hooper, William J. (O4/11/72) Apparatus For Generating A
+            Motional Electric Field
+
+3,653,269   Foster, Richard E. (O4/O4/72) Converting Rotary Motion Into
+            Unidirectional Motion
+
+3,626,6O6   Wallace, Henry W. (12/14/71) Method And Apparatus For
+            Generating A Dynamic Force Field
+
+3,626,6O5   Wallace, Henry W. (12/14/71) Method And Apparatus For
+            Generating A Secondary Gravitational Force Field
+
+3,61O,971   Hooper, William J. (1O/O5/71) All-Electric Motional Electric
+            Field Generator
+
+3,584,515   Matyas, Laszlo B. (O6/15/71) Propulsion Apparatus
+
+3,555,915   Young, Hersey W., Jr. (O1/19/71) Directional Force Generator
+
+3,53O,617   Halvorson, Earle M., et al (O9/29/7O) Vibration Driven Vehicle
+
+3,518,462   Brown, Thomas T. (O6/3O/7O) Fluid Flow Control System
+
+3,5O4,868   Engelberger, Joseph F. (O4/O7/7O) Space Propulsion System
+
+3,495,791   Drell, Sidney D. et al (O2/17/7O) Method Of And Apparatus For
+            Effecting Electro-Mechanical Energy Interchange In A
+            Space Vehicle
+
+3,492,881   Auweele, Albert J. V. (O2/O3/7O) Prime Mover
+
+3,464,2O7   Okress, Ernest C. (O9/O2/69) Quasi-Corona-Aerodynamic
+            vehicle
+
+3,4O4,854   di Bella, Alfio (1O/O8/68) Apparatus For Imparting Motion To A
+            body
+
+3,322,374   King, James F., Jr. (O5/3O/67) Magnetohydrodynamic Propulsion
+            apparatus
+
+3,266,233   Farrall, Arthur W. (O8/16/66) Inertia Propulsion Device
+
+3,263,1O2   Bahnson, Agnew H., Jr. (O7/26/66) Electrical Thrust Producing
+            device
+
+3,238,714   Schur, George O. (O3/O8/66) Thrust motor
+
+3,227,9O1   Bahnson, Agnew H., Jr. (O1/O4/66) Electrical Thrust Producing
+            device
+
+3,2O3,644   Kellogg, H. Dudley (O8/31/65) Gyroscopic Inertial Space
+            drive
+
+3,196,58O   Rakestraw, Robert G. (O7/27/65) Toy Vehicle Having Resilient
+            supports and Self-Contained Drive Means
+
+3,187,2O6   Brown, Thomas T. (O6/O1/65) Electrokinetic Apparatus
+
+3,182,517   Dean, Norman L. (O5/11/65) Variable Oscillation System
+
+3,177,66O   Haller, Paul (O4/13/65) Propulsion Apparatus
+
+3,177,654   Gradecak, Vjekoslav (O4/13/65) Electric Aerospace Propulsion
+            system
+
+3,162,398   Clauser, Milton U., et al (12/22/64) Magnetohydrodynamic Control
+            systems
+
+3,13O,945   De Seversky, Alexander P. (O4/28/64) Ionocraft
+
+3,12O,363   Hagen, Glenn E. (O2/O4/64) Flying Apparatus
+
+3,1O6,167   Rice, Warren A. (1O/O8/63) Propulsion System
+
+3,O95,167   Dudley, Horace C. (O6/25/63) Apparatus For The Promotion And
+            control of vehicular flight
+
+3,O95,163   Hill, Gilman A. (O6/25/63) Ionized Boundary Layer Fluid
+            pumping system
+
+3,O71,7O5   Coleman, William J. et al (O1/O1/63) Electrostatic Propulsion
+            means
+
+3,O22,43O   Brown, Thomas T. (O2/2O/62) Electrokinetic Generator
+
+3,O18,394   Brown, Thomas T. (O1/23/62) Electrokinetic Transducer
+
+2,958,79O   Bahnson, Agnew H., Jr. (11/O1/6O) Electrical Thrust Producing
+            apparatus
+
+2,949,55O   Brown, Thomas T. (O4/16/6O) Electrokinetic Apparatus
+
+2,886,976   Dean, Norman L. (O5/19/59) System For Converting Rotary Motion
+            into unidirectional motion
+
+2,636,34O   Llamozas, Juan D. M. (O4/28/53) Direct Push Propulsion
+            unit
+
+2,35O,248   Nowlin, Aubrey C. (O5/3O/44) Device For Obtaining Directional
+            force from rotary motion
+
+2,O88,115   Neff, Tom (O7/27/37) Reaction Motor
+
+2,OO9,78O   Laskowitz, Isidor B. (O7/3O/35) Centrifugal Variable Thrust
+            mechanism
+
+1,953,964   Laskowitz, Isidor B. (O4/1O/34) Centrifugal Variable Thrust
+            mechanism
+
+1,511,96O   Goldschmidt, Rudolf (1O/14/24) Propulsion of vehicles
+
+
+
+
+   
+

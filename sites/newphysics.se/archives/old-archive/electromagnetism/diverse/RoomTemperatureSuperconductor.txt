@@ -1,0 +1,262 @@
+From: supercon@cnj.digex.net (Superconductivity Publications)
+Newsgroups: alt.sci.physics.new-theories
+Subject: Spectacular Claims for Unlimited Energy
+Date: 6 Jul 1994 16:48:40 GMT
+Organization: Superconductivity Publications, Inc., Somerset, NJ USA
+Lines: 250
+Message-ID: <2ven98$mjn@news1.digex.net>
+NNTP-Posting-Host: cnj.digex.net
+X-Newsreader: TIN [version 1.2 PL2]
+
+[ Article crossposted from sci.physics ]
+[ Author was Superconductivity Publications ]
+[ Posted on 6 Jul 1994 16:00:25 GMT ]
+
+The following article appears in the June 1994 monthly technical
+edition of Superconductivity News (Vol. 6, No. 42).
+
+William Jay Fogal, president of Quick Chek Industries (Martinez, GA)
+has invented and patented an electronic device for which he has made
+very broad claims.  Others learning about the device have further
+extrapolated the claims to the point that if real, the device means
+the end of power utilities, the rendering useless of the entire
+electrical power grid, the demise of manufacturers of electrical
+generators and electrical cable, and a dramatic reduction in the
+activities of hundreds of thousands of ancillary service providers.
+Most industries will have to change or die.  The infrastructure
+alterations will be the most profound the world has ever witnessed.
+While the odds are stacked against it being real, the staff of
+Superconductivity News (SN) believes it is important to report the
+events as they occur.
+
+Fogal is not claiming he has invented a room temperature
+superconductor.  What he has invented is either completely fatuous or
+it is astounding in that it strikes at the very core theoretical
+underpinnings of electromechanics.  Fogal told SN that his device grew
+out of his efforts to fix a broken car radio in the mid 1970s.  As he
+got past the wiring and the circuits and into the semiconductors
+actually running the radio, he made changes that greatly improved the
+audio quality.  He then let his ideas lay idle for more than a decade
+before finally returning to the research in the late 1980s.
+
+Fogal says his charged barrier semiconductor device allows electrons
+to flow without resistance (i.e., as in superconductors) at room
+temperature.  He claims the device demonstrates a very high AC voltage
+and AC current gain.  His charged barrier device is on a bipolar
+design that can be incorporated in (MOS) metal oxide semiconductor
+designs, as well as multiple gate devices.  It operates on a hall
+effect electromagnetic field internal device.  The hall effect
+magnetic field forces electron flow and angular spin of the electrons
+in the same direction to the top of the conduction bands in the
+crystal lattice on semiconductor devices, unlike (SOI) silicon on
+insulator devices that force electron flow to the surface of the
+semiconductor lattice.  "Unlike superconductors which generate an
+external field, my semiconductor creates a self-regulating magnetic
+field internal to the device," Fogal said.
+
+-- Fogal's Description of His Device --
+
+Charged barrier semiconductor devices incorporate a base plate member
+of a semiconductor crystal.  Also incorporated with the base plate
+member is a dialectic material and a second base plate member.  The
+combination of the two base plate members constitutes an electrolytic
+capacitor.  The first base plate member will create a transverse
+electric field that is known as a hall effect in the base plate member
+of the semiconductor crystal.  The ratio of the transverse electric
+field strength to the product of the current and the magnetic field
+strength is called the hall coefficient, and its magnitude is
+inversely proportional to the carrier concentration on the base plate
+member.  The product of the hall coefficient and the conductivity is
+proportional to the mobility of the carriers when one type of carrier
+is dominant.  Since the base plate member is tied directly to the
+emitter junction of the semiconductor, the hall coefficient comes into
+play with the creation of a one pole electromagnet in the base plate
+member.
+
+The hall effect of the electrolytic capacitor, in relation to the
+position on the crystal lattice, will force electron angular spin in
+the same direction and electron flow to the top of the conduction
+bands in the lattice.  The magnetic flux and the density of the
+carriers on the electrolytic capacitor plate are in direct proportion
+to the magnetic flux and carrier concentration on the emitter junction
+on the semiconductor crystal.
+
+Since the angular spin and the flow of the electrons are in the same
+direction, due to the influence of the electromagnetic field, the
+electron lattice interaction factor does not come into play.  The
+electron wave density is greater and the mobility of the electron flow
+is faster.  The device does not exhibit frequency loss in the wave.
+
+The base or gate of the semiconductor is more sensitive to input
+signal.  These devices will typically turn on with an input to the
+junction in the area of 0.2 MV to 0.4 MV with an output at the
+collector junction of 450 MV at 133.5 UA of current.
+
+-- Electron Wave Function In Charged Barrier Technology --
+
+Think of the conduction bands in a crystal lattice as a highway.
+Electrons in the free state will move along this highway.  The only
+difference is the electron angular spin can be in different
+directions.  With the electrons spinning in different directions, the
+electrons would travel on different lanes of the highway and
+collisions can occur.  The scattering and the collision of the
+electrons can cause friction and resistance to the flow.  The
+resistance to the flow and the friction can cause semiconductors to
+run hot.
+
+In semiconductor devices, this is called lattice scattering or
+electron lattice interaction.  If we could make the electrons move in
+one direction, and also spin in the same direction, then we could have
+more traffic electrons (on the highway) without having the resistance
+or the collisions.  We could put a barrier between the lanes on the
+highway.  But, the electrons could still spin in different directions.
+But, what if we could charge this barrier?!  Turn this barrier into an
+electromagnetic field!  An electromagnetic field in one direction.  A
+one pole electromagnet!  A hall effect magnetic field.  This one pole
+electromagnetic field would make almost all of the electrons spin in
+the same direction.  Because the electrons are a negative charge and
+the electromagnetic field has a negative charge, the electrons travel
+in unison and then we could have more electrons on the highway, and
+the electron travel could be faster.
+
+The orientation of the spin of the electrons in the crystal lattice,
+due to the electromagnetic field, has a direct impact on the formation
+of the wave.  If the orientation of the spin of the electrons are in
+unison, there will be no loss in the wave nature, and the density of
+the wave will be greater, and the frequency of the wave will be
+complete.  If the spin of the electrons in the lattice are in
+different directions, the wave nature will be affected and there will
+be a loss in the density of the wave.  And, there will be a gap in the
+frequency of the wave.
+
+-- Patent Issued --
+
+Fogal filed an application for a US patent covering the design on
+March 1, 1991 and awarded No. 5,196,809, titled "High gain, low
+distortion, faster switching transistor," on March 23, 1993.  The
+patent includes figures, diagrams, and several data plots, e.g. output
+signal vs. input signal (vac) for the Fogal device vs. a standard
+transistor.  The patent was Fogal's first, but he has since
+received a second patent, No. 5,311,139, covering a fuse testing
+device that has nothing to do with the semiconductor.  Another US
+patent application covering improvements to the semiconductor was
+filed in January of this year.  The patent abstract and claim 1
+follow.
+
+-- Patent Abstract --
+
+A transistor in which the emitter terminal is coupled to ground
+through a filter capacitor.  The filter capacitor has a capacitance of
+from about 0.2 uf to about 22 uf and can be connected either by itself
+or in parallel with a resistor, depending upon the circuit in which it
+is used.  The incorporation of a filter greatly of such a capacitance
+level provides greatly improved gain and less distortion of the input
+signal, to permit a high output to be achieved in fewer amplifier
+stages and with less current draw and heating than in conventional
+transistor amplifier stage circuits.  Additionally, the transistor can
+be provided in a unitary structure by incorporating the filter
+capacitor directly on the transistor chip, and can also be provided by
+incorporating the transistor and a resistor within the casing of a
+filter capacitor.
+
+Claim 1
+
+a)	a substrate;
+b) 	one of a NPN and a PNP transistor integrally formed on the
+	substrate, the transistor having a base, a collector, and an
+	emitter;
+c)     	a parallel resistor and filter capacitor network coupled with
+	the emitter and mounted on the transistor, to form an integral
+	part of the integrated circuit, the filter capacitor including
+	an outer casing; and
+d)	base, collector, and emitter terminals on the substrate and
+	coupled with the base, the collector, and the emitter,
+	respectively, to permit the integrated circuit to be connected
+	with an electronic circuit, wherein the integrated circuit is
+	contained within the filter capacitor outer casing.
+
+-- Prototypes Fabricated --
+
+Fogal told SN that he has made six prototypes of his device.
+Prototype radios and computer modems have been fabricated employing
+the device for demonstration purposes.  Fogal emphasizes the noise
+reduction aspects of his semiconductor.
+
+Through the help of a colleague, Allan Ames of Advanced Scientific
+Applications (Houston, TX), one of Fogal's semiconductors will be
+tested by scientists at the Texas Center for Superconductivity at the
+University of Houston.  This is being arranged through Wei-Kan Chu.
+SN discussed the situation with Chu and he confirmed that testing will
+be done after the documents he had received were reviewed.  SN's
+editor-in-chief reviewed what the device might mean with Chu.  Clearly
+Chu had not had the opportunity to give the matter much thought.
+
+Thomas E. Bearden (Huntsville, AL) believes Fogal's semiconductor
+represents a true overunity electrical device.  "Electromagnetics is
+over 100 years old; many of its assumptions are flat wrong," Bearden
+told us.  He relates the way the Fogal semiconductor works to the way
+heat pumps function, but says it takes it one step beyond.  A Fogal
+semiconductor simply stops electrons from flowing and passes the pure
+potential energy from the now-free electrons with the circuit blocking
+the drift current.  Unlike superconductors, pairs of electrons are not
+needed to pass the current along without resistance.
+
+Bearden added that, based on endurance load tests on the Fogal
+semiconductor, they are led to the firm conclusion that the chip
+actually stops the longitudinal flow of electrons, strips them of
+their energy, and passes the pure energy along without resistance.  In
+this regard he says it behaves like a heat pump but goes one step
+beyond to pull energy from the vacuum.
+
+-- SN Analysis and Comment --
+
+It is important to note that the device does not violate the rules of
+thermodynamics involving the conservation of energy.  It does not make
+energy from nothing.  One end of a Fogal circuit would provide
+electricity for work such as running a light bulb or a computer, and
+the other end will draw energy from the environment and get quite cold
+in the process.
+
+The best aspect of this story is that either a Fogal semiconductor
+works or it doesn't.  There is nothing sophisticated in its
+construction and there are no mysterious materials fabrication steps
+involved.  There should not be any gray or cloudy areas.  Testing
+should be straightforward.
+
+Q:	What are the odds of its being real?
+A: 	If it is real, you will hear more about it soon enough.  If it
+	isn't, think how much fun you have had reading this article.
+
+Q:	Are there any intrinsic limitations if the device is real?
+A:	None we can foresee.
+
+Q:	What does it mean to me?
+A:	It is a black or white situation.  If the device is real and 
+	Beardon's extrapolation is accurate it means:
+
+     -     the end of the superconductivity industry as we know it within
+	   a few years.
+     -     the immediate obsolescence of all engine, machinery, and 
+           electronics equipment designs.
+     -     the beginning of a long-term scaleback by electrical utilities.
+     -     a massive reorganization of industry and commerce.
+     -     bankruptcy for millions of businesses that are unable to adapt.
+     -     widespread unemployment forcing retraining on a scale never 
+           before witnessed.
+     -     hyperinflation in economies that do not prepare for the changes. 
+     -     the price of precious metals and real estate rising rapidly.
+     -     a potential shift in the world balance of power.
+
+Of course, it might not be real . . . and nothing will happen.
+
+Are we having fun yet? :)
+
+--
+    Superconductivity Publications    | Publishers of the print magazines:   
+      710 Easton Avenue, Suite C      |  - Superconductivity News             
+     Somerset, NJ 08873-1855, USA     |  - Diamond Depositions Science & Tech.
+ Ph: (908)846-2002, Fx: (908)846-2050 |  - Diamond Industry Week              
+ C. Jim Russell, PhD, Editor in Chief |  - And coming soon . . . NanoNews     
+   For free sample issues, respond to this message with your postal address!
+
+

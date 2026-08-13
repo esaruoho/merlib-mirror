@@ -1,0 +1,3952 @@
+{
+  "domain": "newphysics.se",
+  "source_url": "http://newphysics.se",
+  "entry": "index.html",
+  "pages_total": 185,
+  "pages_reachable": 121,
+  "pages_unreached": 64,
+  "body_chars": 948142,
+  "extractor": "builtin",
+  "generated": "2026-08-12T20:40:30Z",
+  "pages": [
+    {
+      "order": 1,
+      "title": "Swedish Association for New Physics",
+      "path": "index.html",
+      "slug": "001-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "images/gblnav_left.gif",
+        "images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "index.html",
+        "index_se.html"
+      ],
+      "chars": 2585
+    },
+    {
+      "order": 2,
+      "title": "About the Swedish Association for New Physics",
+      "path": "about/index.html",
+      "slug": "002-about-the-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/adr1.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "index.html",
+        "about/contact.html",
+        "about/mailinglists.html",
+        "about/membership.html",
+        "index.html",
+        "about/index_se.html"
+      ],
+      "chars": 3293
+    },
+    {
+      "order": 3,
+      "title": "Research - Swedish Association for New Physics",
+      "path": "research/index.html",
+      "slug": "003-research-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "research/activities.html",
+        "research/projects.html",
+        "research/resources.html",
+        "archives/maps/index.html",
+        "index.html",
+        "research/index_se.html"
+      ],
+      "chars": 3190
+    },
+    {
+      "order": 4,
+      "title": "Archives Overview - Swedish Association for New Physics",
+      "path": "archives/index.html",
+      "slug": "004-archives-overview-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/maps/index.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 2701
+    },
+    {
+      "order": 5,
+      "title": "Publish and contribute research - Swedish Association for New Physics",
+      "path": "publish/index.html",
+      "slug": "005-publish-and-contribute-research-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/adr2.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "index.html",
+        "publish/index_se.html"
+      ],
+      "chars": 2147
+    },
+    {
+      "order": 6,
+      "title": "Members information - Swedish Association for New Physics",
+      "path": "members/index.html",
+      "slug": "006-members-information-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/adr1.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "about/membership.html",
+        "index.html",
+        "members/index_se.html"
+      ],
+      "chars": 779
+    },
+    {
+      "order": 7,
+      "title": "Support us - Swedish Association for New Physics",
+      "path": "support/index.html",
+      "slug": "007-support-us-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "index.html",
+        "support/index_se.html"
+      ],
+      "chars": 1161
+    },
+    {
+      "order": 8,
+      "title": "Contact - Swedish Association for New Physics",
+      "path": "about/contact.html",
+      "slug": "008-contact-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/adr1.gif",
+        "/images/adr2.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "index.html",
+        "about/index.html",
+        "about/mailinglists.html",
+        "about/membership.html",
+        "index.html",
+        "about/contact_se.html"
+      ],
+      "chars": 1013
+    },
+    {
+      "order": 9,
+      "title": "Organisationen f\u00f6r Ny Fysik",
+      "path": "index_se.html",
+      "slug": "009-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "images/gblnav_left.gif",
+        "images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "index.html"
+      ],
+      "chars": 2379
+    },
+    {
+      "order": 10,
+      "title": "Mailing lists - Swedish Association for New Physics",
+      "path": "about/mailinglists.html",
+      "slug": "010-mailing-lists-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/adr4.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "index.html",
+        "about/index.html",
+        "about/contact.html",
+        "about/membership.html",
+        "index.html",
+        "about/mailinglists_se.html"
+      ],
+      "chars": 1072
+    },
+    {
+      "order": 11,
+      "title": "Membership - Swedish Association for New Physics",
+      "path": "about/membership.html",
+      "slug": "011-membership-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/adr1.gif",
+        "/images/adr1.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "index.html",
+        "about/index.html",
+        "about/contact.html",
+        "about/mailinglists.html",
+        "index.html",
+        "about/membership_se.html"
+      ],
+      "chars": 1721
+    },
+    {
+      "order": 12,
+      "title": "Om Organisationen f\u00f6r Ny Fysik",
+      "path": "about/index_se.html",
+      "slug": "012-om-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/adr1.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "about/contact_se.html",
+        "about/mailinglists_se.html",
+        "about/membership_se.html",
+        "about/index.html"
+      ],
+      "chars": 3341
+    },
+    {
+      "order": 13,
+      "title": "Activities - Swedish Association for New Physics",
+      "path": "research/activities.html",
+      "slug": "013-activities-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "research/index.html",
+        "research/projects.html",
+        "research/resources.html",
+        "archives/maps/index.html",
+        "index.html",
+        "research/activities_se.html"
+      ],
+      "chars": 1118
+    },
+    {
+      "order": 14,
+      "title": "Projects, lectures & papers - Swedish Association for New Physics",
+      "path": "research/projects.html",
+      "slug": "014-projects-lectures-papers-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "research/index.html",
+        "research/activities.html",
+        "research/potentialprojects.html",
+        "research/testbench.html",
+        "research/resources.html",
+        "archives/maps/index.html",
+        "index.html",
+        "research/projects_se.html"
+      ],
+      "chars": 2465
+    },
+    {
+      "order": 15,
+      "title": "Resources - Swedish Association for New Physics",
+      "path": "research/resources.html",
+      "slug": "015-resources-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "research/index.html",
+        "research/activities.html",
+        "research/projects.html",
+        "research/organizations.html",
+        "archives/maps/index.html",
+        "index.html",
+        "research/resources_se.html"
+      ],
+      "chars": 1669
+    },
+    {
+      "order": 16,
+      "title": "Maps of research areas - Swedish Association for New Physics",
+      "path": "archives/maps/index.html",
+      "slug": "016-maps-of-research-areas-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../../images/gblnav_left.gif",
+        "../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/adr1.gif",
+        "../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/maps/anomalies/index.html",
+        "archives/maps/machines/index.html",
+        "archives/maps/waterplasma/index.html",
+        "archives/maps/gravitation/index.html",
+        "archives/other.html",
+        "archives/maps/anomalies/index.html",
+        "archives/maps/machines/index.html",
+        "archives/maps/waterplasma/index.html",
+        "archives/maps/gravitation/index.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 2316
+    },
+    {
+      "order": 17,
+      "title": "Forskning - Organisationen f\u00f6r Ny Fysik",
+      "path": "research/index_se.html",
+      "slug": "017-forskning-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "research/activities_se.html",
+        "research/projects_se.html",
+        "research/resources_se.html",
+        "archives/maps/index.html",
+        "research/index.html"
+      ],
+      "chars": 3251
+    },
+    {
+      "order": 18,
+      "title": "Other archives - Swedish Association for New Physics",
+      "path": "archives/other.html",
+      "slug": "018-other-archives-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/maps/index.html",
+        "archives/fnysik/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "index.html",
+        "archives/other_se.html"
+      ],
+      "chars": 2415
+    },
+    {
+      "order": 19,
+      "title": "Fnysik",
+      "path": "archives/fnysik/index.html",
+      "slug": "019-fnysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../../images/gblnav_left.gif",
+        "../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/other.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/1_1/index.html",
+        "archives/fnysik/1_2/index.html",
+        "archives/fnysik/2_1/index.html",
+        "archives/fnysik/2_2/index.html",
+        "archives/fnysik/3_1/index.html",
+        "index.html",
+        "archives/fnysik/index_se.html"
+      ],
+      "chars": 1703
+    },
+    {
+      "order": 20,
+      "title": "Old unconventional research archive (Elektromagnum) - Swedish Association for New Physics",
+      "path": "archives/old-archive/index.html",
+      "slug": "020-old-unconventional-research-archive-elektromagnum-swedish-association-for-new-ph",
+      "reachable_from_entry": true,
+      "images": [
+        "../../images/gblnav_left.gif",
+        "../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/maps/index.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/keelynet/index.html",
+        "archives/old-archive/conferences/index.html",
+        "archives/old-archive/electromagnetism/index.html",
+        "archives/old-archive/free-energy/index.html",
+        "archives/old-archive/gravitation/index.html",
+        "archives/old-archive/parapsychological-effects/index.html",
+        "archives/old-archive/quantum-mechanics/index.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 2826
+    },
+    {
+      "order": 21,
+      "title": "KeelyNet Mirror -Swedish Association for New Physics",
+      "path": "archives/keelynet/index.html",
+      "slug": "021-keelynet-mirror-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../../images/gblnav_left.gif",
+        "../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/maps/index.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/energy/index.html",
+        "archives/keelynet/diagrams/index.html",
+        "archives/keelynet/gravity/index.html",
+        "archives/keelynet/Keely/index.html",
+        "archives/keelynet/flanagan/index.html",
+        "archives/keelynet/ecology/index.html",
+        "archives/keelynet/pd/index.html",
+        "archives/keelynet/unclass/index.html",
+        "archives/keelynet/books/index.html",
+        "archives/keelynet/contact/index.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 3376
+    },
+    {
+      "order": 22,
+      "title": "Arkiv\u00f6versikt - Organisationen f\u00f6r Ny Fysik",
+      "path": "archives/index_se.html",
+      "slug": "022-arkivoversikt-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/maps/index.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/index.html"
+      ],
+      "chars": 2751
+    },
+    {
+      "order": 23,
+      "title": "Publicera och presentera forskningsresultat - Organisationen f\u00f6r Ny Fysik",
+      "path": "publish/index_se.html",
+      "slug": "023-publicera-och-presentera-forskningsresultat-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/adr2.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "publish/index.html"
+      ],
+      "chars": 2182
+    },
+    {
+      "order": 24,
+      "title": "Medlemsinfo - Organisationen f\u00f6r Ny Fysik",
+      "path": "members/index_se.html",
+      "slug": "024-medlemsinfo-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/adr1.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "index.html",
+        "about/membership_se.html",
+        "about/membership.html",
+        "members/index.html"
+      ],
+      "chars": 798
+    },
+    {
+      "order": 25,
+      "title": "St\u00f6d oss - Organisationen f\u00f6r Ny Fysik",
+      "path": "support/index_se.html",
+      "slug": "025-stod-oss-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "support/index.html"
+      ],
+      "chars": 1130
+    },
+    {
+      "order": 26,
+      "title": "Kontakt - Organisationen f\u00f6r Ny Fysik",
+      "path": "about/contact_se.html",
+      "slug": "026-kontakt-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/adr1.gif",
+        "/images/adr2.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "about/index_se.html",
+        "about/index_se.html",
+        "about/mailinglists_se.html",
+        "about/membership_se.html",
+        "about/contact.html"
+      ],
+      "chars": 1020
+    },
+    {
+      "order": 27,
+      "title": "Mailinglistor - Organisationen f\u00f6r Ny Fysik",
+      "path": "about/mailinglists_se.html",
+      "slug": "027-mailinglistor-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/adr4.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "about/index_se.html",
+        "about/index_se.html",
+        "about/contact_se.html",
+        "about/membership_se.html",
+        "about/mailinglists.html"
+      ],
+      "chars": 1116
+    },
+    {
+      "order": 28,
+      "title": "Medlemskap - Organisationen f\u00f6r Ny Fysik",
+      "path": "about/membership_se.html",
+      "slug": "028-medlemskap-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/adr1.gif",
+        "/images/adr1.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "about/index_se.html",
+        "about/index_se.html",
+        "about/contact_se.html",
+        "about/mailinglists_se.html",
+        "about/membership.html"
+      ],
+      "chars": 1876
+    },
+    {
+      "order": 29,
+      "title": "Aktiviteter - Organisationen f\u00f6r Ny Fysik",
+      "path": "research/activities_se.html",
+      "slug": "029-aktiviteter-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "research/index_se.html",
+        "research/projects_se.html",
+        "research/resources_se.html",
+        "archives/maps/index.html",
+        "research/activities.html"
+      ],
+      "chars": 1080
+    },
+    {
+      "order": 30,
+      "title": "Potential Projects - Swedish Association for New Physics",
+      "path": "research/potentialprojects.html",
+      "slug": "030-potential-projects-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/adr1.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "research/index.html",
+        "research/projects.html",
+        "research/activities.html",
+        "research/testbench.html",
+        "research/resources.html",
+        "archives/maps/index.html",
+        "archives/fnysik/1_2/index.html",
+        "archives/fnysik/1_1/index.html",
+        "index.html",
+        "research/potentialprojects_se.html"
+      ],
+      "chars": 7258
+    },
+    {
+      "order": 31,
+      "title": "In the Test bench - Swedish Association for New Physics",
+      "path": "research/testbench.html",
+      "slug": "031-in-the-test-bench-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "research/index.html",
+        "research/projects.html",
+        "research/activities.html",
+        "research/potentialprojects.html",
+        "research/resources.html",
+        "archives/maps/index.html",
+        "index.html",
+        "research/testbench_se.html"
+      ],
+      "chars": 951
+    },
+    {
+      "order": 32,
+      "title": "Projekt, f\u00f6rel\u00e4sningar och artiklar - Organisationen f\u00f6r Ny Fysik",
+      "path": "research/projects_se.html",
+      "slug": "032-projekt-forelasningar-och-artiklar-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "research/index_se.html",
+        "research/activities_se.html",
+        "research/potentialprojects_se.html",
+        "research/testbench_se.html",
+        "research/resources_se.html",
+        "archives/maps/index.html",
+        "research/projects.html"
+      ],
+      "chars": 4180
+    },
+    {
+      "order": 33,
+      "title": "Magazines and Organizations - Swedish Association for New Physics",
+      "path": "research/organizations.html",
+      "slug": "033-magazines-and-organizations-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "research/resources.html",
+        "research/index.html",
+        "research/activities.html",
+        "research/projects.html",
+        "research/resources.html",
+        "archives/maps/index.html",
+        "index.html",
+        "research/organizations_se.html"
+      ],
+      "chars": 3291
+    },
+    {
+      "order": 34,
+      "title": "Resurser - Organisationen f\u00f6r Ny Fysik",
+      "path": "research/resources_se.html",
+      "slug": "034-resurser-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "research/index_se.html",
+        "research/activities_se.html",
+        "research/projects_se.html",
+        "research/organizations_se.html",
+        "archives/maps/index.html",
+        "research/resources.html"
+      ],
+      "chars": 1729
+    },
+    {
+      "order": 35,
+      "title": "Anomalies Map - Swedish Association for New Physics",
+      "path": "archives/maps/anomalies/index.html",
+      "slug": "035-anomalies-map-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "Anomalies.gif",
+        "/images/adr1.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/maps/index.html",
+        "archives/maps/machines/index.html",
+        "archives/maps/waterplasma/index.html",
+        "archives/maps/gravitation/index.html",
+        "archives/other.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 1128
+    },
+    {
+      "order": 36,
+      "title": "Machines Map - Swedish Association for New Physics",
+      "path": "archives/maps/machines/index.html",
+      "slug": "036-machines-map-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "Machines.gif",
+        "/images/adr1.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/maps/index.html",
+        "archives/maps/anomalies/index.html",
+        "archives/maps/waterplasma/index.html",
+        "archives/maps/gravitation/index.html",
+        "archives/other.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 1109
+    },
+    {
+      "order": 37,
+      "title": "Water & Plasma Map - Swedish Association for New Physics",
+      "path": "archives/maps/waterplasma/index.html",
+      "slug": "037-water-plasma-map-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "Water.gif",
+        "/images/adr1.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/maps/index.html",
+        "archives/maps/anomalies/index.html",
+        "archives/maps/machines/index.html",
+        "archives/maps/gravitation/index.html",
+        "archives/other.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 1138
+    },
+    {
+      "order": 38,
+      "title": "Gravitation Map - Swedish Association for New Physics",
+      "path": "archives/maps/gravitation/index.html",
+      "slug": "038-gravitation-map-swedish-association-for-new-physics",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "Gravitation.gif",
+        "/images/adr1.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/maps/index.html",
+        "archives/maps/anomalies/index.html",
+        "archives/maps/machines/index.html",
+        "archives/maps/waterplasma/index.html",
+        "archives/other.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 1120
+    },
+    {
+      "order": 39,
+      "title": "Andra arkiv - Organisationen f\u00f6r Ny Fysik",
+      "path": "archives/other_se.html",
+      "slug": "039-andra-arkiv-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/index_se.html",
+        "archives/index_se.html",
+        "archives/maps/index.html",
+        "archives/fnysik/index_se.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/index_se.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/other.html"
+      ],
+      "chars": 2415
+    },
+    {
+      "order": 40,
+      "title": "Fnysik - Vol. 1 No. 1",
+      "path": "archives/fnysik/1_1/index.html",
+      "slug": "040-fnysik-vol-1-no-1",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/index.html",
+        "archives/fnysik/1_2/index.html",
+        "index.html",
+        "archives/fnysik/1_1/index_se.html"
+      ],
+      "chars": 1405
+    },
+    {
+      "order": 41,
+      "title": "Fnysik - Vol. 1 No. 2",
+      "path": "archives/fnysik/1_2/index.html",
+      "slug": "041-fnysik-vol-1-no-2",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/1_2/symposium/index_se.html",
+        "archives/fnysik/1_2/adamsmotorn/index_se.html",
+        "archives/fnysik/1_2/livselement/index_se.html",
+        "archives/fnysik/1_2/vattenrening/index.html",
+        "archives/fnysik/1_2/levande-vattnet/index_se.html",
+        "archives/fnysik/1_2/changemasters/index_se.html",
+        "archives/fnysik/index.html",
+        "archives/fnysik/1_1/index.html",
+        "archives/fnysik/2_1/index.html",
+        "index.html",
+        "archives/fnysik/1_2/index_se.html"
+      ],
+      "chars": 2776
+    },
+    {
+      "order": 42,
+      "title": "Fnysik - Vol. 2 No. 1",
+      "path": "archives/fnysik/2_1/index.html",
+      "slug": "042-fnysik-vol-2-no-1",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/2_1/alternativ-teknik/index_se.html",
+        "archives/fnysik/2_1/schauberger/index.html",
+        "archives/fnysik/index.html",
+        "archives/fnysik/1_2/index.html",
+        "archives/fnysik/2_2/index.html",
+        "index.html",
+        "archives/fnysik/2_1/index_se.html"
+      ],
+      "chars": 2242
+    },
+    {
+      "order": 43,
+      "title": "Fnysik - Vol. 2 No. 2",
+      "path": "archives/fnysik/2_2/index.html",
+      "slug": "043-fnysik-vol-2-no-2",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/index.html",
+        "archives/fnysik/2_1/index.html",
+        "archives/fnysik/3_1/index.html",
+        "index.html",
+        "archives/fnysik/2_2/index_se.html"
+      ],
+      "chars": 1517
+    },
+    {
+      "order": 44,
+      "title": "Fnysik - Vol. 3 No. 1",
+      "path": "archives/fnysik/3_1/index.html",
+      "slug": "044-fnysik-vol-3-no-1",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/3_1/dowsing/index.html",
+        "archives/fnysik/3_1/kelvin/index.html",
+        "archives/fnysik/index.html",
+        "archives/fnysik/2_2/index.html",
+        "index.html",
+        "archives/fnysik/3_1/index_se.html"
+      ],
+      "chars": 1852
+    },
+    {
+      "order": 45,
+      "title": "Fnysik",
+      "path": "archives/fnysik/index_se.html",
+      "slug": "045-fnysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../../images/gblnav_left.gif",
+        "../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/1_1/index_se.html",
+        "archives/fnysik/1_2/index_se.html",
+        "archives/fnysik/2_1/index_se.html",
+        "archives/fnysik/2_2/index_se.html",
+        "archives/fnysik/3_1/index_se.html",
+        "archives/fnysik/index.html"
+      ],
+      "chars": 1756
+    },
+    {
+      "order": 46,
+      "title": "Conferences",
+      "path": "archives/old-archive/conferences/index.html",
+      "slug": "046-conferences",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/old-archive/index.html",
+        "archives/maps/index.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/keelynet/index.html",
+        "archives/old-archive/conferences/VacuumConferenceStockholm3-4Sep1994.html",
+        "archives/old-archive/conferences/St.-Petersburg/Conference-St.Petersburg-June-1996.html",
+        "archives/old-archive/conferences/St.-Petersburg/petersb-book.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 1998
+    },
+    {
+      "order": 47,
+      "title": "Index of /archives/old-archive/electromagnetism",
+      "path": "archives/old-archive/electromagnetism/index.html",
+      "slug": "047-index-of-archivesold-archiveelectromagnetism",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/index.html",
+        "archives/old-archive/electromagnetism/ball-lightning/index.html",
+        "archives/old-archive/electromagnetism/biological-effects/index.html",
+        "archives/old-archive/electromagnetism/diverse/index.html",
+        "archives/old-archive/electromagnetism/gravitation/index.html",
+        "archives/old-archive/electromagnetism/hooper/index.html",
+        "archives/old-archive/electromagnetism/longitudinal/index.html",
+        "archives/old-archive/electromagnetism/searl/index.html"
+      ],
+      "chars": 576
+    },
+    {
+      "order": 48,
+      "title": "Index of /archives/old-archive/free-energy",
+      "path": "archives/old-archive/free-energy/index.html",
+      "slug": "048-index-of-archivesold-archivefree-energy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/index.html",
+        "archives/old-archive/free-energy/Bailey/index.html",
+        "archives/old-archive/free-energy/Bearden/index.html",
+        "archives/old-archive/free-energy/Hyde/index.html",
+        "archives/old-archive/free-energy/JosephNewman/index.html",
+        "archives/old-archive/free-energy/Puthoff/index.html",
+        "archives/old-archive/free-energy/transmutation/index.html"
+      ],
+      "chars": 877
+    },
+    {
+      "order": 49,
+      "title": "Index of /archives/old-archive/gravitation",
+      "path": "archives/old-archive/gravitation/index.html",
+      "slug": "049-index-of-archivesold-archivegravitation",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/index.html",
+        "archives/old-archive/gravitation/electromagnetism-gravitation/index.html",
+        "archives/old-archive/gravitation/inertial-propulsion/index.html"
+      ],
+      "chars": 1165
+    },
+    {
+      "order": 50,
+      "title": "Index of /archives/old-archive/parapsychological-effects",
+      "path": "archives/old-archive/parapsychological-effects/index.html",
+      "slug": "050-index-of-archivesold-archiveparapsychological-effects",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/index.html",
+        "archives/old-archive/parapsychological-effects/remote-viewing/index.html"
+      ],
+      "chars": 243
+    },
+    {
+      "order": 51,
+      "title": "Index of /archives/old-archive/quantum-mechanics",
+      "path": "archives/old-archive/quantum-mechanics/index.html",
+      "slug": "051-index-of-archivesold-archivequantum-mechanics",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/index.html",
+        "archives/old-archive/quantum-mechanics/LaViolette/index.html"
+      ],
+      "chars": 349
+    },
+    {
+      "order": 52,
+      "title": ": Energy",
+      "path": "archives/keelynet/energy/index.html",
+      "slug": "052-energy",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/index.html"
+      ],
+      "chars": 71303
+    },
+    {
+      "order": 53,
+      "title": ": Diagrams",
+      "path": "archives/keelynet/diagrams/index.html",
+      "slug": "053-diagrams",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/index.html",
+        "archives/keelynet/diagrams/Auraview/index.html",
+        "archives/keelynet/diagrams/Brngif2/index.html",
+        "archives/keelynet/diagrams/Brnpics/index.html",
+        "archives/keelynet/diagrams/Clem2/index.html",
+        "archives/keelynet/diagrams/Hydegif/index.html",
+        "archives/keelynet/diagrams/Klyair1/index.html",
+        "archives/keelynet/diagrams/Magalt/index.html",
+        "archives/keelynet/diagrams/Meyer/index.html",
+        "archives/keelynet/diagrams/Statika/index.html",
+        "archives/keelynet/diagrams/Teslapic/index.html",
+        "archives/keelynet/diagrams/Transgif/index.html"
+      ],
+      "chars": 1189
+    },
+    {
+      "order": 54,
+      "title": ": Gravity",
+      "path": "archives/keelynet/gravity/index.html",
+      "slug": "054-gravity",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/index.html"
+      ],
+      "chars": 31676
+    },
+    {
+      "order": 55,
+      "title": ": Keely",
+      "path": "archives/keelynet/Keely/index.html",
+      "slug": "055-keely",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/index.html"
+      ],
+      "chars": 15205
+    },
+    {
+      "order": 56,
+      "title": ": flanagan",
+      "path": "archives/keelynet/flanagan/index.html",
+      "slug": "056-flanagan",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/index.html"
+      ],
+      "chars": 508
+    },
+    {
+      "order": 57,
+      "title": ": ecology",
+      "path": "archives/keelynet/ecology/index.html",
+      "slug": "057-ecology",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/index.html"
+      ],
+      "chars": 6775
+    },
+    {
+      "order": 58,
+      "title": ": pd",
+      "path": "archives/keelynet/pd/index.html",
+      "slug": "058-pd",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/keelynet/index.html"
+      ],
+      "chars": 689
+    },
+    {
+      "order": 59,
+      "title": ": unclass",
+      "path": "archives/keelynet/unclass/index.html",
+      "slug": "059-unclass",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/index.html"
+      ],
+      "chars": 20834
+    },
+    {
+      "order": 60,
+      "title": ": books",
+      "path": "archives/keelynet/books/index.html",
+      "slug": "060-books",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/index.html"
+      ],
+      "chars": 1268
+    },
+    {
+      "order": 61,
+      "title": ": contact",
+      "path": "archives/keelynet/contact/index.html",
+      "slug": "061-contact",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/index.html"
+      ],
+      "chars": 4951
+    },
+    {
+      "order": 62,
+      "title": "Potentiella Projekt - Organisationen f\u00f6r Ny Fysik",
+      "path": "research/potentialprojects_se.html",
+      "slug": "062-potentiella-projekt-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/adr1.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "research/projects_se.html",
+        "research/index_se.html",
+        "research/activities_se.html",
+        "research/projects_se.html",
+        "research/testbench_se.html",
+        "research/resources_se.html",
+        "archives/maps/index.html",
+        "archives/fnysik/1_2/index_se.html",
+        "archives/fnysik/1_1/index_se.html",
+        "research/potentialprojects.html"
+      ],
+      "chars": 7087
+    },
+    {
+      "order": 63,
+      "title": "I testb\u00e4nken - Organisationen f\u00f6r Ny Fysik",
+      "path": "research/testbench_se.html",
+      "slug": "063-i-testbanken-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "index_se.html",
+        "research/index_se.html",
+        "research/projects_se.html",
+        "research/index_se.html",
+        "research/activities_se.html",
+        "research/projects_se.html",
+        "research/potentialprojects_se.html",
+        "research/resources_se.html",
+        "archives/maps/index.html",
+        "index.html",
+        "research/testbench.html"
+      ],
+      "chars": 932
+    },
+    {
+      "order": 64,
+      "title": "Tidskrifter och Organisationer - Organisationen f\u00f6r Ny Fysik",
+      "path": "research/organizations_se.html",
+      "slug": "064-tidskrifter-och-organisationer-organisationen-for-ny-fysik",
+      "reachable_from_entry": true,
+      "images": [
+        "../images/gblnav_left.gif",
+        "../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "research/resources_se.html",
+        "research/index_se.html",
+        "research/activities_se.html",
+        "research/projects_se.html",
+        "research/resources_se.html",
+        "archives/maps/index.html",
+        "research/organizations.html"
+      ],
+      "chars": 3379
+    },
+    {
+      "order": 65,
+      "title": "Fnysik - Vol. 1 No. 1",
+      "path": "archives/fnysik/1_1/index_se.html",
+      "slug": "065-fnysik-vol-1-no-1",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/1_1/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/1_2/index_se.html",
+        "archives/fnysik/1_1/index.html"
+      ],
+      "chars": 1456
+    },
+    {
+      "order": 66,
+      "title": "Fnysik - Intryck fr\u00e5n Frienergi-symposiet",
+      "path": "archives/fnysik/1_2/symposium/index_se.html",
+      "slug": "066-fnysik-intryck-fran-frienergi-symposiet",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "index_se_fny2_b1.jpg",
+        "index_se_symp-casimirpinch.gif",
+        "index_se_fny2_b2.jpg",
+        "index_se_symp-casimir-forlopp.gif",
+        "index_se_symp-cluster-hole.gif",
+        "index_se_symp-mycket.gif",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/1_2/index_se.html",
+        "archives/fnysik/1_2/symposium/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/1_2/index.html"
+      ],
+      "chars": 7593
+    },
+    {
+      "order": 67,
+      "title": "Fnysik - Adamsmotorn - fungerar den verkligen?",
+      "path": "archives/fnysik/1_2/adamsmotorn/index_se.html",
+      "slug": "067-fnysik-adamsmotorn-fungerar-den-verkligen",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/1_2/index_se.html",
+        "archives/fnysik/1_2/adamsmotorn/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/1_2/index.html"
+      ],
+      "chars": 23367
+    },
+    {
+      "order": 68,
+      "title": "Fnysik - Om livselement och energiutvinning",
+      "path": "archives/fnysik/1_2/livselement/index_se.html",
+      "slug": "068-fnysik-om-livselement-och-energiutvinning",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/1_2/index_se.html",
+        "archives/fnysik/1_2/livselement/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/1_2/index.html"
+      ],
+      "chars": 6638
+    },
+    {
+      "order": 69,
+      "title": "Fnysik - Water purification according to Viktor Schauberger",
+      "path": "archives/fnysik/1_2/vattenrening/index.html",
+      "slug": "069-fnysik-water-purification-according-to-viktor-schauberger",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "index_malmogrp-virvel.gif",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/fnysik/1_2/index.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/index.html",
+        "index.html",
+        "archives/fnysik/1_2/vattenrening/index_se.html"
+      ],
+      "chars": 4597
+    },
+    {
+      "order": 70,
+      "title": "Fnysik - Det levande vattnet",
+      "path": "archives/fnysik/1_2/levande-vattnet/index_se.html",
+      "slug": "070-fnysik-det-levande-vattnet",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "index_se_viktorold.gif",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/1_2/index_se.html",
+        "archives/fnysik/1_2/levande-vattnet/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/1_2/index.html"
+      ],
+      "chars": 2720
+    },
+    {
+      "order": 71,
+      "title": "Fnysik - The Change Masters",
+      "path": "archives/fnysik/1_2/changemasters/index_se.html",
+      "slug": "071-fnysik-the-change-masters",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/1_2/index_se.html",
+        "archives/fnysik/1_2/changemasters/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/1_2/index.html"
+      ],
+      "chars": 7022
+    },
+    {
+      "order": 72,
+      "title": "Fnysik - Vol. 1 No. 2",
+      "path": "archives/fnysik/1_2/index_se.html",
+      "slug": "072-fnysik-vol-1-no-2",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/1_2/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/1_2/symposium/index_se.html",
+        "archives/fnysik/1_2/adamsmotorn/index_se.html",
+        "archives/fnysik/1_2/livselement/index_se.html",
+        "archives/fnysik/1_2/vattenrening/index_se.html",
+        "archives/fnysik/1_2/levande-vattnet/index_se.html",
+        "archives/fnysik/1_2/changemasters/index_se.html",
+        "archives/fnysik/1_1/index_se.html",
+        "archives/fnysik/2_1/index_se.html",
+        "archives/fnysik/1_2/index.html"
+      ],
+      "chars": 2688
+    },
+    {
+      "order": 73,
+      "title": "Fnysik - Alternativ teknik",
+      "path": "archives/fnysik/2_1/alternativ-teknik/index_se.html",
+      "slug": "073-fnysik-alternativ-teknik",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/2_1/index_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/2_1/alternativ-teknik/alttek1_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/alttek1_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/alttek1_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/alttek2_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/alttek2_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/alttek2_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/alttek2_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/alttek3_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/alttek3_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/alttek3_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/alttek3_se.html",
+        "archives/fnysik/2_1/index.html"
+      ],
+      "chars": 1225
+    },
+    {
+      "order": 74,
+      "title": "Fnysik - Who was Viktor Schauberger?",
+      "path": "archives/fnysik/2_1/schauberger/index.html",
+      "slug": "074-fnysik-who-was-viktor-schauberger",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "index_Viktorsml.GIF",
+        "index_shaube50sml.GIF",
+        "index_virvtrad.GIF",
+        "index_viktorold.gif",
+        "index_water.JPG",
+        "index_livener.JPG",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/fnysik/2_1/index.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/index.html",
+        "index.html",
+        "archives/fnysik/2_1/schauberger/index_se.html"
+      ],
+      "chars": 7601
+    },
+    {
+      "order": 75,
+      "title": "Fnysik - Vol. 2 No. 1",
+      "path": "archives/fnysik/2_1/index_se.html",
+      "slug": "075-fnysik-vol-2-no-1",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/2_1/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/2_1/alternativ-teknik/index_se.html",
+        "archives/fnysik/2_1/schauberger/index_se.html",
+        "archives/fnysik/1_2/index_se.html",
+        "archives/fnysik/2_2/index_se.html",
+        "archives/fnysik/2_1/index.html"
+      ],
+      "chars": 2242
+    },
+    {
+      "order": 76,
+      "title": "Fnysik - Vol. 2 No. 2",
+      "path": "archives/fnysik/2_2/index_se.html",
+      "slug": "076-fnysik-vol-2-no-2",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/2_2/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/2_1/index_se.html",
+        "archives/fnysik/3_1/index_se.html",
+        "archives/fnysik/2_2/index.html"
+      ],
+      "chars": 1555
+    },
+    {
+      "order": 77,
+      "title": "Fnysik - Dowsing along the psi track",
+      "path": "archives/fnysik/3_1/dowsing/index.html",
+      "slug": "077-fnysik-dowsing-along-the-psi-track",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "index_figure1.gif",
+        "index_figure2.gif",
+        "index_figure3.gif",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/fnysik/3_1/index.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/index.html",
+        "index.html",
+        "archives/fnysik/3_1/index_se.html"
+      ],
+      "chars": 59365
+    },
+    {
+      "order": 78,
+      "title": "Fnysik - Kelvin's Thunderstorm",
+      "path": "archives/fnysik/3_1/kelvin/index.html",
+      "slug": "078-fnysik-kelvins-thunderstorm",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "index_princip.jpg",
+        "index_explain.jpg",
+        "index_kelvin.gif",
+        "index_system.jpg",
+        "index_uppstn.jpg",
+        "index_waterbeh.jpg",
+        "index_torus.jpg",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/fnysik/3_1/index.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/index.html",
+        "index.html",
+        "archives/fnysik/3_1/index_se.html"
+      ],
+      "chars": 3140
+    },
+    {
+      "order": 79,
+      "title": "Fnysik - Vol. 3 No. 1",
+      "path": "archives/fnysik/3_1/index_se.html",
+      "slug": "079-fnysik-vol-3-no-1",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/3_1/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/3_1/dowsing/index.html",
+        "archives/fnysik/3_1/kelvin/index.html",
+        "archives/fnysik/2_2/index_se.html",
+        "archives/fnysik/3_1/index.html"
+      ],
+      "chars": 2007
+    },
+    {
+      "order": 80,
+      "title": "THE NEW ENERGY - energy directly from the vacuumfield",
+      "path": "archives/old-archive/conferences/VacuumConferenceStockholm3-4Sep1994.html",
+      "slug": "080-the-new-energy-energy-directly-from-the-vacuumfield",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/old-archive/index.html",
+        "archives/old-archive/conferences/index.html",
+        "archives/maps/index.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/keelynet/index.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 3368
+    },
+    {
+      "order": 81,
+      "title": "Conference St. Petersburg June 1996",
+      "path": "archives/old-archive/conferences/St.-Petersburg/Conference-St.Petersburg-June-1996.html",
+      "slug": "081-conference-st-petersburg-june-1996",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/old-archive/index.html",
+        "archives/old-archive/conferences/St.-Petersburg/index.html",
+        "archives/maps/index.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/keelynet/index.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 18970
+    },
+    {
+      "order": 82,
+      "title": "Proceedings - New Ideas in Natural Sciences, St. Petersburg",
+      "path": "archives/old-archive/conferences/St.-Petersburg/petersb-book.html",
+      "slug": "082-proceedings-new-ideas-in-natural-sciences-st-petersburg",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/old-archive/index.html",
+        "archives/old-archive/conferences/St.-Petersburg/index.html",
+        "archives/maps/index.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/keelynet/index.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 11352
+    },
+    {
+      "order": 83,
+      "title": "Index of /archives/old-archive/electromagnetism/ball-lightning",
+      "path": "archives/old-archive/electromagnetism/ball-lightning/index.html",
+      "slug": "083-index-of-archivesold-archiveelectromagnetismball-lightning",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/electromagnetism/index.html",
+        "archives/old-archive/electromagnetism/ball-lightning/Ballightning.html"
+      ],
+      "chars": 444
+    },
+    {
+      "order": 84,
+      "title": "Index of /archives/old-archive/electromagnetism/biological-effects",
+      "path": "archives/old-archive/electromagnetism/biological-effects/index.html",
+      "slug": "084-index-of-archivesold-archiveelectromagnetismbiological-effects",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/electromagnetism/index.html"
+      ],
+      "chars": 302
+    },
+    {
+      "order": 85,
+      "title": "Index of /archives/old-archive/electromagnetism/diverse",
+      "path": "archives/old-archive/electromagnetism/diverse/index.html",
+      "slug": "085-index-of-archivesold-archiveelectromagnetismdiverse",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/electromagnetism/index.html",
+        "archives/old-archive/electromagnetism/diverse/AcesAbstracts93.html"
+      ],
+      "chars": 875
+    },
+    {
+      "order": 86,
+      "title": "Electromagnetic connections to Gravity",
+      "path": "archives/old-archive/electromagnetism/gravitation/index.html",
+      "slug": "086-electromagnetic-connections-to-gravity",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/electromagnetism/gravitation/Jonsson/index.html"
+      ],
+      "chars": 441
+    },
+    {
+      "order": 87,
+      "title": "Index of /archives/old-archive/electromagnetism/hooper",
+      "path": "archives/old-archive/electromagnetism/hooper/index.html",
+      "slug": "087-index-of-archivesold-archiveelectromagnetismhooper",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/electromagnetism/index.html"
+      ],
+      "chars": 290
+    },
+    {
+      "order": 88,
+      "title": "Electromagentism - Longitudinal forces",
+      "path": "archives/old-archive/electromagnetism/longitudinal/index.html",
+      "slug": "088-electromagentism-longitudinal-forces",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [],
+      "chars": 92
+    },
+    {
+      "order": 89,
+      "title": "Index of /archives/old-archive/electromagnetism/searl",
+      "path": "archives/old-archive/electromagnetism/searl/index.html",
+      "slug": "089-index-of-archivesold-archiveelectromagnetismsearl",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/electromagnetism/index.html"
+      ],
+      "chars": 289
+    },
+    {
+      "order": 90,
+      "title": "Patrick G. Bailey",
+      "path": "archives/old-archive/free-energy/Bailey/index.html",
+      "slug": "090-patrick-g-bailey",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [],
+      "chars": 343
+    },
+    {
+      "order": 91,
+      "title": "Tom Bearden",
+      "path": "archives/old-archive/free-energy/Bearden/index.html",
+      "slug": "091-tom-bearden",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [],
+      "chars": 1432
+    },
+    {
+      "order": 92,
+      "title": "Index of /archives/old-archive/free-energy/Hyde",
+      "path": "archives/old-archive/free-energy/Hyde/index.html",
+      "slug": "092-index-of-archivesold-archivefree-energyhyde",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/free-energy/index.html",
+        "archives/old-archive/free-energy/Hyde/HydesPictures.html"
+      ],
+      "chars": 812
+    },
+    {
+      "order": 93,
+      "title": "The Story of Joseph Newman's Energy Device",
+      "path": "archives/old-archive/free-energy/JosephNewman/index.html",
+      "slug": "093-the-story-of-joseph-newmans-energy-device",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [],
+      "chars": 6957
+    },
+    {
+      "order": 94,
+      "title": "Dr. Harold Puthoff",
+      "path": "archives/old-archive/free-energy/Puthoff/index.html",
+      "slug": "094-dr-harold-puthoff",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/conferences/VacuumConferenceStockholm3-4Sep1994.html"
+      ],
+      "chars": 5217
+    },
+    {
+      "order": 95,
+      "title": "Index of /archives/old-archive/free-energy/transmutation",
+      "path": "archives/old-archive/free-energy/transmutation/index.html",
+      "slug": "095-index-of-archivesold-archivefree-energytransmutation",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/free-energy/index.html"
+      ],
+      "chars": 208
+    },
+    {
+      "order": 96,
+      "title": "index",
+      "path": "archives/old-archive/gravitation/electromagnetism-gravitation/index.html",
+      "slug": "096-index",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/electromagnetism/gravitation/index.html"
+      ],
+      "chars": 46
+    },
+    {
+      "order": 97,
+      "title": "Index of /archives/old-archive/gravitation/inertial-propulsion",
+      "path": "archives/old-archive/gravitation/inertial-propulsion/index.html",
+      "slug": "097-index-of-archivesold-archivegravitationinertial-propulsion",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/gravitation/index.html"
+      ],
+      "chars": 283
+    },
+    {
+      "order": 98,
+      "title": "Index of /archives/old-archive/parapsychological-effects/remote-viewing",
+      "path": "archives/old-archive/parapsychological-effects/remote-viewing/index.html",
+      "slug": "098-index-of-archivesold-archiveparapsychological-effectsremote-viewing",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/parapsychological-effects/index.html"
+      ],
+      "chars": 334
+    },
+    {
+      "order": 99,
+      "title": "Dr. Paul A. LaViolette",
+      "path": "archives/old-archive/quantum-mechanics/LaViolette/index.html",
+      "slug": "099-dr-paul-a-laviolette",
+      "reachable_from_entry": true,
+      "images": [
+        "../../icons/ra30.gif",
+        "../../icons/ra30.gif",
+        "../../icons/ra30.gif",
+        "../../icons/ra30.gif"
+      ],
+      "internal_links": [
+        "archives/old-archive/quantum-mechanics/index.html"
+      ],
+      "chars": 2166
+    },
+    {
+      "order": 100,
+      "title": ": Diagrams/Auraview",
+      "path": "archives/keelynet/diagrams/Auraview/index.html",
+      "slug": "100-diagramsauraview",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/diagrams/index.html"
+      ],
+      "chars": 282
+    },
+    {
+      "order": 101,
+      "title": ": Diagrams/Brngif2",
+      "path": "archives/keelynet/diagrams/Brngif2/index.html",
+      "slug": "101-diagramsbrngif2",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/diagrams/index.html"
+      ],
+      "chars": 475
+    },
+    {
+      "order": 102,
+      "title": ": Diagrams/Brnpics",
+      "path": "archives/keelynet/diagrams/Brnpics/index.html",
+      "slug": "102-diagramsbrnpics",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/diagrams/index.html"
+      ],
+      "chars": 282
+    },
+    {
+      "order": 103,
+      "title": ": Diagrams/Clem2",
+      "path": "archives/keelynet/diagrams/Clem2/index.html",
+      "slug": "103-diagramsclem2",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/diagrams/index.html"
+      ],
+      "chars": 869
+    },
+    {
+      "order": 104,
+      "title": ": Diagrams/Hydegif",
+      "path": "archives/keelynet/diagrams/Hydegif/index.html",
+      "slug": "104-diagramshydegif",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/diagrams/index.html"
+      ],
+      "chars": 652
+    },
+    {
+      "order": 105,
+      "title": ": Diagrams/Klyair1",
+      "path": "archives/keelynet/diagrams/Klyair1/index.html",
+      "slug": "105-diagramsklyair1",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/diagrams/index.html"
+      ],
+      "chars": 363
+    },
+    {
+      "order": 106,
+      "title": ": Diagrams/Magalt",
+      "path": "archives/keelynet/diagrams/Magalt/index.html",
+      "slug": "106-diagramsmagalt",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/diagrams/index.html"
+      ],
+      "chars": 663
+    },
+    {
+      "order": 107,
+      "title": ": Diagrams/Meyer",
+      "path": "archives/keelynet/diagrams/Meyer/index.html",
+      "slug": "107-diagramsmeyer",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/diagrams/index.html"
+      ],
+      "chars": 940
+    },
+    {
+      "order": 108,
+      "title": ": Diagrams/Statika",
+      "path": "archives/keelynet/diagrams/Statika/index.html",
+      "slug": "108-diagramsstatika",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/diagrams/index.html"
+      ],
+      "chars": 487
+    },
+    {
+      "order": 109,
+      "title": ": Diagrams/Teslapic",
+      "path": "archives/keelynet/diagrams/Teslapic/index.html",
+      "slug": "109-diagramsteslapic",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/diagrams/index.html"
+      ],
+      "chars": 540
+    },
+    {
+      "order": 110,
+      "title": ": Diagrams/Transgif",
+      "path": "archives/keelynet/diagrams/Transgif/index.html",
+      "slug": "110-diagramstransgif",
+      "reachable_from_entry": true,
+      "images": [
+        "/images/adr1.gif"
+      ],
+      "internal_links": [
+        "archives/keelynet/diagrams/index.html"
+      ],
+      "chars": 645
+    },
+    {
+      "order": 111,
+      "title": "Fnysik - Vattnrening enligt Schauberger",
+      "path": "archives/fnysik/1_2/vattenrening/index_se.html",
+      "slug": "111-fnysik-vattnrening-enligt-schauberger",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "index_se_malmogrp-virvel.gif",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/1_2/index_se.html",
+        "archives/fnysik/1_2/vattenrening/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "about/contact.html",
+        "archives/fnysik/1_2/vattenrening/index.html"
+      ],
+      "chars": 4331
+    },
+    {
+      "order": 112,
+      "title": "Fnysik - Alternativ teknik, del 1",
+      "path": "archives/fnysik/2_1/alternativ-teknik/alttek1_se.html",
+      "slug": "112-fnysik-alternativ-teknik-del-1",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "alttek1_se_teslacoil.GIF",
+        "alttek1_se_moray.GIF",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/2_1/index_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/2_1/alternativ-teknik/index_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/alttek2_se.html",
+        "archives/fnysik/2_1/index.html"
+      ],
+      "chars": 9557
+    },
+    {
+      "order": 113,
+      "title": "Fnysik - Alternativ teknik, del 2",
+      "path": "archives/fnysik/2_1/alternativ-teknik/alttek2_se.html",
+      "slug": "113-fnysik-alternativ-teknik-del-2",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "alttek2_se_casimir.GIF",
+        "alttek2_se_polvac.GIF",
+        "alttek2_se_motEM.GIF",
+        "alttek2_se_drag.GIF",
+        "alttek2_se_skalar.GIF",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/2_1/index_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/2_1/alternativ-teknik/index_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/alttek1_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/alttek3_se.html",
+        "archives/fnysik/2_1/index.html"
+      ],
+      "chars": 9618
+    },
+    {
+      "order": 114,
+      "title": "Fnysik - Alternativ teknik, del 3",
+      "path": "archives/fnysik/2_1/alternativ-teknik/alttek3_se.html",
+      "slug": "114-fnysik-alternativ-teknik-del-3",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "alttek3_se_hoopercoil.GIF",
+        "alttek3_se_aharobohm.GIF",
+        "alttek3_se_bedini.GIF",
+        "alttek3_se_bearden1.GIF",
+        "alttek3_se_hyde.GIF",
+        "alttek3_se_winproc.GIF",
+        "alttek3_se_N.gif",
+        "alttek3_se_Ml.gif",
+        "alttek3_se_adams.GIF",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/2_1/index_se.html",
+        "archives/fnysik/2_1/alternativ-teknik/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/2_1/index.html"
+      ],
+      "chars": 7663
+    },
+    {
+      "order": 115,
+      "title": "Fnysik - Vem var Viktor Schauberger?",
+      "path": "archives/fnysik/2_1/schauberger/index_se.html",
+      "slug": "115-fnysik-vem-var-viktor-schauberger",
+      "reachable_from_entry": true,
+      "images": [
+        "../../../../images/gblnav_left.gif",
+        "../../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/FnysikLogo.gif",
+        "index_se_Viktorsml.GIF",
+        "index_se_shaube50sml.GIF",
+        "index_se_virvtrad.GIF",
+        "index_se_viktorold.gif",
+        "index_se_livener.JPG",
+        "../../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index_se.html",
+        "about/index_se.html",
+        "research/index_se.html",
+        "archives/index_se.html",
+        "publish/index_se.html",
+        "members/index_se.html",
+        "support/index_se.html",
+        "about/contact_se.html",
+        "archives/other_se.html",
+        "archives/fnysik/index_se.html",
+        "archives/fnysik/2_1/index_se.html",
+        "archives/fnysik/2_1/schauberger/index_se.html",
+        "archives/maps/index.html",
+        "archives/old-archive/index.html",
+        "archives/keelynet/index.html",
+        "archives/fnysik/2_1/schauberger/index.html"
+      ],
+      "chars": 7335
+    },
+    {
+      "order": 116,
+      "title": "Index of /archives/old-archive/conferences/St.-Petersburg",
+      "path": "archives/old-archive/conferences/St.-Petersburg/index.html",
+      "slug": "116-index-of-archivesold-archiveconferencesst-petersburg",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/conferences/index.html",
+        "archives/old-archive/conferences/St.-Petersburg/Conference-St.Petersburg-June-1996.html",
+        "archives/old-archive/conferences/St.-Petersburg/petersb-book.html",
+        "archives/old-archive/conferences/St.-Petersburg/petersb-book_old.htm"
+      ],
+      "chars": 530
+    },
+    {
+      "order": 117,
+      "title": "Ballightning",
+      "path": "archives/old-archive/electromagnetism/ball-lightning/Ballightning.html",
+      "slug": "117-ballightning",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [],
+      "chars": 1972
+    },
+    {
+      "order": 118,
+      "title": "AcesAbstracts93",
+      "path": "archives/old-archive/electromagnetism/diverse/AcesAbstracts93.html",
+      "slug": "118-acesabstracts93",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [],
+      "chars": 26892
+    },
+    {
+      "order": 119,
+      "title": "David Jonsson",
+      "path": "archives/old-archive/electromagnetism/gravitation/Jonsson/index.html",
+      "slug": "119-david-jonsson",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [],
+      "chars": 627
+    },
+    {
+      "order": 120,
+      "title": "HydesPictures",
+      "path": "archives/old-archive/free-energy/Hyde/HydesPictures.html",
+      "slug": "120-hydespictures",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [],
+      "chars": 177
+    },
+    {
+      "order": 121,
+      "title": "Proceedings of intenational scientific conference New Ideas in Natural Sciences, St.-Petersburg, Russia, June 1996",
+      "path": "archives/old-archive/conferences/St.-Petersburg/petersb-book_old.htm",
+      "slug": "121-proceedings-of-intenational-scientific-conference-new-ideas-in-natural-sciences-",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [],
+      "chars": 9210
+    },
+    {
+      "order": 122,
+      "title": "Maps of research areas - Swedish Association for New Physics",
+      "path": "archives/maps.html",
+      "slug": "122-maps-of-research-areas-swedish-association-for-new-physics",
+      "reachable_from_entry": false,
+      "images": [
+        "../../images/gblnav_left.gif",
+        "../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "/images/adr1.gif",
+        "../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/maps/anomalies/index.html",
+        "archives/maps/machines/index.html",
+        "archives/maps/waterplasma/index.html",
+        "archives/maps/gravitation/index.html",
+        "archives/other.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 2316
+    },
+    {
+      "order": 123,
+      "title": "Cold Fusion",
+      "path": "archives/old-archive/cold-fusion.html",
+      "slug": "123-cold-fusion",
+      "reachable_from_entry": false,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/old-archive/index.html",
+        "archives/maps/index.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/keelynet/index.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 1484
+    },
+    {
+      "order": 124,
+      "title": "ColdFusionFAQ",
+      "path": "archives/old-archive/cold-fusion/ColdFusionFAQ.html",
+      "slug": "124-coldfusionfaq",
+      "reachable_from_entry": false,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/old-archive/index.html",
+        "archives/maps/index.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/keelynet/index.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 12264
+    },
+    {
+      "order": 125,
+      "title": "Chapter 13 \"Cold Fusion\"",
+      "path": "archives/old-archive/cold-fusion/chap13-cold-fusion.html",
+      "slug": "125-chapter-13-cold-fusion",
+      "reachable_from_entry": false,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/old-archive/index.html",
+        "archives/maps/index.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/keelynet/index.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 6889
+    },
+    {
+      "order": 126,
+      "title": "Conferences",
+      "path": "archives/old-archive/conferences.html",
+      "slug": "126-conferences",
+      "reachable_from_entry": false,
+      "images": [
+        "../../../images/gblnav_left.gif",
+        "../../../images/glbnav_right.gif",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../../../images/onf_logo_eng.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/index.html",
+        "research/index.html",
+        "archives/index.html",
+        "publish/index.html",
+        "members/index.html",
+        "support/index.html",
+        "about/contact.html",
+        "archives/old-archive/index.html",
+        "archives/maps/index.html",
+        "archives/other.html",
+        "archives/fnysik/index.html",
+        "archives/keelynet/index.html",
+        "archives/old-archive/conferences/St.-Petersburg/Conference-St.Petersburg-June-1996.html",
+        "archives/old-archive/conferences/St.-Petersburg/petersb-book.html",
+        "index.html",
+        "archives/index_se.html"
+      ],
+      "chars": 1998
+    },
+    {
+      "order": 127,
+      "title": "Index of /archives/old-archive/diverse",
+      "path": "archives/old-archive/diverse.html",
+      "slug": "127-index-of-archivesold-archivediverse",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/index.html"
+      ],
+      "chars": 295
+    },
+    {
+      "order": 128,
+      "title": "Index of /archives/old-archive/electromagnetism",
+      "path": "archives/old-archive/electromagnetism.html",
+      "slug": "128-index-of-archivesold-archiveelectromagnetism",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/index.html",
+        "archives/old-archive/gravitation/index.html"
+      ],
+      "chars": 576
+    },
+    {
+      "order": 129,
+      "title": "Electromagnetic connections to Gravity",
+      "path": "archives/old-archive/electromagnetism/gravitation.html",
+      "slug": "129-electromagnetic-connections-to-gravity",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 441
+    },
+    {
+      "order": 130,
+      "title": "Index of /archives/old-archive/free-energy",
+      "path": "archives/old-archive/free-energy.html",
+      "slug": "130-index-of-archivesold-archivefree-energy",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/index.html"
+      ],
+      "chars": 877
+    },
+    {
+      "order": 131,
+      "title": "Index of /archives/old-archive/free-energy/Bearden/Additional_Info_on_the_Secret_of_Free_Energy",
+      "path": "archives/old-archive/free-energy/Bearden/Additional_Info_on_the_Secret_of_Free_Energy.html",
+      "slug": "131-index-of-archivesold-archivefree-energybeardenadditional-info-on-the-secret-of-f",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/free-energy/Bearden/index.html"
+      ],
+      "chars": 492
+    },
+    {
+      "order": 132,
+      "title": "Index of /archives/old-archive/free-energy/Bearden/Old_and_PostScript_versions",
+      "path": "archives/old-archive/free-energy/Bearden/Old_and_PostScript_versions.html",
+      "slug": "132-index-of-archivesold-archivefree-energybeardenold-and-postscript-versions",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/free-energy/Bearden/index.html"
+      ],
+      "chars": 399
+    },
+    {
+      "order": 133,
+      "title": "Index of /archives/old-archive/free-energy/Bearden/OnATestable",
+      "path": "archives/old-archive/free-energy/Bearden/OnATestable.html",
+      "slug": "133-index-of-archivesold-archivefree-energybeardenonatestable",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/free-energy/Bearden/index.html"
+      ],
+      "chars": 687
+    },
+    {
+      "order": 134,
+      "title": "Index of /archives/old-archive/free-energy/Bearden/Practical_Overunity_Electrical_Device",
+      "path": "archives/old-archive/free-energy/Bearden/Practical_Overunity_Electrical_Device.html",
+      "slug": "134-index-of-archivesold-archivefree-energybeardenpractical-overunity-electrical-dev",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/free-energy/Bearden/index.html"
+      ],
+      "chars": 561
+    },
+    {
+      "order": 135,
+      "title": "Index of /archives/old-archive/free-energy/Bearden/Redefinition_of_Energy_Ansatz",
+      "path": "archives/old-archive/free-energy/Bearden/Redefinition_of_Energy_Ansatz.html",
+      "slug": "135-index-of-archivesold-archivefree-energybeardenredefinition-of-energy-ansatz",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/free-energy/Bearden/index.html"
+      ],
+      "chars": 705
+    },
+    {
+      "order": 136,
+      "title": "Index of /archives/old-archive/free-energy/Bearden/The_Final_Secret_of_Free_Energy_with_Comment",
+      "path": "archives/old-archive/free-energy/Bearden/The_Final_Secret_of_Free_Energy_with_Comment.html",
+      "slug": "136-index-of-archivesold-archivefree-energybeardenthe-final-secret-of-free-energy-wi",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/free-energy/Bearden/index.html"
+      ],
+      "chars": 948
+    },
+    {
+      "order": 137,
+      "title": "Patent regarding final purpose of superconductivity",
+      "path": "archives/old-archive/free-energy/Bearden/beard12.html",
+      "slug": "137-patent-regarding-final-purpose-of-superconductivity",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/free-energy/index.html"
+      ],
+      "chars": 1232
+    },
+    {
+      "order": 138,
+      "title": "Mass as an electromagnetic effect",
+      "path": "archives/old-archive/free-energy/Bearden/beard13.html",
+      "slug": "138-mass-as-an-electromagnetic-effect",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/free-energy/index.html"
+      ],
+      "chars": 1245
+    },
+    {
+      "order": 139,
+      "title": "Index of /archives/old-archive/free-energy/Bearden/beard14",
+      "path": "archives/old-archive/free-energy/Bearden/beard14.html",
+      "slug": "139-index-of-archivesold-archivefree-energybeardenbeard14",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/free-energy/Bearden/index.html"
+      ],
+      "chars": 378
+    },
+    {
+      "order": 140,
+      "title": "Index of /archives/old-archive/gravitation",
+      "path": "archives/old-archive/gravitation.html",
+      "slug": "140-index-of-archivesold-archivegravitation",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/index.html"
+      ],
+      "chars": 1165
+    },
+    {
+      "order": 141,
+      "title": "Index of /archives/old-archive/parapsychological-effects",
+      "path": "archives/old-archive/parapsychological-effects.html",
+      "slug": "141-index-of-archivesold-archiveparapsychological-effects",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/index.html"
+      ],
+      "chars": 243
+    },
+    {
+      "order": 142,
+      "title": "Index of /archives/old-archive/quantum-mechanics",
+      "path": "archives/old-archive/quantum-mechanics.html",
+      "slug": "142-index-of-archivesold-archivequantum-mechanics",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/index.html"
+      ],
+      "chars": 349
+    },
+    {
+      "order": 143,
+      "title": "Index of /archives/old-archive/relativity",
+      "path": "archives/old-archive/relativity.html",
+      "slug": "143-index-of-archivesold-archiverelativity",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/index.html"
+      ],
+      "chars": 285
+    },
+    {
+      "order": 144,
+      "title": "About alt t Lorentz",
+      "path": "archives/old-archive/relativity/Persson/About an alternative to the Lorentz-transformations.html",
+      "slug": "144-about-alt-t-lorentz",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 9737
+    },
+    {
+      "order": 145,
+      "title": "About alt t t curved",
+      "path": "archives/old-archive/relativity/Persson/About an alternative to the curved space.html",
+      "slug": "145-about-alt-t-t-curved",
+      "reachable_from_entry": false,
+      "images": [
+        "curved%20space%20figure1.jpg",
+        "curved%20space%20figure2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 7220
+    },
+    {
+      "order": 146,
+      "title": "Alt. till Lorentz-trans.",
+      "path": "archives/old-archive/relativity/Persson/Angaende ett alternativ till Lotentz-transformationerna.html",
+      "slug": "146-alt-till-lorentz-trans",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 10116
+    },
+    {
+      "order": 147,
+      "title": "Ang alt till det kr\u00f6kta...",
+      "path": "archives/old-archive/relativity/Persson/Angaende ett alternativ till det krokta rummet.html",
+      "slug": "147-ang-alt-till-det-krokta",
+      "reachable_from_entry": false,
+      "images": [
+        "curved%20space%20figure1.jpg",
+        "curved%20space%20figure2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 7277
+    },
+    {
+      "order": 148,
+      "title": "Det finns alt till den gen...",
+      "path": "archives/old-archive/relativity/Persson/Det finns alternativ till den generella relativitetsteorin.html",
+      "slug": "148-det-finns-alt-till-den-gen",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 5035
+    },
+    {
+      "order": 149,
+      "title": "The John-Erik Persson Page",
+      "path": "archives/old-archive/relativity/Persson/index.html",
+      "slug": "149-the-john-erik-persson-page",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 408
+    },
+    {
+      "order": 150,
+      "title": "Free Fall of Elementary Particles",
+      "path": "archives/old-archive/relativity/Rognerud/html.html",
+      "slug": "150-free-fall-of-elementary-particles",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 1875
+    },
+    {
+      "order": 151,
+      "title": "1. INTRODUCTION:",
+      "path": "archives/old-archive/relativity/Rognerud/html/sect1.htm",
+      "slug": "151-1-introduction",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "archives/old-archive/relativity/Rognerud/html/sect9.htm"
+      ],
+      "chars": 1303
+    },
+    {
+      "order": 152,
+      "title": "2. INDUCTION AND RELATIVITY:",
+      "path": "archives/old-archive/relativity/Rognerud/html/sect2.htm",
+      "slug": "152-2-induction-and-relativity",
+      "reachable_from_entry": false,
+      "images": [
+        "gif/f2_0.gif",
+        "gif/f2_1.gif",
+        "gif/fig1.gif",
+        "gif/f2_2.gif",
+        "gif/f2_3.gif",
+        "gif/f2_4.gif",
+        "gif/fig2.gif"
+      ],
+      "internal_links": [],
+      "chars": 4283
+    },
+    {
+      "order": 153,
+      "title": "3. THE MOTIONAL ELECTRIC FIELD:",
+      "path": "archives/old-archive/relativity/Rognerud/html/sect3.htm",
+      "slug": "153-3-the-motional-electric-field",
+      "reachable_from_entry": false,
+      "images": [
+        "gif/fig3.gif",
+        "gif/f3_0.gif"
+      ],
+      "internal_links": [],
+      "chars": 2060
+    },
+    {
+      "order": 154,
+      "title": "4. MAGNETIC INFLUENCES IN A ZERO B-FIELD:",
+      "path": "archives/old-archive/relativity/Rognerud/html/sect4.htm",
+      "slug": "154-4-magnetic-influences-in-a-zero-b-field",
+      "reachable_from_entry": false,
+      "images": [
+        "gif/f4_0.gif",
+        "gif/fig4.gif",
+        "gif/f4_1.gif",
+        "gif/f4_2.gif",
+        "gif/fig5.gif"
+      ],
+      "internal_links": [
+        "archives/old-archive/relativity/Rognerud/html/sect9.htm"
+      ],
+      "chars": 4872
+    },
+    {
+      "order": 155,
+      "title": "5. DIELECTRIC EFFECTS FROM DIVERGENT ELECTRIC FIELDS:",
+      "path": "archives/old-archive/relativity/Rognerud/html/sect5.htm",
+      "slug": "155-5-dielectric-effects-from-divergent-electric-fields",
+      "reachable_from_entry": false,
+      "images": [
+        "gif/fig6.gif",
+        "gif/f5_0.gif",
+        "gif/f5_1.gif",
+        "gif/fig7.gif",
+        "gif/f5_2.gif",
+        "gif/fw1.gif",
+        "gif/fw2.gif",
+        "gif/f5_3.gif",
+        "gif/fig8.gif",
+        "gif/f5_4.gif",
+        "gif/fig9.gif",
+        "gif/const.gif",
+        "gif/f5_5.gif"
+      ],
+      "internal_links": [
+        "archives/old-archive/relativity/Rognerud/html/sect9.htm"
+      ],
+      "chars": 5089
+    },
+    {
+      "order": 156,
+      "title": "6. GRAVITATIONAL FORCES ON ELEMENTARY PARTICLES:",
+      "path": "archives/old-archive/relativity/Rognerud/html/sect6.htm",
+      "slug": "156-6-gravitational-forces-on-elementary-particles",
+      "reachable_from_entry": false,
+      "images": [
+        "gif/f6_1.gif"
+      ],
+      "internal_links": [
+        "archives/old-archive/relativity/Rognerud/html/sect9.htm"
+      ],
+      "chars": 4248
+    },
+    {
+      "order": 157,
+      "title": "7. Summary:",
+      "path": "archives/old-archive/relativity/Rognerud/html/sect7.htm",
+      "slug": "157-7-summary",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 1582
+    },
+    {
+      "order": 158,
+      "title": "ACKNOWLEDGMENT:",
+      "path": "archives/old-archive/relativity/Rognerud/html/sect8.htm",
+      "slug": "158-acknowledgment",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 166
+    },
+    {
+      "order": 159,
+      "title": "9. References:",
+      "path": "archives/old-archive/relativity/Rognerud/html/sect9.htm",
+      "slug": "159-9-references",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 1042
+    },
+    {
+      "order": 160,
+      "title": "Nils Rognerud: Free Fall of Elementary particles",
+      "path": "archives/old-archive/relativity/Rognerud/index.html",
+      "slug": "160-nils-rognerud-free-fall-of-elementary-particles",
+      "reachable_from_entry": false,
+      "images": [
+        "http://www.best.com/%7Erognerud/blueplan.jpg"
+      ],
+      "internal_links": [],
+      "chars": 1740
+    },
+    {
+      "order": 161,
+      "title": "Robert Stirniman's Electrogravitics Page",
+      "path": "archives/old-archive/ufo.html",
+      "slug": "161-robert-stirnimans-electrogravitics-page",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 169
+    },
+    {
+      "order": 162,
+      "title": "MANIFEST",
+      "path": "teden/MANIFEST.html",
+      "slug": "162-manifest",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 120
+    },
+    {
+      "order": 163,
+      "title": "A NEW THEORY OF MATTER 940801",
+      "path": "teden/Tedenstig/A NEW THEORY OF MATTER 940801.html",
+      "slug": "163-a-new-theory-of-matter-940801",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 29835
+    },
+    {
+      "order": 164,
+      "title": "CHALLENGING VIEWPOINTS 940329",
+      "path": "teden/Tedenstig/CHALLENGING VIEWPOINTS 940329.html",
+      "slug": "164-challenging-viewpoints-940329",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 2673
+    },
+    {
+      "order": 165,
+      "title": "EINSTEIN'S THEORY OF RELATIVITY A BRIEF ANALYSIS 941211",
+      "path": "teden/Tedenstig/EINSTEIN'S THEORY OF RELATIVITY A BRIEF ANALYSIS 941211.html",
+      "slug": "165-einsteins-theory-of-relativity-a-brief-analysis-941211",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 32778
+    },
+    {
+      "order": 166,
+      "title": "EM-propulsion",
+      "path": "teden/Tedenstig/EM-propulsion.html",
+      "slug": "166-em-propulsion",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 19462
+    },
+    {
+      "order": 167,
+      "title": "ElectroMagnetic Properties of matter 1 of 2 941007",
+      "path": "teden/Tedenstig/ElectroMagnetic Properties of matter 1 of 2 941007.html",
+      "slug": "167-electromagnetic-properties-of-matter-1-of-2-941007",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 28745
+    },
+    {
+      "order": 168,
+      "title": "ElectroMagnetic Properties of matter 2 of 2 941007",
+      "path": "teden/Tedenstig/ElectroMagnetic Properties of matter 2 of 2 941007.html",
+      "slug": "168-electromagnetic-properties-of-matter-2-of-2-941007",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 45981
+    },
+    {
+      "order": 169,
+      "title": "Extra term in EM",
+      "path": "teden/Tedenstig/Extra term in EM.html",
+      "slug": "169-extra-term-in-em",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 1744
+    },
+    {
+      "order": 170,
+      "title": "FUNDAMENTAL CONSTANTS AND THE LAWS OF THE ATOM 940801",
+      "path": "teden/Tedenstig/FUNDAMENTAL CONSTANTS AND THE LAWS OF THE ATOM 940801.html",
+      "slug": "170-fundamental-constants-and-the-laws-of-the-atom-940801",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 23153
+    },
+    {
+      "order": 171,
+      "title": "elektromagnum/physics/Tedenstig/Matter_Unified directory",
+      "path": "teden/Tedenstig/Matter_Unified.html",
+      "slug": "171-elektromagnumphysicstedenstigmatter-unified-directory",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "teden/index.html",
+        "teden/Tedenstig/index.html"
+      ],
+      "chars": 1465
+    },
+    {
+      "order": 172,
+      "title": "ON GRAVITATION 950124",
+      "path": "teden/Tedenstig/ON GRAVITATION 950124.html",
+      "slug": "172-on-gravitation-950124",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 19479
+    },
+    {
+      "order": 173,
+      "title": "Rymd & Materia",
+      "path": "teden/Tedenstig/Rymd & Materia.html",
+      "slug": "173-rymd-materia",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 23262
+    },
+    {
+      "order": 174,
+      "title": "THE MODERN PARTICLE PHYSICS A BRIEF ANALYSIS 950124",
+      "path": "teden/Tedenstig/THE MODERN PARTICLE PHYSICS A BRIEF ANALYSIS 950124.html",
+      "slug": "174-the-modern-particle-physics-a-brief-analysis-950124",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 36706
+    },
+    {
+      "order": 175,
+      "title": "THE MYTH OF QUARKS",
+      "path": "teden/Tedenstig/THE MYTH OF QUARKS.html",
+      "slug": "175-the-myth-of-quarks",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 3949
+    },
+    {
+      "order": 176,
+      "title": "THE NEUTRON INHERENT STRUCTURE",
+      "path": "teden/Tedenstig/THE NEUTRON INHERENT STRUCTURE.html",
+      "slug": "176-the-neutron-inherent-structure",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 2874
+    },
+    {
+      "order": 177,
+      "title": "Ove Tedenstig",
+      "path": "teden/Tedenstig/index.html",
+      "slug": "177-ove-tedenstig",
+      "reachable_from_entry": false,
+      "images": [
+        "Tedenstig.jpg"
+      ],
+      "internal_links": [
+        "teden/Tedenstig/old.html",
+        "teden/Tedenstig/own/index.html"
+      ],
+      "chars": 1784
+    },
+    {
+      "order": 178,
+      "title": "Ove Tedenstig",
+      "path": "teden/Tedenstig/old.html",
+      "slug": "178-ove-tedenstig",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 2009
+    },
+    {
+      "order": 179,
+      "title": "newphys.se/teden/Tedenstig/own directory",
+      "path": "teden/Tedenstig/own/index.html",
+      "slug": "179-newphyssetedentedenstigown-directory",
+      "reachable_from_entry": false,
+      "images": [
+        "http://counter.balt.net/counter.php?OTedenstig",
+        "http://s10.sitemeter.com/meter.asp?site=s1019551"
+      ],
+      "internal_links": [
+        "teden/Tedenstig/index.html",
+        "teden/Tedenstig/own/partic1.htm",
+        "teden/Tedenstig/own/partic2.htm",
+        "teden/Tedenstig/own/particle.htm"
+      ],
+      "chars": 4290
+    },
+    {
+      "order": 180,
+      "title": "particle",
+      "path": "teden/Tedenstig/own/partic1.htm",
+      "slug": "180-particle",
+      "reachable_from_entry": false,
+      "images": [
+        "PARTP1.GIF",
+        "Image32.gif",
+        "PARTF2.GIF",
+        "PARTF4.GIF",
+        "PARTF5.GIF",
+        "PARTF6.GIF",
+        "PARTF7.GIF",
+        "PARTF8.GIF",
+        "PARTF9.GIF",
+        "PARTF10.GIF",
+        "PARTF11.GIF",
+        "Image33.gif",
+        "PARTF13.GIF",
+        "PARTP2.GIF",
+        "PARTP3.GIF",
+        "PARTP4.GIF",
+        "PARTP5.GIF"
+      ],
+      "internal_links": [],
+      "chars": 9939
+    },
+    {
+      "order": 181,
+      "title": "partic2",
+      "path": "teden/Tedenstig/own/partic2.htm",
+      "slug": "181-partic2",
+      "reachable_from_entry": false,
+      "images": [
+        "PARTF14.GIF",
+        "PARTF15.GIF",
+        "PARTF16.GIF",
+        "PARTF17.GIF",
+        "PARTF18.GIF",
+        "PARTF19.GIF",
+        "PARTF20.GIF",
+        "PARTF21.GIF",
+        "PARTF27.GIF",
+        "PARTF22.GIF",
+        "PARTF23.GIF",
+        "PARTF24.GIF",
+        "PARTF25.GIF",
+        "PARTF26.GIF"
+      ],
+      "internal_links": [],
+      "chars": 10208
+    },
+    {
+      "order": 182,
+      "title": "particle",
+      "path": "teden/Tedenstig/own/particle.htm",
+      "slug": "182-particle",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 3677
+    },
+    {
+      "order": 183,
+      "title": "Index of /teden",
+      "path": "teden/index.html",
+      "slug": "183-index-of-teden",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "index.html",
+        "teden/Tedenstig/index.html",
+        "teden/mu/index.html"
+      ],
+      "chars": 263
+    },
+    {
+      "order": 184,
+      "title": "newphys.se/teden/mu/MatterUnified directory",
+      "path": "teden/mu/MatterUnified/index.html",
+      "slug": "184-newphyssetedenmumatterunified-directory",
+      "reachable_from_entry": false,
+      "images": [
+        "http://counter.balt.net/counter.php?OTedenstig",
+        "http://s10.sitemeter.com/meter.asp?site=s1019551"
+      ],
+      "internal_links": [
+        "teden/mu/index.html"
+      ],
+      "chars": 2645
+    },
+    {
+      "order": 185,
+      "title": "Index of /teden/mu",
+      "path": "teden/mu/index.html",
+      "slug": "185-index-of-tedenmu",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "teden/index.html",
+        "teden/mu/MatterUnified/index.html"
+      ],
+      "chars": 158
+    }
+  ]
+}

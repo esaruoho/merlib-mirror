@@ -1,0 +1,79 @@
+Ove Tedenstig, Idungatan 37, 19 551 Märsta/Sweden
+30/10-1996
+
+
+
+
+THE DIFFERENCE BETWEEN THE "TRUE" AND THE "FALSE" DOPPLER EFFECT
+OF LIGHT.
+
+When looking at distance stars and galaxies, a red shift is
+observed in the received light. In present cosmological
+theories, this effect is interpreted as a dopplereffect of
+receeding objects. Objects beeing far from us are supposed
+to travel faster than those objects beeing more near us,
+that as an effect of the "Big Bang".
+
+Case 1)
+The true doppler effect is associated with an active aether
+medium, transporting the energy from source to receiver.
+In this case the medium limits the transmission velocity.
+
+Case 2)
+Supposing a pure particle source ,the velocities of those
+particles are determined by the output velocity related to the
+source plus the source's velocity in relation to  this system
+where the measurements are done.
+
+Let's calculate the "true" doppler effect in case 1 and the
+"false" doppler effect in case 2.
+
+Case 1)
+wt = wavelength as produced by the transmitter
+wr = wavelength as measured by the receiver side
+ft = frequency of the transmitter = 1/dt
+c  = propagation velocity of wave in aether
+vt = velocity of the transmitter related to the aether
+vr = velocity of the receiver related to the aether
+dt = time interval between two transmitted pulses
+
+
+At the transmitter side : wt = dt.c - dt.vt
+At the receiver side    : wr = wt + vr.dt       giving
+
+                          wr = c/fo.(1- (vt-vr)/c)
+
+Case 2)
+In this case, there is no aether. The particles are sent out with
+velocity "c" in relation to the source and having the velocity
+c+vt as measured in an outer system in which the source move with
+velocity vt.
+
+For the transmitter side :   wt = dt.(c+vt) - dt.vt = dt.c =
+c/fo = constant
+Hence, in the particle case, we get no wavelength shift on the
+transmitter side.
+
+The receiver side: The time for an interval to pass the reciever
+moving with velocity vr in relation to a common reference ( the
+same as for the transmitter):
+
+                      wt
+                tr = ---------  = 1/f
+                     c+ vt-vr
+
+From that :     f = fo.( 1 + (vt-vr)/c)
+
+Conclusion: If light is transported in aether, the doppler shift is
+a true doppler effect, giving shift in wavelength.
+
+If light is a stream of particles, the doppler shift is a false
+effekt, giving shift in frequency. Hence, it may be possible to
+determine the true essens of the nature of light in this way.
+The doppler effect in the particle case is received beqause of
+an invarians in transmitting velocity in relation to the receiving
+system.
+
+However, the thesis of the invariant velocity of light is only true
+in case of aether and not for particle.
+

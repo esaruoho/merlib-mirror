@@ -1,0 +1,169 @@
+MASSÖKNING                           MASS INCREASE
+
+År 1901 upptäcktes genom  expe-      In  year 1901 it was discovered
+riment med katodstrålar (elekt-      by cathode ray experiments  (e-
+roner),  att dessa partiklar ej      lectrons), that these particles
+avböjde i ett elektromagnetiskt      not inclined in an electro mag-
+fält exakt så mycket som klass-      netic field in exactly this way
+isk  Newtonsk teori  föreskrev.      as was awaited from pure Newto-
+Detta   fenomen  kan i  princip      nian  theory.  Principally this
+tolkas på  två  olika  sätt  1)      phenomenon can  be  interpreted
+elektronernas  massa  ökar  med      in  two  different ways 1)  the
+hastigheten eller  2) då parti-      electron mass   increases  with
+keln börjar närma sig den  has-      velocity  (a real effect) or 2)
+tighet som det    accelererande      when a particle begin  approac-
+fältet  har, avtager verkan  av      hing the velocity of the  acce-
+den accelererande  kraften.  E-      lerating  field,  the accelera-
+xakt vilket av dessa alternativ      ting force diminishes. Which of
+som är det riktiga går  ej utan      these  alternatives  being true
+vidare att avgöra. Det kan ock-      cannot  without further  notice
+så tänkas, att båda  effekterna      be  decided.  Both  effect  may
+kan ha reell betydelse.              have importance.
+
+
+
+Newtons force formula   F = d/dt(mv) ;
+
+Deriving this formula   F = dm/dt . v + m .dv/dt
+
+Multiplying both sides with a small distance, ds, give moving energy
+(kinetic energy of the particle) :
+
+                        F.ds = dm/dt . v.ds + m . dv/dt . ds
+
+But  F.ds = dE (a small amount of kinetic energy) and
+
+ds/dt is the same as velocity of the particle, givning :
+
+
+                        dE = dm.v.ds/dt +m.dv.ds/dt
+
+
+                                 2
+                        dE = dm.v + m.v.dv
+
+
+                                         2
+Hence :                 dE/dv = dm/dv . v   + m.v
+
+
+If we assume m increase its electromagnetic mass in accord with
+
+            2   2 -1/2
+m = mo.c.( c - v )        ( by the "Lorenz factor"), the derivative
+
+dm/dv will be :
+
+                                    2  2 -1/2
+                       d/dv (mo.c.(c -v )     )  =
+
+
+                                     2  2 -3/2
+                       mo.c.(-1/2).(c -v )    .(-2v) =
+
+                                2  2 -3/2
+                       mo.c.v.(c -v )
+
+Inserting this result into the formula above give :
+
+                                 3
+                                v                    v
+            dE/dv = mo.c . ------------  + mo.c. --------
+                              2  2 3/2              2  2 1/2
+                            (c -v )               (c -v )
+
+
+Integrating  0 --> v gives :
+
+                   /      3                    /
+                  !      v                    !    v
+         E = mo.c ! ___________ dv   +  mo.c. ! ___________ dv
+                  !    2  2 3/2               !    2  2 1/2
+                  !  (c -v )                  !  (c -v )
+                 /                            /
+
+                            3                       2
+                           x             2  2      a
+Allmänt, in general : I ------- dx  =  (a -x ) + -------
+                           2  2 3/2                2  2 1/2
+                         (a -c )                ( a -x )
+
+
+                          x              2  2 1/2
+                      I ----- dx   = - (a -x )
+                          2  2 1/2
+                        (a -x )
+
+         v
+          !              2
+          !   2  2      c              2  2 1/2
+E = mo.c. ! (c -v ) + ----------- -  (c -v )
+          !             2  2 1/2
+          !           (c -v )
+          !
+         0
+
+                               2
+           !     2  2 1/2     c              2  2 1/2
+   = mo.c. ! . (c -v ) +  -----------  - (c -v )   -c + c -c  =
+           !                 2  2 1/2
+                           (c -v )
+                 2
+           !    c
+   = mo.c. ! --------    - c       =
+           !    2  2 1/2
+              (c -v )
+
+
+                  !
+   =   mo.c       !   2        2  2 1/2
+     --------     !  c  - c. (c -v )         =
+       2  2 1/2   !
+     (c -v )      !
+
+
+              4    2   2  2 1/2
+         !   c  - c .(c -v )
+   = m . !  -----------------           =
+         !    2        2  2 1/2
+             c  + c. (c -v )
+
+
+             4   4    2  2
+         !  c  -c  + c .v
+   = m . ! ----------------------
+         !   2         2  2 1/2
+            c . (1 + (c -v )   )
+
+=======================================================================
+               2
+              v                    2
+   E = m. ----------------   = mo.v /(L.(1+L))
+                      2  2                    2  2
+          1 + SQRT(1-v /c )    if L = SQRT(1-v /c ), the Lorents factor
+
+=======================================================================
+
+
+
+                      2
+Om/if  v= c,  E = m.c
+
+                         2
+                    m . v                  2
+Om/if v<<c    E = -----------    = 1/2. m.v
+
+                  1 + SQRT(1-0)
+
+
+                           2
+Vi ser att resultatet E=m.c endast är sannt om massan hos
+den accelererande partikeln ökar som funktion av hastigheten
+enligt sambandet m=mo/L. I annat fall är den totala energin
+          2
+E=1/2.mo.c .
+
+
+
+
+

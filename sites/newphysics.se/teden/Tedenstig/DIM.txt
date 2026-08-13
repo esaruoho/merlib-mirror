@@ -1,0 +1,112 @@
+Ove Tedenstig, Idungatan 37, 19551 Märsta/Sweden
+30/10-1996
+
+
+
+(Från "A NEW WAY TO PHYSICS 1990")
+Alla fysikaliska storheter kan uttryckas som heltals-
+värden av M(massa), L(längd) och T(tid).
+
+====================================
+FYSIKALISK STORHET      DIMENSION
+                        M   L   T
+------------------------------------
+MASSA                  +1   0   0
+LÄNGD                   0  +1   0
+TIME                    0   0  +1
+HASTIGHET               0  +1  -1
+ACCELERATION            0  +1  -2
+YTA                     0  +2   0
+VOLYM                   0  +3   0
+VÅGLÄMGD                0  +1   0
+FREKVENS                0   0  -1
+MASSA DENSITET         +1  -3   0
+MASSA-IMPULS           +1  +1  -1
+MASSA-MOMENT           -1  -2  -1
+KRAFT                  +1  +1  -2
+ENERGI                 +1  +2  -2
+EFFEKT                 +1  +2  -3
+TRYCK                  +1  -1  -2
+PERMITTIVITET          -1   3   0
+PERMEABILITET          +1  -5  +2
+ELECTRISK LADDNING      0  +3  -1
+ELEKTRISK STRÖM         0  +3  -2
+ELEKTRISK SPÄNNING     +1  -1  -1
+ELEKTRISK IMPEDANS     +1  -4  +1
+ELEKTRISK RESISTANS    +1  -4  +1
+ELEKTRISK KAPACITANS   -1  +4   0
+ELEKTRISKT INDUKTANS   +1  -4  +2
+ELEKTRISK FÄLTSTYRKA   +1  -2  -1
+MAGNETISK FÄLTSTYRKA   +1  -3   0
+MAGNETISKT FLÖDE       +1  -1   0
+PLANCKS KONSTANT       +1  +2  -1
+GRAVITATIONSKONSTANTEN -1  +3  -2
+HUBBLE KONSTANTEN       0   0  -1
+AT. FIN STRUKT. KONST.  0   0   0
+RYDBERGS KONSTANT       0  -1   0
+
+(Obs: tabellen gör inget anspråk på att vara helt komplett)
+
+Exempel (1) på användning:   Produkten R*C är tidskonstant i en
+                             elektrisk kondensator. Den skall ha
+                             dimensionen tid (T):
+
+                             R =   +1    -4   +1
+                             C =   -1    +4    0
+                             -----------------------
+                    Summa :         0     0   +1
+                                   ----- tid ----
+
+
+Exempel (2) på användning:  Relationen U/R = I
+(OBS: teckenväxling om uttrycket står i nämnaren).
+
+
+                            U =      +1     -1     -1
+                            R =     -(+1)   -(-4)  -(+1)
+                            ------------------------------
+                    Summa :          0      3      -2
+                                     ----- ström -----
+
+
+Exempel (3) på användning: Relationen F= B.i.L är kraft:
+
+                            B =      +1      -3      0
+                            i =       0       3      -2
+                            L =       0       +1     0
+                            ---------------------------
+                    Summa:           +1       +1      -2
+                                    ------ kraft -------
+
+
+
+                                               Q.Q
+Exempel (4) på användning : Coulombs lag F = -------- 2
+                                             4.Pi.Eo.D
+
+                             Q =      0       +3      -1
+                             Q =      0       +3      -1
+                          4.Pi =    -(0)     -(0)    -(0)
+                            Eo =    -(-1)    -(+3)     0
+                            D  =      0      -(+1)     0
+                            D  =      0      -(+1)     0
+                            -----------------------------
+                    Summa:            +1      +1      -2
+                                  ------- kraft --------
+
+                                            2
+Exempel (5) på användning : Energi = 1/2 * B /uo . V
+
+
+                            1/2        0         0        0
+                            B =       +1         -3       0
+                            B =       +1         -3       0
+                           u0 =      -(+1)      -(-5)    -(+2)
+                            V =        0          +3      0
+                            --------------------------------
+                    Summa:            +1         +2      -2
+                                ------------ energi ---------
+
+
+Detta som några exempel
+

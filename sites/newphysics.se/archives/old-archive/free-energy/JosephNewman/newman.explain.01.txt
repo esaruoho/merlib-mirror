@@ -1,0 +1,60 @@
+From: Paul
+Date: Wed, 23 Feb 1994 06:37:16 GMT
+
+[...] My theory is that the device produces a
+short flyback high voltage pulse that drives the crud that accumulates
+around the electrode of a carbon battery back into the stuff they 
+are originally filled with which has the purpose of neutralizing this
+accumulating crud.  Shows you how much I remember all the details of 
+a carbon battery -- Huh!.  Anyway, if that happens the battery works 
+again (crud free) for awhile.  The accumulation of course is just below
+some critical threshold value so it isn't long (3minutes in this case)
+before the stuff again does it's thing.   This probably the main reason 
+that carbon cells do not give the energy that alkalines do.  [...]
+-------------------------------------------------------------------------- 
+From: Jay
+Date: Wed, 23 Feb 1994 02:22:10 GMT
+
+[...] the NBS found that Newman's device was a "dead"
+battery being switched on and off, so that "peak power" was being
+detected, while average power was close to zero.  You can achieve the same
+effect from switching a dead transistor radio on and off--even with a dead
+battery, you can get a few seconds of sound.  Physically, I believe the
+electrons bunch near the terminals, but I'm not a physicist.  Anyhow, such
+a device does not violate the First or Second Laws.  The claim that more
+energy came out than went in came from comparing apples to oranges-- peak
+power versus average power.  Can't do that.[...]
+--------------------------------------------------------------------------
+From: Mike
+Received-Date: Fri, 18 Feb 94 23:42:36 +0100
+
+[...] I hesitate to offer serious comments because all I know about this
+device is what I've read over the last 8 hours on the 'net.
+
+        Nonetheless, I suspect that if this unit were to produce
+more power than it took in, it would be pretty simple to demonstrate 
+that point, and it would be in the best interests of the inventor
+to do so. Respecting his need for privacy, a simple read of the inputs
+and outputs of the 'black box' would be a nice way to start. The article
+that was posted suggested that this was done, and that the device
+was found to be running at 70-something percent, not 100+ percent.
+While they hedged and said that internal friction might have been 
+chewing up some of the power, this strongly suggests that the device
+could not have 'charged' the batteries during the earlier test. I have
+to conclude, based on this limited information, that the battery
+test was nonsense (probably related to the way the battery was
+initially discharged, battery memory effect, thermal effects, and 
+what-have-you) and that the measurement test showed it do be
+a fraud.
+---------------------------------------------------------------------------
+From: Dirk
+Date: Fri., 18. Feb. 94
+
+   [...] Concerning the batteries: I found an article in an electronics
+   magazine which described a battery charger which is based on _pulsed_
+   DC. This device is far more efficient than the normal DC chargers --
+   you can charge accumulators which are exhausted to a point
+   where you can't recharge them with an ordinary, unpulsed DC device.
+   This could be the connection between the batteries and the Newman
+   device, although not everything in this story is clear to me yet.
+   [...] 

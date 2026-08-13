@@ -1,0 +1,1749 @@
+From: sichase@csa2.lbl.gov (SCOTT I CHASE)
+Newsgroups: sci.physics,alt.sci.physics.new-theories,news.answers,sci.answers,alt.answers
+Subject: Sci.physics Frequently Asked Questions - April 1994  - Part 2/2
+Summary: This posting contains a list of Frequently Asked Questions 
+	(and their answers) about physics, and should be read by anyone who
+	wishes to post to the sci.physics.* newsgroups.
+Keywords: Sci.physics FAQ April 1994 Part 2/2
+Message-ID: <4APR199414035351@csa5.lbl.gov>
+Date: 4 Apr 94 22:03:00 GMT
+Expires: Sun, 1 May 1994 00:00:00 GMT
+Sender: sichase@csa5.lbl.gov (SCOTT I CHASE)
+Reply-To: sichase@csa2.lbl.gov
+Followup-To: sci.physics
+Organization: Lawrence Berkeley Laboratory - Berkeley, CA, USA
+Lines: 1729
+Approved: news-answers-request@MIT.Edu
+NNTP-Posting-Host: csa5.lbl.gov
+News-Software: VAX/VMS VNEWS 1.41
+Xref: columba.udac.uu.se sci.physics:5054 alt.sci.physics.new-theories:582 news.answers:2941 sci.answers:246
+
+Archive-name: physics-faq/part2
+Last-modified: 07-MAR-1994
+
+--------------------------------------------------------------------------------
+               FREQUENTLY ASKED QUESTIONS ON SCI.PHYSICS - Part 2/2
+--------------------------------------------------------------------------------
+
+Item 16.
+
+Some Frequently Asked Questions About Black Holes   updated 2-JUL-1993 by MM 
+-------------------------------------------------   original by Matt McIrvin
+
+Contents:
+
+1. What is a black hole, really?
+2. What happens to you if you fall in?
+3. Won't it take forever for you to fall in?  Won't it take forever
+   for the black hole to even form? 
+4. Will you see the universe end?
+5. What about Hawking radiation?  Won't the black hole evaporate 
+   before you get there?
+6. How does the gravity get out of the black hole?
+7. Where did you get that information?
+
+1. What is a black hole, really?
+
+	In 1916, when general relativity was new, Karl Schwarzschild worked
+out a useful solution to the Einstein equation describing the evolution of
+spacetime geometry.  This solution, a possible shape of spacetime, would
+describe the effects of gravity *outside* a spherically symmetric,
+uncharged, nonrotating object (and would serve approximately to describe
+even slowly rotating objects like the Earth or Sun).  It worked in much the
+same way that you can treat the Earth as a point mass for purposes of
+Newtonian gravity if all you want to do is describe gravity *outside* the
+Earth's surface. 
+
+	What such a solution really looks like is a "metric," which is a
+kind of generalization of the Pythagorean formula that gives the length of
+a line segment in the plane.  The metric is a formula that may be used to
+obtain the "length" of a curve in spacetime.  In the case of a curve
+corresponding to the motion of an object as time passes (a "timelike
+worldline,") the "length" computed by the metric is actually the elapsed
+time experienced by an object with that motion.  The actual formula depends
+on the coordinates chosen in which to express things, but it may be
+transformed into various coordinate systems without affecting anything
+physical, like the spacetime curvature.  Schwarzschild expressed his metric
+in terms of coordinates which, at large distances from the object,
+resembled spherical coordinates with an extra coordinate t for time. 
+Another coordinate, called r, functioned as a radial coordinate at large
+distances; out there it just gave the distance to the massive object. 
+
+	Now, at small radii, the solution began to act strangely.  There
+was a "singularity" at the center, r=0, where the curvature of spacetime
+was infinite.  Surrounding that was a region where the "radial" direction
+of decreasing r was actually a direction in *time* rather than in space.
+Anything in that region, including light, would be obligated to fall toward
+the singularity, to be crushed as tidal forces diverged. This was separated
+from the rest of the universe by a place where Schwarzschild's coordinates
+blew up, though nothing was wrong with the curvature of spacetime there. 
+(This was called the Schwarzschild radius.  Later, other coordinate systems
+were discovered in which the blow-up didn't happen; it was an artifact of
+the coordinates, a little like the problem of defining the longitude of the
+North Pole.  The physically important thing about the Schwarzschild radius
+was not the coordinate problem, but the fact that within it the direction
+into the hole became a direction in time.) 
+
+	Nobody really worried about this at the time, because there was no
+known object that was dense enough for that inner region to actually be
+outside it, so for all known cases, this odd part of the solution would not
+apply.  Arthur Stanley Eddington considered the possibility of a dying star
+collapsing to such a density,  but rejected it as aesthetically unpleasant
+and proposed that some new physics must intervene.  In 1939, Oppenheimer
+and Snyder finally took seriously the possibility that stars a few times
+more massive than the sun might be doomed to collapse to such a state at
+the end of their lives. 
+
+	Once the star gets smaller than the place where Schwarzschild's
+coordinates fail (called the Schwarzschild radius for an uncharged,
+nonrotating object, or the event horizon) there's no way it can avoid
+collapsing further.  It has to collapse all the way to a singularity for
+the same reason that you can't keep from moving into the future! Nothing
+else that goes into that region afterward can avoid it either, at least in
+this simple case.  The event horizon is a point of no return. 
+
+	In 1971 John Archibald Wheeler named such a thing a black hole,
+since light could not escape from it.  Astronomers have many candidate
+objects they think are probably black holes, on the basis of several kinds
+of evidence (typically they are dark objects whose large mass can be
+deduced from their gravitational effects on other objects, and which
+sometimes emit X-rays, presumably from infalling matter).  But the
+properties of black holes I'll talk about here are entirely theoretical.
+They're based on general relativity, which is a theory that seems supported
+by available evidence. 
+
+2. What happens to you if you fall in?
+
+	Suppose that, possessing a proper spacecraft and a self-destructive
+urge, I decide to go black-hole jumping and head for an uncharged,
+nonrotating ("Schwarzschild") black hole.  In this and other kinds of hole,
+I won't, before I fall in, be able to see anything within the event
+horizon.  But there's nothing *locally* special about the event horizon;
+when I get there it won't seem like a particularly unusual place, except
+that I will see strange optical distortions of the sky around me from all
+the bending of light that goes on.  But as soon as I fall through, I'm
+doomed.  No bungee will help me, since bungees can't keep Sunday from
+turning into Monday.  I have to hit the singularity eventually, and before
+I get there there will be enormous tidal forces-- forces due to the
+curvature of spacetime-- which will squash me and my spaceship in some
+directions and stretch them in another until I look like a piece of
+spaghetti.  At the singularity all of present physics is mute as to what
+will happen, but I won't care.  I'll be dead. 
+
+	For ordinary black holes of a few solar masses, there are actually
+large tidal forces well outside the event horizon, so I probably wouldn't
+even make it into the hole alive and unstretched.  For a black hole of 8
+solar masses, for instance, the value of r at which tides become fatal is
+about 400 km, and the Schwarzschild radius is just 24 km.  But tidal
+stresses are proportional to M/r^3.  Therefore the fatal r goes as the cube
+root of the mass, whereas the Schwarzschild radius of the black hole is
+proportional to the mass.  So for black holes larger than about 1000 solar
+masses I could probably fall in alive, and for still larger ones I might
+not even notice the tidal forces until I'm through the horizon and doomed. 
+
+3. Won't it take forever for you to fall in?  Won't it take forever
+   for the black hole to even form?
+
+	Not in any useful sense.  The time I experience before I hit the
+event horizon, and even until I hit the singularity-- the "proper time"
+calculated by using Schwarzschild's metric on my worldline -- is finite. 
+The same goes for the collapsing star; if I somehow stood on the surface of
+the star as it became a black hole, I would experience the star's demise in
+a finite time. 
+
+	On my worldline as I fall into the black hole, it turns out that
+the Schwarzschild coordinate called t goes to infinity when I go through
+the event horizon.  That doesn't correspond to anyone's proper time,
+though; it's just a coordinate called t.  In fact, inside the event
+horizon, t is actually a *spatial* direction, and the future corresponds
+instead to decreasing r.  It's only outside the black hole that t even
+points in a direction of increasing time.  In any case, this doesn't
+indicate that I take forever to fall in, since the proper time involved is
+actually finite. 
+
+	At large distances t *does* approach the proper time of someone who
+is at rest with respect to the black hole.  But there isn't any
+non-arbitrary sense in which you can call t at smaller r values "the proper
+time of a distant observer," since in general relativity there is no
+coordinate-independent way to say that two distant events are happening "at
+the same time."  The proper time of any observer is only defined locally. 
+
+	A more physical sense in which it might be said that things take
+forever to fall in is provided by looking at the paths of emerging light
+rays.  The event horizon is what, in relativity parlance, is called a
+"lightlike surface"; light rays can remain there.  For an ideal
+Schwarzschild hole (which I am considering in this paragraph) the horizon
+lasts forever, so the light can stay there without escaping.  (If you
+wonder how this is reconciled with the fact that light has to travel at the
+constant speed c-- well, the horizon *is* traveling at c! Relative speeds
+in GR are also only unambiguously defined locally, and if you're at the
+event horizon you are necessarily falling in; it comes at you at the speed
+of light.)  Light beams aimed directly outward from just outside the
+horizon don't escape to large distances until late values of t.  For
+someone at a large distance from the black hole and approximately at rest
+with respect to it, the coordinate t does correspond well to proper time. 
+
+	So if you, watching from a safe distance, attempt to witness my
+fall into the hole, you'll see me fall more and more slowly as the light
+delay increases.  You'll never see me actually *get to* the event horizon.
+My watch, to you, will tick more and more slowly, but will never reach the
+time that I see as I fall into the black hole.  Notice that this is really
+an optical effect caused by the paths of the light rays. 
+
+	This is also true for the dying star itself.  If you attempt to
+witness the black hole's formation, you'll see the star collapse more and
+more slowly, never precisely reaching the Schwarzschild radius. 
+
+	Now, this led early on to an image of a black hole as a strange
+sort of suspended-animation object, a "frozen star" with immobilized
+falling debris and gedankenexperiment astronauts hanging above it in
+eternally slowing precipitation.  This is, however, not what you'd see. The
+reason is that as things get closer to the event horizon, they also get
+*dimmer*.  Light from them is redshifted and dimmed, and if one considers
+that light is actually made up of discrete photons, the time of escape of
+*the last photon* is actually finite, and not very large.  So things would
+wink out as they got close, including the dying star, and the name "black
+hole" is justified. 
+
+	As an example, take the eight-solar-mass black hole I mentioned
+before.  If you start timing from the moment the you see the object half a
+Schwarzschild radius away from the event horizon, the light will dim
+exponentially from that point on with a characteristic time of about 0.2
+milliseconds, and the time of the last photon is about a hundredth of a
+second later.  The times scale proportionally to the mass of the black
+hole.  If I jump into a black hole, I don't remain visible for long. 
+
+	Also, if I jump in, I won't hit the surface of the "frozen star."
+It goes through the event horizon at another point in spacetime from
+where/when I do. 
+
+	(Some have pointed out that I really go through the event horizon a
+little earlier than a naive calculation would imply.  The reason is that my
+addition to the black hole increases its mass, and therefore moves the
+event horizon out around me at finite Schwarzschild t coordinate.  This
+really doesn't change the situation with regard to whether an external
+observer sees me go through, since the event horizon is still lightlike;
+light emitted at the event horizon or within it will never escape to large
+distances, and light emitted just outside it will take a long time to get
+to an observer, timed, say, from when the observer saw me pass the point
+half a Schwarzschild radius outside the hole.) 
+
+	All this is not to imply that the black hole can't also be used for
+temporal tricks much like the "twin paradox" mentioned elsewhere in this
+FAQ.  Suppose that I don't fall into the black hole-- instead, I stop and
+wait at a constant r value just outside the event horizon, burning
+tremendous amounts of rocket fuel and somehow withstanding the huge
+gravitational force that would result.  If I then return home, I'll have
+aged less than you.  In this case, general relativity can say something
+about the difference in proper time experienced by the two of us, because
+our ages can be compared *locally* at the start and end of the journey. 
+
+4. Will you see the universe end?
+
+	If an external observer sees me slow down asymptotically as I fall,
+it might seem reasonable that I'd see the universe speed up
+asymptotically-- that I'd see the universe end in a spectacular flash as I
+went through the horizon.  This isn't the case, though.  What an external
+observer sees depends on what light does after I emit it.  What I see,
+however, depends on what light does before it gets to me.  And there's no
+way that light from future events far away can get to me.  Faraway events
+in the arbitrarily distant future never end up on my "past light-cone," the
+surface made of light rays that get to me at a given time. 
+
+	That, at least, is the story for an uncharged, nonrotating black
+hole.  For charged or rotating holes, the story is different.  Such holes
+can contain, in the idealized solutions, "timelike wormholes" which serve
+as gateways to otherwise disconnected regions-- effectively, different
+universes.  Instead of hitting the singularity, I can go through the
+wormhole.  But at the entrance to the wormhole, which acts as a kind of
+inner event horizon, an infinite speed-up effect actually does occur.  If I
+fall into the wormhole I see the entire history of the universe outside
+play itself out to the end.  Even worse, as the picture speeds up the light
+gets blueshifted and more energetic, so that as I pass into the wormhole an
+"infinite blueshift" happens which fries me with hard radiation.  There is
+apparently good reason to believe that the infinite blueshift would imperil
+the wormhole itself, replacing it with a singularity no less pernicious
+than the one I've managed to miss.  In any case it would render wormhole
+travel an undertaking of questionable practicality. 
+
+5. What about Hawking radiation?  Won't the black hole evaporate
+   before you get there?
+
+	(First, a caveat: Not a lot is really understood about evaporating
+black holes.  The following is largely deduced from information in Wald's
+GR text, but what really happens-- especially when the black hole gets very
+small-- is unclear.  So take the following with a grain of salt.) 
+
+Short answer:  No, it won't.  This demands some elaboration.
+
+	From thermodynamic arguments Stephen Hawking realized that a black
+hole should have a nonzero temperature, and ought therefore to emit
+blackbody radiation.  He eventually figured out a quantum- mechanical
+mechanism for this.  Suffice it to say that black holes should very, very
+slowly lose mass through radiation, a loss which accelerates as the hole
+gets smaller and eventually evaporates completely in a burst of radiation. 
+This happens in a finite time according to an outside observer. 
+
+	But I just said that an outside observer would *never* observe an
+object actually entering the horizon!  If I jump in, will you see the black
+hole evaporate out from under me, leaving me intact but marooned in the
+very distant future from gravitational time dilation? 
+
+	You won't, and the reason is that the discussion above only applies
+to a black hole that is not shrinking to nil from evaporation. Remember
+that the apparent slowing of my fall is due to the paths of outgoing light
+rays near the event horizon.  If the black hole *does* evaporate, the delay
+in escaping light caused by proximity to the event horizon can only last as
+long as the event horizon does!  Consider your external view of me as I
+fall in. 
+
+	If the black hole is eternal, events happening to me (by my watch)
+closer and closer to the time I fall through happen divergingly later
+according to you (supposing that your vision is somehow not limited by the
+discreteness of photons, or the redshift). 
+
+	If the black hole is mortal, you'll instead see those events happen
+closer and closer to the time the black hole evaporates.  Extrapolating,
+you would calculate my time of passage through the event horizon as the
+exact moment the hole disappears!  (Of course, even if you could see me,
+the image would be drowned out by all the radiation from the evaporating
+hole.)  I won't experience that cataclysm myself, though; I'll be through
+the horizon, leaving only my light behind. As far as I'm concerned, my
+grisly fate is unaffected by the evaporation. 
+
+	All of this assumes you can see me at all, of course.  In practice
+the time of the last photon would have long been past.  Besides, there's
+the brilliant background of Hawking radiation to see through as the hole
+shrinks to nothing. 
+
+	(Due to considerations I won't go into here, some physicists think
+that the black hole won't disappear completely, that a remnant hole will be
+left behind.  Current physics can't really decide the question, any more
+than it can decide what really happens at the singularity. If someone ever
+figures out quantum gravity, maybe that will provide an answer.) 
+
+6. How does the gravity get out of the black hole?
+
+	Purely in terms of general relativity, there is no problem here. 
+The gravity doesn't have to get out of the black hole.  General relativity
+is a local theory, which means that the field at a certain point in
+spacetime is determined entirely by things going on at places that can
+communicate with it at speeds less than or equal to c.  If a star collapses
+into a black hole, the gravitational field outside the black hole may be
+calculated entirely from the properties of the star and its external
+gravitational field *before* it becomes a black hole. Just as the light
+registering late stages in my fall takes longer and longer to get out to
+you at a large distance, the gravitational consequences of events late in
+the star's collapse take longer and longer to ripple out to the world at
+large.  In this sense the black hole *is* a kind of "frozen star": the
+gravitational field is a fossil field.  The same is true of the
+electromagnetic field that a black hole may possess. 
+
+	Often this question is phrased in terms of gravitons, the
+hypothetical quanta of spacetime distortion.  If things like gravity
+correspond to the exchange of "particles" like gravitons, how can they get
+out of the event horizon to do their job? 
+
+	First of all, it's important to realize that gravitons are not as
+yet even part of a complete theory, let alone seen experimentally.  They
+don't exist in general relativity, which is a non-quantum theory.  When
+fields are described as mediated by particles, that's quantum theory, and
+nobody has figured out how to construct a quantum theory of gravity.  Even
+if such a theory is someday built, it may not involve "virtual particles"
+in the same way other theories do.  In quantum electrodynamics, the static
+forces between particles are described as resulting from the exchange of
+"virtual photons," but the virtual photons only appear when one expresses
+QED in terms of a quantum- mechanical approximation method called
+perturbation theory.  It currently looks like this kind of perturbation
+theory doesn't work properly when applied to quantum gravity.  So although
+quantum gravity may well involve "real gravitons" (quantized gravitational
+waves), it may well not involve "virtual gravitons" as carriers of static
+gravitational forces. 
+
+	Nevertheless, the question in this form is still worth asking,
+because black holes *can* have static electric fields, and we know that
+these may be described in terms of virtual photons.  So how do the virtual
+photons get out of the event horizon?  The answer is that virtual particles
+aren't confined to the interiors of light cones: they can go faster than
+light!  Consequently the event horizon, which is really just a surface that
+moves at the speed of light, presents no barrier. 
+
+	I couldn't use these virtual photons after falling into the hole to
+communicate with you outside the hole; nor could I escape from the hole by
+somehow turning myself into virtual particles.  The reason is that virtual
+particles don't carry any *information* outside the light cone.  That is a
+tricky subject for another (future?) FAQ entry.  Suffice it to say that the
+reasons virtual particles don't provide an escape hatch for a black hole
+are the same as the reasons they can't be used for faster-than-light travel
+or communication. 
+
+7. Where did you get that information?
+
+	The numbers concerning fatal radii, dimming, and the time of the
+last photon came from Misner, Thorne, and Wheeler's _Gravitation_ (San
+Francisco: W. H. Freeman & Co., 1973), pp. 860-862 and 872-873. Chapters 32
+and 33 (IMHO, the best part of the book) contain nice descriptions of some
+of the phenomena I've described. 
+
+	Information about evaporation and wormholes came from Robert Wald's
+_General Relativity_ (Chicago: University of Chicago Press, 1984). The
+famous conformal diagram of an evaporating hole on page 413 has resolved
+several arguments on sci.physics (though its veracity is in question). 
+
+	Steven Weinberg's _Gravitation and Cosmology_ (New York: John Wiley
+and Sons, 1972) provided me with the historical dates.  It discusses some
+properties of the Schwarzschild solution in chapter 8 and describes
+gravitational collapse in chapter 11. 
+
+********************************************************************************
+Item 17.
+
+Below Absolute Zero - What Does Negative Temperature Mean?   updated 24-MAR-1993
+----------------------------------------------------------
+
+Questions:  What is negative temperature?  Can you really make a system
+which has a temperature below absolute zero?  Can you even give any useful
+meaning to the expression 'negative absolute temperature'? 
+
+Answer:  Absolutely. :-)
+
+	Under certain conditions, a closed system *can* be described by a
+negative temperature, and, surprisingly, be *hotter* than the same system
+at any positive temperature.  This article describes how it all works. 
+
+Step I: What is "Temperature"?
+------------------------------
+
+	To get things started, we need a clear definition of "temperature."
+Our intuitive notion is that two systems in thermal contact should exchange 
+no heat, on average, if and only if they are at the same temperature.  Let's 
+call the two systems S1 and S2. The combined system, treating S1 and S2
+together, can be S3.  The important question, consideration of which
+will lead us to a useful quantitative definition of temperature, is "How will 
+the energy of S3 be distributed between S1 and S2?"  I will briefly explain
+this below, but I recommend that you read K&K, referenced below, for a 
+careful, simple, and thorough explanation of this important and fundamental
+result.
+
+	With a total energy E, S has many possible internal states
+(microstates).  The atoms of S3 can share the total energy in many ways.
+Let's say there are N different states.  Each state corresponds to a
+particular division of the total energy in the two subsystems S1 and S2.
+Many microstates can correspond to the same division, E1 in S1 and E2 in
+S2. A simple counting argument tells you that only one particular division
+of the energy, will occur with any significant probability.  It's the one
+with the overwhelmingly largest number of microstates for the total system
+S3. That number, N(E1,E2) is just the product of the number of states
+allowed in each subsystem, N(E1,E2) = N1(E1)*N2(E2), and, since E1 + E2 =
+E, N(E1,E2) reaches a maximum when N1*N2 is stationary with respect to
+variations of E1 and E2 subject to the total energy constraint. 
+
+	For convenience, physicists prefer to frame the question in terms
+of the logarithm of the number of microstates N, and call this the entropy,
+S. You can easily see from the above analysis that two systems are in
+equilibrium with one another when (dS/dE)_1 = (dS/dE)_2, i.e., the rate of
+change of entropy, S, per unit change in energy, E, must be the same for
+both systems.  Otherwise, energy will tend to flow from one subsystem to
+another as S3 bounces randomly from one microstate to another, the total
+energy E3 being constant, as the combined system moves towards a state of
+maximal total entropy.  We define the temperature, T, by 1/T = dS/dE, so
+that the equilibrium condition becomes the very simple T_1 = T_2. 
+
+	This statistical mechanical definition of temperature does in fact
+correspond to your intuitive notion of temperature for most systems. So
+long as dS/dE is always positive, T is always positive.  For common
+situations, like a collection of free particles, or particles in a harmonic
+oscillator potential, adding energy always increases the number of
+available microstates, increasingly faster with increasing total energy. So
+temperature increases with increasing energy, from zero, asymptotically
+approaching positive infinity as the energy increases. 
+
+Step II: What is "Negative Temperature"?
+----------------------------------------
+
+	Not all systems have the property that the entropy increases 
+monotonically with energy.  In some cases, as energy is added to the system, 
+the number of available microstates, or configurations, actually decreases 
+for some range of energies.  For example, imagine an ideal "spin-system", a 
+set of N atoms with spin 1/2 one a one-dimensional wire.  The atoms are not 
+free to move from their positions on the wire.  The only degree of freedom 
+allowed to them is spin-flip:  the spin of a given atom can point up or 
+down.  The total energy of the system, in a magnetic field of strength B, 
+pointing down, is (N+ - N-)*uB, where u is the magnetic moment of each atom 
+and N+ and N- are the number of atoms with spin up and down respectively. 
+Notice that with this definition, E is zero when half of the spins are 
+up and half are down.  It is negative when the majority are down and 
+positive when the majority are up.
+
+	The lowest possible energy state, all the spins will point down,
+gives the system a total energy of -NuB, and temperature of absolute zero. 
+There is only one configuration of the system at this energy, i.e., all the
+spins must point down.  The entropy is the log of the number of
+microstates, so in this case is log(1) = 0.  If we now add a quantum of
+energy, size uB, to the system, one spin is allowed to flip up.  There are
+N possibilities, so the entropy is log(N).  If we add another quantum of
+energy, there are a total of N(N-1)/2 allowable configurations with two
+spins up.  The entropy is increasing quickly, and the temperature is rising
+as well. 
+
+	However, for this system, the entropy does not go on increasing
+forever.  There is a maximum energy, +NuB, with all spins up.  At this
+maximal energy, there is again only one microstate, and the entropy is
+again zero.  If we remove one quantum of energy from the system, we allow
+one spin down.  At this energy there are N available microstates.  The
+entropy goes on increasing as the energy is lowered.  In fact the maximal
+entropy occurs for total energy zero, i.e., half of the spins up, half
+down. 
+
+	So we have created a system where, as we add more and more energy,
+temperature starts off positive, approaches positive infinity as maximum
+entropy is approached, with half of all spins up.  After that, the
+temperature becomes negative infinite, coming down in magnitude toward
+zero, but always negative, as the energy increases toward maximum. When the
+system has negative temperature, it is *hotter* than when it is has
+positive system.  If you take two copies of the system, one with positive
+and one with negative temperature, and put them in thermal contact, heat
+will flow from the negative-temperature system into the positive-temperature
+system. 
+
+Step III:  What Does This Have to Do With the Real World?
+---------------------------------------------------------
+
+	Can this system ever by realized in the real world, or is it just a
+fantastic invention of sinister theoretical condensed matter physicists?
+Atoms always have other degrees of freedom in addition to spin, usually
+making the total energy of the system unbounded upward due to the
+translational degrees of freedom that the atom has.  Thus, only certain
+degrees of freedom of a particle can have negative temperature.  It makes
+sense to define the "spin-temperature" of a collection of atoms, so long as
+one condition is met:  the coupling between the atomic spins and the other
+degrees of freedom is sufficiently weak, and the coupling between atomic
+spins sufficiently strong, that the timescale for energy to flow from the
+spins into other degrees of freedom is very large compared to the timescale
+for thermalization of the spins among themselves.  Then it makes sense to
+talk about the temperature of the spins separately from the temperature of
+the atoms as a whole. This condition can easily be met for the case of
+nuclear spins in a strong external magnetic field. 
+
+	Nuclear and electron spin systems can be promoted to negative
+temperatures by suitable radio frequency techniques.   Various experiments
+in the calorimetry of negative temperatures, as well as applications of
+negative temperature systems as RF amplifiers, etc., can be found in the
+articles listed below, and the references therein. 
+
+References:
+
+        Kittel and Kroemer,_Thermal Physics_, appendix E.
+        N.F. Ramsey, "Thermodynamics and statistical mechanics at negative
+        absolute temperature,"  Phys. Rev. _103_, 20 (1956).
+        M.J. Klein,"Negative Absolute Temperature," Phys. Rev. _104_, 589 (1956).
+	
+********************************************************************************
+Item 18.
+
+Which Way Will my Bathtub Drain?                updated 16-MAR-1993 by SIC
+--------------------------------                original by Matthew R. Feinstein
+
+Question: Does my bathtub drain differently depending on whether I live 
+in the northern or southern hemisphere?
+
+Answer: No.  There is a real effect, but it is far too small to be relevant
+when you pull the plug in your bathtub.
+
+	Because the earth rotates, a fluid that flows along the earth's
+surface feels a "Coriolis" acceleration perpendicular to its velocity.
+In the northern hemisphere low pressure storm systems spin counterclockwise.
+In the southern hemisphere, they spin clockwise because the direction 
+of the Coriolis acceleration is reversed.  This effect leads to the 
+speculation that the bathtub vortex that you see when you pull the plug 
+from the drain spins one way in the north and the other way in the south.
+
+	But this acceleration is VERY weak for bathtub-scale fluid
+motions.  The order of magnitude of the Coriolis acceleration can be
+estimated from size of the "Rossby number" (see below).  The effect of the 
+Coriolis acceleration on your bathtub vortex is SMALL.  To detect its 
+effect on your bathtub, you would have to get out and wait until the motion 
+in the water is far less than one rotation per day.  This would require 
+removing thermal currents, vibration, and any other sources of noise.  Under 
+such conditions, never occurring in the typical home, you WOULD see an 
+effect.  To see what trouble it takes to actually see the effect, see the 
+reference below.  Experiments have been done in both the northern and 
+southern hemispheres to verify that under carefully controlled conditions, 
+bathtubs drain in opposite directions due to the Coriolis acceleration from 
+the Earth's rotation. 
+
+	Coriolis accelerations are significant when the Rossby number is 
+SMALL. 	So, suppose we want a Rossby number of 0.1 and a bathtub-vortex
+length scale of 0.1 meter.  Since the earth's rotation rate is about
+10^(-4)/second, the fluid velocity should be less than or equal to
+2*10^(-6) meters/second.  This is a very small velocity.  How small is it? 
+Well, we can take the analysis a step further and calculate another, more
+famous dimensionless parameter, the Reynolds number. 
+
+	The Reynolds number is = L*U*density/viscosity
+
+	Assuming that physicists bathe in hot water the viscosity will be
+about 0.005 poise and the density will be about 1.0, so the Reynolds Number
+is about 4*10^(-2). 
+
+	Now, life at low Reynolds numbers is different from life at high
+Reynolds numbers.  In particular, at low Reynolds numbers, fluid physics is
+dominated by friction and diffusion, rather than by inertia: the time it
+would take for a particle of fluid to move a significant distance due to an
+acceleration is greater than the time it takes for the particle to break up
+due to diffusion. 
+
+	The same effect has been accused of responsibility for the 
+direction water circulates when you flush a toilet.  This is surely 
+nonsense.  In this case, the water rotates in the direction which the pipe 
+points which carries the water from the tank to the bowl.
+
+Reference: Trefethen, L.M. et al, Nature 207 1084-5 (1965).
+
+********************************************************************************
+Item 19.
+
+Why do Mirrors Reverse Left and Right?          updated 04-MAR-1994 by SIC
+--------------------------------------
+
+	The simple answer is that they don't.  Look in a mirror and wave
+your right hand.  On which side of the mirror is the hand that waved?  The
+right side, of course. 
+
+	Mirrors DO reverse In/Out.  Imaging holding an arrow in your hand.  
+If you point it up, it will point up in the mirror.  If you point it to the 
+left, it will point to the left in the mirror.  But if you point it toward 
+the mirror, it will point right back at you.  In and Out are reversed. 
+
+	If you take a three-dimensional, rectangular, coordinate system,
+(X,Y,Z), and point the Z axis such that the vector equation X x Y = Z is
+satisfied, then the coordinate system is said to be right-handed.  Imagine
+Z pointing toward the mirror.  X and Y are unchanged (remember the arrows?)
+but Z will point back at you.  In the mirror, X x Y = - Z.  The image
+contains a left-handed coordinate system. 
+
+	This has an important effect, familiar mostly to chemists and
+physicists. It changes the chirality, or handedness of objects viewed in
+the mirror. Your left hand looks like a right hand, while your right hand
+looks like a left hand.  Molecules often come in pairs called
+stereoisomers, which differ not in the sequence or number of atoms, but
+only in that one is the mirror image of the other, so that no rotation or
+stretching can turn one into the other.  Your hands make a good laboratory
+for this effect.  They are distinct, even though they both have the same
+components connected in the same way. They are a stereo pair, identical
+except for "handedness". 
+
+	People sometimes think that mirrors *do* reverse left/right, and
+that the effect is due to the fact that our eyes are aligned horizontally
+on our faces.  This can be easily shown to be untrue by looking in any
+mirror with one eye closed! 
+
+Reference:  _The Left Hand of the Electron_, by Isaac Asimov, contains 
+a very readable discussion of handedness and mirrors in physics.
+
+********************************************************************************
+Item 20.
+
+What is the Mass of a Photon?                   updated 24-JUL-1992 by SIC
+                                                original by Matt Austern
+
+Or, "Does the mass of an object depend on its velocity?"
+
+	This question usually comes up in the context of wondering whether
+photons are really "massless," since, after all, they have nonzero energy. 
+The problem is simply that people are using two different definitions of
+mass.  The overwhelming consensus among physicists today is to say that 
+photons are massless.  However, it is possible to assign a "relativistic 
+mass" to a photon which depends upon its wavelength.  This is based upon 
+an old usage of the word "mass" which, though not strictly wrong, is not 
+used much today.
+
+	The old definition of mass, called "relativistic mass," assigns
+a mass to a particle proportional to its total energy E, and involved
+the speed of light, c, in the proportionality constant:
+
+                m = E / c^2.                                        (1) 
+
+This definition gives every object a velocity-dependent mass.
+
+	The modern definition assigns every object just one mass, an 
+invariant quantity that does not depend on velocity.  This is given by
+
+                m = E_0 / c^2,                                      (2)
+
+where E_0 is the total energy of that object at rest.  
+
+	The first definition is often used in popularizations, and in some
+elementary textbooks.  It was once used by practicing physicists, but for
+the last few decades, the vast majority of physicists have instead used the
+second definition.  Sometimes people will use the phrase "rest mass," or
+"invariant mass," but this is just for emphasis: mass is mass.  The
+"relativistic mass" is never used at all.  (If you see "relativistic mass"
+in your first-year physics textbook, complain! There is no reason for books
+to teach obsolete terminology.) 
+
+	Note, by the way, that using the standard definition of mass, the
+one given by Eq. (2), the equation "E = m c^2" is *not* correct.  Using the
+standard definition, the relation between the mass and energy of an object
+can be written as 
+
+                E   = m c^2 / sqrt(1 -v^2/c^2),                     (3) 
+or as
+
+                E^2 = m^2 c^4  +  p^2 c^2,                          (4)
+
+where v is the object's velocity, and p is its momentum.
+
+	In one sense, any definition is just a matter of convention.  In
+practice, though, physicists now use this definition because it is much
+more convenient.  The "relativistic mass" of an object is really just the
+same as its energy, and there isn't any reason to have another word for
+energy: "energy" is a perfectly good word.  The mass of an object, though,
+is a fundamental and invariant property, and one for which we do need a
+word. 
+
+	The "relativistic mass" is also sometimes confusing because it
+mistakenly leads people to think that they can just use it in the Newtonian
+relations 
+                F = m a                                             (5) 
+and
+                F = G m1 m2 / r^2.                                  (6)
+
+In fact, though, there is no definition of mass for which these
+equations are true relativistically: they must be generalized.  The
+generalizations are more straightforward using the standard definition
+of mass than using "relativistic mass."
+
+	Oh, and back to photons: people sometimes wonder whether it makes
+sense to talk about the "rest mass" of a particle that can never be at
+rest.  The answer, again, is that "rest mass" is really a misnomer, and it
+is not necessary for a particle to be at rest for the concept of mass to
+make sense.  Technically, it is the invariant length of the particle's
+four-momentum.  (You can see this from Eq. (4).)  For all photons this is
+zero. On the other hand, the "relativistic mass" of photons is frequency
+dependent. UV photons are more energetic than visible photons, and so are
+more "massive" in this sense, a statement which obscures more than it
+elucidates. 
+
+	Reference: Lev Okun wrote a nice article on this subject in the 
+June 1989 issue of Physics Today, which includes a historical discussion 
+of the concept of mass in relativistic physics. 
+
+********************************************************************************
+Item 21.
+                                                updated 16-MAR-1992 by SIC
+                                                Original by John Blanton
+Why Do Stars Twinkle While Planets Do Not? 
+-----------------------------------------
+
+	Stars, except for the Sun, although they may be millions of miles 
+in diameter, are very far away.  They appear as point sources even when
+viewed by telescopes.  The planets in our solar system, much smaller than
+stars, are closer and can be resolved as disks with a little bit of
+magnification (field binoculars, for example). 
+
+	Since the Earth's atmosphere is turbulent, all images viewed up
+through it tend to "swim."  The result of this is that sometimes a single
+point in object space gets mapped to two or more points in image space, and
+also sometimes a single point in object space does not get mapped into any
+point in image space.  When a star's single point in object space fails to
+map to at least one point in image space, the star seems to disappear
+temporarily. This does not mean the star's light is lost for that moment. 
+It just means that it didn't get to your eye, it went somewhere else. 
+
+	Since planets represent several points in object space, it is
+highly likely that one or more points in the planet's object space get
+mapped to a points in image space, and the planet's image never winks out. 
+Each individual ray is twinkling away as badly as any star, but when all of
+those individual rays are viewed together, the next effect is averaged out 
+to something considerably steadier. 
+
+	The result is that stars tend to twinkle, and planets do not. 
+Other extended objects in space, even very far ones like nebulae, do not 
+twinkle if they are sufficiently large that they have non-zero apparent
+diameter when viewed from the Earth.
+
+********************************************************************************
+Item 22.                                           original by David Brahm
+
+Baryogenesis - Why Are There More Protons Than Antiprotons?
+-----------------------------------------------------------
+
+(I) How do we really *know* that the universe is not matter-antimatter 
+symmetric?  
+
+(a) The Moon:  Neil Armstrong did not annihilate, therefore the moon
+is made of matter.
+(b) The Sun:  Solar cosmic rays are matter, not antimatter.
+(c) The other Planets:  We have sent probes to almost all.  Their survival 
+demonstrates that the solar system is made of matter.
+(d) The Milky Way:  Cosmic rays sample material from the entire galaxy.
+In cosmic rays, protons outnumber antiprotons 10^4 to 1.
+(e) The Universe at large: This is tougher.  If there were antimatter
+galaxies then we should see gamma emissions from annihilation.  Its absence
+is strong evidence that at least the nearby clusters of galaxies (e.g., Virgo)
+are matter-dominated.  At larger scales there is little proof.
+    However,  there is a problem, called the "annihilation catastrophe"
+which probably eliminates the possibility of a matter-antimatter symmetric
+universe.  Essentially, causality prevents the separation of large chucks
+of antimatter from matter fast enough to prevent their mutual annihilation
+in in the early universe.  So the Universe is most likely matter dominated.
+
+(II) How did it get that way?  
+
+	Annihilation has made the asymmetry much greater today than in the
+early universe.  At the high temperature of the first microsecond, there 
+were large numbers of thermal quark-antiquark pairs.  K&T estimate 30 
+million antiquarks for every 30 million and 1 quarks during this epoch.  
+That's a tiny asymmetry.  Over time most of the antimatter has annihilated 
+with matter, leaving the very small initial excess of matter to dominate 
+the Universe.
+
+	Here are a few possibilities for why we are matter dominated today:
+
+a) The Universe just started that way.
+   Not only is this a rather sterile hypothesis, but it doesn't work under
+   the popular "inflation" theories, which dilute any initial abundances.
+b) Baryogenesis occurred around the Grand Unified (GUT) scale (very early).
+   Long thought to be the only viable candidate, GUT's generically have
+   baryon-violating reactions, such as proton decay (not yet observed).
+c) Baryogenesis occurred at the Electroweak Phase Transition (EWPT).
+   This is the era when the Higgs first acquired a vacuum expectation value
+   (vev), so other particles acquired masses.  Pure Standard Model physics.
+
+	Sakharov enumerated 3 necessary conditions for baryogenesis:
+
+	(1)  Baryon number violation.  If baryon number is conserved in all
+reactions, then the present baryon asymmetry can only reflect asymmetric
+initial conditions, and we are back to case (a), above.
+	(2) C and CP violation.  Even in the presence of B-violating
+reactions, without a preference for matter over antimatter the B-violation
+will take place at the same rate in both directions, leaving no excess.
+	(3) Thermodynamic Nonequilibrium.  Because CPT guarantees equal
+masses for baryons and antibaryons, chemical equilibrium would drive the 
+necessary reactions to correct for any developing asymmetry.  
+
+	It turns out the Standard Model satisfies all 3 conditions:
+
+	(1) Though the Standard Model conserves B classically (no terms in
+the Lagrangian violate B), quantum effects allow the universe to tunnel
+between vacua with different values of B.  This tunneling is _very_
+suppressed at energies/temperatures below 10 TeV (the "sphaleron mass"),
+_may_ occur at e.g. SSC energies (controversial), and _certainly_ occurs at
+higher temperatures.
+
+	(2) C-violation is commonplace.  CP-violation (that's "charge
+conjugation" and "parity") has been experimentally observed in kaon
+decays, though strictly speaking the Standard Model probably has
+insufficient CP-violation to give the observed baryon asymmetry.
+
+	(3) Thermal nonequilibrium is achieved during first-order phase
+transitions in the cooling early universe, such as the EWPT (at T = 100 GeV
+or so).  As bubbles of the "true vacuum" (with a nonzero Higgs vev)
+percolate and grow, baryogenesis can occur at or near the bubble walls.
+
+	A major theoretical problem, in fact, is that there may be _too_
+_much_ B-violation in the Standard Model, so that after the EWPT is
+complete (and condition 3 above is no longer satisfied) any previously
+generated baryon asymmetry would be washed out.
+
+References: Kolb and Turner, _The Early Universe_;
+  Dine, Huet, Singleton & Susskind, Phys.Lett.B257:351 (1991);
+  Dine, Leigh, Huet, Linde & Linde, Phys.Rev.D46:550 (1992).
+
+********************************************************************************
+Item 23.
+
+TIME TRAVEL - FACT OR FICTION?                  updated 07-MAR-1994
+------------------------------                  original by Jon J. Thaler
+
+	We define time travel to mean departure from a certain place and
+time followed (from the traveller's point of view) by arrival at the same
+place at an earlier (from the sedentary observer's point of view) time.
+Time travel paradoxes arise from the fact that departure occurs after
+arrival according to one observer and before arrival according to another. 
+In the terminology of special relativity time travel implies that the
+timelike ordering of events is not invariant.  This violates our intuitive
+notions of causality.  However, intuition is not an infallible guide, so we
+must be careful.  Is time travel really impossible, or is it merely another
+phenomenon where "impossible" means "nature is weirder than we think?"  The
+answer is more interesting than you might think. 
+
+THE SCIENCE FICTION PARADIGM:
+
+	The B-movie image of the intrepid chrononaut climbing into his time
+machine and watching the clock outside spin backwards while those outside
+the time machine watch the him revert to callow youth is, according to
+current theory, impossible.  In current theory, the arrow of time flows in
+only one direction at any particular place.  If this were not true, then
+one could not impose a 4-dimensional coordinate system on space-time, and
+many nasty consequences would result. Nevertheless, there is a scenario
+which is not ruled out by present knowledge.  This usually requires an 
+unusual spacetime topology (due to wormholes or strings in general 
+relativity) which has not not yet seen, but which may be possible.  In 
+this scenario the universe is well behaved in every local region; only by 
+exploring the global properties does one discover time travel. 
+
+CONSERVATION LAWS:
+
+	It is sometimes argued that time travel violates conservation laws.
+For example, sending mass back in time increases the amount of energy that
+exists at that time.  Doesn't this violate conservation of energy?  This
+argument uses the concept of a global conservation law, whereas
+relativistically invariant formulations of the equations of physics only
+imply local conservation.  A local conservation law tells us that the
+amount of stuff inside a small volume changes only when stuff flows in or
+out through the surface.  A global conservation law is derived from this by
+integrating over all space and assuming that there is no flow in or out at
+infinity.  If this integral cannot be performed, then global conservation
+does not follow.  So, sending mass back in time might be alright, but it
+implies that something strange is happening.  (Why shouldn't we be able to
+do the integral?) 
+
+GENERAL RELATIVITY:
+
+	One case where global conservation breaks down is in general
+relativity. It is well known that global conservation of energy does not
+make sense in an expanding universe.  For example, the universe cools as it
+expands; where does the energy go?  See FAQ article #4 - Energy
+Conservation in Cosmology, for details. 
+
+	It is interesting to note that the possibility of time travel in GR
+has been known at least since 1949 (by Kurt Godel, discussed in [1], page
+168). The GR spacetime found by Godel has what are now called "closed
+timelike curves" (CTCs).  A CTC is a worldline that a particle or a person
+can follow which ends at the same spacetime point (the same position and
+time) as it started.   A solution to GR which contains CTCs cannot have a
+spacelike embedding - space must have "holes" (as in donut holes, not holes
+punched in a sheet of paper).  A would-be time traveller must go around or
+through the holes in a clever way. 
+
+	The Godel solution is a curiosity, not useful for constructing a
+time machine.  Two recent proposals, one by Morris, et al. [2] and one by
+Gott [3], have the possibility of actually leading to practical devices (if
+you believe this, I have a bridge to sell you).   As with Godel, in these
+schemes nothing is locally strange; time travel results from the unusual
+topology of spacetime.  The first uses a wormhole (the inner part of a
+black hole, see fig. 1 of [2]) which is held open and manipulated by
+electromagnetic forces.  The second uses the conical geometry generated by
+an infinitely long string of mass.  If two strings pass by each other, a
+clever person can go into the past by traveling a figure-eight path around
+the strings.  In this scenario, if the string has non-zero diameter and
+finite mass density, there is a CTC without any unusual topology.
+
+GRANDFATHER PARADOXES:
+
+	With the demonstration that general relativity contains CTCs,
+people began studying the problem of self-consistency.  Basically, the
+problem is that of the "grandfather paradox:"  What happens if our time
+traveller kills her grandmother before her mother was born?  In more
+readily analyzable terms, one can ask what are the implications of the
+quantum mechanical interference of the particle with its future self.
+Boulware [5] shows that there is a problem - unitarity is violated. This is
+related to the question of when one can do the global conservation integral
+discussed above.  It is an example of the "Cauchy problem" [1, chapter 7]. 
+
+OTHER PROBLEMS (and an escape hatch?):
+
+	How does one avoid the paradox that a simple solution to GR has
+CTCs which QM does not like?  This is not a matter of applying a theory in
+a domain where it is expected to fail.  One relevant issue is the
+construction of the time machine.  After all, infinite strings aren't
+easily obtained.  In fact, it has been shown [4] that Gott's scenario
+implies that the total 4-momentum of spacetime must be spacelike.  This
+seems to imply that one cannot build a time machine from any collection of
+non-tachyonic objects, whose 4-momentum must be timelike.  There are 
+implementation problems with the wormhole method as well.
+
+TACHYONS:
+
+Finally, a diversion on a possibly related topic.
+
+	If tachyons exist as physical objects, causality is no longer
+invariant. Different observers will see different causal sequences.  This
+effect requires only special relativity (not GR), and follows from the fact
+that for any spacelike trajectory, reference frames can be found in which
+the particle moves backward or forward in time.  This is illustrated by the
+pair of spacetime diagrams below.  One must be careful about what is
+actually observed; a particle moving backward in time is observed to be a
+forward moving anti-particle, so no observer interprets this as time
+travel. 
+
+                t
+One reference   |                    Events A and C are at the same
+frame:          |                    place.  C occurs first.
+                |
+                |                    Event B lies outside the causal
+                |          B         domain of events A and C.
+     -----------A----------- x       (The intervals are spacelike).
+                |
+                C                    In this frame, tachyon signals
+                |                    travel from A-->B and from C-->B.
+                |                    That is, A and C are possible causes
+                                     of event B.
+
+Another         t
+reference       |                    Events A and C are not at the same
+frame:          |                    place.  C occurs first.
+                |
+                |                    Event B lies outside the causal
+     -----------A----------- x       domain of events A and C. (The
+                |                    intervals are spacelike)
+                |
+                |   C                In this frame, signals travel from
+                |                    B-->A and from B-->C.  B is the cause
+                |             B      of both of the other two events.
+
+	The unusual situation here arises because conventional causality
+assumes no superluminal motion.  This tachyon example is presented to
+demonstrate that our intuitive notion of causality may be flawed, so one
+must be careful when appealing to common sense.  See FAQ article # 7 -
+Tachyons, for more about these weird hypothetical particles. 
+
+CONCLUSION:
+
+	The possible existence of time machines remains an open question. 
+None of the papers criticizing the two proposals are willing to
+categorically rule out the possibility.  Nevertheless, the notion of time
+machines seems to carry with it a serious set of problems. 
+
+REFERENCES:
+
+1: S.W. Hawking, and G.F.R. Ellis, "The Large Scale Structure of Space-Time,"
+   Cambridge University Press, 1973.
+2: M.S. Morris, K.S. Thorne, and U. Yurtsever, PRL, v.61, p.1446 (1989).
+   --> How wormholes can act as time machines.
+3: J.R. Gott, III, PRL, v.66, p.1126 (1991).
+   --> How pairs of cosmic strings can act as time machines.
+4: S. Deser, R. Jackiw, and G. 't Hooft, PRL, v.66, p.267 (1992).
+   --> A critique of Gott.  You can't construct his machine.
+5: D.G. Boulware, University of Washington preprint UW/PT-92-04.
+   Available on the hep-th@xxx.lanl.gov bulletin board: item number 9207054.
+   --> Unitarity problems in QM with closed timelike curves.
+6: "Nature", May 7, 1992
+   --> Contains a very well written review with some nice figures.
+
+********************************************************************************
+Item 24.                                         
+
+The EPR Paradox and Bell's Inequality Principle    updated 31-AUG-1993 by SIC
+-----------------------------------------------    original by John Blanton
+
+	In 1935 Albert Einstein and two colleagues, Boris Podolsky and
+Nathan Rosen (EPR) developed a thought experiment to demonstrate what they
+felt was a lack of completeness in quantum mechanics.  This so-called "EPR
+paradox" has lead to much subsequent, and still on-going, research. This 
+article is an introduction to EPR, Bell's inequality, and the real 
+experiments which have attempted to address the interesting issues raised 
+by this discussion.
+
+	One of the principle features of quantum mechanics is that not all
+the classical physical observables of a system can be simultaneously known, 
+either in practice or in principle.  Instead, there may be several sets of 
+observables which give qualitatively different, but nonetheless complete
+(maximal possible) descriptions of a quantum mechanical system.  These sets 
+are sets of "good quantum numbers," and are also known as "maximal sets of 
+commuting observables."  Observables from different sets are "noncommuting 
+observables."  
+
+	A well known example of noncommuting observables are position and
+momentum.  You can put a subatomic particle into a state of well-defined
+momentum, but then you cannot know where it is - it is, in fact, everywhere
+at once.  It's not just a matter of your inability to measure, but rather,
+an intrinsic property of the particle.  Conversely, you can put a particle
+in a definite position, but then it's momentum is completely ill-defined.
+You can also create states of intermediate knowledge of both observables:
+If you confine the particle to some arbitrarily large region of space,
+you can define the momentum more and more precisely.  But you can never 
+know both, exactly, at the same time.
+
+	Position and momentum are continuous observables.  But the same
+situation can arise for discrete observables such as spin.  The quantum
+mechanical spin of a particle along each of the three space axes are a set
+of mutually noncommuting observables.  You can only know the spin along one
+axis at a time.  A proton with spin "up" along the x-axis has undefined
+spin along the y and z axes.  You cannot simultaneously measure the x and y
+spin projections of a proton. EPR sought to demonstrate that this
+phenomenon could be exploited to construct an experiment which would
+demonstrate a paradox which they believed was inherent in the
+quantum-mechanical description of the world. 
+
+	They imagined two physical systems that are allowed to interact
+initially so that they subsequently will be defined by a single Schrodinger
+wave equation (SWE).   [For simplicity, imagine a simple physical 
+realization of this idea - a neutral pion at rest in your lab, which decays
+into a pair of back-to-back photons.  The pair of photons is described
+by a single two-particle wave function.]  Once separated, the two systems
+[read: photons] are still described by the same SWE, and a measurement of 
+one observable of the first system will determine the measurement of the 
+corresponding observable of the second system.  [Example:  The neutral pion
+is a scalar particle - it has zero angular momentum.  So the two photons
+must speed off in opposite directions with opposite spin. If photon 1 
+is found to have spin up along the x-axis, then photon 2 *must* have spin
+down along the x-axis, since the total angular momentum of the final-state,
+two-photon, system must be the same as the angular momentum of the intial
+state, a single neutral pion.  You know the spin of photon 2 even without
+measuring it.] Likewise, the measurement of another observable of the first
+system will determine the measurement of the corresponding observable of the
+second system, even though the systems are no longer physically linked in
+the traditional sense of local coupling. 
+
+	However, QM prohibits the simultaneous knowledge of more than one
+mutually noncommuting observable of either system.  The paradox of EPR is
+the following contradiction:  For our coupled systems, we can measure
+observable A of system I [for example, photon 1 has spin up along the
+x-axis; photon 2 must therefore have x-spin down.] and observable B of 
+system II [for example, photon 2 has spin down along the y-axis; therefore
+the y-spin of photon 1 must be up.] thereby revealing both observables for 
+both systems, contrary to QM.  
+
+	QM dictates that this should be impossible, creating the
+paradoxical implication that measuring one system should "poison" any
+measurement of the other system, no matter what the distance between
+them. [In one commonly studied interpretation, the mechanism by which
+this proceeds is 'instantaneous collapse of the wavefunction'.  But
+the rules of QM do not require this interpretation, and several
+other perfectly valid interpretations exist.]  The second system
+would instantaneously be put into a state of well-defined observable A,
+and, consequently, ill-defined observable B, spoiling the measurement.
+Yet, one could imagine the two measurements were so far apart in
+space that special relativity would prohibit any influence of one
+measurement over the other.  [After the neutral-pion decay, we can wait until
+the two photons are a light-year apart, and then "simultaneously" measure
+the x-spin of photon 1 and the y-spin of photon 2.  QM suggests that if,
+for example, the measurement of the photon 1 x-spin happens first, this
+measurement must instantaneously force photon 2 into a state of ill-defined
+y-spin, even though it is light-years away from photon 1. 
+
+	How do we reconcile the fact that photon 2 "knows" that the x-spin
+of photon 1 has been measured, even though they are separated by 
+light-years of space and far too little time has passed for information
+to have travelled to it according to the rules of Special Relativity?  
+There are basically two choices.  You can accept the postulates of QM"
+as a fact of life, in spite of its seemingly uncomfortable coexistence 
+with special relativity, or you can postulate that QM is not complete, 
+that there *was* more information available for the description of the 
+two-particle system at the time it was created, carried away by both 
+photons, and that you just didn't know it because QM does not properly 
+account for it.  
+
+	So, EPR postulated the existence of hidden variables, some so-far
+unknown properties, of the systems should account for the discrepancy. 
+Their claim was that QM theory is incomplete; it does not completely
+describe the physical reality.  System II knows all about System I 
+long before the scientist measures any of the observables, and thereby
+supposedly consigning the other noncommuting observables to obscurity.
+No instantaneous action-at-a-distance is necessary in this picture, 
+which postulates that each System has more parameters than are 
+accounted by QM. Niels Bohr, one of the founders of QM, held the opposite 
+view and defended a strict interpretation, the Copenhagen Interpretation, 
+of QM. 
+
+	In 1964 John S. Bell proposed a mechanism to test for the existence
+of these hidden parameters, and he developed his inequality principle as
+the basis for such a test. 
+
+	Use the example of two photons configured in the singlet state,
+consider this:  After separation, each photon will have spin values for
+each of the three axes of space, and each spin can have one of two values;
+call them up and down.  Call the axes A, B and C and call the spin in the A
+axis A+ if it is up in that axis, otherwise call it A-.  Use similar
+definitions for the other two axes. 
+
+	Now perform the experiment.  Measure the spin in one axis of one
+particle and the spin in another axis of the other photon.  If EPR were
+correct, each photon will simultaneously have properties for spin in each
+of axes A, B and C. 
+
+	Look at the statistics.  Perform the measurements with a number of
+sets of photons.  Use the symbol N(A+, B-) to designate the words "the
+number of photons with A+ and B-."  Similarly for N(A+, B+), N(B-, C+),
+etc.  Also use the designation N(A+, B-, C+) to mean "the number of photons
+with A+, B- and C+," and so on.  It's easy to demonstrate that for a set of
+photons 
+
+(1)    N(A+, B-) = N(A+, B-, C+) + N(A+, B-, C-)
+
+because all of the (A+, B-, C+) and all of the (A+, B-, C-) photons are
+included in the designation (A+, B-), and nothing else is included in N(A+,
+B-).  You can make this claim if these measurements are connected to some
+real properties of the photons. 
+
+	Let n[A+, B+] be the designation for "the number of measurements of
+pairs of photons in which the first photon measured A+, and the second
+photon measured B+."  Use a similar designation for the other possible
+results.  This is necessary because this is all it is possible to measure. 
+You can't measure both A and B of the same photon.  Bell demonstrated that
+in an actual experiment, if (1) is true (indicating real properties), then
+the following must be true: 
+
+(2)    n[A+, B+] <= n[A+, C+] + n[B+, C-].
+
+	Additional inequality relations can be written by just making the
+appropriate permutations of the letters A, B and C and the two signs.  This
+is Bell's inequality principle, and it is proved to be true if there are
+real (perhaps hidden) parameters to account for the measurements. 
+
+    	At the time Bell's result first became known, the experimental
+record was reviewed to see if any known results provided evidence against
+locality. None did. Thus an effort began to develop tests of Bell's
+inequality. A series of experiments was conducted by Aspect ending with one
+in which polarizer angles were changed while the photons were `in flight'.
+This was widely regarded at the time as being a reasonably conclusive
+experiment confirming the predictions of QM. 
+
+	Three years later Franson published a paper showing that the timing
+constraints in this experiment were not adequate to confirm that locality
+was violated. Aspect measured the time delays between detections of photon
+pairs. The critical time delay is that between when a polarizer angle is
+changed and when this affects the statistics of detecting photon pairs.
+Aspect estimated this time based on the speed of a photon and the distance
+between the polarizers and the detectors. Quantum mechanics does not allow
+making assumptions about *where* a particle is between detections. We
+cannot know *when* a particle traverses a polarizer unless we detect the
+particle *at* the polarizer. 
+
+	Experimental tests of Bell's inequality are ongoing but none has
+yet fully addressed the issue raised by Franson. In addition there is an
+issue of detector efficiency. By postulating new laws of physics one can
+get the expected correlations without any nonlocal effects unless the
+detectors are close to 90% efficient. The importance of these issues is a
+matter of judgement. 
+
+	The subject is alive theoretically as well.  In the 1970's 
+Eberhard derived Bell's result without reference to local hidden variable 
+theories; it applies to all local theories.  Eberhard also showed that the 
+nonlocal effects that QM predicts cannot be used for superluminal 
+communication.  The subject is not yet closed, and may yet provide more 
+interesting insights into the subtleties of quantum mechanics.
+
+REFERENCES:
+
+1.  A. Einstein, B. Podolsky, N. Rosen:  "Can quantum-mechanical 
+description of physical reality be considered complete?"
+Physical Review 41, 777 (15 May 1935).  (The original EPR paper)
+
+2.  D. Bohm:  Quantum Theory, Dover, New York (1957).  (Bohm
+discusses some of his ideas concerning hidden variables.)
+
+3.  N. Herbert:  Quantum Reality, Doubleday.  (A very good
+popular treatment of EPR and related issues)
+
+4.  M. Gardner: Science - Good, Bad and Bogus, Prometheus Books. 
+(Martin Gardner gives a skeptics view of the fringe science
+associated with EPR.)
+
+5.  J. Gribbin:  In Search of Schrodinger's Cat, Bantam Books. 
+(A popular treatment of EPR and the paradox of "Schrodinger's
+cat" that results from the Copenhagen interpretation)
+
+6.  N. Bohr:  "Can quantum-mechanical description of physical
+reality be considered  complete?" Physical Review 48, 696 (15 Oct
+1935).  (Niels Bohr's response to EPR)
+
+7.  J. Bell:  "On the Einstein Podolsky Rosen paradox" Physics 1
+#3, 195 (1964).
+
+8.  J. Bell:  "On the problem of hidden variables in quantum
+mechanics" Reviews of  Modern Physics 38 #3, 447 (July 1966). 
+
+9.  D. Bohm, J. Bub:  "A proposed solution of the measurement
+problem in quantum  mechanics by a hidden variable theory"
+Reviews of Modern Physics 38  #3, 453 (July 1966).
+
+10.  B. DeWitt:  "Quantum mechanics and reality" Physics Today p.
+30 (Sept 1970).
+
+11.  J. Clauser, A. Shimony:  "Bell's theorem: experimental
+tests and implications" Rep.  Prog. Phys. 41, 1881 (1978).
+
+12.  A. Aspect, Dalibard, Roger:  "Experimental test of Bell's
+inequalities using time- varying analyzers" Physical Review
+Letters 49 #25, 1804 (20 Dec 1982).
+
+13.  A. Aspect, P. Grangier, G. Roger:  "Experimental realization
+of Einstein-Podolsky-Rosen-Bohm gedankenexperiment; a new
+violation of Bell's inequalities" Physical  Review Letters 49
+#2, 91 (12 July 1982).
+
+14.  A. Robinson: "Loophole closed in quantum mechanics test"
+Science 219, 40 (7 Jan 1983).
+
+15.  B. d'Espagnat:  "The quantum theory and reality" Scientific
+American 241 #5 (November 1979).
+
+16. "Bell's Theorem and Delayed Determinism", Franson, Physical Review D,
+pgs. 2529-2532, Vol. 31, No. 10, May 1985.
+
+17. "Bell's Theorem without Hidden Variables", P. H. Eberhard, Il Nuovo 
+Cimento, 38 B 1, pgs. 75-80, (1977).
+
+18. "Bell's Theorem and the Different Concepts of Locality", P. H. 
+Eberhard, Il Nuovo Cimento 46 B, pgs. 392-419, (1978).
+********************************************************************************
+Item 25.
+
+The Nobel Prize for Physics (1901-1993)         updated 15-OCT-1993 by SIC
+---------------------------------------
+
+The following is a complete listing of Nobel Prize awards, from the first
+award in 1901.  Prizes were not awarded in every year.  The description 
+following the names is an abbreviation of the official citation.  
+
+1901    Wilhelm Konrad Rontgen          X-rays
+1902    Hendrik Antoon Lorentz          Magnetism in radiation phenomena
+        Pieter Zeeman
+1903    Antoine Henri Bequerel          Spontaneous radioactivity
+        Pierre Curie
+        Marie Sklowdowska-Curie 
+1904    Lord Rayleigh                   Density of gases and 
+        (a.k.a. John William Strutt)     discovery of argon
+1905    Pilipp Eduard Anton von Lenard  Cathode rays
+1906    Joseph John Thomson             Conduction of electricity by gases
+1907    Albert Abraham Michelson        Precision meteorological investigations
+1908    Gabriel Lippman                 Reproducing colors photographically
+                                         based on the phenomenon of interference
+1909    Guglielmo Marconi               Wireless telegraphy
+        Carl Ferdinand Braun
+1910    Johannes Diderik van der Waals  Equation of state of fluids
+1911    Wilhelm Wien                    Laws of radiation of heat
+1912    Nils Gustaf Dalen               Automatic gas flow regulators 
+1913    Heike Kamerlingh Onnes          Matter at low temperature
+1914    Max von Laue                    Crystal diffraction of X-rays
+1915    William Henry Bragg             X-ray analysis of crystal structure
+        William Lawrence Bragg
+1917    Charles Glover Barkla           Characteristic X-ray spectra of elements
+1918    Max Planck                      Energy quanta
+1919    Johannes Stark                  Splitting of spectral lines in E fields
+1920    Charles-Edouard Guillaume       Anomalies in nickel steel alloys
+1921    Albert Einstein                 Photoelectric Effect
+1922    Niels Bohr                      Structure of atoms
+1923    Robert Andrew Millikan          Elementary charge of electricity
+1924    Karl Manne Georg Siegbahn       X-ray spectroscopy
+1925    James Franck                    Impact of an electron upon an atom
+        Gustav Hertz
+1926    Jean Baptiste Perrin            Sedimentation equilibrium
+1927    Arthur Holly Compton            Compton effect
+        Charles Thomson Rees Wilson     Invention of the Cloud chamber
+1928    Owen Willans Richardson         Thermionic phenomena, Richardson's Law
+1929    Prince Louis-Victor de Broglie  Wave nature of electrons
+1930    Sir Chandrasekhara Venkata Raman Scattering of light, Raman effect
+1932    Werner Heisenberg               Quantum Mechanics 
+1933    Erwin Schrodinger               Atomic theory
+        Paul Adrien Maurice Dirac
+1935    James Chadwick                  The neutron
+1936    Victor Franz Hess               Cosmic rays
+	Carl D. Anderson		The positron
+1937    Clinton Joseph Davisson         Crystal diffraction of electrons
+        George Paget Thomson
+1938    Enrico Fermi                    New radioactive elements 
+1939    Ernest Orlando Lawrence         Invention of the Cyclotron
+1943    Otto Stern                      Proton magnetic moment
+1944    Isador Isaac Rabi               Magnetic resonance in atomic nuclei
+1945    Wolfgang Pauli                  The Exclusion principle
+1946    Percy Williams Bridgman         Production of extremely high pressures
+1947    Sir Edward Victor Appleton      Physics of the upper atmosphere
+1948    Patrick Maynard Stuart Blackett Cosmic ray showers in cloud chambers
+1949    Hideki Yukawa                   Prediction of Mesons 
+1950    Cecil Frank Powell              Photographic emulsion for meson studies
+1951    Sir John Douglas Cockroft       Artificial acceleration of atomic 
+        Ernest Thomas Sinton Walton      particles and transmutation of nuclei
+1952    Felix Bloch                     Nuclear magnetic precision methods 
+        Edward Mills Purcell
+1953    Frits Zernike                   Phase-contrast microscope
+1954    Max Born                        Fundamental research in QM
+        Walther Bothe                   Coincidence counters
+1955    Willis Eugene Lamb              Hydrogen fine structure
+        Polykarp Kusch                  Electron magnetic moment
+1956    William Shockley                Transistors
+        John Bardeen
+        Walter Houser Brattain
+1957    Chen Ning Yang                  Parity violation 
+        Tsung Dao Lee
+1958    Pavel Aleksejevic Cerenkov      Interpretation of the Cerenkov effect
+        Il'ja Mickajlovic Frank
+        Igor' Evgen'evic Tamm
+1959    Emilio Gino Segre               The Antiproton
+        Owen Chamberlain    
+1960    Donald Arthur Glaser            The Bubble Chamber
+1961    Robert Hofstadter               Electron scattering on nucleons
+        Rudolf Ludwig Mossbauer         Resonant absorption of photons
+1962    Lev Davidovic Landau            Theory of liquid helium
+1963    Eugene P. Wigner                Fundamental symmetry principles
+        Maria Goeppert Mayer            Nuclear shell structure
+        J. Hans D. Jensen 
+1964    Charles H. Townes               Maser-Laser principle
+        Nikolai G. Basov
+        Alexander M. Prochorov
+1965    Sin-Itiro Tomonaga              Quantum electrodynamics
+        Julian Schwinger
+        Richard P. Feynman
+1966    Alfred Kastler                  Study of Hertzian resonance in atoms
+1967    Hans Albrecht Bethe             Energy production in stars 
+1968    Luis W. Alvarez                 Discovery of many particle resonances
+1969    Murray Gell-Mann                Quark model for particle classification
+1970    Hannes Alfven                   Magneto-hydrodynamics in plasma physics
+        Louis Neel                      Antiferromagnetism and ferromagnetism
+1971    Dennis Gabor                    Principles of holography
+1972    John Bardeen                    Superconductivity
+        Leon N. Cooper
+        J. Robert Schrieffer
+1973    Leo Esaki                       Tunneling in superconductors
+        Ivar Giaever 
+        Brian D. Josephson              Super-current through tunnel barriers
+1974    Antony Hewish                   Discovery of pulsars
+        Sir Martin Ryle                 Pioneering radioastronomy work
+1975    Aage Bohr                       Structure of the atomic nucleus
+        Ben Mottelson
+        James Rainwater
+1976    Burton Richter                  Discovery of the J/Psi particle
+        Samual Chao Chung Ting
+1977    Philip Warren Anderson          Electronic structure of magnetic and 
+        Nevill Francis Mott             disordered solids
+        John Hasbrouck Van Vleck
+1978    Pyotr Kapitsa                   Liquifaction of helium
+        Arno A. Penzias                 Cosmic Microwave Background Radiation
+        Robert W. Wilson
+1979    Sheldon Glashow                 Electroweak Theory, especially
+        Steven Weinberg                  weak neutral currents
+        Abdus Salam                     
+1980    James Cronin                    Discovery of CP violation in the 
+        Val Fitch                        asymmetric decay of neutral K-mesons
+1981    Kai M. Seigbahn                 High resolution electron spectroscopy
+        Nicolaas Bleombergen            Laser spectroscopy
+        Arthur L. Schawlow
+1982    Kenneth G. Wilson               Critical phenomena in phase transitions 
+1983    Subrahmanyan Chandrasekhar      Evolution of stars
+        William A. Fowler
+1984    Carlo Rubbia                    Discovery of W,Z
+        Simon van der Meer              Stochastic cooling for colliders
+1985    Klaus von Klitzing              Discovery of quantum Hall effect
+1986    Gerd Binning                    Scanning Tunneling Microscopy
+        Heinrich Rohrer
+        Ernst August Friedrich Ruska    Electron microscopy
+1987    Georg Bednorz                   High-temperature superconductivity
+        Alex K. Muller 
+1988    Leon Max Lederman               Discovery of the muon neutrino leading
+        Melvin Schwartz                  to classification of particles in 
+        Jack Steinberger                 families
+1989    Hans Georg Dehmelt              Penning Trap for charged particles
+        Wolfgang Paul                   Paul Trap for charged particles
+        Norman F. Ramsey                Control of atomic transitions by the
+                                         separated oscillatory fields method
+1990    Jerome Isaac Friedman           Deep inelastic scattering experiments
+        Henry Way Kendall                leading to the discovery of quarks
+        Richard Edward Taylor
+1991    Pierre-Gilles de Gennes         Order-disorder transitions in liquid 
+                                         crystals and polymers
+1992    Georges Charpak                 Multiwire Proportional Chamber
+1993    Russell A. Hulse                Discovery of the first binary pulsar
+        Joseph H. Taylor                 and subsequent tests of GR
+
+********************************************************************************
+Item 26.
+
+Open Questions                                  updated 01-JUN-1993 by SIC
+--------------                                  original by John Baez
+
+	While for the most part a FAQ covers the answers to frequently
+asked questions whose answers are known, in physics there are also plenty
+of simple and interesting questions whose answers are not known. Before you
+set about answering these questions on your own, it's worth noting that
+while nobody knows what the answers are, there has been at least a little,
+and sometimes a great deal, of work already done on these subjects. People
+have said a lot of very intelligent things about many of these questions. 
+So do plenty of research and ask around before you try to cook up a theory
+that'll answer one of these and win you the Nobel prize!  You can expect to
+really know physics inside and out before you make any progress on these. 
+
+	The following partial list of "open" questions is divided into two
+groups, Cosmology and Astrophysics, and Particle and Quantum Physics. 
+However, given the implications of particle physics on cosmology, the
+division is somewhat artificial, and, consequently, the categorization is 
+somewhat arbitrary.  
+
+	(There are many other interesting and fundamental questions in 
+fields such as condensed matter physics, nonlinear dynamics, etc., which 
+are not part of the set of related questions in cosmology and quantum 
+physics which are discussed below.  Their omission is not a judgement 
+about importance, but merely a decision about the scope of this article.)
+	
+Cosmology and Astrophysics
+--------------------------
+
+1.  What happened at, or before the Big Bang?  Was there really an initial
+singularity?  Of course, this question might not make sense, but it might.
+Does the history of universe go back in time forever, or only a finite
+amount? 
+
+2.  Will the future of the universe go on forever or not?  Will there be a
+"big crunch" in the future?  Is the Universe infinite in spatial extent? 
+
+3.  Why is there an arrow of time; that is, why is the future so much
+different from the past?
+
+4.  Is spacetime really four-dimensional?   If so, why - or is that just a
+silly question?  Or is spacetime not really a manifold at all if examined
+on a short enough distance scale? 
+
+5.  Do black holes really exist?  (It sure seems like it.)  Do they really
+radiate energy and evaporate the way Hawking predicts?  If so, what happens
+when, after a finite amount of time, they radiate completely away?  What's
+left?  Do black holes really violate all conservation laws except
+conservation of energy, momentum, angular momentum and electric charge? 
+What happens to the information contained in an object that falls into a 
+black hole?  Is it lost when the black hole evaporates?  Does this require 
+a modification of quantum mechanics?
+
+6.  Is the Cosmic Censorship Hypothesis true?  Roughly, for generic
+collapsing isolated gravitational systems are the singularities that might
+develop guaranteed to be hidden beyond a smooth event horizon?  If Cosmic
+Censorship fails, what are these naked singularities like?  That is, what 
+weird physical consequences would they have? 
+
+7.  Why are the galaxies distributed in clumps and filaments?  Is most of
+the matter in the universe baryonic?  Is this a matter to be resolved by
+new physics? 
+
+8.  What is the nature of the missing "Dark Matter"?  Is it baryonic, 
+neutrinos, or something more exotic?  
+
+Particle and Quantum Physics
+----------------------------
+
+1.  Why are the laws of physics not symmetrical between left and right,
+future and past, and between matter and antimatter?  I.e., what is the
+mechanism of CP violation, and what is the origin of parity violation in
+Weak interactions?  Are there right-handed Weak currents too weak to have
+been detected so far?  If so, what broke the symmetry?  Is CP violation 
+explicable entirely within the Standard Model, or is some new force or
+mechanism required?
+
+2.  Why are the strengths of the fundamental forces (electromagnetism, weak
+and strong forces, and gravity) what they are?  For example, why is the
+fine structure constant, which measures the strength of electromagnetism,
+about 1/137.036?  Where did this dimensionless constant of nature come from? 
+Do the forces really become Grand Unified at sufficiently high energy?
+
+3.  Why are there 3 generations of leptons and quarks?  Why are there mass
+ratios what they are?  For example, the muon is a particle almost exactly
+like the electron except about 207 times heavier.  Why does it exist and
+why precisely that much heavier?   Do the quarks or leptons have any 
+substructure? 
+
+4.  Is there a consistent and acceptable relativistic quantum field theory
+describing interacting (not free) fields in four spacetime dimensions?  For
+example, is the Standard Model mathematically consistent?  How about
+Quantum Electrodynamics? 
+
+5.  Is QCD a true description of quark dynamics?  Is it possible to
+calculate masses of hadrons (such as the proton, neutron, pion, etc.)
+correctly from the Standard Model?  Does QCD predict a quark/gluon
+deconfinement phase transition at high temperature?  What is the nature of
+the transition?  Does this really happen in Nature? 
+
+6.  Why is there more matter than antimatter, at least around here? Is
+there really more matter than antimatter throughout the universe? 
+
+7.  What is meant by a "measurement" in quantum mechanics?  Does
+"wavefunction collapse" actually happen as a physical process?  If so, how,
+and under what conditions?  If not, what happens instead? 
+
+8.  What are the gravitational effects, if any, of the immense (possibly
+infinite) vacuum energy density seemingly predicted by quantum field
+theory?  Is it really that huge?  If so, why doesn't it act like an
+enormous cosmological constant? 
+
+9.  Why doesn't the flux of solar neutrinos agree with predictions?  Is the
+disagreement really significant?  If so, is the discrepancy in models of
+the sun, theories of nuclear physics, or theories of neutrinos?  Are
+neutrinos really massless? 
+
+The Big Question (TM)
+---------------------
+
+This last question sits on the fence between the two categories above:
+
+    How do you merge Quantum Mechanics and General Relativity to create a
+quantum theory of gravity?  Is Einstein's theory of gravity (classical GR)
+also correct in the microscopic limit, or are there modifications
+possible/required which coincide in the observed limit(s)?  Is gravity
+really curvature, or what else -- and why does it then look like curvature? 
+An answer to this question will necessarily rely upon, and at the same time
+likely be a large part of, the answers to many of the other questions above.
+
+********************************************************************************
+Item 27.                                        updated 30-JAN-1994 by SIC
+	
+Accessing and Using Online Physics Resources
+--------------------------------------------
+
+(I) Particle Physics Databases
+
+	The Full Listings of the Review of Particle Properties (RPP), as 
+well as other particle physics databases, are accessible on-line.  Here is 
+a summary of the major ones, as described in the RPP:
+
+(A) SLAC Databases
+
+PARTICLES   - Full listings of the RPP
+HEP         - Guide to particle physics preprints, journal articles, reports,
+              theses, conference papers, etc.
+CONF        - Listing of past and future conferences in particle physics
+HEPNAMES    - E-mail addresses of many HEP people
+INST        - Addresses of HEP institutions
+DATAGUIDE   - Adjunct to HEP, indexes papers
+REACTIONS   - Numerical data on reactions (cross-sections, polarizations, etc)
+EXPERIMENTS - Guide to current and past experiments
+
+Anyone with a SLAC account can access these databases.  Alternately, most
+of us can access them via QSPIRES.  You can access QSPIRES via BITNET with
+the 'send' command ('tell','bsend', or other system-specific command) or by
+using E-mail.  For example, send QSPIRES@SLACVM FIND TITLE Z0 will get you
+a search of HEP for all papers which reference the Z0 in the title.  By
+E-mail, you would send the one line message "FIND TITLE Z0" with a blank
+subject line to QSPIRES@SLACVM.BITNET or QSPIRES@VM.SLAC.STANFORD.EDU.
+QSPIRES is free.  Help can be obtained by mailing "HELP" to QSPIRES.
+
+For more detailed information, see the RPP, p.I.12, or contact: Louise
+Addis (ADDIS@SLACVM.BITNET) or Harvey Galic (GALIC@SLACVM.BITNET).
+
+(B) CERN Databases on ALICE
+
+LIB         - Library catalogue of books, preprints, reports, etc.
+PREP        - Subset of LIB containing preprints, CERN publications, and 
+              conference papers.
+CONF        - Subset of LIB containing upcoming and past conferences since 1986
+DIR         - Directory of Research Institutes in HEP, with addresses, fax,
+              telex, e-mail addresses, and info on research programs
+
+ALICE can be accessed via DECNET or INTERNET.  It runs on the CERN library's
+VXLIB, alias ALICE.CERN.CH (IP# 128.141.201.44).  Use Username ALICE (no 
+password required.)  Remote users with no access to the CERN Ethernet can
+use QALICE, similar to QSPIRES.  Send E-mail to QALICE@VXLIB.CERN.CH, put
+the query in the subject field and leave the message field black.  For 
+more information, send the subject "HELP" to QALICE or contact CERN 
+Scientific Information Service, CERN, CH-1211 Geneva 23, Switzerland,
+or E-mail MALICE@VXLIB.CERN.CH.
+
+Regular weekly or monthly searches of the CERN databases can be arranged
+according to a personal search profile.  Contact David Dallman, CERN SIS
+(address above) or E-mail CALLMAN@CERNVM.CERN.CH.
+
+DIR is available in Filemaker PRO format for Macintosh.  Contact Wolfgang
+Simon (ISI@CERNVM.CERN.CH).
+
+(C) Particle Data Group Online Service
+
+	The Particle Data Group is maintaining a new user-friendly computer
+database of the Full Listings from the Review of Particle Properties. Users
+may query by paper, particle, mass range, quantum numbers, or detector and
+can select specific properties or classes of properties like masses or
+decay parameters. All other relevant information (e.g. footnotes and
+references) is included. Complete instructions are available online. 
+
+	The last complete update of the RPP database was a copy of the Full
+Listings from the Review of Particle Properties which was published as
+Physical Review D45, Part 2 (1 June 1992). A subsequent update made on 27
+April 1993 was complete for unstable mesons, less complete for the W, Z, D
+mesons, and stable baryons, and otherwise was unchanged from the 1992
+version. 
+
+DECNET access: SET HOST MUSE or SET HOST 42062
+TCP/IP access: TELNET MUSE.LBL.GOV or TELNET 131.243.48.11
+Login to: PDG_PUBLIC with password HEPDATA.
+
+Contact: Gary S. Wagman, (510)486-6610.  Email: (GSWagman@LBL.GOV).
+
+(D) Other Databases
+
+Durham-RAL and Serpukhov both maintain large databases containing Particle
+Properties, reaction data, experiments, E-mail ID's, cross-section
+compilations (CS), etc.  Except for the Serpukhov CS, these databases
+overlap SPIRES at SLAC considerably, though they are not the same and may
+be more up-to-date.  For details, see the RPP, p.I.14, or contact:
+For Durham-RAL, Mike Whalley (MRW@UKACRL.BITNET,MRW@CERNVM.BITNET) or 
+Dick Roberts (RGR@UKACRL.BITNET).  For Serpukhov, contact Sergey Alekhin 
+(ALEKHIN@M9.IHEP.SU) or Vladimir Exhela (EZHELA@M9.IHEP.SU). 
+
+(II) Online Preprint Sources
+
+There are a number of online sources of preprints:
+
+alg-geom@publications.math.duke.edu (algebraic geometry)
+astro-ph@babbage.sissa.it           (astrophysics)
+cond-mat@babbage.sissa.it           (condensed matter)
+funct-an@babbage.sissa.it           (functional analysis)
+hep-lat@ftp.scri.fsu.edu            (computational and lattice physics)
+hep-ph@xxx.lanl.gov                 (high energy physics phenomenological)
+hep-th@xxx.lanl.gov                 (high energy physics theoretical)
+lc-om@alcom-p.cwru.edu              (liquid crystals, optical materials)
+gr-qc@xxx.lanl.gov                  (general relativity, quantum cosmology)
+nucl-th@xxx.lanl.gov,               (nuclear physics theory)
+nlin-sys@xyz.lanl.gov               (nonlinear science)
+
+	To get things if you know the preprint number, send a message to 
+the appropriate address with subject header "get (preprint number)" and 
+no message body. If you *don't* know the preprint number, or want to get 
+preprints regularly, or want other information, send a message with 
+subject header "help" and no message body. 
+
+(III) The World Wide Web
+
+	There is a wealth of information, on all sorts of topics, available 
+on the World Wide Web [WWW], a distributed HyperText system (a network of 
+documents connected by links which can be activated electronically). 
+Subject matter includes some physics areas such as High Energy Physics,
+Astrophysics abstracts, and Space Science, but also includes such diverse
+subjects as bioscience, musics, and the law.
+
+* How to get to the Web
+
+   	If you have no clue what WWW is, you can go over the Internet with
+telnet to info.cern.ch (no login required) which brings you to the WWW 
+Home Page at CERN. You are now using the simple line mode browser. To move 
+around the Web, enter the number given after an item. 
+
+* Browsing the Web
+
+	If you have a WWW browser up and running, you can move around
+more easily. The by far nicest way of "browsing" through WWW uses the 
+X-Terminal based tool "XMosaic". Binaries for many platforms (ready for use) 
+and sources are available via anonymous FTP from ftp.ncsa.uiuc.edu in directory 
+Web/xmosaic.  The general FTP repository for browser software is info.cern.ch
+(including a hypertext browser/editor for NeXTStep 3.0)
+
+* For Further Information
+
+	For questions related to WWW, try consulting the WWW-FAQ: Its most 
+recent version is available via anonymous FTP on rtfm.mit.edu in 
+/pub/usenet/news.answers/www-faq , or on WWW at 
+http://www.vuw.ac.nz:80/non-local/gnat/www-faq.html
+
+	The official contact (in fact the midwife of the World Wide Web) 
+is Tim Berners-Lee, timbl@info.cern.ch. For general matters on WWW, try 
+www-request@info.cern.ch or Robert Cailliau (responsible for the "physics" 
+content of the Web, cailliau@cernnext.cern.ch).
+
+(IV) Other Archive Sites 
+
+(A)	FreeHEP
+
+	The FreeHEP collection of software, useful to high energy physicists
+is available on the Web as  
+
+  http://heplibw3.slac.stanford.edu:80/FIND/FHMAIN.HTML
+
+or anonymous ftp to freehep.scri.fsu.edu.  This is high-energy oriented but 
+has much which is useful to other fields also.  Contact Saul Youssef
+(youssef@scri.fsu.edu) for more information.
+
+(B)
+	There is an FTP archive site of preprints and programs
+for nonlinear dynamics, signal processing, and related subjects on node
+lyapunov.ucsd.edu (132.239.86.10) at the Institute for Nonlinear Science,
+UCSD.  Just login anonymously, using your host id as your password. Contact
+Matt Kennel (mbk@inls1.ucsd.edu) for more information.
+
+********************************************************************************
+END OF FAQ

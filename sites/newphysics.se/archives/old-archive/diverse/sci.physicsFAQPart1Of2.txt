@@ -1,0 +1,1678 @@
+From: sichase@csa2.lbl.gov (SCOTT I CHASE)
+Newsgroups: sci.physics,alt.sci.physics.new-theories,news.answers,sci.answers,alt.answers
+Subject: Sci.physics Frequently Asked Questions - April 1994  - Part 1/2
+Summary: This posting contains a list of Frequently Asked Questions 
+	(and their answers) about physics, and should be read by anyone who
+	wishes to post to the sci.physics.* newsgroups.
+Keywords: Sci.physics FAQ April 1994 Part 1/2
+Message-ID: <4APR199414033338@csa5.lbl.gov>
+Date: 4 Apr 94 22:03:00 GMT
+Expires: Sun, 1 May 1994 00:00:00 GMT
+Sender: sichase@csa5.lbl.gov (SCOTT I CHASE)
+Reply-To: sichase@csa2.lbl.gov
+Followup-To: sci.physics
+Organization: Lawrence Berkeley Laboratory - Berkeley, CA, USA
+Lines: 1658
+Approved: news-answers-request@MIT.Edu
+NNTP-Posting-Host: csa5.lbl.gov
+News-Software: VAX/VMS VNEWS 1.41
+Xref: columba.udac.uu.se sci.physics:5053 alt.sci.physics.new-theories:581 news.answers:2940 sci.answers:245
+
+Archive-name: physics-faq/part1
+Last-modified: 04-MAR-1994
+
+Editor's note:  My life has been insanely busy in the last few weeks.  I 
+had meant to post a pretty major overhaul of the FAQ, catching up on past
+promises for corrections, etc.  But it didn't happen.  Sorry.  I'll try
+for next month.  Also, coming soon - an HTML version of the FAQ.
+
+-Scott
+
+--------------------------------------------------------------------------------
+              FREQUENTLY ASKED QUESTIONS ON SCI.PHYSICS - Part 1/2
+--------------------------------------------------------------------------------
+
+	This Frequently Asked Questions List is posted monthly, on or near 
+the first of the month, to the USENET newsgroups sci.physics.research,
+sci.physics and alt.sci.physics.new-theories in an attempt to provide good 
+answers to frequently asked questions and other reference material which is 
+worth preserving. If you have corrections or answers to other frequently 
+asked questions that you would like included in this posting, send E-mail 
+to sichase@csa2.lbl.gov (Scott I. Chase).
+
+	The FAQ is distributed to all interested parties whenever sufficient
+changes have accumulated to  warrant such a mailing.  To request that your
+address be added to the list, send mail to my address, above, and include 
+the words "FAQ Mailing List" in  the subject header of your message.  Please
+send your request from the exact address you would like to use for receipt 
+of the FAQ.  To faciliate mailing, the FAQ is now being distributed as a 
+multi-part posting.
+
+	If you are a new reader of the Physics newsgroups, please read 
+item #1, below.   If you do not wish to read the FAQ at all, add 
+"Frequently Asked Questions" to your .KILL file.  
+
+	A listing of new items can be found above the subject index, so 
+that you can quickly identify new subjects of interest.  To locate old
+items which have been updated since the last posting, look for the stars (*)
+in the subject index, which indicate new material.
+
+	Items which have been submitted by a single individual are 
+attributed to the original author.  All other contributors have been thanked
+privately.  
+
+New Items: NONE
+
+Index of Subjects
+-----------------
+ 1. An Introduction to the Physics Newsgroups on USENET
+ 2. The Care and Feeding of Kill Files
+ 3. Gravitational Radiation
+ 4. Energy Conservation in Cosmology and Red Shift 
+ 5. Effects Due to the Finite Speed of Light
+ 6. The Top Quark 
+ 7. Tachyons
+ 8. Special Relativistic Paradoxes and Puzzles
+    (a) The Barn and the Pole
+   *(b) The Twin Paradox
+    (c) The Superluminal Scissors
+ 9. The Particle Zoo
+10. Olbers' Paradox
+11. What is Dark Matter?
+12. Hot Water Freezes Faster than Cold!
+13. Why are Golf Balls Dimpled?
+14. How to Change Nuclear Decay Rates
+15. What is a Dippy Bird, and how is it used?
+16. Some Frequently Asked Questions About Black Holes
+17. Below Absolute Zero - What Does Negative Temperature Mean?
+18. Which Way Will my Bathtub Drain?
+19.*Why do Mirrors Reverse Left and Right?
+20. What is the Mass of a Photon?
+21. Why Do Stars Twinkle While Planets Do Not? 
+22. Baryogenesis - Why Are There More Protons Than Antiprotons?
+23.*Time Travel - Fact or Fiction?
+24. The EPR Paradox and Bell's Inequality Principle
+25. The Nobel Prize for Physics
+26. Open Questions
+27.*Accessing and Using Online Physics Resources
+
+********************************************************************************
+Item 1.                                         updated 17-JUN-1993 by SIC
+
+An Introduction to the Physics Newsgroups on USENET
+---------------------------------------------------
+
+	The USENET hierarchy contains three newsgroups dedicated to the
+discussion of physics and physics-related topics.  These are sci.physics,
+sci.physics.research, and alt.sci.physics.new-theories.  
+
+	Sci.Physics is an unmoderated newsgroup dedicated to the discussion
+of physics, news from the physics community, and physics-related social
+issues.  Sci.Physics.Research is a moderated newgroup designed to offer an
+environment with less traffic and more opportunity for discussion of
+serious topics in physics among experts and beginners alike.  The current
+moderators of sci.physics.research are John Baez (jbaez@math.mit.edu), 
+William Johnson(mwj@beta.lanl.gov), Cameron Randale (Dale) Bass 
+(crb7q@kelvin.seas.Virginia.edu), and Lee Sawyer (sawyer@utahep.uta.edu).
+Alt.sci.physics.new-theories is an open forum for discussion of any
+topics related to conventional or unconventional physics.  In this 
+context, "unconventional physics" includes any ideas on physical science,
+whether or not they are widely accepted by the mainstream physics community.
+
+	People from a wide variety of non-physics backgrounds, as well
+as students and experts in all areas of physics participate in the ongoing
+discussions on sci.physics and sci.physics.research.  Professors, industrial 
+scientists, graduate students, etc., are all on hand to bring physics 
+expertise to bear on almost any question.   But the only requirement for 
+participation is interest in physics, so feel free to post -- but before 
+you do, please do the following: 
+
+(1) Read this posting, a.k.a., the FAQ.  It contains good answers,
+contributed by the readership,  to some of the most frequently asked
+questions. 
+
+(2) Understand "netiquette."  If you are not sure what this means,
+subscribe to news.announce.newusers and read the excellent discussion of
+proper net behavior that is posted there periodically.  
+
+(3) Be aware that there is another newsgroup dedicated to the discussion of
+"alternative" physics.  It is alt.sci.physics.new-theories, and is the
+appropriate forum for discussion of physics ideas which are not widely
+accepted by the physics community.  Sci.Physics is not the group for such
+discussions.  A quick look at items posted to both groups will make the
+distinction apparent. 
+
+(4) Read the responses already posted in the thread to which you want to
+contribute.  If a good answer is already posted, or the point you wanted
+to make has already been made, let it be.  Old questions have probably been
+thoroughly discussed by the time you get there - save bandwidth by posting
+only new information.  Post to as narrow a geographic region as is 
+appropriate.  If your comments are directed at only one person, try E-mail.
+
+(5) Get the facts right!  Opinions may differ, but facts should not.  It is
+very tempting for new participants to jump in with quick answers to physics
+questions posed to the group.  But it is very easy to end up feeling silly
+when people barrage you with corrections.  So before you give us all a
+physics lesson you'll regret - look it up. 
+
+(6) Don't post textbook problems in the hope that someone will do your 
+homework for you.  Do you own homework; it's good for you.   On the other 
+hand, questions, even about elementary physics, are always welcome.  So 
+if you want to discuss the physics which is relevent to your homework,
+feel free to do so.  Be warned that you may still have plenty of 
+work to do, trying to figure out which of the many answers you get are 
+correct.
+
+(7) Be prepared for heated discussion.  People have strong opinions about
+the issues, and discussions can get a little "loud" at times. Don't take it
+personally if someone seems to always jump all over everything you say. 
+Everyone was jumping all over everybody long before you got there!  You
+can keep the discussion at a low boil by trying to stick to the facts. 
+Clearly separate facts from opinion - don't let people think you are
+confusing your opinions with scientific truth.  And keep the focus of
+discussion on the ideas, not the people who post them. 
+
+(8) Tolerate everyone.  People of many different points of view, and widely
+varying educational backgrounds from around the world participate in this
+newsgroup.  Respect for others will be returned in kind.  Personal
+criticism is usually not welcome. 
+
+********************************************************************************
+Item 2.
+
+The Care and Feeding of Kill Files              updated 28-SEP-1993 by SIC
+----------------------------------
+
+	With most newsreaders, it is possible for you to selectively ignore
+articles with certain title words, or by a certain author.  This feature is
+implemented as a "kill file," which contains instructions to your
+newsreader about how to filter out unwanted articles.  The exact details on
+how to specify articles you want to ignore varies from program to program,
+so you should check the documentation for your particular newsreader. Some
+examples are given below for a few common newsreaders.  If your newsreader
+does not support kill files, you may want to consider upgrading to one that
+does.  Some of the more popular newsreaders that support kill files are rn,
+trn, nn, xrn, gnews, and gnus. 
+
+	Let's say that you wish to `kill' all posts made by a certain user.
+Using the `rn' or `trn' newsreader, you would type a [CTRL]-K while in read
+mode to begin editing the kill file, and then type the following: 
+
+     /From: username@sitename.com/h:j
+
+This will look for articles that come with "From: username@sitename.com" in
+the header, junk them, and then display the subject lines of titles that
+just got zapped. 
+
+For names of Subject titles, you would type something like this:
+
+     /: *The Big Bang Never Happened/:j
+     /: *Space Potatoes Have Inertia/:j
+
+When finished, save the kill file in the normal manner for the editor
+you're using. 
+
+In trn 3.0 and higher you can use the faster command
+
+     /username@sitename\.com/f:j
+
+to kill all of username's postings. In trn change the 'j' to ',' to kill
+all the replies as well.  Note the '\' to escape the '.'. This is needed in
+any search string in a kill file (although they usually work if you
+forget). Also in [t]rn you can simply hit K to automatically killfile the
+current subject without directly editing the file. 
+
+	For the `nn' newsreader, type a capital K when viewing the contents
+of a newsgroup.  nn will then ask you a few questions on whether it is a
+Subject or a Name, duration of time that the posts are to be killed, etc. 
+Simply answer the questions accordingly. 
+
+	There's a lot more to it, of course, when you become proficient.
+You can kill all articles cross-posted to specific groups, for example, or
+kill any article with a particular name or phrase appearing anywhere in the
+header.  A good primer is in the "rn KILL file FAQ" which appears
+periodically in news.answers.  You should also check the man pages for your
+particular newsreader. 
+
+********************************************************************************
+Item 3.
+
+Gravitational Radiation                         updated 4-May-1992 by SIC
+-----------------------
+
+	Gravitational Radiation is to gravity what light is to
+electromagnetism. It is produced when massive bodies accelerate.  You can
+accelerate any body so as to produce such radiation, but due to the feeble
+strength of gravity, it is entirely undetectable except when produced by
+intense astrophysical sources such as supernovae, collisions of black
+holes, etc.  These are quite far from us, typically, but they are so
+intense that they dwarf all possible laboratory sources of such radiation. 
+
+	Gravitational waves have a polarization pattern that causes objects
+to expand in one direction, while contracting in the perpendicular
+direction. That is, they have spin two.  This is because gravity waves are
+fluctuations in the tensorial metric of space-time. 
+
+	All oscillating radiation fields can be quantized, and in the case
+of gravity,  the intermediate boson is called the "graviton" in analogy
+with the photon. But quantum gravity is hard, for several reasons: 
+        (1) The quantum field theory of gravity is hard, because gauge 
+interactions of spin-two fields are not renormalizable.  See Cheng and Li,
+Gauge Theory of Elementary Particle Physics (search for "power counting").
+        (2) There are conceptual problems - what does it mean to quantize
+geometry, or space-time?
+
+	It is possible to quantize weak fluctuations in the gravitational
+field.  This gives rise to the spin-2 graviton.  But full quantum gravity
+has so far escaped formulation.  It is not likely to look much like the
+other quantum field theories.  In addition, there are models of gravity
+which include additional bosons with different spins.  Some are the
+consequence of non-Einsteinian models, such as Brans-Dicke which has a
+spin-0 component. Others are included by hand, to give "fifth force"
+components to gravity. For example, if you want to add a weak repulsive
+short range component, you will need a massive spin-1 boson.  (Even-spin
+bosons always attract.  Odd-spin bosons can attract or repel.)  If
+antigravity is real, then this has implications for the boson spectrum as
+well. 
+
+	The spin-two polarization provides the method of detection.  Most
+experiments to date use a "Weber bar."  This is a cylindrical, very
+massive, bar suspended  by fine wire, free to oscillate in response to a
+passing graviton.   A high-sensitivity, low noise, capacitive transducer
+can turn the oscillations of the bar into an electric signal for analysis. 
+So far such searches have failed.  But they are expected to be
+insufficiently sensitive for typical  radiation intensity from known types
+of sources. 
+
+	A more sensitive technique uses very long baseline laser
+interferometry.  This is the principle of LIGO (Laser Interferometric
+Gravity wave Observatory).  This is a two-armed detector, with
+perpendicular laser beams each travelling several km before meeting to
+produce an interference pattern which fluctuates if a gravity wave distorts
+the geometry of the detector.  To eliminate noise from seismic effects as
+well as human noise sources, two detectors separated by hundreds to
+thousands of miles are necessary.  A coincidence measurement then provides
+evidence of gravitational radiation.  In order to determine the source of
+the signal, a third detector, far from either of the first two, would be
+necessary.  Timing differences in the arrival of the signal to the three
+detectors would allow triangulation of the angular position in the sky of
+the signal. 
+
+	The first stage of LIGO, a two detector setup in the U.S., has been
+approved by Congress in 1992.  LIGO researchers have started designing a
+prototype detector, and are hoping to enroll another nation, probably in
+Europe, to fund and be host to the third detector. 
+
+	The speed of gravitational radiation (C_gw) depends upon the
+specific model of Gravitation that you use.  There are quite a few
+competing models (all consistent with all experiments to date) including of
+course Einstein's but also Brans-Dicke and several families of others.  
+All metric models can support gravity waves.  But not all predict radiation
+travelling at C_gw = C_em.  (C_em is the speed of electromagnetic waves.)
+
+	There is a class of theories with "prior geometry", in which, as I
+understand it, there is an additional metric which does not depend only on
+the local matter density.  In such theories, C_gw != C_em in general. 
+
+	However, there is good evidence that C_gw is in fact at least
+almost C_em. We observe high energy cosmic rays in the 10^20-10^21 eV
+region.  Such particles are travelling at up to (1-10^-18)*C_em.  If C_gw <
+C_em, then particles with C_gw < v < C_em will radiate Cerenkov
+gravitational radiation into the vacuum, and decelerate from the back
+reaction.  So evidence of these very fast cosmic rays good evidence that
+C_gw >= (1-10^-18)*C_em, very close indeed to C_em.  Bottom line: in a
+purely Einsteinian universe, C_gw = C_em. However, a class of models not
+yet ruled out experimentally does make other predictions.  
+
+	A definitive test would be produced by LIGO in coincidence with
+optical measurements of some catastrophic event which generates enough
+gravitational radiation to be detected.  Then the "time of flight" of both
+gravitons and photons from the source to the Earth could be measured, and
+strict direct limits could be set on C_gw. 
+
+	For more information, see Gravitational Radiation (NATO ASI - 
+Les Houches 1982), specifically the introductory essay by Kip Thorne.
+
+********************************************************************************
+Item 4.
+
+ENERGY CONSERVATION IN COSMOLOGY AND RED SHIFT  updated: 10-May-1992 by SIC
+----------------------------------------------
+
+IS ENERGY CONSERVED IN OUR UNIVERSE? NO
+
+	Why?  Every conserved quantity is the result of some symmetry of
+nature. This is known as Noether's theorem.  For example, momentum 
+conservation is the result of translation invariance, because position  is
+the variable conjugate to momentum.  Energy would be conserved due to
+time-translation invariance. However, in an expanding or contracting 
+universe, there is no time-translation invariance.  Hence energy is not 
+conserved.  If you want to learn more about this, read Goldstein's 
+Classical Mechanics, and look up Noether's theorem. 
+
+DOES RED-SHIFT LEAD TO ENERGY NON-CONSERVATION:  SOMETIMES
+
+There are three basic cosmological sources of red-shifted light:
+(1) Very massive objects emitting light
+(2) Very fast objects emitting light
+(3) Expansion of the universe leading to CBR (Cosmic Background 
+    Radiation) red-shift
+
+About each:
+(1) Light has to climb out the gravitational well of a very massive object.
+ It gets red-shifted as a result.  As several people have commented, this
+does not lead to energy non-conservation, because the photon had negative
+gravitational potential energy when it was deep in the well.  No problems
+here.  If you want to learn more about this read Misner, Thorne, and
+Wheeler's Gravitation, if you dare. 
+
+(2) Fast objects moving away from you emit Doppler shifted light.  No 
+problems here either.  Energy is only one part a four-vector, so it 
+changes from frame to frame.  However, when looked at in a Lorentz 
+invariant way, you can convince yourself that everything is OK here too.
+If you want to learn more about this, read Taylor and Wheeler's 
+Spacetime Physics.
+
+(3) CBR has red-shifted over billions of years.  Each photon gets redder
+and redder.  And the energy is lost.  This is the only case in which
+red-shift leads to energy non-conservation.  Several people have speculated
+that radiation pressure "on the universe" causes it to expand more quickly,
+and attempt to identify the missing energy with the speed at which the
+universe is expanding due to radiation pressure.  This argument is
+completely specious.  If you add more radiation to the universe you add
+more energy, and the universe is now more closed than ever, and the
+expansion rate slows. 
+
+	If you really MUST construct a theory in which something like
+energy is conserved (which is dubious in a universe without
+time-translation invariance), it is possible to arbitrarily define things
+so that energy has an extra term which compensates for the loss.  However,
+although the resultant quantity may be a constant, it is of questionable
+value, and certainly is not an integral associated with time-invariance, so
+it is not what everyone calls energy. 
+
+********************************************************************************
+Item 5.
+
+EFFECTS DUE TO THE FINITE SPEED OF LIGHT       updated 28-May-1992 by SIC
+----------------------------------------
+
+	There are two well known phenomena which are due to the finite
+speed of electromagnetic radiation, but are essentially classical in
+nature, requiring no other facts of special relativity for their
+understanding. 
+
+(1) Apparent Superluminal Velocity of Galaxies
+
+	A distant object can appear to travel faster than the speed of
+light relative to us, provided that it has some component of motion towards
+us as well as perpendicular to our line of sight.  Say that on Jan. 1 you
+make a position measurement of galaxy X.  One month later, you measure it
+again. Assuming you know it's distance from us by some independent
+measurement, you derive its linear speed, and conclude that it is moving
+faster than the speed of light. 
+
+	What have you forgotten?  Let's say that on Jan. 1, the object is D
+km from us, and that between Jan. 1 and Feb. 1, the object has moved d km
+closer to us.  You have assumed that the light you measured on Jan. 1 and
+Feb. 1 were emitted exactly one month apart.  Not so.  The first light beam
+had further to travel, and was actually emitted (1 + d/c) months before the
+second measurement, if we measure c in km/month.  The object has traveled
+the given angular distance in more time than you thought.  Similarly, if
+the object is moving away from us, the apparent angular velocity will be
+too slow, if you do not correct for this effect, which becomes significant
+when the object is moving along a line close to our line of sight. 
+
+	Note that most extragalactic objects are moving away from us due to
+the Hubble expansion.  So for most objects, you don't get superluminal
+apparent velocities.  But the effect is still there, and you need to take
+it into account if you want to measure velocities by this technique. 
+
+References: 
+
+Considerations about the Apparent 'Superluminal Expansions' in 
+Astrophysics, E. Recami, A. Castellino, G.D. Maccarrone, M. Rodono,
+Nuovo Cimento 93B, 119 (1986).
+
+Apparent Superluminal Sources, Comparative Cosmology and the Cosmic 
+Distance Scale, Mon. Not. R. Astr. Soc. 242, 423-427 (1990).
+
+(2) Terrell Rotation
+
+	Consider a cube moving across your field of view with speed near
+the speed of light.  The trailing face of the cube is edge on to your line
+of sight as it passes you.  However, the light from the back edge of that
+face (the edge of the square farthest from you) takes longer to get to your
+eye than the light from the front edge.  At any given instant you are
+seeing light from the front edge at time t and the back edge at time
+t-(L/c), where L is the length of an edge.  This means you see the back
+edge where it was some time earlier. This has the effect of *rotating* the
+*image* of the cube on your retina. 
+
+	This does not mean that the cube itself rotates.  The *image* is
+rotated. And this depends only on the finite speed of light, not any other
+postulate or special relativity.  You can calculate the rotation angle by
+noting that the side face of the cube is Lorentz contracted to L' =
+L/gamma. This will correspond to a rotation angle of arccos(1/gamma). 
+
+	It turns out, if you do the math for a sphere, that the amount of
+apparent rotation exactly cancels the Lorentz contraction.  The object
+itself is flattened, but then you see *behind* it as it flies by just
+enough to restore it to its original size.  So the image of a sphere is
+unaffected by the Lorentz flattening that it experiences. 
+
+	Another implication of this is that if the object is moving at
+nearly the speed of light, although it is contracted into an
+infinitesimally thin pancake, you see it rotated by almost a full 90
+degrees, so you see the complete backside of the object, and it doesn't
+disappear from view.  In the case of the sphere, you see the transverse
+cross-section (which suffers no contraction), so that it still appears to
+be exactly a sphere. 
+
+	That it took so long historically to realize this is undoubtedly
+due to the fact that although we were regularly accelerating particle beams
+in 1959 to relativistic speeds, we still do not have the technology to
+accelerate any macroscopic objects to speeds necessary to reveal the
+effect. 
+
+References: J. Terrell, Phys Rev. _116_, 1041 (1959).  For a textbook
+discussion, see Marion's _Classical Dynamics_, Section 10.5.
+
+********************************************************************************
+Item 6.
+
+TOP QUARK                                      updated: 18-APR-1993 by SIC
+---------
+
+	The top quark is the hypothetical sixth fundamental strongly
+interacting particle (quark).  The known quarks are up (u), down (d),
+strange (s), charm (c) and  bottom (b).  The Standard Model requires quarks
+to come in pairs in order to prevent mathematical inconsistency due to
+certain "anomalous" Feynman diagrams, which cancel if and only if the
+quarks are paired.  The pairs are (d,u),(s,c) and (b,?).  The missing
+partner of the b is called "top". 
+
+	In addition, there is experimental evidence that the b quark has an
+"isodoublet" partner, which is so far unseen.  The forward-backward
+asymmetry in the reaction e+ + e- -> b + b-bar and the absence of
+flavor-changing neutral currents in b decays imply the existence of the
+isodoublet partner of the b. ("b-bar", pronounced "bee bar", signifies the
+b antiquark.) 
+
+	The mass of the top quark is restricted by a variety of
+measurements. Due to radiative corrections which depend on the top quark
+circulating as a virtual particle inside the loop in the Feynman diagram,
+a number of experimentally accessible processes depend on the top quark 
+mass.  There are about a dozen such measurements which have been made so 
+far, including the width of the Z, b-b-bar mixing (which historically gave 
+the first hints that the top quark was very massive), and certain aspects 
+of muon decay.  These results collectively limit the top mass to roughly 
+143 +/- 26 GeV.  This uncertainty is a "1-sigma" error bar. 
+
+	Direct searches for the top quark have been performed, looking for
+the expected decay products in both p-p-bar and e+e- collisions.  The best
+current limits on the top mass are: 
+        (1) From the absence of Z -> t + t-bar, M(t) > M(Z)/2 = 45 GeV. 
+This is a "model independent" result, depending only on the fact that the
+top quark should be weakly interacting, coupling to the Z with sufficient
+strength to have been detected at the current resolution of the LEP
+experiments which have cornered the market on Z physics in the last several
+years. 
+        (2) From the absence of top quark decay products in the reaction p
++ p-bar -> t + t-bar -> hard leptons + X at Fermilab's Tevatron collider,
+the CDF (Collider Detector at Fermilab) and D0 experiments.  Each top quark 
+is expect to decay into a W boson and a b quark.  Each W subsequently decays
+into either a charged lepton and a neutrino or two quarks.  The cleanest
+signature for the production and decay of the t-t-bar pair is the presence
+of two high-transverse-momentum (high Pt) leptons (electron or muon) in the 
+final state.  Other decay modes have higher branching ratios, but have 
+serious experimental backgrounds from W bosons produced in association with 
+jets.  The current published lower limit on M(t) from such measurements is 
+91 GeV (95% confidence), 95 GeV (90% confidence).  However, these limits assume 
+that the top quark has the expected decay products in the expected branching 
+ratios, making these limits "model dependent," and consequently not as 
+"hard" as the considerably lower LEP limit of ~45 GeV.  Unpublished results
+from CDF and D0 now claim lower top mass limits of 113 GeV and 103 GeV for 
+the respective detectors, presumably at 95% confidence.  These numbers
+will probably change by the time they make it into print.
+
+	The future is very bright for detecting the top quark.  LEP II, the
+upgrade of CERN's e+e- collider to E >= 2*Mw = 160 GeV by 1994, will allow
+a hard lower limit of roughly 90 GeV to be set.  Meanwhile, upgrades to
+CDF, start of a new experiment, D0,  and upgrades to the accelerator
+complex at Fermilab have recently allowed higher event rates and better 
+detector resolution, should allow production of standard model top quarks of 
+mass < 150 GeV in the next two years, and even higher mass further in the 
+future, at high enough event rate to identify the decays and give rough mass
+measurements.  There have already been a few unpublished "candidate" events 
+from CDF and D0, which, if verified, would be the first direct evidence of 
+the top quark, with mass in the vacinity of 150 GeV.
+
+References: Phys. Rev. Lett. _68_, 447 (1992) and the references therein. 
+
+********************************************************************************
+Item 7.
+
+Tachyons                                        updated: 22-MAR-1993 by SIC
+--------
+
+                There was a young lady named Bright,
+                Whose speed was far faster than light.
+                She went out one day,
+                In a relative way,
+                And returned the previous night!
+
+                        -Reginald Buller
+
+
+	It is a well known fact that nothing can travel faster than the
+speed of light. At best, a massless particle travels at the speed of light.
+But is this really true?  In 1962, Bilaniuk, Deshpande, and Sudarshan, Am.
+J. Phys. _30_, 718 (1962), said "no".  A very readable paper is Bilaniuk
+and Sudarshan, Phys. Today _22_,43 (1969).  I give here a brief overview. 
+
+	Draw a graph, with momentum (p) on the x-axis, and energy (E) on
+the y-axis.  Then draw the "light cone", two lines with the equations E =
++/- p. This divides our 1+1 dimensional space-time into two regions.  Above
+and below are the "timelike" quadrants, and to the left and right are the
+"spacelike" quadrants. 
+
+	Now the fundamental fact of relativity is that E^2 - p^2 = m^2. 
+(Let's take c=1 for the rest of the discussion.)  For any non-zero value of 
+m (mass), this is an hyperbola with branches in the timelike regions.  It 
+passes through the point (p,E) = (0,m), where the particle is at rest.  Any 
+particle with mass m is constrained to move on the upper branch of this 
+hyperbola.  (Otherwise, it is "off-shell", a term you hear in association
+with virtual particles - but that's another topic.) For massless particles, 
+E^2 = p^2, and the particle moves on the light-cone. 
+
+	These two cases are given the names tardyon (or bradyon in more
+modern usage) and luxon, for "slow particle" and "light particle".  Tachyon
+is the name given to the supposed "fast particle" which would move with v>c. 
+
+	Now another familiar relativistic equation is E =
+m*[1-(v/c)^2]^(-.5).  Tachyons (if they exist) have v > c.  This means that 
+E is imaginary!  Well, what if we take the rest mass m, and take it to be
+imaginary?  Then E is negative real, and E^2 - p^2 = m^2 < 0.  Or, p^2 -
+E^2 = M^2, where M is real.  This is a hyperbola with branches in the
+spacelike region of spacetime.  The energy and momentum of a tachyon must
+satisfy this relation.
+
+	You can now deduce many interesting properties of tachyons.  For
+example, they accelerate (p goes up) if they lose energy (E goes down).
+Futhermore, a zero-energy tachyon is "transcendent," or infinitely fast.
+This has profound consequences.  For example, let's say that there were
+electrically charged tachyons.  Since they would move faster than the speed 
+of light in the vacuum, they should produce Cerenkov radiation. This would 
+*lower* their energy, causing them to accelerate more!  In other words, 
+charged tachyons would probably lead to a runaway reaction releasing an 
+arbitrarily large amount of energy.  This suggests that coming up with a 
+sensible theory of anything except free (noninteracting) tachyons is likely 
+to be difficult.  Heuristically, the problem is that we can get spontaneous 
+creation of tachyon-antitachyon pairs, then do a runaway reaction, making 
+the vacuum unstable.  To treat this precisely requires quantum field theory, 
+which gets complicated.  It is not easy to summarize results here.  However,
+one reasonably modern reference is _Tachyons, Monopoles, and Related
+Topics_, E. Recami, ed. (North-Holland, Amsterdam, 1978).
+
+	However, tachyons are not entirely invisible.  You can imagine that
+you might produce them in some exotic nuclear reaction.  If they are
+charged, you could "see" them by detecting the Cerenkov light they produce
+as they speed away faster and faster.  Such experiments have been done.  So
+far, no tachyons have been found.  Even neutral tachyons can scatter off
+normal matter with experimentally observable consequences.  Again, no such
+tachyons have been found. 
+
+	How about using tachyons to transmit information faster than the
+speed of light, in violation of Special Relativity?  It's worth noting 
+that when one considers the relativistic quantum mechanics of tachyons, the 
+question of whether they "really" go faster than the speed of light becomes 
+much more touchy!  In this framework, tachyons are *waves* that satisfy a
+wave equation.  Let's treat free tachyons of spin zero, for simplicity.   
+We'll set c = 1 to keep things less messy.  The wavefunction of a single 
+such tachyon can be expected to satisfy the usual equation for spin-zero 
+particles, the Klein-Gordon equation:
+
+                (BOX + m^2)phi = 0
+
+where BOX is the D'Alembertian, which in 3+1 dimensions is just
+
+                BOX = (d/dt)^2 - (d/dx)^2 - (d/dy)^2 - (d/dz)^2.
+
+The difference with tachyons is that m^2 is *negative*, and m is
+imaginary.
+
+To simplify the math a bit, let's work in 1+1 dimensions, with
+coordinates x and t, so that
+
+                BOX = (d/dt)^2 - (d/dx)^2
+
+Everything we'll say generalizes to the real-world 3+1-dimensional case.
+Now - regardless of m, any solution is a linear combination, or
+superposition, of solutions of the form
+
+                phi(t,x) = exp(-iEt + ipx)
+
+where E^2 - p^2 = m^2.  When m^2 is negative there are two essentially
+different cases.  Either |p| >= |E|, in which case E is real and
+we get solutions that look like waves whose crests move along at the
+rate |p|/|E| >= 1, i.e., no slower than the speed of light.  Or |p| <
+|E|, in which case E is imaginary and we get solutions that look waves
+that amplify exponentially as time passes!
+
+We can decide as we please whether or not we want to consider the second
+sort of solutions.   They seem weird, but then the whole business is
+weird, after all.
+
+1)	If we *do* permit the second sort of solution, we can solve the
+Klein-Gordon equation with any reasonable initial data - that is, any
+reasonable values of phi and its first time derivative at t = 0.  (For
+the precise definition of "reasonable," consult your local
+mathematician.)  This is typical of wave equations.  And, also typical
+of wave equations, we can prove the following thing: If the solution phi
+and its time derivative are zero outside the interval [-L,L] when t = 0,
+they will be zero outside the interval [-L-|t|, L+|t|] at any time t.
+In other words, localized disturbances do not spread with speed faster
+than the speed of light!  This seems to go against our notion that
+tachyons move faster than the speed of light, but it's a mathematical
+fact, known as "unit propagation velocity".
+
+2)	If we *don't* permit the second sort of solution, we can't solve the
+Klein-Gordon equation for all reasonable initial data, but only for initial
+data whose Fourier transforms vanish in the interval [-|m|,|m|].  By the
+Paley-Wiener theorem this has an odd consequence: it becomes
+impossible to solve the equation for initial data that vanish outside
+some interval [-L,L]!  In other words, we can no longer "localize" our
+tachyon in any bounded region in the first place, so it becomes
+impossible to decide whether or not there is "unit propagation
+velocity" in the precise sense of part 1).    Of course, the crests of
+the waves exp(-iEt + ipx) move faster than the speed of light, but these
+waves were never localized in the first place!
+
+	The bottom line is that you can't use tachyons to send information 
+faster than the speed of light from one place to another.  Doing so would 
+require creating a message encoded some way in a localized tachyon field,
+and sending it off at superluminal speed toward the intended receiver. But 
+as we have seen you can't have it both ways - localized tachyon disturbances 
+are subluminal and superluminal disturbances are nonlocal.
+
+********************************************************************************
+Item 8. Special Relativistic Paradoxes - part (a) 
+
+The Barn and the Pole                   updated 4-AUG-1992 by SIC
+---------------------                   original by Robert Firth
+
+	These are the props.  You own a barn, 40m long, with automatic
+doors at either end, that can be opened and closed simultaneously by a
+switch. You also have a pole, 80m long, which of course won't fit in the
+barn. 
+
+	Now someone takes the pole and tries to run (at nearly the speed of
+light) through the barn with the pole horizontal.  Special Relativity (SR)
+says that a moving object is contracted in the direction of motion: this is
+called the Lorentz Contraction.  So, if the pole is set in motion
+lengthwise, then it will contract in the reference frame of a stationary
+observer. 
+
+	You are that observer, sitting on the barn roof.  You see the pole
+coming towards you, and it has contracted to a bit less than 40m. So, as
+the pole passes through the barn, there is an instant when it is completely
+within the barn.  At that instant, you close both doors.  Of course, you
+open them again pretty quickly, but at least momentarily you had the
+contracted pole shut up in your barn.  The runner emerges from the far door
+unscathed. 
+
+	But consider the problem from the point of view of the runner.  She
+will regard the pole as stationary, and the barn as approaching at high
+speed. In this reference frame, the pole is still 80m long, and the barn
+is less than 20 meters long.  Surely the runner is in trouble if the doors 
+close while she is inside.  The pole is sure to get caught. 
+
+	Well does the pole get caught in the door or doesn't it?  You can't
+have it both ways.  This is the "Barn-pole paradox."  The answer is buried
+in the misuse of the word "simultaneously" back in the first sentence of
+the story.  In SR, that events separated in space that appear simultaneous
+in one frame of reference need not appear simultaneous in another frame of
+reference. The closing doors are two such separate events. 
+
+	SR explains that the two doors are never closed at the same time in
+the runner's frame of reference.  So there is always room for the pole.  In
+fact, the Lorentz transformation for time is t'=(t-v*x/c^2)/sqrt(1-v^2/c^2).
+It's the v*x term in the numerator that causes the mischief here.  In the
+runner's frame the further event (larger x) happens earlier.  The far door 
+is closed first.  It opens before she gets there, and the near door closes 
+behind her. Safe again - either way you look at it, provided you remember 
+that simultaneity is not a constant of physics. 
+
+References:  Taylor and Wheeler's _Spacetime Physics_ is the classic. 
+Feynman's _Lectures_ are interesting as well.
+
+********************************************************************************
+Item 8. Special Relativistic Paradoxes - part (b) 
+
+The Twin Paradox                                updated 04-MAR-1994 by SIC
+----------------                                original by Kurt Sonnenmoser
+
+A Short Story about Space Travel:
+
+	Two twins, conveniently named A and B, both know the rules of
+Special Relativity.  One of them, B, decides to travel out into space with
+a velocity near the speed of light for a time T, after which she returns to
+Earth. Meanwhile, her boring sister A sits at home posting to Usenet all
+day.  When B finally comes home, what do the two sisters find?  Special
+Relativity (SR) tells A that time was slowed down for the relativistic
+sister, B, so that upon her return to Earth, she knows that B will be
+younger than she is, which she suspects was the the ulterior motive of the
+trip from the start. 
+
+	But B sees things differently.  She took the trip just to get away 
+from the conspiracy theorists on Usenet, knowing full well that from her 
+point of view, sitting in the spaceship, it would be her sister, A, who 
+was travelling ultrarelativistically for the whole time, so that she would 
+arrive home to find that A was much younger than she was.  Unfortunate, but 
+worth it just to get away for a while. 
+
+	What are we to conclude?  Which twin is really younger?  How can SR
+give two answers to the same question?  How do we avoid this apparent
+paradox? Maybe twinning is not allowed in SR?  Read on. 
+
+Paradox Resolved:
+
+	Much of the confusion surrounding the so-called Twin Paradox
+originates from the attempts to put the two twins into different frames ---
+without the useful concept of the proper time of a moving body. 
+
+	SR offers a conceptually very clear treatment of this problem.
+First chose _one_ specific inertial frame of reference; let's call it S.
+Second define the paths that A and B take, their so-called world lines. As
+an example, take (ct,0,0,0) as representing the world line of A, and
+(ct,f(t),0,0) as representing the world line of B (assuming that the the
+rest frame of the Earth was inertial). The meaning of the above notation is
+that at time t, A is at the spatial location (x1,x2,x3)=(0,0,0) and B is at
+(x1,x2,x3)=(f(t),0,0) --- always with respect to S. 
+
+	Let us now assume that A and B are at the same place at the time t1
+and again at a later time t2, and that they both carry high-quality clocks
+which indicate zero at time t1. High quality in this context means that the
+precision of the clock is independent of acceleration. [In principle, a
+bunch of muons provides such a device (unit of time: half-life of their
+decay).] 
+
+	The correct expression for the time T such a clock will indicate at
+time t2 is the following [the second form is slightly less general than the
+first, but it's the good one for actual calculations]: 
+
+            t2          t2      _______________ 
+            /           /      /             2 |
+      T  =  | d\tau  =  | dt \/  1 - [v(t)/c]              (1)
+            /           /
+          t1          t1
+
+where d\tau is the so-called proper-time interval, defined by
+
+              2         2      2      2      2
+     (c d\tau)  = (c dt)  - dx1  - dx2  - dx3 .
+
+Furthermore,
+                   d                          d
+           v(t) = -- (x1(t), x2(t), x3(t)) = -- x(t)
+                  dt                         dt
+
+is the velocity vector of the moving object. The physical interpretation
+of the proper-time interval, namely that it is the amount the clock time
+will advance if the clock moves by dx during dt, arises from considering
+the inertial frame in which the clock is at rest at time t --- its
+so-called momentary rest frame (see the literature cited below). [Notice
+that this argument is only of a heuristic value, since one has to assume
+that the absolute value of the acceleration has no effect. The ultimate
+justification of this interpretation must come from experiment.]
+
+	The integral in (1) can be difficult to evaluate, but certain
+important facts are immediately obvious. If the object is at rest with
+respect to S, one trivially obtains T = t2-t1. In all other cases, T must
+be strictly smaller than t2-t1, since the integrand is always less than or
+equal to unity. Conclusion: the traveling twin is younger. Furthermore, if
+she moves with constant velocity v most of the time (periods of
+acceleration short compared to the duration of the whole trip), T will
+approximately be given by      ____________                              
+                              /          2 | 
+                    (t2-t1) \/  1 - [v/c]    .             (2)
+
+The last expression is exact for a round trip (e.g. a circle) with constant
+velocity v. [At the times t1 and t2, twin B flies past twin A and they
+compare their clocks.] 
+
+	Now the big deal with SR, in the present context, is that T (or
+d\tau, respectively) is a so-called Lorentz scalar. In other words, its
+value does not depend on the choice of S. If we Lorentz transform the
+coordinates of the world lines of the twins to another inertial frame S',
+we will get the same result for T in S' as in S. This is a mathematical
+fact. It shows that the situation of the traveling twins cannot possibly
+lead to a paradox _within_ the framework of SR. It could at most be in
+conflict with experimental results, which is also not the case. 
+
+	Of course the situation of the two twins is not symmetric, although
+one might be tempted by expression (2) to think the opposite. Twin A is
+at rest in one and the same inertial frame for all times, whereas twin B
+is not.  [Formula (1) does not hold in an accelerated frame.]  This breaks 
+the apparent symmetry of the two situations, and provides the clearest
+nonmathematical hint that one twin will in fact be younger than the other
+at the end of the trip.  To figure out *which* twin is the younger one, use
+the formulae above in a frame in which they are valid, and you will find
+that B is in fact younger, despite her expectations. 
+
+	It is sometimes claimed that one has to resort to General
+Relativity in order to "resolve" the Twin "Paradox". This is not true. In
+flat, or nearly flat space-time (no strong gravity), SR is completely
+sufficient, and it has also no problem with world lines corresponding to
+accelerated motion. 
+
+References: 
+        Taylor and Wheeler, _Spacetime Physics_  (An *excellent* discussion)
+        Goldstein, _Classical Mechanics_, 2nd edition, Chap.7 (for a good 
+        general discussion of Lorentz transformations and other SR basics.) 
+
+********************************************************************************
+Item 8. Special Relativistic Paradoxes - part (c) 
+
+The Superluminal Scissors                              updated 31-MAR-1993 
+-------------------------                        
+
+	A Gedankenexperiment:
+
+	Imagine a huge pair of scissors, with blades one light-year long.
+The handle is only about two feet long, creating a huge lever arm,
+initially open by a few degrees.  Then you suddenly close the scissors. 
+This action takes about a tenth of a second.  Doesn't the contact point
+where the two blades touch move down the blades *much* faster than the
+speed of light? After all, the scissors close in a tenth of a second, but
+the blades are a light-year long.  That seems to mean that the contact
+point has moved down the blades at the remarkable speed of 10 light-years
+per second.  This is more than 10^8 times the speed of light!  But this
+seems to violate the most important rule of Special Relativity - no signal
+can travel faster than the speed of light.  What's going on here? 
+
+	Explanation:
+
+	We have mistakenly assumed that the scissors do in fact close when
+you close the handle.  But, in fact, according to Special Relativity, this
+is not at all what happens.  What *does* happen is that the blades of the
+scissors flex.  No matter what material you use for the scissors, SR sets a
+theoretical upper limit to the rigidity of the material.  In short, when
+you close the scissors, they bend. 
+
+	The point at which the blades bend propagates down the blade at
+some speed less than the speed of light.  On the near side of this point,
+the scissors are closed.  On the far side of this point, the scissors
+remain open.  You have, in fact, sent a kind of wave down the scissors,
+carrying the information that the scissors have been closed.  But this wave
+does not travel faster than the speed of light.  It will take at least one
+year for the tips of the blades, at the far end of the scissors, to feel
+any force whatsoever, and, ultimately, to come together to completely close
+the scissors. 
+
+	As a practical matter, this theoretical upper limit to the rigidity
+of the metal in the scissors is *far* higher than the rigidity of any real
+material, so it would, in practice, take much much longer to close a real
+pair of metal scissors with blades as long as these. 
+
+	One can analyze this problem microscopically as well.  The
+electromagnetic force which binds the atoms of the scissors together
+propagates at the speeds of light. So if you displace some set of atoms in
+the scissor (such as the entire handles), the force will not propagate down
+the scissor instantaneously, This means that a scissor this big *must*
+cease to act as a rigid body. You can move parts of it without other parts
+moving at the same time. It takes some finite time for the changing forces
+on the scissor to propagate from atom to atom, letting the far tip of the
+blades "know" that the scissors have been closed. 
+
+	Caveat:
+
+	The contact point where the two blades meet is not a physical
+object.  So there is no fundamental reason why it could not move faster
+than the speed of light, provided that you arrange your experiment correctly.
+In fact it can be done with scissors provided that your scissors are short
+enough and wide open to start, very different conditions than those spelled
+out in the gedankenexperiment above.  In this case it will take you quite
+a while to bring the blades together - more than enough time for light to
+travel to the tips of the scissors.  When the blades finally come together,
+if they have the right shape, the contact point can indeed move faster
+than light.  
+
+	Think about the simpler case of two rulers pinned together at an 
+edge point at the ends.  Slam the two rulers together and the contact point
+will move infinitely fast to the far end of the rulers at the instant
+they touch.  So long as the rulers are short enough that contact does not
+happen until the signal propagates to the far ends of the rulers, the 
+rulers will indeed be straight when they meet.  Only if the rulers are
+too long will they be bent like our very long scissors, above, when they
+touch.  The contact point can move faster than the speed of light, but
+the energy (or signal) of the closing force can not.
+
+	An analogy, equivalent in terms of information content, is, say, a 
+line of strobe lights.  You want to light them up one at a time, so that 
+the `bright' spot travels faster than light.  To do so, you can send a 
+_luminal_ signal down the line, telling each strobe light to wait a 
+little while before flashing.  If you decrease the wait time with
+each successive strobe light, the apparent bright spot will travel faster
+than light, since the strobes on the end didn't wait as long after getting
+the go-ahead, as did the ones at the beginning.  But the bright spot
+can't pass the original signal, because then the strobe lights wouldn't
+know to flash.
+
+********************************************************************************
+Item 9.
+
+The Particle Zoo                                updated 9-OCT-1992 by SIC
+----------------                                original by Matt Austern
+
+	If you look in the Particle Data Book, you will find more than 150
+particles listed there.  It isn't quite as bad as that, though... 
+
+	The particles are in three categories: leptons, mesons, and
+baryons. Leptons are particle that are like the electron: they are
+spin-1/2, and they do not undergo the strong interaction.  There are three
+charged leptons, the electron, muon, and tau, and three neutral leptons, or
+neutrinos.  (The muon and the tau are both short-lived.) 
+
+	Mesons and baryons both undergo strong interactions.  The
+difference is that mesons have integral spin (0, 1,...), while baryons have
+half-integral spin (1/2, 3/2,...).  The most familiar baryons are the
+proton and the neutron; all others are short-lived.  The most familiar
+meson is the pion; its lifetime is 26 nanoseconds, and all other mesons
+decay even faster. 
+
+	Most of those 150+ particles are mesons and baryons, or,
+collectively, hadrons.  The situation was enormously simplified in the
+1960s by the "quark model," which says that hadrons are made out of
+spin-1/2 particles called quarks.  A meson, in this model, is made out of a
+quark and an anti-quark, and a baryon is made out of three quarks.  We
+don't see free quarks (they are bound together too tightly), but only
+hadrons; nevertheless, the evidence for quarks is compelling. Quark masses 
+are not very well defined, since they are not free particles, but we can 
+give estimates.  The masses below are in GeV; the first is current mass 
+and the second constituent mass (which includes some of the effects of the 
+binding energy):
+
+      Generation:       1             2            3
+      U-like:     u=.006/.311   c=1.50/1.65   t=91-200/91-200
+      D-like:     d=.010/.315   s=.200/.500   b=5.10/5.10
+
+	In the quark model, there are only 12 elementary particles, which
+appear in three "generations."  The first generation consists of the up
+quark, the down quark, the electron, and the electron neutrino. (Each of
+these also has an associated antiparticle.)  These particles make up all of
+the ordinary matter we see around us.  There are two other generations,
+which are essentially the same, but with heavier particles.  The second
+consists of the charm quark, the strange quark, the muon, and the muon
+neutrino; and the third consists of the top quark, the bottom quark, the
+tau, and the tau neutrino.  (The top has not been directly observed; see
+the "Top Quark" FAQ entry for details.)  These three generations are 
+sometimes called the "electron family", the "muon family", and the "tau 
+family." 
+
+	Finally, according to quantum field theory, particles interact by
+exchanging "gauge bosons," which are also particles.  The most familiar on
+is the photon, which is responsible for electromagnetic interactions. 
+There are also eight gluons, which are responsible for strong interactions,
+and the W+, W-, and Z, which are responsible for weak interactions. 
+
+The picture, then, is this:
+
+                FUNDAMENTAL PARTICLES OF MATTER
+  Charge        -------------------------
+    -1          |  e    |  mu   |  tau  |
+     0          | nu(e) |nu(mu) |nu(tau)|
+                -------------------------       + antiparticles
+   -1/3         | down  |strange|bottom |
+    2/3         |  up   | charm |  top  |
+                -------------------------
+
+                        GAUGE BOSONS
+  Charge                                                Force
+     0                  photon                          electromagnetism
+     0                  gluons (8 of them)              strong force
+    +-1                 W+ and W-                       weak force
+     0                  Z                               weak force
+
+	The Standard Model of particle physics also predict the
+existence of a "Higgs boson," which has to do with breaking a symmetry
+involving these forces, and which is responsible for the masses of all the
+other particles.  It has not yet been found.  More complicated theories
+predict additional particles, including, for example, gauginos and sleptons
+and squarks (from supersymmetry), W' and Z' (additional weak bosons), X and
+Y bosons (from GUT theories), Majorons, familons, axions, paraleptons,
+ortholeptons, technipions (from technicolor models), B' (hadrons with
+fourth generation quarks), magnetic monopoles, e* (excited leptons), etc. 
+None of these "exotica" have yet been seen.  The search is on! 
+
+REFERENCES:
+
+	The best reference for information on which particles exist, their
+masses, etc., is the Particle Data Book.  It is published every two years;
+the most recent edition is Physical Review D Vol.45 No.11 (1992). 
+
+	There are several good books that discuss particle physics on a
+level accessible to anyone who knows a bit of quantum mechanics.  One is
+_Introduction to High Energy Physics_, by Perkins.  Another, which takes a
+more historical approach and includes many original papers, is
+_Experimental Foundations of Particle Physics_, by Cahn and Goldhaber. 
+
+	For a book that is accessible to non-physicists, you could try _The
+Particle Explosion_ by Close, Sutton, and Marten.  This book has fantastic
+photography. 
+
+********************************************************************************
+Item 10.
+
+Olbers' Paradox                                updated: 24-JAN-1993 by SIC
+---------------
+
+	Why isn't the night sky as uniformly bright as the surface of the
+Sun? If the Universe has infinitely many stars, then it should be.  After
+all, if you move the Sun twice as far away from us, we will intercept
+one-fourth as many  photons, but the Sun will subtend one-fourth of the
+angular area.  So the areal intensity remains constant.  With infinitely
+many stars, every angular element of the sky should have a star, and the
+entire heavens should be a bright as the sun.  We should have the
+impression that we live in the center of a hollow black body whose
+temperature is about 6000 degrees Centigrade.   This is Olbers' paradox.  
+It can be traced as far back as Kepler in 1610.  It was rediscussed by 
+Halley and Cheseaux in the eighteen century, but was not popularized as 
+a paradox until Olbers took up the issue in the nineteenth century.
+
+	There are many possible explanations which have been considered. 
+Here are a few: 
+        (1) There's too much dust to see the distant stars.
+        (2) The Universe has only a finite number of stars.
+        (3) The distribution of stars is not uniform.  So, for example,
+            there could be an infinity of stars, but they hide behind one
+            another so that only a finite angular area is subtended by them. 
+        (4) The Universe is expanding, so distant stars are red-shifted into
+            obscurity.
+        (5) The Universe is young.  Distant light hasn't even reached us yet.
+
+	The first explanation is just plain wrong.  In a black body, the
+dust will  heat up too.  It does act like a radiation shield, exponentially
+damping the  distant starlight.  But you can't put enough dust into the
+universe to get rid of enough starlight without also obscuring our own Sun.
+So this idea is bad. 
+
+	The premise of the second explanation may technically be correct.
+But the number of stars, finite as it might be, is still large enough to 
+light up the entire sky, i.e., the total amount of luminous matter  in the 
+Universe is too large to allow this escape.  The number of stars is close 
+enough to infinite for the purpose of lighting up the sky.  The third 
+explanation might be partially correct.  We just don't know.  If the stars 
+are distributed fractally, then there could be large patches of empty space, 
+and the sky could appear dark except in small areas. 
+
+	But the final two possibilities are are surely each correct and
+partly responsible.  There are numerical arguments that suggest that the
+effect of the finite age of the Universe is the larger effect.  We live
+inside a spherical shell of "Observable Universe" which has radius equal to
+the lifetime of the Universe.  Objects more than about 15 billions years
+old are too far away for their light ever to reach us. 
+
+	Historically, after Hubble discovered that the Universe was
+expanding, but before the Big Bang was firmly established by the discovery
+of the cosmic background radiation, Olbers' paradox was presented as proof
+of special relativity.  You needed the red-shift (an SR effect) to get rid
+of the starlight.  This effect certainly contributes.  But the finite age
+of the Universe is the most important effect. 
+
+References:  Ap. J. _367_, 399 (1991). The author, Paul Wesson, is said to
+be on a personal crusade to end the confusion surrounding Olbers' paradox. 
+
+_Darkness at Night: A Riddle of the Universe_, Edward Harrison, Harvard
+University Press, 1987
+
+********************************************************************************
+Item 11.
+
+What is Dark Matter?                            updated 11-MAY-1993 by SIC
+--------------------
+
+	The story of dark matter is best divided into two parts.  First we
+have the reasons that we know that it exists.  Second is the collection of
+possible explanations as to what it is. 
+
+Why the Universe Needs Dark Matter
+----------------------------------
+
+	We believe that that the Universe is critically balanced between
+being open and closed.  We derive this fact from the observation of the
+large scale structure of the Universe.  It requires a certain amount of
+matter to accomplish this result.  Call it M. 
+
+	We can estimate the total BARYONIC matter of the universe by
+studying Big Bang nucleosynthesis.  This is done by connecting the observed
+He/H ratio of the Universe today to the amount of baryonic matter present
+during the early hot phase when most of the helium was produced.  Once the 
+temperature of the Universe dropped below the neutron-proton mass difference, 
+neutrons began decaying into protons.  If the early baryon density was low, 
+then it was hard for a proton to find a neutron with which to make helium 
+before too many of the neutrons decayed away to account for the amount of 
+helium we see today.  So by measuring the He/H ratio today, we can estimate 
+the necessary baryon density shortly after the Big Bang, and, consequently, 
+the total number of baryons today.  It turns out that you need about 0.05 M 
+total baryonic matter to account for the known ratio of light isotopes.  So 
+only 1/20 of the total mass of they Universe is baryonic matter.
+
+	Unfortunately, the best estimates of the total mass of everything
+that we can see with our telescopes is roughly 0.01 M.  Where is the other
+99% of the stuff of the Universe?  Dark Matter!
+
+	So there are two conclusions.  We only see 0.01 M out of 0.05 M 
+baryonic matter in the Universe.  The rest must be in baryonic dark matter
+halos surrounding galaxies.  And there must be some non-baryonic dark matter 
+to account for the remaining 95% of the matter required to give omega, the 
+mass of universe, in units of critical mass, equal to unity. 
+
+	For those who distrust the conventional Big Bang models, and don't
+want to rely upon fancy cosmology to derive the presence of dark matter,
+there are other more direct means.   It has been observed in clusters of
+galaxies that the motion of galaxies within a cluster suggests that they
+are bound by a total gravitational force due to about 5-10 times as much
+matter as can be accounted for from luminous matter in said galaxies.  And 
+within an individual galaxy, you can measure the rate of rotation of the
+stars about the galactic center of rotation.  The resultant "rotation
+curve" is simply related to the distribution of matter in the galaxy.  The
+outer stars in galaxies seem to rotate too fast for the amount of matter
+that we see in the galaxy.  Again, we need about 5 times more matter than
+we can see via electromagnetic radiation.  These results can be explained
+by assuming that there is a "dark matter halo" surrounding every galaxy. 
+
+What is Dark Matter
+-------------------
+
+	This is the open question.  There are many possibilities, and
+nobody really knows much about this yet.  Here are a few of the many
+published suggestions, which are being currently hunted for by
+experimentalists all over the world.  Remember, you need at least one
+baryonic candidate and one non-baryonic candidate to make everything
+work out, so there there may be more than one correct choice among 
+the possibilities given here. 
+
+(1) Normal matter which has so far eluded our gaze, such as 
+        (a) dark galaxies
+        (b) brown dwarfs
+        (c) planetary material (rock, dust, etc.)
+
+(2) Massive Standard Model neutrinos.  If any of the neutrinos are massive,
+then this could be the missing mass.  On the other hand, if they are 
+too heavy, like the purported 17 KeV neutrino would have been, massive
+neutrinos create almost as many problems as they solve in this regard. 
+
+(3) Exotica (See the "Particle Zoo" FAQ entry for some details)
+
+	Massive exotica would provide the missing mass.  For our purposes, 
+these fall into two classes: those which have been proposed for other
+reasons but happen to solve the dark matter problem, and those which have
+been proposed specifically to provide the missing dark matter. 
+
+	Examples of objects in the first class are axions, additional
+neutrinos, supersymmetric particles, and a host of others. Their properties
+are constrained by the theory which predicts them, but by virtue of their
+mass, they solve the dark matter problem if they exist in the correct
+abundance. 
+
+	Particles in the second class are generally classed in loose groups. 
+Their properties are not specified, but they are merely required to be
+massive and have other properties such that they would so far have eluded
+discovery in the many experiments which have looked for new particles. 
+These include WIMPS (Weakly Interacting Massive Particles), CHAMPS, and a
+host of others. 
+
+References:  _Dark Matter in the Universe_ (Jerusalem Winter School for
+Theoretical Physics, 1986-7), J.N. Bahcall, T. Piran, & S. Weinberg editors.
+_Dark Matter_ (Proceedings of the XXIIIrd Recontre de Moriond) J. Audouze and 
+J. Tran Thanh Van. editors.
+
+********************************************************************************
+Item 12.
+
+Hot Water Freezes Faster than Cold!             updated 11-May-1992 by SIC
+-----------------------------------             original by Richard M. Mathews
+
+	You put two pails of water outside on a freezing day.  One has hot
+water (95 degrees C) and the other has an equal amount of colder water (50
+degrees C).  Which freezes first?  The hot water freezes first!  Why?  
+
+	It is commonly argued that the hot water will take some time to
+reach the initial temperature of the cold water, and then follow the same
+cooling curve.  So it seems at first glance difficult to believe that the
+hot water freezes first.  The answer lies mostly in evaporation. The effect
+is definitely real and can be duplicated in your own kitchen. 
+
+	Every "proof" that hot water can't freeze faster assumes that the
+state of the water can be described by a single number.  Remember that
+temperature is a function of position.  There are also other factors
+besides temperature, such as motion of the water, gas content, etc. With
+these multiple parameters, any argument based on the hot water having to
+pass through the initial state of the cold water before reaching the
+freezing point will fall apart.  The most important factor is evaporation.
+
+	The cooling of pails without lids is partly Newtonian and partly by
+evaporation of the contents.  The proportions depend on the walls and on
+temperature.  At sufficiently high temperatures evaporation is more
+important.  If equal masses of water are taken at two starting
+temperatures, more rapid evaporation from the hotter one may diminish its
+mass enough to compensate for the greater temperature range it must cover
+to reach freezing.  The mass lost when cooling is by evaporation is not
+negligible. In one experiment, water cooling from 100C lost 16% of its mass
+by 0C, and lost a further 12% on freezing, for a total loss of 26%. 
+
+	The cooling effect of evaporation is twofold.  First, mass is
+carried off so that less needs to be cooled from then on.  Also,
+evaporation carries off the hottest molecules, lowering considerably the
+average kinetic energy of the molecules remaining. This is why "blowing on
+your soup" cools it.  It encourages evaporation by removing the water vapor
+above the soup. 
+
+	Thus experiment and theory agree that hot water freezes faster than
+cold for sufficiently high starting temperatures, if the cooling is by
+evaporation.  Cooling in a wooden pail or barrel is mostly by evaporation. 
+In fact, a wooden bucket of water starting at 100C would finish freezing in
+90% of the time taken by an equal volume starting at room temperature. The
+folklore on this matter may well have started a century or more ago when
+wooden pails were usual.  Considerable heat is transferred through the
+sides of metal pails, and evaporation no longer dominates the cooling, so
+the belief is unlikely to have started from correct observations after
+metal pails became common. 
+
+References: 
+       "Hot water freezes faster than cold water.  Why does it do so?",
+        Jearl Walker in The Amateur Scientist, Scientific American,
+        Vol. 237, No. 3, pp 246-257; September, 1977.
+
+       "The Freezing of Hot and Cold Water", G.S. Kell in American
+        Journal of Physics, Vol. 37, No. 5, pp 564-565; May, 1969.
+
+********************************************************************************
+Item 13.
+
+Why are Golf Balls Dimpled?                     updated 17-NOV-1993 by CDF
+---------------------------                     original by Craig DeForest
+
+	The dimples, paradoxically, *do* increase drag slightly.  But they 
+also increase `Magnus lift', that peculiar lifting force experienced by 
+rotating bodies travelling through a medium.  Contrary to Freshman physics, 
+golf balls do not travel in inverted parabolas.  They follow an 'impetus 
+trajectory':
+
+                                    *    *       
+                              *             *
+(golfer)                *                    *
+                  *                          * <-- trajectory
+ \O/        *                                *
+  |   *                                      *
+-/ \-T---------------------------------------------------------------ground
+
+	This is because of the combination of drag (which reduces
+horizontal speed late in the trajectory) and Magnus lift, which supports
+the ball during the initial part of the trajectory, making it relatively
+straight.  The trajectory can even curve upwards at first, depending on
+conditions!  Here is a cheesy diagram of a golf ball in flight, with some
+relevant vectors: 
+
+                             F(magnus)
+                             ^
+                             |
+                F(drag) <--- O -------> V 
+                          \     
+                           \----> (sense of rotation)
+
+	The Magnus force can be thought of as due to the relative drag on
+the air on the top and bottom portions of the golf ball: the top portion is
+moving slower relative to the air around it, so there is less drag on the
+air that goes over the ball.  The boundary layer is relatively thin, and
+air in the not-too-near region moves rapidly relative to the ball.  The
+bottom portion moves fast relative to the air around it; there is more drag
+on the air passing by the bottom, and the boundary (turbulent) layer is
+relatively thick; air in the not-too-near region moves more slowly relative
+to the ball. The Bernoulli force produces lift. (alternatively, one could
+say that `the flow lines past the ball are displaced down, so the ball is
+pushed up.') 
+
+	The difficulty comes near the transition region between laminar
+flow and turbulent flow.  At low speeds, the flow around the ball is
+laminar.  As speed is increased, the bottom part tends to go turbulent
+*first*.  But turbulent flow can follow a surface much more easily than
+laminar flow. 
+
+	As a result, the (laminar) flow lines around the top break away
+from the surface sooner than otherwise, and there is a net displacement
+*up* of the flow lines.  The magnus lift goes *negative*. 
+
+	The dimples aid the rapid formation of a turbulent boundary layer
+around the golf ball in flight, giving more lift.  Without 'em, the ball
+would travel in more of a parabolic trajectory, hitting the ground sooner.
+(and not coming straight down.) 
+
+References: 
+
+Lord Rayleigh, "On the Irregular Flight of a Tennis Ball", _Scientific 
+Papers I_, p. 344
+
+Briggs Lyman J., "Effect of Spin and Speed on the Lateral Deflection of 
+a Baseball; and the Magnus Effect for Smooth Spheres", Am. J. Phys. _27_, 
+589 (1959). [Briggs was trying to explain the mechanism behind the `curve 
+ball' in baseball, using specialized apparatus in a wind tunnel at the NBS.  
+He stumbled on the reverse effect by accident, because his model `baseball'
+had no stitches on it. The stitches on a baseball create turbulence in
+flight in much the same way that the dimples on a golf ball do.] 
+
+R. Watts and R. Ferver, "The Lateral Force on a Spinning Sphere" Aerodynamics
+of a Curveball", Am. J. Phys. _55_, 40 (1986)
+
+********************************************************************************
+Item 14.
+                                                updated 9-DEC-1993 by SIC
+                                                Original by Bill Johnson
+How to Change Nuclear Decay Rates
+---------------------------------
+
+"I've had this idea for making radioactive nuclei decay faster/slower than
+they normally do.  You do [this, that, and the other thing].  Will this work?" 
+
+Short Answer: Possibly, but probably not usefully.
+
+Long Answer:
+
+	"One of the paradigms of nuclear science since the very early days
+of its study has been the general understanding that the half-life, or
+decay constant, of a radioactive substance is independent of extranuclear
+considerations."  (Emery, cited below.)  Like all paradigms, this one is
+subject to some interpretation. Normal decay of radioactive stuff proceeds
+via one of four mechanisms: 
+
+	* Emission of an alpha particle -- a helium-4 nucleus -- reducing
+	the number of protons and neutrons present in the parent nucleus 
+	by two each; 
+	* "Beta decay," encompassing several related phenomena in which a
+	neutron in the nucleus turns into a proton, or a proton turns into 
+	a neutron -- along with some other things including emission of 
+	a neutrino.  The "other things", as we shall see, are at the bottom
+	of several questions involving perturbation of decay rates; 
+	* Emission of one or more gamma rays -- energetic photons -- that
+	take a nucleus from an excited state to some other (typically
+	ground) state; some of these photons may be replaced by 
+	"conversion electrons," of which more shortly; or 
+	*Spontaneous fission, in which a sufficiently heavy nucleus simply
+	breaks in half.  Most of the discussion about alpha particles will
+	also apply to spontaneous fission.
+
+Gamma emission often occurs from the daughter of one of the other decay
+modes.  We neglect *very* exotic processes like C-14 emission or double
+beta decay in this analysis. 
+
+	"Beta decay" refers most often to a nucleus with a neutron excess,
+which decays by converting a neutron into a proton:
+
+         n ----> p + e- + anti-nu(e),
+
+where n means neutron, p means proton, e- means electron, and anti-nu(e) 
+means an antineutrino of the electron type.  The type of beta decay which
+involves destruction of a proton is not familiar to many people, so
+deserves a little elaboration.  Either of two processes may occur when this
+kind of decay happens: 
+
+        p ----> n + e+ + nu(e), 
+
+where e+ means positron and nu(e) means electron neutrino; or
+
+        p + e- ----> n + nu(e),
+
+where e- means a negatively charged electron, which is captured from the
+neighborhood of the nucleus undergoing decay.  These processes are called
+"positron emission" and "electron capture," respectively.  A given nucleus
+which has too many protons for stability may undergo beta decay through
+either, and typically both, of these reactions. 
+
+	"Conversion electrons" are produced by the process of "internal
+conversion," whereby the photon that would normally be emitted in gamma
+decay is *virtual* and its energy is absorbed by an atomic electron.  The
+absorbed energy is sufficient to unbind the electron from the nucleus
+(ignoring a few exceptional cases), and it is ejected from the atom as a
+result. 
+
+	Now for the tie-in to decay rates.  Both the electron-capture and
+internal conversion phenomena require an electron somewhere close to the
+decaying nucleus.  In any normal atom, this requirement is satisfied in
+spades: the innermost electrons are in states such that their probability
+of being close to the nucleus is both large and insensitive to things in
+the environment.  The decay rate depends on the electronic wavefunctions,
+i.e, how much of their time the inner electrons spend very near the 
+nucleus -- but only very weakly. For most nuclides that decay by electron 
+capture or internal conversion, most of the time, the probability of 
+grabbing or converting an electron is also insensitive to the environment, 
+as the innermost electrons are the ones most likely to get grabbed/converted. 
+
+	However, there are exceptions, the most notable being the
+the astrophysically important isotope beryllium-7.  Be-7 decays purely
+by electron capture (positron emission being impossible because of
+inadequate decay energy) with a half-life of somewhat over 50 days.  It has
+been shown that differences in chemical environment result in half-life
+variations of the order of 0.2%, and high pressures produce somewhat
+similar changes. Other cases where known changes in decay rate occur are
+Zr-89 and Sr-85, also electron capturers; Tc-99m ("m" implying an excited
+state), which decays by both beta and gamma emission; and various other
+"metastable" things that decay by gamma emission with internal conversion. 
+With all of these other cases the magnitude of the effect is less than is
+typically the case with Be-7. 
+
+	What makes these cases special?  The answer is that one or another
+of the usual starting assumptions -- insensitivity of electron wave
+function near the nucleus to external forces, or availability of the
+innermost electrons for capture/conversion -- are not completely valid. 
+Atomic beryllium only has 4 electrons to begin with, so that the "innermost
+electrons" are also practically the *outermost* ones and therefore much
+more sensitive to chemical effects than usual.  With most of the other
+cases, there is so little energy available from the decay (as little as a
+few electron volts; compare most radioactive decays, where hundreds or
+thousands of *kilo*volts are released), courtesy of accidents of nuclear
+structure, that the innermost electrons can't undergo internal conversion. 
+Remember that converting an electron requires dumping enough energy into it
+to expel it from the atom (more or less); "enough energy," in context, is
+typically some tens of keV, so they don't get converted at all in these
+cases.  Conversion therefore works only on some of the outer electrons,
+which again are more sensitive to the environment. 
+
+	A real anomaly is the beta emitter Re-187.  Its decay energy is
+only about 2.6 keV, practically nothing by nuclear standards.  "That this
+decay occurs at all is an example of the effects of the atomic environment
+on nuclear decay: the bare nucleus Re-187 [i.e., stripped of all orbital
+electrons -- MWJ] is stable against beta decay [but not to bound state
+beta decay, in which the outgoing electron is captured by the daughter
+nucleus into a tightly bound orbital -SIC] and it is the difference of
+15 keV in the total electronic binding energy of osmium [to which it decays
+-- MWJ] and rhenium ... which makes the decay possible" (Emery).  The
+practical significance of this little peculiarity, of course, is low, as
+Re-187 already has a half life of over 10^10 years.   
+
+	Alpha decay and spontaneous fission might also be affected by
+changes in the electron density near the nucleus, for a different reason. 
+These processes occur as a result of penetration of the "Coulomb barrier"
+that inhibits emission of charged particles from the nucleus, and their
+rate is *very* sensitive to the height of the barrier.  Changes in the
+electron density could, in principle, affect the barrier by some tiny
+amount.  However, the magnitude of the effect is *very* small, according to
+theoretical calculations; for a few alpha emitters, the change has been
+estimated to be of the order of 1 part in 10^7 (!) or less, which would be
+unmeasurable in view of the fact that the alpha emitters' half lives aren't
+known to that degree of accuracy to begin with. 
+
+	All told, the existence of changes in radioactive decay rates due
+to the environment of the decaying nuclei is on solid grounds both
+experimentally and theoretically.  But the magnitude of the changes is
+nothing to get very excited about. 
+
+Reference: The best review article on this subject is now 20 years old: G.
+T. Emery, "Perturbation of Nuclear Decay Rates," Annual Review of Nuclear
+Science vol. 22, p. 165 (1972).  Papers describing specific experiments are
+cited in that article, which contains considerable arcane math but also
+gives a reasonable qualitative "feel" for what is involved. 
+
+********************************************************************************
+Item 15.
+						original by Blair P. Houghton
+						(blair@world.std.com)
+
+What is a Dippy Bird, and how is it used?
+-----------------------------------------
+
+The Anatomy and Habits of a Dippy Bird:
+
+1.  The armature:  The body of the bird is a straight tube attached to two
+bulbs, approximately the same size, one at either end.  The tube flows into
+the upper bulb, like the neck of a funnel, and extends almost to the bottom
+of the lower bulb, like the straw in a soda. 
+
+2.  The pivot:  At about the middle of the tube is clamped a transverse
+bar, which allows the apparatus to pivot on a stand (the legs).  The bar is
+bent very slightly concave dorsally, to unbalance the bird in the forward
+direction (thus discouraging dips to the rear).  The ends of the pivot have
+downward protrusions, which hit stops on the stand placed so that the bird
+is free to rock when in a vertical position, but can not quite rotate
+enough to be horizontal during a dip. 
+
+3.  The wick:  The upper bulb is coated in fuzzy material, and has extended
+from it a beak, made of or covered in the same material. 
+
+4.  The tail.  The tail has no significant external features, except that
+it should not be insulated (skin-oil deposited on the bird's glass parts
+from handling will insulate it and can affect its operation). 
+
+5.  The guts:  The bird is partially filled with a somewhat carefully
+measured amount of a fluid with suitable lack of viscosity and density and
+a low latent heat of evaporation (small d(energy)/d(mass), ld).  For water,
+ld is 2250 kJ/kg; for methylene chloride, ld is 406; for mercury, ld is a
+wondrous 281; ethyl alcohol has an ld of 880, more than twice that of MC.
+Boiling point is not important, here; evaporation and condensation take
+place on the surface of a liquid at any temperature.
+
+6.  The frills:  Any hats, eyes, feathers, or liquid coloring have been
+added purely for entertainment value. (An anecdote:  as it stood pumping in
+the Arizona sun on my kitchen windowsill for several days, the rich,
+Kool-Aid red of my bird's motorwater faded to a pale peach.  I have since
+retired him to the mantelpiece in the family room). 
+
+7.  Shreddin':  The bird is operated by getting the head wet, taking care
+not to make it so wet that it drips down the tube.  (Water on the bottom
+bulb will reverse the thermodynamic processes.)  The first cycle will
+take somewhat longer than the following cycles.  If you can keep water
+where the bird can dip it, the bird will dip for as long as the ambient
+humidity remains favorable.
+
+
+Come on, how does it really work?
+---------------------------------
+
+Short answer:  Thermodynamics plus Mechanics.
+
+Medium answer (and essential clues):  Evaporative cooling on the outside;
+pV=nRT, evaporation/condensation, and gravity on the inside.
+
+Long answer:
+
+	Initially the system is at equilibrium, with T equal in both
+chambers and pV/n in each compensating for the fluid levels.  Evaporation
+of water outside the head draws heat from inside it; the vapor inside
+condenses, reducing pV/RT.  This imbalances the pressures, so the vapor in
+the abdomen pushes down, which pushes fluid up the thorax, which reduces V
+in the head.  Since p is decreasing in the abdomen, evaporation occurs,
+increasing n, and drawing heat from outside the body. 
+
+	The rising fluid raises the CM above the pivot point; the hips are
+slightly concave dorsally, so the bird dips forward.  Tabs on the legs and
+the pivot maintain the angle at full dip, for drainage.  The amount of
+fluid is set so that at full dip the lower end of the tube is exposed to
+the vapor.  (The tube reaches almost to the bottom of the abdomen, like a
+straw in a soda, but flows into the head like the neck of a funnel.)  A
+bubble of vapor rises in the tube and fluid drains into the abdomen. 
+
+	The rising bubble transfers heat to the head and the falling fluid
+releases gravitational potential energy as heat into the rising bubble and
+the abdomen.  The CM drops below the pivot point and the bird bobs up.  The
+system is thus reset; it's not quite at equilibrium, but is close enough
+that the process can repeat this chain of events. 
+
+	The beak acts as a wick, if allowed to dip into a reservoir of
+water, to keep the head wet, although it is not necessary for the bird to
+drink on every dip. 
+
+
+Is that all there is to know about dippy birds?
+-----------------------------------------------
+
+	Of course not.  Research continues to unravel these unanswered
+questions about the amazing dippy-bird:
+
+1.  All of the energy gained by the rising fluid is returned to the system
+when the fluid drops; where does this energy go, in what proportions, and
+how does this affect the rate at which the bird operates? 
+
+2.  The heat that evaporates the water comes from both the surrounding air
+and the inside of the head; but, in what proportion?
+
+3.  Exactly what should the fluid be?  Methylene Chloride is an excellent
+candidate, since it's listed in the documentation for recent birds sold by
+Edmund Scientific Corp. (trade named Happy Drinking Bird), and because its
+latent heat of evaporation (ld) is 406 kJ/kg, compared to 2250 kJ/kg for
+water (a 5.5:1 ratio of condensed MC to evaporated water, if all
+water-evaporating heat comes from inside the bird).  Ethanol, at 880 kJ/kG,
+is only half as efficient.  Mercury would likewise be a good prospective
+choice, having an ld of 281 kJ/kG (8:1!), but is expensive and dangerous,
+and its density would require careful redesign and greater quality control
+in the abdomen and pivot-stops to ensure proper operation at full dip; this
+does, however, indicate that the apparatus could be made in miniature,
+filled with mercury, and sold through a catalog-store such as The Sharper
+Image as a wildly successful yuppie desk-toy (Consider the submission of
+this FAQ entry to be prior art for patent purposes). 
+
+4.  Does ambient temperature have an effect on operation aside from the
+increase in rate of evaporation of water? I.e., if the temperature and
+humidity can be controlled independently such that the rate of evaporation
+can be kept constant, what effect does such a change in ambient temperature
+and humidity have on the operation of the bird? Is the response transient,
+permanent, or composed of both? 
+
+
+Dippy Bird Tips:
+----------------
+
+	They have real trouble working at all in humid climates (like
+around the U. of Md., where I owned my first one), but can drive you bats
+in dry climates (aside from the constant hammering, it's hard to keep the
+water up to a level where the bird can get at it...).  The evaporation of
+water from the head depends on the diffusibility of water vapor into the
+atmosphere; high partial pressures of water vapor in the atmosphere
+translate to low rates of evaporation. 
+
+	If you handle your bird, clean the glass with alcohol or Windex
+or Dawn or something; the oil from your hands has a high specific heat,
+which damps the transfer of heat, and a low thermal conductivity, which
+attenuates the transfer of heat. Once it's clean, grasp the bird only by
+the legs or the tube, which are not thermodynamically significant, or
+wear rubber gloves, just like a real EMT.
+
+	The hat is there for show; the dippy bird operates okay with or
+without it, even though it may reduce the area of evaporation slightly. 
+Ditto the feathers and the eyes. 
+
+Bibliography:
+-------------
+
+	Chemical data from Gieck, K., _Engineering Formulas_, 3d. Ed.,
+McGraw-Hill, 1979, as translated by J. Walters, B. Sc.  
+
+	I've also heard that SciAm had an "Amateur Scientist" column on
+this technology a few years ago.  Perhaps someone who understands how a
+library works could look up the yr and vol...
+
+	Kool-Aid is a trademark of some huge corporation that makes its
+money a farthing at a time...
+
+********************************************************************************
+END OF FAQ PART 1/2

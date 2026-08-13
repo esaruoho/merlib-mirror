@@ -1,0 +1,86 @@
+MASSÖKNING
+----------
+
+Rudakov skriver i sin bok, "I den metafysiska
+labyrinten av relativitetsteorin" följande,
+kapitel 16, p161,162 :
+
+Övertygade relativister anser att en av de största 
+framgångarna med Einsteins relativistetsteori är
+de fenomen som vanligtvis refereras till som "mass-
+ökning" och den så kallade "massa-energi ekvivalens
+formeln" vilken också är associerad med massaökning.
+Massökning, som det idag betraktas säger, att den
+totala massan av en rörlig kropp beror på dess
+hastighet och är lika med vilomassan dividerat med
+Lorentzfaktor, dvs mo/L, och där Lorentzfaktorn
+är lika med kvadratroten ur 1-v(2)/c(2). Massa-energi
+ekvivalens formeln säger att den totala energin hos
+en partikel är m.c(2), där m är partikelns totala
+massa och c(2) är kvadraten på ljushastigheten.
+
+Att en elektron i rörelse förefaller öka sin massa när
+den accelereras var experimentellt fastställt före
+det att Einstein skrev sina papper 1905 "On the
+Electrodynamics of Moving Bodies" (numera benämt den
+speciella relativitetsteorin, min anmärkning). Kaufmann
+utförde ett experiment med katodstrålar redan 1901
+och visade därmed att förhållandet mellan elektronens laddning
+och dess massa var föremål för förändring som funktion
+av dess hastighet. Abraham kom till samma slutsats år
+1903. Han gjorde även försök att på teoretisk bas komma
+fram till en förklaring till denna massförändring. Lorentz
+modifierade 1904 Abrahams teori och föreslog att den
+totala massan hos en elektron var vilomassan dividerat med
+Lorentzfaktorn. Sålunda, det är Lorents formel som senare
+kom att bli bekräftad i efterföljande experiment och är
+även den formel som idag partikelfysikerna använder sig
+av.
+
+Att massökning eller den totala massan hos en partikel
+även är ekvivalent med energi i överensstämmelse med
+en formel liknande E=m.c(2), är ett resultat som  även
+var föreslaget av Pointcare', Hasenöhrl och en del
+andra forskare långt före Einstein. Langevin föreslog
+formeln oberoende av Einstein (det antages att formeln
+är riktig, men inga direkta bevis föreligger). Oberoende
+hur det därmed förhåller sig om formelns riktighet, är
+det inte korrekt att påstå att denna formeln har kommit
+fram som ett resultat av relativitetsteorin eller att
+massökning av partiklar skulle varit fastslaget av Einstein
+som ett resultat av hans teori. Ej heller från början
+föreslagits av honom.
+
+Den kinematiska delen hos Einsteins elektrodynamiska teori,
+refererar inte alls till massa-begreppet. Den innehåller
+inga slutsatser om vad massa skulle ha för betydelse i hans
+teori. Emellertid, den elektrodynamiska delen, som oftast
+negligeras av relativisterna, innehåller en del spekulationer
+om långsamt rörliga elektroner och där förekommer några
+referenser till begreppet massa. Betydelsen av dessa
+spekulationer behöver emellertid inte oroa oss. Vi bör
+där observera att Einstein föreslår speciella värden för
+denna massökning, nämligen m/L(3) och m/L(2) och båda
+dessa föreslagna värden avviker starkt ifrån den formel
+som idag användes, nämligen mo/L, mest baserat på experi-
+mentella erfarenheter.
+
+Lite skamset anmärker Einstein att "med en annorlunda
+definition av begreppet kraft, kan vi naturligtvis erhålla
+andra värden på massökningen"...... Alltså, vi bör ta
+Einsteins påståenden med en mycket stor nypa salt. Vad
+som är fullt tydligt är, att Einstein inte har några som
+helst ideer om hur impuls, kraft, energi etc, dvs
+dynamiska storheter, kan transformeras från ett stationärt
+system till ett annat system som rör sig med konstant
+hastighet i relation till det förra, som en funktion av
+längd, tid och de dynamiska kvantiteter som föreslagits
+av honom i den kinematiska delen av hans arbete.
+
+
+Sammanfattningsvis sålunda, fenomenet massökning har bara
+konstaterats i experiment med partiklar i acceleratorer.
+Inte med föremål som rör sig i fri rymd. Därutöver är det
+inte visat att fenomenet har någonting med relativitets-
+teorins förklaringar att göra, snarare tvärt om.
+

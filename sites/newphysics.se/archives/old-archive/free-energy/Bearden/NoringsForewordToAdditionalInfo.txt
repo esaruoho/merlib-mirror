@@ -1,0 +1,115 @@
+Newsgroups: alt.sci.physics.new-theories,sci.electronics,sci.energy,sci.engr,sci.environment,sci.physics.fusion,sci.physics,sci.skeptic
+From: noring@netcom.com (Jon Noring)
+Subject: Tapping the Vacuum Energy -- An Important Paper from Bearden [LONG]
+Message-ID: <noringCM0GnI.FuE@netcom.com>
+Followup-To: alt.sci.physics.new-theories
+Summary: Description of Patent Application.  Bearden may finally have it.
+Organization: Netcom Online Communications Services (408-241-9760 login: guest)
+Date: Wed, 2 Mar 1994 00:14:06 GMT
+Lines: 890
+Xref: columba.udac.uu.se alt.sci.physics.new-theories:283 sci.electronics:2212 sci.energy:666 sci.engr:276 sci.environment:830 sci.physics.fusion:340 sci.physics:2151 sci.skeptic:2181
+
+
+Hello,
+
+I am posting, with Tom Bearden's permission, a new paper (ASCII-text) to
+the newsgroups listed above.  Followup discussion, if any, has been set to
+alt.sci.physics.new-theories.  A nicer-looking Word for Windows (2.0 and 6.0
+versions), and possibly even a Windows 3.1 Help file, both of which would
+include the illustrations, will be made available via anonymous ftp in a few
+days.  Look for it at netcom.com /pub/noring/bearden .
+
+[Sorry, I will NOT mail out any uuencoded files, nor will I snail-mail
+anything.  If you don't have anonymous ftp access, ask a friend to help out
+or sign up with one of the many new inexpensive services such as Netcom (for
+information on Netcom, telnet there and login as 'guest').  Please DO upload
+this file to your local BBS so as to make it more available to our friends
+who don't yet have direct Internet access.]
+
+
+In the past I've posted Tom's work to the Usenet because I find his ideas
+and ways of looking at things to be fascinating even if what he says is
+shown to be totally out to lunch.  Even Dr. Puthoff, who has published
+several provocative papers on aspects of the vacuum energy in respected
+physics journals, enjoys reading Bearden's work because it helps him to break
+out of the "orthodox" mold of viewing things and gets the creative juices
+moving;  of course Dr. Puthoff does not necessarily accept what Bearden has
+to say, but he does take the time to hear him out.  I encourage every
+scientist and engineer who reads this to temporarily put aside any prejudices
+and to see if Tom's quite different view of the universe can help "break out"
+of any bottleneck's of thinking arising from blindly accepting orthodox views
+of "the way things are".
+
+By the way, Dr. Puthoff recently published an interesting paper pointing out,
+according to Bearden (I have not seen the paper yet but am in the process of
+obtaining a copy), that it may be possible to extract useful work from the
+so-called vacuum energy of space which quantum theory says must exist and
+recent experiments confirm does exist.  The reference is:
+
+Daniel C. Cole and Harold E. Puthoff, "Extracting Energy and Heat from the
+Vacuum," _Physical Review E_, 48(2), pp. 1562-1565 (1993).
+
+Some have argued that this vacuum energy, also called a "zero-point-energy",
+cannot be tapped because it is at the "lowest energy", that is, there is no
+potential to it.  However, this argument is not [yet] valid since we really
+don't understand the "cause" and "nature" of the vacuum energy.  For example,
+in prior work, Puthoff has theorized that the source of the vacuum energy is
+due to the radiation of the motion of all the charge carriers of the universe.
+If this is true, then we can consider using the vacuum energy to extract the
+energy of the organized motion of these charge carriers, and NOT to tap the
+vacuum energy itself.  This is *roughly* analogous to solar energy, which is
+essentially a conduit by which we tap the nuclear reactions taking place in
+the sun.  Thus, until we fully know the nature and source of the vacuum
+energy of space, we cannot assume that it is unusable for useful energy
+production.
+
+Bearden believes that he's placed enough information into this paper by which
+an electrical engineer can go out and try to duplicate the effort, and he does
+want others to independently verify or falsify his claims (the Notes and
+References section is quite good and contains the "meat" of his theories).
+Tom is very serious, and *apparently* has demonstrated in the laboratory that
+he can "freely" charge a capacitor using a displacement current from a dipolar
+"antenna" which supposedly is tapping into the vacuum energy.  He's now
+working on an efficient means of switching this charged capacitor to the load,
+which he says is not trivial.
+
+As mentioned below, he and his co-workers (one of which is apparently a
+director of a large high-tech electronics company) have filed a patent with
+the U.S. Patent Office.  They do expect to have the patent application
+rejected by the USPO and in order to get it patented they will have to
+deliver an actual working model that has been independently verified.  They
+are not seeking any investors, nor do they have any, so as to not "taint"
+their effort in the eyes of the technological community.  They have enough
+going against them without charges that they're doing this to fleece some
+unsuspecting investors.
+
+History will be the final arbiter whether this paper will pass the way of
+"poly-water" and possibly of "cold-fusion" (this is cross-posted there since
+some have theorized that the anomalies seen in cold-fusion are due to vacuum
+energy interactions and not to nuclear reactions), or that this will be the
+start of a new era in technology and physics research.
+
+Jon Noring
+
+
+[p.s., truly my "crackpot index (CI)" has reached phenomenally high levels,
+thus proving Noring's Second Theorem that:
+
+As t --> infinity,  CI(JN) --> infinity
+
+where t is time, and JN is yours truly.  :^)   ]
+
+-- 
+
+If you are an INFJ, then join the INFJ mailing list - ask me for more details.
+If you don't know what INFJ means, ask me, and I'll send more info (46Kb file).
+=============================================================================
+| Jon Noring          | noring@netcom.com        | "Fanny Hill" and other   |
+| JKN International   | IP    : 192.100.81.100   | famous literary works in |
+| 1312 Carlton Place  | Phone : (510) 294-8153   | Windows 3.1 Help format  |
+| Livermore, CA 94550 | V-Mail: (510) 417-4101   | are available!  Ask me!  |
+=============================================================================
+       Read alt.psychology.personality!  That's where the action is.
+       Did you know there's a mailing list for 78 RPM record collectors?
+
+
