@@ -1,0 +1,78 @@
+---
+title: "High Voltage Solar Cells"
+source_domain: padrak.com
+source_path: ine/db/sater.html
+order: 201
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# High Voltage Solar Cells
+
+*Source page: `ine/db/sater.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+HIGH VOLTAGE SOLAR CELLS
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          High Voltage Solar Cells
+Device Category:      Solar
+Device Type:          Over-Unity
+Inventor Name:        Sater, Bernard
+Inventor Address:     (FAX 216-546-9786; as of June 5, 1998.)
+Date First Demo:      1990s
+Watts Generated:      4 kW
+Date Last Demo:       unknown
+Watts Generated:      4 kW
+% O/U Claimed:        ?
+% O/U Measured:       ?
+% Weight Loss:         
+Date Witnessed:       1990s
+Witnesses Name:       Doug Wood
+Witness Address:      Box 32, Fox Island, WA 98333,  
+fox@harbornet.com
+
+Date Tested:           
+Tester Name:           
+Tester Address:        
+Researcher Contact:   Doug Wood
+Researcher Address:   Box 32, Fox Island, WA 98333,  
+fox@harbornet.com
+
+Ranking, Interest:    7
+Ranking, Commercial:  9
+References:           Email from Doug Wood to US President, June 7, 1998.
+                      Also:  
+http://www.users.global
+                      net.co.uk/~blootl/trackers/sunflower.htm
+.
+Last Ref. & Date:     Email 1998.
+File Name:            SATER
+Date Last Modified:   7/31/98
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/sater.html
+
+Jul. 31, 1998.

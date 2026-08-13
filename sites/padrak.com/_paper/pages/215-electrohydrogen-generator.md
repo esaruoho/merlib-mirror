@@ -1,0 +1,72 @@
+---
+title: "Electrohydrogen Generator"
+source_domain: padrak.com
+source_path: ine/db/studenn.html
+order: 215
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Electrohydrogen Generator
+
+*Source page: `ine/db/studenn.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+ELECTROHYDROGEN GENERATOR
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          Electrohydrogen Generator
+Device Category:      Hydrogen
+Device Type:          Over Unity
+Inventor Name:        Studennikov, V.V.
+Inventor Address:     Russia, 117574, Moscow, str. Vilniusskaya, 4, apt..
+                      339, ph. (095) 421-13- 87
+Date First Demo:       
+Watts Generated:       
+Date Last Demo:        
+Watts Generated:       
+% O/U Claimed:        8800
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:        
+Witnesses Name:       Kudimov, G.I.
+Witness Address:      Russia, 115580, Moscow, Musa Dzhalil str, 27, apt.
+                      284, ph./fax (095) 396-80-27
+Date Tested:          1999
+Tester Name:           
+Tester Address:        
+Researcher Contact:    
+Researcher Address:    
+Ranking, Interest:    10
+Ranking, Commercial:  7
+References:            
+Last Ref. & Date:     Email; Aug. 1999
+File Name:            STUDENN
+Date Last Modified:   8/23/99
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/studenn.html
+
+Aug. 24, 1999.

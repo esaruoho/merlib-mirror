@@ -1,0 +1,82 @@
+---
+title: "Rotoverter"
+source_domain: padrak.com
+source_path: ine/db/TORRES.html
+order: 92
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Rotoverter
+
+*Source page: `ine/db/TORRES.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+  
+
+    
+ROTOVERTER
+
+    
+Posted: Jul.  7, 2000
+
+  
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          Rotoverter
+Device Catagory:      Motor Generator
+Device Type:          Over-Unity
+Inventor Name:        Torres, Hector D Perez 
+Inventor Address:     163 # E Ramos A, Apt 4, Mayaguez, PR 00680
+Date First Demo:      March 20 1997
+Watts Generated:      777 W
+Date Last Demo:       April 19 1997
+Watts Generated:      787.5 W
+% O/U Claimed:        Yes
+% O/U Measured:       270%
+% Weight Loss:        Not Measured
+Date Witnessed:       April 17 1997
+Witnesses Name:       Arsenio Perez
+Witness Address:      Macro Electric Oriente # 21 Mayaguez Pr 00680
+Date Tested:          April 17 1997
+Tester Name:          Macro Electric Corp
+Tester Address:       Macro Electric Oriente # 21 Mayaguez Pr 00680
+Researcher Contact:   
+arkresearch@hotmail.com
+
+Researcher Address:   
+http://www.angelfire.com/nv/ark
+
+Ranking, Interest:    5
+Ranking, Commercial:  5
+References:           n/a
+Last Ref. & Date:     Jan. 22, 2000
+File Name:            TORRES
+Date Last Modified:   6/28/2000
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/torres.html
+
+Jul.  7, 2000.

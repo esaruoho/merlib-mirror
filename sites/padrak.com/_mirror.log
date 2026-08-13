@@ -195,3 +195,45 @@ Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/padrak.com
 [2026-03-04 16:51:22] ============================================================
 [2026-03-04 16:51:22] 
 Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/padrak.com
+[2026-08-13 09:48:51] ============================================================
+[2026-08-13 09:48:51] LIVE MIRROR: padrak.com
+[2026-08-13 09:48:51] Seed: https://padrak.com/ine
+[2026-08-13 09:48:51] Seed path: /ine
+[2026-08-13 09:48:51] Max link depth: 5
+[2026-08-13 09:48:51] Path filter: '/ine' (links not containing this are dropped)
+[2026-08-13 09:48:51] Output: /Users/esaruoho/work/merlib-mirror/sites/padrak.com
+[2026-08-13 09:48:51] ============================================================
+[2026-08-13 09:48:52] Crawling /ine (download-as-you-go)...
+[2026-08-13 09:48:52]   [1 d0*] https://padrak.com/ine  (1 OK, 0 queued)
+[2026-08-13 09:48:52]     +2 links (523 total known)
+[2026-08-13 09:48:52]   [2 d0*] http://www.padrak.com/ine/ELEWIS6.html  (2 OK, 1 queued)
+[2026-08-13 09:48:52]     +7 links (530 total known)
+[2026-08-13 09:48:53]   [3 d0*] http://www.padrak.com/ine/ELEWIS1.html  (3 OK, 7 queued)
+[2026-08-13 09:48:53]     +1 links (531 total known)
+[2026-08-13 09:48:53]   [4 d0*] http://www.padrak.com/ine/ELEWISP3.JPG  (4 OK, 7 queued)
+[2026-08-13 09:48:54]   [5 d0*] http://www.padrak.com/ine/ELEWIS2.html  (5 OK, 6 queued)
+[2026-08-13 09:48:54]   [6 d0*] http://www.padrak.com/ine/ELEWIS7.html  (6 OK, 5 queued)
+[2026-08-13 09:48:55]   [7 d0*] http://www.padrak.com/ine/ELEWIS4.html  (7 OK, 4 queued)
+[2026-08-13 09:48:56]   [9 d0*] http://www.padrak.com/ine/ELEWIS5.html  (8 OK, 2 queued)
+[2026-08-13 09:48:56]     +1 links (532 total known)
+[2026-08-13 09:48:57]   [10 d0*] http://www.padrak.com/ine/ELEWIS5A.html  (9 OK, 2 queued)
+[2026-08-13 09:48:57]     +1 links (533 total known)
+[2026-08-13 09:49:00] Generating index...
+[2026-08-13 09:49:00] Index: 478 files
+[2026-08-13 09:49:00]   .html: 232
+[2026-08-13 09:49:00]   .txt: 220
+[2026-08-13 09:49:00]   .gif: 14
+[2026-08-13 09:49:00]   .jpg: 7
+[2026-08-13 09:49:00]   (none): 1
+[2026-08-13 09:49:00]   .[2: 1
+[2026-08-13 09:49:00]   .pdf: 1
+[2026-08-13 09:49:00]   . box 58639, salt lake city, ut : 1
+[2026-08-13 09:49:00]   . features : 1
+[2026-08-13 09:49:00] 
+============================================================
+[2026-08-13 09:49:00] LIVE MIRROR COMPLETE
+[2026-08-13 09:49:00] Downloaded: 14, OK: 13, Failed: 1
+[2026-08-13 09:49:00] Total URLs seen: 534
+[2026-08-13 09:49:00] ============================================================
+[2026-08-13 09:49:00] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/padrak.com

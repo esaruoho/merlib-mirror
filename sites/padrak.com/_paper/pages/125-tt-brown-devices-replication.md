@@ -1,0 +1,70 @@
+---
+title: "T.T. Brown Devices Replication"
+source_domain: padrak.com
+source_path: ine/db/deavenp.html
+order: 125
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# T.T. Brown Devices Replication
+
+*Source page: `ine/db/deavenp.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+T.T. BROWN DEVICES REPLICATION
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          T.T. Brown Devices Replication
+Device Category:      Elect. Magnetic
+Device Type:          Over-Unity
+Inventor Name:        Deavenport, Larry
+Inventor Address:      
+Date First Demo:       
+Watts Generated:       
+Date Last Demo:       1953
+Watts Generated:      Speed Classified
+% O/U Claimed:         
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:        
+Witnesses Name:        
+Witness Address:       
+Date Tested:           
+Tester Name:           
+Tester Address:        
+Researcher Contact:    
+Researcher Address:    
+Ranking, Interest:    8
+Ranking, Commercial:  7
+References:           ISNE 1996, pp 107-118.
+Last Ref. & Date:     ISNE 1996.
+File Name:            DEAVENP
+Date Last Modified:   7/23/97
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/deavenp.html
+
+Jul. 31, 1998.

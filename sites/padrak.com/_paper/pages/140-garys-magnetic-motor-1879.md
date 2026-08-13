@@ -1,0 +1,71 @@
+---
+title: "Gary's Magnetic Motor (1879)"
+source_domain: padrak.com
+source_path: ine/db/gary.html
+order: 140
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Gary's Magnetic Motor (1879)
+
+*Source page: `ine/db/gary.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+GARY'S MAGNETIC MOTOR (1879)
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          Gary's Magnetic Motor (1879)
+Device Category:      Rotat. Magnetic
+Device Type:          Magnetic Motor
+Inventor Name:        Gary, Wesley W.
+Inventor Address:     deceased
+Date First Demo:      1878
+Watts Generated:       
+Date Last Demo:        
+Watts Generated:       
+% O/U Claimed:         
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:       1879
+Witnesses Name:       Professors from MIT & Harvard
+Witness Address:      MIT & Harvard
+Date Tested:           
+Tester Name:           
+Tester Address:        
+Researcher Contact:    
+Researcher Address:    
+Ranking, Interest:    8
+Ranking, Commercial:  2
+References:           US Patent 190,206, Harpers New Monthly Mag.
+                      March 1879, pp 601-605.
+Last Ref. & Date:      
+File Name:            GARY
+Date Last Modified:   7/23/97
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/gary.html
+
+Jul. 31, 1998.

@@ -1,0 +1,71 @@
+---
+title: "Series Resonant LC Circuit"
+source_domain: padrak.com
+source_path: ine/db/jensen1.html
+order: 158
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Series Resonant LC Circuit
+
+*Source page: `ine/db/jensen1.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+SERIES RESONANT LC CIRCUIT
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          Series Resonant LC Circuit
+Device Category:      Elect. Magnetic
+Device Type:          Over-Unity
+Inventor Name:        Jensen, Paul Raymond
+Inventor Address:     last known address: 524 east Valerio St. Apt.
+                      C Santa Barbra, CA 93103
+Date First Demo:       
+Watts Generated:       
+Date Last Demo:        
+Watts Generated:       
+% O/U Claimed:         
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:        
+Witnesses Name:        
+Witness Address:       
+Date Tested:           
+Tester Name:           
+Tester Address:        
+Researcher Contact:    
+Researcher Address:    
+Ranking, Interest:    1
+Ranking, Commercial:  M
+References:           ISNE 1994, pp 537-544.
+Last Ref. & Date:     ISNE 1994.
+File Name:            JENSEN1
+Date Last Modified:   7/23/97
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/jensen1.html
+
+Jul. 31, 1998.

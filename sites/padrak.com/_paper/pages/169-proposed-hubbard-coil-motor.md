@@ -1,0 +1,70 @@
+---
+title: "Proposed Hubbard Coil Motor"
+source_domain: padrak.com
+source_path: ine/db/macneill1.html
+order: 169
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Proposed Hubbard Coil Motor
+
+*Source page: `ine/db/macneill1.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+PROPOSED HUBBARD COIL MOTOR
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          Proposed Hubbard Coil Motor
+Device Category:      Elect. Magnetic
+Device Type:          Over-Unity
+Inventor Name:        MacNeill, Ken
+Inventor Address:      
+Date First Demo:       
+Watts Generated:       
+Date Last Demo:        
+Watts Generated:       
+% O/U Claimed:         
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:        
+Witnesses Name:        
+Witness Address:       
+Date Tested:           
+Tester Name:           
+Tester Address:        
+Researcher Contact:    
+Researcher Address:    
+Ranking, Interest:    M
+Ranking, Commercial:  M
+References:           ISNE 1994, pp 289-298.
+Last Ref. & Date:     ISNE 1994.
+File Name:            MACNEILL1
+Date Last Modified:   7/23/97
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/macneill1.html
+
+Aug. 25, 1999.

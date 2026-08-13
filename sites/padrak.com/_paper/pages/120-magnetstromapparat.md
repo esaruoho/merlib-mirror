@@ -1,0 +1,71 @@
+---
+title: "Magnetstromapparat"
+source_domain: padrak.com
+source_path: ine/db/coler1.html
+order: 120
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Magnetstromapparat
+
+*Source page: `ine/db/coler1.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+MAGNETSTROMAPPARAT
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          Magnetstromapparat
+Device Category:      Elect. Magnetic
+Device Type:          Over-Unity
+Inventor Name:        Coler, Hans
+Inventor Address:     deceased
+Date First Demo:      1925
+Watts Generated:      10 W
+Date Last Demo:       1936-7
+Watts Generated:       
+% O/U Claimed:         
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:       1925
+Witnesses Name:       Professor Ing. M. Kloss (Berlin)
+Witness Address:       
+Date Tested:          19&20 March, 1926
+Tester Name:          W.O. Schuman
+Tester Address:        
+Researcher Contact:    
+Researcher Address:    
+Ranking, Interest:    6
+Ranking, Commercial:  5
+References:           British Intellegence Final Report No.
+                      1043 (unclassified).
+Last Ref. & Date:     BIOS Report 1946.
+File Name:            COLER1
+Date Last Modified:   7/23/97
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/coler1.html
+
+Jul. 31, 1998.

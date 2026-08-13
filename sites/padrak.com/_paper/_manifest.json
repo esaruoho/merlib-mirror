@@ -1,0 +1,4277 @@
+{
+  "domain": "padrak.com",
+  "source_url": "https://padrak.com/ine",
+  "entry": "agn/index.html",
+  "pages_total": 232,
+  "pages_reachable": 1,
+  "pages_unreached": 231,
+  "body_chars": 1222443,
+  "extractor": "builtin",
+  "generated": "2026-08-13T06:49:51Z",
+  "pages": [
+    {
+      "order": 1,
+      "title": "Antigravity News and Space Drive Technology - James Cox",
+      "path": "agn/index.html",
+      "slug": "001-antigravity-news-and-space-drive-technology-james-cox",
+      "reachable_from_entry": true,
+      "images": [
+        "RIB_BAR.GIF",
+        "scienceb.gif",
+        "webringw.gif"
+      ],
+      "internal_links": [],
+      "chars": 48194
+    },
+    {
+      "order": 2,
+      "title": "The Institute For New Energy: Advanced Energy Conversion, Physics, and Applications",
+      "path": "ine.html",
+      "slug": "002-the-institute-for-new-energy-advanced-energy-conversion-physics-and-applications",
+      "reachable_from_entry": false,
+      "images": [
+        "LINKWHT.GIF"
+      ],
+      "internal_links": [],
+      "chars": 207802
+    },
+    {
+      "order": 3,
+      "title": "Authors' Abstracts From the JNE, Vol. 1, No. 2",
+      "path": "ine/ABSNEN896.html",
+      "slug": "003-authors-abstracts-from-the-jne-vol-1-no-2",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 4261
+    },
+    {
+      "order": 4,
+      "title": "Advanced Electromagnetism Book Review",
+      "path": "ine/ADVEMBOOK.html",
+      "slug": "004-advanced-electromagnetism-book-review",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 6941
+    },
+    {
+      "order": 5,
+      "title": "Seventh Annual Energy Efficiency Forum<",
+      "path": "ine/AEEF96.html",
+      "slug": "005-seventh-annual-energy-efficiency-forum",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 14668
+    },
+    {
+      "order": 6,
+      "title": "AEI Offers A Free Email New Energy Newsletter",
+      "path": "ine/AEINEWS.html",
+      "slug": "006-aei-offers-a-free-email-new-energy-newsletter",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 593
+    },
+    {
+      "order": 7,
+      "title": "Global Aether Workshop",
+      "path": "ine/AETHER_1998.html",
+      "slug": "007-global-aether-workshop",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/ANNOUNCE.html"
+      ],
+      "chars": 3436
+    },
+    {
+      "order": 8,
+      "title": "Amend S.1028 In Conference Committee - Now!",
+      "path": "ine/AMENDS1028.html",
+      "slug": "008-amend-s1028-in-conference-committee-now",
+      "reachable_from_entry": false,
+      "images": [
+        "http://visit.webhosting.yahoo.com/visit.gif?us1140546990",
+        "http://geo.yahoo.com/serv?s=76001405&t=1140546990&f=p6w10"
+      ],
+      "internal_links": [],
+      "chars": 4271
+    },
+    {
+      "order": 9,
+      "title": "Welcome To The ANE",
+      "path": "ine/ANENL.html",
+      "slug": "009-welcome-to-the-ane",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 669
+    },
+    {
+      "order": 10,
+      "title": "Announcements and Meetings",
+      "path": "ine/ANNOUNCE.html",
+      "slug": "010-announcements-and-meetings",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/CT06.html",
+        "ine/ANNOUNCE.html",
+        "ine/CFJAN96.html"
+      ],
+      "chars": 9149
+    },
+    {
+      "order": 11,
+      "title": "A Report on \"Cold Fusion\" Theories and Results at the June 7-11, 1998, American Nuclear Society Annual Meeting",
+      "path": "ine/ANS98.html",
+      "slug": "011-a-report-on-cold-fusion-theories-and-results-at-the-june-7-11-1998-american-nucl",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 4232
+    },
+    {
+      "order": 12,
+      "title": "Aetheric Science Papers Book Review",
+      "path": "ine/ATHERICBOOK.html",
+      "slug": "012-aetheric-science-papers-book-review",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 9487
+    },
+    {
+      "order": 13,
+      "title": "Authors Index (With Active Links)",
+      "path": "ine/AUTHORS.html",
+      "slug": "013-authors-index-with-active-links",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/ATHERICBOOK.html",
+        "ine/BLOWSNASA.html",
+        "ine/ADVEMBOOK.html",
+        "ine/CHILDRESS.html",
+        "ine/CANADBT.html",
+        "ine/CHGRULES.html",
+        "ine/AEEF96.html",
+        "ine/BMIMP696.html",
+        "ine/CFFUND696.html",
+        "ine/ELEWIS7.html",
+        "ine/ELEWIS6.html",
+        "ine/ELEWIS5.html",
+        "ine/ELEWIS4.html",
+        "ine/ELEWIS3.html",
+        "ine/ELEWIS1.html",
+        "ine/ELEWIS2.html",
+        "ine/CFARNOSIX.html",
+        "ine/CFPOSFBK.html",
+        "ine/CFLIBEL.html",
+        "ine/CFREV696.html"
+      ],
+      "chars": 12823
+    },
+    {
+      "order": 14,
+      "title": "Authors Index - Table of Contents",
+      "path": "ine/AUTHORS_TOC.html",
+      "slug": "014-authors-index-table-of-contents",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html",
+        "ine/AUTHORS.html"
+      ],
+      "chars": 4477
+    },
+    {
+      "order": 15,
+      "title": "Awards Given to the Institute for New Energy Website",
+      "path": "ine/AWARDS.html",
+      "slug": "015-awards-given-to-the-institute-for-new-energy-website",
+      "reachable_from_entry": false,
+      "images": [
+        "LINKWHT_S.GIF",
+        "FIVESTAR_S.GIF",
+        "WAAWARD_S.GIF",
+        "CRAWARD_S.GIF",
+        "SLOUTSTA_S.JPG",
+        "HCPAWARD_S.GIF",
+        "WWAPPR2.GIF",
+        "MAWD_S.GIF",
+        "KLAWD_S.GIF"
+      ],
+      "internal_links": [
+        "ine/CCIAWARD2.html",
+        "ine/CRAWARD.html"
+      ],
+      "chars": 1166
+    },
+    {
+      "order": 16,
+      "title": "Robert Bass's Letters and Emails of Interest",
+      "path": "ine/BASS.html",
+      "slug": "016-robert-basss-letters-and-emails-of-interest",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/BASS_1.html",
+        "ine/BASS_1.html",
+        "ine/BASS_1.html",
+        "ine/BASS_2.html",
+        "ine/BASS_3.html",
+        "ine/BASS_4.html",
+        "ine/BASS_5.html",
+        "ine/BASS_5.html",
+        "ine/BASS_5.html",
+        "ine/BASS_6.html",
+        "ine/BASS_7.html",
+        "ine/BASS_8.html"
+      ],
+      "chars": 1507
+    },
+    {
+      "order": 17,
+      "title": "BASS_1: Letter from Bob Bass to Dr. Shelby Brewer, August 9, 2000.",
+      "path": "ine/BASS_1.html",
+      "slug": "017-bass-1-letter-from-bob-bass-to-dr-shelby-brewer-august-9-2000",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/BASS.html"
+      ],
+      "chars": 24167
+    },
+    {
+      "order": 18,
+      "title": "BASS_2: Email from Bob Bass to Randell Mills and Shelby Brewer, August 20, 2000.",
+      "path": "ine/BASS_2.html",
+      "slug": "018-bass-2-email-from-bob-bass-to-randell-mills-and-shelby-brewer-august-20-2000",
+      "reachable_from_entry": false,
+      "images": [
+        "http://visit.webhosting.yahoo.com/visit.gif?us1147842257",
+        "http://geo.yahoo.com/serv?s=76001405&t=1147842257&f=p6w9"
+      ],
+      "internal_links": [
+        "ine/BASS.html"
+      ],
+      "chars": 23356
+    },
+    {
+      "order": 19,
+      "title": "BASS_3: Email from Bob Bass to Eugene F. Mallove, August 21, 2000.",
+      "path": "ine/BASS_3.html",
+      "slug": "019-bass-3-email-from-bob-bass-to-eugene-f-mallove-august-21-2000",
+      "reachable_from_entry": false,
+      "images": [
+        "http://visit.webhosting.yahoo.com/visit.gif?us1147842285",
+        "http://geo.yahoo.com/serv?s=76001405&t=1147842285&f=p6w9"
+      ],
+      "internal_links": [
+        "ine/BASS.html"
+      ],
+      "chars": 9234
+    },
+    {
+      "order": 20,
+      "title": "BASS_4: Low-Risk/Astronomical-Payoff Hi-Tech Venture Opportunity",
+      "path": "ine/BASS_4.html",
+      "slug": "020-bass-4-low-riskastronomical-payoff-hi-tech-venture-opportunity",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/BASS.html"
+      ],
+      "chars": 10802
+    },
+    {
+      "order": 21,
+      "title": "BASS_5: Letter from Bob Bass to Paul M. Moore, August 22, 2000.",
+      "path": "ine/BASS_5.html",
+      "slug": "021-bass-5-letter-from-bob-bass-to-paul-m-moore-august-22-2000",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/BASS.html"
+      ],
+      "chars": 15379
+    },
+    {
+      "order": 22,
+      "title": "Bass_6: Email from Bob Bass to Sun Letters, August 22, 2000.",
+      "path": "ine/BASS_6.html",
+      "slug": "022-bass-6-email-from-bob-bass-to-sun-letters-august-22-2000",
+      "reachable_from_entry": false,
+      "images": [
+        "http://visit.webhosting.yahoo.com/visit.gif?us1147842323",
+        "http://geo.yahoo.com/serv?s=76001405&t=1147842323&f=p6w9"
+      ],
+      "internal_links": [
+        "ine/BASS.html"
+      ],
+      "chars": 7384
+    },
+    {
+      "order": 23,
+      "title": "Bass_7: Recent Advances in LENT and Proposed CF via Deuterium Crystals",
+      "path": "ine/BASS_7.html",
+      "slug": "023-bass-7-recent-advances-in-lent-and-proposed-cf-via-deuterium-crystals",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/BASS.html"
+      ],
+      "chars": 9656
+    },
+    {
+      "order": 24,
+      "title": "Bass_8: Park at UMCP",
+      "path": "ine/BASS_8.html",
+      "slug": "024-bass-8-park-at-umcp",
+      "reachable_from_entry": false,
+      "images": [
+        "http://visit.webhosting.yahoo.com/visit.gif?us1147842302",
+        "http://geo.yahoo.com/serv?s=76001405&t=1147842302&f=p6w9"
+      ],
+      "internal_links": [
+        "ine/BASS.html"
+      ],
+      "chars": 778
+    },
+    {
+      "order": 25,
+      "title": "On Free-Energy: Email Received by INE from Tom Bearden, Sept. 8, 1997",
+      "path": "ine/BEARDEN.html",
+      "slug": "025-on-free-energy-email-received-by-ine-from-tom-bearden-sept-8-1997",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 9104
+    },
+    {
+      "order": 26,
+      "title": "Bessler's Wonderful Wheel (Article, 1956)",
+      "path": "ine/BESSLER.html",
+      "slug": "026-besslers-wonderful-wheel-article-1956",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 13962
+    },
+    {
+      "order": 27,
+      "title": "Survey and Critical Review of Recent Innovative Energy Conversion Technologies",
+      "path": "ine/BGH97_1.html",
+      "slug": "027-survey-and-critical-review-of-recent-innovative-energy-conversion-technologies",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/index.html",
+        "ine/db/devices_i.html",
+        "ine/db/DBGUIDE.html",
+        "ine/BGH97_2.html",
+        "ine/db/devices.html",
+        "ine/AUTHORS.html",
+        "ine/INE8.html"
+      ],
+      "chars": 26042
+    },
+    {
+      "order": 28,
+      "title": "Review and Status of Reported Innovative Energy Conversion Technologies, Contrasted Using A Consistent R&D Ranking Scale",
+      "path": "ine/BGH97_2.html",
+      "slug": "028-review-and-status-of-reported-innovative-energy-conversion-technologies-contrast",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/index.html",
+        "ine/BGH97_1.html",
+        "ine/db/devices.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/db/DBGUIDE.html",
+        "ine/AUTHORS.html",
+        "ine/INE8.html"
+      ],
+      "chars": 27127
+    },
+    {
+      "order": 29,
+      "title": "The Need For Accurate Reporting and Archival of Data For Innovative Energy Conversion Devices: The INE Data Base",
+      "path": "ine/BGH98.html",
+      "slug": "029-the-need-for-accurate-reporting-and-archival-of-data-for-innovative-energy-conve",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBGUIDE.html",
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html",
+        "ine/DBGUIDE.html",
+        "ine/DBTEMPLATE.html",
+        "ine/BGH97_1.html",
+        "ine/BGH97_2.html"
+      ],
+      "chars": 24480
+    },
+    {
+      "order": 30,
+      "title": "Space Energy Blows NASA'S Fuse",
+      "path": "ine/BLOWSNASA.html",
+      "slug": "030-space-energy-blows-nasas-fuse",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 4922
+    },
+    {
+      "order": 31,
+      "title": "Blue Ribbon Campagin Text",
+      "path": "ine/BLUERIBBON.html",
+      "slug": "031-blue-ribbon-campagin-text",
+      "reachable_from_entry": false,
+      "images": [
+        "RIB_BAR.GIF"
+      ],
+      "internal_links": [],
+      "chars": 1251
+    },
+    {
+      "order": 32,
+      "title": "Implications Of The Bockris-Minevski & Mizuno, Et Al. Papers",
+      "path": "ine/BMIMP696.html",
+      "slug": "032-implications-of-the-bockris-minevski-mizuno-et-al-papers",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 12843
+    },
+    {
+      "order": 33,
+      "title": "Breakthrough Propulsion Physics Research Program",
+      "path": "ine/BTPPAPER.html",
+      "slug": "033-breakthrough-propulsion-physics-research-program",
+      "reachable_from_entry": false,
+      "images": [
+        "BTPFIG1.gif"
+      ],
+      "internal_links": [
+        "ine/BTPPAPER.html",
+        "ine/NEN_6_5_9.html"
+      ],
+      "chars": 20924
+    },
+    {
+      "order": 34,
+      "title": "Canadian Breakthrough In Power Generation",
+      "path": "ine/CANADBT.html",
+      "slug": "034-canadian-breakthrough-in-power-generation",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 3746
+    },
+    {
+      "order": 35,
+      "title": "Edgar Cayce Readings Files on the No Fuel Motor",
+      "path": "ine/CAYCE.html",
+      "slug": "035-edgar-cayce-readings-files-on-the-no-fuel-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 663
+    },
+    {
+      "order": 36,
+      "title": "INE Web Site Wins CCI Web Site Link Award",
+      "path": "ine/CCIAWARD.html",
+      "slug": "036-ine-web-site-wins-cci-web-site-link-award",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 1980
+    },
+    {
+      "order": 37,
+      "title": "INE Web Site Wins CCI Web Site Link Award",
+      "path": "ine/CCIAWARD2.html",
+      "slug": "037-ine-web-site-wins-cci-web-site-link-award",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 3460
+    },
+    {
+      "order": 38,
+      "title": "'COLD FUSION' BREAKTHROUGH",
+      "path": "ine/CFARNOSIX.html",
+      "slug": "038-cold-fusion-breakthrough",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 9843
+    },
+    {
+      "order": 39,
+      "title": "Cold Fusion: Fire From Water: The New Videotape By Infinite Energy Magazine",
+      "path": "ine/CFFFW.html",
+      "slug": "039-cold-fusion-fire-from-water-the-new-videotape-by-infinite-energy-magazine",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 3485
+    },
+    {
+      "order": 40,
+      "title": "New Fusion Plan In Washington D.C.",
+      "path": "ine/CFFUND696.html",
+      "slug": "040-new-fusion-plan-in-washington-dc",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 2187
+    },
+    {
+      "order": 41,
+      "title": "Cold Fusion And New Energy Symposium",
+      "path": "ine/CFJAN96.html",
+      "slug": "041-cold-fusion-and-new-energy-symposium",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/ANNOUNCE.html"
+      ],
+      "chars": 1389
+    },
+    {
+      "order": 42,
+      "title": "Cold Fusion & Judge's Verdict in Italy",
+      "path": "ine/CFLIBEL.html",
+      "slug": "042-cold-fusion-judges-verdict-in-italy",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 8018
+    },
+    {
+      "order": 43,
+      "title": "Calibration of the Pd-D2O System Abstract",
+      "path": "ine/CFPOSFBK.html",
+      "slug": "043-calibration-of-the-pd-d2o-system-abstract",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 1501
+    },
+    {
+      "order": 44,
+      "title": "A Cold Fusion Review",
+      "path": "ine/CFREV696.html",
+      "slug": "044-a-cold-fusion-review",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 3748
+    },
+    {
+      "order": 45,
+      "title": "Change The Rules Not The Rulers",
+      "path": "ine/CHGRULES.html",
+      "slug": "045-change-the-rules-not-the-rulers",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 10335
+    },
+    {
+      "order": 46,
+      "title": "Vimana Aircraft of Ancient India and Atlantis",
+      "path": "ine/CHILDRESS.html",
+      "slug": "046-vimana-aircraft-of-ancient-india-and-atlantis",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 1821
+    },
+    {
+      "order": 47,
+      "title": "Second International Symposium On Consciousness, New Medicine And New Energy",
+      "path": "ine/CNMNE98.html",
+      "slug": "047-second-international-symposium-on-consciousness-new-medicine-and-new-energy",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/ANNOUNCE.html"
+      ],
+      "chars": 1266
+    },
+    {
+      "order": 48,
+      "title": "The First International Conference on Free Energy (CoFE)",
+      "path": "ine/COFE499.html",
+      "slug": "048-the-first-international-conference-on-free-energy-cofe",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 2614
+    },
+    {
+      "order": 49,
+      "title": "Summary of the Conf. on Free Energy Held Apr. 29-30, May 1, 1999, Washington D.C.",
+      "path": "ine/COFE99SUM.html",
+      "slug": "049-summary-of-the-conf-on-free-energy-held-apr-29-30-may-1-1999-washington-dc",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 4567
+    },
+    {
+      "order": 50,
+      "title": "Stromerzeuger (Germany)",
+      "path": "ine/COLER2.HTML",
+      "slug": "050-stromerzeuger-germany",
+      "reachable_from_entry": false,
+      "images": [
+        "http://visit.webhosting.yahoo.com/visit.gif?us1138875116",
+        "http://geo.yahoo.com/serv?s=76001405&t=1138875116&f=p6w8"
+      ],
+      "internal_links": [
+        "ine/DEVICES.html",
+        "ine/DEVICES_N.html",
+        "ine/DEVICES_I.html",
+        "ine/DEVICES_C.html"
+      ],
+      "chars": 1334
+    },
+    {
+      "order": 51,
+      "title": "Perpetual Motion - An Ancient Mystery Solved? (Book)",
+      "path": "ine/COLLINS_BR.html",
+      "slug": "051-perpetual-motion-an-ancient-mystery-solved-book",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 3726
+    },
+    {
+      "order": 52,
+      "title": "Cool Reality Award Given to the Institute for New Energy Website",
+      "path": "ine/CRAWARD.html",
+      "slug": "052-cool-reality-award-given-to-the-institute-for-new-energy-website",
+      "reachable_from_entry": false,
+      "images": [
+        "CRAWARD.GIF"
+      ],
+      "internal_links": [],
+      "chars": 1263
+    },
+    {
+      "order": 53,
+      "title": "COMMERCIAL SOURCES",
+      "path": "ine/CSOURCES.html",
+      "slug": "053-commercial-sources",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 5429
+    },
+    {
+      "order": 54,
+      "title": "IECEC 1997 CT-06 Session ands Papers Schedules",
+      "path": "ine/CT06.html",
+      "slug": "054-iecec-1997-ct-06-session-ands-papers-schedules",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/ANNOUNCE.html"
+      ],
+      "chars": 7878
+    },
+    {
+      "order": 55,
+      "title": "DANGERS IN MEASURING THE POWER OF AC DEVICES WITH METERS",
+      "path": "ine/DANGERSPOWER.html",
+      "slug": "055-dangers-in-measuring-the-power-of-ac-devices-with-meters",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 24310
+    },
+    {
+      "order": 56,
+      "title": "Davis Tidal Turbine",
+      "path": "ine/DAVIS.html",
+      "slug": "056-davis-tidal-turbine",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DEVICES.html",
+        "ine/DEVICES_N.html",
+        "ine/DEVICES_I.html",
+        "ine/DEVICES_C.html"
+      ],
+      "chars": 1309
+    },
+    {
+      "order": 57,
+      "title": "INE Database Guide",
+      "path": "ine/DBGUIDE.html",
+      "slug": "057-ine-database-guide",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBTEMPLATE.html",
+        "ine/DBGUIDE.html",
+        "ine/DBGUIDE.html",
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html"
+      ],
+      "chars": 4410
+    },
+    {
+      "order": 58,
+      "title": "INE Database Template File",
+      "path": "ine/DBTEMPLATE.html",
+      "slug": "058-ine-database-template-file",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1071
+    },
+    {
+      "order": 59,
+      "title": "Report of the Death of Bruce Depalma",
+      "path": "ine/DEPALMA1.html",
+      "slug": "059-report-of-the-death-of-bruce-depalma",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 2972
+    },
+    {
+      "order": 60,
+      "title": "Commentary on the Death of Bruce dePalma",
+      "path": "ine/DEPALMA2.html",
+      "slug": "060-commentary-on-the-death-of-bruce-depalma",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 6121
+    },
+    {
+      "order": 61,
+      "title": "INE Devices Database - Device Names (Previous Location)",
+      "path": "ine/DEVICES.html",
+      "slug": "061-ine-devices-database-device-names-previous-location",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html"
+      ],
+      "chars": 207
+    },
+    {
+      "order": 62,
+      "title": "INE Devices Database - Commercialization Criteria",
+      "path": "ine/DEVICES_C.html",
+      "slug": "062-ine-devices-database-commercialization-criteria",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DEVICES.html",
+        "ine/DAVIS.html",
+        "ine/BESSLER.html"
+      ],
+      "chars": 10837
+    },
+    {
+      "order": 63,
+      "title": "INE Devices Database - Interest Criteria",
+      "path": "ine/DEVICES_I.html",
+      "slug": "063-ine-devices-database-interest-criteria",
+      "reachable_from_entry": false,
+      "images": [
+        "http://visit.webhosting.yahoo.com/visit.gif?us1140546831",
+        "http://geo.yahoo.com/serv?s=76001405&t=1140546831&f=p6w10"
+      ],
+      "internal_links": [
+        "ine/DEVICES.html",
+        "ine/DAVIS.html",
+        "ine/BESSLER.html"
+      ],
+      "chars": 11069
+    },
+    {
+      "order": 64,
+      "title": "INE Devices Database - Inventor Names",
+      "path": "ine/DEVICES_N.html",
+      "slug": "064-ine-devices-database-inventor-names",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DEVICES.html",
+        "ine/BESSLER.html",
+        "ine/DAVIS.html"
+      ],
+      "chars": 9525
+    },
+    {
+      "order": 65,
+      "title": "Concerning Production of Elements and Plasmoids - Paper by Edward Lewis",
+      "path": "ine/ELEWIS1.html",
+      "slug": "065-concerning-production-of-elements-and-plasmoids-paper-by-edward-lewis",
+      "reachable_from_entry": false,
+      "images": [
+        "ELEWISP3.JPG"
+      ],
+      "internal_links": [
+        "ine/ELEWIS7.html",
+        "ine/ELEWIS6.html",
+        "ine/ELEWIS5.html",
+        "ine/ELEWIS4.html",
+        "ine/ELEWIS3.html",
+        "ine/ELEWIS2.html"
+      ],
+      "chars": 21940
+    },
+    {
+      "order": 66,
+      "title": "Is There Radioactive Stimulation of Radioactivity in Electrolysis Cells? - by Edward Lewis",
+      "path": "ine/ELEWIS11.html",
+      "slug": "066-is-there-radioactive-stimulation-of-radioactivity-in-electrolysis-cells-by-edwar",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 13536
+    },
+    {
+      "order": 67,
+      "title": "Plasmoid Phenomena - Paper by Edward Lewis",
+      "path": "ine/ELEWIS2.html",
+      "slug": "067-plasmoid-phenomena-paper-by-edward-lewis",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/ELEWIS7.html",
+        "ine/ELEWIS6.html",
+        "ine/ELEWIS5.html",
+        "ine/ELEWIS4.html",
+        "ine/ELEWIS3.html",
+        "ine/ELEWIS1.html"
+      ],
+      "chars": 13299
+    },
+    {
+      "order": 68,
+      "title": "Tornadoes and Ball Lightning - Paper by Edward Lewis",
+      "path": "ine/ELEWIS3.html",
+      "slug": "068-tornadoes-and-ball-lightning-paper-by-edward-lewis",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/ELEWIS3A.html",
+        "ine/ELEWIS7.html",
+        "ine/ELEWIS6.html",
+        "ine/ELEWIS5.html",
+        "ine/ELEWIS4.html",
+        "ine/ELEWIS1.html",
+        "ine/ELEWIS2.html"
+      ],
+      "chars": 30579
+    },
+    {
+      "order": 69,
+      "title": "Figure 1: Plasmoid Hopping and Skimming Marks",
+      "path": "ine/ELEWIS3A.html",
+      "slug": "069-figure-1-plasmoid-hopping-and-skimming-marks",
+      "reachable_from_entry": false,
+      "images": [
+        "ELEWISGIF1.gif"
+      ],
+      "internal_links": [
+        "ine/ELEWIS3.html",
+        "ine/ELEWIS3.html"
+      ],
+      "chars": 1389
+    },
+    {
+      "order": 70,
+      "title": "Gorgons, Tornadoes, and Plasmoid Phenomena - Paper by Edward Lewis",
+      "path": "ine/ELEWIS4.html",
+      "slug": "070-gorgons-tornadoes-and-plasmoid-phenomena-paper-by-edward-lewis",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/ELEWIS7.html",
+        "ine/ELEWIS6.html",
+        "ine/ELEWIS5.html",
+        "ine/ELEWIS3.html",
+        "ine/ELEWIS1.html",
+        "ine/ELEWIS2.html"
+      ],
+      "chars": 9340
+    },
+    {
+      "order": 71,
+      "title": "Considerations about Plasmoid Phenomena and Superconductivity - Paper by Edward Lewis",
+      "path": "ine/ELEWIS5.html",
+      "slug": "071-considerations-about-plasmoid-phenomena-and-superconductivity-paper-by-edward-le",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/ELEWIS5A.html",
+        "ine/ELEWIS7.html",
+        "ine/ELEWIS6.html",
+        "ine/ELEWIS4.html",
+        "ine/ELEWIS3.html",
+        "ine/ELEWIS1.html",
+        "ine/ELEWIS2.html"
+      ],
+      "chars": 14478
+    },
+    {
+      "order": 72,
+      "title": "Figure 1: Plasmoid Hopping and Skimming Marks",
+      "path": "ine/ELEWIS5A.html",
+      "slug": "072-figure-1-plasmoid-hopping-and-skimming-marks",
+      "reachable_from_entry": false,
+      "images": [
+        "ELEWISGIF1.gif"
+      ],
+      "internal_links": [
+        "ine/ELEWIS5.html"
+      ],
+      "chars": 1207
+    },
+    {
+      "order": 73,
+      "title": "The Periodic Production of Rationalized Phenomena and the Past Periodic Depressions - Book by Edward Lewis",
+      "path": "ine/ELEWIS6.html",
+      "slug": "073-the-periodic-production-of-rationalized-phenomena-and-the-past-periodic-depressi",
+      "reachable_from_entry": false,
+      "images": [
+        "http://www.geocities.com/pictures/icons/flags/in.gif",
+        "http://www.geocities.com/pictures/greenball.gif"
+      ],
+      "internal_links": [
+        "ine/ELEWIS7.html",
+        "ine/ELEWIS5.html",
+        "ine/ELEWIS4.html",
+        "ine/ELEWIS3.html",
+        "ine/ELEWIS1.html",
+        "ine/ELEWIS2.html"
+      ],
+      "chars": 35774
+    },
+    {
+      "order": 74,
+      "title": "Recent Experiments That Produced Fundamental Anomalies... - Paper by Edward Lewis",
+      "path": "ine/ELEWIS7.html",
+      "slug": "074-recent-experiments-that-produced-fundamental-anomalies-paper-by-edward-lewis",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/ELEWIS6.html",
+        "ine/ELEWIS5.html",
+        "ine/ELEWIS4.html",
+        "ine/ELEWIS3.html",
+        "ine/ELEWIS1.html",
+        "ine/ELEWIS2.html"
+      ],
+      "chars": 22840
+    },
+    {
+      "order": 75,
+      "title": "New Energy News - Table of Contents",
+      "path": "ine/INE8.html",
+      "slug": "075-new-energy-news-table-of-contents",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 1347
+    },
+    {
+      "order": 76,
+      "title": "INE Web Site Map",
+      "path": "ine/INEMAP.html",
+      "slug": "076-ine-web-site-map",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/ANNOUNCE.html",
+        "ine/AUTHORS.html",
+        "ine/INE8.html",
+        "ine/CSOURCES.html",
+        "ine/db/DBGUIDE.html"
+      ],
+      "chars": 2057
+    },
+    {
+      "order": 77,
+      "title": "STAIF Breakthrough Propulsion Physics Sessions 1999, Call for Papers",
+      "path": "ine/NEN_6_5_9.html",
+      "slug": "077-staif-breakthrough-propulsion-physics-sessions-1999-call-for-papers",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 3571
+    },
+    {
+      "order": 78,
+      "title": "Energy Producing Device Using Buoyancy Device",
+      "path": "ine/db/ALKHAMIS.html",
+      "slug": "078-energy-producing-device-using-buoyancy-device",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1369
+    },
+    {
+      "order": 79,
+      "title": "Bug Powered Fuel Cell",
+      "path": "ine/db/BENNETTO.HTML",
+      "slug": "079-bug-powered-fuel-cell",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1458
+    },
+    {
+      "order": 80,
+      "title": "Bessler's Wheel",
+      "path": "ine/db/BESSLER.HTML",
+      "slug": "080-besslers-wheel",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1384
+    },
+    {
+      "order": 81,
+      "title": "Betavoltaic Battery",
+      "path": "ine/db/BROWNP3.HTML",
+      "slug": "081-betavoltaic-battery",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1392
+    },
+    {
+      "order": 82,
+      "title": "INE Database Guide",
+      "path": "ine/db/DBGUIDE.html",
+      "slug": "082-ine-database-guide",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/DBGUIDE.html",
+        "ine/db/DBGUIDE.html",
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html"
+      ],
+      "chars": 4159
+    },
+    {
+      "order": 83,
+      "title": "Fisher Engine",
+      "path": "ine/db/FISHER.html",
+      "slug": "083-fisher-engine",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1355
+    },
+    {
+      "order": 84,
+      "title": "Graham",
+      "path": "ine/db/GRAHM.html",
+      "slug": "084-graham",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1331
+    },
+    {
+      "order": 85,
+      "title": "Hickman Perpetual Motion Electric Vehicle (HPMEV)",
+      "path": "ine/db/HICKMAN.html",
+      "slug": "085-hickman-perpetual-motion-electric-vehicle-hpmev",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1531
+    },
+    {
+      "order": 86,
+      "title": "Joe Cell",
+      "path": "ine/db/JOECELL.html",
+      "slug": "086-joe-cell",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1325
+    },
+    {
+      "order": 87,
+      "title": "Keely Motor (Hydro-Vacuo Engine)",
+      "path": "ine/db/KEELYHV.HTML",
+      "slug": "087-keely-motor-hydro-vacuo-engine",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1431
+    },
+    {
+      "order": 88,
+      "title": "Lutec 1000",
+      "path": "ine/db/LUTEC.HTML",
+      "slug": "088-lutec-1000",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1341
+    },
+    {
+      "order": 89,
+      "title": "Sonofusion Reactor",
+      "path": "ine/db/SONOFUS.HTML",
+      "slug": "089-sonofusion-reactor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1307
+    },
+    {
+      "order": 90,
+      "title": "Stelzer Motor",
+      "path": "ine/db/STELZER.HTML",
+      "slug": "090-stelzer-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1290
+    },
+    {
+      "order": 91,
+      "title": "Tetrahedral Colliding-Beam Nuclear Fusion",
+      "path": "ine/db/TETFUSION.HTML",
+      "slug": "091-tetrahedral-colliding-beam-nuclear-fusion",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1375
+    },
+    {
+      "order": 92,
+      "title": "Rotoverter",
+      "path": "ine/db/TORRES.html",
+      "slug": "092-rotoverter",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1517
+    },
+    {
+      "order": 93,
+      "title": "Adams Motor (New Zealand)",
+      "path": "ine/db/adams.html",
+      "slug": "093-adams-motor-new-zealand",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1584
+    },
+    {
+      "order": 94,
+      "title": "Advanced Battery Technology",
+      "path": "ine/db/advbatt.html",
+      "slug": "094-advanced-battery-technology",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1178
+    },
+    {
+      "order": 95,
+      "title": "Alternative Non-Metallic Fuel Cell Catalysts",
+      "path": "ine/db/advfcell.html",
+      "slug": "095-alternative-non-metallic-fuel-cell-catalysts",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1215
+    },
+    {
+      "order": 96,
+      "title": "Alcon Technologies Devices",
+      "path": "ine/db/ames.html",
+      "slug": "096-alcon-technologies-devices",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1218
+    },
+    {
+      "order": 97,
+      "title": "Angus Engine",
+      "path": "ine/db/angus.html",
+      "slug": "097-angus-engine",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1226
+    },
+    {
+      "order": 98,
+      "title": "Power from Magnetism (England)",
+      "path": "ine/db/aspden1.html",
+      "slug": "098-power-from-magnetism-england",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1354
+    },
+    {
+      "order": 99,
+      "title": "Vacuum Spin (England)",
+      "path": "ine/db/aspden2.html",
+      "slug": "099-vacuum-spin-england",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1295
+    },
+    {
+      "order": 100,
+      "title": "Switched Reluctance Motor (England)",
+      "path": "ine/db/aspden3.html",
+      "slug": "100-switched-reluctance-motor-england",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1318
+    },
+    {
+      "order": 101,
+      "title": "Automobile Fuel Cells",
+      "path": "ine/db/autofc.html",
+      "slug": "101-automobile-fuel-cells",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1165
+    },
+    {
+      "order": 102,
+      "title": "Air And Water Engine",
+      "path": "ine/db/aweng.html",
+      "slug": "102-air-and-water-engine",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1197
+    },
+    {
+      "order": 103,
+      "title": "Advanced Fuel Cell Designs",
+      "path": "ine/db/bailey.html",
+      "slug": "103-advanced-fuel-cell-designs",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1237
+    },
+    {
+      "order": 104,
+      "title": "Tesla Non-linear Shuttle Circuit",
+      "path": "ine/db/barrett.html",
+      "slug": "104-tesla-non-linear-shuttle-circuit",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1231
+    },
+    {
+      "order": 105,
+      "title": "B.A.S.E.",
+      "path": "ine/db/base.html",
+      "slug": "105-base",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1195
+    },
+    {
+      "order": 106,
+      "title": "Swiss ML Converter (Switzerland)",
+      "path": "ine/db/baumann.html",
+      "slug": "106-swiss-ml-converter-switzerland",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1455
+    },
+    {
+      "order": 107,
+      "title": "Bedini Energy Converter",
+      "path": "ine/db/bedini.html",
+      "slug": "107-bedini-energy-converter",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1179
+    },
+    {
+      "order": 108,
+      "title": "Noble Gas Motors (AEROPS Engine)",
+      "path": "ine/db/britt.html",
+      "slug": "108-noble-gas-motors-aerops-engine",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1273
+    },
+    {
+      "order": 109,
+      "title": "Brown Resonance Device (US Patent)",
+      "path": "ine/db/brownp1.html",
+      "slug": "109-brown-resonance-device-us-patent",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1294
+    },
+    {
+      "order": 110,
+      "title": "Magnetic Distributer Generator",
+      "path": "ine/db/brownp2.html",
+      "slug": "110-magnetic-distributer-generator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1282
+    },
+    {
+      "order": 111,
+      "title": "T.T. Brown Devices",
+      "path": "ine/db/brownt.html",
+      "slug": "111-tt-brown-devices",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1207
+    },
+    {
+      "order": 112,
+      "title": "Brown's Gas",
+      "path": "ine/db/browny.html",
+      "slug": "112-browns-gas",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1198
+    },
+    {
+      "order": 113,
+      "title": "SpinBreeder Generator",
+      "path": "ine/db/buerger.html",
+      "slug": "113-spinbreeder-generator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1215
+    },
+    {
+      "order": 114,
+      "title": "Quantum Energy Generator",
+      "path": "ine/db/card.html",
+      "slug": "114-quantum-energy-generator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1246
+    },
+    {
+      "order": 115,
+      "title": "E-Beam Discharge Power Converter",
+      "path": "ine/db/caro.html",
+      "slug": "115-e-beam-discharge-power-converter",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1327
+    },
+    {
+      "order": 116,
+      "title": "Carr Anti-Gravity Device",
+      "path": "ine/db/carr.html",
+      "slug": "116-carr-anti-gravity-device",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1188
+    },
+    {
+      "order": 117,
+      "title": "CEACU (Centrifugal Energy Amp. Conversion Unit)",
+      "path": "ine/db/ceacu.html",
+      "slug": "117-ceacu-centrifugal-energy-amp-conversion-unit",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1263
+    },
+    {
+      "order": 118,
+      "title": "Clem Over-Unity Engine",
+      "path": "ine/db/clem.html",
+      "slug": "118-clem-over-unity-engine",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1240
+    },
+    {
+      "order": 119,
+      "title": "Energy Conserver Circuit",
+      "path": "ine/db/cobb.html",
+      "slug": "119-energy-conserver-circuit",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1395
+    },
+    {
+      "order": 120,
+      "title": "Magnetstromapparat",
+      "path": "ine/db/coler1.html",
+      "slug": "120-magnetstromapparat",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1349
+    },
+    {
+      "order": 121,
+      "title": "Stromerzeuger (Germany)",
+      "path": "ine/db/coler2.html",
+      "slug": "121-stromerzeuger-germany",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1201
+    },
+    {
+      "order": 122,
+      "title": "Autogenous Pulsed Glow Discharge",
+      "path": "ine/db/correa.html",
+      "slug": "122-autogenous-pulsed-glow-discharge",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1309
+    },
+    {
+      "order": 123,
+      "title": "Energy Extractor",
+      "path": "ine/db/crump.html",
+      "slug": "123-energy-extractor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1203
+    },
+    {
+      "order": 124,
+      "title": "Davis Tidal Turbine",
+      "path": "ine/db/davis.html",
+      "slug": "124-davis-tidal-turbine",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1175
+    },
+    {
+      "order": 125,
+      "title": "T.T. Brown Devices Replication",
+      "path": "ine/db/deavenp.html",
+      "slug": "125-tt-brown-devices-replication",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1255
+    },
+    {
+      "order": 126,
+      "title": "N-Machine",
+      "path": "ine/db/depalma.html",
+      "slug": "126-n-machine",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1520
+    },
+    {
+      "order": 127,
+      "title": "Electromagnetic Generator",
+      "path": "ine/db/derivas.html",
+      "slug": "127-electromagnetic-generator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1218
+    },
+    {
+      "order": 128,
+      "title": "INE Devices Database - Device Names",
+      "path": "ine/db/devices.html",
+      "slug": "128-ine-devices-database-device-names",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBGUIDE.html",
+        "ine/db/adams.html",
+        "ine/db/bailey.html",
+        "ine/db/ames.html",
+        "ine/db/greaneau.html",
+        "ine/db/angus.html",
+        "ine/db/markov.html",
+        "ine/db/richard.html",
+        "ine/db/correa.html",
+        "ine/db/bedini.html",
+        "ine/db/brownp1.html",
+        "ine/db/browny.html",
+        "ine/db/gray.html",
+        "ine/db/ide.html",
+        "ine/db/carr.html",
+        "ine/db/fox.html",
+        "ine/db/hutch.html",
+        "ine/db/davis.html",
+        "ine/db/caro.html",
+        "ine/db/ecklin.html",
+        "ine/db/derivas.html",
+        "ine/db/merritt.html",
+        "ine/db/cobb.html",
+        "ine/db/crump.html",
+        "ine/db/pappas.html",
+        "ine/db/spence.html",
+        "ine/db/farnsw.html",
+        "ine/db/finsrud.html",
+        "ine/db/fogal.html",
+        "ine/db/wiseman1.html",
+        "ine/db/gary.html",
+        "ine/db/smithw2.html",
+        "ine/db/sinclair1.html",
+        "ine/db/hender.html",
+        "ine/db/hubbard1.html",
+        "ine/db/hubbard2.html",
+        "ine/db/hyde.html",
+        "ine/db/jamison.html",
+        "ine/db/jefimen.html",
+        "ine/db/keely.html",
+        "ine/db/kidd.html",
+        "ine/db/kromrey.html",
+        "ine/db/kawai.html",
+        "ine/db/seike.html",
+        "ine/db/storms.html",
+        "ine/db/brownp2.html",
+        "ine/db/coler1.html",
+        "ine/db/mcclain.html",
+        "ine/db/smithw1.html",
+        "ine/db/teal.html",
+        "ine/db/mckie.html",
+        "ine/db/leibow.html",
+        "ine/db/moray.html",
+        "ine/db/hooper.html",
+        "ine/db/taylor.html",
+        "ine/db/muller.html",
+        "ine/db/pond.html",
+        "ine/db/depalma.html",
+        "ine/db/inomata.html",
+        "ine/db/tewari.html",
+        "ine/db/trombley.html",
+        "ine/db/ward.html",
+        "ine/db/newman.html",
+        "ine/db/britt.html",
+        "ine/db/papp.html",
+        "ine/db/tesla.html",
+        "ine/db/smith.html",
+        "ine/db/reich1.html",
+        "ine/db/patters.html",
+        "ine/db/dragone.html",
+        "ine/db/johnson.html",
+        "ine/db/podklet.html",
+        "ine/db/pandf.html",
+        "ine/db/aspden1.html",
+        "ine/db/macneill1.html",
+        "ine/db/perreau.html",
+        "ine/db/reed.html",
+        "ine/db/reich2.html",
+        "ine/db/macneill2.html",
+        "ine/db/orlowski.html",
+        "ine/db/rodin.html",
+        "ine/db/rqm.html",
+        "ine/db/grotz.html",
+        "ine/db/schauber.html",
+        "ine/db/searl1.html",
+        "ine/db/searl2.html",
+        "ine/db/jensen1.html",
+        "ine/db/marinov1.html",
+        "ine/db/sinclair2.html",
+        "ine/db/buerger.html",
+        "ine/db/mckubre.html",
+        "ine/db/stephens.html",
+        "ine/db/mark.html",
+        "ine/db/stoneb.html",
+        "ine/db/coler2.html",
+        "ine/db/sweet.html",
+        "ine/db/baumann.html",
+        "ine/db/aspden3.html",
+        "ine/db/brownt.html",
+        "ine/db/deavenp.html",
+        "ine/db/takahas.html",
+        "ine/db/barrett.html",
+        "ine/db/puthoff.html",
+        "ine/db/thermac.html",
+        "ine/db/jensen2.html",
+        "ine/db/hathaw.html",
+        "ine/db/aspden2.html",
+        "ine/db/marinov2.html",
+        "ine/db/wanlass.html",
+        "ine/db/meyer.html",
+        "ine/db/watsond.html",
+        "ine/db/watsonj.html",
+        "ine/db/lambert.html",
+        "ine/db/earle.html",
+        "ine/db/wiseman2.html"
+      ],
+      "chars": 8777
+    },
+    {
+      "order": 129,
+      "title": "INE Devices Database - Commercialization Criteria",
+      "path": "ine/db/devices_c.html",
+      "slug": "129-ine-devices-database-commercialization-criteria",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBGUIDE.html",
+        "ine/db/davis.html",
+        "ine/db/patters.html",
+        "ine/db/ames.html",
+        "ine/db/gray.html",
+        "ine/db/ide.html",
+        "ine/db/fox.html",
+        "ine/db/jefimen.html",
+        "ine/db/hooper.html",
+        "ine/db/pandf.html",
+        "ine/db/hutch.html",
+        "ine/db/kawai.html",
+        "ine/db/storms.html",
+        "ine/db/moray.html",
+        "ine/db/tewari.html",
+        "ine/db/inomata.html",
+        "ine/db/newman.html",
+        "ine/db/papp.html",
+        "ine/db/reich1.html",
+        "ine/db/reich2.html",
+        "ine/db/rqm.html",
+        "ine/db/mckubre.html",
+        "ine/db/sweet.html",
+        "ine/db/brownt.html",
+        "ine/db/deavenp.html",
+        "ine/db/takahas.html",
+        "ine/db/thermac.html",
+        "ine/db/bedini.html",
+        "ine/db/podklet.html",
+        "ine/db/lambert.html",
+        "ine/db/brownp1.html",
+        "ine/db/pappas.html",
+        "ine/db/finsrud.html",
+        "ine/db/hender.html",
+        "ine/db/hyde.html",
+        "ine/db/keely.html",
+        "ine/db/kidd.html",
+        "ine/db/coler1.html",
+        "ine/db/brownp2.html",
+        "ine/db/pond.html",
+        "ine/db/reed.html",
+        "ine/db/grotz.html",
+        "ine/db/schauber.html",
+        "ine/db/searl1.html",
+        "ine/db/searl2.html",
+        "ine/db/coler2.html",
+        "ine/db/baumann.html",
+        "ine/db/watsond.html",
+        "ine/db/sinclair1.html",
+        "ine/db/sinclair2.html",
+        "ine/db/marinov2.html",
+        "ine/db/angus.html",
+        "ine/db/muller.html",
+        "ine/db/trombley.html",
+        "ine/db/dragone.html",
+        "ine/db/puthoff.html",
+        "ine/db/greaneau.html",
+        "ine/db/markov.html",
+        "ine/db/richard.html",
+        "ine/db/carr.html",
+        "ine/db/caro.html",
+        "ine/db/ecklin.html",
+        "ine/db/cobb.html",
+        "ine/db/crump.html",
+        "ine/db/spence.html",
+        "ine/db/farnsw.html",
+        "ine/db/fogal.html",
+        "ine/db/wiseman1.html",
+        "ine/db/gary.html",
+        "ine/db/smithw2.html",
+        "ine/db/jamison.html",
+        "ine/db/kromrey.html",
+        "ine/db/teal.html",
+        "ine/db/mckie.html",
+        "ine/db/taylor.html",
+        "ine/db/depalma.html",
+        "ine/db/ward.html",
+        "ine/db/johnson.html",
+        "ine/db/perreau.html",
+        "ine/db/marinov1.html",
+        "ine/db/mark.html",
+        "ine/db/stoneb.html",
+        "ine/db/wanlass.html",
+        "ine/db/meyer.html",
+        "ine/db/watsonj.html",
+        "ine/db/wiseman2.html",
+        "ine/db/adams.html",
+        "ine/db/bailey.html",
+        "ine/db/correa.html",
+        "ine/db/browny.html",
+        "ine/db/derivas.html",
+        "ine/db/merritt.html",
+        "ine/db/hubbard1.html",
+        "ine/db/hubbard2.html",
+        "ine/db/seike.html",
+        "ine/db/smithw1.html",
+        "ine/db/mcclain.html",
+        "ine/db/leibow.html",
+        "ine/db/britt.html",
+        "ine/db/tesla.html",
+        "ine/db/smith.html",
+        "ine/db/aspden1.html",
+        "ine/db/macneill1.html",
+        "ine/db/macneill2.html",
+        "ine/db/orlowski.html",
+        "ine/db/rodin.html",
+        "ine/db/jensen1.html",
+        "ine/db/buerger.html",
+        "ine/db/stephens.html",
+        "ine/db/aspden3.html",
+        "ine/db/barrett.html",
+        "ine/db/jensen2.html",
+        "ine/db/hathaw.html",
+        "ine/db/aspden2.html",
+        "ine/db/earle.html"
+      ],
+      "chars": 9158
+    },
+    {
+      "order": 130,
+      "title": "INE Devices Database - Interest Criteria",
+      "path": "ine/db/devices_i.html",
+      "slug": "130-ine-devices-database-interest-criteria",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBGUIDE.html",
+        "ine/db/davis.html",
+        "ine/db/moray.html",
+        "ine/db/tewari.html",
+        "ine/db/schauber.html",
+        "ine/db/sweet.html",
+        "ine/db/baumann.html",
+        "ine/db/gray.html",
+        "ine/db/ide.html",
+        "ine/db/fox.html",
+        "ine/db/gary.html",
+        "ine/db/hender.html",
+        "ine/db/jefimen.html",
+        "ine/db/storms.html",
+        "ine/db/hooper.html",
+        "ine/db/newman.html",
+        "ine/db/papp.html",
+        "ine/db/patters.html",
+        "ine/db/podklet.html",
+        "ine/db/pandf.html",
+        "ine/db/grotz.html",
+        "ine/db/mckubre.html",
+        "ine/db/brownt.html",
+        "ine/db/deavenp.html",
+        "ine/db/thermac.html",
+        "ine/db/watsond.html",
+        "ine/db/lambert.html",
+        "ine/db/kawai.html",
+        "ine/db/reich1.html",
+        "ine/db/browny.html",
+        "ine/db/finsrud.html",
+        "ine/db/smithw2.html",
+        "ine/db/coler1.html",
+        "ine/db/inomata.html",
+        "ine/db/rqm.html",
+        "ine/db/coler2.html",
+        "ine/db/ames.html",
+        "ine/db/angus.html",
+        "ine/db/brownp1.html",
+        "ine/db/hutch.html",
+        "ine/db/pappas.html",
+        "ine/db/sinclair1.html",
+        "ine/db/keely.html",
+        "ine/db/kidd.html",
+        "ine/db/pond.html",
+        "ine/db/dragone.html",
+        "ine/db/perreau.html",
+        "ine/db/reich2.html",
+        "ine/db/sinclair2.html",
+        "ine/db/mark.html",
+        "ine/db/takahas.html",
+        "ine/db/marinov2.html",
+        "ine/db/brownp2.html",
+        "ine/db/greaneau.html",
+        "ine/db/bedini.html",
+        "ine/db/hyde.html",
+        "ine/db/jamison.html",
+        "ine/db/muller.html",
+        "ine/db/reed.html",
+        "ine/db/searl1.html",
+        "ine/db/searl2.html",
+        "ine/db/marinov1.html",
+        "ine/db/puthoff.html",
+        "ine/db/richard.html",
+        "ine/db/ecklin.html",
+        "ine/db/fogal.html",
+        "ine/db/kromrey.html",
+        "ine/db/smithw1.html",
+        "ine/db/johnson.html",
+        "ine/db/adams.html",
+        "ine/db/markov.html",
+        "ine/db/carr.html",
+        "ine/db/caro.html",
+        "ine/db/cobb.html",
+        "ine/db/crump.html",
+        "ine/db/spence.html",
+        "ine/db/farnsw.html",
+        "ine/db/wiseman1.html",
+        "ine/db/teal.html",
+        "ine/db/mckie.html",
+        "ine/db/taylor.html",
+        "ine/db/depalma.html",
+        "ine/db/trombley.html",
+        "ine/db/ward.html",
+        "ine/db/jensen1.html",
+        "ine/db/stephens.html",
+        "ine/db/stoneb.html",
+        "ine/db/jensen2.html",
+        "ine/db/wanlass.html",
+        "ine/db/meyer.html",
+        "ine/db/watsonj.html",
+        "ine/db/wiseman2.html",
+        "ine/db/bailey.html",
+        "ine/db/correa.html",
+        "ine/db/derivas.html",
+        "ine/db/merritt.html",
+        "ine/db/hubbard1.html",
+        "ine/db/hubbard2.html",
+        "ine/db/seike.html",
+        "ine/db/mcclain.html",
+        "ine/db/leibow.html",
+        "ine/db/britt.html",
+        "ine/db/tesla.html",
+        "ine/db/smith.html",
+        "ine/db/aspden1.html",
+        "ine/db/macneill1.html",
+        "ine/db/macneill2.html",
+        "ine/db/orlowski.html",
+        "ine/db/rodin.html",
+        "ine/db/buerger.html",
+        "ine/db/aspden3.html",
+        "ine/db/barrett.html",
+        "ine/db/hathaw.html",
+        "ine/db/aspden2.html",
+        "ine/db/earle.html"
+      ],
+      "chars": 9140
+    },
+    {
+      "order": 131,
+      "title": "INE Devices Database - Inventor Names",
+      "path": "ine/db/devices_n.html",
+      "slug": "131-ine-devices-database-inventor-names",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/DBGUIDE.html",
+        "ine/db/adams.html",
+        "ine/db/ames.html",
+        "ine/db/angus.html",
+        "ine/db/aspden1.html",
+        "ine/db/aspden3.html",
+        "ine/db/aspden2.html",
+        "ine/db/bailey.html",
+        "ine/db/barrett.html",
+        "ine/db/baumann.html",
+        "ine/db/bedini.html",
+        "ine/db/britt.html",
+        "ine/db/brownp1.html",
+        "ine/db/browny.html",
+        "ine/db/brownp2.html",
+        "ine/db/brownt.html",
+        "ine/db/buerger.html",
+        "ine/db/caro.html",
+        "ine/db/carr.html",
+        "ine/db/cobb.html",
+        "ine/db/coler1.html",
+        "ine/db/coler2.html",
+        "ine/db/correa.html",
+        "ine/db/crump.html",
+        "ine/db/davis.html",
+        "ine/db/derivas.html",
+        "ine/db/deavenp.html",
+        "ine/db/depalma.html",
+        "ine/db/dragone.html",
+        "ine/db/earle.html",
+        "ine/db/ecklin.html",
+        "ine/db/farnsw.html",
+        "ine/db/finsrud.html",
+        "ine/db/fogal.html",
+        "ine/db/fox.html",
+        "ine/db/gary.html",
+        "ine/db/greaneau.html",
+        "ine/db/gray.html",
+        "ine/db/grotz.html",
+        "ine/db/hathaw.html",
+        "ine/db/hender.html",
+        "ine/db/hooper.html",
+        "ine/db/hubbard1.html",
+        "ine/db/hubbard2.html",
+        "ine/db/hutch.html",
+        "ine/db/hyde.html",
+        "ine/db/ide.html",
+        "ine/db/inomata.html",
+        "ine/db/jamison.html",
+        "ine/db/jefimen.html",
+        "ine/db/jensen1.html",
+        "ine/db/jensen2.html",
+        "ine/db/johnson.html",
+        "ine/db/kawai.html",
+        "ine/db/keely.html",
+        "ine/db/kidd.html",
+        "ine/db/kromrey.html",
+        "ine/db/lambert.html",
+        "ine/db/leibow.html",
+        "ine/db/macneill1.html",
+        "ine/db/macneill2.html",
+        "ine/db/marinov1.html",
+        "ine/db/marinov2.html",
+        "ine/db/mark.html",
+        "ine/db/markov.html",
+        "ine/db/mcclain.html",
+        "ine/db/mckie.html",
+        "ine/db/mckubre.html",
+        "ine/db/merritt.html",
+        "ine/db/meyer.html",
+        "ine/db/moray.html",
+        "ine/db/muller.html",
+        "ine/db/newman.html",
+        "ine/db/orlowski.html",
+        "ine/db/papp.html",
+        "ine/db/pappas.html",
+        "ine/db/patters.html",
+        "ine/db/perreau.html",
+        "ine/db/podklet.html",
+        "ine/db/pond.html",
+        "ine/db/pandf.html",
+        "ine/db/puthoff.html",
+        "ine/db/reed.html",
+        "ine/db/reich1.html",
+        "ine/db/reich2.html",
+        "ine/db/richard.html",
+        "ine/db/rodin.html",
+        "ine/db/rqm.html",
+        "ine/db/schauber.html",
+        "ine/db/searl1.html",
+        "ine/db/searl2.html",
+        "ine/db/seike.html",
+        "ine/db/sinclair1.html",
+        "ine/db/sinclair2.html",
+        "ine/db/smithw2.html",
+        "ine/db/smithw1.html",
+        "ine/db/smith.html",
+        "ine/db/spence.html",
+        "ine/db/stephens.html",
+        "ine/db/stoneb.html",
+        "ine/db/storms.html",
+        "ine/db/sweet.html",
+        "ine/db/takahas.html",
+        "ine/db/taylor.html",
+        "ine/db/teal.html",
+        "ine/db/tesla.html",
+        "ine/db/tewari.html",
+        "ine/db/thermac.html",
+        "ine/db/trombley.html",
+        "ine/db/wanlass.html",
+        "ine/db/ward.html",
+        "ine/db/watsond.html",
+        "ine/db/watsonj.html",
+        "ine/db/wiseman1.html",
+        "ine/db/wiseman2.html"
+      ],
+      "chars": 8321
+    },
+    {
+      "order": 132,
+      "title": "Permanent Magnet Energy Conversion",
+      "path": "ine/db/dragone.html",
+      "slug": "132-permanent-magnet-energy-conversion",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1486
+    },
+    {
+      "order": 133,
+      "title": "Windmill Home Generator (Earle)",
+      "path": "ine/db/earle.html",
+      "slug": "133-windmill-home-generator-earle",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1212
+    },
+    {
+      "order": 134,
+      "title": "Ecklin Motor",
+      "path": "ine/db/ecklin.html",
+      "slug": "134-ecklin-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1234
+    },
+    {
+      "order": 135,
+      "title": "Harmonic Frequency Generator Circuit",
+      "path": "ine/db/ewing.html",
+      "slug": "135-harmonic-frequency-generator-circuit",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1465
+    },
+    {
+      "order": 136,
+      "title": "Farnsworth/Trombly Energy Generator",
+      "path": "ine/db/farnsw.html",
+      "slug": "136-farnsworthtrombly-energy-generator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1218
+    },
+    {
+      "order": 137,
+      "title": "Finsrud Motion Machine (Norway)",
+      "path": "ine/db/finsrud.html",
+      "slug": "137-finsrud-motion-machine-norway",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1761
+    },
+    {
+      "order": 138,
+      "title": "Fogal",
+      "path": "ine/db/fogal.html",
+      "slug": "138-fogal",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1256
+    },
+    {
+      "order": 139,
+      "title": "Cold Fusion Results",
+      "path": "ine/db/fox.html",
+      "slug": "139-cold-fusion-results",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1169
+    },
+    {
+      "order": 140,
+      "title": "Gary's Magnetic Motor (1879)",
+      "path": "ine/db/gary.html",
+      "slug": "140-garys-magnetic-motor-1879",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1340
+    },
+    {
+      "order": 141,
+      "title": "Graham-Low Power Research/Teaching Model",
+      "path": "ine/db/graham.html",
+      "slug": "141-graham-low-power-researchteaching-model",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1326
+    },
+    {
+      "order": 142,
+      "title": "Capacitive Discharge Motor",
+      "path": "ine/db/gray.html",
+      "slug": "142-capacitive-discharge-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1214
+    },
+    {
+      "order": 143,
+      "title": "Ampere-Neuman Electrodynamics",
+      "path": "ine/db/greaneau.html",
+      "slug": "143-ampere-neuman-electrodynamics",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1335
+    },
+    {
+      "order": 144,
+      "title": "Russell Optical Dynamo Generator",
+      "path": "ine/db/grotz.html",
+      "slug": "144-russell-optical-dynamo-generator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1294
+    },
+    {
+      "order": 145,
+      "title": "Unipolar Dynamo (Canada)",
+      "path": "ine/db/hathaw.html",
+      "slug": "145-unipolar-dynamo-canada",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1222
+    },
+    {
+      "order": 146,
+      "title": "Hendershot Coil Device",
+      "path": "ine/db/hender.html",
+      "slug": "146-hendershot-coil-device",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1299
+    },
+    {
+      "order": 147,
+      "title": "Motional Electric Field Effect",
+      "path": "ine/db/hooper.html",
+      "slug": "147-motional-electric-field-effect",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1230
+    },
+    {
+      "order": 148,
+      "title": "Hot Fusion Reactor Status (US and Russia)",
+      "path": "ine/db/hotfusion.html",
+      "slug": "148-hot-fusion-reactor-status-us-and-russia",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1212
+    },
+    {
+      "order": 149,
+      "title": "Hubbard Coil Motor",
+      "path": "ine/db/hubbard1.html",
+      "slug": "149-hubbard-coil-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1253
+    },
+    {
+      "order": 150,
+      "title": "Hubbard Coil Research",
+      "path": "ine/db/hubbard2.html",
+      "slug": "150-hubbard-coil-research",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1223
+    },
+    {
+      "order": 151,
+      "title": "Crystal Energy Converter",
+      "path": "ine/db/hutch.html",
+      "slug": "151-crystal-energy-converter",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1234
+    },
+    {
+      "order": 152,
+      "title": "Hyde Device",
+      "path": "ine/db/hyde.html",
+      "slug": "152-hyde-device",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1213
+    },
+    {
+      "order": 153,
+      "title": "Capacitive Discharge Motor",
+      "path": "ine/db/ide.html",
+      "slug": "153-capacitive-discharge-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1323
+    },
+    {
+      "order": 154,
+      "title": "Index of /ine/db/",
+      "path": "ine/db/index.html",
+      "slug": "154-index-of-inedb",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/DBGUIDE.html",
+        "ine/db/adams.html",
+        "ine/db/ames.html",
+        "ine/db/angus.html",
+        "ine/db/aspden1.html",
+        "ine/db/aspden2.html",
+        "ine/db/aspden3.html",
+        "ine/db/bailey.html",
+        "ine/db/barrett.html",
+        "ine/db/baumann.html",
+        "ine/db/bedini.html",
+        "ine/db/britt.html",
+        "ine/db/brownp1.html",
+        "ine/db/brownp2.html",
+        "ine/db/brownt.html",
+        "ine/db/browny.html",
+        "ine/db/buerger.html",
+        "ine/db/caro.html",
+        "ine/db/carr.html",
+        "ine/db/cobb.html",
+        "ine/db/coler1.html",
+        "ine/db/coler2.html",
+        "ine/db/correa.html",
+        "ine/db/crump.html",
+        "ine/db/davis.html",
+        "ine/db/deavenp.html",
+        "ine/db/depalma.html",
+        "ine/db/derivas.html",
+        "ine/db/devices.html",
+        "ine/db/devices_c.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_n.html",
+        "ine/db/dragone.html",
+        "ine/db/earle.html",
+        "ine/db/ecklin.html",
+        "ine/db/farnsw.html",
+        "ine/db/finsrud.html",
+        "ine/db/fogal.html",
+        "ine/db/fox.html",
+        "ine/db/gary.html",
+        "ine/db/gray.html",
+        "ine/db/greaneau.html",
+        "ine/db/grotz.html",
+        "ine/db/hathaw.html",
+        "ine/db/hender.html",
+        "ine/db/hooper.html",
+        "ine/db/hubbard1.html",
+        "ine/db/hubbard2.html",
+        "ine/db/hutch.html",
+        "ine/db/hyde.html",
+        "ine/db/ide.html",
+        "ine/db/inomata.html",
+        "ine/db/jamison.html",
+        "ine/db/jefimen.html",
+        "ine/db/jensen1.html",
+        "ine/db/jensen2.html",
+        "ine/db/johnson.html",
+        "ine/db/kawai.html",
+        "ine/db/keely.html",
+        "ine/db/kidd.html",
+        "ine/db/kromrey.html",
+        "ine/db/advbatt.html",
+        "ine/db/leibow.html",
+        "ine/db/macneill1.html",
+        "ine/db/macneill2.html",
+        "ine/db/marinov1.html",
+        "ine/db/mark.html",
+        "ine/db/marinov2.html",
+        "ine/db/markov.html",
+        "ine/db/mcclain.html",
+        "ine/db/mckie.html",
+        "ine/db/mckubre.html",
+        "ine/db/merritt.html",
+        "ine/db/meyer.html",
+        "ine/db/moray.html",
+        "ine/db/muller.html",
+        "ine/db/newman.html",
+        "ine/db/orlowski.html",
+        "ine/db/pandf.html",
+        "ine/db/papp.html",
+        "ine/db/pappas.html",
+        "ine/db/patters.html",
+        "ine/db/perreau.html",
+        "ine/db/podklet.html",
+        "ine/db/puthoff.html",
+        "ine/db/reed.html",
+        "ine/db/reich1.html",
+        "ine/db/reich2.html",
+        "ine/db/richard.html",
+        "ine/db/rodin.html",
+        "ine/db/rqm.html",
+        "ine/db/schauber.html",
+        "ine/db/searl1.html",
+        "ine/db/searl2.html",
+        "ine/db/seike.html",
+        "ine/db/sinclair1.html",
+        "ine/db/sinclair2.html",
+        "ine/db/smith.html",
+        "ine/db/smithw1.html",
+        "ine/db/smithw2.html",
+        "ine/db/spence.html",
+        "ine/db/stephens.html",
+        "ine/db/stoneb.html",
+        "ine/db/storms.html",
+        "ine/db/sweet.html",
+        "ine/db/takahas.html",
+        "ine/db/taylor.html",
+        "ine/db/teal.html",
+        "ine/db/tesla.html",
+        "ine/db/tewari.html",
+        "ine/db/thermac.html",
+        "ine/db/trombley.html",
+        "ine/db/wanlass.html",
+        "ine/db/ward.html",
+        "ine/db/watsond.html",
+        "ine/db/watsonj.html",
+        "ine/db/wiseman1.html",
+        "ine/db/wiseman2.html",
+        "ine/db/pond.html",
+        "ine/db/advfcell.html",
+        "ine/db/autofc.html",
+        "ine/db/aweng.html",
+        "ine/db/base.html",
+        "ine/db/ceacu.html",
+        "ine/db/clem.html",
+        "ine/db/graham.html",
+        "ine/db/hotfusion.html",
+        "ine/db/kohei.html",
+        "ine/db/lambert.html",
+        "ine/db/lindsey.html",
+        "ine/db/mdg.html",
+        "ine/db/perrigo.html",
+        "ine/db/sater.html"
+      ],
+      "chars": 6226
+    },
+    {
+      "order": 155,
+      "title": "N-Machine (Japan)",
+      "path": "ine/db/inomata.html",
+      "slug": "155-n-machine-japan",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1258
+    },
+    {
+      "order": 156,
+      "title": "Jamison Energizer System",
+      "path": "ine/db/jamison.html",
+      "slug": "156-jamison-energizer-system",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1280
+    },
+    {
+      "order": 157,
+      "title": "Jefimenko Electrostatic Generators",
+      "path": "ine/db/jefimen.html",
+      "slug": "157-jefimenko-electrostatic-generators",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1271
+    },
+    {
+      "order": 158,
+      "title": "Series Resonant LC Circuit",
+      "path": "ine/db/jensen1.html",
+      "slug": "158-series-resonant-lc-circuit",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1323
+    },
+    {
+      "order": 159,
+      "title": "Unidirectional Transformer",
+      "path": "ine/db/jensen2.html",
+      "slug": "159-unidirectional-transformer",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1380
+    },
+    {
+      "order": 160,
+      "title": "Permanent Magnet Motor",
+      "path": "ine/db/johnson.html",
+      "slug": "160-permanent-magnet-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1207
+    },
+    {
+      "order": 161,
+      "title": "Kwai Motor",
+      "path": "ine/db/kawai.html",
+      "slug": "161-kwai-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1155
+    },
+    {
+      "order": 162,
+      "title": "Keely Motor (Hydro-Vacuo Engine)",
+      "path": "ine/db/keely.html",
+      "slug": "162-keely-motor-hydro-vacuo-engine",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1447
+    },
+    {
+      "order": 163,
+      "title": "Kidd Device",
+      "path": "ine/db/kidd.html",
+      "slug": "163-kidd-device",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1174
+    },
+    {
+      "order": 164,
+      "title": "Minato Magnetic Motor",
+      "path": "ine/db/kohei.html",
+      "slug": "164-minato-magnetic-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1427
+    },
+    {
+      "order": 165,
+      "title": "Kromey Converter",
+      "path": "ine/db/kromrey.html",
+      "slug": "165-kromey-converter",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1198
+    },
+    {
+      "order": 166,
+      "title": "WIN Device",
+      "path": "ine/db/lambert.html",
+      "slug": "166-win-device",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1355
+    },
+    {
+      "order": 167,
+      "title": "MNL-DHE Generator",
+      "path": "ine/db/leibow.html",
+      "slug": "167-mnl-dhe-generator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1246
+    },
+    {
+      "order": 168,
+      "title": "Lindsey",
+      "path": "ine/db/lindsey.html",
+      "slug": "168-lindsey",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1131
+    },
+    {
+      "order": 169,
+      "title": "Proposed Hubbard Coil Motor",
+      "path": "ine/db/macneill1.html",
+      "slug": "169-proposed-hubbard-coil-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1231
+    },
+    {
+      "order": 170,
+      "title": "Reluctance Generator",
+      "path": "ine/db/macneill2.html",
+      "slug": "170-reluctance-generator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1246
+    },
+    {
+      "order": 171,
+      "title": "Siberian Coliu",
+      "path": "ine/db/marinov1.html",
+      "slug": "171-siberian-coliu",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1218
+    },
+    {
+      "order": 172,
+      "title": "Venetin Coliu (Austria))",
+      "path": "ine/db/marinov2.html",
+      "slug": "172-venetin-coliu-austria",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1332
+    },
+    {
+      "order": 173,
+      "title": "Stevens Generator",
+      "path": "ine/db/mark.html",
+      "slug": "173-stevens-generator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1348
+    },
+    {
+      "order": 174,
+      "title": "Apparatus to Rectify Ether Energy",
+      "path": "ine/db/markov.html",
+      "slug": "174-apparatus-to-rectify-ether-energy",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1256
+    },
+    {
+      "order": 175,
+      "title": "Magnetic Resonance Amplifier (MRA)",
+      "path": "ine/db/mcclain.html",
+      "slug": "175-magnetic-resonance-amplifier-mra",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1294
+    },
+    {
+      "order": 176,
+      "title": "McKie Power On Demand Module (PODMOD)",
+      "path": "ine/db/mckie.html",
+      "slug": "176-mckie-power-on-demand-module-podmod",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1396
+    },
+    {
+      "order": 177,
+      "title": "SRI Experimental Research Results",
+      "path": "ine/db/mckubre.html",
+      "slug": "177-sri-experimental-research-results",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1242
+    },
+    {
+      "order": 178,
+      "title": "Magnetic Distributer Generator",
+      "path": "ine/db/mdg.html",
+      "slug": "178-magnetic-distributer-generator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1183
+    },
+    {
+      "order": 179,
+      "title": "Electrical Generator",
+      "path": "ine/db/merritt.html",
+      "slug": "179-electrical-generator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1206
+    },
+    {
+      "order": 180,
+      "title": "Water Fuel Cell",
+      "path": "ine/db/meyer.html",
+      "slug": "180-water-fuel-cell",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1235
+    },
+    {
+      "order": 181,
+      "title": "Catalytic Hydrogen Collapse (CHC)",
+      "path": "ine/db/mills.html",
+      "slug": "181-catalytic-hydrogen-collapse-chc",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1625
+    },
+    {
+      "order": 182,
+      "title": "Moray Radient Energy Equipment",
+      "path": "ine/db/moray.html",
+      "slug": "182-moray-radient-energy-equipment",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1317
+    },
+    {
+      "order": 183,
+      "title": "Muller Magnetic Motor",
+      "path": "ine/db/muller.html",
+      "slug": "183-muller-magnetic-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1227
+    },
+    {
+      "order": 184,
+      "title": "Newman Energy Machine",
+      "path": "ine/db/newman.html",
+      "slug": "184-newman-energy-machine",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1704
+    },
+    {
+      "order": 185,
+      "title": "Ro-Mag Magnetic Generator",
+      "path": "ine/db/orlowski.html",
+      "slug": "185-ro-mag-magnetic-generator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1228
+    },
+    {
+      "order": 186,
+      "title": "Ponds and Fleischmann Status (France)",
+      "path": "ine/db/pandf.html",
+      "slug": "186-ponds-and-fleischmann-status-france",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1217
+    },
+    {
+      "order": 187,
+      "title": "Noble Gas Motors (Papp Engine)",
+      "path": "ine/db/papp.html",
+      "slug": "187-noble-gas-motors-papp-engine",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1411
+    },
+    {
+      "order": 188,
+      "title": "Energy From Electrical Discharges",
+      "path": "ine/db/pappas.html",
+      "slug": "188-energy-from-electrical-discharges",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1265
+    },
+    {
+      "order": 189,
+      "title": "Patterson Power Cell",
+      "path": "ine/db/patters.html",
+      "slug": "189-patterson-power-cell",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1217
+    },
+    {
+      "order": 190,
+      "title": "Radient Energy Capture Device",
+      "path": "ine/db/perreau.html",
+      "slug": "190-radient-energy-capture-device",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1302
+    },
+    {
+      "order": 191,
+      "title": "Magnicogenerator",
+      "path": "ine/db/perrigo.html",
+      "slug": "191-magnicogenerator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1309
+    },
+    {
+      "order": 192,
+      "title": "Podkletnov Device (Finland)",
+      "path": "ine/db/podklet.html",
+      "slug": "192-podkletnov-device-finland",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1210
+    },
+    {
+      "order": 193,
+      "title": "Musical Dynasphere (Globe Motor)",
+      "path": "ine/db/pond.html",
+      "slug": "193-musical-dynasphere-globe-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1427
+    },
+    {
+      "order": 194,
+      "title": "The Energetic Vacuum (ZPE)",
+      "path": "ine/db/puthoff.html",
+      "slug": "194-the-energetic-vacuum-zpe",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1318
+    },
+    {
+      "order": 195,
+      "title": "Reed Magnetic Motor",
+      "path": "ine/db/reed.html",
+      "slug": "195-reed-magnetic-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1214
+    },
+    {
+      "order": 196,
+      "title": "Orgone Energy Phenomena",
+      "path": "ine/db/reich1.html",
+      "slug": "196-orgone-energy-phenomena",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1221
+    },
+    {
+      "order": 197,
+      "title": "Reich Orgonne Motor",
+      "path": "ine/db/reich2.html",
+      "slug": "197-reich-orgonne-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1264
+    },
+    {
+      "order": 198,
+      "title": "Aqua Fuel",
+      "path": "ine/db/richard.html",
+      "slug": "198-aqua-fuel",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1279
+    },
+    {
+      "order": 199,
+      "title": "Rodin Coil Research",
+      "path": "ine/db/rodin.html",
+      "slug": "199-rodin-coil-research",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1171
+    },
+    {
+      "order": 200,
+      "title": "RQM Devices (Switzerland)",
+      "path": "ine/db/rqm.html",
+      "slug": "200-rqm-devices-switzerland",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1215
+    },
+    {
+      "order": 201,
+      "title": "High Voltage Solar Cells",
+      "path": "ine/db/sater.html",
+      "slug": "201-high-voltage-solar-cells",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1529
+    },
+    {
+      "order": 202,
+      "title": "Schauberger Vortex Effects",
+      "path": "ine/db/schauber.html",
+      "slug": "202-schauberger-vortex-effects",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1198
+    },
+    {
+      "order": 203,
+      "title": "Searl Generator (England)",
+      "path": "ine/db/searl1.html",
+      "slug": "203-searl-generator-england",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1272
+    },
+    {
+      "order": 204,
+      "title": "Searl Levitation Device (England)",
+      "path": "ine/db/searl2.html",
+      "slug": "204-searl-levitation-device-england",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1290
+    },
+    {
+      "order": 205,
+      "title": "Landau Oscillator (Seike, Japan)",
+      "path": "ine/db/seike.html",
+      "slug": "205-landau-oscillator-seike-japan",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1209
+    },
+    {
+      "order": 206,
+      "title": "Gravito Magnetic Device (Canada)",
+      "path": "ine/db/sinclair1.html",
+      "slug": "206-gravito-magnetic-device-canada",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1245
+    },
+    {
+      "order": 207,
+      "title": "Sinclaire Generator (Canada)",
+      "path": "ine/db/sinclair2.html",
+      "slug": "207-sinclaire-generator-canada",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1239
+    },
+    {
+      "order": 208,
+      "title": "Nuclear Decay Effects Experiments (Smith)",
+      "path": "ine/db/smith.html",
+      "slug": "208-nuclear-decay-effects-experiments-smith",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1211
+    },
+    {
+      "order": 209,
+      "title": "Magnetic Sink",
+      "path": "ine/db/smithw1.html",
+      "slug": "209-magnetic-sink",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1302
+    },
+    {
+      "order": 210,
+      "title": "Geomagnetic Generator",
+      "path": "ine/db/smithw2.html",
+      "slug": "210-geomagnetic-generator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1255
+    },
+    {
+      "order": 211,
+      "title": "Energy Conversion System",
+      "path": "ine/db/spence.html",
+      "slug": "211-energy-conversion-system",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1196
+    },
+    {
+      "order": 212,
+      "title": "Stephens Motor",
+      "path": "ine/db/stephens.html",
+      "slug": "212-stephens-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1330
+    },
+    {
+      "order": 213,
+      "title": "Stoneburg Motor Generator",
+      "path": "ine/db/stoneb.html",
+      "slug": "213-stoneburg-motor-generator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1264
+    },
+    {
+      "order": 214,
+      "title": "Los Alamos Experimental Research Results",
+      "path": "ine/db/storms.html",
+      "slug": "214-los-alamos-experimental-research-results",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1218
+    },
+    {
+      "order": 215,
+      "title": "Electrohydrogen Generator",
+      "path": "ine/db/studenn.html",
+      "slug": "215-electrohydrogen-generator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1422
+    },
+    {
+      "order": 216,
+      "title": "Sweet Vacuum Triode Amplifier (VTA)",
+      "path": "ine/db/sweet.html",
+      "slug": "216-sweet-vacuum-triode-amplifier-vta",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1404
+    },
+    {
+      "order": 217,
+      "title": "Takahashi Magnet Motor (Japan)",
+      "path": "ine/db/takahas.html",
+      "slug": "217-takahashi-magnet-motor-japan",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1210
+    },
+    {
+      "order": 218,
+      "title": "MRA Device S/N 95-3",
+      "path": "ine/db/taylor.html",
+      "slug": "218-mra-device-sn-95-3",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1364
+    },
+    {
+      "order": 219,
+      "title": "Magnepulsion Motor",
+      "path": "ine/db/teal.html",
+      "slug": "219-magnepulsion-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1229
+    },
+    {
+      "order": 220,
+      "title": "Non-Linear Shuttle Circuit",
+      "path": "ine/db/tesla.html",
+      "slug": "220-non-linear-shuttle-circuit",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1221
+    },
+    {
+      "order": 221,
+      "title": "N-Machine (India)",
+      "path": "ine/db/tewari.html",
+      "slug": "221-n-machine-india",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1258
+    },
+    {
+      "order": 222,
+      "title": "Theracore Cold Fusion",
+      "path": "ine/db/thermac.html",
+      "slug": "222-theracore-cold-fusion",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1227
+    },
+    {
+      "order": 223,
+      "title": "N-Machine (Trombly-Kahn)",
+      "path": "ine/db/trombley.html",
+      "slug": "223-n-machine-trombly-kahn",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1307
+    },
+    {
+      "order": 224,
+      "title": "Wanlass Motor-Generator",
+      "path": "ine/db/wanlass.html",
+      "slug": "224-wanlass-motor-generator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1226
+    },
+    {
+      "order": 225,
+      "title": "N-Motor",
+      "path": "ine/db/ward.html",
+      "slug": "225-n-motor",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1294
+    },
+    {
+      "order": 226,
+      "title": "Watson VTA Device",
+      "path": "ine/db/watsond.html",
+      "slug": "226-watson-vta-device",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1344
+    },
+    {
+      "order": 227,
+      "title": "Watson",
+      "path": "ine/db/watsonj.html",
+      "slug": "227-watson",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1311
+    },
+    {
+      "order": 228,
+      "title": "Free Energy Accumulator",
+      "path": "ine/db/wiseman1.html",
+      "slug": "228-free-energy-accumulator",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1307
+    },
+    {
+      "order": 229,
+      "title": "Wiseman Energy Conserver Circuit",
+      "path": "ine/db/wiseman2.html",
+      "slug": "229-wiseman-energy-conserver-circuit",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "ine/db/devices.html",
+        "ine/db/devices_n.html",
+        "ine/db/devices_i.html",
+        "ine/db/devices_c.html",
+        "ine/DBGUIDE.html"
+      ],
+      "chars": 1410
+    },
+    {
+      "order": 230,
+      "title": "The Institute For New Energy: Advanced Physics and Applications",
+      "path": "ine/index.html",
+      "slug": "230-the-institute-for-new-energy-advanced-physics-and-applications",
+      "reachable_from_entry": false,
+      "images": [
+        "linkwht.gif",
+        "RIB_BAR.GIF",
+        "http://ad.linkexchange.com/X067873/logoshowad?free",
+        "MACMADE.GIF"
+      ],
+      "internal_links": [
+        "ine/CCIAWARD2.html",
+        "ine/BLUERIBBON.html",
+        "ine/INEMAP.html",
+        "ine/ANNOUNCE.html",
+        "ine/AUTHORS.html",
+        "ine/INE8.html",
+        "ine/CSOURCES.html",
+        "ine/ELEWIS7.html",
+        "ine/ELEWIS6.html",
+        "ine/ELEWIS1.html",
+        "ine/ELEWIS3.html",
+        "ine/ELEWIS4.html",
+        "ine/ELEWIS5.html",
+        "ine/CCIAWARD.html",
+        "ine/CHILDRESS.html",
+        "ine/CHGRULES.html",
+        "ine/ADVEMBOOK.html",
+        "ine/CFPOSFBK.html",
+        "ine/ABSNEN896.html",
+        "ine/ATHERICBOOK.html",
+        "ine/AEEF96.html",
+        "ine/BMIMP696.html",
+        "ine/CFFUND696.html",
+        "ine/CFREV696.html",
+        "ine/ELEWIS2.html",
+        "ine/CFLIBEL.html",
+        "ine/CANADBT.html",
+        "ine/ANENL.html",
+        "ine/BLOWSNASA.html",
+        "ine/CFARNOSIX.html"
+      ],
+      "chars": 89230
+    },
+    {
+      "order": 231,
+      "title": "One moment, please...",
+      "path": "ine/\u00a0.html",
+      "slug": "231-one-moment-please",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 51
+    },
+    {
+      "order": 232,
+      "title": "One moment, please...",
+      "path": "ine/\u00a0Contains\u00a0many\u00a0important\u00a0scientific\u00a0papers\u00a0and\u00a0current\u00a0reports\u00a0.html",
+      "slug": "232-one-moment-please",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 51
+    }
+  ]
+}

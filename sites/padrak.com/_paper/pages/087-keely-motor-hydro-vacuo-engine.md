@@ -1,0 +1,81 @@
+---
+title: "Keely Motor (Hydro-Vacuo Engine)"
+source_domain: padrak.com
+source_path: ine/db/KEELYHV.HTML
+order: 87
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Keely Motor (Hydro-Vacuo Engine)
+
+*Source page: `ine/db/KEELYHV.HTML`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+  
+
+    
+KEELY MOTOR (HYDRO-VACUO ENGINE)
+
+    
+Posted: Oct. 24, 2001
+
+  
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          Keely Motor (Hydro-Vacuo Engine)
+Device Catagory:      Cavitation of Water using Resonance
+Device Type:          Over-Unity
+Inventor Name:        Keely, John E. W.
+Inventor Address:      
+Date First Demo:      1872 (patented)
+Watts Generated:       
+Date Last Demo:       1897
+Watts Generated:       
+% O/U Claimed:         
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:       1872-1897
+Witnesses Name:       multiple
+Witness Address:       
+Date Tested:           
+Tester Name:           
+Tester Address:        
+Researcher Contact:   Dale Pond
+Researcher Address:   
+DaleSVP@ipa.net
+
+Ranking, Interest:    5
+Ranking, Commercial:  5
+References:           ISNE 1994, pp 359-372;
+                      Keely & His Discoveries, University Books,1972.
+Last Ref. & Date:     ISNE 1994.
+File Name:            KEELYHV
+Date Last Modified:   10/25/2001
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/keelyhv.html
+
+Oct. 24, 2001.

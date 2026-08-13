@@ -1,0 +1,82 @@
+---
+title: "Hickman Perpetual Motion Electric Vehicle (HPMEV)"
+source_domain: padrak.com
+source_path: ine/db/HICKMAN.html
+order: 85
+reachable_from_entry: false
+images: 0
+internal_links: 1
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Hickman Perpetual Motion Electric Vehicle (HPMEV)
+
+*Source page: `ine/db/HICKMAN.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+  
+
+    
+HICKMAN PERPETUAL MOTION ELECTRIC VEHICLE (HPMEV)
+
+    
+Posted: Oct. 24, 2001
+
+  
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          Hickman Perpetual Motion Electric Vehicle (HPMEV)
+Device Catagory:      Perpetual Motion Machine
+Device Type:          Electric vehicle & recharging device
+Inventor Name:        Hickman, Allen
+Inventor Address:     Sacramento, CA? Died within last 2 years?
+Date First Demo:      About 1980
+Watts Generated:       
+Date Last Demo:        
+Watts Generated:       
+% O/U Claimed:         
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:       12/20/1998
+Witnesses Name:       Newspaper article on van driven from Florida to
+                      Washington and back
+Witness Address:       
+Date Tested:           
+Tester Name:           
+Tester Address:        
+Researcher Contact:   Buster Anderson
+Researcher Address:   
+beenergy@teluspla
+                      net
+
+Ranking, Interest:    M
+Ranking, Commercial:  M
+References:            
+Last Ref. & Date:     3-Jun-00
+File Name:            HICKMAN
+Date Last Modified:   6/28/2000
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/hickman.html
+
+Oct. 24, 2001.
