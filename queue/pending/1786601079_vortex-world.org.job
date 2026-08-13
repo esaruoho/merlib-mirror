@@ -1,0 +1,10 @@
+target: https://www.vortex-world.org
+domain: vortex-world.org
+mode: live
+path_filter: 
+ts_to: 
+label: 
+offline: false
+to_syncthing: false
+submitted: 2026-08-13T06:04:39Z
+submitted_from: RayMac
