@@ -104,3 +104,87 @@ Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/primalwater.com
 [2026-03-05 14:42:32] ============================================================
 [2026-03-05 14:42:32] 
 Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/primalwater.com.au
+[2026-08-13 09:51:03] ============================================================
+[2026-08-13 09:51:03] LIVE MIRROR: primalwater.com.au
+[2026-08-13 09:51:03] Seed: https://primalwater.com.au
+[2026-08-13 09:51:03] Seed path: /
+[2026-08-13 09:51:03] Max link depth: 5
+[2026-08-13 09:51:03] Output: /Users/esaruoho/work/merlib-mirror/sites/primalwater.com.au
+[2026-08-13 09:51:03] ============================================================
+[2026-08-13 09:51:05] robots.txt: honouring 1 Disallow rule(s) (MIRROR_IGNORE_ROBOTS=1 to override)
+[2026-08-13 09:51:05] Crawling / (download-as-you-go)...
+[2026-08-13 09:51:05]   [1 d0*] https://primalwater.com.au  (1 OK, 0 queued)
+[2026-08-13 09:51:05]     +59 links (61 total known)
+[2026-08-13 09:51:05]   [2 d0*] https://primalwater.com.au/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.5  (2 OK, 58 queued)
+[2026-08-13 09:51:06]   [3 d0*] https://primalwater.com.au/wp-content/uploads/2018/03/cropped-icon-180x180.png  (3 OK, 57 queued)
+[2026-08-13 09:51:07]   [4 d0*] https://primalwater.com.au/wp-content/plugins/brankic-shortcodes-extension/vc_extension/../font/linea/software.css?ver=e5f87c4ed04297463f3a7e408b625610  (4 OK, 56 queued)
+[2026-08-13 09:51:08]   [5 d0*] https://primalwater.com.au/wp-content/themes/myriadwp_child/style.css?ver=e5f87c4ed04297463f3a7e408b625610  (5 OK, 55 queued)
+[2026-08-13 09:51:08]   [6 d0*] https://primalwater.com.au/comments/feed/  (6 OK, 54 queued)
+[2026-08-13 09:51:09]   [7 d0*] https://primalwater.com.au/wp-content/uploads/2018/03/cropped-icon.png  (7 OK, 53 queued)
+[2026-08-13 09:51:09]   [8 d0*] https://primalwater.com.au/wp-content/uploads/2018/03/logo-1.png  (8 OK, 52 queued)
+[2026-08-13 09:51:10]   [9 d0*] https://primalwater.com.au/wp-content/uploads/2018/03/cropped-icon-32x32.png  (9 OK, 51 queued)
+[2026-08-13 09:51:10]   [10 d0*] https://primalwater.com.au/wp-includes/css/dist/block-library/style.min.css?ver=e5f87c4ed04297463f3a7e408b625610  (10 OK, 50 queued)
+[2026-08-13 09:51:13]   [15 d0*] https://primalwater.com.au/wp-content/plugins/brankic_js_composer/assets/lib/bower/font-awesome/css/v4-shims.min.css?ver=6.4.0  (15 OK, 48 queued)
+[2026-08-13 09:51:15]   [20 d0*] https://primalwater.com.au/about/  (20 OK, 43 queued)
+[2026-08-13 09:51:15]     +2 links (66 total known)
+[2026-08-13 09:51:18]   [25 d0*] https://primalwater.com.au/testimonials/  (25 OK, 40 queued)
+[2026-08-13 09:51:21]   [30 d0*] https://primalwater.com.au/wp-content/uploads/2021/01/radiometric-classification-512x512.jpg  (30 OK, 53 queued)
+[2026-08-13 09:51:23]   [35 d0*] https://primalwater.com.au/wp-content/uploads/2018/04/Aerial-scaled.jpg  (35 OK, 48 queued)
+[2026-08-13 09:51:26]   [40 d0*] https://primalwater.com.au/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=667fb12b  (40 OK, 43 queued)
+[2026-08-13 09:51:28]   [45 d0*] https://primalwater.com.au/wp-content/uploads/2018/04/Aerial-512x512.jpg  (45 OK, 38 queued)
+[2026-08-13 09:51:31]   [50 d0*] https://primalwater.com.au/wp-content/uploads/2020/11/dowsing-9.png  (50 OK, 41 queued)
+[2026-08-13 09:51:33]   [55 d0*] https://primalwater.com.au/groundwater-map-types-and-purpose-of-use-for-bore-site-selection/  (55 OK, 50 queued)
+[2026-08-13 09:51:37]   [60 d0*] https://primalwater.com.au/wp-content/uploads/2021/04/seismic-2.png  (59 OK, 54 queued)
+[2026-08-13 09:51:39]   [65 d0*] https://primalwater.com.au/wp-content/uploads/2020/11/istockphoto-642438562-612x612-1-512x408.jpg  (64 OK, 55 queued)
+[2026-08-13 09:51:42]   [70 d0*] https://primalwater.com.au/groundwater-map-types-and-purpose-of-use-for-bore-site-selection/feed/  (69 OK, 50 queued)
+[2026-08-13 09:51:44]   [75 d0*] https://primalwater.com.au/wp-content/uploads/2021/05/ice-1.jpg  (74 OK, 66 queued)
+[2026-08-13 09:51:47]   [80 d0*] https://primalwater.com.au/wp-content/uploads/2021/05/ice-3.jpg  (79 OK, 61 queued)
+[2026-08-13 09:51:49]   [85 d0*] https://primalwater.com.au/wp-content/uploads/2021/05/fish-2.jpg  (84 OK, 56 queued)
+[2026-08-13 09:51:52]   [90 d0*] https://primalwater.com.au/wp-content/uploads/2021/05/mea-device-286x300.jpg  (89 OK, 51 queued)
+[2026-08-13 09:51:54]   [95 d0*] https://primalwater.com.au/wp-content/uploads/2018/06/istockphoto-1159412968-612x612-1-512x384.jpg  (94 OK, 50 queued)
+[2026-08-13 09:51:57]   [100 d0*] https://primalwater.com.au/wp-content/uploads/2021/01/img1-1-1024x658.jpg  (99 OK, 51 queued)
+[2026-08-13 09:51:59]   [105 d0*] https://primalwater.com.au/wp-content/uploads/2021/01/plant-1.jpg  (104 OK, 46 queued)
+[2026-08-13 09:52:02]   [110 d0*] https://primalwater.com.au/wp-content/uploads/2021/01/beetroot1.jpg  (109 OK, 51 queued)
+[2026-08-13 09:52:04]   [115 d0*] https://primalwater.com.au/wp-content/uploads/2021/01/plant-3.jpg  (114 OK, 46 queued)
+[2026-08-13 09:52:07]   [120 d0*] https://primalwater.com.au/qa/  (119 OK, 41 queued)
+[2026-08-13 09:52:07]     +2 links (164 total known)
+[2026-08-13 09:52:10]   [125 d0*] https://primalwater.com.au/wp-content/uploads/2021/01/Value-of-water-in-agriculture.docx.jpg  (124 OK, 40 queued)
+[2026-08-13 09:52:12]   [130 d0*] https://primalwater.com.au/science-of-earth-generated-water/  (129 OK, 35 queued)
+[2026-08-13 09:52:12]     +3 links (169 total known)
+[2026-08-13 09:52:16]   [135 d0*] https://primalwater.com.au/wp-content/plugins/brankic_js_composer/assets/lib/prettyphoto/css/prettyPhoto.min.css?ver=6.4.0  (133 OK, 33 queued)
+[2026-08-13 09:52:20]   [140] 137 OK, 3 failed, 28 queued
+[2026-08-13 09:52:20]     last fail: https://primalwater.com.au/xmlrpc.php?rsd
+[2026-08-13 09:52:22]   [145 d0*] https://primalwater.com.au/wp-content/themes/myriadwp/javascript/wow.min.js?ver=1.0.0  (142 OK, 23 queued)
+[2026-08-13 09:52:25]   [150 d0*] https://primalwater.com.au/wp-content/themes/myriadwp/css/brankic_style.min.css?ver=e5f87c4ed04297463f3a7e408b625610  (147 OK, 18 queued)
+[2026-08-13 09:52:27]   [155 d0*] https://primalwater.com.au/wp-content/plugins/smart-recent-posts-widget/assets/css/srpw-frontend.css?ver=e5f87c4ed04297463f3a7e408b625610  (152 OK, 13 queued)
+[2026-08-13 09:52:30]   [160 d0*] https://primalwater.com.au/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.5  (157 OK, 8 queued)
+[2026-08-13 09:52:32]   [165 d0*] https://primalwater.com.au/wp-content/plugins/brankic-shortcodes-extension/css/brankic_js_composer.min.css?ver=e5f87c4ed04297463f3a7e408b625610  (162 OK, 3 queued)
+[2026-08-13 09:52:35]   [170 d0*] https://primalwater.com.au/wp-content/plugins/brankic_js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.4.0  (167 OK, 4 queued)
+[2026-08-13 09:52:37] WordPress PDF extraction: found 3 PDF(s)
+[2026-08-13 09:52:40]   PDFs: 0 downloaded, 2 cached, 1 failed
+[2026-08-13 09:52:40]   Missing PDFs list: /Users/esaruoho/work/merlib-mirror/sites/primalwater.com.au/_missing_pdfs.txt
+[2026-08-13 09:52:40] Generating index...
+[2026-08-13 09:52:40] Index: 174 files
+[2026-08-13 09:52:40]   .jpg: 73
+[2026-08-13 09:52:40]   .html: 35
+[2026-08-13 09:52:40]   .0: 16
+[2026-08-13 09:52:40]   .css__ver%3de5f87c4ed04297463f3a7e408b625610: 15
+[2026-08-13 09:52:40]   .png: 14
+[2026-08-13 09:52:40]   .js__ver%3d667fb12b: 6
+[2026-08-13 09:52:40]   .pdf: 4
+[2026-08-13 09:52:40]   .5: 3
+[2026-08-13 09:52:40]   .1: 2
+[2026-08-13 09:52:40]   .css__ver%3d1767842713: 1
+[2026-08-13 09:52:40]   .css__ver%3d667fb12b: 1
+[2026-08-13 09:52:40]   .css: 1
+[2026-08-13 09:52:40]   .js__ver%3de5f87c4ed04297463f3a7e408b625610: 1
+[2026-08-13 09:52:40]   .js__ver%3d4d63a3d491d11ffd8ac6: 1
+[2026-08-13 09:52:40]   .js__ver%3d5e580eb46a90c2b997e6: 1
+[2026-08-13 09:52:40] 
+============================================================
+[2026-08-13 09:52:40] LIVE MIRROR COMPLETE
+[2026-08-13 09:52:40] Downloaded: 174, OK: 171, Failed: 3
+[2026-08-13 09:52:40] Total URLs seen: 175
+[2026-08-13 09:52:40] ============================================================
+[2026-08-13 09:52:40] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/primalwater.com.au
