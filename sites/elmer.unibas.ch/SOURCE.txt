@@ -1,0 +1,5 @@
+target: https://elmer.unibas.ch/pendulum/index.html
+mode: live
+path_filter: /pendulum/index.html
+title: The Pendulum Lab
+mirror_date: 2026-08-13T06:28:59Z
