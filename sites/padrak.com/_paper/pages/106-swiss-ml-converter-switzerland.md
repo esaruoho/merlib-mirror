@@ -1,0 +1,72 @@
+---
+title: "Swiss ML Converter (Switzerland)"
+source_domain: padrak.com
+source_path: ine/db/baumann.html
+order: 106
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Swiss ML Converter (Switzerland)
+
+*Source page: `ine/db/baumann.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+SWISS ML CONVERTER (SWITZERLAND)
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          Swiss ML Converter (Switzerland)
+Device Category:      Rotat. Magnetic
+Device Type:          Over-Unity
+Inventor Name:        Baumann, Paul
+Inventor Address:     Methernitha, 3517 Linden, Switzerland
+Date First Demo:       
+Watts Generated:       
+Date Last Demo:       1980s
+Watts Generated:      150 W - 1kW
+% O/U Claimed:        infinite
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:        
+Witnesses Name:       Stephan Marinov
+Witness Address:      Deutsche Physik, Morellenfeldgasse 16, A-8010, Graz,
+                      Austria
+Date Tested:           
+Tester Name:          Stephan Marinov
+Tester Address:       Deutsche Physik, Morellenfeldgasse 16, A-8010, Graz,
+                      Austria
+Researcher Contact:    
+Researcher Address:    
+Ranking, Interest:    9
+Ranking, Commercial:  5
+References:            
+Last Ref. & Date:      
+File Name:            BAUMANN
+Date Last Modified:   10/29/97
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/baumann.html
+
+Jul. 31, 1998.

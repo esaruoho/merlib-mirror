@@ -1,0 +1,70 @@
+---
+title: "B.A.S.E."
+source_domain: padrak.com
+source_path: ine/db/base.html
+order: 105
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# B.A.S.E.
+
+*Source page: `ine/db/base.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+B.A.S.E.
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          B.A.S.E.
+Device Category:      Rotating magnetic
+Device Type:          Over-Unity
+Inventor Name:         
+Inventor Address:      
+Date First Demo:       
+Watts Generated:       
+Date Last Demo:        
+Watts Generated:       
+% O/U Claimed:         
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:        
+Witnesses Name:        
+Witness Address:       
+Date Tested:           
+Tester Name:           
+Tester Address:        
+Researcher Contact:    
+Researcher Address:    
+Ranking, Interest:    N
+Ranking, Commercial:  N
+References:           found on Internet under Motor Diagrams and Lab Notes.
+Last Ref. & Date:      
+File Name:            BASE
+Date Last Modified:   7/31/98
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/base.html
+
+Jul. 31, 1998.

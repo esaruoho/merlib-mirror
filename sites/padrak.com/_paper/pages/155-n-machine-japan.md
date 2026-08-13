@@ -1,0 +1,70 @@
+---
+title: "N-Machine (Japan)"
+source_domain: padrak.com
+source_path: ine/db/inomata.html
+order: 155
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# N-Machine (Japan)
+
+*Source page: `ine/db/inomata.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+N-MACHINE (JAPAN)
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          N-Machine (Japan)
+Device Category:      Rotat. Magnetic
+Device Type:          Over-Unity
+Inventor Name:        Inomata, Shiuji
+Inventor Address:     2-2-2 Sekigawa-cho, Arai-shi, Nigata 944 Japan
+Date First Demo:       
+Watts Generated:       
+Date Last Demo:        
+Watts Generated:      Small
+% O/U Claimed:         
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:        
+Witnesses Name:        
+Witness Address:       
+Date Tested:           
+Tester Name:           
+Tester Address:        
+Researcher Contact:    
+Researcher Address:    
+Ranking, Interest:    6
+Ranking, Commercial:  7
+References:           ISNE 1996, pp129-140.
+Last Ref. & Date:     ISNE 1996.
+File Name:            INOMATA
+Date Last Modified:   10/29/97
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/inomata.html
+
+Jul. 31, 1998.

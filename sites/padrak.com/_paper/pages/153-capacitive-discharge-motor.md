@@ -1,0 +1,71 @@
+---
+title: "Capacitive Discharge Motor"
+source_domain: padrak.com
+source_path: ine/db/ide.html
+order: 153
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Capacitive Discharge Motor
+
+*Source page: `ine/db/ide.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+CAPACITIVE DISCHARGE MOTOR
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          Capacitive Discharge Motor
+Device Category:      Capacitive Discharge
+Device Type:          Over Unity
+Inventor Name:        Ide, Osamu
+Inventor Address:     Clean Energy Laboratory, Minato-Ku Mita 3-4-21-601,
+                      Tokyo 108, Japan
+Date First Demo:       
+Watts Generated:       
+Date Last Demo:        
+Watts Generated:       
+% O/U Claimed:        120%
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:        
+Witnesses Name:        
+Witness Address:       
+Date Tested:           
+Tester Name:           
+Tester Address:        
+Researcher Contact:    
+Researcher Address:    
+Ranking, Interest:    8
+Ranking, Commercial:  8
+References:           J. Appl. Phys 77(11) 1 June 1995.
+Last Ref. & Date:     Paper 1995.
+File Name:            IDE
+Date Last Modified:   7/23/97
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/ide.html
+
+Jul. 31, 1998.

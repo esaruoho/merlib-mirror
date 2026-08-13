@@ -1,0 +1,80 @@
+---
+title: "Energy Producing Device Using Buoyancy Device"
+source_domain: padrak.com
+source_path: ine/db/ALKHAMIS.html
+order: 78
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Energy Producing Device Using Buoyancy Device
+
+*Source page: `ine/db/ALKHAMIS.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+  
+
+    
+ENERGY PRODUCING DEVICE USING BUOYANCY DEVICE
+
+    
+Posted: Jul.  7, 2000
+
+  
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          Energy Producing Device Using Buoyancy Device
+Device Catagory:      Over Unity
+Device Type:          Power Plant
+Inventor Name:        Alkhamis, Mohammed
+Inventor Address:     P.O. Box 85069, Riyadh 11691, Saudi Arabia
+Date First Demo:       
+Watts Generated:       
+Date Last Demo:        
+Watts Generated:       
+% O/U Claimed:         
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:        
+Witnesses Name:        
+Witness Address:       
+Date Tested:           
+Tester Name:           
+Tester Address:        
+Researcher Contact:   Mohammed Alkhamis
+Researcher Address:   
+moh_alkhamis@hotmail.com
+
+Ranking, Interest:    M
+Ranking, Commercial:  M
+References:            
+Last Ref. & Date:     21-Jun-00
+File Name:            ALKHAMIS
+Date Last Modified:   6/28/2000
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/alkhamis.html
+
+Jul.  7, 2000.

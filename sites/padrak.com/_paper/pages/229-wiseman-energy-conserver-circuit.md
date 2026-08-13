@@ -1,0 +1,70 @@
+---
+title: "Wiseman Energy Conserver Circuit"
+source_domain: padrak.com
+source_path: ine/db/wiseman2.html
+order: 229
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Wiseman Energy Conserver Circuit
+
+*Source page: `ine/db/wiseman2.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+WISEMAN ENERGY CONSERVER CIRCUIT
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          Wiseman Energy Conserver Circuit
+Device Category:      Resonance
+Device Type:          Over-Unity
+Inventor Name:        Wiseman, George
+Inventor Address:     PO Box 145, Eastport, ID 83826
+Date First Demo:      4/27/96
+Watts Generated:      160  nW
+Date Last Demo:       4/27/96
+Watts Generated:      160 nW
+% O/U Claimed:         
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:       4/27/96
+Witnesses Name:       Bob Emmerich
+Witness Address:      6915 Alogonquin Drive, Loveland, CO  80537
+Date Tested:           
+Tester Name:          Bob emmerich
+Tester Address:       6915 Alogonquin Drive, Loveland, CO  80537
+Researcher Contact:    
+Researcher Address:    
+Ranking, Interest:    1
+Ranking, Commercial:  2
+References:           ANE Newsletter, October, 1996 pp1-2.
+Last Ref. & Date:     ANE 1995.
+File Name:            WISEMAN2
+Date Last Modified:   7/23/97
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/wiseman2.html
+
+Jul. 31, 1998.

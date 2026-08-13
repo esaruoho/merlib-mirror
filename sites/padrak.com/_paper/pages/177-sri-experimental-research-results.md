@@ -1,0 +1,70 @@
+---
+title: "SRI Experimental Research Results"
+source_domain: padrak.com
+source_path: ine/db/mckubre.html
+order: 177
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# SRI Experimental Research Results
+
+*Source page: `ine/db/mckubre.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+SRI EXPERIMENTAL RESEARCH RESULTS
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          SRI Experimental Research Results
+Device Category:      Cold Fusion
+Device Type:          Over-Unity
+Inventor Name:        McKubre, Michael
+Inventor Address:      
+Date First Demo:       
+Watts Generated:       
+Date Last Demo:        
+Watts Generated:       
+% O/U Claimed:         
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:        
+Witnesses Name:        
+Witness Address:       
+Date Tested:           
+Tester Name:           
+Tester Address:        
+Researcher Contact:    
+Researcher Address:    
+Ranking, Interest:    8
+Ranking, Commercial:  7
+References:           IECEC 1994, pp 1478-1483.
+Last Ref. & Date:     IECEC 1994.
+File Name:            MCKUBRE
+Date Last Modified:   7/23/97
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/mckubre.html
+
+Jul. 31, 1998.

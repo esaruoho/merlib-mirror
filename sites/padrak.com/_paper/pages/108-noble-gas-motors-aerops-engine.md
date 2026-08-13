@@ -1,0 +1,70 @@
+---
+title: "Noble Gas Motors (AEROPS Engine)"
+source_domain: padrak.com
+source_path: ine/db/britt.html
+order: 108
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Noble Gas Motors (AEROPS Engine)
+
+*Source page: `ine/db/britt.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+NOBLE GAS MOTORS (AEROPS ENGINE)
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          Noble Gas Motors (AEROPS Engine)
+Device Category:      Nuc. Isotopic
+Device Type:          Over-Unity
+Inventor Name:        Britt, Robert Gordon
+Inventor Address:     313 W. Fisher, St. Salisbury, NC 28144
+Date First Demo:      circa 1974
+Watts Generated:       
+Date Last Demo:        
+Watts Generated:       
+% O/U Claimed:         
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:        
+Witnesses Name:        
+Witness Address:       
+Date Tested:           
+Tester Name:           
+Tester Address:        
+Researcher Contact:    
+Researcher Address:    
+Ranking, Interest:    M
+Ranking, Commercial:  M
+References:           US Patent 3,977,191.
+Last Ref. & Date:      
+File Name:            BRITT
+Date Last Modified:   7/23/97
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/britt.html
+
+Jul. 31, 1998.

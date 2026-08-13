@@ -1,0 +1,71 @@
+---
+title: "Switched Reluctance Motor (England)"
+source_domain: padrak.com
+source_path: ine/db/aspden3.html
+order: 100
+reachable_from_entry: false
+images: 0
+internal_links: 5
+extracted: 2026-08-13T06:49:51Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Switched Reluctance Motor (England)
+
+*Source page: `ine/db/aspden3.html`*
+
+Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+SWITCHED RELUCTANCE MOTOR (ENGLAND)
+
+See the 
+Database Guidelines
+ file for:
+
+Additions, Changes, and Your Supportive Input into the data in these files.
+
+Device Name:          Switched Reluctance Motor (England)
+Device Category:      Electr. Magnetic
+Device Type:          Over Unity
+Inventor Name:        Aspden, Harold
+Inventor Address:     Acres High Hadrian Way, Chilworth, Southhampton S09
+                      7HZ England
+Date First Demo:       
+Watts Generated:       
+Date Last Demo:        
+Watts Generated:       
+% O/U Claimed:         
+% O/U Measured:        
+% Weight Loss:         
+Date Witnessed:        
+Witnesses Name:        
+Witness Address:       
+Date Tested:           
+Tester Name:           
+Tester Address:        
+Researcher Contact:    
+Researcher Address:    
+Ranking, Interest:    M
+Ranking, Commercial:  M
+References:           US Patent 4,975,608.
+Last Ref. & Date:      
+File Name:            ASPDEN3
+Date Last Modified:   7/23/97
+
+  Return to the INE Devices Page
+
+Return to the INE Inventors Page
+
+Return to the INE Interest Ranking Page
+
+Return to the INE Commercial Ranking Page
+
+www.padrak.com/ine/db/aspden3.html
+
+Jul. 31, 1998.
