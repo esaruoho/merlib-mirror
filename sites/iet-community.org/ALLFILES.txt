@@ -202,6 +202,8 @@ publications/report-01.html
 publications/reports/IET Forskningsrapporter Nr 1.pdf
 publications/reports/IET Forskningsrapporter Nr 2.pdf
 publications/reports/IET Scientific and Technical Reports No 1.pdf
+publications/reports/handkerchief-dynamics-beltrami-torricelli-mathematical-analysis.md
+publications/reports/iet-self-organizing-flow-deep-analysis.md
 publications/sensibeltkaos.html
 research/augustenborg.html
 research/dropchannel.html

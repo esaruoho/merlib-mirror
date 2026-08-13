@@ -1,0 +1,1981 @@
+{
+  "domain": "iet-community.org",
+  "source_url": "https://iet-community.org/",
+  "entry": "index.html",
+  "pages_total": 73,
+  "pages_reachable": 73,
+  "pages_unreached": 0,
+  "body_chars": 465651,
+  "extractor": "builtin",
+  "generated": "2026-08-13T06:42:21Z",
+  "pages": [
+    {
+      "order": 1,
+      "title": "Welcome to Institute of Ecological Technology",
+      "path": "index.html",
+      "slug": "001-welcome-to-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "bilder/logo.gif",
+        "bilder/images/topbar_01blue.jpg",
+        "bilder/images/topbar_02.jpg",
+        "iwone/IWONE10/images/holma.jpg",
+        "bilder/water2.jpg",
+        "bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html"
+      ],
+      "chars": 1514
+    },
+    {
+      "order": 2,
+      "title": "About Institute of Ecological Technology",
+      "path": "about/about.html",
+      "slug": "002-about-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/droppe.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "about/vision.html",
+        "about/history.html",
+        "about/community.html",
+        "about/join.html"
+      ],
+      "chars": 4089
+    },
+    {
+      "order": 3,
+      "title": "Research - Institute of Ecological Technology",
+      "path": "research/research.html",
+      "slug": "003-research-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/vortexbarrel.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html",
+        "research/flowtechnique.html",
+        "research/augustenborg.html",
+        "research/dropchannel.html"
+      ],
+      "chars": 6619
+    },
+    {
+      "order": 4,
+      "title": "Activities - Institute of Ecological Technology",
+      "path": "activities/activities.html",
+      "slug": "004-activities-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/pond1.jpg",
+        "../bilder/water1.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 3813
+    },
+    {
+      "order": 5,
+      "title": "Contact - Institute of Ecological Technology",
+      "path": "contact/contact.html",
+      "slug": "005-contact-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/WaterRollsMorocko2.jpg",
+        "../bilder/WaterRollsMorocko1.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "publications/index.html",
+        "contribute/contribute.html"
+      ],
+      "chars": 2751
+    },
+    {
+      "order": 6,
+      "title": "Books & Reports - Institute of Ecological Technology",
+      "path": "publications/index.html",
+      "slug": "006-books-reports-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/linebluebody.gif",
+        "../bilder/linebluebody.gif",
+        "../bilder/linebluebody.gif",
+        "../bilder/linebluebody.gif",
+        "../bilder/linebluebody.gif",
+        "image.png",
+        "../bilder/bookshop02.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "contribute/contribute.html",
+        "publications/report-01.html",
+        "publications/rapport-01.html",
+        "publications/rapport-02.html",
+        "publications/sensibeltkaos.html"
+      ],
+      "chars": 5165
+    },
+    {
+      "order": 7,
+      "title": "Contribute - Institute of Ecological Technology",
+      "path": "contribute/contribute.html",
+      "slug": "007-contribute-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "../bilder/sten2.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html"
+      ],
+      "chars": 2679
+    },
+    {
+      "order": 8,
+      "title": "AboutIET: The vision - Institute of Ecological Technology",
+      "path": "about/vision.html",
+      "slug": "008-aboutiet-the-vision-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/vision.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "about/history.html",
+        "about/community.html",
+        "about/join.html"
+      ],
+      "chars": 3559
+    },
+    {
+      "order": 9,
+      "title": "About IET: History - Institute of Ecological Technology",
+      "path": "about/history.html",
+      "slug": "009-about-iet-history-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/history.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "about/community.html",
+        "about/vision.html",
+        "about/join.html"
+      ],
+      "chars": 2799
+    },
+    {
+      "order": 10,
+      "title": "About IET Community - Institute of Ecological Technology",
+      "path": "about/community.html",
+      "slug": "010-about-iet-community-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/ponds.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "about/vision.html",
+        "about/history.html",
+        "about/join.html"
+      ],
+      "chars": 1371
+    },
+    {
+      "order": 11,
+      "title": "About IET: Join Institute of Ecological Technology",
+      "path": "about/join.html",
+      "slug": "011-about-iet-join-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/droppe.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "about/community.html",
+        "about/vision.html",
+        "about/history.html"
+      ],
+      "chars": 2828
+    },
+    {
+      "order": 12,
+      "title": "Activities: IWONE - Institute of Ecological Technology",
+      "path": "activities/iwone.html",
+      "slug": "012-activities-iwone-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/coffeecycloid.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE10/index.html",
+        "iwone/IWONE1/iwone_info.html",
+        "iwone/IWONE2/iwone2_info.html",
+        "iwone/IWONE3/index.html",
+        "iwone/IWONE4/index.html",
+        "iwone/IWONE5/index.html",
+        "iwone/IWONE6/index.html",
+        "iwone/IWONE7/index.html",
+        "iwone/IWONE8/index.html",
+        "iwone/IWONE9/index.html"
+      ],
+      "chars": 1962
+    },
+    {
+      "order": 13,
+      "title": "Research: Reports - Institute of Ecological Technology",
+      "path": "research/flowtechnique.html",
+      "slug": "013-research-reports-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/images/knossos_01.gif",
+        "../bilder/images/knossos_02.gif",
+        "../bilder/images/knossos_03.gif",
+        "../bilder/images/knossos_04.gif",
+        "../bilder/images/knossos_05.gif",
+        "../bilder/images/knossos_06.gif",
+        "../bilder/images/knossos_07.gif",
+        "../bilder/images/knossos_08.gif",
+        "../bilder/linebluebody.gif",
+        "../bilder/linebluebody.gif",
+        "../bilder/linebluebody.gif",
+        "../bilder/viktor40.jpg",
+        "../bilder/logflume.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html"
+      ],
+      "chars": 20299
+    },
+    {
+      "order": 14,
+      "title": "Research: Reports - Institute of Ecological Technology",
+      "path": "research/augustenborg.html",
+      "slug": "014-research-reports-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/lineblueshort.gif",
+        "../bilder/images/augustenborg_01.jpg",
+        "../bilder/images/augustenborg_02.jpg",
+        "../bilder/images/augustenborg_03.jpg",
+        "../bilder/images/augustenborg_04.jpg",
+        "../bilder/images/augustenborg_05.jpg",
+        "../bilder/images/augustenborg_06.jpg",
+        "../bilder/images/augustenborg_07.jpg",
+        "../bilder/images/augustenborg_08.jpg",
+        "../bilder/images/augustenborg_09.jpg",
+        "../bilder/images/augustenborg_10.jpg",
+        "../bilder/images/arla_01.jpg",
+        "../bilder/images/arla_02.jpg",
+        "../bilder/images/arla_03.jpg",
+        "../bilder/images/arla_04.jpg",
+        "../bilder/images/arla_05.jpg",
+        "../bilder/images/arla_06.jpg",
+        "../bilder/images/arla_07.jpg",
+        "../bilder/images/arla_08.jpg",
+        "../bilder/images/arla_09.jpg",
+        "../bilder/images/arla_10.jpg",
+        "../bilder/images/pond_01.jpg",
+        "../bilder/images/pond_02.jpg",
+        "../bilder/images/pond_03.jpg",
+        "../bilder/images/pond_04.jpg",
+        "../bilder/images/dropchan_01.jpg",
+        "../bilder/images/dropchan_02.jpg",
+        "../bilder/images/stone_01.gif",
+        "../bilder/images/stone_02.gif",
+        "../bilder/images/stone_03.gif",
+        "../bilder/images/stone_04.gif",
+        "../bilder/Morten.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html"
+      ],
+      "chars": 9075
+    },
+    {
+      "order": 15,
+      "title": "Research: Reports - Institute of Ecological Technology",
+      "path": "research/dropchannel.html",
+      "slug": "015-research-reports-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/exswdelogga.jpg",
+        "../bilder/images/dropchannel01_01.jpg",
+        "../bilder/images/dropchannel01_02.jpg",
+        "../bilder/images/dropchannel02_01.jpg",
+        "../bilder/images/dropchannel02_02.jpg",
+        "../bilder/aggs.jpg",
+        "../bilder/expover.jpg",
+        "../bilder/expside.jpg",
+        "../bilder/expopen.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html"
+      ],
+      "chars": 7445
+    },
+    {
+      "order": 16,
+      "title": "Books & Reports - Institute of Ecological Technology",
+      "path": "publications/report-01.html",
+      "slug": "016-books-reports-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/linebluebody.gif",
+        "../bilder/linebluebody.gif",
+        "../bilder/linebluebody.gif",
+        "image.png",
+        "../bilder/report-01.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html"
+      ],
+      "chars": 3877
+    },
+    {
+      "order": 17,
+      "title": "Books & Reports - Institute of Ecological Technology",
+      "path": "publications/rapport-01.html",
+      "slug": "017-books-reports-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/linebluebody.gif",
+        "../bilder/linebluebody.gif",
+        "../bilder/linebluebody.gif",
+        "image.png",
+        "../bilder/report-01.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html"
+      ],
+      "chars": 3909
+    },
+    {
+      "order": 18,
+      "title": "Books & Reports - Institute of Ecological Technology",
+      "path": "publications/rapport-02.html",
+      "slug": "018-books-reports-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/linebluebody.gif",
+        "../bilder/linebluebody.gif",
+        "../bilder/linebluebody.gif",
+        "image.png",
+        "../bilder/report-02.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html"
+      ],
+      "chars": 4574
+    },
+    {
+      "order": 19,
+      "title": "Books & Reports - Institute of Ecological Technology",
+      "path": "publications/sensibeltkaos.html",
+      "slug": "019-books-reports-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../bilder/logo.gif",
+        "../bilder/images/topbar_01blue.jpg",
+        "../bilder/images/topbar_02.jpg",
+        "../bilder/linebluebody.gif",
+        "../bilder/linebluebody.gif",
+        "../bilder/linebluebody.gif",
+        "image.png",
+        "../bilder/sensibeltkaos.jpg",
+        "../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html"
+      ],
+      "chars": 3755
+    },
+    {
+      "order": 20,
+      "title": "IWONE 2023 - Institute of Ecological Technology",
+      "path": "iwone/IWONE10/index.html",
+      "slug": "020-iwone-2023-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "images/iwone.png",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE10/a-quick-glimpse.html",
+        "iwone/IWONE10/presentations.html",
+        "iwone/IWONE10/abstracts.html",
+        "iwone/IWONE10/focus.html",
+        "iwone/IWONE10/gettinghere.html",
+        "activities/iwone.html"
+      ],
+      "chars": 5562
+    },
+    {
+      "order": 21,
+      "title": "IWONE Introduction",
+      "path": "iwone/IWONE1/iwone_info.html",
+      "slug": "021-iwone-introduction",
+      "reachable_from_entry": true,
+      "images": [
+        "maison_01-over.gif",
+        "enveloppe_01-over.gif",
+        "iwone20.jpg"
+      ],
+      "internal_links": [
+        "activities/iwone.html",
+        "iwone/IWONE1/founders.html",
+        "iwone/IWONE1/participants_imap.html",
+        "iwone/IWONE1/report.html"
+      ],
+      "chars": 1634
+    },
+    {
+      "order": 22,
+      "title": "IWONE Introduction",
+      "path": "iwone/IWONE2/iwone2_info.html",
+      "slug": "022-iwone-introduction",
+      "reachable_from_entry": true,
+      "images": [
+        "maison_01-over.gif",
+        "enveloppe_01-over.gif",
+        "iwone20.jpg",
+        "Wirbel_blau.jpg"
+      ],
+      "internal_links": [
+        "activities/iwone.html",
+        "iwone/IWONE2/info.html",
+        "iwone/IWONE2/agenda.html",
+        "iwone/IWONE2/travel.html",
+        "iwone/IWONE2/register.html",
+        "iwone/IWONE1/iwone_info.html"
+      ],
+      "chars": 2648
+    },
+    {
+      "order": 23,
+      "title": "Activities: IWONE - Institute of Ecological Technology",
+      "path": "iwone/IWONE3/index.html",
+      "slug": "023-activities-iwone-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE3/focus.html",
+        "iwone/IWONE3/presentations.html",
+        "iwone/IWONE3/abstracts.html",
+        "iwone/IWONE3/practicalworkshops.html",
+        "iwone/IWONE3/schedule.html",
+        "activities/iwone.html"
+      ],
+      "chars": 2117
+    },
+    {
+      "order": 24,
+      "title": "IWONE 2009 - Institute of Ecological Technology",
+      "path": "iwone/IWONE4/index.html",
+      "slug": "024-iwone-2009-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "iwone.png",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE4/focus.html",
+        "iwone/IWONE4/presentations.html",
+        "iwone/IWONE4/abstracts.html",
+        "activities/iwone.html"
+      ],
+      "chars": 2821
+    },
+    {
+      "order": 25,
+      "title": "IWONE 2011 - Institute of Ecological Technology",
+      "path": "iwone/IWONE5/index.html",
+      "slug": "025-iwone-2011-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "images/iwone.png",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE5/focus.html",
+        "iwone/IWONE5/presentations.html",
+        "iwone/IWONE5/a-quick-glimpse.html",
+        "iwone/IWONE5/abstracts.html",
+        "activities/iwone.html"
+      ],
+      "chars": 4860
+    },
+    {
+      "order": 26,
+      "title": "IWONE 2013 - Institute of Ecological Technology",
+      "path": "iwone/IWONE6/index.html",
+      "slug": "026-iwone-2013-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "images/iwone.png",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE6/focus.html",
+        "iwone/IWONE6/presentations.html",
+        "iwone/IWONE6/abstracts.html",
+        "iwone/IWONE6/a-quick-glimpse.html",
+        "iwone/IWONE6/gettinghere.html",
+        "activities/iwone.html"
+      ],
+      "chars": 5783
+    },
+    {
+      "order": 27,
+      "title": "IWONE 2015 - Institute of Ecological Technology",
+      "path": "iwone/IWONE7/index.html",
+      "slug": "027-iwone-2015-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "images/iwone.png",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE7/focus.html",
+        "iwone/IWONE7/presentations.html",
+        "iwone/IWONE7/abstracts.html",
+        "iwone/IWONE7/gettinghere.html",
+        "activities/iwone.html"
+      ],
+      "chars": 5264
+    },
+    {
+      "order": 28,
+      "title": "IWONE 2017 - Institute of Ecological Technology",
+      "path": "iwone/IWONE8/index.html",
+      "slug": "028-iwone-2017-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "images/iwone.png",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE8/a-quick-glimpse.html",
+        "iwone/IWONE8/focus.html",
+        "iwone/IWONE8/presentations.html",
+        "iwone/IWONE8/abstracts.html",
+        "iwone/IWONE8/topic-discussions.html",
+        "iwone/IWONE8/gettinghere.html",
+        "activities/iwone.html"
+      ],
+      "chars": 5834
+    },
+    {
+      "order": 29,
+      "title": "IWONE 2019 - Institute of Ecological Technology",
+      "path": "iwone/IWONE9/index.html",
+      "slug": "029-iwone-2019-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "images/iwone.png",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE9/focus.html",
+        "iwone/IWONE9/presentations.html",
+        "iwone/IWONE9/abstracts.html",
+        "iwone/IWONE9/a-quick-glimpse.html",
+        "iwone/IWONE9/gettinghere.html",
+        "activities/iwone.html"
+      ],
+      "chars": 5774
+    },
+    {
+      "order": 30,
+      "title": "IWONE 2023 Presentations - a quick glimpse - Institute of Ecological Technology",
+      "path": "iwone/IWONE10/a-quick-glimpse.html",
+      "slug": "030-iwone-2023-presentations-a-quick-glimpse-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "images/holma.jpg",
+        "images/topic-discussions.jpg",
+        "images/ink-droplet-octopus.jpg",
+        "images/clay-table-workshop.jpg",
+        "images/water-vortex-in-bucket-small.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE10/presentations.html",
+        "activities/iwone.html",
+        "iwone/IWONE10/index.html"
+      ],
+      "chars": 7829
+    },
+    {
+      "order": 31,
+      "title": "IWONE 2023 Presentations - Institute of Ecological Technology",
+      "path": "iwone/IWONE10/presentations.html",
+      "slug": "031-iwone-2023-presentations-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE10/a-quick-glimpse.html",
+        "activities/iwone.html",
+        "iwone/IWONE10/index.html"
+      ],
+      "chars": 5409
+    },
+    {
+      "order": 32,
+      "title": "IWONE 2023 Abstracts - Institute of Ecological Technology",
+      "path": "iwone/IWONE10/abstracts.html",
+      "slug": "032-iwone-2023-abstracts-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE10/a-quick-glimpse.html",
+        "iwone/IWONE10/presentations.html",
+        "activities/iwone.html",
+        "iwone/IWONE10/index.html"
+      ],
+      "chars": 18086
+    },
+    {
+      "order": 33,
+      "title": "IWONE 2023 - Institute of Ecological Technology - Focus Areas",
+      "path": "iwone/IWONE10/focus.html",
+      "slug": "033-iwone-2023-institute-of-ecological-technology-focus-areas",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 7357
+    },
+    {
+      "order": 34,
+      "title": "IWONE 2023 - Institute of Ecological Technology - Getting there",
+      "path": "iwone/IWONE10/gettinghere.html",
+      "slug": "034-iwone-2023-institute-of-ecological-technology-getting-there",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "images/Skaneliten.jpg",
+        "images/Hoor%20City%20liten.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 2990
+    },
+    {
+      "order": 35,
+      "title": "IWONE Introduction",
+      "path": "iwone/IWONE1/founders.html",
+      "slug": "035-iwone-introduction",
+      "reachable_from_entry": true,
+      "images": [
+        "maison_01-over.gif",
+        "enveloppe_01-over.gif",
+        "iwone20.jpg"
+      ],
+      "internal_links": [
+        "activities/iwone.html",
+        "iwone/IWONE1/iwone_info.html",
+        "iwone/IWONE1/participants_imap.html",
+        "iwone/IWONE1/report.html"
+      ],
+      "chars": 2587
+    },
+    {
+      "order": 36,
+      "title": "IWONE Introduction",
+      "path": "iwone/IWONE1/participants_imap.html",
+      "slug": "036-iwone-introduction",
+      "reachable_from_entry": true,
+      "images": [
+        "maison_01-over.gif",
+        "enveloppe_01-over.gif",
+        "iwone20.jpg",
+        "participants_imap.jpg",
+        "gruppenzahlen.gif"
+      ],
+      "internal_links": [
+        "activities/iwone.html",
+        "iwone/IWONE1/founders.html",
+        "iwone/IWONE1/iwone_info.html",
+        "iwone/IWONE1/report.html"
+      ],
+      "chars": 1794
+    },
+    {
+      "order": 37,
+      "title": "IWONE Introduction",
+      "path": "iwone/IWONE1/report.html",
+      "slug": "037-iwone-introduction",
+      "reachable_from_entry": true,
+      "images": [
+        "maison_01-over.gif",
+        "enveloppe_01-over.gif",
+        "iwone20.jpg",
+        "Wirbel_blau.jpg"
+      ],
+      "internal_links": [
+        "activities/iwone.html",
+        "iwone/IWONE1/founders.html",
+        "iwone/IWONE1/iwone_info.html",
+        "iwone/IWONE1/participants_imap.html"
+      ],
+      "chars": 676
+    },
+    {
+      "order": 38,
+      "title": "IWONE Introduction",
+      "path": "iwone/IWONE2/info.html",
+      "slug": "038-iwone-introduction",
+      "reachable_from_entry": true,
+      "images": [
+        "maison_01-over.gif",
+        "enveloppe_01-over.gif",
+        "iwone20.jpg",
+        "Wirbel_blau.jpg"
+      ],
+      "internal_links": [
+        "activities/iwone.html",
+        "iwone/IWONE2/iwone2_info.html",
+        "iwone/IWONE2/agenda.html",
+        "iwone/IWONE2/travel.html",
+        "iwone/IWONE2/register.html",
+        "iwone/IWONE1/iwone_info.html"
+      ],
+      "chars": 1540
+    },
+    {
+      "order": 39,
+      "title": "IWONE Introduction",
+      "path": "iwone/IWONE2/agenda.html",
+      "slug": "039-iwone-introduction",
+      "reachable_from_entry": true,
+      "images": [
+        "maison_01-over.gif",
+        "enveloppe_01-over.gif",
+        "iwone20.jpg",
+        "Wirbel_blau.jpg"
+      ],
+      "internal_links": [
+        "activities/iwone.html",
+        "iwone/IWONE2/iwone2_info.html",
+        "iwone/IWONE2/info.html",
+        "iwone/IWONE2/travel.html",
+        "iwone/IWONE2/register.html",
+        "iwone/IWONE1/iwone_info.html"
+      ],
+      "chars": 4700
+    },
+    {
+      "order": 40,
+      "title": "IWONE Introduction",
+      "path": "iwone/IWONE2/travel.html",
+      "slug": "040-iwone-introduction",
+      "reachable_from_entry": true,
+      "images": [
+        "maison_01-over.gif",
+        "enveloppe_01-over.gif",
+        "iwone20.jpg",
+        "Wirbel_blau.jpg",
+        "Skaneliten.jpg",
+        "Hoor%20City%20liten.jpg"
+      ],
+      "internal_links": [
+        "activities/iwone.html",
+        "iwone/IWONE2/iwone2_info.html",
+        "iwone/IWONE2/info.html",
+        "iwone/IWONE2/agenda.html",
+        "iwone/IWONE2/register.html",
+        "iwone/IWONE1/iwone_info.html"
+      ],
+      "chars": 1855
+    },
+    {
+      "order": 41,
+      "title": "IWONE Introduction",
+      "path": "iwone/IWONE2/register.html",
+      "slug": "041-iwone-introduction",
+      "reachable_from_entry": true,
+      "images": [
+        "maison_01-over.gif",
+        "enveloppe_01-over.gif",
+        "iwone20.jpg",
+        "Wirbel_blau.jpg"
+      ],
+      "internal_links": [
+        "activities/iwone.html",
+        "iwone/IWONE2/iwone2_info.html",
+        "iwone/IWONE2/info.html",
+        "iwone/IWONE2/agenda.html",
+        "iwone/IWONE1/iwone_info.html"
+      ],
+      "chars": 3015
+    },
+    {
+      "order": 42,
+      "title": "Activities: IWONE - Institute of Ecological Technology",
+      "path": "iwone/IWONE3/focus.html",
+      "slug": "042-activities-iwone-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 3885
+    },
+    {
+      "order": 43,
+      "title": "Activities: IWONE - Institute of Ecological Technology",
+      "path": "iwone/IWONE3/presentations.html",
+      "slug": "043-activities-iwone-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 5265
+    },
+    {
+      "order": 44,
+      "title": "Activities: IWONE - Institute of Ecological Technology",
+      "path": "iwone/IWONE3/abstracts.html",
+      "slug": "044-activities-iwone-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 32290
+    },
+    {
+      "order": 45,
+      "title": "Activities: IWONE - Institute of Ecological Technology",
+      "path": "iwone/IWONE3/practicalworkshops.html",
+      "slug": "045-activities-iwone-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 2099
+    },
+    {
+      "order": 46,
+      "title": "Activities: IWONE - Institute of Ecological Technology",
+      "path": "iwone/IWONE3/schedule.html",
+      "slug": "046-activities-iwone-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 2014
+    },
+    {
+      "order": 47,
+      "title": "IWONE 2009 - Institute of Ecological Technology - Focus Areas",
+      "path": "iwone/IWONE4/focus.html",
+      "slug": "047-iwone-2009-institute-of-ecological-technology-focus-areas",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 5496
+    },
+    {
+      "order": 48,
+      "title": "IWONE 2009 Presentations - Institute of Ecological Technology",
+      "path": "iwone/IWONE4/presentations.html",
+      "slug": "048-iwone-2009-presentations-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 4300
+    },
+    {
+      "order": 49,
+      "title": "Activities: IWONE - Institute of Ecological Technology",
+      "path": "iwone/IWONE4/abstracts.html",
+      "slug": "049-activities-iwone-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 19349
+    },
+    {
+      "order": 50,
+      "title": "IWONE 2011 - Institute of Ecological Technology - Focus Areas",
+      "path": "iwone/IWONE5/focus.html",
+      "slug": "050-iwone-2011-institute-of-ecological-technology-focus-areas",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 6134
+    },
+    {
+      "order": 51,
+      "title": "IWONE 2011 Presentations - Institute of Ecological Technology",
+      "path": "iwone/IWONE5/presentations.html",
+      "slug": "051-iwone-2011-presentations-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE5/a-quick-glimpse.html",
+        "iwone/IWONE5/abstracts.html",
+        "activities/iwone.html"
+      ],
+      "chars": 4933
+    },
+    {
+      "order": 52,
+      "title": "IWONE 2011 Presentations - Institute of Ecological Technology",
+      "path": "iwone/IWONE5/a-quick-glimpse.html",
+      "slug": "052-iwone-2011-presentations-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE5/presentations.html",
+        "iwone/IWONE5/abstracts.html",
+        "activities/iwone.html"
+      ],
+      "chars": 2885
+    },
+    {
+      "order": 53,
+      "title": "Activities: IWONE - Institute of Ecological Technology",
+      "path": "iwone/IWONE5/abstracts.html",
+      "slug": "053-activities-iwone-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 23881
+    },
+    {
+      "order": 54,
+      "title": "IWONE 2013 - Institute of Ecological Technology - Focus Areas",
+      "path": "iwone/IWONE6/focus.html",
+      "slug": "054-iwone-2013-institute-of-ecological-technology-focus-areas",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 6959
+    },
+    {
+      "order": 55,
+      "title": "IWONE 2013 Presentations - Institute of Ecological Technology",
+      "path": "iwone/IWONE6/presentations.html",
+      "slug": "055-iwone-2013-presentations-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE6/a-quick-glimpse.html",
+        "iwone/IWONE6/abstracts.html",
+        "activities/iwone.html"
+      ],
+      "chars": 5216
+    },
+    {
+      "order": 56,
+      "title": "IWONE 2013 Abstracts - Institute of Ecological Technology",
+      "path": "iwone/IWONE6/abstracts.html",
+      "slug": "056-iwone-2013-abstracts-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE6/a-quick-glimpse.html",
+        "iwone/IWONE6/presentations.html",
+        "activities/iwone.html"
+      ],
+      "chars": 24785
+    },
+    {
+      "order": 57,
+      "title": "IWONE 2013 Presentations - a quick glimpse - Institute of Ecological Technology",
+      "path": "iwone/IWONE6/a-quick-glimpse.html",
+      "slug": "057-iwone-2013-presentations-a-quick-glimpse-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE6/presentations.html",
+        "activities/iwone.html"
+      ],
+      "chars": 3101
+    },
+    {
+      "order": 58,
+      "title": "IWONE 2013 - Institute of Ecological Technology - Getting there",
+      "path": "iwone/IWONE6/gettinghere.html",
+      "slug": "058-iwone-2013-institute-of-ecological-technology-getting-there",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "images/Skaneliten.jpg",
+        "images/Hoor%20City%20liten.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 2991
+    },
+    {
+      "order": 59,
+      "title": "IWONE 2015 - Institute of Ecological Technology - Focus Areas",
+      "path": "iwone/IWONE7/focus.html",
+      "slug": "059-iwone-2015-institute-of-ecological-technology-focus-areas",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 6345
+    },
+    {
+      "order": 60,
+      "title": "IWONE 2015 Presentations - Institute of Ecological Technology",
+      "path": "iwone/IWONE7/presentations.html",
+      "slug": "060-iwone-2015-presentations-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE7/abstracts.html",
+        "activities/iwone.html"
+      ],
+      "chars": 4895
+    },
+    {
+      "order": 61,
+      "title": "IWONE 2015 Abstracts - Institute of Ecological Technology",
+      "path": "iwone/IWONE7/abstracts.html",
+      "slug": "061-iwone-2015-abstracts-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE7/presentations.html",
+        "activities/iwone.html"
+      ],
+      "chars": 21055
+    },
+    {
+      "order": 62,
+      "title": "IWONE 2015 - Institute of Ecological Technology - Getting there",
+      "path": "iwone/IWONE7/gettinghere.html",
+      "slug": "062-iwone-2015-institute-of-ecological-technology-getting-there",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "images/Skaneliten.jpg",
+        "images/Hoor%20City%20liten.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 3126
+    },
+    {
+      "order": 63,
+      "title": "IWONE 2017 Presentations - a quick glimpse - Institute of Ecological Technology",
+      "path": "iwone/IWONE8/a-quick-glimpse.html",
+      "slug": "063-iwone-2017-presentations-a-quick-glimpse-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 3519
+    },
+    {
+      "order": 64,
+      "title": "IWONE 2017 - Institute of Ecological Technology - Focus Areas",
+      "path": "iwone/IWONE8/focus.html",
+      "slug": "064-iwone-2017-institute-of-ecological-technology-focus-areas",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 7430
+    },
+    {
+      "order": 65,
+      "title": "IWONE 2017 Presentations - Institute of Ecological Technology",
+      "path": "iwone/IWONE8/presentations.html",
+      "slug": "065-iwone-2017-presentations-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE8/a-quick-glimpse.html",
+        "iwone/IWONE8/abstracts.html",
+        "activities/iwone.html"
+      ],
+      "chars": 6482
+    },
+    {
+      "order": 66,
+      "title": "IWONE 2017 Abstracts - Institute of Ecological Technology",
+      "path": "iwone/IWONE8/abstracts.html",
+      "slug": "066-iwone-2017-abstracts-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE8/presentations.html",
+        "activities/iwone.html"
+      ],
+      "chars": 18758
+    },
+    {
+      "order": 67,
+      "title": "IWONE 2017 - Institute of Ecological Technology - Topic discussions",
+      "path": "iwone/IWONE8/topic-discussions.html",
+      "slug": "067-iwone-2017-institute-of-ecological-technology-topic-discussions",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 2760
+    },
+    {
+      "order": 68,
+      "title": "IWONE 2017 - Institute of Ecological Technology - Getting there",
+      "path": "iwone/IWONE8/gettinghere.html",
+      "slug": "068-iwone-2017-institute-of-ecological-technology-getting-there",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "images/Skaneliten.jpg",
+        "images/Hoor%20City%20liten.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 3126
+    },
+    {
+      "order": 69,
+      "title": "IWONE 2019 - Institute of Ecological Technology - Focus Areas",
+      "path": "iwone/IWONE9/focus.html",
+      "slug": "069-iwone-2019-institute-of-ecological-technology-focus-areas",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 8329
+    },
+    {
+      "order": 70,
+      "title": "IWONE 2019 Presentations - Institute of Ecological Technology",
+      "path": "iwone/IWONE9/presentations.html",
+      "slug": "070-iwone-2019-presentations-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE9/a-quick-glimpse.html",
+        "iwone/IWONE9/abstracts.html",
+        "activities/iwone.html",
+        "iwone/IWONE9/index.html"
+      ],
+      "chars": 5728
+    },
+    {
+      "order": 71,
+      "title": "IWONE 2019 Abstracts - Institute of Ecological Technology",
+      "path": "iwone/IWONE9/abstracts.html",
+      "slug": "071-iwone-2019-abstracts-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE9/a-quick-glimpse.html",
+        "iwone/IWONE9/presentations.html",
+        "activities/iwone.html",
+        "iwone/IWONE9/index.html"
+      ],
+      "chars": 18651
+    },
+    {
+      "order": 72,
+      "title": "IWONE 2019 Presentations - a quick glimpse - Institute of Ecological Technology",
+      "path": "iwone/IWONE9/a-quick-glimpse.html",
+      "slug": "072-iwone-2019-presentations-a-quick-glimpse-institute-of-ecological-technology",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "iwone/IWONE9/presentations.html",
+        "iwone/IWONE9/abstracts.html",
+        "activities/iwone.html",
+        "iwone/IWONE9/index.html"
+      ],
+      "chars": 4521
+    },
+    {
+      "order": 73,
+      "title": "IWONE 2019 - Institute of Ecological Technology - Getting there",
+      "path": "iwone/IWONE9/gettinghere.html",
+      "slug": "073-iwone-2019-institute-of-ecological-technology-getting-there",
+      "reachable_from_entry": true,
+      "images": [
+        "../../bilder/logo.gif",
+        "../../bilder/images/topbar_01blue.jpg",
+        "../../bilder/images/topbar_02.jpg",
+        "images/Skaneliten.jpg",
+        "images/Hoor%20City%20liten.jpg",
+        "../../bilder/coffeecycloid.jpg",
+        "../../bilder/linebluefull.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "about/about.html",
+        "research/research.html",
+        "activities/activities.html",
+        "contact/contact.html",
+        "publications/index.html",
+        "contribute/contribute.html",
+        "activities/iwone.html"
+      ],
+      "chars": 3125
+    }
+  ]
+}
