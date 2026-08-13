@@ -1,4 +1,3 @@
-error.log
 img/u/utkin_w_m/amplifier/index.shtml
 img/u/utkin_w_m/asecretofthemotor/asecretofthemotor-1.jpg
 img/u/utkin_w_m/asecretofthemotor/asecretofthemotor-10.jpg
