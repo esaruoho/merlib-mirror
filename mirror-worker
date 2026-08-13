@@ -288,6 +288,32 @@ commit_and_push() {
     return 0
   fi
 
+  # ── suppress the no-op PR ────────────────────────────────────────────────
+  # Every run rewrites its own bookkeeping: _meta.json carries a fresh
+  # mirror_date, the logs are new, ALLFILES.txt is regenerated. So a re-mirror
+  # of a site that has not changed at all still produces a non-empty diff, and
+  # the worker opened a PR for it anyway.
+  #
+  # That is not hypothetical. Re-verifying 13 live sites against the fixed
+  # crawler on 2026-08-13 produced 13 PRs, and 10 of them added ZERO mirrored
+  # pages — their entire source diff was "+SOURCE.txt, +_mirror_worker.log,
+  # -error.log". The null result was the GOOD news (nothing else was holed by
+  # the redirect bug), but it cost a PR queue to read to find that out.
+  #
+  # A verification pass that finds nothing should be SILENT. If the only paths
+  # touched are this bookkeeping, skip the branch entirely — no commit, no push,
+  # no PR — and say so in the log. Anything real (a mirrored file, or a _paper/
+  # consolidation change) still goes through untouched.
+  local substantive
+  substantive="$(git diff --cached --name-only | grep -vE '(^|/)(_mirror\.log|_mirror_worker\.log|_meta\.json|SOURCE\.txt|ALLFILES\.txt|error\.log|_EXCLUDED-MEDIA\.txt)$' || true)"
+  if [[ -z "$substantive" ]]; then
+    log "Nothing but bookkeeping changed for $domain (logs/_meta/SOURCE/ALLFILES)."
+    log "  The mirror is unchanged — skipping commit, push and PR."
+    git reset -q HEAD -- "$site_dir" 2>/dev/null || true
+    git checkout main 2>/dev/null || log "WARNING: could not switch back to main"
+    return 0
+  fi
+
   git commit -m "$msg"
 
   # Check size of site directory before pushing
