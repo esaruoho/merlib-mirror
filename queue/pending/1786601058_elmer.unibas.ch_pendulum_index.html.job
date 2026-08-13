@@ -1,0 +1,10 @@
+target: https://elmer.unibas.ch/pendulum/index.html
+domain: elmer.unibas.ch
+mode: live
+path_filter: /pendulum/index.html
+ts_to: 
+label: 
+offline: false
+to_syncthing: false
+submitted: 2026-08-13T06:04:18Z
+submitted_from: RayMac
