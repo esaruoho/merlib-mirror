@@ -3,7 +3,7 @@ title: "newphysics.se — consolidated site corpus"
 source_domain: newphysics.se
 source_url: http://newphysics.se
 author_of_source: unattributed — see site
-generated: 2026-08-12T20:40:30Z
+generated: 2026-08-14T06:03:43Z
 generator: merlib-mirror/scripts/site_to_paper.py
 pages_total: 185
 pages_reachable_from_entry: 121
