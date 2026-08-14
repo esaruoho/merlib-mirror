@@ -6,7 +6,7 @@ order: 126
 reachable_from_entry: false
 images: 4
 internal_links: 17
-extracted: 2026-08-12T20:40:30Z
+extracted: 2026-08-14T06:03:43Z
 extractor: site_to_paper.py (builtin)
 ---
 
