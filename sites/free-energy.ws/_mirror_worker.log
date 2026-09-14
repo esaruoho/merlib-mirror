@@ -1,0 +1,37 @@
+[2026-08-04 16:30:08] ============================================================
+[2026-08-04 16:30:08] WAYBACK MIRROR: free-energy.ws
+[2026-08-04 16:30:08] Output: /Users/esaruoho/work/merlib-mirror/sites/free-energy.ws
+[2026-08-04 16:30:08] Delay: 1.0s
+[2026-08-04 16:30:08] ============================================================
+[2026-08-04 16:30:08] Resuming: phase=init, 0 already done
+[2026-08-04 16:30:08] 
+=== PHASE 1: URL Discovery ===
+[2026-08-04 16:30:08] Querying CDX for free-energy.ws/index.php/*...
+[2026-08-04 16:30:14]   Found 1 URLs for free-energy.ws/index.php/*
+[2026-08-04 16:30:14] Querying CDX for www.free-energy.ws/index.php/*...
+[2026-08-04 16:30:30]   Found 1 URLs for www.free-energy.ws/index.php/*
+[2026-08-04 16:31:14] Path filter '/index.php': 3 -> 1 URLs
+[2026-08-04 16:31:14] Total unique valid URLs: 1
+[2026-08-04 16:31:14]   text/html: 1
+[2026-08-04 16:31:14] 
+=== PHASE 2: Downloading ===
+[2026-08-04 16:31:14] Skipping 1 unmirrorable URL(s) (server-side / WordPress plumbing) — not fetched, not counted as failures
+[2026-08-04 16:31:14] Downloading 0 of 1 with 4 worker(s) (delay 1.0s each)
+[2026-08-04 16:31:14] 
+=== PHASE 3: Generating Index ===
+/Users/esaruoho/work/merlib-mirror/mirror.py:911: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  lines.append(f"mirror_date: {datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')}")
+[2026-08-04 16:31:14] Generating index...
+[2026-08-04 16:31:14] Index: 0 files
+[2026-08-04 16:31:14] 
+============================================================
+[2026-08-04 16:31:14] MIRROR COMPLETE
+[2026-08-04 16:31:14] Total URLs: 1
+[2026-08-04 16:31:14] Downloaded: 0
+[2026-08-04 16:31:14] Failed: 0
+[2026-08-04 16:31:14] Files: 0
+[2026-08-04 16:31:14] ============================================================
+[2026-08-04 16:31:14] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/free-energy.ws
+site_to_paper: no HTML pages under /Users/esaruoho/work/merlib-mirror/sites/free-energy.ws — nothing to consolidate
+site_to_allpages: no HTML pages under /Users/esaruoho/work/merlib-mirror/sites/free-energy.ws — nothing to build

@@ -1,0 +1,4 @@
+target: https://web.archive.org/web/*/free-energy.ws/*
+mode: wayback
+path_filter: /index.php
+mirror_date: 2026-08-04T13:31:14Z
