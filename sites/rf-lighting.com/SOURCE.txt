@@ -1,0 +1,4 @@
+target: https://www.rf-lighting.com/
+mode: live
+title: rf-lighting.com
+mirror_date: 2026-08-04T16:13:55Z

@@ -1,0 +1,46 @@
+{
+  "domain": "rf-lighting.com",
+  "source_url": "https://www.rf-lighting.com/",
+  "entry": "index.html",
+  "pages_total": 3,
+  "pages_reachable": 3,
+  "pages_unreached": 0,
+  "body_chars": 21114,
+  "extractor": "builtin",
+  "generated": "2026-08-04T16:14:48Z",
+  "pages": [
+    {
+      "order": 1,
+      "title": "rf-lighting.com",
+      "path": "index.html",
+      "slug": "001-rf-lightingcom",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [
+        "terms.html",
+        "privacy.html"
+      ],
+      "chars": 152
+    },
+    {
+      "order": 2,
+      "title": "Terms of Use",
+      "path": "terms.html",
+      "slug": "002-terms-of-use",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [],
+      "chars": 10658
+    },
+    {
+      "order": 3,
+      "title": "Privacy Policy",
+      "path": "privacy.html",
+      "slug": "003-privacy-policy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [],
+      "chars": 10304
+    }
+  ]
+}
