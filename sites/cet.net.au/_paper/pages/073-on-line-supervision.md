@@ -1,0 +1,91 @@
+---
+title: "on-line supervision"
+source_domain: cet.net.au
+source_path: locations/page40/styled-23/page70.html
+order: 73
+reachable_from_entry: false
+images: 5
+internal_links: 0
+extracted: 2026-09-18T11:50:33Z
+extractor: site_to_paper.py (builtin)
+---
+
+# on-line supervision
+
+*Source page: `locations/page40/styled-23/page70.html`*
+
+Locations
+
+		
+
+	
+
+	
+	
+
+		
+
+			
+		
+ 
+		
+
+		
+
+			
+
+			
+Rob McNeilly MBBS 
+was in a suburban Melbourne general medical practice for 10 years, had the privilege of learning directly with 
+Milton Erickson
+, was inspired by his human approach to therapy, and created his own interpretation to assist clients in a respectful, dignified way with the human dilemmas that affect individuals, couples and families. 
+He founded the CET in l988 to introduce Ericksonian Hypnosis and the Solution Oriented Approach to hypnosis, counselling and coaching in Australia. For more than 30 years, the contribution he brings i his teaching style, writing and unique approaches to learning and therapy allow for a ready application into everyday living and are recognised locally, nationally and internationally, including repeated invited presentations at the Milton H Erickson Foundation’s International Congresses in USA since 1980 and workshops in Singapore and Denmark since 1999.
+He is co-author, with Jenny Brown, of "Healing With Words", "Healing the Whole Person" was published by Wiley, republished as “Doing Change” by St Luke’s Innovative Resources, and Crown House have published a series of DVD demonstrations of counselling and hypnosis.
+Students comment on his easy, respectful manner and his elegant ability to make complex issues approachable while retaining their essence. 
+‘ Rob McNeilly studied with Milton H. Erickson M.D. ... is one of the most knowledgeable practitioners of Ericksonian methods in Australia. His teaching is clear, entertaining and edifying.’ 
+Jeffrey K. Zeig, Ph.D. Board of Directors, The Milton H. Erickson Foundation, Inc., Phoenix, Arizona.
+“Rob McNeilly worked with Milton Erickson, has been an invited presenter at International Ericksonian Congresses, and is a passionate and skilful teacher of the Solution Oriented Approach. I know him and his work, and value his personal and professional contributions."                    
+Bill O’Hanlon MS LMFT
+A highly skilled presenter whose unique perspectives and playful demeanour make for a  delightful learning experience.’ 
+Michael D. Yapko, Ph.D.
+‘ .. Your clear and practical teaching of the solution oriented approach has enabled me to achieve more effective interventions with greater ease ..... the approach is applicable in many different contexts...’ 
+Peter Thorneycroft, Psychologist.
+  
+
+			 
+
+		
+
+	
+
+	
+	
+
+		
+
+			
+On-line Group Supervision
+with Rob McNeilly 
+Principles
+We mostly work in isolation, and over the years I have seen the wonderful benefits of connecting with other like minded people. I have been playing with a way of having this happen on-line from our computers, and at last the technology is available. Participants have commented on how useful the process is.
+Structure
+There will be a monthly series of events on a Thursday from 5pm - 6pm Eastern Australian Time - April 11, May 9, June 13, August [1,8 or 22 - to be confirmed], September 5 & October 31, 2013.
+Limit of 10 participants - first come first served.
+Fees
+A$150 for the series. Sorry but individual session payment is not an option.
+Process
+Each session will happen using zoom.us. If you haven’t already domes so, could you go to 
+zoom.us
+ and download the free application. It only takes a few minutes. I will send participants an email 5 - 10 minutes before each session with a link to click on which will allow an immediate and easy connection.
+Registration
+ 
+[essential]: 
+Please send me an email with the following details:-
+Name
+Address
+phone
+email
+Payment by direct deposit to 
+CBA, Elizabeth Street North Hobart 7000 BSB 067 028 account # 1023 2600 Dr Robert McNeilly & Dr Gabrielle Peacock  .
+I’m looking forward to this opportunity with you.
+cet home

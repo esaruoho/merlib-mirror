@@ -1,0 +1,126 @@
+---
+title: "video reviews | solution oriented resources"
+source_domain: cet.net.au
+source_path: resources/page2/page2.html
+order: 101
+reachable_from_entry: false
+images: 4
+internal_links: 1
+extracted: 2026-09-18T11:50:33Z
+extractor: site_to_paper.py (builtin)
+---
+
+# video reviews | solution oriented resources
+
+*Source page: `resources/page2/page2.html`*
+
+solution oriented resources
+
+		
+to buy
+
+	
+
+	
+	
+
+		
+
+			
+eBooks reviews
+
+		
+ 
+		
+
+		
+
+			
+
+			
+courses
+ 
+locations
+ 
+cyberconferences
+about us
+Rob McNeilly 
+MBBS
+Gabrielle Peacock 
+MBBS FRACGP
+The Milton H Erickson 
+Institute of Tasmania
+The Centre of Effective Therapy
+finding a therapist
+Newsletter
+resources
+links
+contact us
+ 
+
+			 
+
+		
+
+	
+
+	
+	
+
+		
+
+			
+There are all too few examples of experts demonstrating hypnotherapy with children. In "How Helen..." Rob McNeilly MBBS artfully applies Ericksonian methods of utilization and metaphor to effect cure of a … phobia. This tape is highly recommended to practitioners of all persuasions who want to improve their clinical effectiveness.
+Jeffrey K. Zeig, Ph.D.
+Director
+The Milton H. Erickson Foundation
+3606 N 24th Street
+Phoenix, AZ 85016   
+USA
+"Dr. McNeilly nicely demonstrates the skilled use of hypnosis with a girl presenting the problem of a dog phobia. He illustrates well the art of utilization, first eliciting then incorporating the interests and the language of his client. Dr. McNeilly employs  a simple but skilled intervention involving metaphor and multiple level communication for the benefit of his patient.  This is a good tape from which  to learn  important aspects of hypnotic approaches to treatment."
+		Dr. Michael D. Yapko, Author of  Essentials of Hypnosis and 
+Trancework
+"Rob McNeilly’s Solution -Oriented Hypnosis is one of the best examples of this innovative approach. The tape shows a genuine humanness, gentle humor and clinical art that is a pleasure to watch. If you want to learn this approach, I recommend you view the tape again and again and absorb the subtle artfulness of Dr. McNeilly’s work." Bill O’Hanlon MS, acclaimed  author and international presenter of solution oriented work.
+Watching the abundance of the material has always been a pleasure to me, due to the professional composition and also the joy that comes within each of the lessons. Congratulations to a teaching media that invites to learn more about solution oriented psychotherapy.
+(Dipl.-Psych. Claudia Weinspach, Psychol. Psychotherapeutin, Germany)
+This demonstration series exposes the mastery and elegance of Rob McNeilly’s unique contribution to the Solution Oriented approach. He introduces the series in a rare narrative relating the evolution of his work from its origins in his time spent with Milton Erickson through his working and teaching to the present day.
+He draws a thumbnail sketch of the framework of his process and invites us to observe the session from within our experience, and to explore our own individual response and learning.
+Each demonstration is introduced with specific reference to individualising the therapy to the client. The diagnosis is acknowledged and then set aside to allow the individual to emerge in his/her entirety, uncovering concerns, strengths, resources and often banal human dilemmas. He masterfully grows a session from this foundation manifesting the art of dealing with the client’s experience, without explaining it, or even understanding it, by grasping the coherences that allow him to deal with it, without explanation or understanding. At face value these are engaging, practical and deceptively simple sessions, but to the seasoned practitioner they provide a rare opportunity to explore the many layers and subtleties of the use of language, emotions and the body to generate learning which is sustainable and available for future experience as well as past reflection.
+Presented in a gentle, respectful mood with Rob’s unique playfulness and humour, this series is recommended to any practitioner who values enduring experiential learning over information or technique.
+Gabrielle Peacock MBBS FRACGP
+This is therapy at its simple, beautiful best. McNeilly quickly accesses client resources and utilises them empoweringly. To view this video is to see the essence of effective therapy.
+George W Burns
+Clinical Psychologist
+Director MHEIWA
+Author, Nature-Guided Therapy
+This is a masterful demonstration of Ericksonian therapy. McNeilly’s therapeutic interventions flow so smoothly that they may be seen by those unfamiliar with this approach as no more than a pleasant conversation. In spite of that, it’s difficult for me to imagine squeezing more elements of the Ericksonian approach into a 25 minute session. I would recommend this video to anyone interested in studying Ericksonian hypnosis. In fact, I would recommend it to anyone interested in learning to do effective therapy.
+Gary Schultheis, author “Brief Therapy Homework Planner”
+Two themes kept coming to mind as I watched this video of Rob McNeilly at work on a young girl’s dog fears. I was again impressed and inspired by the artistry and the elegance of McNeilly’s masterful use of trance and metaphor. And I again pondered over what I call the “accountability questions” of the seemingly magical style of Ericksonian interventions. 
+On the 
+artistry
+ and 
+elegance
+ theme, this tape shows the use of utilisation in the Ericksonian style with a 8 year old girl. McNeilly’s matter of fact, naturalistic, conversational induction style is classically Ericksonian and truly irresistible. His ability to quickly engage and involve his subject in the joint work of the trance induction is exemplary. The small talk at the start is deceptively simple and yet everything is utilised. From his very first words McNeilly is laying the foundation for his later interventions. No interaction is wasted. 
+The level of focus, concentration, and care for the client, all demonstrate the exceptional quality of listening that McNeilly brings to his work. A light irreverent mood begins in the first few minutes and continues throughout the induction. The little girl is quickly entranced by McNeilly’s playful delivery. The skillful use of metaphor, the way McNeilly links to existing skills and resources, and his repeated indirect suggestions are a joy to watch. Right from the start he is at work establishing new associations- cats, kangaroos, wallabies are the lovely furry things that can connect a safer feeling with the feared stimulus. From “orienting to trance” to his multilayered “post hypnotic suggestions” McNeilly is masterful. The latter are particularly note worthy. McNeilly does a kind of relapse prevention, and in this way at least partially addresses the notorious generalisation problem of moving from imaginal success to actual.
+In summary this tape is a beautiful illustration of the collaborative nature of Ericksonian hypnosis, by one of Australia’s foremost exponents of the approach.     
+Ivan Milton (Dec 1999)
+Senior Psychologist
+Maroondah Hospital
+
+			
+
+		
+
+	
+
+	
+
+		
+	
+
+	
+	
+
+		
+© 2011 Rob 
+Contact Me

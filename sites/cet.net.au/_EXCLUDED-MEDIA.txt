@@ -1,0 +1,8 @@
+# Files fetched into this mirror but NOT stored in git.
+# Excluded by .gitignore — see that file for why each pattern is there.
+# They exist ONLY on the worker host, at:
+#   CloudcityMacMini:/Users/esaruoho/work/merlib-mirror/sites/cet.net.au
+# Generated 2026-09-18T11:50:33Z by mirror-worker.
+#
+# size_bytes  path
+10354  sites/cet.net.au/home.swf

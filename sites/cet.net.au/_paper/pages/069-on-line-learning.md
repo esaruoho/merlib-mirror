@@ -1,0 +1,74 @@
+---
+title: "on-line learning"
+source_domain: cet.net.au
+source_path: locations/page40/page40.html
+order: 69
+reachable_from_entry: false
+images: 0
+internal_links: 2
+extracted: 2026-09-18T11:50:33Z
+extractor: site_to_paper.py (builtin)
+---
+
+# on-line learning
+
+*Source page: `locations/page40/page40.html`*
+
+Locations
+
+		
+
+	
+
+	
+	
+
+		
+
+			
+		
+ 
+		
+
+		
+
+			
+
+			 
+
+			 
+
+		
+
+	
+
+	
+	
+
+		
+
+			
+on-line programmes
+with Dr. Robert McNeilly MBBS
+Principles
+The learning experience of these programmes is both unique and everyday. The uniqueness is in its almost total lack of theory and formal structure; the everydayness is in the way the learning is personal and relates to any individual and their everyday experiences.
+For millennia learning has been the prerogative of the few, usually wealthy or privileged. Only over the last half century has this begun to change. Academic circles can still maintain a sense of elitism, and while the approach of this programme does not have any argument with academia, it has a radically different focus.
+Because these programmes give precedence to experience over theory, curiosity over fixed explanations, and individual differences over categorising into groups or classes, participants can expect to be more like themselves and less like any of those who may already be seen as expert in the field. Previous participants comment that their individuality is enhanced – personal and professional – and their individual style of working becomes more obvious as the programme unfolds.
+Structure
+All programmes include recorded lectures, an e-book, videos of demonstrations, supervision - either face-to-face or by written assignments, and most important of all, practice! Ultimately it is what participants learn and take into their clinical experience that will be crucial. Anything that is heard, read, observed or discussed, including personal growth, will become relevant as it incorporated in life or work.
+At the beginning of each segment of each programme, participants will be emailed links to download notes, lectures and video demonstrations. Participants can then progress though their learning experience in their own home and at their own pace.
+Requirements
+All participants will need to commit to making the time, to find people to practice with - either colleague, client of friend. Individual supervision is another important component, whether face to face, email, phone, peer supervision or some combination of these alternatives. Joining the website conversation adds to the breadth of the learning and there is often an expression of surprise when they are discovered to be enjoyable as well as useful.
+Most people report that 2 to 3 hours a week is more than enough for reading, listening, viewing and writing responses to the material of the programme, and the more opportunities to practice, the more useful the experience will be.
+Because of the solid foundations of the approach, there are many options for individual learning styles and outcomes, and participants can expect to develop confidence in their own individual style of learning and working.
+Accreditation
+These programmes are accredited by CET, as evidence shows overwhelmingly that external accreditation has no correlation with effectiveness of learning or application.
+Face to face Workshops
+There will be local face to face workshops organised depending on numbers and participants are welcome to join in at any workshop related to the programme at any location at any time in the future without limitation.
+Solutions in Hypnosis
+ - building on an Ericksonian Approach
+Solutions in Counselling
+ - the language of effective therapy
+Coaching for Solutions
+ - the next paradigm
+cet home

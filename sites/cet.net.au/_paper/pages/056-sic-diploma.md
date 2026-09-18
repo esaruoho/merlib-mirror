@@ -1,0 +1,152 @@
+---
+title: "SiC diploma"
+source_domain: cet.net.au
+source_path: locations/page3/page8/page8.html
+order: 56
+reachable_from_entry: false
+images: 6
+internal_links: 1
+extracted: 2026-09-18T11:50:33Z
+extractor: site_to_paper.py (builtin)
+---
+
+# SiC diploma
+
+*Source page: `locations/page3/page8/page8.html`*
+
+Locations
+
+		
+
+	
+
+	
+	
+
+		
+
+			
+		
+ 
+		
+
+		
+
+			
+
+			
+Rob McNeilly MBBS 
+was in a suburban Melbourne general medical practice for 10 years, had the privilege of learning directly with 
+Milton Erickson
+, was inspired by his human approach to therapy, and created his own interpretation to assist clients in a respectful, dignified way with the human dilemmas that affect individuals, couples and families. 
+He founded the CET in l988 to introduce Ericksonian Hypnosis and the Solution Oriented Approach to hypnosis, counselling and coaching in Australia. For more than 30 years, the contribution he brings i his teaching style, writing and unique approaches to learning and therapy allow for a ready application into everyday living and are recognised locally, nationally and internationally, including repeated invited presentations at the Milton H Erickson Foundation’s International Congresses in USA since 1980 and workshops in Singapore and Denmark since 1999.
+He is co-author, with Jenny Brown, of "Healing With Words", "Healing the Whole Person" was published by Wiley, republished as “Doing Change” by St Luke’s Innovative Resources, and Crown House have published a series of DVD demonstrations of counselling and hypnosis.
+Students comment on his easy, respectful manner and his elegant ability to make complex issues approachable while retaining their essence. 
+Gabrielle Peacock MBBS FRACGP
+ 
+is a general practitioner with 17 years experience, the last 10 spent predominantly working with mental health issues. She has 5 years advanced training in Solution Oriented and Ericksonian psychotherapy with individuals, couples and families. She runs workshops locally and internationally teaching Solution Oriented Family Therapy to health professionals, and has been a presenter at ASOCHA, PACFA and AFTA conferences around Australia. She also teaches counselling skills to medical students at the clinical school in Hobart. 
+Gabrielle works with all issues in individuals, couples and families. She has a wide experience in working with every day human dilemmas to severe chronic mental illness. 
+She has developed a special interest in working with children, adolescents and families. She is particularly interested in interventions which assist families and individuals to regain their strength and resilience in problem situations such as child and adolescent behavioural problems, bullying, school issues, illness in a family member, and relationship breakdowns within the family. 
+‘ Rob McNeilly studied with Milton H. Erickson M.D. ... is one of the most knowledgeable practitioners of Ericksonian methods in Australia. His teaching is clear, entertaining and edifying.’ 
+Jeffrey K. Zeig, Ph.D. Board of Directors, The Milton H. Erickson Foundation, Inc., Phoenix, Arizona.
+“Rob McNeilly worked with Milton Erickson, has been an invited presenter at International Ericksonian Congresses, and is a passionate and skilful teacher of the Solution Oriented Approach. I know him and his work, and value his personal and professional contributions."                    
+Bill O’Hanlon MS LMFT
+A highly skilled presenter whose unique perspectives and playful demeanour make for a  delightful learning experience.’ 
+Michael D. Yapko, Ph.D.
+‘ .. Your clear and practical teaching of the solution oriented approach has enabled me to achieve more effective interventions with greater ease ..... the approach is applicable in many different contexts...’ 
+Peter Thorneycroft, Psychologist.
+ 
+
+			 
+
+		
+
+	
+
+	
+	
+
+		
+
+			
+Diploma and Advanced Diploma of Solutions in Counselling
+simply learning a natural approach to solutions in counselling
+
+Background
+This diploma offers more than just information and techniques. It was developed by Rob McNeilly and grounded in 25 years of teaching and learning including personally from Milton Erickson, Humberto Maturana, Julio Olalla and Rafael Echeverria to name a few. It is a rare opportunity to have the ideas of such people distilled into one approach with Rob’s uniquely creative, playful and illuminating style. It was extended by Gabrielle's 10 years experience in General Practice with the inherent frustrations of the medical model that appear common to doctors, counsellors, psychologists and allied health workers alike. She was relieved to discover a different way. As a student of Rob’s she was impressed by the refreshing learning experience he offered that usefully allowed her to change how she observed and  use what she saw to facilitate learning and change in a client. As teachers of this approach Rob & Gabrielle share a passionate interest in the effectiveness of this way of learning for students and clients also.
+Overview
+When Milton Erickson began working, inventing and experimenting with therapy in the 1930’s there was little to choose from in terms of different therapy styles. In the 1960's, there were about 60 different therapy models, and today there are more than 250!!!! It is humbling to note that despite the variety, virtually all of the research data finds roughly equivalent results for all models. And perhaps we only need to look at the world to see that that it is the similarities rather than differences between the models that account for the effectiveness of psychotherapy.
+The Solution Oriented Approach honours these similarities, acknowledges that many of the 250 have their roots in Erickson’s work and in a refreshing answer to today’s consumerism, attempts to simplify and unravel the confusion.
+Lambert's research in 1992 and Wampole's in 2001 add statistical evidence supporting the core of Erickson’s work specifically and the Solution Oriented approach generally - the importance of 
+    creating a trusting, legitimizing relationship, 
+    observing and listening to the client and reconnecting them to their life outside therapy, 
+    creating expectancy and 
+    trusting in our own individual therapeutic creativity 
+to maximise our effectiveness. 
+This diploma offers a unique opportunity to learn the principles and applications of one of the most rapidly growing treatment models in contemporary psychotherapy. The scope of the program is comprehensive, and presents the essential elements in an elegantly accessible way and is open to practitioners of all levels of experience who are passionate about their work.
+simple
+There is an explosion of counselling models and approaches, each new model claiming to be the best.  By exploring each individual's experiences, we can have a simpler and more direct access for the client to their own unique resources.
+In this programme we will explore simple, elegant and respectful ways of connecting clients with their own unique resources.
+learning
+Traditionally learning has been based on theory and the property of a select few experts. By contrast, these diplomas have a minimum of theory and explanations, focusing instead on demonstrations and recurrent practice so that participants will have sufficient skills to begin to use their learning in their clinical practice immediately.
+a natural approach
+Counselling has been assumed to be a special, different, even weird experience. Erickson spoke of problems being everyday experiences that get stuck, and so can also get unstuck in a helpful way. By utilising individual clients’ individual skills, overlooked skills can be disclosed, re-connected, and found to be readily available, leading to a fail-safe method that will become obvious to the client and so, readily useable.
+solutions
+Rather than problem solving, the solution approach draws on a client's innate resourcefulness, re-connects them with these resources, and because they come from the client, they can be easily accessible. Ericksonian hypnosis creates a wonderful context for a trusting therapeutic relationship, helping to restore self-trust in individual clients to allow this process to be realised.
+counselling
+Traditional counselling relies on theories and manualised protocols which are applied to clients in a "fit where it touches" approach, creating resistance and limited compliance. When we begin with the principle that any problem has a solution waiting to emerge, this natural progression can be readily accessed by all clients and incorporated in any clinician’s practice.
+What you will learn
+	•	The evolution of counselling throughout recent history.    
+	•	A method of creating genuine rapport.
+	•	Questions to connect clients with their overlooked resources.
+	•	Conversations to engage clients in their counselling process.
+	•	How to create possibilities even in the most "resistant" or "chronic" situations.
+	•	How to include moods and emotions in solutions
+	•	How to design strategies
+	•	Positive reframing
+	•	How to apply this approach to:
+	•	anxiety, panic & depression
+	•	post trauma
+	•	childhood abuse
+	•	pain management
+	•	couples work
+	•	family relations
+	•	performance enhancement
+	•	coaching
+	•	any other clinical situation
+Course Structure
+The diploma involves 14 workshop days over 8 months and is a prerequisite for the advanced diploma of 10 workshop days over 10 months. Each includes recorded lectures, demonstrations and a written text. Assignments, relevant to the actual clinical utilisation of the learning offer valuable opportunities for reflection and any diploma can be repeated free of charge at any time in the future. The emphasis is on live demonstrations and the opportunity for you to practice recurrently in pairs or triads. These diplomas value experiential learning over acquisition of information so that you will feel confident to incorporate these ideas into your work immediately.
+Accreditation
+These programmes are accredited by CET, as evidence shows overwhelmingly that external accreditation has no correlation with effectiveness of learning or application.
+Summary
+These diplomas provide learning opportunities which are individualised, practical, relevant, easily understood, readily translatable into clinical practice, all in a safe environment of respectful support.
+Advanced Diploma of Solutions in Counselling
+Hobart Venue:
+CET, The Milton H Erickson Institute of Tasmania
+191 Campbell Street,
+Hobart 7000
+Times: 9.00 - 3.00
+Cost
+Full payment by beginning of programme $3300
+Or 8 monthly payments every month from beginning of programme $425
+ 
+Dates
+Registration
+ [essential]:
+Name
+Address
+phone
+email
+location
+  
+Contact:
+Rob McNeilly, 0433 273 352,  
+rob@cet.net.au
+, 
+www.cet.net.au
+Gabrielle Peacock, 0418 549 421, 
+gabrielle@cet.net.au
+, 
+www.cet.net.au
+Accommodation in Hobart
+CET home

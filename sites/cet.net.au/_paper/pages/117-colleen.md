@@ -1,0 +1,42 @@
+---
+title: "Colleen"
+source_domain: cet.net.au
+source_path: therapist/page3/page3.html
+order: 117
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-09-18T11:50:33Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Colleen
+
+*Source page: `therapist/page3/page3.html`*
+
+who are we?
+
+		
+
+		
+
+			
+		
+
+	
+
+		
+	
+
+	
+
+		
+
+			
+Colleen Gray
+ – Director
+MPH Ba (Admin) RN RM Dip SOC Dip SOH Dip Coach Dip Psych MPACFA MSCAPE MASOCHA A/FAIM
+Colleen Gray is a experienced practitioner and teacher of solution approaches to counselling and psychotherapy. Since studying these approaches with Rob McNeilly, her passion is to help people build more satisfying and fulfilling relationships at every level of their personal and professional lives. Her clinical interests include individual and relationship counselling, sexual relationship therapy, hypnotherapy, professional coaching and organisational consultancy.
+Colleen is on the national register of the Psychotherapy and Counselling Federation of Australia (PACFA), is a member and serves on the committee of the Society of Counselling and Psychotherapy Educators Australia (SCAPE), Association of Solution Oriented Counsellors and Hypnotherapists of Australia (ASOCHA). She is also an A/Fellow of the Australian Institute of Management.
+Colleen is building a reputation as an excellent key note speaker, group motivator and coach. 
+email colleen@waysforward.com.au or phone 0411 211 970.

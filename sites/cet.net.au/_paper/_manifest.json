@@ -1,0 +1,2529 @@
+{
+  "domain": "cet.net.au",
+  "source_url": "https://web.archive.org/web/*/cet.net.au/*",
+  "entry": "index.html",
+  "pages_total": 128,
+  "pages_reachable": 1,
+  "pages_unreached": 127,
+  "body_chars": 467150,
+  "extractor": "builtin",
+  "generated": "2026-09-18T11:50:33Z",
+  "pages": [
+    {
+      "order": 1,
+      "title": "Centre of Effective Therapy",
+      "path": "index.html",
+      "slug": "001-centre-of-effective-therapy",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [],
+      "chars": 42
+    },
+    {
+      "order": 2,
+      "title": "Melbourne 3 days hypnosis",
+      "path": "3day.html",
+      "slug": "002-melbourne-3-days-hypnosis",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "dates.html"
+      ],
+      "chars": 3055
+    },
+    {
+      "order": 3,
+      "title": "counselling 3 days",
+      "path": "3dayc.html",
+      "slug": "003-counselling-3-days",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "hobartdates.html",
+        "registration.html",
+        "copyright.html"
+      ],
+      "chars": 5339
+    },
+    {
+      "order": 4,
+      "title": "Counselling and Family Therapy: the Centre of Effective Therapy",
+      "path": "5day.html",
+      "slug": "004-counselling-and-family-therapy-the-centre-of-effective-therapy",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "about_us.html",
+        "upcoming_workshops.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 3839
+    },
+    {
+      "order": 5,
+      "title": "Emma Carmichael",
+      "path": "Emma_Carmichael.html",
+      "slug": "005-emma-carmichael",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg",
+        "EmmaC.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 2435
+    },
+    {
+      "order": 6,
+      "title": "Emma Warnecke",
+      "path": "Emma_Warnecke.html",
+      "slug": "006-emma-warnecke",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg",
+        "Emma.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 1901
+    },
+    {
+      "order": 7,
+      "title": "Jeannette Kavanagh",
+      "path": "Jeannette.html",
+      "slug": "007-jeannette-kavanagh",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg",
+        "Jeannette.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "MHEIT.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 3059
+    },
+    {
+      "order": 8,
+      "title": "Counselling and Family Therapy: the Centre of Effective Therapy",
+      "path": "MHEIT.html",
+      "slug": "008-counselling-and-family-therapy-the-centre-of-effective-therapy",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg",
+        "longer%20logo.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "upcoming_workshops.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "resources.html",
+        "copyright.html"
+      ],
+      "chars": 4314
+    },
+    {
+      "order": 9,
+      "title": "Rob McNeilly",
+      "path": "MHEIT/page1/page1.html",
+      "slug": "009-rob-mcneilly",
+      "reachable_from_entry": false,
+      "images": [
+        "files/rob.jpg"
+      ],
+      "internal_links": [],
+      "chars": 2487
+    },
+    {
+      "order": 10,
+      "title": "Mary-Anne Clarke",
+      "path": "Mary-Anne.html",
+      "slug": "010-mary-anne-clarke",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg",
+        "Maryanne.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 1905
+    },
+    {
+      "order": 11,
+      "title": "SOFT 3 day",
+      "path": "SOFTintensive.html",
+      "slug": "011-soft-3-day",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "dates.html",
+        "registration.html"
+      ],
+      "chars": 2224
+    },
+    {
+      "order": 12,
+      "title": "Sarah De Jonge",
+      "path": "Sarah_De_Jonge.html",
+      "slug": "012-sarah-de-jonge",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg",
+        "Sarah%20De%20Jonge.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 2537
+    },
+    {
+      "order": 13,
+      "title": "about us",
+      "path": "about_us.html",
+      "slug": "013-about-us",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "about_us.html",
+        "upcoming_workshops.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "louise.html",
+        "Emma_Warnecke.html",
+        "copyright.html"
+      ],
+      "chars": 2589
+    },
+    {
+      "order": 14,
+      "title": "Centre of Effective Therapy",
+      "path": "accreditation.html",
+      "slug": "014-centre-of-effective-therapy",
+      "reachable_from_entry": false,
+      "images": [
+        "Images/ASCHOAlogo.gif",
+        "Images/PACFAlogo.gif"
+      ],
+      "internal_links": [
+        "index.html",
+        "news.html",
+        "links.html"
+      ],
+      "chars": 1110
+    },
+    {
+      "order": 15,
+      "title": "registration",
+      "path": "application/x-shockwave-flash.html",
+      "slug": "015-registration",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 452
+    },
+    {
+      "order": 16,
+      "title": "Ben Nahmani",
+      "path": "ben_nahmani.html",
+      "slug": "016-ben-nahmani",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg",
+        "Ben%20ivy%20photo.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "about_us.html",
+        "upcoming_workshops.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 3719
+    },
+    {
+      "order": 17,
+      "title": "CET Blogs & Podcasts | Solution Oriented Hypnosis, Counselling, Family Therapy",
+      "path": "blogs.html",
+      "slug": "017-cet-blogs-podcasts-solution-oriented-hypnosis-counselling-family-therapy",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "copyright.html"
+      ],
+      "chars": 1130
+    },
+    {
+      "order": 18,
+      "title": "Brisbane",
+      "path": "brisbane.html",
+      "slug": "018-brisbane",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "MHEIT.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "registration.html",
+        "copyright.html"
+      ],
+      "chars": 4157
+    },
+    {
+      "order": 19,
+      "title": "Bundaberg 3/7",
+      "path": "bundaberg.html",
+      "slug": "019-bundaberg-37",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "about_us.html",
+        "upcoming_workshops.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "registration.html",
+        "copyright.html"
+      ],
+      "chars": 4105
+    },
+    {
+      "order": 20,
+      "title": "Canberra 5/7",
+      "path": "canberra.html",
+      "slug": "020-canberra-57",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "about_us.html",
+        "upcoming_workshops.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "registration.html",
+        "copyright.html"
+      ],
+      "chars": 3965
+    },
+    {
+      "order": 21,
+      "title": "monthly hypnosis video club",
+      "path": "club.html",
+      "slug": "021-monthly-hypnosis-video-club",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html"
+      ],
+      "chars": 3906
+    },
+    {
+      "order": 22,
+      "title": "Contact CET | Rob McNeilly, Gabrielle Peacock and the Centre of Effective Therapy",
+      "path": "contact_us.html",
+      "slug": "022-contact-cet-rob-mcneilly-gabrielle-peacock-and-the-centre-of-effective-therapy",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "rob.html",
+        "copyright.html"
+      ],
+      "chars": 997
+    },
+    {
+      "order": 23,
+      "title": "Copenhagen",
+      "path": "copenhagen.html",
+      "slug": "023-copenhagen",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "MHEIT.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 1257
+    },
+    {
+      "order": 24,
+      "title": "Counselling and Family Therapy: the Centre of Effective Therapy",
+      "path": "copyright.html",
+      "slug": "024-counselling-and-family-therapy-the-centre-of-effective-therapy",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "upcoming_workshops.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 860
+    },
+    {
+      "order": 25,
+      "title": "Dip SOC",
+      "path": "counselling.html",
+      "slug": "025-dip-soc",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "dates.html",
+        "registration.html",
+        "copyright.html"
+      ],
+      "chars": 9230
+    },
+    {
+      "order": 26,
+      "title": "curiologists",
+      "path": "curiologists.html",
+      "slug": "026-curiologists",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg",
+        "longer%20logo.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "registration.html"
+      ],
+      "chars": 5284
+    },
+    {
+      "order": 27,
+      "title": "Dates",
+      "path": "dates.html",
+      "slug": "027-dates",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "3dayc.html",
+        "hobart3day.html",
+        "SOFTintensive.html",
+        "lasting_solutions.html",
+        "counselling.html",
+        "hobartsoft.html",
+        "hobartdemos.html",
+        "registration.html",
+        "3day.html",
+        "melbourne3dayc.html",
+        "hobartdemos.html",
+        "copyright.html"
+      ],
+      "chars": 11786
+    },
+    {
+      "order": 28,
+      "title": "distance",
+      "path": "distance.html",
+      "slug": "028-distance",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 5526
+    },
+    {
+      "order": 29,
+      "title": "Hobart 3 day hypnosis",
+      "path": "hobart3day.html",
+      "slug": "029-hobart-3-day-hypnosis",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "registration.html",
+        "dates.html",
+        "copyright.html"
+      ],
+      "chars": 3326
+    },
+    {
+      "order": 30,
+      "title": "Hobart 5 day",
+      "path": "hobart5day.html",
+      "slug": "030-hobart-5-day",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "about_us.html",
+        "upcoming_workshops.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 3749
+    },
+    {
+      "order": 31,
+      "title": "counselling",
+      "path": "hobartc.html",
+      "slug": "031-counselling",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "MHEIT.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "registration.html",
+        "copyright.html"
+      ],
+      "chars": 6353
+    },
+    {
+      "order": 32,
+      "title": "Hobart Dates",
+      "path": "hobartdates.html",
+      "slug": "032-hobart-dates",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "MHEIT.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "3dayc.html",
+        "hobart3day.html",
+        "SOFTintensive.html",
+        "lasting_solutions.html",
+        "counselling.html",
+        "hobartsoft.html",
+        "hobartdemos.html",
+        "curiologists.html",
+        "registration.html",
+        "copyright.html"
+      ],
+      "chars": 8568
+    },
+    {
+      "order": 33,
+      "title": "Hobart demos",
+      "path": "hobartdemos.html",
+      "slug": "033-hobart-demos",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "dates.html",
+        "copyright.html"
+      ],
+      "chars": 1341
+    },
+    {
+      "order": 34,
+      "title": "Counselling and Family Therapy: the Centre of Effective Therapy",
+      "path": "hobartsoft.html",
+      "slug": "034-counselling-and-family-therapy-the-centre-of-effective-therapy",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "about_us.html",
+        "upcoming_workshops.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 6256
+    },
+    {
+      "order": 35,
+      "title": "intros",
+      "path": "intro.html",
+      "slug": "035-intros",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "about_us.html",
+        "upcoming_workshops.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 2204
+    },
+    {
+      "order": 36,
+      "title": "Japan",
+      "path": "japan.html",
+      "slug": "036-japan",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "rob.html",
+        "about_us.html",
+        "upcoming_workshops.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 2588
+    },
+    {
+      "order": 37,
+      "title": "Justin O'Brien",
+      "path": "justin_obrien.html",
+      "slug": "037-justin-obrien",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg",
+        "Justin.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "MHEIT.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 3046
+    },
+    {
+      "order": 38,
+      "title": "lasting solutions",
+      "path": "lasting_solutions.html",
+      "slug": "038-lasting-solutions",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "dates.html",
+        "registration.html",
+        "copyright.html"
+      ],
+      "chars": 2470
+    },
+    {
+      "order": 39,
+      "title": "Counselling and Family Therapy: the Centre of Effective Therapy",
+      "path": "learning_congress.html",
+      "slug": "039-counselling-and-family-therapy-the-centre-of-effective-therapy",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "about_us.html",
+        "upcoming_workshops.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 782
+    },
+    {
+      "order": 40,
+      "title": "CET Links | Counselling, Hypnosis and Family Therapy Links",
+      "path": "links.html",
+      "slug": "040-cet-links-counselling-hypnosis-and-family-therapy-links",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "copyright.html"
+      ],
+      "chars": 1554
+    },
+    {
+      "order": 41,
+      "title": "links",
+      "path": "links/index.html",
+      "slug": "041-links",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page0_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/page0_sidebar_3.jpg",
+        "files/page0_sidebar_4.jpg"
+      ],
+      "internal_links": [],
+      "chars": 1482
+    },
+    {
+      "order": 42,
+      "title": "Liz McArthur",
+      "path": "liz_mcarthur.html",
+      "slug": "042-liz-mcarthur",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg",
+        "Liz.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "MHEIT.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 2802
+    },
+    {
+      "order": 43,
+      "title": "previous videos for sale",
+      "path": "locations/page1/page2/page2.html",
+      "slug": "043-previous-videos-for-sale",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 2334
+    },
+    {
+      "order": 44,
+      "title": "Melbourne | Locations",
+      "path": "locations/page21/page21.html",
+      "slug": "044-melbourne-locations",
+      "reachable_from_entry": false,
+      "images": [
+        "files/yes-3.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [
+        "locations/page21/page23/page23.html",
+        "locations/page21/page24/page24.html",
+        "locations/page21/page22/page22.html"
+      ],
+      "chars": 3982
+    },
+    {
+      "order": 45,
+      "title": "supervision | Locations",
+      "path": "locations/page21/page22/page22.html",
+      "slug": "045-supervision-locations",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page22_1.jpg"
+      ],
+      "internal_links": [],
+      "chars": 1042
+    },
+    {
+      "order": 46,
+      "title": "hypnosis 3 days | Locations",
+      "path": "locations/page21/page23/page23.html",
+      "slug": "046-hypnosis-3-days-locations",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page23_sidebar_1.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [
+        "locations/page21/page21.html"
+      ],
+      "chars": 6170
+    },
+    {
+      "order": 47,
+      "title": "SiH diploma | Locations",
+      "path": "locations/page21/page24/page24.html",
+      "slug": "047-sih-diploma-locations",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page24_sidebar_1.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg",
+        "files/rob-0026-peter.jpg"
+      ],
+      "internal_links": [],
+      "chars": 9785
+    },
+    {
+      "order": 48,
+      "title": "professional supervision",
+      "path": "locations/page21/styled-10/page58.html",
+      "slug": "048-professional-supervision",
+      "reachable_from_entry": false,
+      "images": [
+        "files/hike6.jpg"
+      ],
+      "internal_links": [],
+      "chars": 1339
+    },
+    {
+      "order": 49,
+      "title": "hypnosis & mindfulness",
+      "path": "locations/page21/styled-12/page60.html",
+      "slug": "049-hypnosis-mindfulness",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 4176
+    },
+    {
+      "order": 50,
+      "title": "hypnosis 3 days | Locations",
+      "path": "locations/page3/page10/page10.html",
+      "slug": "050-hypnosis-3-days-locations",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page10_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [
+        "locations/page3/page19/page19.html"
+      ],
+      "chars": 7431
+    },
+    {
+      "order": 51,
+      "title": "SORC 3days",
+      "path": "locations/page3/page11/page11.html",
+      "slug": "051-sorc-3days",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page11_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [
+        "locations/page3/page19/page19.html"
+      ],
+      "chars": 5502
+    },
+    {
+      "order": 52,
+      "title": "a week of hypnosis",
+      "path": "locations/page3/page17/page17.html",
+      "slug": "052-a-week-of-hypnosis",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "locations/page3/page19/page19.html"
+      ],
+      "chars": 3029
+    },
+    {
+      "order": 53,
+      "title": "accommodation | Locations",
+      "path": "locations/page3/page19/page19.html",
+      "slug": "053-accommodation-locations",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 1773
+    },
+    {
+      "order": 54,
+      "title": "SOFT diploma",
+      "path": "locations/page3/page5/page5.html",
+      "slug": "054-soft-diploma",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "locations/page3/page19/page19.html"
+      ],
+      "chars": 5639
+    },
+    {
+      "order": 55,
+      "title": "SiH diploma",
+      "path": "locations/page3/page6/page6.html",
+      "slug": "055-sih-diploma",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page6_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [
+        "locations/page3/page19/page19.html"
+      ],
+      "chars": 10683
+    },
+    {
+      "order": 56,
+      "title": "SiC diploma",
+      "path": "locations/page3/page8/page8.html",
+      "slug": "056-sic-diploma",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page8_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [
+        "locations/page3/page19/page19.html"
+      ],
+      "chars": 10529
+    },
+    {
+      "order": 57,
+      "title": "matrix",
+      "path": "locations/page3/styled-11/page59.html",
+      "slug": "057-matrix",
+      "reachable_from_entry": false,
+      "images": [
+        "files/img_0142-2.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "locations/page3/page19/page19.html"
+      ],
+      "chars": 1124
+    },
+    {
+      "order": 58,
+      "title": "SOM",
+      "path": "locations/page3/styled-19/page67.html",
+      "slug": "058-som",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page67_sidebar_1.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 5081
+    },
+    {
+      "order": 59,
+      "title": "advanced hypnosis | Locations",
+      "path": "locations/page3/styled-39/styled-38/page84.html",
+      "slug": "059-advanced-hypnosis-locations",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page84_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg",
+        "https://www.paypalobjects.com/en_AU/i/scr/pixel.gif"
+      ],
+      "internal_links": [],
+      "chars": 5336
+    },
+    {
+      "order": 60,
+      "title": "SiH diploma",
+      "path": "locations/page32/page39/page39.html",
+      "slug": "060-sih-diploma",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page39_sidebar_1.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg",
+        "files/rob-london.jpg"
+      ],
+      "internal_links": [],
+      "chars": 8968
+    },
+    {
+      "order": 61,
+      "title": "sih client day",
+      "path": "locations/page32/styled-13/page61.html",
+      "slug": "061-sih-client-day",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page61_sidebar_1.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 3426
+    },
+    {
+      "order": 62,
+      "title": "som 3 days",
+      "path": "locations/page32/styled-15/page63.html",
+      "slug": "062-som-3-days",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page63_sidebar_1.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 4729
+    },
+    {
+      "order": 63,
+      "title": "sih 3days",
+      "path": "locations/page32/styled/page51.html",
+      "slug": "063-sih-3days",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "locations/page32/page39/page39.html"
+      ],
+      "chars": 2680
+    },
+    {
+      "order": 64,
+      "title": "Brisbane",
+      "path": "locations/page33/page33.html",
+      "slug": "064-brisbane",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 4272
+    },
+    {
+      "order": 65,
+      "title": "Sydney",
+      "path": "locations/page34/page34.html",
+      "slug": "065-sydney",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 4258
+    },
+    {
+      "order": 66,
+      "title": "hypnosis invitation",
+      "path": "locations/page40/page35/page35.html",
+      "slug": "066-hypnosis-invitation",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "locations/page40/page36/page36.html"
+      ],
+      "chars": 428
+    },
+    {
+      "order": 67,
+      "title": "open learning hypnosis 1",
+      "path": "locations/page40/page36/page36.html",
+      "slug": "067-open-learning-hypnosis-1",
+      "reachable_from_entry": false,
+      "images": [
+        "http://www.e-junkie.com/ej/x-click-butcc.gif"
+      ],
+      "internal_links": [
+        "locations/page40/page41/page41.html",
+        "locations/page40/page47/page47.html"
+      ],
+      "chars": 3000
+    },
+    {
+      "order": 68,
+      "title": "open CfS",
+      "path": "locations/page40/page37/page37.html",
+      "slug": "068-open-cfs",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 5043
+    },
+    {
+      "order": 69,
+      "title": "on-line learning",
+      "path": "locations/page40/page40.html",
+      "slug": "069-on-line-learning",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "locations/page40/page35/page35.html",
+        "locations/page40/page37/page37.html"
+      ],
+      "chars": 3400
+    },
+    {
+      "order": 70,
+      "title": "open SiH",
+      "path": "locations/page40/page41/page41.html",
+      "slug": "070-open-sih",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [
+        "locations/page40/page36/page36.html",
+        "locations/page40/page47/page47.html",
+        "locations/page40/page48/page48.html"
+      ],
+      "chars": 4676
+    },
+    {
+      "order": 71,
+      "title": "open learning hypnosis 2",
+      "path": "locations/page40/page47/page47.html",
+      "slug": "071-open-learning-hypnosis-2",
+      "reachable_from_entry": false,
+      "images": [
+        "https://www.paypal.com/en_AU/i/scr/pixel.gif"
+      ],
+      "internal_links": [
+        "locations/page40/page41/page41.html",
+        "locations/page40/page48/page48.html"
+      ],
+      "chars": 2317
+    },
+    {
+      "order": 72,
+      "title": "open learning hypnosis 3",
+      "path": "locations/page40/page48/page48.html",
+      "slug": "072-open-learning-hypnosis-3",
+      "reachable_from_entry": false,
+      "images": [
+        "https://www.paypal.com/en_AU/i/scr/pixel.gif"
+      ],
+      "internal_links": [
+        "locations/page40/page41/page41.html"
+      ],
+      "chars": 2210
+    },
+    {
+      "order": 73,
+      "title": "on-line supervision",
+      "path": "locations/page40/styled-23/page70.html",
+      "slug": "073-on-line-supervision",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page70_sidebar_1.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 3724
+    },
+    {
+      "order": 74,
+      "title": "on-line learning group | Locations",
+      "path": "locations/page40/styled-36/page82.html",
+      "slug": "074-on-line-learning-group-locations",
+      "reachable_from_entry": false,
+      "images": [
+        "files/yes-3.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 4057
+    },
+    {
+      "order": 75,
+      "title": "SiH diploma",
+      "path": "locations/page43/page44/page44.html",
+      "slug": "075-sih-diploma",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page44_sidebar_1.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 9480
+    },
+    {
+      "order": 76,
+      "title": "Darwin SOM",
+      "path": "locations/page43/styled-20/page68.html",
+      "slug": "076-darwin-som",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page68_sidebar_1.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 5132
+    },
+    {
+      "order": 77,
+      "title": "Wagga Wagga",
+      "path": "locations/styled-14/page62.html",
+      "slug": "077-wagga-wagga",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page62_sidebar_1.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [
+        "locations/styled-14/styled-28/page74.html",
+        "locations/styled-14/styled-29/page75.html"
+      ],
+      "chars": 2471
+    },
+    {
+      "order": 78,
+      "title": "hypnosis 3 days",
+      "path": "locations/styled-14/styled-28/page74.html",
+      "slug": "078-hypnosis-3-days",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page74_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg",
+        "https://www.paypalobjects.com/en_AU/i/scr/pixel.gif"
+      ],
+      "internal_links": [],
+      "chars": 7481
+    },
+    {
+      "order": 79,
+      "title": "SiH diploma",
+      "path": "locations/styled-14/styled-29/page75.html",
+      "slug": "079-sih-diploma",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page75_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg",
+        "https://www.paypalobjects.com/en_AU/i/scr/pixel.gif"
+      ],
+      "internal_links": [],
+      "chars": 10926
+    },
+    {
+      "order": 80,
+      "title": "som",
+      "path": "locations/styled-14/styled-30/index.html",
+      "slug": "080-som",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page76_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 6237
+    },
+    {
+      "order": 81,
+      "title": "Byron Shire",
+      "path": "locations/styled-17/page65.html",
+      "slug": "081-byron-shire",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page65_sidebar_1.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [
+        "locations/styled-17/styled-35/page81.html"
+      ],
+      "chars": 2526
+    },
+    {
+      "order": 82,
+      "title": "Masterclass",
+      "path": "locations/styled-17/styled-35/page81.html",
+      "slug": "082-masterclass",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page81_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg",
+        "https://www.paypalobjects.com/en_AU/i/scr/pixel.gif"
+      ],
+      "internal_links": [],
+      "chars": 4312
+    },
+    {
+      "order": 83,
+      "title": "Perth",
+      "path": "locations/styled-21/page33.html",
+      "slug": "083-perth",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page33_sidebar_1.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 5114
+    },
+    {
+      "order": 84,
+      "title": "Wellington",
+      "path": "locations/styled-25/page72.html",
+      "slug": "084-wellington",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page72_sidebar_1.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 5038
+    },
+    {
+      "order": 85,
+      "title": "Gold Coast",
+      "path": "locations/styled-27/page7.html",
+      "slug": "085-gold-coast",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page7_sidebar_1.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 5164
+    },
+    {
+      "order": 86,
+      "title": "Finland",
+      "path": "locations/styled-3/page18.html",
+      "slug": "086-finland",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page18_sidebar_1.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 3461
+    },
+    {
+      "order": 87,
+      "title": "Bundaberg",
+      "path": "locations/styled-31/index.html",
+      "slug": "087-bundaberg",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page77_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 5885
+    },
+    {
+      "order": 88,
+      "title": "Geelong",
+      "path": "locations/styled-32/index.html",
+      "slug": "088-geelong",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page78_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 5938
+    },
+    {
+      "order": 89,
+      "title": "your location",
+      "path": "locations/styled-4/page50.html",
+      "slug": "089-your-location",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 925
+    },
+    {
+      "order": 90,
+      "title": "hypnosis 2 days",
+      "path": "locations/styled-8/styled-33/page79.html",
+      "slug": "090-hypnosis-2-days",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page79_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg",
+        "https://www.paypalobjects.com/en_AU/i/scr/pixel.gif"
+      ],
+      "internal_links": [],
+      "chars": 7407
+    },
+    {
+      "order": 91,
+      "title": "SiH diploma",
+      "path": "locations/styled-8/styled-34/page80.html",
+      "slug": "091-sih-diploma",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page80_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/frontpagepic150.png",
+        "files/bill-chin-on-books_2.jpg",
+        "files/mychael-yapko.jpg",
+        "files/rob-0026-peter_3-2.jpg",
+        "https://www.paypalobjects.com/en_AU/i/scr/pixel.gif"
+      ],
+      "internal_links": [],
+      "chars": 11043
+    },
+    {
+      "order": 92,
+      "title": "Louise",
+      "path": "louise.html",
+      "slug": "092-louise",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg",
+        "Louise7.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "MHEIT.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 3247
+    },
+    {
+      "order": 93,
+      "title": "Melbourne",
+      "path": "melbourne.html",
+      "slug": "093-melbourne",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "counselling.html",
+        "soft.html",
+        "intro.html",
+        "3day.html",
+        "club.html",
+        "registration.html",
+        "copyright.html"
+      ],
+      "chars": 1370
+    },
+    {
+      "order": 94,
+      "title": "3day Counselling Melbourne",
+      "path": "melbourne3dayc.html",
+      "slug": "094-3day-counselling-melbourne",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "dates.html"
+      ],
+      "chars": 4043
+    },
+    {
+      "order": 95,
+      "title": "CET News | Counselling, Hypnosis and Family Therapy Newsletter",
+      "path": "news.html",
+      "slug": "095-cet-news-counselling-hypnosis-and-family-therapy-newsletter",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "copyright.html"
+      ],
+      "chars": 625
+    },
+    {
+      "order": 96,
+      "title": "peter_m",
+      "path": "peter_m.html",
+      "slug": "096-peter-m",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg",
+        "Peter.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "MHEIT.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 2187
+    },
+    {
+      "order": 97,
+      "title": "Principles & seminars",
+      "path": "principles.html",
+      "slug": "097-principles-seminars",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "about_us.html",
+        "upcoming_workshops.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 7389
+    },
+    {
+      "order": 98,
+      "title": "registration",
+      "path": "registration.html",
+      "slug": "098-registration",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 2073
+    },
+    {
+      "order": 99,
+      "title": "Counselling and Family Therapy: the Centre of Effective Therapy",
+      "path": "registrationg.html",
+      "slug": "099-counselling-and-family-therapy-the-centre-of-effective-therapy",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "about_us.html",
+        "upcoming_workshops.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 2387
+    },
+    {
+      "order": 100,
+      "title": "CET Resources | Centre of Effective Therapy: Counselling, Hypnosis and Family Therapy Resources",
+      "path": "resources.html",
+      "slug": "100-cet-resources-centre-of-effective-therapy-counselling-hypnosis-and-family-therap",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "copyright.html"
+      ],
+      "chars": 1165
+    },
+    {
+      "order": 101,
+      "title": "video reviews | solution oriented resources",
+      "path": "resources/page2/page2.html",
+      "slug": "101-video-reviews-solution-oriented-resources",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page2_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/page2_sidebar_3.jpg",
+        "files/page2_sidebar_4.jpg"
+      ],
+      "internal_links": [
+        "resources/styled-2/index.html"
+      ],
+      "chars": 6708
+    },
+    {
+      "order": 102,
+      "title": "Crown House DVDs",
+      "path": "resources/page3/page3.html",
+      "slug": "102-crown-house-dvds",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page3_1.jpg",
+        "files/page3_2.jpg",
+        "files/page3_3.jpg",
+        "files/page3_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/page3_sidebar_3.jpg",
+        "files/page3_sidebar_4.jpg"
+      ],
+      "internal_links": [],
+      "chars": 895
+    },
+    {
+      "order": 103,
+      "title": "Audio",
+      "path": "resources/styled-2/index.html",
+      "slug": "103-audio",
+      "reachable_from_entry": false,
+      "images": [
+        "files/robmcneilly_copy-002810029.jpg",
+        "http://www.e-junkie.com/ej/ej_add_to_cart.gif",
+        "http://www.e-junkie.com/ej/ej_view_cart.gif",
+        "files/page5_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/page5_sidebar_3.jpg",
+        "files/page5_sidebar_4.jpg"
+      ],
+      "internal_links": [],
+      "chars": 1262
+    },
+    {
+      "order": 104,
+      "title": "Books",
+      "path": "resources/styled-3/index.html",
+      "slug": "104-books",
+      "reachable_from_entry": false,
+      "images": [
+        "files/pasted-graphic-1.jpg",
+        "files/page6_2.jpg",
+        "https://www.paypalobjects.com/en_AU/i/scr/pixel.gif",
+        "https://www.paypalobjects.com/en_AU/i/scr/pixel.gif",
+        "files/pasted-graphic-2.jpg",
+        "files/pasted-graphic-3.jpg",
+        "files/pasted-graphic-3-2.jpg",
+        "files/pasted-graphic-4.jpg",
+        "files/pasted-graphic-5.jpg",
+        "files/pasted-graphic-6.jpg",
+        "files/page6_sidebar_1.jpg",
+        "files/gabrielle-in-hobart.jpg",
+        "files/page6_sidebar_3.jpg",
+        "files/page6_sidebar_4.jpg"
+      ],
+      "internal_links": [
+        "resources/styled/index.html"
+      ],
+      "chars": 1912
+    },
+    {
+      "order": 105,
+      "title": "Doing Change | solution oriented resources",
+      "path": "resources/styled/index.html",
+      "slug": "105-doing-change-solution-oriented-resources",
+      "reachable_from_entry": false,
+      "images": [
+        "files/order-form-1.jpg",
+        "files/order-form-2.jpg"
+      ],
+      "internal_links": [
+        "resources/styled-2/index.html"
+      ],
+      "chars": 174
+    },
+    {
+      "order": 106,
+      "title": "Counselling and Family Therapy: the Centre of Effective Therapy",
+      "path": "rob.html",
+      "slug": "106-counselling-and-family-therapy-the-centre-of-effective-therapy",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 2809
+    },
+    {
+      "order": 107,
+      "title": "Singapore",
+      "path": "singapore.html",
+      "slug": "107-singapore",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "MHEIT.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 1564
+    },
+    {
+      "order": 108,
+      "title": "dip SOFT",
+      "path": "soft.html",
+      "slug": "108-dip-soft",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "dates.html",
+        "copyright.html"
+      ],
+      "chars": 5783
+    },
+    {
+      "order": 109,
+      "title": "Peter",
+      "path": "therapist/page1/page1.html",
+      "slug": "109-peter",
+      "reachable_from_entry": false,
+      "images": [
+        "files/thorn-looking-up2.jpg"
+      ],
+      "internal_links": [],
+      "chars": 1210
+    },
+    {
+      "order": 110,
+      "title": "Justin O'Brien",
+      "path": "therapist/page13/page13.html",
+      "slug": "110-justin-obrien",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page13_1.jpg"
+      ],
+      "internal_links": [],
+      "chars": 1142
+    },
+    {
+      "order": 111,
+      "title": "Ian Shephard",
+      "path": "therapist/page15/page15.html",
+      "slug": "111-ian-shephard",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page15_1.jpg"
+      ],
+      "internal_links": [],
+      "chars": 2698
+    },
+    {
+      "order": 112,
+      "title": "Peter Maloney",
+      "path": "therapist/page17/page17.html",
+      "slug": "112-peter-maloney",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page17_1.jpg"
+      ],
+      "internal_links": [],
+      "chars": 785
+    },
+    {
+      "order": 113,
+      "title": "Madeleine Maloney",
+      "path": "therapist/page18/page18.html",
+      "slug": "113-madeleine-maloney",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page18_1.jpg"
+      ],
+      "internal_links": [],
+      "chars": 910
+    },
+    {
+      "order": 114,
+      "title": "403 page",
+      "path": "therapist/page2/page2.html",
+      "slug": "114-403-page",
+      "reachable_from_entry": false,
+      "images": [],
+      "internal_links": [],
+      "chars": 516
+    },
+    {
+      "order": 115,
+      "title": "Raywyn",
+      "path": "therapist/page20/page20.html",
+      "slug": "115-raywyn",
+      "reachable_from_entry": false,
+      "images": [
+        "files/raywyn.jpg"
+      ],
+      "internal_links": [],
+      "chars": 2846
+    },
+    {
+      "order": 116,
+      "title": "Mark Quinn",
+      "path": "therapist/page21/page21.html",
+      "slug": "116-mark-quinn",
+      "reachable_from_entry": false,
+      "images": [
+        "files/mark-0026-gus.jpg"
+      ],
+      "internal_links": [],
+      "chars": 731
+    },
+    {
+      "order": 117,
+      "title": "Colleen",
+      "path": "therapist/page3/page3.html",
+      "slug": "117-colleen",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page3_1.jpg"
+      ],
+      "internal_links": [],
+      "chars": 1158
+    },
+    {
+      "order": 118,
+      "title": "Emma Warnecke",
+      "path": "therapist/page5/page5.html",
+      "slug": "118-emma-warnecke",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page5_1.jpg"
+      ],
+      "internal_links": [],
+      "chars": 1410
+    },
+    {
+      "order": 119,
+      "title": "Mary-anne Clarke",
+      "path": "therapist/page6/page6.html",
+      "slug": "119-mary-anne-clarke",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page6_1.jpg"
+      ],
+      "internal_links": [],
+      "chars": 1237
+    },
+    {
+      "order": 120,
+      "title": "Sarah De Jonge",
+      "path": "therapist/page7/page7.html",
+      "slug": "120-sarah-de-jonge",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page7_1.jpg"
+      ],
+      "internal_links": [],
+      "chars": 1703
+    },
+    {
+      "order": 121,
+      "title": "Jeannette",
+      "path": "therapist/page8/page8.html",
+      "slug": "121-jeannette",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page8_1.jpg"
+      ],
+      "internal_links": [],
+      "chars": 1152
+    },
+    {
+      "order": 122,
+      "title": "Liz McArthur",
+      "path": "therapist/page9/page9.html",
+      "slug": "122-liz-mcarthur",
+      "reachable_from_entry": false,
+      "images": [
+        "files/page9_1.jpg"
+      ],
+      "internal_links": [],
+      "chars": 1119
+    },
+    {
+      "order": 123,
+      "title": "Anna Mickelburgh",
+      "path": "therapist/styled-2/page24.html",
+      "slug": "123-anna-mickelburgh",
+      "reachable_from_entry": false,
+      "images": [
+        "files/anna-mickelburgh.jpeg"
+      ],
+      "internal_links": [],
+      "chars": 1344
+    },
+    {
+      "order": 124,
+      "title": "Gabriel Rusu",
+      "path": "therapist/styled-3/page7.html",
+      "slug": "124-gabriel-rusu",
+      "reachable_from_entry": false,
+      "images": [
+        "files/gabriel.jpg"
+      ],
+      "internal_links": [],
+      "chars": 3262
+    },
+    {
+      "order": 125,
+      "title": "Counselling and Family Therapy: the Centre of Effective Therapy",
+      "path": "upcoming_workshops.html",
+      "slug": "125-counselling-and-family-therapy-the-centre-of-effective-therapy",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "upcoming_workshops.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 1160
+    },
+    {
+      "order": 126,
+      "title": "Counselling and Family Therapy: the Centre of Effective Therapy",
+      "path": "whats_new.html",
+      "slug": "126-counselling-and-family-therapy-the-centre-of-effective-therapy",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "club.html",
+        "dates.html"
+      ],
+      "chars": 2131
+    },
+    {
+      "order": 127,
+      "title": "Solution Oriented Hypnosis | building on an Ericksonian approach",
+      "path": "workshop_blog/index.html",
+      "slug": "127-solution-oriented-hypnosis-building-on-an-ericksonian-approach",
+      "reachable_from_entry": false,
+      "images": [
+        "/workshop_blog/wp-content/uploads/2010/07/cropped-IMG_09511.jpg",
+        "/workshop_blog/wp-content/uploads/2010/07/cropped-Mt-Wellington-300x63.jpg",
+        "/workshop_blog/wp-includes/images/rss.png",
+        "/workshop_blog/wp-content/uploads/2010/07/Rob-London-228x300.jpg"
+      ],
+      "internal_links": [
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html",
+        "workshop_blog/index.html"
+      ],
+      "chars": 13388
+    },
+    {
+      "order": 128,
+      "title": "graduates",
+      "path": "workshops_for_graduates.html",
+      "slug": "128-graduates",
+      "reachable_from_entry": false,
+      "images": [
+        "rob.jpg",
+        "gabrielle.jpg"
+      ],
+      "internal_links": [
+        "index.html",
+        "about_us.html",
+        "MHEIT.html",
+        "resources.html",
+        "news.html",
+        "links.html",
+        "contact_us.html",
+        "blogs.html",
+        "whats_new.html",
+        "workshops_for_graduates.html",
+        "copyright.html"
+      ],
+      "chars": 1241
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+[2026-09-18 11:19:18] ============================================================
+[2026-09-18 11:19:18] WAYBACK MIRROR: cet.net.au
+[2026-09-18 11:19:18] Output: /Users/esaruoho/work/merlib-mirror/sites/cet.net.au
+[2026-09-18 11:19:18] Delay: 1.0s
+[2026-09-18 11:19:18] ============================================================
+[2026-09-18 11:19:18] Resuming: phase=init, 0 already done
+[2026-09-18 11:19:18] 
+=== PHASE 1: URL Discovery ===
+[2026-09-18 11:19:18] Querying CDX for cet.net.au/*...
+[2026-09-18 11:19:27]   Found 1027 URLs for cet.net.au/*
+[2026-09-18 11:19:27] Querying CDX for www.cet.net.au/*...
+[2026-09-18 11:19:33]   Found 1027 URLs for www.cet.net.au/*
+[2026-09-18 11:19:51] Total unique valid URLs: 1028
+[2026-09-18 11:19:51]   text/html: 450
+[2026-09-18 11:19:51]   image/jpeg: 359
+[2026-09-18 11:19:51]   image/png: 93
+[2026-09-18 11:19:51]   text/css: 54
+[2026-09-18 11:19:51]   image/gif: 48
+[2026-09-18 11:19:51]   image/x-icon: 8
+[2026-09-18 11:19:51]   text/plain: 6
+[2026-09-18 11:19:51]   application/javascript: 6
+[2026-09-18 11:19:51]   application/x-javascript: 2
+[2026-09-18 11:19:51]   application/x-shockwave-flash: 1
+[2026-09-18 11:19:51]   audio/mpeg: 1
+[2026-09-18 11:19:51] 
+=== PHASE 2: Downloading ===
+[2026-09-18 11:19:51] Collapsed 6 host-variant duplicate(s) to one fetch each
+[2026-09-18 11:19:51] Skipping 82 unmirrorable URL(s) (server-side / WordPress plumbing) — not fetched, not counted as failures
+[2026-09-18 11:19:51] Downloading 940 of 1,028 with 4 worker(s) (delay 1.0s each)
+[2026-09-18 11:19:51] --- pass 1/6: 940 URL(s), 4 worker(s) ---
+[2026-09-18 11:22:03] --- Progress: 26/1028 (2%) | New: 19 | Fail: 1 | Throttled-deferred: 0 | Rate: 12/min | ETA 1.4h ---
+[2026-09-18 11:23:27] [37/1028] OK application/rw_common/themes/sharp/css/sidebar/rw_common/themes/sharp/ (4,610b) @20220428
+[2026-09-18 11:24:20] --- Progress: 38/1028 (3%) | New: 25 | Fail: 7 | Throttled-deferred: 0 | Rate: 8/min | ETA 2.0h ---
+[2026-09-18 11:26:36] --- Progress: 48/1028 (4%) | New: 34 | Fail: 8 | Throttled-deferred: 0 | Rate: 7/min | ETA 2.3h ---
+[[2026-09-18 11:28:47] --- Progress: 60/1028 (5%) | New: 37 | Fail: 17 | Throttled-deferred: 0 | Rate: 7/min | ETA 2.4h --[2[2026-09-18 11:30:59] --- Progress: 67/1028 (6%) | New: 39 | Fail: 22 | Throttled-deferred: 0 | Rate: 6/min | ETA 2.7h ---
+[2026-09-18 11:33:08] --- Progress: 78/1028 (7%) | New: 43 | Fail: 29 | Throttled-deferred: 0 | Rate: 6/min | ETA 2.7h ---
+[2026-09-18 11:34:36] [89/1028] OK application/rw_common/themes/sharp/css/width/rw_common/themes/sharp/cs (4,609b) @20110219
+[2026-09-18 11:35:21] --- Progress: 91/1028 (8%) | New: 51 | Fail: 34 | Throttled-deferred: 0 | Rate: 6/min | ETA 2.7h ---
+[2026-09-18 11:36:50] --- Progress: 100/1028 (9%) | New: 55 | Fail: 39 | Throttled-deferred: 0 | Rate: 6/min | ETA 2.6h ---
+[2026-09-18 11:39:04] --- Progress: 108/1028 (10%) | New: 59 | Fail: 43 | Throttled-deferred: 0 | Rate: 6/min | ETA 2.7h ---
+[2026-09-18 11:41:21] --- Progress: 117/1028 (11%) | New: 61 | Fail: 50 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.8h ---
+[2026-09-18 11:43:31] --- Progress: 130/1028 (12%) | New: 69 | Fail: 55 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.7h ---
+[2026-09-18 11:44:29] [136/1028] OK application/rw_common/themes/sharp/rw_common/themes/sharp/css/sidebar/ (4,610b) @20220428
+[2026-09-18 11:45:36] --- Progress: 139/1028 (13%) | New: 77 | Fail: 56 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.8h [202[2026-09-18 11:47:32] --- Progress: 150/1028 (14%) | New: 83 | Fail: 61 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.7h [202[2026-09-18 11:49:35] --- Progress: 155/1028 (15%) | New: 85 | Fail: 64 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.8h [202[2026-09-18 11:51:40] --- Progress: 166/1028 (16%) | New: 93 | Fail: 67 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.8h [202[2026-09-18 11:53:46] --- Progress: 176/1028 (17%) | New: 98 | Fail: 72 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.7h ---
+[2026-09-18 11:54:04] [179/1028] OK application/rw_common/themes/sharp/rw_common/themes/sharp/css/width/rw (4,610b) @20110[202[2026-09-18 11:55:47] --- Progress: 184/1028 (17%) | New: 100 | Fail: 78 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.8h [202[2026-09-18 11:58:04] --- Progress: 193/1028 (18%) | New: 105 | Fail: 82 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.8h [2026-09-18 11:59:23] --- Progress: 199/1028 (19%) | New: 114 | Fail: 79 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.7h ---
+[202[2026-09-18 12:01:40] --- Progress: 209/1028 (20%) | New: 111 | Fail: 92 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.7h ---
+[2026-09-18 12:04:27] --- Progress: 220/1028 (21%) | New: 115 | Fail: 99 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.7h ---
+[2026-09-18 12:06:43] --- Progress: 232/1028 (22%) | New: 121 | Fail: 105 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.7h ---
+[2026-09-18 12:08:27] [240/1028] OK files/gabrielle-in-hobart.jpg (12,965b) @20191221
+[2026-09-18 12:09:02] --- Progress: 242/1028 (23%) | New: 126 | Fail: 110 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.7h ---
+[2026-09-18 12:11:04] --- Progress: 250/1028 (24%) | New: 131 | Fail: 113 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.7h ---
+[2026-09-18 12:13:05] --- Progress: 258/1028 (25%) | New: 137 | Fail: 115 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.7h ---
+[2026-09-18 12:15:17] --- Progress: 269/1028 (26%) | New: 143 | Fail: 120 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.6h ---
+[2026-09-18 12:17:21] --- Progress: 277/1028 (26%) | New: 146 | Fail: 125 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.6h ---
+[2026-09-18 12:19:23] [287/1028] OK images/MHEIT_off.gif (1,776b) @20210518
+[2026-09-18 12:19:23] --- Progress: 287/1028 (27%) | New: 150 | Fail: 131 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.6h ---
+[2026-09-18 12:21:49] --- Progress: 297/1028 (28%) | New: 157 | Fail: 134 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.5h ---
+[2026-09-18 12:22:15] --- Progress: 300/1028 (29%) | New: 158 | Fail: 136 | Throttled-deferred: 0 | Rate: 5[2026-09-18 12:22:18[2026-09-18 12:24:24] --- Progress: 308/1028 (29%) | New: 161 | Fail: 141 | Throttled-deferred: 0 | Rate: 5[2026-09-18 12:24:30[2026-09-18 12:26:36] --- Progress: 319/1028 (31%) | New: 165 | Fail: 148 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.5h ---
+[2026-09-18 12:28:46] --- Progress: 331/1028 (32%) | New: 171 | Fail: 154 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.4h ---
+[2026-09-18 12:30:55] --- Progress: 339/1028 (32%) | New: 172 | Fail: 161 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.4h ---
+[2026-09-18 12:31:58] [344/1028] OK locations/page1/page2/page2.html (5,842b) @20211028
+[2026-09-18 12:33:03] --- Progress: 348/1028 (33%) | New: 176 | Fail: 166 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.4h ---
+[2026-09-18 12:33:17] --- Progress: 350/1028 (34%) | New: 177 | Fail: 167 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.4h ---
+[2026-09-18 12:35:18] --- Progress: 359/1028 (34%) | New: 183 | Fail: 170 | Throttled-deferred: 0 | Rate: 5/min |[2026-09-18 12[2026-09-18 12:37:18] --- Progress: 369/1028 (35%) | New: 189 | Fail: 174 | Throttled-deferred: 0 | Rate: 5/min |[2026-09-18 12[2026-09-18 12:39:27] --- Progress: 377/1028 (36%) | New: 192 | Fail: 179 | Throttled-deferred: 0 | Rate: 5/min |[2026-09-18 12[2026-09-18 12:42:25] --- Progress: 385/1028 (37%) | New: 195 | Fail: 184 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.3h ---
+[2026-09-18 12:44:03] [395/1028] OK locations/page3/page11/files/page11_sidebar_1.jpg (7,276b) @20190804
+[2026-09-18 12:44:29] --- Progress: 396/1028 (38%) | New: 200 | Fail: 190 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.3h ---
+[2026-09-18 12:44:46] --- Progress: 400/1028 (38%) | New: 203 | Fail: 191 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.2h ---
+[2026-09-18 12:46:46] --- Progress: 409/1028 (39%) | New: 207 | Fail: 196 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.2h ---
+[2026-09-18 12:48:46] --- Progress: 418/1028 (40%) | New: 213 | Fail: 199 | Throttled-deferred: 0 |[2026-09-18 12:48:53] --- Pr[2026-09-18 12:50:52] --- Progress: 429/1028 (41%) | New: 220 | Fail: 203 | Throttled-deferred: 0 |[2026-09-18 12:51:08] --- Pr[2026-09-18 12:53:03] --- Progress: 437/1028 (42%) | New: 221 | Fail: 210 | Throttled-deferred: 0 |[2026-09-18 12:53:15] --- Pr[2026-09-18 12:55:15] --- Progress: 446/1028 (43%) | New: 224 | Fail: 216 | Throttled-deferred: 0 |[2026-09-18 12:55:23] --- Pr[2026-09-18 12:55:41] [450/1028] OK locations/page3/styled-19/page67.html (12,537b) @20220428
+[2026[2026-09-18 12:55:48] --- Progress: 450/1028 (43%) | New: 223 | Fail: 221 | Throttled-deferred: 0 | Rate: 5/min | ETA 2.1h[2026-09-18 12:57:42] --- Progress: 458/1028 (44%) | New: 229 | Fail: 223 | Throttled-deferred: 0 | Rate: 5/mi[2026-09-18 12:57[2026-09-18 12:59:51] --- Progress: 466/1028 (45%) | New: 233 | Fail: 227 | Throttled-deferred: 0 | Rate: 5/mi[2026-09-18 13:00[2026-09-18 13:02:02] --- Progress: 475/1028 (46%) | New: 237 | Fail: 232 | Throttled-deferred: 0 | Rate: 5/mi[2026-09-18 13:02[2026-09-18 13:04:03] --- Progress: 487/1028 (47%) | New: 243 | Fail: 238 | Throttled-deferred: 0 | Rate: 5/mi[2026-09-18 13:04[2026-09-18 13:05:55] [497/1028] OK locations/page32/styled/page51.html (8,684b) @20120318
+[2026-09-18 13:06:1[2026-09-18 13:06:41] --- Progress: 496/1028 (48%) | New: 238 | Fail: 252 | Throttled-deferred: 0 | Rate: 5/min | ETA 1.9h ---
+[2026-09-18 13:07:14] --- Progress: 500/1028 (48%) | New: 241 | Fail: 253 | Throttled-deferred: 0 | Rate: 5/[2026-09-18 13:08:5[2026-09-18 13:09:28] [512/1028] OK locations/page40/page41/page41.html (10,248b) @20210518
+[2026-09-18 13:0[2026-09-18 13:11:08] --- Progress: 522/1028 (50%) | New: 265 | Fail: 251 | Throttled-deferred: 0 | Rate: 5/min[2026-09-18 13:1[2026-09-18 13:13:26] --- Progress: 531/1028 (51%) | New: 268 | Fail: 257 | Throttled-deferred: 0 | Rate: 5/min[2026-09-18 13:1[2026-09-18 13:15:27] --- Progress: 540/1028 (52%) | New: 274 | Fail: 260 | Throttled-deferred: 0 | Rate: 5/min[2026-09-18 13:1[2026-09-18 13:17:41] --- Progress: 548/1028 (53%) | New: 274 | Fail: 268 | Throttled-deferred: 0 | Rate: 5/min[2026-09-18 13:1[2026-09-18 13:18:10] --- Progress: 550/1028 (53%) | New: 274 | Fail: 270 | Throttled-deferred: 0 | Rate: 5/min[2026-09-18 13:19:58] --- Progress: 559/1028 (54%) | New: 271 | Fail: 282 | Throttled-deferred: 0 | Rate: 5/min | ETA 1.7h[2026[2026-09-18 13:21:45] [567/1028] OK locations/styled-14/styled-29/files/frontpagepic150.png (4,656b) @20210518
+[2026-09-18[2026-09-18 13:22:30] --- Progress: 570/1028 (55%) | New: 282 | Fail: 282 | Throttled-deferred: 0 | Rate: 5/min | ET[2026-09-18[2026-09-18 13:24:49] --- Progress: 580/1028 (56%) | New: 288 | Fail: 286 | Throttled-deferred: 0 | Rate: 5/min | ET[2026-09-18[2026-09-18 13:26:56] --- Progress: 588/1028 (57%) | New: 292 | Fail: 290 | Throttled-deferred: 0 | Rate: 5/min | ET[2026-09-18[2026-09-18 13:28:59] --- Progress: 596/1028 (57%) | New: 294 | Fail: 296 | Throttled-deferred: 0 | Rate: 5/min | ET[2026-09-18[2026-09-18 13:30:06] --- Progress: 600/1028 (58%) | New: 294 | Fail: 300 | Throttled-deferred: 0 | Rate: 5/min | ET[2026-09-18[2026-09-18 13:32:14] [612/1028] OK locations/styled-17/styled-35/files/rob-0026-peter_3-2.jpg (2,732b) @20191221
+[2[2026-09-18 13:33:40] --- Progress: 617/1028 (60%) | New: 298 | Fail: 313 | Throttled-deferred: 0 | Rate: 5/min | ETA 1.5h --[2026-09-18 13:34:19] --- Progress: 620/1028 (60%) | New: 305 | Fail: 309 | Throttled-deferred: 0 | R[2026-09-18 13:35:40] --- [2026-09-18 13:36:25] --- Progress: 630/1028 (61%) | New: 308 | Fail: 316 | Throttled-deferred: 0 | R[2026-09-18 13:37:51] --- [2026-09-18 13:38:26] --- Progress: 639/1028 (62%) | New: 311 | Fail: 322 | Throttled-deferred: 0 | R[2026-09-18 13:40:02] --- [2026-09-18 13:40:38] --- Progress: 647/1028 (62%) | New: 313 | Fail: 328 | Throttled-deferred: 0 | R[2026-09-18 13:41:21] --- Progress: 650/1028 (63%) | New: 313 | Fail: 331 | Throttled-deferred: 0 | Rate: 5/min | ETA 1.4h ---
+[2026-09-18 13:43:28] --- Progress: 657/1028 (63%) | New: 316 | Fail: 335 | Throttled-deferred: 0 | Rate: 5/min | ETA 1.4h ---
+[2026-09-18 13:45:34] --- Progress: 669/1028 (65%) | New: 324 | Fail: 339 | Throttled-deferred: 0 | Rate: 5/min | ETA 1.3h ---
+[2026-09-18 13:46:15] [672[2026-09-18 13:47:01] [675/1028] OK locations/styled-8/styled-34/files/bill-chin-on-b[2026-09-18 13:47:42] --- Prog[2026-09-18 13:47:50] --- Progress: 679/1028 (66%) | New: 328 | Fail: 345 | Throttled-deferred: 0[2026-09-18 13:49:53] --- Prog[2026-09-18 13:49:58] --- Progress: 687/1028 (66%) | New: 330 | Fail: 351 | Throttled-deferred: 0[2026-09-18 13:51:53] --- Prog[2026-09-18 13:52:24] --- Progress: 698/1028 (67%) | New: 336 | Fail: 356 | Throttled-deferred: 0[2026-09-18 13:52:42] --- Prog[2026-09-18 13:52:56] --- Progress: 700/1028 (68%) | New: 337 | Fail: 357 | Throttled-deferred: 0[2026-09-18 13:55:11] --- Progress: 709/1028 (68%) | New: 338 | Fail: 365 | Throttled-deferred: 0 | Rate: 5/min | ETA 1.2h ---
+[2026-09-18 13:57:13] --- Progress: 717/1028 (69%) | New: 341 | Fail: 370 | Throttled-deferred: 0 | Rate: 5/min | ETA 1.1h ---
+[2026-09-18 13:59:18] --- Prog[2026-09-18 13:59:27] --- Progress: 726/1028 (70%) | New: 348 | Fail: 372 | Throttled-deferred: 0[2026-09-18 14:01:37] --- Progress: 734/1028 (71%) | New: 347 | Fail: 381 | Throttled-deferred: 0 | Rate: 5/min | ETA 1.1h ---
+[2026-09-18 14:02:46] [739/1028] OK resources/files/pasted-graphic-1.jpg (8,624b) @20191221
+[2026-09-18 14:03:46] --- Progress: 742/1028 (72%) | New: 351 | Fail: 385 | Throttled-deferred: 0 | Rate: 5/min | ETA 1.1h ---
+[2026-09-18 14:05:39] --- Progress: 750/1028 (72%) | New: 355 | Fail: 389 | Throttled-deferred: 0 | Rate: 5/min | ETA 1.0h ---
+[2026-09-18 14:07:46] --- Progress: 761/1028 (74%) | New: 359 | Fail: 396 | Throttled-deferred: 0 | Rate: 5/min | ETA 1.0h ---
+[2026-09-18 14:10:06] --- Progress: 770/1028 (74%) | New: 362 | Fail: 402 | Throttled-deferred: 0 | Rate: 5/min | ETA 1.0h ---
+[2026-09-18 14:12:25] --- Progress: 778/1028 (75%) | New: 366 | Fail: 406 | Throttled-deferred: 0 | Rate: 5/min | ETA 0.9h ---
+[2026-09-18 14:14:32] --- Progress: 789/1028 (76%) | New: 370 | Fail: 413 | Throttled-deferred: 0 | Rate: 5/min | ETA 0.9h ---
+[2026-09-18 14:15:51] [796/1028] OK resources/rw_common/themes/realmacsoftware05/images/sidebar_right.png (161b) @20191221
+[2026-09-18 14:16:47] --- Progress: 799/1028 (77%) | New: 375 | Fail: 418 | Throttled-deferred: 0 | Rate: 5/min | ETA 0.8h ---
+[2026-09-18 14:16:54] --- Progress[2026-09-18 14:17:26] --- Progress: 800/1028 (77%) | New: 377 | Fail: 417 | Throttled-deferre[2026-09-18 14:18:56] --- Progress[2026-09-18 14:19:48] --- Progress: 814/1028 (79%) | New: 386 | Fail: 422 | Throttled-deferre[2026-09-18 14:21:15] --- Progress[2026-09-18 14:22:28] --- Progress: 824/1028 (80%) | New: 389 | Fail: 429 | Throttled-deferre[2026-09-18 14:23:28] --- Progress[2026-09-18 14:24:57] --- Progress: 837/1028 (81%) | New: 394 | Fail: 437 | Throttled-deferre[2026-09-18 14:25:36] --- Progress[2026-09-18 14:27:03] --- Progress: 845/1028 (82%) | New: 394 | Fail: 445 | Throttled-deferre[2026-09-18 14:27:42] --- Progress[2026-09-18 14:28:16] --- Progress: 850/1028 (82%) | New: 395 | Fail: 449 | Throttled-deferre[2026-09-18 14:28:31] --- Progress[2026-09-18 14:30:24] --- Progress: 855/1028 (83%) | New: 395 | Fail: 454 | Throttled-deferre[2026-09-18 14:30:35] --- Progress[2026-09-18 14:32:39] --- Progress: 865/1028 (84%) | New: 398 | Fail: 461 | Throttled-deferre[2026-09-18 14:32:54] --- Progress[2026-09-18 14:33:28] [870/1028] OK therapist/page1/files/thorn-looking-up2.jpg (17,525b) @on[2026-09-18 14:35:00] --- Progress: 877/1028 (85%) | New: 399 | Fail: 472 | Throttled-deferred: 0 | Rate: 4/min | ETA 0.6h ---
+[2026-[2026-09-18 14:37:32] --- Progress: 886/1028 (86%) | New: 407 | Fail: 473 | Throttled-deferred: 0 | Rate: 4/min | ETA 0.5h ---
+[2026-09-18 14:39:40] --- Progress: 896/1028 (87%) | New: 410 | Fail: 480 | Throttled-deferred: 0 | Rate: 4/min | ETA 0.5h ---
+[2026-09-18 14:40:32] --- Progress: 900/1028 (87%) | New: 412 | Fail: 482 | Throttled-deferred: 0 | Rate: 4/min | ETA 0.5h ---
+[2026-09-18 14:42:34] --- Progress: 911/1028 (88%) | New: 416 | Fail: 489 | Throttled-deferred: 0 | Rate: 4/min | ETA 0.4h ---
+[2026-09-18 14:44:51] --- Progress: 921/1028 (89%) | New: 421 | Fail: 494 | Throttled-deferred: 0 | Rate: 4/min | ETA 0.4h ---
+[2026-09-18 14:47:01] --- Progress: 929/1028 (90%) | New: 422 | Fail: 501 | Throttled-deferred: 0 | Rate: 4/min | ETA 0.4h ---
+[2026-09-18 14:48:11] [935/1028] OK therapist/styled-2/page24.html (4,709b) @2[2026-09[2026-09-18 14:49:20] --- Progress: 938/1028 (91%) | New: 426 | Fail: 506 | Throttled-deferred: 0 | Rate: 4/min | ETA 0[2026-09-18 14:49:41] [942/1028] OK whats_new.html (6,266b) @20231015
+[2026-09-18 14:50:15] 
+=== PHASE 3: Generating Index ===
+/Users/esaruoho/work/merlib-mirror/mirror.py:1005: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  lines.append(f"mirror_date: {datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')}")
+[2026-09-18 14:50:15] Generating index...
+[2026-09-18 14:50:15] Index: 898 files
+[2026-09-18 14:50:15]   .txt: 267
+[2026-09-18 14:50:15]   .jpg: 255
+[2026-09-18 14:50:15]   .html: 128
+[2026-09-18 14:50:15]   .css: 120
+[2026-09-18 14:50:15]   .png: 61
+[2026-09-18 14:50:15]   .gif: 28
+[2026-09-18 14:50:15]   .js: 28
+[2026-09-18 14:50:15]   .htc: 4
+[2026-09-18 14:50:15]   .ico: 4
+[2026-09-18 14:50:15]   .swf: 1
+[2026-09-18 14:50:15]   .mp3: 1
+[2026-09-18 14:50:15]   .jpeg: 1
+[2026-09-18 14:50:15] 
+============================================================
+[2026-09-18 14:50:15] MIRROR COMPLETE
+[2026-09-18 14:50:15] Total URLs: 1028
+[2026-09-18 14:50:15] Downloaded: 428
+[2026-09-18 14:50:15] Failed: 512
+[2026-09-18 14:50:15] Files: 898
+[2026-09-18 14:50:15] ============================================================
+[2026-09-18 14:50:15] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/cet.net.au
+site_to_paper: cet.net.au — 128 HTML page(s)
+site_to_paper: entry=index.html · reachable=1 · unreached=127
+site_to_paper: wrote /Users/esaruoho/work/merlib-mirror/sites/cet.net.au/_paper/cet.net.au-CONSOLIDATED.md (467,150 chars from 128 pages)
+site_to_paper: wrote 128 per-page markdown files to /Users/esaruoho/work/merlib-mirror/sites/cet.net.au/_paper/pages
+site_to_allpages: cet.net.au — 128 page(s), entry=index.html, reachable=1, orphans=127
+site_to_allpages: wrote /Users/esaruoho/work/merlib-mirror/sites/cet.net.au/_paper/allpages.html (988,207 chars, 128 pages, 996 internal links → anchors, 258 asset paths fixed)
+site_to_allpages: weasyprint not found — skipping PDF (install it, or open allpages.html and ⌘P → Save as PDF)

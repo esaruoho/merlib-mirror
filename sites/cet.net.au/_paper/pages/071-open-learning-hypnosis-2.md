@@ -1,0 +1,104 @@
+---
+title: "open learning hypnosis 2"
+source_domain: cet.net.au
+source_path: locations/page40/page47/page47.html
+order: 71
+reachable_from_entry: false
+images: 1
+internal_links: 2
+extracted: 2026-09-18T11:50:33Z
+extractor: site_to_paper.py (builtin)
+---
+
+# open learning hypnosis 2
+
+*Source page: `locations/page40/page47/page47.html`*
+
+Locations
+
+		
+
+	
+
+	
+	
+
+		
+
+			
+		
+ 
+		
+
+		
+
+			
+
+			 
+
+			 
+
+		
+
+	
+
+	
+	
+
+		
+
+			
+Solutions in Hypnosis
+an on-line learning opportunity building on an Ericksonian approach
+module 2
+with Dr. Robert McNeilly
+We explored a naturalistic and respectful approach to reconnecting people with their resources in the first module, and we can now build on that to learning specific hypnotic experiences to further enhance our effectiveness.
+In this programme we will explore the way the following can be part of a problem formation, and also of solution generating:
+connections and disconnections,
+memories and anticipations,
+time flexibilities,
+noticing and not noticing sensations 
+all in a mood of respectful lightness and safety so that whatever our levels of experience, we can find our own individual version of this method and apply it to our work readily and immediately.
+Structure
+On the web page, there are written notes, recorded lectures and videos of demonstrations. Most people say they like to take 1 - 2 weeks for each section, but you can make your own pace, and revisit any section whenever you wish. After reading, listening and viewing, practicing with a colleague, client or friend, and joining the website conversation with others, a shared and extended learning experience will evolve. 
+Preliminary
+defining individual learning goals
+read and listen to introductory comments.
+1 connecting and disconnecting
+2 “time travel” - the past
+3 “time travel” - the future
+4 forgetting usefully
+5 hypnosis with groups
+6 self hypnosis
+7 pain and suffering
+Face to face Workshops
+These can be arranged with 
+me
+ in Hobart and 
+Peter Thorneycroft
+ in Melbourne and involve additional cost. Other locations will be organised depending on numbers. Participants are welcome to repeat this programme without charge at any time in the future without limitation.
+Registration
+ [essential]:
+Programme - SOH 2 on-line 
+Name
+Address
+phone
+email
+Payment 
+		
+$495 [$A450 outside Australia]
+Direct deposit to CBA North Hobart BSB 067 028  Account #1023 2600 Dr Robert McNeilly
+or Credit Card via PayPal 
+country
+	
+Australia $495.00
+	
+Outside Australia $450.00
+ 
+Further learning.
+This programme functions as second of 3 modules of the 
+Diploma of Solution Oriented Hypnosis
+. For details of the third module 
+click here
+.
+cet home
