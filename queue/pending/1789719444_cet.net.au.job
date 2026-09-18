@@ -1,0 +1,10 @@
+target: https://web.archive.org/web/20140530073330/http://www.cet.net.au/
+domain: cet.net.au
+mode: wayback
+path_filter: 
+ts_to: 20140530
+label: 
+offline: false
+to_syncthing: false
+submitted: 2026-09-18T08:17:24Z
+submitted_from: RayMac
