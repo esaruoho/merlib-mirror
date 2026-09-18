@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=Li6h_J3j" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=o9P2E1FK" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("http://web.archive.org/web");
+  __wm.wombat("http://www.cet.net.au/rw_common/themes/realmacsoftware05/images/sidebar_bg.png","20110422151915","http://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1303485555");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+		<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+		<meta name="robots" content="all"/>
+		<link rel="icon" href="http://web.archive.org/web/20110422151915im_/http://www.cet.net.au/registration/favicon.ico" type="image/x-icon"/>
+		<link rel="shortcut icon" href="http://web.archive.org/web/20110422151915im_/http://www.cet.net.au/registration/favicon.ico" type="image/x-icon"/>
+		
+		<title>registration</title>
+		<link rel="stylesheet" type="text/css" media="screen" href="/web/20110422151915cs_/http://www.cet.net.au/rw_common/themes/realmacsoftware05/images/rw_common/themes/sharp/styles.css"/>
+		<link rel="stylesheet" type="text/css" media="print" href="/web/20110422151915cs_/http://www.cet.net.au/rw_common/themes/realmacsoftware05/images/rw_common/themes/sharp/print.css"/>
+		<link rel="stylesheet" type="text/css" media="handheld" href="/web/20110422151915cs_/http://www.cet.net.au/rw_common/themes/realmacsoftware05/images/rw_common/themes/sharp/handheld.css"/>
+		<link rel="stylesheet" type="text/css" media="screen" href="/web/20110422151915cs_/http://www.cet.net.au/rw_common/themes/realmacsoftware05/images/rw_common/themes/sharp/css/width/width_default.css"/>
+		<link rel="stylesheet" type="text/css" media="screen" href="/web/20110422151915cs_/http://www.cet.net.au/rw_common/themes/realmacsoftware05/images/rw_common/themes/sharp/css/sidebar/sidebar_hide.css"/>
+		
+		
+		
+		
+		<script type="text/javascript" src="/web/20110422151915js_/http://www.cet.net.au/rw_common/themes/realmacsoftware05/images/rw_common/themes/sharp/javascript.js"></script>
+		
+		
+		
+	</head>
+<body>
+<div id="container"><!-- Start container -->
+	
+	<div id="pageHeader"><!-- Start page header -->
+		
+		<h1>registration</h1>
+		<h2></h2>
+	</div><!-- End page header -->
+	
+	<div id="sidebarContainer"><!-- Start Sidebar wrapper -->
+		<div id="navcontainer"><!-- Start Navigation -->
+			<ul><li><a href="index.php" rel="self" id="current">registration</a></li></ul>
+		</div><!-- End navigation --> 
+		<div class="clearer"></div>
+		<div id="sidebar"><!-- Start sidebar content -->
+			<h1 class="sideHeader"></h1><!-- Sidebar header -->
+			 <br/><!-- sidebar content you enter in the page inspector -->
+			 <!-- sidebar content such as the blog archive links -->
+		</div><!-- End sidebar content -->
+	</div><!-- End sidebar wrapper -->
+	
+	<div id="contentContainer"><!-- Start main content wrapper -->
+		<div id="content"><!-- Start content -->
+			
+<div class="message-text">Please fill in the form below to send me an email.</div><br/>
+
+<form action="./files/mailer.php" method="post" enctype="multipart/form-data">
+	 <div>
+		<label>Your Name:</label> *<br/>
+		<input class="form-input-field" type="text" value="" name="form[element0]" size="40"/><br/><br/>
+
+		<label>Your Email:</label> *<br/>
+		<input class="form-input-field" type="text" value="" name="form[element1]" size="40"/><br/><br/>
+
+		<label>Subject:</label> *<br/>
+		<input class="form-input-field" type="text" value="" name="form[element2]" size="40"/><br/><br/>
+
+		<label>address</label> <br/>
+		<input class="form-input-field" type="text" value="" name="form[element3]" size="40"/><br/><br/>
+
+		<label>phone</label> <br/>
+		<input class="form-input-field" type="text" value="" name="form[element4]" size="40"/><br/><br/>
+
+		<label>programme</label> *<br/>
+		<input class="form-input-field" type="text" value="" name="form[element5]" size="40"/><br/><br/>
+
+		<label>programme location</label> *<br/>
+		<input class="form-input-field" type="text" value="" name="form[element6]" size="40"/><br/><br/>
+
+		<label>Message:</label> <br/>
+		<textarea class="form-input-field" name="form[element7]" rows="8" cols="38"></textarea><br/><br/>
+
+		<div style="display: none;">
+			<label>Spam Protection: Please don't fill this in:</label>
+			<textarea name="comment" rows="1" cols="1"></textarea>
+		</div>
+		<input type="hidden" name="form_token" value="19216028054db19c726736f"/>
+		<input class="form-input-button" type="reset" name="resetButton" value="Reset"/>
+		<input class="form-input-button" type="submit" name="submitButton" value="Submit"/>
+	</div>
+</form>
+
+<br/>
+<div class="form-footer"></div><br/>
+
+			<div class="clearer"></div>
+		</div><!-- End content -->
+	</div><!-- End main content wrapper -->
+
+	<div id="breadcrumbcontainer"><!-- Start the breadcrumb wrapper -->
+		
+	</div><!-- End breadcrumb -->
+	
+	<div id="footer"><!-- Start Footer -->
+		<p>&copy; 2010 Rob <a href="#" id="rw_email_contact">Contact Me</a><script type="text/javascript">var _rwObsfuscatedHref0 = "mai";var _rwObsfuscatedHref1 = "lto";var _rwObsfuscatedHref2 = ":ro";var _rwObsfuscatedHref3 = "b@c";var _rwObsfuscatedHref4 = "et.";var _rwObsfuscatedHref5 = "net";var _rwObsfuscatedHref6 = ".au";var _rwObsfuscatedHref = _rwObsfuscatedHref0+_rwObsfuscatedHref1+_rwObsfuscatedHref2+_rwObsfuscatedHref3+_rwObsfuscatedHref4+_rwObsfuscatedHref5+_rwObsfuscatedHref6; document.getElementById('rw_email_contact').href = _rwObsfuscatedHref;</script></p>
+	</div><!-- End Footer -->
+
+</div><!-- End container -->
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 15:19:15 Apr 22, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:26:28 Sep 18, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.435
+  exclusion.robots: 0.045
+  exclusion.robots.policy: 0.036
+  esindex: 0.007
+  cdx.remote: 9.952
+  LoadShardBlock: 444.986 (3)
+  PetaboxLoader3.datanode: 452.734 (4)
+  load_resource: 105.635
+  PetaboxLoader3.resolve: 80.228
+-->

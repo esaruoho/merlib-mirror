@@ -1,0 +1,1144 @@
+---
+title: "Principles & seminars"
+source_domain: cet.net.au
+source_path: principles.html
+order: 97
+reachable_from_entry: false
+images: 2
+internal_links: 12
+extracted: 2026-09-18T11:50:33Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Principles & seminars
+
+*Source page: `principles.html`*
+
+CET: Centre of Effective Therapy
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+About Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+Locations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+News
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+Links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+Blogs and Podcasts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+				
+
+
+					
+
+Rob McNeilly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MBBS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+
+Gabrielle Peacock
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MBBS FRACGP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							
+finding a therapist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							
+upcoming workshops
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							
+what's new?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							
+workshops for graduates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							
+newsletter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solution Oriented Counselling
+
+
+
+
+
+
+
+Principles and Practice & Seminar Series
+
+
+
+
+
+
+
+
+with Dr Robert McNeilly and Dr Gabrielle Peacock 
+
+
+
+
+
+
+
+
+
+
+
+The solution oriented approach focuses on solutions right from the
+beginning. While the problem is always acknowledged, we encourage the
+discovery of what will be most useful for the student or their clients
+to move respectfully towards a beneficial outcome. This is achieved
+through a rigorous attention to language skills that encourage gentle
+but profoundly useful changes in our ability to observe, communicate
+and move the therapeutic conversation towards solutions.
+
+
+
+
+
+
+
+Learning is emphasised rather than pathological classification and
+treatment. Clients are assumed  to be capable and resourceful,
+adding to clinical effectiveness with personal and professional
+satisfaction.
+
+
+
+
+
+
+
+This series of workshops will be of interest to all practitioners who
+value client centred approaches to working with human beings.
+Completion of the 2 day principles and practice workshop forms the
+basis for participants to join in any or all of the subsequent seminar
+series throughout 2007 and into the future. This will also provide an
+opportunity to join our free supervision evenings and participate in
+the learning community we are creating. For those who want more, our
+website outlines an array of longer programmes leading to National
+accreditation via ASOCHA to PACFA.
+
+
+
+
+
+
+
+
+The centre of effective therapy
+
+
+
+CET was created in 1988 to offer an opportunity for any interested
+individual to continue their learning in the essential context and
+components of effectiveness of hypnosis, counselling and coaching for
+individuals, couples and families.
+
+
+
+
+
+
+
+Our programmes are built on the widely divergent contributions of such
+giants as Milton Erickson, Humberto Maturana, Fernando Flores, Rafael
+Echeverria, Julio Olalla, Werner Erhard and Lao Tzu and encourage
+creative expansiveness in participating individuals. We explore an
+approach to therapy grounded in the solution orientation and
+emphasizing individual styles and the therapeutic relationship over
+mere technique. 
+
+
+
+
+
+
+
+Traditional learning, which is about information, theories and
+classification, is more widely being seen to be insufficient to prepare
+us for work with patients. Seasoned health workers are seeking out
+learning experience that support the exploration of their own style and
+effectiveness, rather than yet another ‘technique’. 
+
+
+
+
+
+
+
+Our programmes encourage respectful interactions so that shared
+learning experiences of individual differences happen in a safe and
+supportive environment. Participants frequently notice that this leads
+to a pivotal influence not only on their professional work, but also
+their personal lives.
+
+
+
+
+
+
+
+
+We emphasise
+practicality in learning with each individual patient through
+respectful listening and collaboration - in a shared experience for
+what may be missing for them that they have been overlooking, or can
+learn, so that they can take charge of their own experience again. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+    
+
+
+
+      
+
+
+
+      
+seminar series 2007
+
+
+
+      
+
+
+
+    
+
+
+
+    
+
+
+
+      
+
+
+
+      
+9.00 am - 3.00 pm
+
+
+
+      
+
+
+
+    
+
+
+
+    
+
+
+
+      
+principles & practice
+
+
+
+      
+June 14 & 15
+
+
+
+or September 20 & 21
+
+
+      
+
+
+
+      
+$220
+
+
+
+    
+
+
+
+    
+
+
+
+      
+anxiety
+
+
+
+      
+July 12
+
+
+
+      
+$110
+
+
+
+    
+
+
+
+    
+
+
+
+      
+solution oriented hypnosis
+
+
+
+      
+August 10
+
+
+
+      
+$110
+
+
+
+    
+
+
+
+    
+
+
+
+      
+depression
+
+
+
+      
+August 16
+
+
+
+      
+$110
+
+
+
+    
+
+
+
+    
+
+
+
+      
+solution oriented family therapy
+
+
+
+      
+August 28
+
+
+
+      
+$110
+
+
+
+    
+
+
+
+    
+
+
+
+      
+post trauma
+
+
+
+      
+September 25
+
+
+
+      
+$110
+
+
+
+    
+
+
+
+    
+
+
+
+      
+pain management
+
+
+
+      
+October 18
+
+
+
+      
+$110         
+
+
+
+    
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr Robert McNeilly and Dr Gabrielle Peacock
+
+each have a general medical practice background, extensive clinical and
+teaching experience. They each bring a down-to-earth practicality to
+complex dilemmas leading to learning that easily and confidently
+translates into clinical practice.
+
+
+
+
+
+
+
+
+Registration - Solution oriented workshops
+
+
+
+
+
+
+
+Name _____________________________________________________________________
+
+
+
+
+
+
+
+Address ___________________________________________________________________
+
+
+
+
+
+
+
+____________________________________________________________________p/c ___
+
+
+
+
+
+
+
+Phone ____________________________ email ___________________________________
+
+
+
+
+
+
+
+Principles & practice   June 14 & 15 
+o
+    September 20 & 21 
+o
+   November 15 & 16 
+o
+   
+
+
+
+anxiety    
+o
+          
+                 
+  solution oriented hypnosis 
+o
+            depression 
+o
+           solution oriented family therapy 
+o
+               post trauma 
+o
+      pain management 
+o
+               
+
+
+
+
+
+
+
+Payment      Bankcard / Mastercard / Visa (please circle)     
+
+
+
+Name on card ______________________________________________________________
+
+
+
+
+
+
+
+Card number __________________________ Exp  __/__  Signature __________________
+
+
+
+
+
+
+
+Please make cheques payable to Gabrielle Peacock 
+
+
+
+and post to 336 Elizabeth Street North Hobart TAS 7000
+
+
+
+
+
+
+
+Venue:     CET Hobart    
+    The Coach House     336 Elizabeth
+Street        North Hobart
+
+
+
+
+
+
+
+Contact:    Rob McNeilly    0433 273
+352       
+robmcneilly@cet.net.au       
+www.cet.net.au
+
+
+
+                Gabrielle
+Peacock 0418 549 421    gabrielpeacock@cet.net.au 
+www.cet.net.au
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+disclaimer
+ 
+contact us
+ 
+home

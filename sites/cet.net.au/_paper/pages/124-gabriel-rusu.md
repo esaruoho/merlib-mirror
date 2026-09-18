@@ -1,0 +1,89 @@
+---
+title: "Gabriel Rusu"
+source_domain: cet.net.au
+source_path: therapist/styled-3/page7.html
+order: 124
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-09-18T11:50:33Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Gabriel Rusu
+
+*Source page: `therapist/styled-3/page7.html`*
+
+who are we?
+
+		
+
+		
+
+			
+		
+
+	
+
+		
+	
+
+	
+
+		
+
+			
+Gabriel Rusu 
+Registered Psychologist & Clinical Hypnotherapist 
+t
+Mobile: 
+0421 167 716
+Email: 
+grcounselling@gmail.com
+Website: 
+www.grcounselling.com.au
+Gabriel is a Registered Psychologist and Clinical Hypnotherapist, who works with clients from all walks of life. He has been working with 
+children
+ (as young as 5 year old), 
+adolescents
+ and 
+adults
+, including 
+couples
+ and 
+families
+, at various community counselling centres, schools and in his own private practice. 
+Education:
+- Advanced Diploma of Solution Oriented Hypnosis
+- Diploma of Solutions in Hypnosis
+- Graduate Diploma in Counselling and Psychotherapy
+- Bachelor of Arts (Honours) in Psychology
+- Graduate Diploma in Psychology
+- Postgraduate Certificate in Alcohol and Other Drugs
+Deeply committed to understanding every client in their unique context and phase of life, Gabriel uses interventions from many therapies, skilfully tailoring them to the specific needs of the clients. 
+Gabriel is an Associate Member of APS (Australian Psychological Society) and a Professional Member of AHA (Australian Hypnotherapists Association).
+Gabriel has a special interest in Ericksonian Hypnotherapy and uses his knowledge and experience to reconnect people with their own healing resources, through the gentle use of hypnosis. Gabriel is proud to having been introduced to Ericksonian Hypnotherapy by Dr Rob McNeilly, a student of Milton H. Erickson and the founder of CET. To advance his skills and knowledge in using hypnosis with respect to the legacy of the father of modern Hypnotherapy, Gabriel has completed Diploma of Solutions in Hypnosis and an Advanced Diploma of Solution Oriented Hypnosis, both with CET – The Milton H. Erickson Institute of Tasmania.  
+Gabriel uses hypnotherapy to help 
+individuals
+ deal effectively with a broad range of issues such as:
+Anxiety, panic attacks
+Fears and phobias (e.g. Fear of public speaking, Fear of flying, Fear of heights, Agoraphobia, Social phobia, Fear of vomiting)
+Depression
+Trauma and PTSD
+Self esteem and self confidence
+Sexual dysfunctions 
+Insomnia
+Weight management
+By using hypnotherapy in his work with 
+children
+, Gabriel can help them overcome various issues such as bed-wetting, bullying and its negative effects on self-esteem, school refusal, separation anxiety or other fears common at a young age.
+Gabriel also helps 
+adolescents
+ negotiate various age-specific relationships, improve their self-image and self-esteem and increase the trust in their own abilities to solve various life problems. In an increasingly demanding world, where “being perfect is just not enough”, Gabriel has included hypnotherapy in his repertoire of strategies to be used with adolescents
+ 
+in order to equip them with the necessary skills to overcome various anxieties, such as the common exam anxiety.   
+Gabriel practices in Melbourne CBD and Endeavour Hills (Melbourne South East).
+Medicare and private health funds rebates may be available for a range of psychological services and hypnotherapy services provided by Gabriel. Please see his website for further details on eligibility.
+Consulting rooms: 
+Suite 2, Level 1, 253 Lonsdale Street, Melbourne, and
+11 Sienna Crescent, Endeavour Hills

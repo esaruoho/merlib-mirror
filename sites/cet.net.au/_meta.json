@@ -1,0 +1,23 @@
+{
+  "source": "web.archive.org",
+  "domain": "cet.net.au",
+  "mirror_date": "2026-09-18T14:50:15.513657",
+  "total_urls": 1028,
+  "downloaded": 428,
+  "failed": 512,
+  "files": 898,
+  "file_types": {
+    ".html": 128,
+    ".txt": 267,
+    ".jpg": 255,
+    ".htc": 4,
+    ".gif": 28,
+    ".png": 61,
+    ".css": 120,
+    ".js": 28,
+    ".ico": 4,
+    ".swf": 1,
+    ".mp3": 1,
+    ".jpeg": 1
+  }
+}

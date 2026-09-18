@@ -1,0 +1,90 @@
+---
+title: "accommodation | Locations"
+source_domain: cet.net.au
+source_path: locations/page3/page19/page19.html
+order: 53
+reachable_from_entry: false
+images: 0
+internal_links: 0
+extracted: 2026-09-18T11:50:33Z
+extractor: site_to_paper.py (builtin)
+---
+
+# accommodation | Locations
+
+*Source page: `locations/page3/page19/page19.html`*
+
+Locations
+
+		
+
+	
+
+	
+	
+
+		
+	
+
+	
+	
+
+		
+
+			
+		
+ 
+		
+		
+
+			
+
+			 
+
+			 
+
+		
+
+	
+
+	
+	
+
+		
+
+			
+Eagle Hawk Inn Hotel		381 Elizabeth Street North Hobart   [03] 6236 9448  mob 0423 837 163  
+						Fax [03] 6234 7805  email KHLee@yahoo.co.tw
+						Tariff $50	shared bathroom, kitchen
+						20 minutes walk to the workshop
+Harrington's 102			102 Harrington Street Hobart TAS 7000 [03] 6234 9277 
+www.harringtons102.com.au 
+						15 minutes walk to workshop
+Hobart Midcity Hotel			Cnr Elizabeth & Bathurst Streets Hobart  [03] 6234 6333  1800 030 966  Fax [03] 6231 0898  
+www.hobartmidcity.com.au
+						Tariff $99 - breakfast extra $10 - $12
+						15 minutes walk to workshop
+The Elms of Hobart			452 Elizabeth Street, North Hobart  [03] 62331 3277  Fax [03] 6231 3276  email 
+stay@theelmsofhobart.com
+  						
+www.theelmsofhobart.com
+						Tariff  $140 - $180  ensuite bathroom
+						15 minutes walk to the workshop
+Jane Cottage				8 Pitt Street, North Hobart [03] 6293 2056 email reservations@janecottage.com.au  
+http://www.janecottage.com.au/index.htm
+						Tarrif $140 / night [varies]
+						15 minutes walk to the workshop
+Mercure Hotel Hobart		156 Bathurst Street Hobart [03] 6232 6255  Fax [03] 6234 7884 
+ http://www.accorhotels.com.au/Mercure-Hobart/default_en.aspx
+						Tariff $119 - $250
+						15 minutes walk to workshop
+Argyle Motor Lodge			Cnr Argyle & Lewis Streets, North Hobart [03] 6234 1800 811 504 
+www.argylemotorlodge.com.au
+						Tariff $108 - $132 [room only]
+						20 minutes walk to the workshop
+The Tower Motel			300 Park Street New Town [03] 6228 0166
+						Tariff $78 - $88		Motel rooms
+						20 minutes walk to the workshop
+More options				
+http://www.about-australia.com/travel-guides/tasmania/hobart/accommodation/in/north-hobart
+return to CET home

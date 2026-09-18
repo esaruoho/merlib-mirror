@@ -1,0 +1,371 @@
+---
+title: "Sarah De Jonge"
+source_domain: cet.net.au
+source_path: Sarah_De_Jonge.html
+order: 12
+reachable_from_entry: false
+images: 3
+internal_links: 11
+extracted: 2026-09-18T11:50:33Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Sarah De Jonge
+
+*Source page: `Sarah_De_Jonge.html`*
+
+CET:
+Centre of Effective Therapy
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+About Us
+
+
+
+
+  
+Locations
+
+
+
+
+  
+MHEIT
+
+
+
+
+  
+Resources
+
+
+
+
+  
+News
+
+
+
+
+  
+Links
+
+
+
+
+  
+Contact Us
+
+
+
+
+  
+Blogs and Podcasts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rob McNeilly
+
+
+
+
+
+MBBS
+
+
+
+
+
+Gabrielle Peacock
+
+
+
+
+
+MBBS FRACGP
+
+
+
+
+
+
+
+
+
+
+
+  
+finding a therapist
+
+
+
+
+  
+The Milton H Erickson Istitute of
+Tasmania
+
+
+
+
+  
+
+
+
+
+  
+what's
+new?
+
+
+
+
+  
+workshops for graduates
+
+
+
+
+  
+newsletter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sarah De Jonge
+ - Counselling for children, adolescents and adults.
+
+BA, Grad DipSc - Psychology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"We can never really change someone; people change themselves. 
+
+
+But we can help. We can be a resource." 
+
+
+Stephen R. Covey
+ 
+
+
+
+
+
+Usually people seek counselling because they have become stuck and are
+uncertain about the best direction to follow. This can lead to boredom,
+frustration, or despair. In these moments of uncertainty, I can help
+you explore your situation, clarify the direction you wish to take and
+discover your next step. I believe there is no set pathway in life, but
+that each step we take creates a path that is uniquely our own. 
+
+
+
+I began my studies with the Centre of Effective Therapy in 2005 and
+have completed Diplomas in Solution Oriented Counselling and Family
+Therapy. Along the way I gained three years practical experience
+counselling and teaching with the Client-Centred model, and received a
+Graduate Diploma of Science, specialising in Psychology. I am currently
+continuing my education and training by furthering my studies in
+Psychology at UTas and exploring hypnotherapy at CET.
+
+. 
+
+While my qualifications and experience provide a solid foundation for
+my work, you will find my approach highly progressive and at times
+unconventional. Ultimately, I am passionate about using my skills to
+help you connect with what is most helpful for you as an individual.
+It’s all about opening up new perspectives, creating
+possibilities and generating momentum in your life.
+
+
+
+I am always happy to consult with new clients of all ages, and will work with individuals, couples or families.
+
+
+
+Phone: 0409 481 422 
+
+Email: 
+sarah.dejonge@bigpond.com
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+copyright
+ 
+disclaimer
+ 
+contact us
+ 
+home

@@ -1,0 +1,3 @@
+target: https://web.archive.org/web/*/cet.net.au/*
+mode: wayback
+mirror_date: 2026-09-18T11:50:15Z

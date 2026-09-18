@@ -1,0 +1,67 @@
+---
+title: "Anna Mickelburgh"
+source_domain: cet.net.au
+source_path: therapist/styled-2/page24.html
+order: 123
+reachable_from_entry: false
+images: 1
+internal_links: 0
+extracted: 2026-09-18T11:50:33Z
+extractor: site_to_paper.py (builtin)
+---
+
+# Anna Mickelburgh
+
+*Source page: `therapist/styled-2/page24.html`*
+
+who are we?
+
+		
+
+		
+
+			
+		
+
+	
+
+		
+	
+
+	
+
+		
+
+			
+ 
+Anna Mickelburgh
+B.A. Psychology and Welfare
+Adv. Diploma in Clinical Hypnotherapy
+17 years experience counseling individuals, couples and families.
+ 
+I practice solution-focused hypnotherapy and enjoy working with clients who are motivated and ready for change. I find it exciting and rewarding. 
+Often hypnotherapy works in a way that assists clients quickly to find ways to make healthy changes in their lives. These changes can include motivation to develop improved fitness levels, working to develop satisfying relationships or simply better managing the daily stresses of life. 
+Hypnotherapy works by allowing effective solutions to become more obvious to clients. These solutions may have been there for some time but the person has not noticed that door is open for them.
+Please call 0416915240 if you would like to discuss this process further and/or make an appointment.
+I can also be contacted at 
+annascounselling@hotmail.com
+.
+My office is in the professional suites at New Farm Village, 85 Merthyr Rd. New Farm.
+I am available for appointments on Saturdays from 9am to 5pm.
+There is plenty of parking underground at the shopping complex and there are cafes there as well. 
+I would enjoy facilitating the change you would like to make in your life.
+
+			
+
+		
+
+	
+
+	
+
+		
+
+			
+
+			
+a
